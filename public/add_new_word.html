@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dodaj Nowe Słowo</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Dodaj Nowe Słowo</h2>
+        <form id="dataForm">
+            <div class="form-group">
+                <label for="file">Wybierz plik</label>
+                <select class="form-control" id="file" required></select>
+            </div>
+            <div class="form-group">
+                <label for="language">Język</label>
+                <select class="form-control" id="language" required>
+                    <option value="en">English</option>
+                    <option value="es">Español</option>
+                    <option value="pl">Polski</option>
+                    <option value="ru">Русский</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="translationLanguage">Język Tłumaczenie</label>
+                <select class="form-control" id="translationLanguage" required>
+                    <option value="en">English</option>
+                    <option value="es">Español</option>
+                    <option value="pl">Polski</option>
+                    <option value="ru">Русский</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="word">Słowo</label>
+                <input type="text" class="form-control" id="word" required>
+            </div>
+            <div class="form-group">
+                <label for="translation">Tłumaczenie</label>
+                <input type="text" class="form-control" id="translation" required>
+            </div>
+            <div class="form-group">
+                <label for="definition">Definicja słowa</label>
+                <input type="text" class="form-control" id="definition" required>
+            </div>
+            <div class="form-group">
+                <label for="example">Przykład użycia</label>
+                <input type="text" class="form-control" id="example" required>
+            </div>
+            <div class="form-group">
+                <label for="imageLink">Link do obrazka</label>
+                <input type="url" class="form-control" id="imageLink" required>
+            </div>
+            <div class="form-group">
+                <label for="audioLink">Link do ścieżki dźwiękowej</label>
+                <input type="url" class="form-control" id="audioLink" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Zapisz</button>
+        </form>
+    </div>
+
+    <script>
+        function loadFiles() {
+            fetch('/files')
+                .then(response => response.json())
+                .then(files => {
+                    const fileSelect = document.getElementById('file');
+                    fileSelect.innerHTML = files.map(file => `<option value="${file}">${file}</option>`).join('');
+                });
+        }
+
+        document.getElementById('dataForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const data = {
+                file: document.getElementById('file').value,
+                language: document.getElementById('language').value,
+                translationLanguage: document.getElementById('translationLanguage').value,
+                word: document.getElementById('word').value,
+                translation: document.getElementById('translation').value,
+                definition: document.getElementById('definition').value,
+                example: document.getElementById('example').value,
+                imageLink: document.getElementById('imageLink').value,
+                audioLink: document.getElementById('audioLink').value,
+            };
+
+            fetch('/save', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Dane zapisane pomyślnie!');
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        });
+
+        window.onload = loadFiles;
+    </script>
+</body>
+</html>
