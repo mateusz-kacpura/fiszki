@@ -36,5 +36,3 @@ A flashcard application for learning new words quickly and efficiently.
 The image file `Language Quiz.png` is located in the `img` folder. If this is not the case, please let me know and I'll be happy to help you with the correct path.
 
 ---
-
-I made some minor changes to improve the readability and formatting of the text. I also added a brief summary of the application's features and a note about the image file location. Let me know if you have any further requests!
