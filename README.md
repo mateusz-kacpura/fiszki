@@ -31,8 +31,4 @@ A flashcard application for learning new words quickly and efficiently.
 - `edit_list_words.html`: Edit and add new words in JSON format
 - `index.html`: The learning panel
 
-## Note
-
-The image file `Language Quiz.png` is located in the `img` folder. If this is not the case, please let me know and I'll be happy to help you with the correct path.
-
 ---
