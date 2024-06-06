@@ -2,7 +2,7 @@
 
 A flashcard application for learning new words quickly and efficiently.
 
-![Language Quiz](img/Language Quiz.png)
+![Language Quiz]img/Language Quiz.png)
 
 ## Features
 
