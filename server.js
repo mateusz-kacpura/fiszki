@@ -15,7 +15,7 @@ const imageFolderPath = path.join(__dirname, 'image_files');
 const audioFolderPath = path.join(__dirname, 'audio_files');
 const logFolderPath = path.join(__dirname, 'logi');
 const uploadDir = path.join(__dirname, 'uploads');
-const jsonDir = path.join(__dirname, 'data');
+const jsonDir = path.join(__dirname, 'uploads');
 const jsonExt = '.json';
 
 app.use(express.static('public'));
@@ -109,33 +109,16 @@ if (!fs.existsSync(logFolderPath)) {
 }
 
 app.post('/save', (req, res) => {
-    const newData = req.body;
-    const file = newData.file;
-    delete newData.file;
+    const { fileName, jsonData } = req.body;
+    const jsonFilePath = path.join(jsonDir, fileName);
 
-    const jsonFilePath = path.join(jsonDir, `${file}${jsonExt}`);
-
-    fs.readFile(jsonFilePath, 'utf8', (err, data) => {
-        if (err && err.code !== 'ENOENT') {
-            console.error('Błąd podczas czytania pliku:', err);
+    fs.writeFile(jsonFilePath, JSON.stringify(jsonData, null, 2), (err) => {
+        if (err) {
+            console.error('Błąd podczas zapisywania pliku JSON:', err);
             return res.status(500).json({ error: 'Błąd serwera' });
         }
 
-        let jsonData = [];
-        if (data) {
-            jsonData = JSON.parse(data);
-        }
-
-        jsonData.push(newData);
-
-        fs.writeFile(jsonFilePath, JSON.stringify(jsonData, null, 2), (err) => {
-            if (err) {
-                console.error('Błąd podczas zapisywania pliku:', err);
-                return res.status(500).json({ error: 'Błąd serwera' });
-            }
-
-            res.json({ message: 'Dane zapisane pomyślnie' });
-        });
+        res.json({ message: 'Dane zapisane pomyślnie jako JSON' });
     });
 });
 
@@ -206,21 +189,12 @@ app.post('/upload', upload.single('file'), (req, res) => {
     const workbook = xlsx.readFile(filePath);
     const sheetName = workbook.SheetNames[0];
     const sheet = workbook.Sheets[sheetName];
-    const data = xlsx.utils.sheet_to_json(sheet, { defval: '' });  // Ensure no `undefined` values
+    const data = xlsx.utils.sheet_to_json(sheet, { defval: '' });
 
-    const fileName = req.file.originalname.replace(path.extname(req.file.originalname), '');
-    const jsonFilePath = path.join(jsonDir, `${fileName}${jsonExt}`);
+    const columns = Object.keys(data[0]);
 
-    fs.writeFile(jsonFilePath, JSON.stringify(data, null, 2), (err) => {
-        if (err) {
-            console.error('Błąd podczas zapisywania pliku JSON:', err);
-            return res.status(500).json({ error: 'Błąd serwera' });
-        }
-
-        res.json({ message: 'Dane wczytane pomyślnie' });
-    });
+    res.json({ columns });
 });
-
 
 app.post('/tts', (req, res) => {
   const { word, languageCode } = req.body;
@@ -230,7 +204,7 @@ app.post('/tts', (req, res) => {
     audioConfig: { audioEncoding: 'LINEAR16' },
   };
 
-  client.synthesizeSpeech(request, (err, response) => {
+client.synthesizeSpeech(request, (err, response) => {
     if (err) {
       console.error('Error generating audio:', err);
       res.status(500).send('Error generating audio');

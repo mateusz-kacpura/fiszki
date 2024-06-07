@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Language Quiz</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+   .centered {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+   .word-to-translate, .user-translation {
+      font-weight: bold;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    .answer-buttons {
+      margin-top: 20px;
+    }
+    .answer-buttons .btn {
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-5" id="main-container">
+    <h1 class="text-center mb-4">Language Quiz</h1>
+    <div class="form-group">
+      <label for="fileInput">Select JSON File:</label>
+      <input type="file" class="form-control-file" id="fileInput" accept=".json">
+    </div>
+    <button class="btn btn-primary" onclick="fetchData()">Load Data</button>
+    <button class="btn btn-secondary" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+    <button class="btn btn-info" onclick="toggleDirection()">Toggle Direction</button>
+
+    <div id="quiz" style="display: none;">
+      <div class="card mt-3">
+        <div class="card-body text-center">
+          <h5 class="card-title">Translate the word:</h5>
+          <p class="word-to-translate" id="word"></p>
+          <div class="answer-buttons" id="answer-buttons"></div>
+          <button class="btn btn-success" onclick="generateRandomWord()">Next Word</button>
+          <p id="result" class="mt-3"></p>
+        </div>
+      </div>
+    </div>
+    <div id="example-sentence">
+      <p id="example-sentence-text" style="color: red;"></p><span id="example-sentence-text-content"></span></p>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS and jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <script>
+    let words = [];
+    let theme = 'light'; // default theme
+    let reverseDirection = false;
+
+    document.addEventListener('keydown', function(event) {
+      if (event.key >= '1' && event.key <= '5') {
+        const index = parseInt(event.key) - 1;
+        const buttons = document.querySelectorAll('.answer-buttons .btn');
+        if (buttons[index]) {
+          buttons[index].click();
+        }
+      }
+      if (event.key === 'Enter') {
+        if (document.getElementById('translation').value.trim() === '') {
+          handleEnterKey();
+        } else {
+          checkTranslation();
+        }
+      } else if (event.key === 'ArrowRight') {
+        generateRandomWord();
+      }
+    });
+
+    function fetchData() {
+      const fileInput = document.getElementById('fileInput');
+      const file = fileInput.files[0];
+      if (!file) {
+        console.error('No file selected.');
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.onload = function(event) {
+        const fileContent = event.target.result;
+        try {
+          words = JSON.parse(fileContent);
+          console.log('Data loaded successfully:', words);
+          document.getElementById('quiz').style.display = 'block';
+          generateRandomWord();
+        } catch (error) {
+          console.error('Error parsing JSON:', error);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    function generateRandomWord() {
+      const randomIndex = Math.floor(Math.random() * words.length);
+      const randomWord = words[randomIndex];
+      document.getElementById('result').textContent = '';
+      document.getElementById('example-sentence-text').textContent = `${randomWord.example}`;
+
+      if (reverseDirection) {
+        document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.translation}</span>`;
+        generateAnswerButtons(randomWord, 'translation');
+      } else {
+        document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.word}</span>`;
+        generateAnswerButtons(randomWord, 'word');
+      }
+    }
+
+    function generateAnswerButtons(correctWord, direction) {
+      const answerButtonsDiv = document.getElementById('answer-buttons');
+      answerButtonsDiv.innerHTML = '';
+
+      const correctAnswer = direction === 'word' ? correctWord.translation : correctWord.word;
+      const answers = [correctAnswer];
+      while (answers.length < 5) {
+        const randomIndex = Math.floor(Math.random() * words.length);
+        const randomAnswer = direction === 'word' ? words[randomIndex].translation : words[randomIndex].word;
+        if (!answers.includes(randomAnswer)) {
+          answers.push(randomAnswer);
+        }
+      }
+
+      // Shuffle answers
+      answers.sort(() => Math.random() - 0.5);
+
+      answers.forEach((answer, index) => {
+        const button = document.createElement('button');
+        button.className = 'btn btn-outline-primary';
+        button.textContent = `${index + 1}. ${answer}`;
+        button.onclick = () => checkTranslation(answer, correctAnswer);
+        answerButtonsDiv.appendChild(button);
+      });
+    }
+
+    function checkTranslation(userTranslation, correctTranslation) {
+      const resultElement = document.getElementById('result');
+      if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
+        console.log('Correct translation.');
+        resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
+      } else {
+        console.log('Incorrect translation.');
+        resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
+      }
+    }
+
+    function toggleTheme() {
+      if (theme === 'light') {
+        theme = 'dark';
+        document.body.classList.add('bg-dark');
+        document.body.classList.add('text-light');
+        document.getElementById('main-container').classList.add('bg-dark');
+        document.getElementById('main-container').classList.add('text-light');
+        document.querySelectorAll('.card').forEach(card => {
+          card.classList.add('bg-dark');
+          card.classList.add('text-light');
+        });
+        document.querySelectorAll('input').forEach(input => {
+          input.classList.add('bg-dark');
+          input.classList.add('text-light');
+        });
+      } else {
+        theme = 'light';
+        document.body.classList.remove('bg-dark');
+        document.body.classList.remove('text-light');
+        document.getElementById('main-container').classList.remove('bg-dark');
+        document.getElementById('main-container').classList.remove('text-light');
+        document.querySelectorAll('.card').forEach(card => {
+          card.classList.remove('bg-dark');
+          card.classList.remove('text-light');
+        });
+        document.querySelectorAll('input').forEach(input => {
+          input.classList.remove('bg-dark');
+          input.classList.remove('text-light');
+        });
+      }
+    }
+
+    function toggleDirection() {
+      reverseDirection = !reverseDirection;
+      generateRandomWord();
+    }
+  </script>
+</body>
+</html>

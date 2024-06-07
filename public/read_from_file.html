@@ -1,42 +1,202 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wczytaj Dane z Pliku Excel</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-    <div class="container mt-5">
-        <h2>Wczytaj Dane z Pliku Excel</h2>
-        <form id="uploadForm" enctype="multipart/form-data">
-            <div class="form-group">
-                <label for="excelFile">Wybierz plik Excel</label>
-                <input type="file" class="form-control" id="excelFile" accept=".xls,.xlsx" required>
-            </div>
-            <button type="submit" class="btn btn-primary">Wczytaj</button>
-        </form>
-    </div>
+<!-- Nie działą na razie zapisywanie pliku po wciśnięciu przycisku ostateczny zapis wywalany jest błąd -->
 
-    <script>
-        document.getElementById('uploadForm').addEventListener('submit', function(event) {
-            event.preventDefault();
-
-            const formData = new FormData();
-            formData.append('file', document.getElementById('excelFile').files[0]);
-
-            fetch('/upload', {
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Wczytaj Dane z Pliku Excel</title>
+     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+     <style>
+         .match { background-color: #d4edda; }
+         .mismatch { background-color: #f8d7da; }
+     </style>
+ </head>
+ <body>
+     <div class="container mt-5">
+         <h2>Wczytaj Dane z Pliku Excel</h2>
+         <form id="uploadForm" enctype="multipart/form-data">
+             <div class="form-group">
+                 <label for="excelFile">Wybierz plik Excel</label>
+                 <input type="file" class="form-control" id="excelFile" accept=".xls,.xlsx" required>
+             </div>
+             <button type="submit" class="btn btn-primary">Wczytaj</button>
+         </form>
+         <div id="mappingSection" class="mt-5" style="display: none;">
+             <h3>Mapowanie Kolumn</h3>
+             <form id="mappingForm">
+                 <!-- Mapping fields will be added dynamically here -->
+             </form>
+             <div class="form-group">
+                 <h3>Zapisywanie pliku</h3>
+                 <input type="text" id="fileName" placeholder="Enter file name (with .json)" class="form-control">
+             </div>
+             <button id="saveChanges" class="btn btn-primary mt-3">Save Changes</button>
+         </div>
+     </div>
+ 
+     <script>
+         const template = {
+             "language": "",
+             "translationLanguage": "",
+             "word": "",
+             "translation": "",
+             "definition": "",
+             "example": "",
+             "imageLink": "",
+             "audioLink": ""
+         };
+ 
+         let excelData = [];  // This will hold the Excel data
+ 
+         document.getElementById('uploadForm').addEventListener('submit', function(event) {
+             event.preventDefault();
+ 
+             const formData = new FormData();
+             formData.append('file', document.getElementById('excelFile').files[0]);
+ 
+             fetch('/upload', {
+                 method: 'POST',
+                 body: formData
+             })
+             .then(response => response.json())
+             .then(data => {
+                 excelData = data.rows;  // Store the Excel data
+                 displayMappingForm(data.columns);
+             })
+             .catch((error) => {
+                 console.error('Error:', error);
+             });
+         });
+ 
+         function displayMappingForm(columns) {
+             const mappingForm = document.getElementById('mappingForm');
+             mappingForm.innerHTML = '';
+ 
+             Object.keys(template).forEach(field => {
+                 const div = document.createElement('div');
+                 div.className = 'form-group';
+ 
+                 const label = document.createElement('label');
+                 label.textContent = `Mapuj do "${field}"`;
+ 
+                 const select = document.createElement('select');
+                 select.className = 'form-control';
+                 select.name = field;
+ 
+                 const emptyOption = document.createElement('option');
+                 emptyOption.value = '';
+                 emptyOption.textContent = '';
+                 select.appendChild(emptyOption);
+ 
+                 const noneOption = document.createElement('option');
+                 noneOption.value = 'none';
+                 noneOption.textContent = 'Brak';
+                 select.appendChild(noneOption);
+ 
+                 columns.forEach(col => {
+                     const option = document.createElement('option');
+                     option.value = col;
+                     option.textContent = col;
+                     select.appendChild(option);
+                 });
+ 
+                 select.addEventListener('change', () => {
+                     checkMapping(select, field);
+                 });
+ 
+                 div.appendChild(label);
+                 div.appendChild(select);
+                 mappingForm.appendChild(div);
+             });
+ 
+             document.getElementById('mappingSection').style.display = 'block';
+         }
+ 
+         function checkMapping(select, field) {
+             const value = select.value;
+             const match = Object.keys(template).includes(field) && (value || value === 'none');
+             if (match) {
+                 select.classList.add('match');
+                 select.classList.remove('mismatch');
+             } else {
+                 select.classList.add('mismatch');
+                 select.classList.remove('match');
+             }
+         }
+ 
+        document.getElementById('saveChanges').addEventListener('click', function() {
+            console.log('saveChanges button clicked');
+            
+            const formData = new FormData(document.getElementById('mappingForm'));
+            console.log('FormData:', formData);
+            
+            const jsonData = [];
+            console.log('jsonData array initialized');
+            
+            const fileName = document.getElementById('fileName').value;
+            console.log('File name:', fileName);
+            
+            excelData.forEach(row => {
+                console.log('Processing row:', row);
+                const newRow = {};
+                console.log('Initializing new row');
+                formData.forEach((value, key) => {
+                console.log(`Processing key: ${key}, value: ${value}`);
+                newRow[key] = value && value !== 'none' ? row[value] : '';  // Map to empty string if 'none' selected
+                console.log(`Mapped key: ${key} to value: ${newRow[key]}`);
+                });
+                jsonData.push(newRow);
+                console.log('Added new row to jsonData:', jsonData);
+            });
+            
+            console.log('jsonData:', jsonData);
+            
+            fetch('/save', {
                 method: 'POST',
-                body: formData
+                headers: {
+                'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ fileName, jsonData })
             })
             .then(response => response.json())
             .then(data => {
-                alert('Dane wczytane pomyślnie!');
+                console.log('Response:', data);
+                alert('Dane zapisane pomyślnie jako JSON!');
             })
             .catch((error) => {
                 console.error('Error:', error);
             });
         });
-    </script>
-</body>
-</html>
+     </script>
+ </body>
+ </html>
+ 
+
+ 
+ 
+
+ <!-- Konieczne będzie też dostosowanie backendu -->
+
+<!-- 
+app.post('/upload', upload.single('file'), (req, res) => {
+    const filePath = req.file.path;
+
+    const workbook = xlsx.readFile(filePath);
+    const sheetName = workbook.SheetNames[0];
+    const sheet = workbook.Sheets[sheetName];
+    const data = xlsx.utils.sheet_to_json(sheet, { defval: '' });  // Ensure no `undefined` values
+
+    const fileName = req.file.originalname.replace(path.extname(req.file.originalname), '');
+    const jsonFilePath = path.join(jsonDir, `${fileName}${jsonExt}`);
+
+    fs.writeFile(jsonFilePath, JSON.stringify(data, null, 2), (err) => {
+        if (err) {
+            console.error('Błąd podczas zapisywania pliku JSON:', err);
+            return res.status(500).json({ error: 'Błąd serwera' });
+        }
+
+        res.json({ message: 'Dane wczytane pomyślnie' });
+    });
+});
+-->
