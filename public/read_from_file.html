@@ -172,31 +172,3 @@
  </body>
  </html>
  
-
- 
- 
-
- <!-- Konieczne będzie też dostosowanie backendu -->
-
-<!-- 
-app.post('/upload', upload.single('file'), (req, res) => {
-    const filePath = req.file.path;
-
-    const workbook = xlsx.readFile(filePath);
-    const sheetName = workbook.SheetNames[0];
-    const sheet = workbook.Sheets[sheetName];
-    const data = xlsx.utils.sheet_to_json(sheet, { defval: '' });  // Ensure no `undefined` values
-
-    const fileName = req.file.originalname.replace(path.extname(req.file.originalname), '');
-    const jsonFilePath = path.join(jsonDir, `${fileName}${jsonExt}`);
-
-    fs.writeFile(jsonFilePath, JSON.stringify(data, null, 2), (err) => {
-        if (err) {
-            console.error('Błąd podczas zapisywania pliku JSON:', err);
-            return res.status(500).json({ error: 'Błąd serwera' });
-        }
-
-        res.json({ message: 'Dane wczytane pomyślnie' });
-    });
-});
--->
