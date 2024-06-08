@@ -17,6 +17,7 @@ const logFolderPath = path.join(__dirname, 'logi');
 const uploadDir = path.join(__dirname, 'uploads');
 const jsonDir = path.join(__dirname, 'uploads');
 const jsonExt = '.json';
+const STATISTICS_FILE = path.join(__dirname, 'statistic', 'statistics.json');
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
@@ -119,6 +120,39 @@ app.post('/save', (req, res) => {
         }
 
         res.json({ message: 'Dane zapisane pomyślnie jako JSON' });
+    });
+});
+
+app.post('/save_statistic', (req, res) => {
+    const statistic = req.body;
+    console.log('Received statistic:', statistic);
+
+    fs.readFile(STATISTICS_FILE, 'utf8', (err, data) => {
+        if (err && err.code === 'ENOENT') {
+            // Plik nie istnieje, utwórz nowy plik
+            return fs.writeFile(STATISTICS_FILE, JSON.stringify([statistic], null, 2), (err) => {
+                if (err) {
+                    console.error('Error writing file:', err);
+                    return res.status(500).json({ error: 'Internal Server Error' });
+                }
+                return res.status(200).json({ message: 'Statistic saved successfully.' });
+            });
+        } else if (err) {
+            console.error('Error reading file:', err);
+            return res.status(500).json({ error: 'Internal Server Error' });
+        }
+
+        // Plik istnieje, dodaj nową statystykę
+        const statistics = JSON.parse(data);
+        statistics.push(statistic);
+
+        fs.writeFile(STATISTICS_FILE, JSON.stringify(statistics, null, 2), (err) => {
+            if (err) {
+                console.error('Error writing file:', err);
+                return res.status(500).json({ error: 'Internal Server Error' });
+            }
+            return res.status(200).json({ message: 'Statistic saved successfully.' });
+        });
     });
 });
 

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "przesuwając w ten sposób granice wiedzy",
+    "correct": true,
+    "timestamp": "2024-06-08T08:51:21.340Z"
+  },
+  {
+    "word": "przesuwając w ten sposób granice wiedzy",
+    "correct": false,
+    "timestamp": "2024-06-08T08:51:42.741Z"
+  },
+  {
+    "word": "wzrasta",
+    "correct": true,
+    "timestamp": "2024-06-08T08:51:45.092Z"
+  },
+  {
+    "word": "wzrasta",
+    "correct": true,
+    "timestamp": "2024-06-08T08:58:24.903Z"
+  },
+  {
+    "word": "odpowiedni wykres",
+    "correct": true,
+    "timestamp": "2024-06-08T08:58:34.023Z"
+  },
+  {
+    "word": "że na tym polega mieszanie się idei i wzajemne zapładnianie myśli, która z tego wypływa",
+    "correct": false,
+    "timestamp": "2024-06-08T08:58:46.564Z"
+  },
+  {
+    "word": "polega na tym mieszaniu się pomysłów i wzajemnej inspiracji",
+    "correct": true,
+    "timestamp": "2024-06-08T08:58:48.233Z"
+  },
+  {
+    "word": "niezwykle ostrożny",
+    "correct": true,
+    "timestamp": "2024-06-08T08:58:55.627Z"
+  },
+  {
+    "word": "habits",
+    "correct": true,
+    "timestamp": "2024-06-08T08:59:06.233Z"
+  },
+  {
+    "word": "habits",
+    "correct": true,
+    "timestamp": "2024-06-08T08:59:15.946Z"
+  },
+  {
+    "word": "deal with",
+    "correct": true,
+    "timestamp": "2024-06-08T09:01:07.890Z"
+  }
+]
