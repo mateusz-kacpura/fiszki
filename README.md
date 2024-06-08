@@ -14,11 +14,17 @@ A flashcard application for learning new words quickly and efficiently.
 
 1. Install the application using npm:
     ```bash
-    npm install
+    pip install flask flask_cors werkzeug openpyxl
+ 
     ```
 2. Run the server:
     ```bash
-    node server.js
+    python app.py
+    ```
+
+3. Page is avaible
+    ```bash
+    http://localhost:3000/multi_select.html
     ```
 
 ## Documentation
