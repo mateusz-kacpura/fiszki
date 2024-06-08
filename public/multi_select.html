@@ -7,13 +7,13 @@
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <style>
-   .centered {
+    .centered {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
     }
-   .word-to-translate, .user-translation {
+    .word-to-translate, .user-translation {
       font-weight: bold;
       font-size: 24px;
       margin-bottom: 10px;
@@ -36,6 +36,7 @@
     <button class="btn btn-primary" onclick="fetchData()">Load Data</button>
     <button class="btn btn-secondary" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
     <button class="btn btn-info" onclick="toggleDirection()">Toggle Direction</button>
+    <button class="btn btn-danger" onclick="removeCurrentWord()">Remove Word</button>
 
     <div id="quiz" style="display: none;">
       <div class="card mt-3">
@@ -60,6 +61,7 @@
 
   <script>
     let words = [];
+    let excludedWords = []; // Initialize excludedWords
     let theme = 'light'; // default theme
     let reverseDirection = false;
 
@@ -105,9 +107,17 @@
       reader.readAsText(file);
     }
 
+    let currentWord = null;
+
     function generateRandomWord() {
-      const randomIndex = Math.floor(Math.random() * words.length);
-      const randomWord = words[randomIndex];
+      const availableWords = words.filter(word => !excludedWords.includes(word.word));
+      if (availableWords.length === 0) {
+        document.getElementById('result').textContent = 'No more words to study.';
+        return;
+      }
+      const randomIndex = Math.floor(Math.random() * availableWords.length);
+      const randomWord = availableWords[randomIndex];
+      currentWord = randomWord.word;
       document.getElementById('result').textContent = '';
       document.getElementById('example-sentence-text').textContent = `${randomWord.example}`;
 
@@ -147,20 +157,20 @@
     }
 
     function sendStatistic(data) {
-        fetch('/save_statistic', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(data),
-        })
-        .then(response => response.json())
-        .then(result => {
-            console.log('Success:', result);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-        });
+      fetch('/save_statistic', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      })
+      .then(response => response.json())
+      .then(result => {
+        console.log('Success:', result);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
     }
 
     function checkTranslation(userTranslation, correctTranslation) {
@@ -216,6 +226,51 @@
     function toggleDirection() {
       reverseDirection = !reverseDirection;
       generateRandomWord();
+    }
+
+    function fetchExcludedWords() {
+      fetch('/settings/excludedWords.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        excludedWords = data;
+        console.log('Excluded words loaded:', excludedWords);
+      })
+      .catch(error => {
+        console.error('Error fetching excluded words:', error);
+        excludedWords = []; // Initialize to an empty array if fetching fails
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', fetchExcludedWords);
+
+    function saveSetting(data) {
+      fetch('/saveSetting', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ excludedWords: data }),
+      })
+      .then(response => response.json())
+      .then(result => {
+        console.log('Settings saved successfully:', result);
+      })
+      .catch(error => {
+        console.error('Error saving settings:', error);
+      });
+    }
+
+    function removeCurrentWord() {
+      if (currentWord) {
+        excludedWords.push(currentWord);
+        saveSetting(excludedWords);
+        generateRandomWord();
+      }
     }
   </script>
 </body>

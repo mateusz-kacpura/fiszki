@@ -41,6 +41,23 @@ const checkAndDownloadFile = async (url, localPath) => {
     }
 };
 
+const saveSetting = (data) => {
+    const filePath = path.join(__dirname, 'setting', 'excludedWords.json');
+    const logFileName = 'updateSetting.log';
+    
+    fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8', (err) => {
+        if (err) {
+            const errorMessage = `Error saving settings: ${err.message}`;
+            console.error(errorMessage);
+            logToFile(logFileName, errorMessage);
+        } else {
+            const successMessage = 'Settings saved successfully.';
+            console.log(successMessage);
+            logToFile(logFileName, successMessage);
+        }
+    });
+};
+
 app.post('/load-image-paths', async (req, res) => {
     const { words } = req.body;
     const imagePaths = await Promise.all(words.map(async (word) => {
@@ -154,6 +171,12 @@ app.post('/save_statistic', (req, res) => {
             return res.status(200).json({ message: 'Statistic saved successfully.' });
         });
     });
+});
+
+app.post('/saveSetting', (req, res) => {
+    const data = req.body.excludedWords;
+    saveSetting(data);
+    res.status(200).json({ message: 'Settings update requested.' });
 });
 
 app.get('/words', (req, res) => {
