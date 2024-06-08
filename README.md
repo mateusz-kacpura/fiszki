@@ -12,17 +12,42 @@ A flashcard application for learning new words quickly and efficiently.
 
 ## Installation
 
-1. Install the application using npm:
+To deploy an application with the given modules, you'll need to follow these general steps:
+
+1. Create a virtual environment:
+Create a virtual environment using (on Windows) 
     ```bash
-    pip install flask flask_cors werkzeug openpyxl
- 
+    python -m venv myenv
+    ``` 
+or (on Linux/Mac)
+    ```bash 
+    python3 -m venv myenv
     ```
-2. Run the server:
+Activate the virtual environment using myenv\Scripts\activate (on Windows) or source myenv/bin/activate (on Linux/Mac).
+
+2. Install required modules:
+Install the required modules using pip:
     ```bash
+    pip install flask flask_cors requests openpyxl transformers gtts
+    ```
+
+3. Create a requirements.txt file:
+Create a new file requirements.txt with the following content:
+    ```bash 
+    flask==2.0.1
+    flask_cors==3.0.10
+    requests==2.25.1
+    openpyxl==3.0.5
+    transformers==4.10.2
+    gtts==2.2.1
+    ```
+
+4. Run app
+    ```bash 
     python app.py
     ```
 
-3. Page is avaible
+5. Page is avaible
     ```bash
     http://localhost:3000/multi_select.html
     ```

@@ -5,10 +5,11 @@ import requests
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
 from flask import send_from_directory
-
 from werkzeug.utils import secure_filename
 from openpyxl import load_workbook
-
+from transformers import AutoModel
+from gtts import gTTS
+## C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\models\encodec\modeling_encodec.py:120: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
 app = Flask(__name__)
 CORS(app)
 
@@ -19,6 +20,14 @@ AUDIO_FOLDER = 'audio_files'
 LOG_FOLDER = 'logi'
 STATISTICS_FILE ='statistic/statistics.json'
 SETTING_FILE ='setting/excludedWords.json'
+
+class BarkModel(AutoModel):
+    @classmethod
+    def from_pretrained(cls, pretrained_model_name_or_path, *model_args, **kwargs):
+        return super().from_pretrained(pretrained_model_name_or_path, *model_args, **kwargs)
+
+# Initialize the TTS model
+model = BarkModel.from_pretrained("suno/bark")
 
 # Create folders if they don't exist
 for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
@@ -31,6 +40,32 @@ logging.basicConfig(filename='app.log', level=logging.INFO)
 @app.route('/<path:path>')
 def send_static(path):
     return send_from_directory('public', path)
+
+@app.route('/audio_files/<path:path>')
+def send_audio(path):
+    return send_from_directory(AUDIO_FOLDER, path)
+
+@app.route('/text-to-speech', methods=['POST'])
+def text_to_speech():
+    print("Received request to convert text to speech")
+    text = request.json.get('text', '')
+    print(f"Received text: {text}")
+    if not text:
+        print("Error: No text provided")
+        return jsonify({'error': 'No text provided'}), 400
+    
+    try:
+        print("Generating audio...")
+        tts = gTTS(text)
+        audio_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
+        print(f"Saving audio to file: {audio_path}")
+        tts.save(audio_path)
+        print("Audio saved successfully")
+        return jsonify({'audio_path': audio_path})
+    except Exception as e:
+        print(f"Error in text-to-speech: {e}")
+        logging.error(f"Error in text-to-speech: {e}")
+        return jsonify({'error': 'Failed to generate speech'}), 500
 
 @app.route('/load-image-paths', methods=['POST'])
 def load_image_paths():

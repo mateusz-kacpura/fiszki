@@ -85,3 +85,191 @@ INFO:root:Received statistic: {'word': 'dojœæ do wniosku', 'correct': False, 'ti
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:02:32] "POST /save_statistic HTTP/1.1" 200 -
 INFO:root:Received statistic: {'word': 'polega na tym mieszaniu siê pomys³ów i wzajemnej inspiracji', 'correct': True, 'timestamp': '2024-06-08T12:02:48.068Z'}
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:02:48] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:09:21] "[36mGET /multi_select.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:09:21] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:09:25] "[36mGET /multi_select.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:09:25] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'that the lies in this this blending of ideas and the cross-fertilisation of thought which embarges from it', 'correct': True, 'timestamp': '2024-06-08T12:11:06.446Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:11:06] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:11:10] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'altering', 'correct': True, 'timestamp': '2024-06-08T12:12:11.014Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:12:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:12:12] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of knowledge', 'correct': True, 'timestamp': '2024-06-08T12:12:21.671Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:12:21] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:12:29] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'increases', 'correct': True, 'timestamp': '2024-06-08T12:13:42.527Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:13:42] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:13:43] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'insights', 'correct': True, 'timestamp': '2024-06-08T12:14:01.227Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:01] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised', 'correct': True, 'timestamp': '2024-06-08T12:14:07.454Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:07] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:08] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'constitute into the problem', 'correct': True, 'timestamp': '2024-06-08T12:14:25.431Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:26] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'cases increases', 'correct': True, 'timestamp': '2024-06-08T12:14:55.239Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:55] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:14:56] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T12:16:07.783Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:08] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-08T12:16:15.951Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:16] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'traditionally taken the view', 'correct': True, 'timestamp': '2024-06-08T12:16:24.356Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:24] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:24] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'need to come to', 'correct': True, 'timestamp': '2024-06-08T12:16:29.033Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:29] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:16:29] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'would advocate greater freedom', 'correct': True, 'timestamp': '2024-06-08T12:17:18.517Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:18] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:21] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'digging into the archives', 'correct': True, 'timestamp': '2024-06-08T12:17:25.410Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:26] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'soundly', 'correct': True, 'timestamp': '2024-06-08T12:17:27.865Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:27] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:28] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'reach a conclusion', 'correct': True, 'timestamp': '2024-06-08T12:17:36.483Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:36] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:37] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-08T12:17:41.333Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:42] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'different fields of learning', 'correct': True, 'timestamp': '2024-06-08T12:17:53.552Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:17:54] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'is intellectually independent from', 'correct': True, 'timestamp': '2024-06-08T12:19:32.170Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:19:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:19:32] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'uncertain', 'correct': True, 'timestamp': '2024-06-08T12:19:43.842Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:19:43] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:19:48] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of', 'correct': True, 'timestamp': '2024-06-08T12:19:58.272Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:19:58] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:19:59] "POST /saveSetting HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'that preconceptions about', 'correct': True, 'timestamp': '2024-06-08T12:21:15.826Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:21:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 14:21:16] "POST /saveSetting HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-08T15:07:03.416Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:07:03] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:07:22] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:07:22] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+ERROR:root:Error in text-to-speech: 'BarkModel' object has no attribute 'generate_audio'
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:07:35] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'niepewny', 'correct': True, 'timestamp': '2024-06-08T15:07:35.029Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:07:35] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'solidnie', 'correct': False, 'timestamp': '2024-06-08T15:11:48.233Z'}
+ERROR:root:Error in text-to-speech: 'BarkModel' object has no attribute 'generate_audio'
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:11:48] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:11:48] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'BarkModel' object has no attribute 'generate_audio'
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:11:49] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'solidny', 'correct': True, 'timestamp': '2024-06-08T15:11:49.741Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:11:50] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': '¿e na tym polega mieszanie siê idei i wzajemne zap³adnianie myœli, która z tego wyp³ywa', 'correct': True, 'timestamp': '2024-06-08T15:15:52.650Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:15:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:15:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:15:53] "[33mGET /audio_files/output.mp3 HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'tradycyjnie przyj¹³ taki pogl¹d', 'correct': False, 'timestamp': '2024-06-08T15:18:17.189Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:18:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:18:17] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:18:17] "[33mGET /audio_files/output.mp3 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:21:32] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:21:32] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:21:42] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'spostrze¿enia', 'correct': True, 'timestamp': '2024-06-08T15:21:42.100Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:21:42] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:21:42] "[33mGET /audio_files/output.mp3 HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'robust', 'correct': True, 'timestamp': '2024-06-08T15:22:26.318Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:22:26] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:22:26] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:22:26] "[33mGET /audio_files/output.mp3 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:29:25] "[33mGET /audio_files/output.mp3 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:37] "[36mGET /multi_select.html HTTP/1.1[0m" 304 -
+INFO:root:Received statistic: {'word': 'reach a conclusion', 'correct': True, 'timestamp': '2024-06-08T15:30:29.107Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:37] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:38] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'przesuwaj¹c w ten sposób granice wiedzy', 'correct': True, 'timestamp': '2024-06-08T15:30:52.630Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:53] "[35m[1mGET /audio_files/output.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:30:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'polega na tym mieszaniu siê pomys³ów i wzajemnej inspiracji', 'correct': True, 'timestamp': '2024-06-08T15:31:10.781Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:31:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:31:11] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'solidnie', 'correct': True, 'timestamp': '2024-06-08T15:31:18.160Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:31:18] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:31:18] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': '¿e na tym polega mieszanie siê idei i wzajemne zap³adnianie myœli, która z tego wyp³ywa', 'correct': True, 'timestamp': '2024-06-08T15:32:10.292Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:32:10] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:32:10] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:32:11] "[35m[1mGET /audio_files/output.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:32:11] "[35m[1mGET /audio_files/output.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:32:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'somewhat misplaced', 'correct': True, 'timestamp': '2024-06-08T15:32:51.880Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:32:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-08T15:33:21.258Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:33:21] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:33:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'causal relationship', 'correct': False, 'timestamp': '2024-06-08T15:37:18.929Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:19] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:19] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:19] "[35m[1mGET /audio_files/altering.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T15:37:37.245Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:37] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:37] "[35m[1mGET /audio_files/relevant%20chart.mp3 HTTP/1.1[0m" 206 -

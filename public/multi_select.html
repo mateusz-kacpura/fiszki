@@ -180,9 +180,11 @@
       if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
         console.log('Correct translation.');
         resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
+        playTextToSpeech(userTranslation);
       } else {
         console.log('Incorrect translation.');
         resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
+        playTextToSpeech(userTranslation);
       }
       sendStatistic({
             word: reverseDirection ? correctTranslation : userTranslation,
@@ -272,6 +274,29 @@
         generateRandomWord();
       }
     }
+
+    function playTextToSpeech(text) {
+    fetch('/text-to-speech', {
+        method: 'POST',
+        headers: {
+        'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ text: text }),
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.audio_path) {
+        const audio = new Audio(data.audio_path);
+        audio.play();
+        } else {
+        console.error('Error:', data.error);
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+    }
+
   </script>
 </body>
 </html>
