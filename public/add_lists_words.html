@@ -58,7 +58,7 @@
             const file = document.getElementById('file').value;
             const hot = Handsontable.getInstance('hot');
             const data = hot.getData();
-            
+
             const method = file ? 'POST' : 'PUT'; // If file is selected, it's an existing file, otherwise it's a new one
             const url = file ? `/save/${file}` : '/save'; // If file is selected, use save endpoint with file name, otherwise use save endpoint for new file
 

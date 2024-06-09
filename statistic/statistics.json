@@ -1738,5 +1738,1010 @@
     "sentence": "Istnieje wyra\u017any zwi\u0105zek przyczynowy mi\u0119dzy paleniem a rakiem p\u0142uc.",
     "correct": false,
     "timestamp": "2024-06-09T11:15:16.089Z"
+  },
+  {
+    "sentence": "Instytut badawczy jest intelektualnie niezale\u017cny od jakichkolwiek wp\u0142yw\u00f3w politycznych.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:16:33.988Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:16:47.203Z"
+  },
+  {
+    "sentence": "Opowiada\u0142by si\u0119 za wi\u0119ksz\u0105 swobod\u0105 wypowiedzi.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:16:50.375Z"
+  },
+  {
+    "sentence": "Sukces projektu polega na mieszaniu si\u0119 pomys\u0142\u00f3w.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:16:52.555Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:16:54.691Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:18:22.026Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:18:30.676Z"
+  },
+  {
+    "sentence": "Opowiada\u0142by si\u0119 za wi\u0119ksz\u0105 swobod\u0105 wypowiedzi.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:18:38.122Z"
+  },
+  {
+    "sentence": "Przyj\u0119\u0142a bardziej liberalne spojrzenie na kwestie spo\u0142eczne.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:18:42.346Z"
+  },
+  {
+    "sentence": "Wynik eksperymentu pozostaje niepewny.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:22:09.340Z"
+  },
+  {
+    "sentence": "Wynik eksperymentu pozostaje niepewny.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:23:55.764Z"
+  },
+  {
+    "sentence": "Ma wiedz\u0119 z r\u00f3\u017cnych dziedzin nauki, takich jak matematyka i literatura.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:24:18.777Z"
+  },
+  {
+    "sentence": "Badanie dostarcza cennych spostrze\u017ce\u0144 na temat zachowa\u0144 konsument\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:24:27.824Z"
+  },
+  {
+    "sentence": "Przyj\u0119\u0142a bardziej liberalne spojrzenie na kwestie spo\u0142eczne.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:26:17.856Z"
+  },
+  {
+    "sentence": "Opowiada\u0142by si\u0119 za wi\u0119ksz\u0105 swobod\u0105 wypowiedzi.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:26:31.601Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:26:33.497Z"
+  },
+  {
+    "sentence": "Bogactwo kreatywno\u015bci polega na mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnym zap\u0142adnianiu my\u015bli.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:26:39.301Z"
+  },
+  {
+    "sentence": "Prezentacja zawiera\u0142a odpowiedni wykres ilustruj\u0105cy trendy sprzeda\u017cy w ci\u0105gu ostatniego roku.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:28:23.252Z"
+  },
+  {
+    "sentence": "Eksperyment ujawni\u0142 odchylenie od oczekiwanych wynik\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:30:15.994Z"
+  },
+  {
+    "sentence": "Prezentacja zawiera\u0142a odpowiedni wykres ilustruj\u0105cy trendy sprzeda\u017cy w ci\u0105gu ostatniego roku.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:31:40.151Z"
+  },
+  {
+    "sentence": "Kraj tradycyjnie przyj\u0105\u0142 pogl\u0105d, \u017ce edukacja jest podstawowym prawem.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:31:41.858Z"
+  },
+  {
+    "sentence": "Badanie skupia si\u0119 na istotnych aspektach problemu.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:33:45.128Z"
+  },
+  {
+    "sentence": "Badanie ma na celu podwa\u017cenie uprzedze\u0144 na temat r\u00f3l p\u0142ciowych.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:33:51.723Z"
+  },
+  {
+    "sentence": "Badanie ma na celu podwa\u017cenie uprzedze\u0144 na temat r\u00f3l p\u0142ciowych.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:36:04.991Z"
+  },
+  {
+    "sentence": "Wraz z nadej\u015bciem sezonu grypowego liczba przypadk\u00f3w dramatycznie wzrasta.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:36:17.890Z"
+  },
+  {
+    "sentence": "Solidna gospodarka doprowadzi\u0142a do wzrostu mo\u017cliwo\u015bci zatrudnienia.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:36:25.447Z"
+  },
+  {
+    "sentence": "Profesor jest znany z g\u0142\u0119boko krytycznej analizy dzie\u0142 literackich.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:36:29.982Z"
+  },
+  {
+    "sentence": "Jego komentarze wydawa\u0142y si\u0119 nieco nie na miejscu w kontek\u015bcie dyskusji.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:40:01.505Z"
+  },
+  {
+    "sentence": "By\u0142a niezwykle ostro\u017cna przy obchodzeniu si\u0119 z delikatnymi artefaktami.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:41:47.008Z"
+  },
+  {
+    "sentence": "Jego komentarze wydawa\u0142y si\u0119 nieco nie na miejscu w kontek\u015bcie dyskusji.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:44:15.323Z"
+  },
+  {
+    "sentence": "Trzeba przyjecha\u0107 do decyzji dotycz\u0105cej alokacji bud\u017cetu projektu.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:44:16.815Z"
+  },
+  {
+    "sentence": "By\u0142a niezwykle ostro\u017cna przy obchodzeniu si\u0119 z delikatnymi artefaktami.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:44:26.527Z"
+  },
+  {
+    "sentence": "Badanie ma na celu podwa\u017cenie uprzedze\u0144 na temat r\u00f3l p\u0142ciowych.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:44:28.981Z"
+  },
+  {
+    "sentence": "Ich innowacyjne podej\u015bcie przesuwa granice technologii.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:44:30.383Z"
+  },
+  {
+    "sentence": "Ich innowacyjne podej\u015bcie przesuwa granice technologii.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:47:00.720Z"
+  },
+  {
+    "sentence": "Lek mo\u017ce zmienia\u0107 nastr\u00f3j pacjenta.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:47:02.048Z"
+  },
+  {
+    "sentence": "Instytut badawczy jest intelektualnie niezale\u017cny od jakichkolwiek wp\u0142yw\u00f3w politycznych.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:15.133Z"
+  },
+  {
+    "sentence": "Jego komentarze wydawa\u0142y si\u0119 nieco nie na miejscu w kontek\u015bcie dyskusji.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:17.631Z"
+  },
+  {
+    "sentence": "Bogactwo kreatywno\u015bci polega na mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnym zap\u0142adnianiu my\u015bli.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:19.157Z"
+  },
+  {
+    "sentence": "Te elementy stanowi\u0105 sedno naszej argumentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:22.023Z"
+  },
+  {
+    "sentence": "Ich innowacyjne podej\u015bcie przesuwa granice technologii.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:23.197Z"
+  },
+  {
+    "sentence": "Eksperyment ujawni\u0142 odchylenie od oczekiwanych wynik\u00f3w.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:30.553Z"
+  },
+  {
+    "sentence": "Raport analizowa\u0142 trendy w ramach ka\u017cdej grupy demograficznej.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:50:32.120Z"
+  },
+  {
+    "sentence": "Wynik eksperymentu pozostaje niepewny.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:50:34.432Z"
+  },
+  {
+    "sentence": "Zesp\u00f3\u0142 musi radzi\u0107 sobie z nieoczekiwanymi wyzwaniami, kt\u00f3re pojawi\u0142y si\u0119 podczas projektu.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:50:37.604Z"
+  },
+  {
+    "sentence": "Instytut badawczy jest intelektualnie niezale\u017cny od jakichkolwiek wp\u0142yw\u00f3w politycznych.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:54:15.653Z"
+  },
+  {
+    "sentence": "By\u0142a niezwykle ostro\u017cna przy obchodzeniu si\u0119 z delikatnymi artefaktami.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:54:17.062Z"
+  },
+  {
+    "sentence": "Te elementy stanowi\u0105 sedno naszej argumentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:54:18.588Z"
+  },
+  {
+    "sentence": "Bogactwo kreatywno\u015bci polega na mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnym zap\u0142adnianiu my\u015bli.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:54:19.695Z"
+  },
+  {
+    "sentence": "Badacz przeprowadzi\u0142 obserwacje zewn\u0119trzne, aby zachowa\u0107 obiektywizm.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:54:46.087Z"
+  },
+  {
+    "sentence": "Przyj\u0119\u0142a bardziej liberalne spojrzenie na kwestie spo\u0142eczne.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:56:39.901Z"
+  },
+  {
+    "sentence": "Solidna gospodarka doprowadzi\u0142a do wzrostu mo\u017cliwo\u015bci zatrudnienia.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:56:43.479Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:56:45.069Z"
+  },
+  {
+    "sentence": "Badanie ma na celu podwa\u017cenie uprzedze\u0144 na temat r\u00f3l p\u0142ciowych.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:56:46.986Z"
+  },
+  {
+    "sentence": "Ekspert udzieli\u0142 odpowiednich porad dostosowanych do konkretnej sytuacji.",
+    "correct": true,
+    "timestamp": "2024-06-09T11:56:50.645Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:58:52.222Z"
+  },
+  {
+    "sentence": "R\u00f3\u017cne czynniki stanowi\u0105 problem ub\u00f3stwa miejskiego.",
+    "correct": false,
+    "timestamp": "2024-06-09T11:58:58.148Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:00:24.145Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:00:28.944Z"
+  },
+  {
+    "sentence": "Badacz przeprowadzi\u0142 obserwacje zewn\u0119trzne, aby zachowa\u0107 obiektywizm.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:00:31.094Z"
+  },
+  {
+    "sentence": "Solidna gospodarka doprowadzi\u0142a do wzrostu mo\u017cliwo\u015bci zatrudnienia.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:00:33.056Z"
+  },
+  {
+    "sentence": "Ich badania przesuwaj\u0105 granice wiedzy w dziedzinie nauki.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:00:35.144Z"
+  },
+  {
+    "sentence": "Pi\u0119kno sztuki cz\u0119sto polega na mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnym zap\u0142adnianiu.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:00:38.695Z"
+  },
+  {
+    "sentence": "Ma wiedz\u0119 z r\u00f3\u017cnych dziedzin nauki, takich jak matematyka i literatura.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:00:40.095Z"
+  },
+  {
+    "sentence": "Raport podsumowuje kluczowe punkty poruszone w wynikach bada\u0144.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:00:41.890Z"
+  },
+  {
+    "sentence": "Lek mo\u017ce zmienia\u0107 nastr\u00f3j pacjenta.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:05.317Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:08.086Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:11.965Z"
+  },
+  {
+    "sentence": "Sukces projektu polega na mieszaniu si\u0119 pomys\u0142\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:13.497Z"
+  },
+  {
+    "sentence": "Ich innowacyjne podej\u015bcie przesuwa granice technologii.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:16.951Z"
+  },
+  {
+    "sentence": "Jego komentarze wydawa\u0142y si\u0119 nieco nie na miejscu w kontek\u015bcie dyskusji.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:18.832Z"
+  },
+  {
+    "sentence": "Zesp\u00f3\u0142 musi radzi\u0107 sobie z nieoczekiwanymi wyzwaniami, kt\u00f3re pojawi\u0142y si\u0119 podczas projektu.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:20.576Z"
+  },
+  {
+    "sentence": "Bogactwo kreatywno\u015bci polega na mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnym zap\u0142adnianiu my\u015bli.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:23.588Z"
+  },
+  {
+    "sentence": "Ma wiedz\u0119 z r\u00f3\u017cnych dziedzin nauki, takich jak matematyka i literatura.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:24.681Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:25.664Z"
+  },
+  {
+    "sentence": "Badacz przeprowadzi\u0142 obserwacje zewn\u0119trzne, aby zachowa\u0107 obiektywizm.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:26.734Z"
+  },
+  {
+    "sentence": "Raport analizowa\u0142 trendy w ramach ka\u017cdej grupy demograficznej.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:27.610Z"
+  },
+  {
+    "sentence": "Badacz przeprowadzi\u0142 obserwacje zewn\u0119trzne, aby zachowa\u0107 obiektywizm.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:29.848Z"
+  },
+  {
+    "sentence": "Ekspert udzieli\u0142 odpowiednich porad dostosowanych do konkretnej sytuacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:32.132Z"
+  },
+  {
+    "sentence": "Ma wiedz\u0119 z r\u00f3\u017cnych dziedzin nauki, takich jak matematyka i literatura.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:34.268Z"
+  },
+  {
+    "sentence": "Badacz przeprowadzi\u0142 obserwacje zewn\u0119trzne, aby zachowa\u0107 obiektywizm.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:35.290Z"
+  },
+  {
+    "sentence": "Badanie dostarcza cennych spostrze\u017ce\u0144 na temat zachowa\u0144 konsument\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:35.882Z"
+  },
+  {
+    "sentence": "Solidna gospodarka doprowadzi\u0142a do wzrostu mo\u017cliwo\u015bci zatrudnienia.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:36.425Z"
+  },
+  {
+    "sentence": "Badacz przeprowadzi\u0142 obserwacje zewn\u0119trzne, aby zachowa\u0107 obiektywizm.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:38.278Z"
+  },
+  {
+    "sentence": "Kraj tradycyjnie przyj\u0105\u0142 pogl\u0105d, \u017ce edukacja jest podstawowym prawem.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:39.771Z"
+  },
+  {
+    "sentence": "Przyj\u0119\u0142a bardziej liberalne spojrzenie na kwestie spo\u0142eczne.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:40.184Z"
+  },
+  {
+    "sentence": "Spotkanie dotyczy\u0142o r\u00f3\u017cnych punkt\u00f3w poruszonych podczas prezentacji.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:40.659Z"
+  },
+  {
+    "sentence": "Badanie ma na celu podwa\u017cenie uprzedze\u0144 na temat r\u00f3l p\u0142ciowych.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:41.216Z"
+  },
+  {
+    "sentence": "Bogactwo kreatywno\u015bci polega na mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnym zap\u0142adnianiu my\u015bli.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:43.932Z"
+  },
+  {
+    "sentence": "Ich badania przesuwaj\u0105 granice wiedzy w dziedzinie nauki.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:44.382Z"
+  },
+  {
+    "sentence": "Zrywanie ze starymi nawykami mo\u017ce by\u0107 trudne, ale korzystne na d\u0142u\u017csz\u0105 met\u0119.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:45.033Z"
+  },
+  {
+    "sentence": "Ich innowacyjne podej\u015bcie przesuwa granice technologii.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:45.736Z"
+  },
+  {
+    "sentence": "Opowiada\u0142by si\u0119 za wi\u0119ksz\u0105 swobod\u0105 wypowiedzi.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:46.338Z"
+  },
+  {
+    "sentence": "Wraz z nadej\u015bciem sezonu grypowego liczba przypadk\u00f3w dramatycznie wzrasta.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:47.840Z"
+  },
+  {
+    "sentence": "Lek mo\u017ce zmienia\u0107 nastr\u00f3j pacjenta.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:48.286Z"
+  },
+  {
+    "sentence": "Instytut badawczy jest intelektualnie niezale\u017cny od jakichkolwiek wp\u0142yw\u00f3w politycznych.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:49.396Z"
+  },
+  {
+    "sentence": "Instytut badawczy jest intelektualnie niezale\u017cny od jakichkolwiek wp\u0142yw\u00f3w politycznych.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:49.893Z"
+  },
+  {
+    "sentence": "R\u00f3\u017cne czynniki stanowi\u0105 problem ub\u00f3stwa miejskiego.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:50.512Z"
+  },
+  {
+    "sentence": "R\u00f3\u017cne czynniki stanowi\u0105 problem ub\u00f3stwa miejskiego.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:51.081Z"
+  },
+  {
+    "sentence": "Kraj tradycyjnie przyj\u0105\u0142 pogl\u0105d, \u017ce edukacja jest podstawowym prawem.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:54.358Z"
+  },
+  {
+    "sentence": "Trzeba przyjecha\u0107 do decyzji dotycz\u0105cej alokacji bud\u017cetu projektu.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:02:54.710Z"
+  },
+  {
+    "sentence": "Ksi\u0105\u017cka omawia wsp\u00f3\u0142czesne irlandzkie prawo w\u0142asno\u015bci.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:55.116Z"
+  },
+  {
+    "sentence": "Ksi\u0105\u017cka omawia wsp\u00f3\u0142czesne irlandzkie prawo w\u0142asno\u015bci.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:55.464Z"
+  },
+  {
+    "sentence": "Badanie dostarcza cennych spostrze\u017ce\u0144 na temat zachowa\u0144 konsument\u00f3w.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:02:55.800Z"
+  },
+  {
+    "sentence": "deviation",
+    "correct": false,
+    "timestamp": "2024-06-09T12:39:51.158Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-06-09T12:40:41.407Z"
+  },
+  {
+    "sentence": "The country traditionally taken the view that education is a fundamental right.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:45:10.709Z"
+  },
+  {
+    "sentence": "The study focuses on the relevant aspects of problem.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:46:53.622Z"
+  },
+  {
+    "sentence": "He would advocate greater freedom of speech.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:49:07.732Z"
+  },
+  {
+    "sentence": "These",
+    "correct": false,
+    "timestamp": "2024-06-09T12:51:45.227Z"
+  },
+  {
+    "sentence": "run.",
+    "correct": false,
+    "timestamp": "2024-06-09T12:53:12.934Z"
+  },
+  {
+    "sentence": "Breaking old habits can be challenging but beneficial in the long run.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:54:06.647Z"
+  },
+  {
+    "sentence": "His comments seemed somewhat",
+    "correct": false,
+    "timestamp": "2024-06-09T12:54:48.280Z"
+  },
+  {
+    "sentence": "His comments seemed somewhat",
+    "correct": false,
+    "timestamp": "2024-06-09T12:57:22.407Z"
+  },
+  {
+    "sentence": "Historycy sp\u0119dzili tygodnie, szperaj\u0105c w archiwach, aby odkry\u0107 nowe informacje.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:57:59.995Z"
+  },
+  {
+    "sentence": "Badanie dostarcza cennych spostrze\u017ce\u0144 na temat zachowa\u0144 konsument\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-06-09T12:58:11.322Z"
+  },
+  {
+    "sentence": "The expert provided relevant advice tailored to the specific situation.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:00:37.692Z"
+  },
+  {
+    "sentence": "The expert provided relevant advice tailored to the specific situation.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:00:45.067Z"
+  },
+  {
+    "sentence": "Breaking",
+    "correct": false,
+    "timestamp": "2024-06-09T13:02:41.796Z"
+  },
+  {
+    "sentence": "Breaking old habits can be challenging but in the long run.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:03:35.845Z"
+  },
+  {
+    "sentence": "Breaking old habits can be challenging but beneficial in the long run.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:04:37.358Z"
+  },
+  {
+    "sentence": "The meeting raised the various points during presentation.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:14:57.261Z"
+  },
+  {
+    "sentence": "The meeting addressed the various points raised during the presentation.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:15:45.392Z"
+  },
+  {
+    "sentence": "The team needs to arose",
+    "correct": false,
+    "timestamp": "2024-06-09T13:16:52.653Z"
+  },
+  {
+    "sentence": "The team needs to deal with unexpected challenges that arose during the project.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:17:45.773Z"
+  },
+  {
+    "sentence": "His comments seemed somewhat in misplaced the context of the discussion.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:19:10.543Z"
+  },
+  {
+    "sentence": "His comments seemed somewhat in misplaced the context of the discussion.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:20:00.690Z"
+  },
+  {
+    "sentence": "The team needs to deal challenges during arose the unexpected project.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:20:59.092Z"
+  },
+  {
+    "sentence": "The researchers analyzed the of reach conclusion to the effectiveness",
+    "correct": false,
+    "timestamp": "2024-06-09T13:22:02.516Z"
+  },
+  {
+    "sentence": "The researchers analyzed the of reach conclusion to the effectiveness",
+    "correct": false,
+    "timestamp": "2024-06-09T13:22:25.218Z"
+  },
+  {
+    "sentence": "The report analyzed demographic trends each within the group.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:23:25.430Z"
+  },
+  {
+    "sentence": "The report analyzed the trends within each demographic group.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:24:14.277Z"
+  },
+  {
+    "sentence": "The robust economy led to increased employment opportunities.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:25:15.466Z"
+  },
+  {
+    "sentence": "The report analyzed the trends within each demographic group.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:25:43.387Z"
+  },
+  {
+    "sentence": "He would advocate of greater freedom speech.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:26:45.089Z"
+  },
+  {
+    "sentence": "He would advocate greater freedom of speech.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:26:59.775Z"
+  },
+  {
+    "sentence": "The professor is known of his deep critical analysis for literary works.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:27:37.015Z"
+  },
+  {
+    "sentence": "The professor is known for his deep critical analysis of literary works.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:28:11.829Z"
+  },
+  {
+    "sentence": "The presentation included relevant chart",
+    "correct": false,
+    "timestamp": "2024-06-09T13:30:12.093Z"
+  },
+  {
+    "sentence": "The presentation included a relevant chart illustrating the sales trends over the past year.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:36:59.797Z"
+  },
+  {
+    "sentence": "The researchers reach a conclusion of analyzed the data about effectiveness the treatment.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:39:21.254Z"
+  },
+  {
+    "sentence": "The researchers analyzed the data to reach a conclusion about the effectiveness of the treatment.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:40:05.362Z"
+  },
+  {
+    "sentence": "The relevant study focuses on the aspects of problem.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:43:19.475Z"
+  },
+  {
+    "sentence": "The study focuses on relevant aspects of the problem.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:44:08.338Z"
+  },
+  {
+    "sentence": "His comments seemed somewhat of misplaced the context in the discussion.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:45:56.635Z"
+  },
+  {
+    "sentence": "His comments seemed somewhat misplaced in the context of the discussion.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:46:16.265Z"
+  },
+  {
+    "sentence": "She adopted more liberal view on a social issues.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:47:39.635Z"
+  },
+  {
+    "sentence": "She adopted a more liberal view on social issues.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:48:21.094Z"
+  },
+  {
+    "sentence": "The medication is capable",
+    "correct": false,
+    "timestamp": "2024-06-09T13:49:27.469Z"
+  },
+  {
+    "sentence": "The medication is capable of altering the patient's mood.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:49:49.564Z"
+  },
+  {
+    "sentence": "The success in this project blending of lies of the ideas.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:50:41.441Z"
+  },
+  {
+    "sentence": "She adopted a more liberal view on social issues.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:51:35.744Z"
+  },
+  {
+    "sentence": "The traditionally country has taken the view that a education is fundamental right.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:52:34.508Z"
+  },
+  {
+    "sentence": "The professor is known of deep critical analysis for literary works.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:53:53.230Z"
+  },
+  {
+    "sentence": "The professor is known deep critical analysis of literary works.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:54:26.718Z"
+  },
+  {
+    "sentence": "The researcher conducted outside observations to maintain objectivity.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:55:07.651Z"
+  },
+  {
+    "sentence": "The focuses study on relevant aspects of the problem.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:55:39.444Z"
+  },
+  {
+    "sentence": "The study focuses on relevant aspects of the problem.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:57:43.081Z"
+  },
+  {
+    "sentence": "The remains experiment of the outcome uncertain.",
+    "correct": false,
+    "timestamp": "2024-06-09T13:58:26.200Z"
+  },
+  {
+    "sentence": "The outcome of the experiment remains uncertain.",
+    "correct": true,
+    "timestamp": "2024-06-09T13:58:54.546Z"
+  },
+  {
+    "sentence": "The country traditionally taken a view that education is has fundamental the right.",
+    "correct": false,
+    "timestamp": "2024-06-09T14:00:10.908Z"
+  },
+  {
+    "sentence": "The robust economy employment to increased led opportunities.",
+    "correct": false,
+    "timestamp": "2024-06-09T14:01:01.818Z"
+  },
+  {
+    "sentence": "The robust economy led to increased employment opportunities.",
+    "correct": true,
+    "timestamp": "2024-06-09T14:01:22.181Z"
+  },
+  {
+    "sentence": "Their research",
+    "correct": false,
+    "timestamp": "2024-06-09T14:04:38.142Z"
+  },
+  {
+    "sentence": "Their research thus",
+    "correct": false,
+    "timestamp": "2024-06-09T14:08:08.799Z"
+  },
+  {
+    "sentence": "The study",
+    "correct": false,
+    "timestamp": "2024-06-09T14:51:47.336Z"
+  },
+  {
+    "sentence": "The study provides valuable insights into consumer behavior.",
+    "correct": true,
+    "timestamp": "2024-06-09T14:52:03.101Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-06-09T15:09:36.235Z"
+  },
+  {
+    "sentence": "There is a need to come to a decision regarding the project's budget allocation.",
+    "correct": true,
+    "timestamp": "2024-06-09T15:11:16.146Z"
+  },
+  {
+    "word": "trzeba przyjecha\u0107",
+    "correct": true,
+    "timestamp": "2024-06-09T15:28:03.533Z"
+  },
+  {
+    "word": "constitute",
+    "correct": true,
+    "timestamp": "2024-06-09T15:28:57.722Z"
+  },
+  {
+    "word": "outside observation",
+    "correct": true,
+    "timestamp": "2024-06-09T15:29:08.029Z"
+  },
+  {
+    "word": "I am writing to express my concern about the fact that",
+    "correct": true,
+    "timestamp": "2024-06-09T15:29:17.338Z"
+  },
+  {
+    "word": "freelance",
+    "correct": true,
+    "timestamp": "2024-06-09T15:31:42.475Z"
+  },
+  {
+    "word": "billingual",
+    "correct": true,
+    "timestamp": "2024-06-09T15:32:36.483Z"
+  },
+  {
+    "word": "podniesione punkty",
+    "correct": true,
+    "timestamp": "2024-06-09T15:46:28.695Z"
+  },
+  {
+    "word": "graduates from",
+    "correct": false,
+    "timestamp": "2024-06-09T15:46:38.082Z"
+  },
+  {
+    "word": "graduates from",
+    "correct": true,
+    "timestamp": "2024-06-09T15:46:44.762Z"
+  },
+  {
+    "word": "causal relationship",
+    "correct": true,
+    "timestamp": "2024-06-09T15:47:22.366Z"
+  },
+  {
+    "word": "gather result",
+    "correct": true,
+    "timestamp": "2024-06-09T15:47:31.951Z"
+  },
+  {
+    "word": "a more liberal view",
+    "correct": true,
+    "timestamp": "2024-06-09T15:47:38.575Z"
+  },
+  {
+    "word": "stimulating",
+    "correct": true,
+    "timestamp": "2024-06-09T15:47:54.378Z"
+  },
+  {
+    "word": "I was interested in your advertisement in",
+    "correct": true,
+    "timestamp": "2024-06-09T15:48:05.807Z"
+  },
+  {
+    "word": "I was interested in your advertisement in",
+    "correct": true,
+    "timestamp": "2024-06-09T15:50:25.106Z"
+  },
+  {
+    "word": "relevant",
+    "correct": true,
+    "timestamp": "2024-06-09T15:50:49.477Z"
+  },
+  {
+    "word": "I would be able to attend an interview at any time which is convenient to you",
+    "correct": true,
+    "timestamp": "2024-06-09T15:51:01.690Z"
+  },
+  {
+    "word": "I would be able to attend an interview at any time which is convenient to you",
+    "correct": true,
+    "timestamp": "2024-06-09T15:54:23.760Z"
+  },
+  {
+    "word": "billingual",
+    "correct": true,
+    "timestamp": "2024-06-09T15:54:43.095Z"
+  },
+  {
+    "word": "billingual",
+    "correct": true,
+    "timestamp": "2024-06-09T15:54:47.165Z"
+  },
+  {
+    "word": "billingual",
+    "correct": false,
+    "timestamp": "2024-06-09T15:54:52.036Z"
+  },
+  {
+    "word": "billingual",
+    "correct": false,
+    "timestamp": "2024-06-09T15:54:54.061Z"
+  },
+  {
+    "word": "billingual",
+    "correct": true,
+    "timestamp": "2024-06-09T15:55:01.594Z"
+  },
+  {
+    "word": "habits",
+    "correct": true,
+    "timestamp": "2024-06-09T15:55:09.671Z"
+  },
+  {
+    "word": "that the lies in this this blending of ideas and the cross-fertilisation of thought which embarges from it",
+    "correct": true,
+    "timestamp": "2024-06-09T15:55:38.973Z"
+  },
+  {
+    "word": "I am writing to express my concern about the fact that",
+    "correct": true,
+    "timestamp": "2024-06-09T15:56:11.365Z"
+  },
+  {
+    "word": "digging into the archives",
+    "correct": true,
+    "timestamp": "2024-06-09T15:56:21.142Z"
+  },
+  {
+    "word": "I am writing to complain about",
+    "correct": true,
+    "timestamp": "2024-06-09T15:56:26.957Z"
+  },
+  {
+    "word": "I am writing to enquire about",
+    "correct": true,
+    "timestamp": "2024-06-09T15:57:13.420Z"
+  },
+  {
+    "word": "extremely careful",
+    "correct": true,
+    "timestamp": "2024-06-09T15:59:19.233Z"
+  },
+  {
+    "word": "that the lies in this this blending of ideas and the cross-fertilisation of thought which embarges from it",
+    "correct": true,
+    "timestamp": "2024-06-09T15:59:27.355Z"
+  },
+  {
+    "word": "in-house training",
+    "correct": true,
+    "timestamp": "2024-06-09T15:59:49.845Z"
   }
 ]

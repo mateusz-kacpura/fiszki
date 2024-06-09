@@ -40,6 +40,7 @@
       <div class="card mt-3">
         <div class="card-body text-center">
           <h5 class="card-title">Construct the sentence:</h5>
+          <p id="sentence-translation" style="font-style: italic; color: gray;"></p>
           <div class="word-bank" id="word-bank"></div>
           <div class="sentence-construction" id="sentence-construction"></div>
           <button class="btn btn-success" onclick="checkSentence()">Check Sentence</button>
@@ -118,6 +119,7 @@
         button.onclick = () => addWordToSentence(word, button);
         wordBankDiv.appendChild(button);
       });
+      document.getElementById('sentence-translation').textContent = randomSentence.example_translation; // tłumaczone zdanie
     }
 
     function addWordToSentence(word, button) {
@@ -143,15 +145,15 @@
       const resultElement = document.getElementById('result');
       const timestamp = new Date().toISOString();
       const isCorrect = constructedSentence === currentSentence;
-      if (isCorrect) {
-        console.log('Correct sentence.');
-        resultElement.innerHTML = `<span class="user-translation" style="color: green">${constructedSentence}</span> - Congratulations! Correct sentence.`;
-        playTextToSpeech(constructedSentence);
-      } else {
-        console.log('Incorrect sentence.');
-        resultElement.innerHTML = `<span class="user-translation" style="color: red">${constructedSentence}</span> - Incorrect. The correct sentence is: <span class="sentence-to-translate">${currentSentence}</span>`;
-        playTextToSpeech(constructedSentence);
-      }
+        if (isCorrect) {
+            console.log('Correct sentence.');
+            resultElement.innerHTML = `<strong><span class="user-translation" style="color: green">${constructedSentence}</span></strong> - Congratulations! Correct sentence.`;
+            playTextToSpeech(constructedSentence);
+        } else {
+            console.log('Incorrect sentence.');
+            resultElement.innerHTML = `<strong><span class="user-translation" style="color: red">${constructedSentence}</span></strong> - Incorrect. The correct sentence is: <strong><span class="sentence-to-translate">${currentSentence}</span></strong>`;
+            playTextToSpeech(currentSentence); 
+        }
       sendStatistic({
         sentence: constructedSentence,
         correct: isCorrect,
@@ -160,6 +162,23 @@
       if (isCorrect) {
         generateRandomSentence();
       }
+    }
+
+    function sendStatistic(data) {
+      fetch('/save_statistic', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      })
+      .then(response => response.json())
+      .then(result => {
+        console.log('Success:', result);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
     }
 
     function toggleTheme() {
