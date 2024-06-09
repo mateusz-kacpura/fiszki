@@ -1,0 +1,220 @@
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
+os.environ["SUNO_USE_SMALL_MODELS"] = "1"
+import time
+import json
+import logging
+import requests
+import numpy as np
+import torch
+from flask import Flask, request, jsonify, send_file
+from flask_cors import CORS
+from flask import send_from_directory
+from werkzeug.utils import secure_filename
+from openpyxl import load_workbook
+from transformers import AutoProcessor, AutoModel
+from scipy.io.wavfile import write
+from pydub import AudioSegment
+import scipy
+
+
+app = Flask(__name__)
+CORS(app)
+
+# Configurations
+UPLOAD_FOLDER = 'uploads'
+IMAGE_FOLDER = 'image_files'
+AUDIO_FOLDER = 'audio_files'
+LOG_FOLDER = 'logi'
+STATISTICS_FILE ='statistic/statistics.json'
+SETTING_FILE ='setting/excludedWords.json'
+
+if not os.path.exists(UPLOAD_FOLDER):
+    os.makedirs(UPLOAD_FOLDER)
+if not os.path.exists(IMAGE_FOLDER):
+    os.makedirs(IMAGE_FOLDER)
+if not os.path.exists(AUDIO_FOLDER):
+    os.makedirs(AUDIO_FOLDER)
+if not os.path.exists(LOG_FOLDER):
+    os.makedirs(LOG_FOLDER)
+
+for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
+# Logging
+logging.basicConfig(filename='app.log', level=logging.INFO)
+
+@app.route('/<path:path>')
+def send_static(path):
+    return send_from_directory('public', path)
+
+@app.route('/audio_files/<path:path>')
+def send_audio(path):
+    return send_from_directory(AUDIO_FOLDER, path)
+
+@app.route('/text-to-speech', methods=['POST'])
+def text_to_speech():
+    print("Received request to convert text to speech")
+    text = request.json.get('text', '')
+    print(f"Received text: {text}")
+    if not text:
+        print("Error: No text provided")
+        return jsonify({'error': 'No text provided'}), 400
+    
+    try:
+        if not os.path.exists(os.path.join(AUDIO_FOLDER, f"{text}.mp3")):
+            print("Generating audio...")
+            
+            processor = AutoProcessor.from_pretrained("suno/bark-small")
+            model = AutoModel.from_pretrained("suno/bark-small")
+
+            inputs = processor(
+                text,
+                return_tensors="pt",
+            )
+
+            speech_values = model.generate(**inputs, do_sample=True)
+
+            sampling_rate = 22050
+            
+            wav_data = speech_values.cpu().numpy().squeeze()
+            wav_path = os.path.join(AUDIO_FOLDER, f"{text}.wav")
+            scipy.io.wavfile.write(wav_path, rate=sampling_rate, data=wav_data)
+            
+            audio_segment = AudioSegment.from_wav(wav_path)
+            mp3_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
+            audio_segment.export(mp3_path, format="mp3")
+            
+            print(f"Saving audio to file: {mp3_path}")
+            
+            return jsonify({'audio_path': mp3_path})
+        else:
+            print(f"Audio file already exists: {os.path.join(AUDIO_FOLDER, f'{text}.mp3')}")
+            return jsonify({'audio_path': os.path.join(AUDIO_FOLDER, f"{text}.mp3")})
+    except Exception as e:
+        print(f"Error in text-to-speech: {e}")
+        logging.error(f"Error in text-to-speech: {e}")
+        return jsonify({'error': 'Failed to generate speech'}), 500
+    
+@app.route('/load-audio-paths', methods=['POST'])
+def load_audio_paths():
+    words = request.json['words']
+    audio_paths = []
+    for word in words:
+        filename = word.replace(' ', '-')
+        audio_path = os.path.join(AUDIO_FOLDER, f'{filename}.mp3')
+        if os.path.exists(audio_path):
+            logging.info(f'File already exists: {audio_path}')
+            audio_paths.append(audio_path)
+        else:
+            url = f'https://www.ang.pl/sound/dict/{filename}.mp3'
+            response = requests.get(url, stream=True)
+            if response.status_code == 200:
+                with open(audio_path, 'wb') as f:
+                    for chunk in response.iter_content(1024):
+                        f.write(chunk)
+                logging.info(f'Downloaded audio: {url} to {audio_path}')
+                audio_paths.append(audio_path)
+            else:
+                filename = filename.replace('-', '_')
+                url = f'https://www.diki.pl/images-common/en/mp3/{filename}.mp3'
+                response = requests.get(url, stream=True)
+                if response.status_code == 200:
+                    with open(audio_path, 'wb') as f:
+                        for chunk in response.iter_content(1024):
+                            f.write(chunk)
+                    logging.info(f'Downloaded audio: {url} to {audio_path}')
+                    audio_paths.append(audio_path)
+                else:
+                    logging.info(f'Failed to download audio from: {url}')
+    print(f'Loaded audio paths: {audio_paths}')  # Print detailed information
+    return jsonify(audio_paths)
+
+@app.route('/save', methods=['POST'])
+def save_json():
+    file_name = request.json['fileName']
+    json_data = request.json['jsonData']
+    file_path = os.path.join(UPLOAD_FOLDER, file_name)
+    with open(file_path, 'w') as f:
+        json.dump(json_data, f, indent=2)
+    print(f'Saved JSON file: {file_path}')  # Print detailed information
+    return jsonify({'message': 'Data saved successfully as JSON'})
+
+@app.route('/save_statistic', methods=['POST'])
+def save_statistic():
+    statistic = request.json
+    logging.info(f'Received statistic: {statistic}')
+    if not os.path.exists(STATISTICS_FILE):
+        with open(STATISTICS_FILE, 'w') as f:
+            json.dump([statistic], f, indent=2)
+    else:
+        with open(STATISTICS_FILE, 'r+') as f:
+            data = f.read()
+            if data:
+                existing_data = json.loads(data)
+            else:
+                existing_data = []
+            existing_data.append(statistic)
+            f.seek(0)
+            json.dump(existing_data, f, indent=2)
+    print(f'Saved statistic: {statistic}')  # Print detailed information
+    return jsonify({'message': 'Statistic saved successfully'})
+
+@app.route('/saveSetting', methods=['POST'])
+def save_setting():
+    data = request.json['excludedWords']
+    with open(SETTING_FILE, 'w') as f:
+        json.dump(data, f, indent=2)
+    print(f'Saved setting: {data}')  # Print detailed information
+    return jsonify({'message': 'Settings update requested'})
+
+@app.route('/words', methods=['GET'])
+def get_words():
+    file_name = request.args.get('file')
+    file_path = os.path.join(UPLOAD_FOLDER, file_name)
+    if os.path.exists(file_path):
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+            return jsonify(data)
+    else:
+        return jsonify([])
+
+@app.route('/edit/:file/:index', methods=['POST'])
+def edit_word():
+    file_name = request.args.get('file')
+    index = int(request.args.get('index'))
+    updated_data = request.json
+    file_path = os.path.join(UPLOAD_FOLDER, file_name)
+    if os.path.exists(file_path):
+        with open(file_path, 'r+') as f:
+            data = json.load(f)
+            if index >= 0 and index < len(data):
+                data[index] = updated_data
+                f.seek(0)
+                json.dump(data, f, indent=2)
+                return jsonify({'message': 'Data updated successfully'})
+            else:
+                return jsonify({'error': 'Invalid index'})
+    else:
+        return jsonify({'error': 'File not found'})
+
+@app.route('/files', methods=['GET'])
+def get_files():
+    files = os.listdir(UPLOAD_FOLDER)
+    return jsonify(files)
+
+@app.route('/upload', methods=['POST'])
+def upload_file():
+    file = request.files['file']
+    file_path = os.path.join(UPLOAD_FOLDER, secure_filename(file.filename))
+    file.save(file_path)
+    workbook = load_workbook(file_path)
+    sheet = workbook.active
+    data = []
+    for row in sheet.iter_rows(values_only=True):
+        data.append(row)
+    return jsonify({'columns': data[0]})
+
+if __name__ == '__main__':
+    app.run(debug=True, port=3000)
