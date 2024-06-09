@@ -273,3 +273,1119 @@ INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'times
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:37] "POST /save_statistic HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:37] "POST /text-to-speech HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:37:37] "[35m[1mGET /audio_files/relevant%20chart.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'a more liberal view', 'correct': True, 'timestamp': '2024-06-08T15:46:51.453Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:46:57] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:46:57] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:46:57] "[35m[1mGET /audio_files/a%20more%20liberal%20view.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised', 'correct': True, 'timestamp': '2024-06-08T15:47:14.738Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:47:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:47:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:47:15] "[35m[1mGET /audio_files/points%20raised.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:47:29] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'need to come to', 'correct': True, 'timestamp': '2024-06-08T15:47:29.204Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:47:29] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:47:29] "[35m[1mGET /audio_files/need%20to%20come%20to.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised', 'correct': True, 'timestamp': '2024-06-08T15:48:31.910Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:48:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:48:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:48:32] "[35m[1mGET /audio_files/points%20raised.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of', 'correct': True, 'timestamp': '2024-06-08T15:48:56.656Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:48:56] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:48:57] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:48:57] "[35m[1mGET /audio_files/thus%20pushing%20the%20frontiers%20of.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'deep critical of', 'correct': True, 'timestamp': '2024-06-08T15:49:11.889Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:12] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:12] "[35m[1mGET /audio_files/deep%20critical%20of.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'that the lies in this this blending of ideas and the cross-fertilisation of thought which embarges from it', 'correct': True, 'timestamp': '2024-06-08T15:49:23.062Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:23] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:24] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:24] "[35m[1mGET /audio_files/that%20the%20lies%20in%20this%20this%20blending%20of%20ideas%20and%20the%20cross-fertilisation%20of%20thought%20which%20embarges%20from%20it.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-08T15:49:54.617Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:55] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:56] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 17:49:56] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'reach a conclusion', 'correct': True, 'timestamp': '2024-06-08T16:06:17.736Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:06:18] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:06:18] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:06:18] "[35m[1mGET /audio_files/reach%20a%20conclusion.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:06:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'a more liberal view', 'correct': True, 'timestamp': '2024-06-08T16:06:32.247Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:06:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:06:32] "[35m[1mGET /audio_files/a%20more%20liberal%20view.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'digging into the archives', 'correct': True, 'timestamp': '2024-06-08T16:07:09.536Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:07:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:07:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:07:12] "[35m[1mGET /audio_files/digging%20into%20the%20archives.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'digging into the archives', 'correct': True, 'timestamp': '2024-06-08T16:08:19.621Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:08:19] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:08:20] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:08:20] "[35m[1mGET /audio_files/digging%20into%20the%20archives.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-08T16:10:44.270Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:44] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:45] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'uncertain', 'correct': True, 'timestamp': '2024-06-08T16:10:53.576Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:54] "[35m[1mGET /audio_files/uncertain.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:57] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'constitute', 'correct': True, 'timestamp': '2024-06-08T16:10:57.623Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:57] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:10:58] "[35m[1mGET /audio_files/constitute.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised', 'correct': True, 'timestamp': '2024-06-08T16:11:04.832Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:05] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:05] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:05] "[35m[1mGET /audio_files/points%20raised.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'constitute into the problem', 'correct': True, 'timestamp': '2024-06-08T16:11:11.616Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:12] "[35m[1mGET /audio_files/constitute%20into%20the%20problem.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:22] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'traditionally taken the view', 'correct': True, 'timestamp': '2024-06-08T16:11:22.076Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:22] "[35m[1mGET /audio_files/traditionally%20taken%20the%20view.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-08T16:11:32.750Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:33] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:33] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:11:33] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'insights', 'correct': True, 'timestamp': '2024-06-08T16:15:40.146Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:15:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:15:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:15:40] "[35m[1mGET /audio_files/insights.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'altering', 'correct': True, 'timestamp': '2024-06-08T16:15:58.023Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:15:58] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:15:58] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:15:58] "[35m[1mGET /audio_files/altering.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'that preconceptions about', 'correct': True, 'timestamp': '2024-06-08T16:16:09.116Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:09] "[35m[1mGET /audio_files/that%20preconceptions%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'relevant aspects', 'correct': True, 'timestamp': '2024-06-08T16:16:17.181Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:17] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:17] "[35m[1mGET /audio_files/relevant%20aspects.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T16:16:28.699Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:29] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:29] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:16:29] "[35m[1mGET /audio_files/relevant%20chart.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:17:04] "GET /edit_list_words.html HTTP/1.1" 200 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/would_advocate_greater_freedom.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/that_the_lies_in_this_this_blending_of_ideas_and_the_cross_fertilisation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/that_the_lies_in_this_this_blending_of_ideas_and_the_cross_fertilisation_of_thought_which_embarges_from_it.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/lies_in_this_this_blending_of_ideas_and_the_cross_fertilisation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/thus_pushing_the_frontiers_of_knowledge.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/thus_pushing_the_frontiers_of.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/different_fields_of_learning.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_more_liberal_view.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/somewhat_misplaced.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/that_preconceptions_about.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/is_intellectually_independent_from.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/traditionally_taken_the_view.mp3
+INFO:root:File already exists: audio_files\altering.mp3
+INFO:root:File already exists: audio_files\uncertain.mp3
+INFO:root:File already exists: audio_files\causal-relationship.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/outside_observation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/digging_into_the_archives.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/contemporary_Irish_property.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/deep_critical_of.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/constitute_into_the_problem.mp3
+INFO:root:File already exists: audio_files\constitute.mp3
+INFO:root:File already exists: audio_files\insights.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/extremely_careful.mp3
+INFO:root:Downloaded audio: https://www.diki.pl/images-common/en/mp3/soundly.mp3 to audio_files\soundly.mp3
+INFO:root:File already exists: audio_files\robust.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/points_raised_by_the_research.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/points_raised.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/relevant_aspects.mp3
+INFO:root:File already exists: audio_files\reach-a-conclusion.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/need_to_come_to.mp3
+INFO:root:File already exists: audio_files\deal-with.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/relevant_chart.mp3
+INFO:root:File already exists: audio_files\relevant.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/within_each.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/habits.mp3
+INFO:root:File already exists: audio_files\deviation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/cases_increases.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/increases.mp3
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:17:38] "POST /load-audio-paths HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'deviation', 'correct': True, 'timestamp': '2024-06-08T16:18:38.922Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:39] "[35m[1mGET /audio_files/deviation.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-08T16:18:49.082Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:49] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:18:49] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'increases', 'correct': True, 'timestamp': '2024-06-08T16:19:03.534Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:03] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:04] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:04] "[35m[1mGET /audio_files/increases.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'outside observation', 'correct': True, 'timestamp': '2024-06-08T16:19:13.109Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:13] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:13] "[35m[1mGET /audio_files/outside%20observation.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:27] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-08T16:19:27.636Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:27] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:28] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'constitute into the problem', 'correct': True, 'timestamp': '2024-06-08T16:19:40.345Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:19:40] "[35m[1mGET /audio_files/constitute%20into%20the%20problem.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'lies in this this blending of ideas and the cross-fertilisation', 'correct': True, 'timestamp': '2024-06-08T16:20:08.874Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:20:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:20:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:20:09] "[35m[1mGET /audio_files/lies%20in%20this%20this%20blending%20of%20ideas%20and%20the%20cross-fertilisation.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-08T16:20:57.413Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:20:57] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:20:57] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:20:57] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of', 'correct': True, 'timestamp': '2024-06-08T16:21:06.196Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:06] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:06] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:06] "[35m[1mGET /audio_files/thus%20pushing%20the%20frontiers%20of.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'increases', 'correct': True, 'timestamp': '2024-06-08T16:21:13.727Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:14] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:14] "[35m[1mGET /audio_files/increases.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:25] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-08T16:21:25.091Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:25] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'robust', 'correct': True, 'timestamp': '2024-06-08T16:21:44.043Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:44] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:44] "[35m[1mGET /audio_files/robust.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'constitute into the problem', 'correct': True, 'timestamp': '2024-06-08T16:21:59.509Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:21:59] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:22:00] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:22:00] "[35m[1mGET /audio_files/constitute%20into%20the%20problem.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'digging into the archives', 'correct': True, 'timestamp': '2024-06-08T16:22:11.714Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:22:12] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:22:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:22:12] "[35m[1mGET /audio_files/digging%20into%20the%20archives.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'that the lies in this this blending of ideas and the cross-fertilisation of thought which embarges from it', 'correct': True, 'timestamp': '2024-06-08T16:27:58.908Z'}
+ERROR:root:Error in text-to-speech: Module [BarkModel] is missing the required "forward" function
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:27:59] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:27:59] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deep critical of', 'correct': True, 'timestamp': '2024-06-08T16:39:43.442Z'}
+ERROR:root:Error in text-to-speech: Module [BarkModel] is missing the required "forward" function
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:39:43] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:39:43] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'altering', 'correct': False, 'timestamp': '2024-06-08T16:42:16.225Z'}
+ERROR:root:Error in text-to-speech: Module [BarkModel] is missing the required "forward" function
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:42:16] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:42:16] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: Module [BarkModel] is missing the required "forward" function
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:42:18] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'altering', 'correct': True, 'timestamp': '2024-06-08T16:42:18.707Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:42:19] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+ERROR:root:Error in text-to-speech: Module [BarkModel] is missing the required "forward" function
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:44:22] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'altering', 'correct': False, 'timestamp': '2024-06-08T16:44:06.652Z'}
+ERROR:root:Error in text-to-speech: Module [BarkModel] is missing the required "forward" function
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:44:22] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'altering', 'correct': True, 'timestamp': '2024-06-08T16:44:07.763Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:44:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:44:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:51:13] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:51:13] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-08T16:51:26.508Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:51:26] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: _forward_unimplemented() got an unexpected keyword argument 'input_ids'
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:51:53] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'soundly', 'correct': True, 'timestamp': '2024-06-08T16:53:18.997Z'}
+INFO:root:Received statistic: {'word': 'deviation', 'correct': True, 'timestamp': '2024-06-08T16:53:22.052Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:53:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:53:41] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: _forward_unimplemented() got an unexpected keyword argument 'input_ids'
+ERROR:root:Error in text-to-speech: _forward_unimplemented() got an unexpected keyword argument 'input_ids'
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:54:29] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:54:29] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'need to come to', 'correct': True, 'timestamp': '2024-06-08T16:56:26.456Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:56:26] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'need to come to', 'correct': True, 'timestamp': '2024-06-08T16:57:59.512Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:58:15] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+ERROR:root:Error in text-to-speech: _forward_unimplemented() got an unexpected keyword argument 'input_ids'
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 18:58:57] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'need to come to', 'correct': True, 'timestamp': '2024-06-08T17:25:45.440Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:25:49] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:28:05] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:28:05] "[35m[1mGET /audio_files/need%20to%20come%20to.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:28:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'is intellectually independent from', 'correct': True, 'timestamp': '2024-06-08T17:33:43.783Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:33:44] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of knowledge', 'correct': True, 'timestamp': '2024-06-08T17:34:59.102Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:34:59] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:47:45] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:47:45] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:47:45] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'tradycyjnie przyj¹³ taki pogl¹d', 'correct': True, 'timestamp': '2024-06-08T17:49:02.402Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:49:02] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:49:04] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:49:04] "[35m[1mGET /audio_files/tradycyjnie%20przyj¹³%20taki%20pogl¹d.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:49:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'te uprzedzenia na temat', 'correct': False, 'timestamp': '2024-06-08T17:50:51.718Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:50:53] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:50:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:50:54] "[35m[1mGET /audio_files/te%20uprzedzenia%20na%20temat.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:27] "[36mGET /multi_select.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:27] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:27] "GET /multi_select.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:27] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'bardziej liberalne spojrzenie', 'correct': True, 'timestamp': '2024-06-08T17:52:37.008Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:37] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:37] "[35m[1mGET /audio_files/bardziej%20liberalne%20spojrzenie.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:52:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'g³êboko krytyczny wobec', 'correct': True, 'timestamp': '2024-06-08T17:53:50.991Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:53:51] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:53:51] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:53:51] "[35m[1mGET /audio_files/g³êboko%20krytyczny%20wobec.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'extremely careful', 'correct': True, 'timestamp': '2024-06-08T17:53:59.414Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:53:59] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:00] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:00] "[35m[1mGET /audio_files/extremely%20careful.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'that the lies in this this blending of ideas and the cross-fertilisation of thought which embarges from it', 'correct': True, 'timestamp': '2024-06-08T17:54:10.639Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:10] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:11] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:11] "[35m[1mGET /audio_files/that%20the%20lies%20in%20this%20this%20blending%20of%20ideas%20and%20the%20cross-fertilisation%20of%20thought%20which%20embarges%20from%20it.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'deep critical of', 'correct': True, 'timestamp': '2024-06-08T17:54:24.106Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:24] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:24] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:24] "[35m[1mGET /audio_files/deep%20critical%20of.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-08T17:54:29.912Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:30] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:30] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 19:54:30] "[35m[1mGET /audio_files/contemporary%20Irish%20property.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'somewhat misplaced', 'correct': True, 'timestamp': '2024-06-08T19:43:47.073Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:44:07] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:44:08] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:44:08] "[35m[1mGET /audio_files/somewhat%20misplaced.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'reach a conclusion', 'correct': True, 'timestamp': '2024-06-08T19:45:40.300Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:40] "[35m[1mGET /audio_files/reach%20a%20conclusion.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'reach a conclusion', 'correct': True, 'timestamp': '2024-06-08T19:45:50.472Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:50] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:51] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:56] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'lies in this this blending of ideas and the cross-fertilisation', 'correct': True, 'timestamp': '2024-06-08T19:45:55.847Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:56] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:56] "[35m[1mGET /audio_files/lies%20in%20this%20this%20blending%20of%20ideas%20and%20the%20cross-fertilisation.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 21:45:56] "[35m[1mGET /audio_files/lies%20in%20this%20this%20blending%20of%20ideas%20and%20the%20cross-fertilisation.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T21:14:50.576Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:14:50] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:15:16] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:15:16] "[35m[1mGET /audio_files/-3143597466976163721.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T21:15:45.588Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:15:45] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:16:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:16:45] "[35m[1mGET /audio_files/-3143597466976163721.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:16:45] "[35m[1mGET /audio_files/-3143597466976163721.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T21:18:37.653Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:18:37] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: name 'url_for' is not defined
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:18:59] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T21:19:31.334Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:19:35] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:20:23] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-08T21:22:40.697Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:22:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:23:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:23:01] "[35m[1mGET /audio_files/relevant%20chart.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T21:24:12.936Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:24:13] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:24:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:24:52] "[35m[1mGET /audio_files/traditionally%20taken%20the%20view.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T21:27:33.400Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:27:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:28:06] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:28:06] "[35m[1mGET /audio_files/traditionally%20taken%20the%20view.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T21:42:31.091Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:42:31] "POST /save_statistic HTTP/1.1" 200 -
+WARNING:huggingface_hub.file_download:Error while downloading from https://cdn-lfs.huggingface.co/repos/4c/e4/4ce409f230820cf604cc9b1293ce413b690b70ddcbaa4d4ef5d0b7db3db7b44e/f0f7f16b24f65789ce42b3c491aa6a1cdf219f7ef425066fcd194485245e65d9?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1718142155&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODE0MjE1NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy80Yy9lNC80Y2U0MDlmMjMwODIwY2Y2MDRjYzliMTI5M2NlNDEzYjY5MGI3MGRkY2JhYTRkNGVmNWQwYjdkYjNkYjdiNDRlL2YwZjdmMTZiMjRmNjU3ODljZTQyYjNjNDkxYWE2YTFjZGYyMTlmN2VmNDI1MDY2ZmNkMTk0NDg1MjQ1ZTY1ZDk%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=I3L%7ESdgJs7QvtAoIk-LDTwV51ZkW5YUB4Pk4e31MSOSqaFVUu-4IlnVTmAEGjJYZWfXRD13f6EroGTzxjyTyUMNahNyw1B3OCL72Ih1CEzLojE38pVTHu1KZl4scVXiO76l6Y2KMP1dWP4542iYEj35yw5IaarZSNWstEJptbioVQ2c5dJEULyXBsda66xxTq6e9OSikAMfnVVRUPheV7xzmTpgPJ%7ETVqhcOQkglf6iyyjNxVAdxXKXNV1e46%7E0PKEyn1yoPC2rxSAfORBmvBgTlZ0T0r8GHw7fe9GT548Jrdbj8XEtIR0NbFVWSttQr1kvcWWpi4SMnPxrnzjTAkQ__&Key-Pair-Id=KVTP0A1DKRTAX: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+ERROR:root:Error in text-to-speech: Could not load model suno/bark-small with any of the following classes: (<class 'transformers.models.auto.modeling_auto.AutoModelForTextToWaveform'>, <class 'transformers.models.auto.modeling_auto.AutoModelForTextToSpectrogram'>, <class 'transformers.models.bark.modeling_bark.BarkModel'>). See the original errors:
+
+while loading with AutoModelForTextToWaveform, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 737, in _error_catcher
+    yield
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 862, in _raw_read
+    data = self._fp_read(amt, read1=read1) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 845, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 479, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1252, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1104, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 1043, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 935, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 861, in _raw_read
+    with self._error_catcher():
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\response.py", line 742, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 539, in http_get
+    for chunk in r.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1099, in _validate_conn
+    conn.connect()
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 616, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020A37B3E150>: Failed to resolve 'cdn-lfs.huggingface.co' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Max retries exceeded with url: /repos/4c/e4/4ce409f230820cf604cc9b1293ce413b690b70ddcbaa4d4ef5d0b7db3db7b44e/f0f7f16b24f65789ce42b3c491aa6a1cdf219f7ef425066fcd194485245e65d9?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1718142155&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODE0MjE1NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy80Yy9lNC80Y2U0MDlmMjMwODIwY2Y2MDRjYzliMTI5M2NlNDEzYjY5MGI3MGRkY2JhYTRkNGVmNWQwYjdkYjNkYjdiNDRlL2YwZjdmMTZiMjRmNjU3ODljZTQyYjNjNDkxYWE2YTFjZGYyMTlmN2VmNDI1MDY2ZmNkMTk0NDg1MjQ1ZTY1ZDk~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=I3L~SdgJs7QvtAoIk-LDTwV51ZkW5YUB4Pk4e31MSOSqaFVUu-4IlnVTmAEGjJYZWfXRD13f6EroGTzxjyTyUMNahNyw1B3OCL72Ih1CEzLojE38pVTHu1KZl4scVXiO76l6Y2KMP1dWP4542iYEj35yw5IaarZSNWstEJptbioVQ2c5dJEULyXBsda66xxTq6e9OSikAMfnVVRUPheV7xzmTpgPJ~TVqhcOQkglf6iyyjNxVAdxXKXNV1e46~0PKEyn1yoPC2rxSAfORBmvBgTlZ0T0r8GHw7fe9GT548Jrdbj8XEtIR0NbFVWSttQr1kvcWWpi4SMnPxrnzjTAkQ__&Key-Pair-Id=KVTP0A1DKRTAX (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020A37B3E150>: Failed to resolve 'cdn-lfs.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\pipelines\base.py", line 283, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\models\auto\auto_factory.py", line 563, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\modeling_utils.py", line 3380, in from_pretrained
+    resolved_archive_file = cached_file(
+                            ^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\utils\hub.py", line 399, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 1221, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 1367, in _hf_hub_download_to_cache_dir
+    _download_to_tmp_and_move(
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 1884, in _download_to_tmp_and_move
+    http_get(
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 556, in http_get
+    return http_get(
+           ^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 459, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py", line 395, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\utils\_http.py", line 66, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: (MaxRetryError('HTTPSConnectionPool(host=\'cdn-lfs.huggingface.co\', port=443): Max retries exceeded with url: /repos/4c/e4/4ce409f230820cf604cc9b1293ce413b690b70ddcbaa4d4ef5d0b7db3db7b44e/f0f7f16b24f65789ce42b3c491aa6a1cdf219f7ef425066fcd194485245e65d9?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1718142155&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODE0MjE1NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy80Yy9lNC80Y2U0MDlmMjMwODIwY2Y2MDRjYzliMTI5M2NlNDEzYjY5MGI3MGRkY2JhYTRkNGVmNWQwYjdkYjNkYjdiNDRlL2YwZjdmMTZiMjRmNjU3ODljZTQyYjNjNDkxYWE2YTFjZGYyMTlmN2VmNDI1MDY2ZmNkMTk0NDg1MjQ1ZTY1ZDk~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=I3L~SdgJs7QvtAoIk-LDTwV51ZkW5YUB4Pk4e31MSOSqaFVUu-4IlnVTmAEGjJYZWfXRD13f6EroGTzxjyTyUMNahNyw1B3OCL72Ih1CEzLojE38pVTHu1KZl4scVXiO76l6Y2KMP1dWP4542iYEj35yw5IaarZSNWstEJptbioVQ2c5dJEULyXBsda66xxTq6e9OSikAMfnVVRUPheV7xzmTpgPJ~TVqhcOQkglf6iyyjNxVAdxXKXNV1e46~0PKEyn1yoPC2rxSAfORBmvBgTlZ0T0r8GHw7fe9GT548Jrdbj8XEtIR0NbFVWSttQr1kvcWWpi4SMnPxrnzjTAkQ__&Key-Pair-Id=KVTP0A1DKRTAX (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020A37B3E150>: Failed to resolve \'cdn-lfs.huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 7e8d38a8-521e-442e-955f-36f27d9d3ad1)')
+
+while loading with AutoModelForTextToSpectrogram, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\pipelines\base.py", line 283, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\models\auto\auto_factory.py", line 566, in from_pretrained
+    raise ValueError(
+ValueError: Unrecognized configuration class <class 'transformers.models.bark.configuration_bark.BarkConfig'> for this kind of AutoModel: AutoModelForTextToSpectrogram.
+Model type should be one of FastSpeech2ConformerConfig, SpeechT5Config.
+
+while loading with BarkModel, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1099, in _validate_conn
+    conn.connect()
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 616, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000020A37B3D040>: Failed to resolve 'huggingface.co' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/tf_model.h5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020A37B3D040>: Failed to resolve 'huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\pipelines\base.py", line 283, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\modeling_utils.py", line 3430, in from_pretrained
+    if has_file(pretrained_model_name_or_path, TF2_WEIGHTS_NAME, **has_file_kwargs):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\transformers\utils\hub.py", line 629, in has_file
+    r = requests.head(url, headers=headers, allow_redirects=False, proxies=proxies, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 100, in head
+    return request("head", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\engli\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/tf_model.h5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020A37B3D040>: Failed to resolve 'huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+
+
+
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:48:16] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T21:49:43.716Z'}
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2024 23:49:44] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'I' format requires 0 <= number <= 4294967295
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:18:52] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:30:03.321Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:30:03] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'I' format requires 0 <= number <= 4294967295
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:30:45] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:36:39.611Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:36:39] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'H' format requires 0 <= number <= 65535
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:37:09] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:38:47.270Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:38:47] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'H' format requires 0 <= number <= 65535
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:39:21] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:39:54.821Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:39:57] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'H' format requires 0 <= number <= 65535
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:40:29] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:41:36.993Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:41:37] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: BertTokenizerFast(name_or_path='suno/bark-small', vocab_size=119547, model_max_length=512, is_fast=True, padding_side='right', truncation_side='right', special_tokens={'unk_token': '[UNK]', 'sep_token': '[SEP]', 'pad_token': '[PAD]', 'cls_token': '[CLS]', 'mask_token': '[MASK]'}, clean_up_tokenization_spaces=True),  added_tokens_decoder={
+	0: AddedToken("[PAD]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	100: AddedToken("[UNK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	101: AddedToken("[CLS]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	102: AddedToken("[SEP]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	103: AddedToken("[MASK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+} got multiple values for keyword argument 'padding'
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:41:40] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:44:02.559Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:44:03] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: The size of tensor a (128) must match the size of tensor b (256) at non-singleton dimension 1
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:44:07] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:44:25.022Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:44:27] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'H' format requires 0 <= number <= 65535
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:44:58] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:46:13.155Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:46:13] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'H' format requires 0 <= number <= 65535
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:49:45] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T22:54:38.371Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:54:38] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: 'BarkConfig' object has no attribute 'sample_rate'
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 00:57:58] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T23:04:27.158Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:04:27] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:07:36] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:07:36] "[35m[1mGET /audio_files/traditionally%20taken%20the%20view.wav HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T23:10:49.301Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:10:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:11:30] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:11:30] "[35m[1mGET /audio_files/traditionally%20taken%20the%20view.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-08T23:11:49.586Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:11:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:12:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:12:32] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:12:32] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-08T23:13:14.564Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:13:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:16:31] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 01:16:31] "[35m[1mGET /audio_files/that%20the%20lies%20in%20this%20this%20blending%20of%20ideas%20and%20the%20cross-fertilisation%20of%20thought%20which%20embarges%20from%20it.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error in text-to-speech: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-09T07:46:42.289Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:46:42] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:47:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:47:54] "GET /audio_files/deal%20with.mp3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:47:54] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:47:54] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:root:Received statistic: {'word': 'deal with', 'correct': False, 'timestamp': '2024-06-09T07:49:59.821Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:50:00] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:51:30] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:51:31] "[35m[1mGET /audio_files/contemporary%20Irish%20property.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:51:31] "[35m[1mGET /audio_files/contemporary%20Irish%20property.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-127-910
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:04] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-09T07:54:03.836Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:04] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:04] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:04] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': False, 'timestamp': '2024-06-09T07:54:16.452Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-09T07:54:21.462Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:21] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:54:45] "[35m[1mGET /audio_files/points%20raised.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'increases', 'correct': True, 'timestamp': '2024-06-09T07:55:04.812Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:05] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of knowledge', 'correct': True, 'timestamp': '2024-06-09T07:55:11.463Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'would advocate greater freedom', 'correct': True, 'timestamp': '2024-06-09T07:55:22.097Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:22] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:22] "[35m[1mGET /audio_files/would%20advocate%20greater%20freedom.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:28] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:29] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'digging into the archives', 'correct': True, 'timestamp': '2024-06-09T07:55:35.642Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:35] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-09T07:55:41.498Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:41] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:45] "[35m[1mGET /audio_files/increases.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-09T07:55:52.928Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:54] "[35m[1mGET /audio_files/contemporary%20Irish%20property.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:55:54] "[35m[1mGET /audio_files/contemporary%20Irish%20property.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:20] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:20] "[35m[1mGET /audio_files/thus%20pushing%20the%20frontiers%20of%20knowledge.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:29] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:30] "[35m[1mGET /audio_files/digging%20into%20the%20archives.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:50] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'increases', 'correct': True, 'timestamp': '2024-06-09T07:56:50.988Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:51] "[35m[1mGET /audio_files/increases.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:56:51] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'that preconceptions about', 'correct': True, 'timestamp': '2024-06-09T07:57:08.099Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:16] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-09T07:57:16.400Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:16] "[35m[1mGET /audio_files/contemporary%20Irish%20property.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-09T07:57:46.472Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:46] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:46] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:57:47] "[35m[1mGET /audio_files/deal%20with.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:58:11] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised', 'correct': True, 'timestamp': '2024-06-09T07:58:10.895Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:58:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:58:11] "[35m[1mGET /audio_files/points%20raised.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:58:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:58:32] "[35m[1mGET /audio_files/that%20preconceptions%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 09:58:32] "[35m[1mGET /audio_files/that%20preconceptions%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'reach a conclusion', 'correct': True, 'timestamp': '2024-06-09T08:00:31.963Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:00:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:00:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:00:53] "[35m[1mGET /audio_files/reach%20a%20conclusion.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'relevant', 'correct': True, 'timestamp': '2024-06-09T08:01:01.098Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:01:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:02:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:02:45] "[35m[1mGET /audio_files/relevant.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'altering', 'correct': True, 'timestamp': '2024-06-09T08:03:05.096Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:03:05] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:03:36] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:03:36] "[35m[1mGET /audio_files/altering.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'within each', 'correct': True, 'timestamp': '2024-06-09T08:03:51.863Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:03:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:04:29] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:04:29] "[35m[1mGET /audio_files/within%20each.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'insights', 'correct': True, 'timestamp': '2024-06-09T08:04:38.431Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:04:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'different fields of learning', 'correct': True, 'timestamp': '2024-06-09T08:04:51.617Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:04:51] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'would advocate greater freedom', 'correct': True, 'timestamp': '2024-06-09T08:05:13.148Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:13] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:13] "[35m[1mGET /audio_files/would%20advocate%20greater%20freedom.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:16] "[35m[1mGET /audio_files/insights.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'is intellectually independent from', 'correct': True, 'timestamp': '2024-06-09T08:05:25.630Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': False, 'timestamp': '2024-06-09T08:05:32.490Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:33] "[35m[1mGET /audio_files/points%20raised.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-09T08:05:39.736Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:40] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'thus pushing the frontiers of', 'correct': True, 'timestamp': '2024-06-09T08:05:57.486Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:05:57] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:20] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:21] "[35m[1mGET /audio_files/is%20intellectually%20independent%20from.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'within each', 'correct': True, 'timestamp': '2024-06-09T08:06:37.543Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:37] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:38] "[35m[1mGET /audio_files/within%20each.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'causal relationship', 'correct': True, 'timestamp': '2024-06-09T08:06:43.292Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:43] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 841288e5-673a-4b31-aef7-362e2b498aff)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:44] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:55] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:06:55] "[35m[1mGET /audio_files/different%20fields%20of%20learning.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'increases', 'correct': True, 'timestamp': '2024-06-09T08:07:17.656Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:17] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:18] "[35m[1mGET /audio_files/increases.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:22] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'relevant', 'correct': True, 'timestamp': '2024-06-09T08:07:22.258Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:22] "[35m[1mGET /audio_files/relevant.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:07:33] "[35m[1mGET /audio_files/thus%20pushing%20the%20frontiers%20of.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-09T08:10:12.855Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:13] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: b1ad5406-843b-4a10-8bf3-a5c923929aec)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:13] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:24] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'different fields of learning', 'correct': True, 'timestamp': '2024-06-09T08:10:24.809Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:25] "[35m[1mGET /audio_files/different%20fields%20of%20learning.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'that the lies in this this blending of ideas and the cross-fertilisation', 'correct': True, 'timestamp': '2024-06-09T08:10:50.356Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:50] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: d282f625-5720-4ede-a821-86001d135e79)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:10:50] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'deal with', 'correct': True, 'timestamp': '2024-06-09T08:11:33.480Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:11:33] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 71480cf1-c1d1-453d-b981-adce992f8a3c)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:11:33] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'causal relationship', 'correct': True, 'timestamp': '2024-06-09T08:11:44.547Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:11:44] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: cdaf1056-1e80-4d35-97c9-cf217db96dc1)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:11:45] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 34f0542d-dfa9-453e-822f-2dfe6a8e09cc)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:01] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'contemporary Irish property', 'correct': True, 'timestamp': '2024-06-09T08:12:01.734Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:02] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'points raised by the research', 'correct': True, 'timestamp': '2024-06-09T08:12:13.886Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:14] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:14] "[35m[1mGET /audio_files/points%20raised%20by%20the%20research.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:20] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'relevant', 'correct': True, 'timestamp': '2024-06-09T08:12:20.066Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:20] "[35m[1mGET /audio_files/relevant.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:20] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'would advocate greater freedom', 'correct': True, 'timestamp': '2024-06-09T08:12:44.735Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:45] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:45] "[35m[1mGET /audio_files/would%20advocate%20greater%20freedom.mp3 HTTP/1.1[0m" 206 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 4e337c08-5326-421f-837b-8aa4def72fee)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:53] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-09T08:12:53.044Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:12:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'relevant chart', 'correct': True, 'timestamp': '2024-06-09T08:13:58.139Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:13:58] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 20e80b20-e76e-4c91-88c5-2bb29ae08b87)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:13:58] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: fff0cf8c-7660-4dfe-86c4-90f1435401c2)')
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:14:15] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'that the lies in this this blending of ideas and the cross-fertilisation', 'correct': True, 'timestamp': '2024-06-09T08:14:15.131Z'}
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 10:14:15] "POST /save_statistic HTTP/1.1" 200 -
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 5a127e4a-81c7-4711-a55c-a5a238dabd6b)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 8607cce8-f066-4e61-99c1-5e62ba88ee72)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 94477f29-fac1-4927-8319-3c827914f2a5)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 7fb1f4b7-bcae-41dd-adc5-164676bbd5bc)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 05bc53de-04df-4311-992a-0900bccfbad2)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 3ea19bfc-5e5a-45d5-a07e-add30384b07f)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 0520b432-add1-4894-925c-4c553bbd0b12)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 8b066049-ed43-43a8-9e8c-2e64eaa0e026)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 0e38aa4f-56d1-4569-aba0-9ba3f9e931b7)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 0c4a67cf-95ae-4820-be01-9ac9d200f75f)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: ac7f0679-685f-443c-8555-86de1f8b4cee)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: e0f3b7cb-97a5-411c-b2bc-5bc01fa1b56b)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 9a80a58e-8502-4dac-bd00-d3021bce3aab)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: f9eb7023-07fa-4fb2-b7cf-d43d1a6fe4a0)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 090ba434-a3e2-41d4-852d-1ec33706b74f)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: d2127f83-980e-47bd-9111-466077811b72)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 012bd997-8d86-4506-835e-e5ce64098d0e)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: c93352f7-9f6b-4778-9148-c3351c572a03)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 98abc3d0-2ad6-488a-9615-d681a2e64385)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 41c41c4c-b780-4051-900e-7e8fda5753c5)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: e1297be4-555f-46ce-b63c-9ff9b24f1fb3)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 63bc933c-bc16-4051-84b6-dd095c237ab8)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 2647caf7-b1cc-4ff1-8f92-7b96c30dc4d8)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 711ae64b-9207-452e-a49a-8aa854358485)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 5496f130-9850-4b4c-95b0-0871fdd4ab51)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 091f891d-f70a-4c94-a4ce-e91e4cc178c3)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: f52a4b6b-113c-4fdf-ab29-0e6122ee3fca)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 7c1c0a7c-b66b-448a-a329-c8a699fbe2c7)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: a76b3fe3-70e3-4bc8-a095-8f38a7345ae0)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: cd25ef84-1861-4710-a866-807871a3c7f1)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: ee4b239d-04b3-49ef-bbe2-d9650ee98344)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 402471c5-d4a1-442f-b6f7-cbba59f03515)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 3e92c6d7-c628-4af4-b387-3487e5e19554)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: ca8ddc2d-3ca1-4e9c-a076-0c5958bf0173)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 2a7afc24-963a-498c-8e9c-48f3775e6da5)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: 2d389821-0831-4684-b457-4a6fbcd81a19)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: db89e435-1a23-4de6-9781-749ff65e0e9f)')
+ERROR:root:Error in text-to-speech: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /suno/bark-small/resolve/main/processor_config.json (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for \'huggingface.co\'. (_ssl.c:1000)")))'), '(Request ID: ec374ada-e7a1-4489-87d9-e0f11df6056f)')
