@@ -49,7 +49,7 @@ Create a new file requirements.txt with the following content:
 
 5. Page is avaible
     ```bash
-    http://localhost:3000/multi_select.html
+    http://localhost:3000/multi_learning.html
     ```
 
 ## Documentation
