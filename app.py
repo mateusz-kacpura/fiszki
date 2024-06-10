@@ -1,11 +1,9 @@
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["SUNO_USE_SMALL_MODELS"] = "1"
-import time
 import json
 import logging
 import requests
-import numpy as np
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
 from flask import send_from_directory
@@ -14,6 +12,10 @@ from openpyxl import load_workbook
 from transformers import AutoProcessor, AutoModel
 from scipy.io.wavfile import write
 from pydub import AudioSegment
+import whisper
+import pyaudio
+import numpy as np
+
 import scipy
 
 
@@ -43,6 +45,48 @@ for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
 
 # Logging
 logging.basicConfig(filename='app.log', level=logging.INFO)
+
+@app.route('/real-time-speech-recognition', methods=['POST'])
+def real_time_speech_recognition():
+    try:
+        model = whisper.load_model("medium")
+        CHUNK = 1024
+        FORMAT = pyaudio.paInt16
+        CHANNELS = 1
+        RATE = 16000
+
+        p = pyaudio.PyAudio()
+        stream = p.open(format=FORMAT,
+                        channels=CHANNELS,
+                        rate=RATE,
+                        input=True,
+                        frames_per_buffer=CHUNK)
+
+        print("Rozpoczęto nagrywanie...")
+
+        while True:
+            data = stream.read(CHUNK)
+            audio_data = np.frombuffer(data, dtype=np.int16)
+            result = model.transcribe(audio_data, language='pl')
+            print("Transkrypcja: ", result["text"])
+            return jsonify({'transcription': result["text"]})
+
+    except KeyboardInterrupt:
+        print("Zatrzymano nagrywanie.")
+        stream.stop_stream()
+        stream.close()
+        p.terminate()
+        return jsonify({'message': 'Recording stopped'}), 200
+
+    except Exception as e:
+        print(f"Error in real-time speech recognition: {e}")
+        logging.error(f"Error in real-time speech recognition: {e}")
+        return jsonify({'error': 'Failed to process speech'}), 500
+
+    finally:
+        stream.stop_stream()
+        stream.close()
+        p.terminate()
 
 @app.route('/<path:path>')
 def send_static(path):

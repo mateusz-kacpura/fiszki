@@ -5365,3 +5365,415 @@ INFO:root:Received statistic: {'word': 'It seems clear to me that', 'correct': T
 INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 10:26:41] "POST /text-to-speech HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 10:26:41] "[35m[1mGET /audio_files/It%20seems%20clear%20to%20me%20that.mp3 HTTP/1.1[0m" 206 -
 INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 10:26:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:15] "[33mGET /multi_select.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:22] "[33mGET /multi_select.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:27] "[33mGET /multi_select.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:40] "GET /multi_learning.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:40] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'przypadków wzrasta', 'correct': False, 'timestamp': '2024-06-10T13:29:46.435Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:46] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:46] "[35m[1mGET /audio_files/przypadków%20wzrasta.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:46] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'trzeba przyjechaæ', 'correct': True, 'timestamp': '2024-06-10T13:29:59.807Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:59] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:59] "[35m[1mGET /audio_files/trzeba%20przyjechaæ.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:29:59] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Wydaje mi siê jasne, ¿e', 'correct': True, 'timestamp': '2024-06-10T13:31:34.187Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:31:34] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:31:34] "[35m[1mGET /audio_files/Wydaje%20mi%20siê%20jasne,%20¿e.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:31:34] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'list motywacyjny', 'correct': True, 'timestamp': '2024-06-10T13:31:42.090Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:31:42] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:31:42] "[35m[1mGET /audio_files/list%20motywacyjny.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:31:42] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:37] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:48] "GET /scattered_words_learning.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:48] "[33mGET /settings/excludedSentences.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:55] "[31m[1mPOST /text-to-speech HTTP/1.1[0m" 400 -
+INFO:root:Received statistic: {'sentence': '', 'correct': True, 'timestamp': '2024-06-10T13:52:55.944Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:56] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:57] "[31m[1mPOST /text-to-speech HTTP/1.1[0m" 400 -
+INFO:root:Received statistic: {'sentence': '', 'correct': True, 'timestamp': '2024-06-10T13:52:57.843Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:52:57] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:root:Received statistic: {'sentence': 'She adopted more social', 'correct': False, 'timestamp': '2024-06-10T13:53:22.194Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:53:31] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:53:31] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': '', 'correct': False, 'timestamp': '2024-06-10T13:53:29.328Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:53:31] "[35m[1mGET /audio_files/She%20adopted%20a%20more%20liberal%20view%20on%20social%20issues..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:53:31] "[35m[1mGET /audio_files/The%20professor%20is%20known%20for%20his%20deep%20critical%20analysis%20of%20literary%20works..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:53:31] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 15:53:31] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': '', 'correct': False, 'timestamp': '2024-06-10T14:13:41.961Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:13:41] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:13:42] "[35m[1mGET /audio_files/The%20professor%20is%20known%20for%20his%20deep%20critical%20analysis%20of%20literary%20works..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:13:42] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'sentence': 'The professor is known for his deep critical analysis of literary works.', 'correct': True, 'timestamp': '2024-06-10T14:14:38.916Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:14:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:14:38] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:14:39] "[35m[1mGET /audio_files/The%20professor%20is%20known%20for%20his%20deep%20critical%20analysis%20of%20literary%20works..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:15:26] "[36mGET /scattered_words_learning.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:15:26] "[33mGET /settings/excludedSentences.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:15:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'The', 'correct': False, 'timestamp': '2024-06-10T14:15:47.758Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:15:47] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:15:47] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:15:47] "[35m[1mGET /audio_files/The%20outcome%20of%20the%20experiment%20remains%20uncertain..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'The outcome of the experiment remains uncertain.', 'correct': True, 'timestamp': '2024-06-10T14:16:03.896Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:16:03] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:16:03] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'sentence': 'The', 'correct': False, 'timestamp': '2024-06-10T14:16:21.552Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:16:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:16:21] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:16:21] "[35m[1mGET /audio_files/The%20country%20has%20traditionally%20taken%20the%20view%20that%20education%20is%20a%20fundamental%20right..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'The country has traditionally taken the view that education is a fundamental right.', 'correct': True, 'timestamp': '2024-06-10T14:17:40.917Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:17:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:17:40] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:17:40] "[35m[1mGET /audio_files/The%20country%20has%20traditionally%20taken%20the%20view%20that%20education%20is%20a%20fundamental%20right..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:18:36] "GET /multi_learning.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:18:36] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:18:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'odchylenie', 'correct': True, 'timestamp': '2024-06-10T14:18:48.060Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:18:48] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:18:48] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:18:48] "[35m[1mGET /audio_files/odchylenie.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Muszê ciê zachêciæ do', 'correct': True, 'timestamp': '2024-06-10T14:19:11.712Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:19:11] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:19:11] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:19:11] "[35m[1mGET /audio_files/Muszê%20ciê%20zachêciæ%20do.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'niepewny', 'correct': True, 'timestamp': '2024-06-10T14:19:55.210Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:19:55] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:19:55] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:19:55] "[35m[1mGET /audio_files/niepewny.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'opowiada³by siê za wiêksz¹ swobod¹', 'correct': True, 'timestamp': '2024-06-10T14:20:08.121Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:08] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:08] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:08] "[35m[1mGET /audio_files/opowiada³by%20siê%20za%20wiêksz¹%20swobod¹.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'wspó³czesna irlandzka w³asnoœæ', 'correct': True, 'timestamp': '2024-06-10T14:20:21.466Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:21] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:21] "[35m[1mGET /audio_files/wspó³czesna%20irlandzka%20w³asnoœæ.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'szkolenie w miejscu pracy', 'correct': True, 'timestamp': '2024-06-10T14:20:30.192Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:30] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:30] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:30] "[35m[1mGET /audio_files/szkolenie%20w%20miejscu%20pracy.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 's³owa kluczowe', 'correct': True, 'timestamp': '2024-06-10T14:20:35.759Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:35] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:35] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:35] "[35m[1mGET /audio_files/s³owa%20kluczowe.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'wzrasta', 'correct': True, 'timestamp': '2024-06-10T14:20:40.545Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:40] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:40] "[35m[1mGET /audio_files/wzrasta.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'punkty poruszone w badaniu', 'correct': True, 'timestamp': '2024-06-10T14:20:43.595Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:43] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:43] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:43] "[35m[1mGET /audio_files/punkty%20poruszone%20w%20badaniu.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'odpowiedni', 'correct': False, 'timestamp': '2024-06-10T14:20:54.002Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:54] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:54] "[35m[1mGET /audio_files/odpowiedni.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'ustalony na jakiœ czas', 'correct': False, 'timestamp': '2024-06-10T14:20:55.387Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:55] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:55] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:55] "[35m[1mGET /audio_files/ustalony%20na%20jakiœ%20czas.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'przesadny, wyolbrzymiony', 'correct': True, 'timestamp': '2024-06-10T14:20:56.681Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:56] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:56] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:20:56] "[35m[1mGET /audio_files/przesadny,%20wyolbrzymiony.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'CV', 'correct': True, 'timestamp': '2024-06-10T14:21:03.965Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:21:03] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+ERROR:root:Error in text-to-speech: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /suno/bark/resolve/main/model.safetensors (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002554B18D850>: Failed to resolve 'huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:21:05] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:21:16] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'ustalony na jakiœ czas', 'correct': True, 'timestamp': '2024-06-10T14:21:16.215Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:21:16] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'osoba przedsiêbiorcza', 'correct': True, 'timestamp': '2024-06-10T14:21:20.721Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:21:20] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+ERROR:root:Error in text-to-speech: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /suno/bark/resolve/main/model.safetensors (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002554FC82A50>: Failed to resolve 'huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:21:20] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'opowiada³by siê za wiêksz¹ swobod¹', 'correct': False, 'timestamp': '2024-06-10T14:46:13.605Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:13] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:13] "[35m[1mGET /audio_files/opowiada³by%20siê%20za%20wiêksz¹%20swobod¹.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'ró¿nych dziedzin nauki', 'correct': True, 'timestamp': '2024-06-10T14:46:15.521Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:15] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:15] "[35m[1mGET /audio_files/ró¿nych%20dziedzin%20nauki.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'polega na tym mieszaniu siê pomys³ów i wzajemnej inspiracji', 'correct': True, 'timestamp': '2024-06-10T14:46:25.273Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:25] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:25] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:25] "[35m[1mGET /audio_files/polega%20na%20tym%20mieszaniu%20siê%20pomys³ów%20i%20wzajemnej%20inspiracji.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Zapewniam ciê, ¿e', 'correct': False, 'timestamp': '2024-06-10T14:46:38.889Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:38] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:38] "[35m[1mGET /audio_files/Zapewniam%20ciê,%20¿e.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'szkolenie w miejscu pracy', 'correct': True, 'timestamp': '2024-06-10T14:46:40.304Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:40] "[35m[1mGET /audio_files/szkolenie%20w%20miejscu%20pracy.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:40] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'jest intelektualnie niezale¿ny od', 'correct': True, 'timestamp': '2024-06-10T14:46:52.631Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:52] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+ERROR:root:Error in text-to-speech: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /suno/bark/resolve/main/model.safetensors (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255506E8560>: Failed to resolve 'huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:46:52] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'odpowiedni', 'correct': True, 'timestamp': '2024-06-10T14:50:26.624Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:26] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:26] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:26] "[35m[1mGET /audio_files/odpowiedni.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Zapewniam ciê, ¿e', 'correct': True, 'timestamp': '2024-06-10T14:50:35.160Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:35] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:35] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'opowiada³by siê za wiêksz¹ swobod¹', 'correct': True, 'timestamp': '2024-06-10T14:50:41.950Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:41] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:41] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'nieco nie na miejscu', 'correct': True, 'timestamp': '2024-06-10T14:50:53.814Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:53] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:50:53] "[35m[1mGET /audio_files/nieco%20nie%20na%20miejscu.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'zwi¹zek przyczynowy', 'correct': False, 'timestamp': '2024-06-10T14:58:29.815Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:58:29] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:58:29] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:58:29] "[35m[1mGET /audio_files/zwi¹zek%20przyczynowy.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'te uprzedzenia na temat', 'correct': True, 'timestamp': '2024-06-10T14:58:39.476Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 16:58:39] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:06] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'trzeba przyjechaæ', 'correct': True, 'timestamp': '2024-06-10T15:00:06.967Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:06] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:06] "[35m[1mGET /audio_files/trzeba%20przyjechaæ.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'przesuwaj¹c w ten sposób granice', 'correct': True, 'timestamp': '2024-06-10T15:00:17.711Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:17] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:17] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:17] "[35m[1mGET /audio_files/przesuwaj¹c%20w%20ten%20sposób%20granice.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'przesuwaj¹c w ten sposób granice', 'correct': True, 'timestamp': '2024-06-10T15:00:18.620Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:18] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:18] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:21] "[35m[1mGET /audio_files/te%20uprzedzenia%20na%20temat.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'przesuwaj¹c w ten sposób granice', 'correct': True, 'timestamp': '2024-06-10T15:00:28.444Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:28] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:28] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:root:Received statistic: {'word': 'podniesione punkty', 'correct': True, 'timestamp': '2024-06-10T15:00:44.400Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:44] "[35m[1mPOST /save_statistic HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:00:44] "[35m[1mGET /audio_files/podniesione%20punkty.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'stanowiæ problem', 'correct': True, 'timestamp': '2024-06-10T15:02:32.864Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:32] "[35m[1mGET /audio_files/stanowiæ%20problem.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Piszê, aby wyraziæ swoje zaniepokojenie faktem, ¿e', 'correct': False, 'timestamp': '2024-06-10T15:02:40.707Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:40] "[35m[1mGET /audio_files/Piszê,%20aby%20wyraziæ%20swoje%20zaniepokojenie%20faktem,%20¿e.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'polega na tym mieszaniu siê pomys³ów i wzajemnej inspiracji', 'correct': True, 'timestamp': '2024-06-10T15:02:43.792Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:43] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:43] "[35m[1mGET /audio_files/polega%20na%20tym%20mieszaniu%20siê%20pomys³ów%20i%20wzajemnej%20inspiracji.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:02:43] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Chcia³bym siê teraz przeprowadziæ', 'correct': False, 'timestamp': '2024-06-10T15:03:09.090Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:09] "[35m[1mGET /audio_files/Chcia³bym%20siê%20teraz%20przeprowadziæ.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'list motywacyjny', 'correct': True, 'timestamp': '2024-06-10T15:03:18.354Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:18] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:18] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:18] "[35m[1mGET /audio_files/list%20motywacyjny.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'trzeba przyjechaæ', 'correct': True, 'timestamp': '2024-06-10T15:03:38.662Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:03:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'g³êboko krytyczny wobec', 'correct': True, 'timestamp': '2024-06-10T15:04:13.071Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:04:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:04:13] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:04:13] "[35m[1mGET /audio_files/g³êboko%20krytyczny%20wobec.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'jest intelektualnie niezale¿ny od', 'correct': False, 'timestamp': '2024-06-10T15:23:58.602Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:23:58] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'te uprzedzenia na temat', 'correct': False, 'timestamp': '2024-06-10T15:23:59.421Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:23:59] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:23:59] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:23:59] "[35m[1mGET /audio_files/te%20uprzedzenia%20na%20temat.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Piszê, aby wyraziæ swoje zaniepokojenie faktem, ¿e', 'correct': True, 'timestamp': '2024-06-10T15:24:01.024Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:01] "[35m[1mGET /audio_files/Piszê,%20aby%20wyraziæ%20swoje%20zaniepokojenie%20faktem,%20¿e.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Piszê, aby wyraziæ swoje zaniepokojenie faktem, ¿e', 'correct': True, 'timestamp': '2024-06-10T15:24:09.461Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'zebraæ wynik', 'correct': True, 'timestamp': '2024-06-10T15:24:21.382Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:21] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:21] "[35m[1mGET /audio_files/zebraæ%20wynik.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'dwujêzyczny', 'correct': True, 'timestamp': '2024-06-10T15:24:25.662Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:25] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:25] "[35m[1mGET /audio_files/dwujêzyczny.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'te uprzedzenia na temat', 'correct': True, 'timestamp': '2024-06-10T15:24:40.049Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:48] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 's³owa kluczowe', 'correct': True, 'timestamp': '2024-06-10T15:24:48.924Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:48] "[35m[1mGET /audio_files/s³owa%20kluczowe.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:24:48] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:26:49] "GET /scattered_words_learning.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:26:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:26:50] "[33mGET /settings/excludedSentences.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'in-house training', 'correct': True, 'timestamp': '2024-06-10T15:27:01.864Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:01] "[35m[1mGET /audio_files/in-house%20training.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'uncertain', 'correct': True, 'timestamp': '2024-06-10T15:27:12.326Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:12] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:12] "[35m[1mGET /audio_files/uncertain.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:25] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'My reason for applying is that', 'correct': True, 'timestamp': '2024-06-10T15:27:25.922Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:25] "[35m[1mGET /audio_files/My%20reason%20for%20applying%20is%20that.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'digging into the archives', 'correct': True, 'timestamp': '2024-06-10T15:27:39.210Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:39] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:39] "[35m[1mGET /audio_files/digging%20into%20the%20archives.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'preconceptions about that', 'correct': False, 'timestamp': '2024-06-10T15:27:50.306Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:50] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:50] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:27:50] "[35m[1mGET /audio_files/that%20preconceptions%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'preconceptions about that', 'correct': False, 'timestamp': '2024-06-10T15:28:01.866Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:01] "[35m[1mGET /audio_files/that%20preconceptions%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'that preconceptions about', 'correct': True, 'timestamp': '2024-06-10T15:28:11.188Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:11] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:11] "[35m[1mGET /audio_files/that%20preconceptions%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'freelance', 'correct': True, 'timestamp': '2024-06-10T15:28:15.705Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:15] "[35m[1mGET /audio_files/freelance.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'established', 'correct': True, 'timestamp': '2024-06-10T15:28:19.465Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:19] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:19] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:19] "[35m[1mGET /audio_files/established.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'established', 'correct': True, 'timestamp': '2024-06-10T15:28:22.637Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:22] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'It seems', 'correct': False, 'timestamp': '2024-06-10T15:28:31.137Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:31] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:31] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:31] "[35m[1mGET /audio_files/It%20seems%20clear%20to%20me%20that.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'It seems clear to me that', 'correct': True, 'timestamp': '2024-06-10T15:28:38.930Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'that preconceptions about', 'correct': True, 'timestamp': '2024-06-10T15:28:46.681Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:46] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:28:46] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I am writing to complain about', 'correct': True, 'timestamp': '2024-06-10T15:29:01.558Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:01] "[35m[1mGET /audio_files/I%20am%20writing%20to%20complain%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'I am writing to complain about', 'correct': True, 'timestamp': '2024-06-10T15:29:12.605Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:12] "[35m[1mGET /audio_files/I%20am%20writing%20to%20complain%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:12] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I would', 'correct': False, 'timestamp': '2024-06-10T15:29:28.939Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:28] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:28] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:29:28] "[35m[1mGET /audio_files/I%20would%20be%20able%20to%20attend%20an%20interview%20at%20any%20time%20which%20is%20convenient%20to%20you.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'I would be able to attend interview at an time which is convenient to you', 'correct': False, 'timestamp': '2024-06-10T15:30:53.635Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:30:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:30:53] "[35m[1mGET /audio_files/I%20would%20be%20able%20to%20attend%20an%20interview%20at%20any%20time%20which%20is%20convenient%20to%20you.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:30:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I would be able to attend an interview at any time which is convenient to you', 'correct': True, 'timestamp': '2024-06-10T15:31:39.838Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:39] "[35m[1mGET /audio_files/I%20would%20be%20able%20to%20attend%20an%20interview%20at%20any%20time%20which%20is%20convenient%20to%20you.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:39] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:51] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I assure that you', 'correct': False, 'timestamp': '2024-06-10T15:31:51.243Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:51] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:51] "[35m[1mGET /audio_files/I%20assure%20you%20that.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'I assure you that', 'correct': True, 'timestamp': '2024-06-10T15:31:58.203Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:58] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:31:58] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'stimulating', 'correct': True, 'timestamp': '2024-06-10T15:32:02.031Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:02] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:02] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:02] "[35m[1mGET /audio_files/stimulating.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': '', 'correct': False, 'timestamp': '2024-06-10T15:32:05.577Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:05] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:05] "[35m[1mGET /audio_files/cases%20increases.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:05] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'increases cases', 'correct': False, 'timestamp': '2024-06-10T15:32:14.362Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:14] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'cases increases', 'correct': True, 'timestamp': '2024-06-10T15:32:21.010Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:21] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I would like', 'correct': False, 'timestamp': '2024-06-10T15:32:30.896Z'}
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:30] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:30] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:32:30] "[35m[1mGET /audio_files/I%20would%20like%20to%20have%20further%20information%20about.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:55:58] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:55:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:56:04] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:56:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:14] "GET /multi_learning.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:14] "[33mGET /settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:19] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:40] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 17:59:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:03:46] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 410-288-851
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:05:55] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:08:11] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:10:59] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:12:14] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:12:38] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:23:26] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:24:04] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 18:25:12] "GET /index.html HTTP/1.1" 200 -

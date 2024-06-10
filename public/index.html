@@ -29,6 +29,7 @@
     </div>
     <button class="btn btn-primary" onclick="fetchData()">Load Data</button>
     <button class="btn btn-secondary" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+    <button class="btn btn-info" onclick="toggleDirection()">Toggle Direction</button>
 
     <div id="quiz" style="display: none;">
       <div class="card mt-3">
@@ -41,6 +42,7 @@
           </div>
           <button class="btn btn-primary mr-2" onclick="checkTranslation()">Check</button>
           <button class="btn btn-success" onclick="generateRandomWord()">Next Word</button>
+          <button class="btn btn-warning" id="start-recording" onclick="startRecording()">Start Recording</button>
           <p id="result" class="mt-3"></p>
         </div>
       </div>
@@ -59,6 +61,45 @@
   <script>
     let words = [];
     let theme = 'light'; // default theme
+    let reverseDirection = false;
+    let recognition;
+
+    function startRecording() {
+      if (!('webkitSpeechRecognition' in window)) {
+        alert("Web Speech API is not supported by this browser.");
+      } else {
+        recognition = new webkitSpeechRecognition();
+        recognition.continuous = true;
+        recognition.interimResults = true;
+
+        // Change the language based on the reverse direction flag
+        recognition.lang = reverseDirection ? "en-US" : "pl-PL";
+
+        recognition.onstart = function() {
+          console.log("Speech recognition started.");
+        };
+
+        recognition.onerror = function(event) {
+          console.error("Speech recognition error:", event.error);
+        };
+
+        recognition.onend = function() {
+          console.log("Speech recognition ended.");
+        };
+
+        recognition.onresult = function(event) {
+          let finalTranscript = "";
+          for (let i = event.resultIndex; i < event.results.length; ++i) {
+            if (event.results[i].isFinal) {
+              finalTranscript += event.results[i][0].transcript;
+            }
+          }
+          document.getElementById('translation').value = finalTranscript;
+        };
+
+        recognition.start();
+      }
+    }
 
     function fetchData() {
       const fileInput = document.getElementById('fileInput');
@@ -86,7 +127,12 @@
     function generateRandomWord() {
       const randomIndex = Math.floor(Math.random() * words.length);
       const randomWord = words[randomIndex];
-      document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.word}</span>`;
+      
+      // Swap word and translation based on the reverse direction flag
+      const displayWord = reverseDirection ? randomWord.translation : randomWord.word;
+      const displayTranslation = reverseDirection ? randomWord.word : randomWord.translation;
+
+      document.getElementById('word').innerHTML = `<span class="word-to-translate">${displayWord}</span>`;
       document.getElementById('translation').value = '';
       document.getElementById('result').textContent = '';
       document.getElementById('example-sentence-text').textContent = `${randomWord.example}`;
@@ -95,7 +141,10 @@
     function checkTranslation() {
       const userTranslation = document.getElementById('translation').value.trim();
       const currentWord = document.getElementById('word').textContent;
-      const correctTranslation = words.find(word => word.word === currentWord).translation;
+
+      const correctTranslation = reverseDirection ? 
+        words.find(word => word.translation === currentWord).word :
+        words.find(word => word.word === currentWord).translation;
 
       const resultElement = document.getElementById('result');
       if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
@@ -109,6 +158,9 @@
 
     function handleKeyDown(event) {
       if (event.key === 'Enter') {
+        if (recognition) {
+          recognition.stop();
+        }
         if (document.getElementById('translation').value.trim() === '') {
           handleEnterKey();
         } else {
@@ -118,6 +170,7 @@
         generateRandomWord();
       }
     }
+
 
     function handleEnterKey() {
       if (document.getElementById('result').textContent === '') {
@@ -161,6 +214,11 @@
           input.classList.remove('text-light');
         });
       }
+    }
+
+    function toggleDirection() {
+      reverseDirection = !reverseDirection;
+      generateRandomWord();
     }
   </script>
 </body>

@@ -4998,5 +4998,240 @@
     "word": "It seems clear to me that",
     "correct": true,
     "timestamp": "2024-06-10T08:26:41.858Z"
+  },
+  {
+    "word": "przypadk\u00f3w wzrasta",
+    "correct": false,
+    "timestamp": "2024-06-10T13:29:46.435Z"
+  },
+  {
+    "word": "trzeba przyjecha\u0107",
+    "correct": true,
+    "timestamp": "2024-06-10T13:29:59.807Z"
+  },
+  {
+    "word": "Wydaje mi si\u0119 jasne, \u017ce",
+    "correct": true,
+    "timestamp": "2024-06-10T13:31:34.187Z"
+  },
+  {
+    "word": "list motywacyjny",
+    "correct": true,
+    "timestamp": "2024-06-10T13:31:42.090Z"
+  },
+  {
+    "sentence": "",
+    "correct": true,
+    "timestamp": "2024-06-10T13:52:55.944Z"
+  },
+  {
+    "sentence": "",
+    "correct": true,
+    "timestamp": "2024-06-10T13:52:57.843Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-06-10T13:53:29.328Z"
+  },
+  {
+    "word": "stanowi\u0107 problem",
+    "correct": true,
+    "timestamp": "2024-06-10T15:02:32.864Z"
+  },
+  {
+    "word": "Pisz\u0119, aby wyrazi\u0107 swoje zaniepokojenie faktem, \u017ce",
+    "correct": false,
+    "timestamp": "2024-06-10T15:02:40.707Z"
+  },
+  {
+    "word": "polega na tym mieszaniu si\u0119 pomys\u0142\u00f3w i wzajemnej inspiracji",
+    "correct": true,
+    "timestamp": "2024-06-10T15:02:43.792Z"
+  },
+  {
+    "word": "Chcia\u0142bym si\u0119 teraz przeprowadzi\u0107",
+    "correct": false,
+    "timestamp": "2024-06-10T15:03:09.090Z"
+  },
+  {
+    "word": "list motywacyjny",
+    "correct": true,
+    "timestamp": "2024-06-10T15:03:18.354Z"
+  },
+  {
+    "word": "trzeba przyjecha\u0107",
+    "correct": true,
+    "timestamp": "2024-06-10T15:03:38.662Z"
+  },
+  {
+    "word": "g\u0142\u0119boko krytyczny wobec",
+    "correct": true,
+    "timestamp": "2024-06-10T15:04:13.071Z"
+  },
+  {
+    "word": "jest intelektualnie niezale\u017cny od",
+    "correct": false,
+    "timestamp": "2024-06-10T15:23:58.602Z"
+  },
+  {
+    "word": "te uprzedzenia na temat",
+    "correct": false,
+    "timestamp": "2024-06-10T15:23:59.421Z"
+  },
+  {
+    "word": "Pisz\u0119, aby wyrazi\u0107 swoje zaniepokojenie faktem, \u017ce",
+    "correct": true,
+    "timestamp": "2024-06-10T15:24:01.024Z"
+  },
+  {
+    "word": "Pisz\u0119, aby wyrazi\u0107 swoje zaniepokojenie faktem, \u017ce",
+    "correct": true,
+    "timestamp": "2024-06-10T15:24:09.461Z"
+  },
+  {
+    "word": "zebra\u0107 wynik",
+    "correct": true,
+    "timestamp": "2024-06-10T15:24:21.382Z"
+  },
+  {
+    "word": "dwuj\u0119zyczny",
+    "correct": true,
+    "timestamp": "2024-06-10T15:24:25.662Z"
+  },
+  {
+    "word": "te uprzedzenia na temat",
+    "correct": true,
+    "timestamp": "2024-06-10T15:24:40.049Z"
+  },
+  {
+    "word": "s\u0142owa kluczowe",
+    "correct": true,
+    "timestamp": "2024-06-10T15:24:48.924Z"
+  },
+  {
+    "sentence": "in-house training",
+    "correct": true,
+    "timestamp": "2024-06-10T15:27:01.864Z"
+  },
+  {
+    "sentence": "uncertain",
+    "correct": true,
+    "timestamp": "2024-06-10T15:27:12.326Z"
+  },
+  {
+    "sentence": "My reason for applying is that",
+    "correct": true,
+    "timestamp": "2024-06-10T15:27:25.922Z"
+  },
+  {
+    "sentence": "digging into the archives",
+    "correct": true,
+    "timestamp": "2024-06-10T15:27:39.210Z"
+  },
+  {
+    "sentence": "preconceptions about that",
+    "correct": false,
+    "timestamp": "2024-06-10T15:27:50.306Z"
+  },
+  {
+    "sentence": "preconceptions about that",
+    "correct": false,
+    "timestamp": "2024-06-10T15:28:01.866Z"
+  },
+  {
+    "sentence": "that preconceptions about",
+    "correct": true,
+    "timestamp": "2024-06-10T15:28:11.188Z"
+  },
+  {
+    "sentence": "freelance",
+    "correct": true,
+    "timestamp": "2024-06-10T15:28:15.705Z"
+  },
+  {
+    "sentence": "established",
+    "correct": true,
+    "timestamp": "2024-06-10T15:28:19.465Z"
+  },
+  {
+    "sentence": "established",
+    "correct": true,
+    "timestamp": "2024-06-10T15:28:22.637Z"
+  },
+  {
+    "sentence": "It seems",
+    "correct": false,
+    "timestamp": "2024-06-10T15:28:31.137Z"
+  },
+  {
+    "sentence": "It seems clear to me that",
+    "correct": true,
+    "timestamp": "2024-06-10T15:28:38.930Z"
+  },
+  {
+    "sentence": "that preconceptions about",
+    "correct": true,
+    "timestamp": "2024-06-10T15:28:46.681Z"
+  },
+  {
+    "sentence": "I am writing to complain about",
+    "correct": true,
+    "timestamp": "2024-06-10T15:29:01.558Z"
+  },
+  {
+    "sentence": "I am writing to complain about",
+    "correct": true,
+    "timestamp": "2024-06-10T15:29:12.605Z"
+  },
+  {
+    "sentence": "I would",
+    "correct": false,
+    "timestamp": "2024-06-10T15:29:28.939Z"
+  },
+  {
+    "sentence": "I would be able to attend interview at an time which is convenient to you",
+    "correct": false,
+    "timestamp": "2024-06-10T15:30:53.635Z"
+  },
+  {
+    "sentence": "I would be able to attend an interview at any time which is convenient to you",
+    "correct": true,
+    "timestamp": "2024-06-10T15:31:39.838Z"
+  },
+  {
+    "sentence": "I assure that you",
+    "correct": false,
+    "timestamp": "2024-06-10T15:31:51.243Z"
+  },
+  {
+    "sentence": "I assure you that",
+    "correct": true,
+    "timestamp": "2024-06-10T15:31:58.203Z"
+  },
+  {
+    "sentence": "stimulating",
+    "correct": true,
+    "timestamp": "2024-06-10T15:32:02.031Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-06-10T15:32:05.577Z"
+  },
+  {
+    "sentence": "increases cases",
+    "correct": false,
+    "timestamp": "2024-06-10T15:32:14.362Z"
+  },
+  {
+    "sentence": "cases increases",
+    "correct": true,
+    "timestamp": "2024-06-10T15:32:21.010Z"
+  },
+  {
+    "sentence": "I would like",
+    "correct": false,
+    "timestamp": "2024-06-10T15:32:30.896Z"
   }
 ]
