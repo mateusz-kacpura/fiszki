@@ -6,7 +6,6 @@ import json
 import logging
 import requests
 import numpy as np
-import torch
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
 from flask import send_from_directory
@@ -66,8 +65,8 @@ def text_to_speech():
         if not os.path.exists(os.path.join(AUDIO_FOLDER, f"{text}.mp3")):
             print("Generating audio...")
             
-            processor = AutoProcessor.from_pretrained("suno/bark-small")
-            model = AutoModel.from_pretrained("suno/bark-small")
+            processor = AutoProcessor.from_pretrained("suno/bark")
+            model = AutoModel.from_pretrained("suno/bark")
 
             inputs = processor(
                 text,
