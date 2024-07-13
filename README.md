@@ -1,3 +1,7 @@
+# Zaplanowane elementy aplikacji
+
+- we frontendzie dodanie menu łączącego różne tryby nauki
+
 # Language Quiz
 
 A flashcard application for learning new words quickly and efficiently.
