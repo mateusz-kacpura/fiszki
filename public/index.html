@@ -30,6 +30,7 @@
     <button class="btn btn-primary" onclick="fetchData()">Load Data</button>
     <button class="btn btn-secondary" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
     <button class="btn btn-info" onclick="toggleDirection()">Toggle Direction</button>
+    <button class="btn btn-danger" onclick="removeCurrentWord()">Remove Word</button>
 
     <div id="quiz" style="display: none;">
       <div class="card mt-3">
@@ -57,12 +58,12 @@
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
+  <script src="js/main.js"></script>
   <script>
     let words = [];
-    let theme = 'light'; // default theme
     let reverseDirection = false;
     let recognition;
+    let currentWord = null;
 
     function startRecording() {
       if (!('webkitSpeechRecognition' in window)) {
@@ -101,6 +102,7 @@
       }
     }
 
+    
     function fetchData() {
       const fileInput = document.getElementById('fileInput');
       const file = fileInput.files[0];
@@ -150,9 +152,11 @@
       if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
         console.log('Correct translation.');
         resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
+        playTextToSpeech(correctTranslation);
       } else {
         console.log('Incorrect translation.');
         resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
+        playTextToSpeech(correctTranslation);
       }
     }
 
@@ -166,11 +170,8 @@
         } else {
           checkTranslation();
         }
-      } else if (event.key === 'ArrowRight') {
-        generateRandomWord();
       }
     }
-
 
     function handleEnterKey() {
       if (document.getElementById('result').textContent === '') {
@@ -184,35 +185,28 @@
       }
     }
 
-    function toggleTheme() {
-      if (theme === 'light') {
-        theme = 'dark';
-        document.body.classList.add('bg-dark');
-        document.body.classList.add('text-light');
-        document.getElementById('main-container').classList.add('bg-dark');
-        document.getElementById('main-container').classList.add('text-light');
-        document.querySelectorAll('.card').forEach(card => {
-          card.classList.add('bg-dark');
-          card.classList.add('text-light');
-        });
-        document.querySelectorAll('input').forEach(input => {
-          input.classList.add('bg-dark');
-          input.classList.add('text-light');
-        });
-      } else {
-        theme = 'light';
-        document.body.classList.remove('bg-dark');
-        document.body.classList.remove('text-light');
-        document.getElementById('main-container').classList.remove('bg-dark');
-        document.getElementById('main-container').classList.remove('text-light');
-        document.querySelectorAll('.card').forEach(card => {
-          card.classList.remove('bg-dark');
-          card.classList.remove('text-light');
-        });
-        document.querySelectorAll('input').forEach(input => {
-          input.classList.remove('bg-dark');
-          input.classList.remove('text-light');
-        });
+    function saveSetting(data) {
+      fetch('/saveSetting', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ excludedWords: data }),
+      })
+      .then(response => response.json())
+      .then(result => {
+        console.log('Settings saved successfully:', result);
+      })
+      .catch(error => {
+        console.error('Error saving settings:', error);
+      });
+    }
+
+    function removeCurrentWord() {
+      if (currentWord) {
+        excludedWords.push(currentWord);
+        saveSetting(excludedWords);
+        generateRandomWord();
       }
     }
 
@@ -220,6 +214,29 @@
       reverseDirection = !reverseDirection;
       generateRandomWord();
     }
+
+    function playTextToSpeech(text) {
+    fetch('/text-to-speech', {
+        method: 'POST',
+        headers: {
+        'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ text: text }),
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.audio_path) {
+        const audio = new Audio(data.audio_path);
+        audio.play();
+        } else {
+        console.error('Error:', data.error);
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+    }
+
   </script>
 </body>
 </html>

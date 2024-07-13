@@ -1,0 +1,19 @@
+{
+    "salutations": [
+      {
+        "text": "Dear Hiring Manager,"
+      },
+      {
+        "text": "Dear Sir/Madam,"
+      },
+      {
+        "text": "To Whom It May Concern,"
+      },
+      {
+        "text": "Dear [Hiring Manager's Name],"
+      },
+      {
+        "text": "Dear [Department/Team Name] Team,"
+      }
+    ]
+  }

@@ -5233,5 +5233,75 @@
     "sentence": "I would like",
     "correct": false,
     "timestamp": "2024-06-10T15:32:30.896Z"
+  },
+  {
+    "word": "opowiada\u0142by si\u0119 za wi\u0119ksz\u0105 swobod\u0105",
+    "correct": false,
+    "timestamp": "2024-06-20T12:13:28.875Z"
+  },
+  {
+    "word": "punkty poruszone w badaniu",
+    "correct": true,
+    "timestamp": "2024-06-20T12:13:59.669Z"
+  },
+  {
+    "word": "It seems clear to me that",
+    "correct": false,
+    "timestamp": "2024-06-20T12:14:17.191Z"
+  },
+  {
+    "word": "It seems clear to me that",
+    "correct": false,
+    "timestamp": "2024-06-20T12:14:20.522Z"
+  },
+  {
+    "word": "It seems clear to me that",
+    "correct": true,
+    "timestamp": "2024-06-20T12:14:27.169Z"
+  },
+  {
+    "word": "It seems clear to me that",
+    "correct": true,
+    "timestamp": "2024-06-20T12:14:36.152Z"
+  },
+  {
+    "word": "It seems clear to me that",
+    "correct": false,
+    "timestamp": "2024-06-20T12:14:40.864Z"
+  },
+  {
+    "word": "jest intelektualnie niezale\u017cny od",
+    "correct": false,
+    "timestamp": "2024-07-13T12:28:30.645Z"
+  },
+  {
+    "word": "Z przyjemno\u015bci\u0105",
+    "correct": false,
+    "timestamp": "2024-07-13T12:28:37.696Z"
+  },
+  {
+    "word": "zmienianie",
+    "correct": false,
+    "timestamp": "2024-07-13T12:30:38.808Z"
+  },
+  {
+    "word": "radzi\u0107 sobie z",
+    "correct": false,
+    "timestamp": "2024-07-13T12:30:39.836Z"
+  },
+  {
+    "word": "cel zawodowy",
+    "correct": false,
+    "timestamp": "2024-07-13T12:30:40.544Z"
+  },
+  {
+    "word": "s\u0142owa kluczowe",
+    "correct": false,
+    "timestamp": "2024-07-13T12:30:41.308Z"
+  },
+  {
+    "word": "zwi\u0119z\u0142y, kr\u00f3tki",
+    "correct": true,
+    "timestamp": "2024-07-13T12:30:46.097Z"
   }
 ]

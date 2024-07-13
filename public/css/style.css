@@ -1,0 +1,46 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.word-to-translate,.user-translation, .sentence-to-translate {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.answer-buttons {
+    margin-top: 20px;
+}
+
+.answer-buttons .btn {
+    margin: 5px;
+}
+
+.match { background-color: #d4edda; }
+.mismatch { background-color: #f8d7da; }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+.table-responsive {
+    margin-bottom: 15px;
+}
+
+.word-bank, .sentence-construction {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.word-bank .btn, .sentence-construction .btn {
+    margin: 5px;
+}
