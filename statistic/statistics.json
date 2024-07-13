@@ -5303,5 +5303,25 @@
     "word": "zwi\u0119z\u0142y, kr\u00f3tki",
     "correct": true,
     "timestamp": "2024-07-13T12:30:46.097Z"
+  },
+  {
+    "sentence": "I would like",
+    "correct": false,
+    "timestamp": "2024-07-13T15:35:05.972Z"
+  },
+  {
+    "sentence": "I would like to have further information about",
+    "correct": true,
+    "timestamp": "2024-07-13T15:35:21.752Z"
+  },
+  {
+    "word": "interesuj\u0105ce, ekscytuj\u0105ce",
+    "correct": true,
+    "timestamp": "2024-07-13T15:50:20.693Z"
+  },
+  {
+    "word": "interesuj\u0105ce, ekscytuj\u0105ce",
+    "correct": true,
+    "timestamp": "2024-07-13T15:50:26.863Z"
   }
 ]

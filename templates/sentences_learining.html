@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}Sentences Learning{% endblock %}
+
+{% block content %}
+<h1 class="text-center mb-4">Language Quiz</h1>
+<div class="form-group">
+  <label for="fileInput">Select JSON File:</label>
+  <input type="file" class="form-control-file" id="fileInput" accept=".json">
+</div>
+<button class="btn btn-primary" onclick="fetchData()">Load Data</button>
+<button class="btn btn-secondary" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+<button class="btn btn-info" onclick="toggleDirection()">Toggle Direction</button>
+<button class="btn btn-danger" onclick="removeCurrentSentence()">Remove Sentence</button>
+
+<div id="quiz" style="display: none;">
+  <div class="card mt-3">
+    <div class="card-body text-center">
+      <h5 class="card-title">Translate the sentence:</h5>
+      <p class="sentence-to-translate" id="sentence"></p>
+      <div class="answer-buttons" id="answer-buttons"></div>
+      <button class="btn btn-success" onclick="generateRandomSentence()">Next Sentence</button>
+      <p id="result" class="mt-3"></p>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/sentences_learning.js') }}"></script>
+{% endblock %}

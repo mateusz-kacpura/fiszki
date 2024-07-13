@@ -1,10 +1,8 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = ""
-os.environ["SUNO_USE_SMALL_MODELS"] = "1"
 import json
 import logging
 import requests
-from flask import Flask, request, jsonify, send_file
+from flask import Flask, request, render_template, jsonify, send_file
 from flask_cors import CORS
 from flask import send_from_directory
 from werkzeug.utils import secure_filename
@@ -15,9 +13,7 @@ from pydub import AudioSegment
 import whisper
 import pyaudio
 import numpy as np
-
 import scipy
-
 
 app = Flask(__name__)
 CORS(app)
@@ -29,6 +25,9 @@ AUDIO_FOLDER = 'audio_files'
 LOG_FOLDER = 'logi'
 STATISTICS_FILE ='statistic/statistics.json'
 SETTING_FILE ='setting/excludedWords.json'
+
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
+os.environ["SUNO_USE_SMALL_MODELS"] = "1"
 
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
@@ -45,6 +44,46 @@ for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
 
 # Logging
 logging.basicConfig(filename='app.log', level=logging.INFO)
+
+# Routes for frontend templates 
+# <!--                          -->
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/sentences_learining')
+def sentences_learning():
+    return render_template('sentences_learining.html')
+
+@app.route('/multi_learning')
+def multilearning():
+    return render_template('multi_learning.html')
+
+@app.route('/scattered_words_learning')
+def scattered_words_learning():
+    return render_template('scattered_words_learning.html')
+
+@app.route('/add_lists_words')
+def add_lists_word():
+    return render_template('add_lists_words.html', title="Masowe Dodawanie Słów")
+
+@app.route('/add_new_word')
+def add_new_word():
+    return render_template('add_new_word.html', title="Dodaj Nowe Słowo")
+
+@app.route('/single_word_learning')
+def single_word_learning():
+    return render_template('single_word_learning.html', title="Language Quiz")
+
+@app.route('/read_from_file')
+def read_from_file():
+    return render_template('read_from_file.html', title="Wczytaj Dane z Pliku Excel")
+
+@app.route('/edit_list_words')
+def edit_list_words():
+    return render_template('edit_list_words.html', title="Edit JSON Data")
+
+# <--                          !-->
 
 @app.route('/real-time-speech-recognition', methods=['POST'])
 def real_time_speech_recognition():

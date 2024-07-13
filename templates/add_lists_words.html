@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Masowe dodawanie słów{% endblock %}
+
+{% block content %}
+<h2>Masowe Dodawanie Słów</h2>
+<form>
+    <div class="form-group">
+        <label for="file">Wybierz plik do edycji</label>
+        <select class="form-control" id="file" required></select>
+    </div>
+</form>
+<div id="hot"></div>
+<button id="saveButton" class="btn btn-primary mt-3">Zapisz zmiany</button>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/add_lists_words.js') }}"></script>
+{% endblock %}
+        

@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+{% block title %}Edit list words{% endblock %}
+
+{% block content %}
+<h2>Edit JSON Data</h2>
+        <div class="form-group">
+            <label for="file">Select a file:</label>
+            <input type="file" id="file" accept=".json" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="language">Select Language:</label>
+            <select id="language" class="form-control">
+                <option value="English">English</option>
+                <option value="Spanish">Spanish</option>
+                <option value="French">French</option>
+                <option value="German">German</option>
+                <option value="Italian">Italian</option>
+                <option value="Portuguese">Portuguese</option>
+                <option value="Chinese">Chinese</option>
+                <option value="Japanese">Japanese</option>
+                <option value="Korean">Korean</option>
+                <option value="Russian">Russian</option>
+                <option value="Arabic">Arabic</option>
+                <option value="Hebrew">Hebrew</option>
+                <option value="Hindi">Hindi</option>
+                <option value="Polish">Polish</option>
+                <option value="Dutch">Dutch</option>
+                <option value="Swedish">Swedish</option>
+                <option value="Danish">Danish</option>
+                <option value="Norwegian">Norwegian</option>
+                <option value="Finnish">Finnish</option>
+                <option value="Greek">Greek</option>
+                <option value="Turkish">Turkish</option>
+                <option value="Persian">Persian</option>
+                <option value="Thai">Thai</option>
+                <option value="Vietnamese">Vietnamese</option>
+                <option value="Indonesian">Indonesian</option>
+                <option value="Malay">Malay</option>
+                <option value="Swahili">Swahili</option>
+                <option value="Czech">Czech</option>
+                <option value="Hungarian">Hungarian</option>
+                <option value="Romanian">Romanian</option>
+                <option value="Bulgarian">Bulgarian</option>
+                <option value="Slovak">Slovak</option>
+                <option value="Lithuanian">Lithuanian</option>
+                <option value="Latvian">Latvian</option>
+                <option value="Estonian">Estonian</option>
+                <option value="Icelandic">Icelandic</option>
+                <option value="Faroese">Faroese</option>
+                <option value="Welsh">Welsh</option>
+                <option value="Irish">Irish</option>
+                <option value="Scottish Gaelic">Scottish Gaelic</option>
+                <!-- Add more languages here -->
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="translationLanguage">Select Translation Language:</label>
+            <select id="translationLanguage" class="form-control">
+                <option value="English">English</option>
+                <option value="Spanish">Spanish</option>
+                <option value="French">French</option>
+                <option value="German">German</option>
+                <option value="Italian">Italian</option>
+                <option value="Portuguese">Portuguese</option>
+                <option value="Chinese">Chinese</option>
+                <option value="Japanese">Japanese</option>
+                <option value="Korean">Korean</option>
+                <option value="Russian">Russian</option>
+                <option value="Arabic">Arabic</option>
+                <option value="Hebrew">Hebrew</option>
+                <option value="Hindi">Hindi</option>
+                <option value="Polish">Polish</option>
+                <option value="Dutch">Dutch</option>
+                <option value="Swedish">Swedish</option>
+                <option value="Danish">Danish</option>
+                <option value="Norwegian">Norwegian</option>
+                <option value="Finnish">Finnish</option>
+                <option value="Greek">Greek</option>
+                <option value="Turkish">Turkish</option>
+                <option value="Persian">Persian</option>
+                <option value="Thai">Thai</option>
+                <option value="Vietnamese">Vietnamese</option>
+                <option value="Indonesian">Indonesian</option>
+                <option value="Malay">Malay</option>
+                <option value="Swahili">Swahili</option>
+                <option value="Czech">Czech</option>
+                <option value="Hungarian">Hungarian</option>
+                <option value="Romanian">Romanian</option>
+                <option value="Bulgarian">Bulgarian</option>
+                <option value="Slovak">Slovak</option>
+                <option value="Lithuanian">Lithuanian</option>
+                <option value="Latvian">Latvian</option>
+                <option value="Estonian">Estonian</option>
+                <option value="Icelandic">Icelandic</option>
+                <option value="Faroese">Faroese</option>
+                <option value="Welsh">Welsh</option>
+                <option value="Irish">Irish</option>
+                <option value="Scottish Gaelic">Scottish Gaelic</option>
+                <!-- Add more languages here -->
+            </select>
+        </div>
+        <div class="table-responsive">
+            <table id="dataTable" class="table table-bordered"></table>
+        </div>
+        <div class="form-group">
+            <button id="addRow" class="btn btn-success">Add Row</button>
+            <button id="deleteRow" class="btn btn-danger">Delete Selected Row</button>
+            <button id="loadAudioPaths" class="btn btn-info">Load Audio Paths</button>
+            <button id="loadImagePaths" class="btn btn-info">Load Image Paths</button>
+            <button id="translateRows" class="btn btn-warning">Translate Rows</button>
+        </div>
+        <div class="form-group">
+            <input type="text" id="fileName" placeholder="Enter file name (with .json)" class="form-control">
+        </div>
+        <button id="saveChanges" class="btn btn-primary">Save Changes</button>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/edit_list_words.js') }}"></script>
+{% endblock %}
