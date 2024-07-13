@@ -1,74 +1,15 @@
-# Zaplanowane elementy aplikacji
-
-- we frontendzie dodanie menu łączącego różne tryby nauki
-
 # Language Quiz
 
 A flashcard application for learning new words quickly and efficiently.
 
 ![Language Quiz](https://raw.githubusercontent.com/mateusz-kacpura/fiszki/main/img/Language%20Quiz.png)
 
-## Features
-
-- Learn new words using flashcards
-- Edit and add new words using the `edit_list_words.html` file
-- View learning progress in the `index.html` file
-
-## Installation
-
-To deploy the application, follow these steps:
-
-1. **Create a virtual environment**:
-    On Windows:
-    ```bash
-    python -m venv myenv
-    ```
-    On Linux/Mac:
-    ```bash
-    python3 -m venv myenv
-    ```
-    Activate the virtual environment:
-    - Windows:
-      ```bash
-      myenv\Scripts\activate
-      ```
-    - Linux/Mac:
-      ```bash
-      source myenv/bin/activate
-      ```
-
-2. **Install required modules**:
-    ```bash
-    pip install flask flask_cors requests openpyxl transformers
-    ```
-
-3. **Create a `requirements.txt` file**:
-    Create a file named `requirements.txt` with the following content:
-    ```bash
-    flask==2.0.1
-    flask_cors==3.0.10
-    requests==2.25.1
-    openpyxl==3.0.5
-    transformers==4.10.2
-    ```
-
-4. **Run the application**:
-    ```bash
-    python app.py
-    ```
-
-5. **Access the application**:
-    Open your web browser and go to:
-    ```bash
-    http://localhost:3000/multi_learning.html
-    ```
-
 ## Backend Documentation
 
 ### Table of Contents
 
 - Introduction
-- Installation and Configuration
+- Installation and configuration
 - Directory Structure
 - API Endpoints
   - Real-Time Speech Recognition
