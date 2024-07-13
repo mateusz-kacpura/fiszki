@@ -114,14 +114,26 @@ This application is a Flask-based backend that handles various functions related
     python app.py
     ```
 
+5. **Run pages - routes**
+- 127.0.0.1:3000/add_lists_words
+- 127.0.0.1:3000/add_new_word
+- 127.0.0.1:3000/edit_list_words
+- 127.0.0.1:3000/multi_learning
+- 127.0.0.1:3000/read_from_file
+- 127.0.0.1:3000/scattered_words_learning
+- 127.0.0.1:3000/sentences_learining
+- 127.0.0.1:3000/single_word_learning
+
 ### Directory Structure
 
-- `uploads`: Stores uploaded files.
-- `image_files`: Stores image files.
-- `audio_files`: Stores audio files.
-- `logs`: Stores application logs.
+- `uploads/`: Stores uploaded files.
+- `image_files/`: Stores image files.
+- `audio_files/`: Stores audio files.
+- `logs/`: Stores application logs.
 - `statistic/statistics.json`: Stores saved statistics.
 - `setting/excludedWords.json`: Stores settings.
+- `templates/`: Files html Jnija2 System
+- `static/`: Files /js and /css for build frontend
 
 ### API Endpoints
 
