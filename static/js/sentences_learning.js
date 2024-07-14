@@ -1,4 +1,4 @@
-let sentences = [];
+    let sentences = [];
     let excludedSentences = []; // Initialize excludedSentences
     let reverseDirection = false;
 
@@ -118,7 +118,7 @@ let sentences = [];
     }
 
     function fetchExcludedSentences() {
-      fetch('/settings/excludedSentences.json')
+      fetch('api/setting/excludedWords.json')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

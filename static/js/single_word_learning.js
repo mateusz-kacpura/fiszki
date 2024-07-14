@@ -123,23 +123,6 @@ function handleEnterKey() {
   }
 }
 
-function saveSetting(data) {
-  fetch('/saveSetting', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ excludedWords: data }),
-  })
-  .then(response => response.json())
-  .then(result => {
-    console.log('Settings saved successfully:', result);
-  })
-  .catch(error => {
-    console.error('Error saving settings:', error);
-  });
-}
-
 function removeCurrentWord() {
   if (currentWord) {
     excludedWords.push(currentWord);

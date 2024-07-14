@@ -23,8 +23,8 @@ UPLOAD_FOLDER = 'uploads'
 IMAGE_FOLDER = 'image_files'
 AUDIO_FOLDER = 'audio_files'
 LOG_FOLDER = 'logi'
-STATISTICS_FILE ='statistic/statistics.json'
-SETTING_FILE ='setting/excludedWords.json'
+STATISTICS_FILE ='api/statistic/statistics.json'
+SETTING_FILE ='api/setting/excludedWords.json'
 
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["SUNO_USE_SMALL_MODELS"] = "1"
@@ -82,6 +82,14 @@ def read_from_file():
 @app.route('/edit_list_words')
 def edit_list_words():
     return render_template('edit_list_words.html', title="Edit JSON Data")
+
+@app.route('/api/setting/excludedWords.json')
+def get_excluded_words():
+    return send_from_directory('api/setting', 'excludedWords.json')
+
+@app.route('/api/statistic/statistics.json')
+def get_statistics():
+    return send_from_directory('api/statistic', 'statistics.json')
 
 # <--                          !-->
 
