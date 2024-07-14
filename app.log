@@ -1078,3 +1078,452 @@ INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "POST /save_statistic HTTP/1.
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "POST /text-to-speech HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "[35m[1mGET /audio_files/relevant%20chart.mp3 HTTP/1.1[0m" 206 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:03] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:03] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:03] "[33mGET /api/settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:17] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:17] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:17] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:35:17] "[33mGET /api/settings/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:25] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:25] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:25] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:27] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:27] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:37:27] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:11] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:11] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:39] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:39] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:39] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:41] "GET /single_word_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:41] "GET /static/js/single_word_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:42] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:42] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:38:42] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:39:01] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:50] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:41:50] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:01] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:02] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:02] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:02] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:02] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:04] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:04] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:04] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:06] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:06] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:06] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:06] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:41] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:41] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:41] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:45] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:46] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:46] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:46] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:44:46] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:10] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:11] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:11] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:47:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:44] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:44] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:44] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:45] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:45] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:54:45] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:10] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:10] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:10] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:10] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:11] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:11] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:38] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:55] "GET /add_lists_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:55] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:55] "[36mGET /static/js/add_lists_words.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:55] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:55:55] "GET /words?file=closings.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:01] "GET /words?file=zestaw.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:20] "GET /add_new_word HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:20] "GET /static/js/add_new_word.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:20] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:31] "GET /read_from_file HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:31] "GET /static/js/read_from_file.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:37] "GET /edit_list_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:56:37] "[36mGET /static/js/edit_list_words.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:57:36] "GET /edit_list_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:57:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:57:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:57:37] "[36mGET /static/js/edit_list_words.js HTTP/1.1[0m" 304 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/would_advocate_greater_freedom.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/that_the_lies_in_this_this_blending_of_ideas_and_the_cross_fertilisation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/that_the_lies_in_this_this_blending_of_ideas_and_the_cross_fertilisation_of_thought_which_embarges_from_it.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/lies_in_this_this_blending_of_ideas_and_the_cross_fertilisation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/thus_pushing_the_frontiers_of_knowledge.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/thus_pushing_the_frontiers_of.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/different_fields_of_learning.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_more_liberal_view.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/somewhat_misplaced.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/that_preconceptions_about.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/is_intellectually_independent_from.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/traditionally_taken_the_view.mp3
+INFO:root:File already exists: audio_files\altering.mp3
+INFO:root:File already exists: audio_files\uncertain.mp3
+INFO:root:File already exists: audio_files\causal-relationship.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/outside_observation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/digging_into_the_archives.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/contemporary_Irish_property.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/deep_critical_of.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/constitute_into_the_problem.mp3
+INFO:root:File already exists: audio_files\constitute.mp3
+INFO:root:File already exists: audio_files\insights.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/extremely_careful.mp3
+INFO:root:File already exists: audio_files\soundly.mp3
+INFO:root:File already exists: audio_files\robust.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/points_raised_by_the_research.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/points_raised.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/relevant_aspects.mp3
+INFO:root:File already exists: audio_files\reach-a-conclusion.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/need_to_come_to.mp3
+INFO:root:File already exists: audio_files\deal-with.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/relevant_chart.mp3
+INFO:root:File already exists: audio_files\relevant.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/within_each.mp3
+INFO:root:File already exists: audio_files\habits.mp3
+INFO:root:File already exists: audio_files\deviation.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/cases_increases.mp3
+INFO:root:File already exists: audio_files\increases.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_am_writing_to_enquire_about.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_was_interested_in_your_advertisement_in.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_would_like_to_have_further_information_about.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_should_be_grateful_if_you_would_send_me_full_details_of.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_am_interested_in_applying_for_the_post_of_..._which_was_advertised.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/My_reason_for_applying_is_that.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_would_be_able_to_attend_an_interview_at_any_time_which_is_convenient_to_you.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_am_writing_to_apologise_about_for_the_fact_that.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_will_gladly.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_assure_you_that.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_am_writing_to_complain_about.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_am_writing_to_express_my_concern_about_the_fact_that.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_must_insist_that_you.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_must_urge_you_to.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/In_reply_to_your_letter_of.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_would_like_to_respond_to_the_article_called.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/It_seems_clear_to_me_that.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_look_forward_to_hearing_from_you.mp3
+INFO:root:File already exists: audio_files\resume.mp3
+INFO:root:File already exists: audio_files\career-goal.mp3
+INFO:root:File already exists: audio_files\achievements.mp3
+INFO:root:File already exists: audio_files\keywords.mp3
+INFO:root:File already exists: audio_files\concise.mp3
+INFO:root:File already exists: audio_files\exaggerations.mp3
+INFO:root:File already exists: audio_files\stimulating.mp3
+INFO:root:File already exists: audio_files\established.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/I_would_now_like_to_relocate.mp3
+INFO:root:File already exists: audio_files\cover-letter.mp3
+INFO:root:File already exists: audio_files\freelance.mp3
+INFO:root:File already exists: audio_files\billingual.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/acquire_experience.mp3
+INFO:root:File already exists: audio_files\computer-literate.mp3
+INFO:root:File already exists: audio_files\numerate.mp3
+INFO:root:File already exists: audio_files\self-starters.mp3
+INFO:root:File already exists: audio_files\self-driven.mp3
+INFO:root:File already exists: audio_files\team-player.mp3
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:26] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:26] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:26] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_house_training.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/graduates_from.mp3
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:27] "GET /single_word_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:27] "[36mGET /static/js/single_word_learning.js HTTP/1.1[0m" 304 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/gather_result.mp3
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:27] "POST /load-audio-paths HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:28] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:28] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:28] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:29] "GET /single_word_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:29] "[36mGET /static/js/single_word_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:30] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:30] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:30] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:56] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:56] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:56] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 16:58:56] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:00:52] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:00:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:00:52] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:00:52] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:00:52] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:25] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:25] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:25] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:45] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:45] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:01:45] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:02:45] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:02:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:02:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:02:45] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:02:45] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:10] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:10] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:10] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:54] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:54] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:03:54] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:04:32] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:04:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:04:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:04:32] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:04:32] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:13] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:13] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:13] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:13] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:34] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:34] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:05:35] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:06:29] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:06:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:06:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:06:29] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:06:29] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:07:39] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:07:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:07:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:07:39] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:07:39] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:08:45] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:08:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:08:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:08:45] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:08:45] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:09:09] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:09:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:09:09] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:09:09] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:09:09] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:09:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:11:59] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:11:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:11:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:11:59] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:11:59] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:13:56] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:00] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:00] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:00] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:20] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:20] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:20] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:54] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:54] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:14:54] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:21] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:21] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:21] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:21] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:37] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:37] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:37] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:54] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:54] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:15:55] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:17:02] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:17:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:17:02] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:17:02] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:17:02] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:11] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:11] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:56] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:56] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:56] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:18:56] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:06] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:06] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:06] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:06] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:28] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:28] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:28] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:59] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:59] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:19:59] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:29] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:29] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:29] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:52] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:52] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:52] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:20:52] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:12] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:12] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:12] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:12] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:54] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:54] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:21:54] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:04] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:04] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:04] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -

@@ -1,9 +1,20 @@
+<!-- bład pojawiający się z wczytywaniem zdań przez ten moduł nauki wynika z braku tłumaczeń w pliku json
+ 
+Oto poprawna struktura pliku json:
+
+  {
+    "example": "This is a sentence.",
+    "example_translation": "To jest zdanie."
+  },
+
+-->
+
 {% extends "base.html" %}
 
 {% block title %}Sentences Learning{% endblock %}
 
 {% block content %}
-<h1 class="text-center mb-4">Sentences Learning</h1>
+<h1 class="text-center mb-4">Sentences Learning (issue) - zobacz opis w pliku html</h1>
 <div class="form-group">
   <label for="fileInput">Select JSON File:</label>
   <input type="file" class="form-control-file" id="fileInput" accept=".json">
@@ -24,6 +35,7 @@
     </div>
   </div>
 </div>
+
 {% endblock %}
 
 {% block scripts %}

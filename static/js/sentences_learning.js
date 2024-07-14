@@ -1,21 +1,10 @@
-    let sentences = [];
-    let excludedSentences = []; // Initialize excludedSentences
+let sentences = [];
+    let excludedSentences = [];
     let reverseDirection = false;
 
     document.addEventListener('keydown', function(event) {
-      if (event.key >= '1' && event.key <= '5') {
-        const index = parseInt(event.key) - 1;
-        const buttons = document.querySelectorAll('.answer-buttons .btn');
-        if (buttons[index]) {
-          buttons[index].click();
-        }
-      }
       if (event.key === 'Enter') {
-        if (document.getElementById('translation').value.trim() === '') {
-          handleEnterKey();
-        } else {
-          checkTranslation();
-        }
+        checkSentence();
       } else if (event.key === 'ArrowRight') {
         generateRandomSentence();
       }
@@ -47,69 +36,72 @@
     let currentSentence = null;
 
     function generateRandomSentence() {
-      const availableSentences = sentences.filter(sentence => !excludedSentences.includes(sentence.example));
+      const availableSentences = sentences.filter(sentence => !excludedSentences.includes(sentence.word));
       if (availableSentences.length === 0) {
         document.getElementById('result').textContent = 'No more sentences to study.';
         return;
       }
       const randomIndex = Math.floor(Math.random() * availableSentences.length);
       const randomSentence = availableSentences[randomIndex];
-      currentSentence = randomSentence.example;
+      currentSentence = randomSentence.word;
       document.getElementById('result').textContent = '';
 
-      if (reverseDirection) {
-        document.getElementById('sentence').innerHTML = `<span class="sentence-to-translate">${randomSentence.example_translation}</span>`;
-        generateAnswerButtons(randomSentence, 'translation');
-      } else {
-        document.getElementById('sentence').innerHTML = `<span class="sentence-to-translate">${randomSentence.example}</span>`;
-        generateAnswerButtons(randomSentence, 'example');
-      }
-    }
+      const words = currentSentence.split(' ').sort(() => Math.random() - 0.5);
+      const wordBankDiv = document.getElementById('word-bank');
+      const sentenceConstructionDiv = document.getElementById('sentence-construction');
+      wordBankDiv.innerHTML = '';
+      sentenceConstructionDiv.innerHTML = '';
 
-    function generateAnswerButtons(correctSentence, direction) {
-      const answerButtonsDiv = document.getElementById('answer-buttons');
-      answerButtonsDiv.innerHTML = '';
-
-      const correctAnswer = direction === 'example' ? correctSentence.example_translation : correctSentence.example;
-      const answers = [correctAnswer];
-      while (answers.length < 5) {
-        const randomIndex = Math.floor(Math.random() * sentences.length);
-        const randomAnswer = direction === 'example' ? sentences[randomIndex].example_translation : sentences[randomIndex].example;
-        if (!answers.includes(randomAnswer)) {
-          answers.push(randomAnswer);
-        }
-      }
-
-      // Shuffle answers
-      answers.sort(() => Math.random() - 0.5);
-
-      answers.forEach((answer, index) => {
+      words.forEach(word => {
         const button = document.createElement('button');
         button.className = 'btn btn-outline-primary';
-        button.textContent = `${index + 1}. ${answer}`;
-        button.onclick = () => checkTranslation(answer, correctAnswer);
-        answerButtonsDiv.appendChild(button);
+        button.textContent = word;
+        button.onclick = () => addWordToSentence(word, button);
+        wordBankDiv.appendChild(button);
       });
+      document.getElementById('sentence-translation').textContent = randomSentence.translation; // tłumaczone zdanie
     }
 
-    function checkTranslation(userTranslation, correctTranslation) {
+    function addWordToSentence(word, button) {
+      const sentenceConstructionDiv = document.getElementById('sentence-construction');
+      const wordButton = document.createElement('button');
+      wordButton.className = 'btn btn-primary';
+      wordButton.textContent = word;
+      wordButton.onclick = () => removeWordFromSentence(wordButton, button);
+      sentenceConstructionDiv.appendChild(wordButton);
+      button.disabled = true;
+    }
+
+    function removeWordFromSentence(wordButton, originalButton) {
+      const sentenceConstructionDiv = document.getElementById('sentence-construction');
+      sentenceConstructionDiv.removeChild(wordButton);
+      originalButton.disabled = false;
+    }
+
+    function checkSentence() {
+      const constructedSentence = Array.from(document.getElementById('sentence-construction').children)
+        .map(button => button.textContent)
+        .join(' ');
       const resultElement = document.getElementById('result');
       const timestamp = new Date().toISOString();
-      const isCorrect = userTranslation.toLowerCase() === correctTranslation.toLowerCase();
-      if (isCorrect) {
-        console.log('Correct translation.');
-        resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
-        playTextToSpeech(userTranslation);
-      } else {
-        console.log('Incorrect translation.');
-        resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="sentence-to-translate">${correctTranslation}</span>`;
-        playTextToSpeech(userTranslation);
-      }
+      const isCorrect = constructedSentence === currentSentence;
+        if (isCorrect) {
+            console.log('Correct sentence.');
+            resultElement.innerHTML = `<strong><span class="user-translation" style="color: green">${constructedSentence}</span></strong> - Congratulations! Correct sentence.`;
+            playTextToSpeech(constructedSentence);
+        } else {
+            console.log('Incorrect sentence.');
+            resultElement.innerHTML = `<strong><span class="user-translation" style="color: red">${constructedSentence}</span></strong> - Incorrect. The correct sentence is: <strong><span class="sentence-to-translate">${currentSentence}</span></strong>`;
+            playTextToSpeech(currentSentence); 
+        }
       sendStatistic({
-        sentence: reverseDirection ? correctTranslation : userTranslation,
+        sentence: constructedSentence,
         correct: isCorrect,
         timestamp: timestamp
       });
+      if (isCorrect) {
+        generateRandomSentence();
+      }
     }
 
     function toggleDirection() {
@@ -131,7 +123,7 @@
       })
       .catch(error => {
         console.error('Error fetching excluded sentences:', error);
-        excludedSentences = []; // Initialize to an empty array if fetching fails
+        excludedSentences = [];
       });
     }
 

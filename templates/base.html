@@ -13,11 +13,33 @@
   {% endif %}
 </head>
 <style>
+.bg-transparent {
+    background-color: transparent !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.9); /* Adjust color for better visibility */
+}
+
+.navbar-brand {
+    color: rgb(255, 255, 255) !important;
+    background-color: #007bff84 !important;
+    border: 2px solid #ffffff7c !important;
+    border-radius: .25rem !important; /* Zaokrąglone rogi */
+    margin: 5px !important;
+    padding: 8px !important;
+    text-align: center; /* Wyśrodkowanie tekstu w poziomie */
+    font-size: 17px;
+    display: flex; /* Ustawienie flexbox */
+    justify-content: center; /* Wyśrodkowanie w poziomie */
+    align-items: center; /* Wyśrodkowanie w pionie */
+}
+
 /* Blue background for Home button */
 .navbar-nav .nav-link.home-btn {
     background-color: #007bff !important; /* Blue */
     color: white !important;
-    border-radius: 15% solid #007bff !important;
+    border: 2px solid #007bff !important;
+    border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
 }
 
@@ -25,7 +47,8 @@
 .navbar-nav .nav-link.learning-btn {
     background-color: #ffc107 !important; /* Yellow */
     color: black !important;
-    border-radius: 15% solid #ffc107 !important;
+    border: 2px solid #ffc107 !important;
+    border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
 }
 
@@ -33,7 +56,8 @@
 .navbar-nav .nav-link.manage-btn {
     background-color: #28a745 !important; /* Green */
     color: white !important;
-    border-radius: 15% solid #28a745  !important;
+    border: 2px solid #28a745 !important;
+    border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
 }
 
@@ -41,13 +65,15 @@
 .navbar-nav .nav-link.edit-btn {
     background-color: #17a2b8 !important; /* Blue-sea */
     color: white !important;
-    border-radius: 15% solid #17a2b8 !important;
+    border: 2px solid #17a2b8 !important;
+    border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
 }
+
 </style>
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
     <a class="navbar-brand" href="{{ url_for('index') }}">Language Quiz</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
