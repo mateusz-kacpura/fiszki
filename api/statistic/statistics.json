@@ -5333,5 +5333,15 @@
     "sentence": "relevant chart",
     "correct": true,
     "timestamp": "2024-07-14T12:45:17.882Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-14T15:40:46.322Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-14T15:40:47.068Z"
   }
 ]

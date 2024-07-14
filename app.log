@@ -1527,3 +1527,57 @@ INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /static/css/style.c
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:22:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:34] "GET /single_word_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:34] "[36mGET /static/js/single_word_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:39] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:39] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:39:39] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:16] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:16] "GET /static/js/scattered_words_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:16] "GET /api/setting/excludedWords.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': '', 'correct': False, 'timestamp': '2024-07-14T15:40:46.322Z'}
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:46] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:46] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:46] "[35m[1mGET /audio_files/altering.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': '', 'correct': False, 'timestamp': '2024-07-14T15:40:47.068Z'}
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:47] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:40:47] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:36] "GET /add_lists_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:36] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:36] "[36mGET /static/js/add_lists_words.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:36] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:36] "GET /words?file=closings.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:39] "GET /words?file=zestaw.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 17:59:47] "GET /words?file=closings.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:03] "GET /words?file=zestaw.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:18] "GET /add_new_word HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:18] "[36mGET /static/js/add_new_word.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:18] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:21] "GET /read_from_file HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:21] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:21] "[36mGET /static/js/read_from_file.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "GET /edit_list_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "[36mGET /static/js/edit_list_words.js HTTP/1.1[0m" 304 -
