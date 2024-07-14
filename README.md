@@ -71,8 +71,8 @@ This application is a Flask-based backend that handles various functions related
 - `image_files/`: Stores image files.
 - `audio_files/`: Stores audio files.
 - `logs/`: Stores application logs.
-- `statistic/statistics.json`: Stores saved statistics.
-- `setting/excludedWords.json`: Stores settings.
+- `api/astatistic/statistics.json`: Stores saved statistics.
+- `api/setting/excludedWords.json`: Stores settings.
 - `templates/`: Files html Jnija2 System
 - `static/`: Files /js and /css for build frontend
 

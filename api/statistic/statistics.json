@@ -5328,5 +5328,10 @@
     "sentence": "self-driven",
     "correct": true,
     "timestamp": "2024-07-14T11:39:33.622Z"
+  },
+  {
+    "sentence": "relevant chart",
+    "correct": true,
+    "timestamp": "2024-07-14T12:45:17.882Z"
   }
 ]

@@ -1060,3 +1060,21 @@ INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:37:10] "[36mGET /static/js/single_w
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:37:12] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:37:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:37:12] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:07] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:root:Received statistic: {'sentence': 'relevant chart', 'correct': True, 'timestamp': '2024-07-14T12:45:17.882Z'}
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "[35m[1mGET /audio_files/relevant%20chart.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 14:45:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
