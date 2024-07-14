@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Language Quiz - Home
+{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+  <div class="jumbotron">
+    <h1 class="display-4">Language Quiz</h1>
+    <p class="lead">A flashcard application for learning new words quickly and efficiently.</p>
+    <hr class="my-4">
+    <p>This application is a Flask-based backend that handles various functions related to speech recognition, text-to-speech conversion, and managing audio and JSON files.</p>
+    <a class="btn btn-primary btn-lg" href="#features" role="button">Learn more</a>
+  </div>
+
+  <div id="features" class="mt-5">
+    <h2>Features</h2>
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="{{ url_for('sentences_learning') }}">Sentences Learning</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('multilearning') }}">Multi Learning</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('scattered_words_learning') }}">Scattered Words Learning</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('add_lists_word') }}">Add Lists of Words</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('add_new_word') }}">Add New Word</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('single_word_learning') }}">Single Word Learning</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('read_from_file') }}">Read from File</a>
+      </li>
+      <li class="list-group-item">
+        <a href="{{ url_for('edit_list_words') }}">Edit List of Words</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="mt-5">
+    <h2>Backend Documentation</h2>
+    <h3>Installation and Configuration</h3>
+    <p>Clone the repository and install dependencies:</p>
+    <pre><code>git clone &lt;REPOSITORY_URL&gt;
+cd &lt;REPOSITORY_NAME&gt;
+pip install -r requirements.txt
+</code></pre>
+    <p>Set environment variables:</p>
+    <pre><code>import os
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
+os.environ["SUNO_USE_SMALL_MODELS"] = "1"
+</code></pre>
+    <p>Run the application:</p>
+    <pre><code>python app.py</code></pre>
+  </div>
+
+  <div class="mt-5">
+    <h3>API Endpoints</h3>
+    <p>The following endpoints are available:</p>
+    <ul>
+      <li><strong>Real-Time Speech Recognition:</strong> POST /real-time-speech-recognition</li>
+      <li><strong>Send Static File:</strong> GET /&lt;path:path&gt;</li>
+      <li><strong>Send Audio File:</strong> GET /audio_files/&lt;path:path&gt;</li>
+      <li><strong>Text-to-Speech:</strong> POST /text-to-speech</li>
+      <li><strong>Load Audio Paths:</strong> POST /load-audio-paths</li>
+      <li><strong>Save JSON:</strong> POST /save</li>
+      <li><strong>Save Statistic:</strong> POST /save_statistic</li>
+      <li><strong>Save Setting:</strong> POST /saveSetting</li>
+      <li><strong>Get Words:</strong> GET /words</li>
+      <li><strong>Edit Word:</strong> POST /edit/&lt;file&gt;/&lt;index&gt;</li>
+      <li><strong>Get Files:</strong> GET /files</li>
+      <li><strong>Upload File:</strong> POST /upload</li>
+    </ul>
+  </div>
+
+  <div class="mt-5">
+    <h3>Directory Structure</h3>
+    <ul>
+      <li>uploads/: Stores uploaded files.</li>
+      <li>image_files/: Stores image files.</li>
+      <li>audio_files/: Stores audio files.</li>
+      <li>logs/: Stores application logs.</li>
+      <li>statistic/statistics.json: Stores saved statistics.</li>
+      <li>setting/excludedWords.json: Stores settings.</li>
+      <li>templates/: HTML templates (Jinja2).</li>
+      <li>static/: Static files (JS and CSS).</li>
+    </ul>
+  </div>
+</div>
+{% endblock %}

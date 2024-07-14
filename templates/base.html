@@ -12,7 +12,88 @@
     <link rel="stylesheet" href="{{ additionalCSS }}">
   {% endif %}
 </head>
+<style>
+/* Blue background for Home button */
+.navbar-nav .nav-link.home-btn {
+    background-color: #007bff !important; /* Blue */
+    color: white !important;
+    border-radius: 15% solid #007bff !important;
+    margin: 5px;
+}
+
+/* Yellow background for learning buttons */
+.navbar-nav .nav-link.learning-btn {
+    background-color: #ffc107 !important; /* Yellow */
+    color: black !important;
+    border-radius: 15% solid #ffc107 !important;
+    margin: 5px;
+}
+
+/* Green background for manage buttons */
+.navbar-nav .nav-link.manage-btn {
+    background-color: #28a745 !important; /* Green */
+    color: white !important;
+    border-radius: 15% solid #28a745  !important;
+    margin: 5px;
+}
+
+/* Blue-sea background for Edit button */
+.navbar-nav .nav-link.edit-btn {
+    background-color: #17a2b8 !important; /* Blue-sea */
+    color: white !important;
+    border-radius: 15% solid #17a2b8 !important;
+    margin: 5px;
+}
+</style>
 <body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="{{ url_for('index') }}">Language Quiz</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <!-- Home button (blue background) -->
+        <li class="nav-item">
+          <a class="nav-link home-btn" href="{{ url_for('index') }}">Home</a>
+        </li>
+        <!-- Sentences Learning button (yellow background) -->
+        <li class="nav-item">
+          <a class="nav-link learning-btn" href="{{ url_for('sentences_learning') }}">Sentences Learning</a>
+        </li>
+        <!-- Multi Learning button (yellow background) -->
+        <li class="nav-item">
+          <a class="nav-link learning-btn" href="{{ url_for('multilearning') }}">Multi Learning</a>
+        </li>
+        <!-- Single Word Learning button (yellow background) -->
+        <li class="nav-item">
+          <a class="nav-link learning-btn" href="{{ url_for('single_word_learning') }}">Single Word Learning</a>
+        </li>
+        <!-- Scattered Words Learning button (yellow background) -->
+        <li class="nav-item">
+          <a class="nav-link learning-btn" href="{{ url_for('scattered_words_learning') }}">Scattered Words Learning</a>
+        </li>
+        <!-- Add Lists of Words button (green background) -->
+        <li class="nav-item">
+          <a class="nav-link manage-btn" href="{{ url_for('add_lists_word') }}">Add Lists of Words</a>
+        </li>
+        <!-- Add New Word button (green background) -->
+        <li class="nav-item">
+          <a class="nav-link manage-btn" href="{{ url_for('add_new_word') }}">Add New Word</a>
+        </li>
+        <!-- Read from File button (green background) -->
+        <li class="nav-item">
+          <a class="nav-link manage-btn" href="{{ url_for('read_from_file') }}">Read from File</a>
+        </li>
+        <!-- Edit List of Words button (blue-sea background) -->
+        <li class="nav-item">
+          <a class="nav-link edit-btn" href="{{ url_for('edit_list_words') }}">Edit List of Words</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
   <div class="container mt-5" id="main-container">
     {% block content %}
     {% endblock %}
@@ -31,3 +112,6 @@
   {% endblock %}
 </body>
 </html>
+
+
+
