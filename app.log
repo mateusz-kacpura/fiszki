@@ -1600,3 +1600,881 @@ INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:23] "POST /save_statistic HTTP/1.
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:24] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
 INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
 INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:51:19] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:51:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:51:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:51:19] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:51:19] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:07] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:07] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:07] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:09] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:09] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:09] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 08:53:09] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:35:38] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:35:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:35:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:35:38] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:35:38] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:36:58] "GET /single_word_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:36:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:36:58] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:36:58] "[36mGET /static/js/single_word_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:37:00] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:37:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:37:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:37:00] "GET /static/js/sentences_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:37:00] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'Chêtnie pomogê ci w twoim projekcie.', 'correct': True, 'timestamp': '2024-07-15T07:38:10.458Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:38:10] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Remember to indent the first line of each paragraph.', 'correct': True, 'timestamp': '2024-07-15T07:38:33.600Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:38:33] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They received an enquiry about their new product.', 'correct': True, 'timestamp': '2024-07-15T07:38:42.300Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:38:42] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': True, 'timestamp': '2024-07-15T07:41:07.530Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:41:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'A rainbow appeared after the storm.', 'correct': True, 'timestamp': '2024-07-15T07:43:54.566Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:43:55] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:58:07] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:58:07] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They received an enquiry about their new product.', 'correct': True, 'timestamp': '2024-07-15T07:44:11.283Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:58:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:58:51] "[35m[1mGET /audio_files/They%20received%20an%20enquiry%20about%20their%20new%20product..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:58:51] "[35m[1mGET /audio_files/They%20received%20an%20enquiry%20about%20their%20new%20product..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:58:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 09:59:16] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:17] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:33] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:33] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:33] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:03:58] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:05:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Please choose an appropriate response.', 'correct': True, 'timestamp': '2024-07-15T08:08:56.674Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:08:56] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:11:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:13:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:13:53] "[35m[1mGET /audio_files/Please%20choose%20an%20appropriate%20response..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:13:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'I urge you to reconsider your decision.', 'correct': False, 'timestamp': '2024-07-15T08:16:17.819Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:19] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I urge you to reconsider your decision.', 'correct': False, 'timestamp': '2024-07-15T08:16:19.284Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:19] "[35m[1mGET /audio_files/Please%20choose%20an%20appropriate%20response..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:19] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I urge you to reconsider your decision.', 'correct': False, 'timestamp': '2024-07-15T08:16:20.478Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:20] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I urge you to reconsider your decision.', 'correct': False, 'timestamp': '2024-07-15T08:16:24.893Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I urge you to reconsider your decision.', 'correct': True, 'timestamp': '2024-07-15T08:16:26.380Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:16:26] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:22:51] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:23:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:23:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:29:59] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:26] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:26] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:26] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:28] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:28] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:28] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'Proszê napisaæ nazwê odbiorcy na kopercie.', 'correct': False, 'timestamp': '2024-07-15T08:55:35.329Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:35] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Your health is our main concern.', 'correct': True, 'timestamp': '2024-07-15T08:55:49.368Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:49] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:49] "[35m[1mGET /audio_files/Your%20health%20is%20our%20main%20concern..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:55:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:02] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Your health is our main concern.', 'correct': False, 'timestamp': '2024-07-15T08:56:02.229Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:02] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:02] "[35m[1mGET /audio_files/Please%20write%20the%20recipient's%20name%20on%20the%20envelope..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'Your health is our main concern.', 'correct': False, 'timestamp': '2024-07-15T08:56:04.207Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:04] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Your health is our main concern.', 'correct': False, 'timestamp': '2024-07-15T08:56:06.949Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:06] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:07] "[35m[1mGET /audio_files/They%20are%20seeking%20additional%20capital%20to%20expand%20their%20business..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:07] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Your health is our main concern.', 'correct': False, 'timestamp': '2024-07-15T08:56:09.756Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 10:56:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:02:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:08:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:11:34] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:55] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:55] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:55] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:16:55] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'Instrukcje znajduj¹ siê bezpoœrednio poni¿ej obrazu.', 'correct': True, 'timestamp': '2024-07-15T09:17:01.293Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:17:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:31] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:47] "[35m[1mGET /audio_files/Instrukcje%20znajduj¹%20siê%20bezpoœrednio%20poni¿ej%20obrazu..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'They received an enquiry about their new product.', 'correct': True, 'timestamp': '2024-07-15T09:20:52.073Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:52] "[35m[1mGET /audio_files/They%20received%20an%20enquiry%20about%20their%20new%20product..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They received an enquiry about their new product.', 'correct': False, 'timestamp': '2024-07-15T09:20:54.540Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:54] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:54] "[35m[1mGET /audio_files/Sorry%20for%20any%20inconvenience%20caused%20by%20the%20delay..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'They received an enquiry about their new product.', 'correct': False, 'timestamp': '2024-07-15T09:20:55.939Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:55] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:59] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They received an enquiry about their new product.', 'correct': False, 'timestamp': '2024-07-15T09:20:59.290Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:59] "[35m[1mGET /audio_files/A%20rainbow%20appeared%20after%20the%20storm..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:20:59] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:15] "[35m[1mGET /audio_files/She%20insists%20on%20paying%20for%20the%20meal..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': "Please write the recipient's name on the envelope.", 'correct': True, 'timestamp': '2024-07-15T09:23:43.118Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:43] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:43] "[35m[1mGET /audio_files/Please%20write%20the%20recipient's%20name%20on%20the%20envelope..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:43] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': "Please write the recipient's name on the envelope.", 'correct': False, 'timestamp': '2024-07-15T09:23:44.832Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:44] "[35m[1mGET /audio_files/Sorry%20for%20any%20inconvenience%20caused%20by%20the%20delay..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:44] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': "Please write the recipient's name on the envelope.", 'correct': False, 'timestamp': '2024-07-15T09:23:45.889Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:45] "[35m[1mGET /audio_files/Remember%20to%20indent%20the%20first%20line%20of%20each%20paragraph..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:45] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:47] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': "Please write the recipient's name on the envelope.", 'correct': False, 'timestamp': '2024-07-15T09:23:47.504Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:47] "[35m[1mGET /audio_files/I%20look%20forward%20to%20hearing%20from%20you%20soon..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:47] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': "Please write the recipient's name on the envelope.", 'correct': False, 'timestamp': '2024-07-15T09:23:48.963Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:23:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:26:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:26:39] "[35m[1mGET /audio_files/We%20need%20further%20information%20to%20proceed..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:27:02] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:27:02.005Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:27:02] "[35m[1mGET /audio_files/Remember%20to%20indent%20the%20first%20line%20of%20each%20paragraph..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:27:02] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:27:04.015Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:27:04] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:29:30] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:29:30] "[35m[1mGET /audio_files/He%20was%20charged%20with%20a%20serious%20offence..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:31:17.643Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:31:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:32:38.559Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:38] "[35m[1mGET /audio_files/He%20was%20charged%20with%20a%20serious%20offence..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:40] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:32:40.231Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:40] "[35m[1mGET /audio_files/Remember%20to%20indent%20the%20first%20line%20of%20each%20paragraph..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:43] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': True, 'timestamp': '2024-07-15T09:32:43.697Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:43] "[35m[1mGET /audio_files/We%20need%20further%20information%20to%20proceed..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:32:43] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:40:08] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:40:08] "[35m[1mGET /audio_files/I%20would%20gladly%20help%20you%20with%20your%20project..mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:43:36.996Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:37] "[35m[1mGET /audio_files/Please%20choose%20an%20appropriate%20response..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:37] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:43:37.862Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:37] "[35m[1mGET /audio_files/He%20was%20charged%20with%20a%20serious%20offence..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:37] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:43:38.574Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:38] "[35m[1mGET /audio_files/I%20would%20gladly%20help%20you%20with%20your%20project..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': False, 'timestamp': '2024-07-15T09:43:39.682Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:39] "[35m[1mGET /audio_files/Remember%20to%20indent%20the%20first%20line%20of%20each%20paragraph..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:39] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I look forward to hearing from you soon.', 'correct': False, 'timestamp': '2024-07-15T09:43:42.119Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:42] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:42] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I look forward to hearing from you soon.', 'correct': False, 'timestamp': '2024-07-15T09:43:44.190Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:44] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I look forward to hearing from you soon.', 'correct': False, 'timestamp': '2024-07-15T09:43:50.199Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:50] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:50] "[35m[1mGET /audio_files/They%20are%20seeking%20additional%20capital%20to%20expand%20their%20business..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:50] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I look forward to hearing from you soon.', 'correct': True, 'timestamp': '2024-07-15T09:43:51.318Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:51] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:51] "[35m[1mGET /audio_files/I%20look%20forward%20to%20hearing%20from%20you%20soon..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:51] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'I look forward to hearing from you soon.', 'correct': False, 'timestamp': '2024-07-15T09:43:52.882Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:43:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:05] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:05] "[35m[1mGET /audio_files/She%20will%20attend%20an%20interview%20for%20the%20manager%20position%20next%20week..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:26] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:47:26.867Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:26] "[35m[1mGET /audio_files/A%20rainbow%20appeared%20after%20the%20storm..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:26] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:47:28.045Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:28] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:28] "[35m[1mGET /audio_files/Your%20health%20is%20our%20main%20concern..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:28] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:47:32.068Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:33] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:47:33.294Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:33] "[35m[1mGET /audio_files/They%20received%20an%20enquiry%20about%20their%20new%20product..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:47:33] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:50:43] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:50:43] "[35m[1mGET /audio_files/I%20assure%20you%20that%20everything%20will%20be%20fine..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:33] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:51:33.276Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:33] "[35m[1mGET /audio_files/A%20rainbow%20appeared%20after%20the%20storm..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:33] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:34] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:51:34.328Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:34] "[35m[1mGET /audio_files/I%20assure%20you%20that%20everything%20will%20be%20fine..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:34] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': True, 'timestamp': '2024-07-15T09:51:35.417Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:35] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:35] "[35m[1mGET /audio_files/She%20insists%20on%20paying%20for%20the%20meal..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:35] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:36] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'She insists on paying for the meal.', 'correct': False, 'timestamp': '2024-07-15T09:51:36.392Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:36] "[35m[1mGET /audio_files/Your%20health%20is%20our%20main%20concern..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:36] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': False, 'timestamp': '2024-07-15T09:51:45.171Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:45] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:45] "[35m[1mGET /audio_files/We%20need%20further%20information%20to%20proceed..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:45] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': True, 'timestamp': '2024-07-15T09:51:49.184Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:49] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:49] "[35m[1mGET /audio_files/They%20are%20seeking%20additional%20capital%20to%20expand%20their%20business..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': False, 'timestamp': '2024-07-15T09:51:51.025Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:51] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:51] "[35m[1mGET /audio_files/Remember%20to%20indent%20the%20first%20line%20of%20each%20paragraph..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:51] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': False, 'timestamp': '2024-07-15T09:51:52.892Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': False, 'timestamp': '2024-07-15T09:51:54.413Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:54] "[35m[1mGET /audio_files/Please%20choose%20an%20appropriate%20response..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:51:54] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'They are seeking additional capital to expand their business.', 'correct': False, 'timestamp': '2024-07-15T09:52:11.381Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:52:11] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:52:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Your health is our main concern.', 'correct': True, 'timestamp': '2024-07-15T09:52:54.244Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:52:54] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:52:54] "[35m[1mGET /audio_files/Your%20health%20is%20our%20main%20concern..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:52:54] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'We need further information to proceed.', 'correct': True, 'timestamp': '2024-07-15T09:53:06.759Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:06] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:06] "[35m[1mGET /audio_files/We%20need%20further%20information%20to%20proceed..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:06] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Please choose an appropriate response.', 'correct': True, 'timestamp': '2024-07-15T09:53:15.015Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:15] "[35m[1mGET /audio_files/Please%20choose%20an%20appropriate%20response..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Sorry for any inconvenience caused by the delay.', 'correct': True, 'timestamp': '2024-07-15T09:53:24.367Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:24] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:24] "[35m[1mGET /audio_files/Sorry%20for%20any%20inconvenience%20caused%20by%20the%20delay..mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:24] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:29] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:29] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:29] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'nalegaæ', 'correct': True, 'timestamp': '2024-07-15T09:53:47.788Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:53:47] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Look forward to hearing from you', 'correct': True, 'timestamp': '2024-07-15T09:54:00.841Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:00] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:18] "GET /edit_list_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:18] "[36mGET /static/js/edit_list_words.js HTTP/1.1[0m" 304 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Directly_below.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Recipient's_name.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Indent.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Capital.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Enquiry.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Further.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Attend_an_interview.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Convenient.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Inconvenience.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Offence.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Appropriate.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Assure.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Gladly.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Involved.mp3
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:39] "[31m[1mPOST /load-image-paths HTTP/1.1[0m" 405 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Concern.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Insist.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Urge.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Appeared.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Look_forward_to_hearing_from_you.mp3
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:54:51] "POST /load-audio-paths HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:57:55] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 11:58:27] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:43] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:43] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:43] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Directly_below.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Recipient's_name.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Indent.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Capital.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Enquiry.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Further.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Attend_an_interview.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Convenient.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Inconvenience.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Offence.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Appropriate.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Assure.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Gladly.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Involved.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Concern.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Insist.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Urge.mp3
+INFO:root:Received statistic: {'word': 'uczestniczyæ w rozmowie kwalifikacyjnej', 'correct': True, 'timestamp': '2024-07-15T10:03:58.565Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:58] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Appeared.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/Look_forward_to_hearing_from_you.mp3
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:03:59] "POST /load-audio-paths HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Further', 'correct': False, 'timestamp': '2024-07-15T10:04:08.759Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:04:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Further', 'correct': True, 'timestamp': '2024-07-15T10:04:09.927Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:04:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:09:46] "GET /edit_list_words HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:09:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:09:46] "[36mGET /static/js/edit_list_words.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:09:46] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/directly_below.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/recipient's_name.mp3
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:09:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Downloaded audio: https://www.diki.pl/images-common/en/mp3/indent.mp3 to audio_files\indent.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/capital.mp3 to audio_files\capital.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/enquiry.mp3 to audio_files\enquiry.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/further.mp3 to audio_files\further.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/attend_an_interview.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/convenient.mp3 to audio_files\convenient.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/inconvenience.mp3 to audio_files\inconvenience.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/offence.mp3 to audio_files\offence.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/appropriate.mp3 to audio_files\appropriate.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/assure.mp3 to audio_files\assure.mp3
+INFO:root:Downloaded audio: https://www.diki.pl/images-common/en/mp3/gladly.mp3 to audio_files\gladly.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/involved.mp3 to audio_files\involved.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/concern.mp3 to audio_files\concern.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/insist.mp3 to audio_files\insist.mp3
+INFO:root:Downloaded audio: https://www.ang.pl/sound/dict/urge.mp3 to audio_files\urge.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/appeared.mp3
+INFO:root:Failed to download audio from: https://www.diki.pl/images-common/en/mp3/look_forward_to_hearing_from_you.mp3
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:10:05] "POST /load-audio-paths HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:10:13] "[31m[1mPOST /load-image-paths HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:13:28] "GET /single_word_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:13:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:13:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:13:28] "[36mGET /static/js/single_word_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:00] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:00] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:00] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'Directly below', 'correct': True, 'timestamp': '2024-07-15T10:14:16.304Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:22] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:22] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:22] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'nalegaæ', 'correct': True, 'timestamp': '2024-07-15T10:14:33.334Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:33] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:33] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:33] "[35m[1mGET /audio_files/nalegaæ.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'nalegaæ', 'correct': True, 'timestamp': '2024-07-15T10:14:41.531Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:41] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'zapytanie', 'correct': False, 'timestamp': '2024-07-15T10:14:49.038Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:14:49] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Look forward to hearing from you', 'correct': True, 'timestamp': '2024-07-15T10:15:34.234Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:15:38] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:15:38] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:15:38] "[35m[1mGET /audio_files/Look%20forward%20to%20hearing%20from%20you.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:17:03] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:17:21] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:19:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:19:13] "[35m[1mGET /audio_files/zapytanie.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Directly below', 'correct': True, 'timestamp': '2024-07-15T10:33:24.237Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:33:24] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:33:24] "[35m[1mGET /audio_files/Directly%20below.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:33:24] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Convenient', 'correct': True, 'timestamp': '2024-07-15T10:33:29.749Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:33:29] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:33:29] "[35m[1mGET /audio_files/Convenient.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:33:29] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Convenient', 'correct': False, 'timestamp': '2024-07-15T10:35:09.089Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:09] "[35m[1mGET /audio_files/Concern.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Convenient', 'correct': False, 'timestamp': '2024-07-15T10:35:10.404Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:10] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:10] "[35m[1mGET /audio_files/Appropriate.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:10] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Convenient', 'correct': True, 'timestamp': '2024-07-15T10:35:12.149Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:12] "[35m[1mGET /audio_files/Convenient.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:12] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Convenient', 'correct': False, 'timestamp': '2024-07-15T10:35:13.507Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:13] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:13] "[35m[1mGET /audio_files/Capital.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Convenient', 'correct': True, 'timestamp': '2024-07-15T10:35:14.606Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:14] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': False, 'timestamp': '2024-07-15T10:35:52.078Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': True, 'timestamp': '2024-07-15T10:35:53.345Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:53] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:53] "[35m[1mGET /audio_files/Assure.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:35:53] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appropriate', 'correct': False, 'timestamp': '2024-07-15T10:36:07.439Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:07] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appropriate', 'correct': False, 'timestamp': '2024-07-15T10:36:10.380Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:10] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:10] "[35m[1mGET /audio_files/Insist.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:10] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appropriate', 'correct': False, 'timestamp': '2024-07-15T10:36:12.940Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:12] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appropriate', 'correct': True, 'timestamp': '2024-07-15T10:36:15.467Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:15] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Attend an interview', 'correct': True, 'timestamp': '2024-07-15T10:36:21.016Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:36:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': True, 'timestamp': '2024-07-15T10:37:07.958Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:08] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:08] "[35m[1mGET /audio_files/Assure.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appropriate', 'correct': False, 'timestamp': '2024-07-15T10:37:15.764Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:17] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appropriate', 'correct': True, 'timestamp': '2024-07-15T10:37:17.568Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:17] "[35m[1mGET /audio_files/Appropriate.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:39] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:43] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:37:46] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:43:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:43:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:43:46] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 12:46:49] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Attend an interview', 'correct': True, 'timestamp': '2024-07-15T11:08:00.861Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:00] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:00] "[35m[1mGET /audio_files/Attend%20an%20interview.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:00] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'Offence', 'correct': True, 'timestamp': '2024-07-15T11:08:08.060Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:08] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:08] "[35m[1mGET /audio_files/Offence.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:08:08] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:09:47] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:09:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:09:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:09:47] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:09:47] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:07] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:07] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:10:07] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:09] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:09] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:09] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:09] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:11] "GET /scattered_words_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:11] "[36mGET /static/js/scattered_words_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:11] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'sentence': 'Look forward from you', 'correct': False, 'timestamp': '2024-07-15T11:11:25.536Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:25] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:25] "[35m[1mGET /audio_files/Look%20forward%20to%20hearing%20from%20you.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:25] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:35] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': "Recipient's name", 'correct': True, 'timestamp': '2024-07-15T11:11:35.527Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:35] "[35m[1mGET /audio_files/Recipient's%20name.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:35] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Insist', 'correct': True, 'timestamp': '2024-07-15T11:11:37.879Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:37] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:37] "[35m[1mGET /audio_files/Insist.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:37] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Capital', 'correct': True, 'timestamp': '2024-07-15T11:11:39.987Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:39] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:40] "[35m[1mGET /audio_files/Capital.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:40] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'sentence': 'Indent', 'correct': True, 'timestamp': '2024-07-15T11:11:41.886Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:41] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:41] "[35m[1mGET /audio_files/Indent.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'sentence': 'Inconvenience', 'correct': True, 'timestamp': '2024-07-15T11:11:43.762Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:43] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:43] "[35m[1mGET /audio_files/Inconvenience.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:43] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:48] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:48] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:11:48] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'Involved', 'correct': False, 'timestamp': '2024-07-15T11:12:01.470Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:01] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:01] "[35m[1mGET /audio_files/Gladly.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:01] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'Involved', 'correct': False, 'timestamp': '2024-07-15T11:12:03.725Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:03] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:03] "[35m[1mGET /audio_files/Appeared.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:03] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Involved', 'correct': True, 'timestamp': '2024-07-15T11:12:32.327Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:32] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:32] "[35m[1mGET /audio_files/Involved.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:32] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Attend an interview', 'correct': True, 'timestamp': '2024-07-15T11:12:44.869Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:44] "[35m[1mGET /audio_files/Attend%20an%20interview.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:44] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Involved', 'correct': False, 'timestamp': '2024-07-15T11:12:52.307Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:52] "[35m[1mGET /audio_files/Assure.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Involved', 'correct': True, 'timestamp': '2024-07-15T11:12:57.830Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:57] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:12:57] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': False, 'timestamp': '2024-07-15T11:13:07.164Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:07] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:07] "[35m[1mGET /audio_files/Gladly.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:07] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': True, 'timestamp': '2024-07-15T11:13:09.107Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:09] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:09] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': "Recipient's name", 'correct': True, 'timestamp': '2024-07-15T11:13:13.535Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:13] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:13] "[35m[1mGET /audio_files/Recipient's%20name.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:13:13] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': "Recipient's name", 'correct': False, 'timestamp': '2024-07-15T11:14:06.719Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:06] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:06] "[35m[1mGET /audio_files/Offence.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:06] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': "Recipient's name", 'correct': True, 'timestamp': '2024-07-15T11:14:07.776Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:07] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:07] "[35m[1mGET /audio_files/Recipient's%20name.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:07] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Appeared', 'correct': True, 'timestamp': '2024-07-15T11:14:16.753Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:16] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:16] "[35m[1mGET /audio_files/Appeared.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:46] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Indent', 'correct': False, 'timestamp': '2024-07-15T11:14:46.283Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:46] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Indent', 'correct': False, 'timestamp': '2024-07-15T11:14:47.331Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:47] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:47] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:47] "[35m[1mGET /audio_files/Appropriate.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Indent', 'correct': False, 'timestamp': '2024-07-15T11:14:48.767Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:48] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:48] "[35m[1mGET /audio_files/Inconvenience.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:48] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Indent', 'correct': False, 'timestamp': '2024-07-15T11:14:50.673Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:50] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:50] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:50] "[35m[1mGET /audio_files/Urge.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Indent', 'correct': True, 'timestamp': '2024-07-15T11:14:52.407Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:52] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:52] "[35m[1mGET /audio_files/Indent.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:14:52] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Attend an interview', 'correct': True, 'timestamp': '2024-07-15T11:15:28.425Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:28] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:28] "[35m[1mGET /audio_files/Attend%20an%20interview.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:28] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Further', 'correct': True, 'timestamp': '2024-07-15T11:15:33.616Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:33] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:33] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:33] "[35m[1mGET /audio_files/Further.mp3 HTTP/1.1[0m" 206 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': False, 'timestamp': '2024-07-15T11:15:41.651Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:41] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:41] "[35m[1mGET /audio_files/Indent.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:41] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': False, 'timestamp': '2024-07-15T11:15:44.063Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:44] "[35m[1mGET /audio_files/Urge.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:15:44] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:16:57] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:16:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:16:57] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:16:57] "GET /static/js/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:16:57] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:root:Received statistic: {'word': 'nalegaæ', 'correct': False, 'timestamp': '2024-07-15T11:17:10.791Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:10] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'zaanga¿owany', 'correct': True, 'timestamp': '2024-07-15T11:17:11.788Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:11] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'zapewniæ', 'correct': False, 'timestamp': '2024-07-15T11:17:15.633Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'dalsze', 'correct': False, 'timestamp': '2024-07-15T11:17:16.633Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:16] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'dogodne', 'correct': True, 'timestamp': '2024-07-15T11:17:17.273Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:17] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'chêtnie', 'correct': False, 'timestamp': '2024-07-15T11:17:22.099Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'niedogodnoœæ', 'correct': False, 'timestamp': '2024-07-15T11:17:22.577Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:22] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'odpowiedni', 'correct': False, 'timestamp': '2024-07-15T11:17:23.181Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:23] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'zapytanie', 'correct': True, 'timestamp': '2024-07-15T11:17:23.503Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:17:23] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'nazwa odbiorcy', 'correct': False, 'timestamp': '2024-07-15T11:18:14.447Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:18:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'bezpoœrednio poni¿ej', 'correct': False, 'timestamp': '2024-07-15T11:18:14.748Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:18:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'wciêcie', 'correct': False, 'timestamp': '2024-07-15T11:18:14.921Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:18:14] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'nalegaæ', 'correct': False, 'timestamp': '2024-07-15T11:18:15.322Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:18:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'niedogodnoœæ', 'correct': True, 'timestamp': '2024-07-15T11:18:15.405Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:18:15] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:20:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:46:35] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:46:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:46:35] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:46:35] "GET /static/js/multi_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:46:35] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:46:40] "[33mGET /path_to_audio_icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:37] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:37] "GET /static/js/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:37] "GET /static/js/multi_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:38] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:42] "[33mGET /path_to_audio_icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:44] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:44] "[35m[1mGET /audio_files/Directly%20below.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 13:50:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 14:49:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 14:49:02] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 14:49:02] "[33mGET /static/path_to_fontello/fontello.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 14:49:02] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET /static/css/animation.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET /static/css/fontello-embedded.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET /static/css/fontello-ie7-codes.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET /static/css/fontello-ie7.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET /static/css/fontello.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:06] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:13] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:46] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:47] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:48] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:03:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:29] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:30] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:31] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:39] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:39] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:39] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:39] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:04:39] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:05:20] "GET /static/font/fontello.woff2?13125081 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:21] "[36mGET /static/font/fontello.woff2?13125081 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:29] "GET /sentences_learining HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[36mGET /static/js/sentences_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:07:30] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "GET /static/js/multi_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:21] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:27] "[36mGET /static/font/fontello.woff2?13125081 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:31] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:32] "[35m[1mGET /audio_files/Directly%20below.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:08:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:40] "GET /static/js/multi_learning.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:41] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:13:49] "[36mGET /static/font/fontello.woff2?13125081 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:12] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:12] "[35m[1mGET /audio_files/Insist.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:24] "POST /text-to-speech HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': False, 'timestamp': '2024-07-15T13:14:24.851Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:24] "[35m[1mGET /audio_files/Urge.mp3 HTTP/1.1[0m" 206 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:24] "POST /save_statistic HTTP/1.1" 200 -
+INFO:root:Received statistic: {'word': 'Assure', 'correct': False, 'timestamp': '2024-07-15T13:14:29.337Z'}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:14:29] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/css/animation.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/css/fontello-embedded.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/css/fontello-ie7-codes.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/css/fontello-ie7.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/css/fontello.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:10] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:11] "[33mGET /api/setting/excludedWords.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2024 15:15:18] "[36mGET /static/font/fontello.woff2?13125081 HTTP/1.1[0m" 304 -

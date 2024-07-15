@@ -5348,5 +5348,670 @@
     "word": "samo motywuj\u0105cy si\u0119",
     "correct": true,
     "timestamp": "2024-07-14T16:55:23.031Z"
+  },
+  {
+    "sentence": "Ch\u0119tnie pomog\u0119 ci w twoim projekcie.",
+    "correct": true,
+    "timestamp": "2024-07-15T07:38:10.458Z"
+  },
+  {
+    "sentence": "Remember to indent the first line of each paragraph.",
+    "correct": true,
+    "timestamp": "2024-07-15T07:38:33.600Z"
+  },
+  {
+    "sentence": "They received an enquiry about their new product.",
+    "correct": true,
+    "timestamp": "2024-07-15T07:38:42.300Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": true,
+    "timestamp": "2024-07-15T07:41:07.530Z"
+  },
+  {
+    "sentence": "A rainbow appeared after the storm.",
+    "correct": true,
+    "timestamp": "2024-07-15T07:43:54.566Z"
+  },
+  {
+    "sentence": "They received an enquiry about their new product.",
+    "correct": true,
+    "timestamp": "2024-07-15T07:44:11.283Z"
+  },
+  {
+    "sentence": "Please choose an appropriate response.",
+    "correct": true,
+    "timestamp": "2024-07-15T08:08:56.674Z"
+  },
+  {
+    "sentence": "I urge you to reconsider your decision.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:16:17.819Z"
+  },
+  {
+    "sentence": "I urge you to reconsider your decision.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:16:19.284Z"
+  },
+  {
+    "sentence": "I urge you to reconsider your decision.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:16:20.478Z"
+  },
+  {
+    "sentence": "I urge you to reconsider your decision.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:16:24.893Z"
+  },
+  {
+    "sentence": "I urge you to reconsider your decision.",
+    "correct": true,
+    "timestamp": "2024-07-15T08:16:26.380Z"
+  },
+  {
+    "sentence": "Prosz\u0119 napisa\u0107 nazw\u0119 odbiorcy na kopercie.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:55:35.329Z"
+  },
+  {
+    "sentence": "Your health is our main concern.",
+    "correct": true,
+    "timestamp": "2024-07-15T08:55:49.368Z"
+  },
+  {
+    "sentence": "Your health is our main concern.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:56:02.229Z"
+  },
+  {
+    "sentence": "Your health is our main concern.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:56:04.207Z"
+  },
+  {
+    "sentence": "Your health is our main concern.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:56:06.949Z"
+  },
+  {
+    "sentence": "Your health is our main concern.",
+    "correct": false,
+    "timestamp": "2024-07-15T08:56:09.756Z"
+  },
+  {
+    "sentence": "Instrukcje znajduj\u0105 si\u0119 bezpo\u015brednio poni\u017cej obrazu.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:17:01.293Z"
+  },
+  {
+    "sentence": "They received an enquiry about their new product.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:20:52.073Z"
+  },
+  {
+    "sentence": "They received an enquiry about their new product.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:20:54.540Z"
+  },
+  {
+    "sentence": "They received an enquiry about their new product.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:20:55.939Z"
+  },
+  {
+    "sentence": "They received an enquiry about their new product.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:20:59.290Z"
+  },
+  {
+    "sentence": "Please write the recipient's name on the envelope.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:23:43.118Z"
+  },
+  {
+    "sentence": "Please write the recipient's name on the envelope.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:23:44.832Z"
+  },
+  {
+    "sentence": "Please write the recipient's name on the envelope.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:23:45.889Z"
+  },
+  {
+    "sentence": "Please write the recipient's name on the envelope.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:23:47.504Z"
+  },
+  {
+    "sentence": "Please write the recipient's name on the envelope.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:23:48.963Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:27:02.005Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:27:04.015Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:31:17.643Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:32:38.559Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:32:40.231Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:32:43.697Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:36.996Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:37.862Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:38.574Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:39.682Z"
+  },
+  {
+    "sentence": "I look forward to hearing from you soon.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:42.119Z"
+  },
+  {
+    "sentence": "I look forward to hearing from you soon.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:44.190Z"
+  },
+  {
+    "sentence": "I look forward to hearing from you soon.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:50.199Z"
+  },
+  {
+    "sentence": "I look forward to hearing from you soon.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:43:51.318Z"
+  },
+  {
+    "sentence": "I look forward to hearing from you soon.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:43:52.882Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:47:26.867Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:47:28.045Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:47:32.068Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:47:33.294Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:33.276Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:34.328Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:51:35.417Z"
+  },
+  {
+    "sentence": "She insists on paying for the meal.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:36.392Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:45.171Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:51:49.184Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:51.025Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:52.892Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:51:54.413Z"
+  },
+  {
+    "sentence": "They are seeking additional capital to expand their business.",
+    "correct": false,
+    "timestamp": "2024-07-15T09:52:11.381Z"
+  },
+  {
+    "sentence": "Your health is our main concern.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:52:54.244Z"
+  },
+  {
+    "sentence": "We need further information to proceed.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:53:06.759Z"
+  },
+  {
+    "sentence": "Please choose an appropriate response.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:53:15.015Z"
+  },
+  {
+    "sentence": "Sorry for any inconvenience caused by the delay.",
+    "correct": true,
+    "timestamp": "2024-07-15T09:53:24.367Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T09:53:47.788Z"
+  },
+  {
+    "word": "Look forward to hearing from you",
+    "correct": true,
+    "timestamp": "2024-07-15T09:54:00.841Z"
+  },
+  {
+    "word": "uczestniczy\u0107 w rozmowie kwalifikacyjnej",
+    "correct": true,
+    "timestamp": "2024-07-15T10:03:58.565Z"
+  },
+  {
+    "word": "Further",
+    "correct": false,
+    "timestamp": "2024-07-15T10:04:08.759Z"
+  },
+  {
+    "word": "Further",
+    "correct": true,
+    "timestamp": "2024-07-15T10:04:09.927Z"
+  },
+  {
+    "sentence": "Directly below",
+    "correct": true,
+    "timestamp": "2024-07-15T10:14:16.304Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T10:14:33.334Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T10:14:41.531Z"
+  },
+  {
+    "word": "zapytanie",
+    "correct": false,
+    "timestamp": "2024-07-15T10:14:49.038Z"
+  },
+  {
+    "word": "Look forward to hearing from you",
+    "correct": true,
+    "timestamp": "2024-07-15T10:15:34.234Z"
+  },
+  {
+    "word": "Directly below",
+    "correct": true,
+    "timestamp": "2024-07-15T10:33:24.237Z"
+  },
+  {
+    "word": "Convenient",
+    "correct": true,
+    "timestamp": "2024-07-15T10:33:29.749Z"
+  },
+  {
+    "word": "Convenient",
+    "correct": false,
+    "timestamp": "2024-07-15T10:35:09.089Z"
+  },
+  {
+    "word": "Convenient",
+    "correct": false,
+    "timestamp": "2024-07-15T10:35:10.404Z"
+  },
+  {
+    "word": "Convenient",
+    "correct": true,
+    "timestamp": "2024-07-15T10:35:12.149Z"
+  },
+  {
+    "word": "Convenient",
+    "correct": false,
+    "timestamp": "2024-07-15T10:35:13.507Z"
+  },
+  {
+    "word": "Convenient",
+    "correct": true,
+    "timestamp": "2024-07-15T10:35:14.606Z"
+  },
+  {
+    "word": "Assure",
+    "correct": false,
+    "timestamp": "2024-07-15T10:35:52.078Z"
+  },
+  {
+    "word": "Assure",
+    "correct": true,
+    "timestamp": "2024-07-15T10:35:53.345Z"
+  },
+  {
+    "word": "Appropriate",
+    "correct": false,
+    "timestamp": "2024-07-15T10:36:07.439Z"
+  },
+  {
+    "word": "Appropriate",
+    "correct": false,
+    "timestamp": "2024-07-15T10:36:10.380Z"
+  },
+  {
+    "word": "Appropriate",
+    "correct": false,
+    "timestamp": "2024-07-15T10:36:12.940Z"
+  },
+  {
+    "word": "Appropriate",
+    "correct": true,
+    "timestamp": "2024-07-15T10:36:15.467Z"
+  },
+  {
+    "word": "Attend an interview",
+    "correct": true,
+    "timestamp": "2024-07-15T10:36:21.016Z"
+  },
+  {
+    "word": "Assure",
+    "correct": true,
+    "timestamp": "2024-07-15T10:37:07.958Z"
+  },
+  {
+    "word": "Appropriate",
+    "correct": false,
+    "timestamp": "2024-07-15T10:37:15.764Z"
+  },
+  {
+    "word": "Appropriate",
+    "correct": true,
+    "timestamp": "2024-07-15T10:37:17.568Z"
+  },
+  {
+    "sentence": "Attend an interview",
+    "correct": true,
+    "timestamp": "2024-07-15T11:08:00.861Z"
+  },
+  {
+    "sentence": "Offence",
+    "correct": true,
+    "timestamp": "2024-07-15T11:08:08.060Z"
+  },
+  {
+    "sentence": "Look forward from you",
+    "correct": false,
+    "timestamp": "2024-07-15T11:11:25.536Z"
+  },
+  {
+    "sentence": "Recipient's name",
+    "correct": true,
+    "timestamp": "2024-07-15T11:11:35.527Z"
+  },
+  {
+    "sentence": "Insist",
+    "correct": true,
+    "timestamp": "2024-07-15T11:11:37.879Z"
+  },
+  {
+    "sentence": "Capital",
+    "correct": true,
+    "timestamp": "2024-07-15T11:11:39.987Z"
+  },
+  {
+    "sentence": "Indent",
+    "correct": true,
+    "timestamp": "2024-07-15T11:11:41.886Z"
+  },
+  {
+    "sentence": "Inconvenience",
+    "correct": true,
+    "timestamp": "2024-07-15T11:11:43.762Z"
+  },
+  {
+    "word": "Involved",
+    "correct": false,
+    "timestamp": "2024-07-15T11:12:01.470Z"
+  },
+  {
+    "word": "Involved",
+    "correct": false,
+    "timestamp": "2024-07-15T11:12:03.725Z"
+  },
+  {
+    "word": "Involved",
+    "correct": true,
+    "timestamp": "2024-07-15T11:12:32.327Z"
+  },
+  {
+    "word": "Attend an interview",
+    "correct": true,
+    "timestamp": "2024-07-15T11:12:44.869Z"
+  },
+  {
+    "word": "Involved",
+    "correct": false,
+    "timestamp": "2024-07-15T11:12:52.307Z"
+  },
+  {
+    "word": "Involved",
+    "correct": true,
+    "timestamp": "2024-07-15T11:12:57.830Z"
+  },
+  {
+    "word": "Assure",
+    "correct": false,
+    "timestamp": "2024-07-15T11:13:07.164Z"
+  },
+  {
+    "word": "Assure",
+    "correct": true,
+    "timestamp": "2024-07-15T11:13:09.107Z"
+  },
+  {
+    "word": "Recipient's name",
+    "correct": true,
+    "timestamp": "2024-07-15T11:13:13.535Z"
+  },
+  {
+    "word": "Recipient's name",
+    "correct": false,
+    "timestamp": "2024-07-15T11:14:06.719Z"
+  },
+  {
+    "word": "Recipient's name",
+    "correct": true,
+    "timestamp": "2024-07-15T11:14:07.776Z"
+  },
+  {
+    "word": "Appeared",
+    "correct": true,
+    "timestamp": "2024-07-15T11:14:16.753Z"
+  },
+  {
+    "word": "Indent",
+    "correct": false,
+    "timestamp": "2024-07-15T11:14:46.283Z"
+  },
+  {
+    "word": "Indent",
+    "correct": false,
+    "timestamp": "2024-07-15T11:14:47.331Z"
+  },
+  {
+    "word": "Indent",
+    "correct": false,
+    "timestamp": "2024-07-15T11:14:48.767Z"
+  },
+  {
+    "word": "Indent",
+    "correct": false,
+    "timestamp": "2024-07-15T11:14:50.673Z"
+  },
+  {
+    "word": "Indent",
+    "correct": true,
+    "timestamp": "2024-07-15T11:14:52.407Z"
+  },
+  {
+    "word": "Attend an interview",
+    "correct": true,
+    "timestamp": "2024-07-15T11:15:28.425Z"
+  },
+  {
+    "word": "Further",
+    "correct": true,
+    "timestamp": "2024-07-15T11:15:33.616Z"
+  },
+  {
+    "word": "Assure",
+    "correct": false,
+    "timestamp": "2024-07-15T11:15:41.651Z"
+  },
+  {
+    "word": "Assure",
+    "correct": false,
+    "timestamp": "2024-07-15T11:15:44.063Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T11:17:10.791Z"
+  },
+  {
+    "word": "zaanga\u017cowany",
+    "correct": true,
+    "timestamp": "2024-07-15T11:17:11.788Z"
+  },
+  {
+    "word": "zapewni\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T11:17:15.633Z"
+  },
+  {
+    "word": "dalsze",
+    "correct": false,
+    "timestamp": "2024-07-15T11:17:16.633Z"
+  },
+  {
+    "word": "dogodne",
+    "correct": true,
+    "timestamp": "2024-07-15T11:17:17.273Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": false,
+    "timestamp": "2024-07-15T11:17:22.099Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T11:17:22.577Z"
+  },
+  {
+    "word": "odpowiedni",
+    "correct": false,
+    "timestamp": "2024-07-15T11:17:23.181Z"
+  },
+  {
+    "word": "zapytanie",
+    "correct": true,
+    "timestamp": "2024-07-15T11:17:23.503Z"
+  },
+  {
+    "word": "nazwa odbiorcy",
+    "correct": false,
+    "timestamp": "2024-07-15T11:18:14.447Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": false,
+    "timestamp": "2024-07-15T11:18:14.748Z"
+  },
+  {
+    "word": "wci\u0119cie",
+    "correct": false,
+    "timestamp": "2024-07-15T11:18:14.921Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T11:18:15.322Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T11:18:15.405Z"
+  },
+  {
+    "word": "Assure",
+    "correct": false,
+    "timestamp": "2024-07-15T13:14:24.851Z"
+  },
+  {
+    "word": "Assure",
+    "correct": false,
+    "timestamp": "2024-07-15T13:14:29.337Z"
   }
 ]

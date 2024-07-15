@@ -192,7 +192,7 @@ def load_audio_paths():
     words = request.json['words']
     audio_paths = []
     for word in words:
-        filename = word.replace(' ', '-')
+        filename = word.lower().replace(' ', '-')
         audio_path = os.path.join(AUDIO_FOLDER, f'{filename}.mp3')
         if os.path.exists(audio_path):
             logging.info(f'File already exists: {audio_path}')

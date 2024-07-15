@@ -56,12 +56,14 @@ function generateRandomWord() {
   currentWord = randomWord.word;
   document.getElementById('result').textContent = '';
   document.getElementById('example-sentence-text').textContent = `${randomWord.example}`;
+  
+  const audioIcon = `<button onclick="playTextToSpeech('${randomWord.word}')"><i class="icon-sound"></i></button>`;
 
   if (reverseDirection) {
-    document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.translation}</span>`;
+    document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.translation}</span> ${audioIcon}`;
     generateAnswerButtons(randomWord, 'translation');
   } else {
-    document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.word}</span>`;
+    document.getElementById('word').innerHTML = `<span class="word-to-translate">${randomWord.word}</span> ${audioIcon}`;
     generateAnswerButtons(randomWord, 'word');
   }
 }
@@ -99,11 +101,15 @@ function checkTranslation(userTranslation, correctTranslation) {
   if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
     console.log('Correct translation.');
     resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
-    playTextToSpeech(userTranslation);
+    if (ttsCheckbox.checked) {
+      playTextToSpeech(userTranslation);
+    }
   } else {
     console.log('Incorrect translation.');
     resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
-    playTextToSpeech(userTranslation);
+    if (ttsCheckbox.checked) {
+      playTextToSpeech(userTranslation);
+    }
   }
   sendStatistic({
         word: reverseDirection ? correctTranslation : userTranslation,

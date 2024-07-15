@@ -15,14 +15,8 @@ Oto poprawna struktura pliku json:
 
 {% block content %}
 <h1 class="text-center mb-4">Sentences Learning (issue) - zobacz opis w pliku html</h1>
-<div class="form-group">
-  <label for="fileInput">Select JSON File:</label>
-  <input type="file" class="form-control-file" id="fileInput" accept=".json">
-</div>
-<button class="btn btn-primary" onclick="fetchData()">Load Data</button>
-<button class="btn btn-secondary" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
-<button class="btn btn-info" onclick="toggleDirection()">Toggle Direction</button>
-<button class="btn btn-danger" onclick="removeCurrentSentence()">Remove Sentence</button>
+
+{% include 'controls/buttons.html' %}
 
 <div id="quiz" style="display: none;">
   <div class="card mt-3">

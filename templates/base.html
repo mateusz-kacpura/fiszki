@@ -8,6 +8,11 @@
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/animation.css') }}"><!--[if IE 7]><link rel="stylesheet" href="css/" + font.fontname + "-ie7.css"><![endif]-->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-embedded.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-ie7-codes.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-ie7.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello.css') }}">
   {% if additionalCSS %}
     <link rel="stylesheet" href="{{ additionalCSS }}">
   {% endif %}
@@ -30,8 +35,6 @@
     text-align: center; /* Wyśrodkowanie tekstu w poziomie */
     font-size: 17px;
     display: flex; /* Ustawienie flexbox */
-    justify-content: center; /* Wyśrodkowanie w poziomie */
-    align-items: center; /* Wyśrodkowanie w pionie */
 }
 
 /* Blue background for Home button */
@@ -133,6 +136,17 @@
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
   {% if additionalJS %}
     <script src="{{ additionalJS }}"></script>
+    <script>
+        function toggleCodes(on) {
+          var obj = document.getElementById('icons');
+        
+          if (on) {
+            obj.className += ' codesOn';
+          } else {
+            obj.className = obj.className.replace(' codesOn', '');
+          }
+        }
+    </script>
   {% endif %}
   {% block scripts %}
   {% endblock %}
