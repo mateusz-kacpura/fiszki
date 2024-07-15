@@ -69,7 +69,7 @@ function generateRandomWord() {
   const randomWord = words[randomIndex];
   
   // Swap word and translation based on the reverse direction flag
-  const audioIcon = `<button onclick="playTextToSpeech('${randomWord.word}')"><i class="icon-sound"></i></button>`;
+  const audioIcon = `<button id="audioButton" onclick="playTextToSpeech('${randomWord.word}')"><i class="icon-sound"></i></button>`;
   const displayWord = reverseDirection ? randomWord.translation : randomWord.word;
   const displayTranslation = reverseDirection ? randomWord.word : randomWord.translation;
 
@@ -114,31 +114,53 @@ function checkTranslation() {
     }
   }
   
-
-function handleKeyDown(event) {
-  if (event.key === 'Enter') {
-    if (recognition) {
-      recognition.stop();
+  function simulateAudioButtonClick() {
+    const audioButton = document.getElementById('audioButton');
+    if (audioButton) {
+      audioButton.click();
     }
-    if (document.getElementById('translation').value.trim() === '') {
-      handleEnterKey();
+  }
+
+  function handleKeyDown(event) {
+    switch(event.key) {
+      case 'Enter':
+        if (recognition) {
+          recognition.stop();
+        }
+        if (document.getElementById('translation').value.trim() === '') {
+          handleEnterKey();
+        } else {
+          checkTranslation();
+        }
+        break;
+      case ' ':
+        event.preventDefault(); // Prevent default space key behavior (scrolling)
+        checkTranslation();
+        break;
+      case 'ArrowRight':
+        generateRandomWord();
+        break;
+      case 'ArrowDown':
+        startRecording();
+        break;
+      case 'Control': 
+        simulateAudioButtonClick();
+      break;
+  }
+}
+
+  
+  function handleEnterKey() {
+    if (document.getElementById('result').textContent === '') {
+      const currentWord = document.getElementById('word').textContent;
+      const correctTranslation = words.find(word => word.word === currentWord).translation;
+      const resultElement = document.getElementById('result');
+      resultElement.innerHTML = `Correct translation: <span class="word-to-translate">${correctTranslation}</span>`;
+      resultElement.style.color = 'green';
     } else {
-      checkTranslation();
+      generateRandomWord();
     }
   }
-}
-
-function handleEnterKey() {
-  if (document.getElementById('result').textContent === '') {
-    const currentWord = document.getElementById('word').textContent;
-    const correctTranslation = words.find(word => word.word === currentWord).translation;
-    const resultElement = document.getElementById('result');
-    resultElement.innerHTML = `Correct translation: <span class="word-to-translate">${correctTranslation}</span>`;
-    resultElement.style.color = 'green';
-  } else {
-    generateRandomWord();
-  }
-}
 
 function removeCurrentWord() {
   if (currentWord) {
@@ -152,3 +174,5 @@ function toggleDirection() {
   reverseDirection = !reverseDirection;
   generateRandomWord();
 }
+
+document.addEventListener('keydown', handleKeyDown);
