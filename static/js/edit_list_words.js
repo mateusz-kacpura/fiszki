@@ -36,6 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <th>Translation</th>
                 <th>Definition</th>
                 <th>Example</th>
+                <th>Example Translation</th>
                 <th>Image Link</th>
                 <th>Audio Link</th>
             </tr>
@@ -51,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <td><input type="text" value="${wordData.translation || ''}" class="form-control translation"></td>
                     <td><input type="text" value="${wordData.definition || ''}" class="form-control definition"></td>
                     <td><input type="text" value="${wordData.example || ''}" class="form-control example"></td>
+                    <td><input type="text" value="${wordData.example_translation || ''}" class="form-control example_translation"></td>
                     <td><input type="url" value="${wordData.imageLink || ''}" class="form-control imageLink"></td>
                     <td><input type="url" value="${wordData.audioLink || ''}" class="form-control audioLink"></td>
                 </tr>
@@ -70,6 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td><input type="text" class="form-control translation"></td>
                 <td><input type="text" class="form-control definition"></td>
                 <td><input type="text" class="form-control example"></td>
+                <td><input type="text" class="form-control example_translation"></td>
                 <td><input type="url" class="form-control imageLink"></td>
                 <td><input type="url" class="form-control audioLink"></td>
             </tr>
@@ -154,6 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 translation: tableRow.querySelector('.translation').value,
                 definition: tableRow.querySelector('.definition').value,
                 example: tableRow.querySelector('.example').value,
+                example_translation: tableRow.querySelector('.example_translation').value,
                 imageLink: tableRow.querySelector('.imageLink').value,
                 audioLink: tableRow.querySelector('.audioLink').value,
             };
