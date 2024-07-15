@@ -85,3 +85,22 @@
 2024-06-06T14:18:38.428Z - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/holds_some_surprisingly.mp3
 2024-06-06T14:18:39.414Z - Downloaded audio: https://www.ang.pl/sound/dict/prejudiced.mp3 to C:\Users\engli\fiszki\audio_files\prejudiced.mp3
 2024-06-06T14:18:39.463Z - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/deep_critical_of.mp3
+2024-07-15 21:19:14,830 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/directly_below.mp3
+2024-07-15 21:19:15,334 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/recipient's_name.mp3
+2024-07-15 21:19:15,334 - audio_logger - INFO - File already exists: audio_files\indent.mp3
+2024-07-15 21:19:15,334 - audio_logger - INFO - File already exists: audio_files\capital.mp3
+2024-07-15 21:19:15,334 - audio_logger - INFO - File already exists: audio_files\enquiry.mp3
+2024-07-15 21:19:15,335 - audio_logger - INFO - File already exists: audio_files\further.mp3
+2024-07-15 21:19:15,913 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/attend_an_interview.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\convenient.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\inconvenience.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\offence.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\appropriate.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\assure.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\gladly.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\involved.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\concern.mp3
+2024-07-15 21:19:15,918 - audio_logger - INFO - File already exists: audio_files\insist.mp3
+2024-07-15 21:19:15,919 - audio_logger - INFO - File already exists: audio_files\urge.mp3
+2024-07-15 21:19:15,919 - audio_logger - INFO - File already exists: audio_files\appeared.mp3
+2024-07-15 21:19:16,317 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/look_forward_to_hearing_from_you.mp3

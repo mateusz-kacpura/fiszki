@@ -85,3 +85,60 @@
 2024-06-06T14:18:43.547Z - Failed to download image from: https://www.ang.pl/img/slownik/points-raised.jpg
 2024-06-06T14:18:44.394Z - Failed to download image from: https://www.ang.pl/img/slownik/underlying-principles.jpg
 2024-06-06T14:18:45.398Z - Failed to download image from: https://www.ang.pl/img/slownik/we-tend-to-be-biased-in-favour.jpg
+2024-07-15 21:11:31,556 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/directly-below.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/directly-below.jpg
+2024-07-15 21:18:50,806 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Directly-below.jpg: HTTPSConnectionPool(host='www.ang.pl', port=443): Max retries exceeded with url: /img/slownik/Directly-below.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000155924BEB40>, 'Connection to www.ang.pl timed out. (connect timeout=10)'))
+2024-07-15 21:18:50,807 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Directly-below.jpg
+2024-07-15 21:18:51,044 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Recipient's-name.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Recipient's-name.jpg
+2024-07-15 21:18:51,045 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Recipient's-name.jpg
+2024-07-15 21:18:51,215 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Indent.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Indent.jpg
+2024-07-15 21:18:51,215 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Indent.jpg
+2024-07-15 21:18:51,215 - image_logger - INFO - File already exists: image_files\Capital.jpg
+2024-07-15 21:18:51,215 - image_logger - INFO - File already exists: image_files\Enquiry.jpg
+2024-07-15 21:18:51,215 - image_logger - INFO - File already exists: image_files\Further.jpg
+2024-07-15 21:18:51,484 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Attend-an-interview.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Attend-an-interview.jpg
+2024-07-15 21:18:51,485 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Attend-an-interview.jpg
+2024-07-15 21:18:51,485 - image_logger - INFO - File already exists: image_files\Convenient.jpg
+2024-07-15 21:18:51,679 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Inconvenience.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Inconvenience.jpg
+2024-07-15 21:18:51,680 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Inconvenience.jpg
+2024-07-15 21:18:51,680 - image_logger - INFO - File already exists: image_files\Offence.jpg
+2024-07-15 21:18:51,680 - image_logger - INFO - File already exists: image_files\Appropriate.jpg
+2024-07-15 21:18:51,680 - image_logger - INFO - File already exists: image_files\Assure.jpg
+2024-07-15 21:18:52,300 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Gladly.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Gladly.jpg
+2024-07-15 21:18:52,300 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Gladly.jpg
+2024-07-15 21:18:52,301 - image_logger - INFO - File already exists: image_files\Involved.jpg
+2024-07-15 21:18:52,301 - image_logger - INFO - File already exists: image_files\Concern.jpg
+2024-07-15 21:18:52,301 - image_logger - INFO - File already exists: image_files\Insist.jpg
+2024-07-15 21:18:52,550 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Urge.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Urge.jpg
+2024-07-15 21:18:52,550 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Urge.jpg
+2024-07-15 21:18:52,733 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Appeared.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Appeared.jpg
+2024-07-15 21:18:52,735 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Appeared.jpg
+2024-07-15 21:18:52,994 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/Look-forward-to-hearing-from-you.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/Look-forward-to-hearing-from-you.jpg
+2024-07-15 21:18:52,995 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/Look-forward-to-hearing-from-you.jpg
+2024-07-15 21:21:37,920 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/directly-below.jpg: HTTPSConnectionPool(host='www.ang.pl', port=443): Max retries exceeded with url: /img/slownik/directly-below.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B0BAC8C830>, 'Connection to www.ang.pl timed out. (connect timeout=10)'))
+2024-07-15 21:21:37,920 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/directly-below.jpg
+2024-07-15 21:21:47,937 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/recipient's-name.jpg: HTTPSConnectionPool(host='www.ang.pl', port=443): Max retries exceeded with url: /img/slownik/recipient's-name.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B0BAD18380>, 'Connection to www.ang.pl timed out. (connect timeout=10)'))
+2024-07-15 21:21:47,938 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/recipient's-name.jpg
+2024-07-15 21:21:49,308 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/indent.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/indent.jpg
+2024-07-15 21:21:49,308 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/indent.jpg
+2024-07-15 21:21:49,308 - image_logger - INFO - File already exists: image_files\capital.jpg
+2024-07-15 21:21:49,308 - image_logger - INFO - File already exists: image_files\enquiry.jpg
+2024-07-15 21:21:49,308 - image_logger - INFO - File already exists: image_files\further.jpg
+2024-07-15 21:21:49,640 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/attend-an-interview.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/attend-an-interview.jpg
+2024-07-15 21:21:49,640 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/attend-an-interview.jpg
+2024-07-15 21:21:49,641 - image_logger - INFO - File already exists: image_files\convenient.jpg
+2024-07-15 21:21:49,881 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/inconvenience.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/inconvenience.jpg
+2024-07-15 21:21:49,881 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/inconvenience.jpg
+2024-07-15 21:21:49,881 - image_logger - INFO - File already exists: image_files\offence.jpg
+2024-07-15 21:21:49,881 - image_logger - INFO - File already exists: image_files\appropriate.jpg
+2024-07-15 21:21:49,881 - image_logger - INFO - File already exists: image_files\assure.jpg
+2024-07-15 21:21:50,125 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/gladly.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/gladly.jpg
+2024-07-15 21:21:50,125 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/gladly.jpg
+2024-07-15 21:21:50,125 - image_logger - INFO - File already exists: image_files\involved.jpg
+2024-07-15 21:21:50,126 - image_logger - INFO - File already exists: image_files\concern.jpg
+2024-07-15 21:21:50,126 - image_logger - INFO - File already exists: image_files\insist.jpg
+2024-07-15 21:21:50,393 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/urge.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/urge.jpg
+2024-07-15 21:21:50,393 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/urge.jpg
+2024-07-15 21:21:50,636 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/appeared.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/appeared.jpg
+2024-07-15 21:21:50,636 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/appeared.jpg
+2024-07-15 21:21:50,927 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/look-forward-to-hearing-from-you.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/look-forward-to-hearing-from-you.jpg
+2024-07-15 21:21:50,928 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/look-forward-to-hearing-from-you.jpg
