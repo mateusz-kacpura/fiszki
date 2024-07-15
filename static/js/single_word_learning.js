@@ -102,14 +102,20 @@ function checkTranslation() {
     if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
       console.log('Correct translation.');
       resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
-      if (ttsCheckbox.checked) {    
+      if (ttsCheckbox.checked && !audioCheckbox.checked) {    
         playTextToSpeech(correctTranslation);
+      }
+      if (audioCheckbox.checked && ttsCheckbox.checked) {    
+        playTextToSpeech(currentWord);
       }
     } else {
       console.log('Incorrect translation.');
       resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
-      if (ttsCheckbox.checked) {    
+      if (ttsCheckbox.checked && !audioCheckbox.checked) {    
         playTextToSpeech(correctTranslation);
+      }
+      if (audioCheckbox.checked && ttsCheckbox.checked) {    
+        playTextToSpeech(currentWord);
       }
     }
   }
