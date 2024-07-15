@@ -6113,5 +6113,50 @@
     "sentence": "Attend interview an",
     "correct": false,
     "timestamp": "2024-07-15T13:31:15.363Z"
+  },
+  {
+    "word": "zapewni\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T15:28:17.915Z"
+  },
+  {
+    "word": "odpowiedni",
+    "correct": true,
+    "timestamp": "2024-07-15T15:28:19.862Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T15:28:36.075Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T15:30:22.832Z"
+  },
+  {
+    "word": "dalsze",
+    "correct": true,
+    "timestamp": "2024-07-15T15:30:28.160Z"
+  },
+  {
+    "word": "czeka\u0107 na wiadomo\u015b\u0107 od Ciebie",
+    "correct": false,
+    "timestamp": "2024-07-15T15:30:28.322Z"
+  },
+  {
+    "word": "nazwa odbiorcy",
+    "correct": false,
+    "timestamp": "2024-07-15T15:30:28.420Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": false,
+    "timestamp": "2024-07-15T15:30:29.562Z"
+  },
+  {
+    "word": "zaanga\u017cowany",
+    "correct": false,
+    "timestamp": "2024-07-15T15:30:29.744Z"
   }
 ]

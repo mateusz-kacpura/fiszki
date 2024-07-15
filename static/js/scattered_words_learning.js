@@ -88,14 +88,20 @@ let sentences = [];
         if (isCorrect) {
             console.log('Correct sentence.');
             resultElement.innerHTML = `<strong><span class="user-translation" style="color: green">${constructedSentence}</span></strong> - Congratulations! Correct sentence.`;
-              if (ttsCheckbox.checked) {
+              if (ttsCheckbox.checked && !audioCheckbox.checked) {    
                 playTextToSpeech(constructedSentence);
+              }
+              if (audioCheckbox.checked && ttsCheckbox.checked) {    
+                playTextToSpeech(currentSentence);
               }
         } else {
             console.log('Incorrect sentence.');
             resultElement.innerHTML = `<strong><span class="user-translation" style="color: red">${constructedSentence}</span></strong> - Incorrect. The correct sentence is: <strong><span class="sentence-to-translate">${currentSentence}</span></strong>`;
-              if (ttsCheckbox.checked) {
-                playTextToSpeech(currentSentence); 
+              if (ttsCheckbox.checked && !audioCheckbox.checked) {    
+                playTextToSpeech(constructedSentence);
+              }
+              if (audioCheckbox.checked && ttsCheckbox.checked) {    
+                playTextToSpeech(currentSentence);
               }
         }
       sendStatistic({
