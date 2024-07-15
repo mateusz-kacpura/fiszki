@@ -42,9 +42,32 @@ for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
     if not os.path.exists(folder):
         os.makedirs(folder)
 
-# Logging
-logging.basicConfig(filename='app.log', level=logging.INFO)
-logging.basicConfig(filename=os.path.join(LOG_FOLDER, 'path_image.log'), level=logging.INFO)
+# Utwórzenie loggerów do logowania ogólnego
+app_logger = logging.getLogger('app_logger')
+app_logger.setLevel(logging.INFO)
+app_handler = logging.FileHandler('app.log')
+app_handler.setLevel(logging.INFO)
+app_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+app_handler.setFormatter(app_formatter)
+app_logger.addHandler(app_handler)
+
+# Utwórzenie logger do logowania ścieżek audio
+audio_logger = logging.getLogger('audio_logger')
+audio_logger.setLevel(logging.INFO)
+audio_handler = logging.FileHandler(os.path.join(LOG_FOLDER, 'path_audio.log'))
+audio_handler.setLevel(logging.INFO)
+audio_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+audio_handler.setFormatter(audio_formatter)
+audio_logger.addHandler(audio_handler)
+
+# Utwórzenie loggerów do logowania obrazów
+image_logger = logging.getLogger('image_logger')
+image_logger.setLevel(logging.INFO)
+image_handler = logging.FileHandler(os.path.join(LOG_FOLDER, 'path_image.log'))
+image_handler.setLevel(logging.INFO)
+image_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+image_handler.setFormatter(image_formatter)
+image_logger.addHandler(image_handler)
 
 # Routes for frontend templates 
 # <!--                          -->
@@ -196,7 +219,7 @@ def load_audio_paths():
         filename = word.lower().replace(' ', '-')
         audio_path = os.path.join(AUDIO_FOLDER, f'{filename}.mp3').lower()
         if os.path.exists(audio_path):
-            logging.info(f'File already exists: {audio_path}')
+            log_to_file(audio_logger, f'File already exists: {audio_path}')
             audio_paths.append(audio_path)
         else:
             url = f'https://www.ang.pl/sound/dict/{filename}.mp3'
@@ -205,7 +228,7 @@ def load_audio_paths():
                 with open(audio_path, 'wb') as f:
                     for chunk in response.iter_content(1024):
                         f.write(chunk)
-                logging.info(f'Downloaded audio: {url} to {audio_path}')
+                log_to_file(audio_logger, f'Downloaded audio: {url} to {audio_path}')
                 audio_paths.append(audio_path)
             else:
                 filename = filename.replace('-', '_')
@@ -215,58 +238,63 @@ def load_audio_paths():
                     with open(audio_path, 'wb') as f:
                         for chunk in response.iter_content(1024):
                             f.write(chunk)
-                    logging.info(f'Downloaded audio: {url} to {audio_path}')
+                    log_to_file(audio_logger, f'Downloaded audio: {url} to {audio_path}')
                     audio_paths.append(audio_path)
                 else:
-                    logging.info(f'Failed to download audio from: {url}')
-    print(f'Loaded audio paths: {audio_paths}')  # Print detailed information
+                    log_to_file(audio_logger, f'Failed to download audio from: {url}')
+                    audio_paths.append(None)
+    log_to_file(app_logger, f'Loaded audio paths: {audio_paths}') 
     return jsonify(audio_paths)
 
-def log_to_file(message):
-    logging.info(message)
+def log_to_file(logger, message):
+    logger.info(message)
 
-def check_and_download_file(url, image_path):
+def check_and_download_file(url, file_path, logger):
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()  # Raise HTTPError for bad responses (4xx and 5xx)
-        with open(image_path, 'wb') as file:
+        with open(file_path, 'wb') as file:
             file.write(response.content)
-        return image_path
+        return file_path
     except requests.exceptions.RequestException as e:
-        log_to_file(f'Error downloading {url}: {e}')
+        log_to_file(logger, f'Error downloading {url}: {e}')
         return None
 
 @app.route('/load-image-paths', methods=['POST'])
 def load_image_paths():
-    data = request.get_json()
-    words = data.get('words', [])
+    try:
+        data = request.get_json()
+        words = data.get('words', [])
 
-    image_paths = []
-    for word in words:
-        if not word:
-            image_paths.append(None)
-            continue
+        image_paths = []
+        for word in words:
+            if not word:
+                image_paths.append(None)
+                continue
 
-        filename = word.lower().replace(' ', '-')
-        image_path = os.path.join(IMAGE_FOLDER, f"{filename}.jpg")
+            filename = word.lower().replace(' ', '-')
+            image_path = os.path.join(IMAGE_FOLDER, f"{filename}.jpg")
 
-        if os.path.exists(image_path):
-            log_to_file(f'File already exists: {image_path}')
-            image_paths.append(image_path)
-            continue
+            if os.path.exists(image_path):
+                log_to_file(image_logger, f'File already exists: {image_path}')
+                image_paths.append(image_path)
+                continue
 
-        url = f"https://www.ang.pl/img/slownik/{filename}.jpg"
-        print(url)
-        image_file = check_and_download_file(url, image_path)
+            url = f"https://www.ang.pl/img/slownik/{filename}.jpg"
+            image_file = check_and_download_file(url, image_path, image_logger)
 
-        if image_file:
-            log_to_file(f'Downloaded image: {url} to {image_path}')
-            image_paths.append(image_file)
-        else:
-            log_to_file(f'Failed to download image from: {url}')
-            image_paths.append(None)
+            if image_file:
+                log_to_file(image_logger, f'Downloaded image: {url} to {image_path}')
+                image_paths.append(image_file)
+            else:
+                log_to_file(image_logger, f'Failed to download image from: {url}')
+                image_paths.append(None)
 
-    return jsonify(image_paths)
+        return jsonify(image_paths)
+
+    except Exception as e:
+        log_to_file(app_logger, f'Error in load_image_paths: {e}')
+        return jsonify({"error": "Internal Server Error"}), 500
 
 @app.route('/save', methods=['POST'])
 def save_json():
