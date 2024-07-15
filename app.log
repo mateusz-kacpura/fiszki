@@ -1581,3 +1581,22 @@ INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "GET /edit_list_words HTTP/1.
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:00:27] "[36mGET /static/js/edit_list_words.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-730-291
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:11] "GET /multi_learning HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:11] "[36mGET /static/js/multi_learning.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:11] "[36mGET /api/setting/excludedWords.json HTTP/1.1[0m" 304 -
+INFO:root:Received statistic: {'word': 'samo motywuj¹cy siê', 'correct': True, 'timestamp': '2024-07-14T16:55:23.031Z'}
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:23] "POST /save_statistic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jul/2024 18:55:24] "[35m[1mPOST /text-to-speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\engli\\fiszki\\fiszki\\app.py', reloading
+INFO:werkzeug: * Restarting with stat

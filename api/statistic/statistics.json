@@ -5343,5 +5343,10 @@
     "sentence": "",
     "correct": false,
     "timestamp": "2024-07-14T15:40:47.068Z"
+  },
+  {
+    "word": "samo motywuj\u0105cy si\u0119",
+    "correct": true,
+    "timestamp": "2024-07-14T16:55:23.031Z"
   }
 ]
