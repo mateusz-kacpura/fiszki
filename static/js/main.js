@@ -87,3 +87,4 @@ function toggleTheme() {
       console.error('Error saving settings:', error);
     });
   }
+

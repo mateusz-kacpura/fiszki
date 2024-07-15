@@ -6423,5 +6423,360 @@
     "sentence": "",
     "correct": false,
     "timestamp": "2024-07-15T15:43:28.352Z"
+  },
+  {
+    "word": "pojawi\u0107 si\u0119",
+    "correct": true,
+    "timestamp": "2024-07-15T16:19:29.412Z"
+  },
+  {
+    "word": "pojawi\u0107 si\u0119",
+    "correct": true,
+    "timestamp": "2024-07-15T16:21:43.740Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:21:44.200Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": false,
+    "timestamp": "2024-07-15T16:21:44.346Z"
+  },
+  {
+    "word": "pojawi\u0107 si\u0119",
+    "correct": true,
+    "timestamp": "2024-07-15T16:21:45.010Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:21:45.198Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": false,
+    "timestamp": "2024-07-15T16:21:45.252Z"
+  },
+  {
+    "word": "wci\u0119cie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:21:45.925Z"
+  },
+  {
+    "word": "przest\u0119pstwo",
+    "correct": false,
+    "timestamp": "2024-07-15T16:21:46.057Z"
+  },
+  {
+    "word": "czeka\u0107 na wiadomo\u015b\u0107 od Ciebie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:23:21.303Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T16:23:22.401Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": false,
+    "timestamp": "2024-07-15T16:23:22.734Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:25:01.589Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:25:56.417Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:25:57.214Z"
+  },
+  {
+    "word": "zapewni\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:25:57.446Z"
+  },
+  {
+    "word": "dalsze",
+    "correct": false,
+    "timestamp": "2024-07-15T16:25:58.044Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": true,
+    "timestamp": "2024-07-15T16:25:58.564Z"
+  },
+  {
+    "word": "dogodne",
+    "correct": false,
+    "timestamp": "2024-07-15T16:26:55.613Z"
+  },
+  {
+    "word": "wci\u0119cie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:26:56.105Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:26:56.564Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:26:57.802Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:26:58.464Z"
+  },
+  {
+    "word": "pojawi\u0107 si\u0119",
+    "correct": true,
+    "timestamp": "2024-07-15T16:26:58.912Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T16:27:13.899Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-07-15T16:27:19.448Z"
+  },
+  {
+    "word": "dogodne",
+    "correct": true,
+    "timestamp": "2024-07-15T16:31:44.921Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": true,
+    "timestamp": "2024-07-15T16:32:34.633Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": true,
+    "timestamp": "2024-07-15T16:32:49.265Z"
+  },
+  {
+    "word": "bezpo\u015brednio poni\u017cej",
+    "correct": true,
+    "timestamp": "2024-07-15T16:32:58.838Z"
+  },
+  {
+    "word": "zapytanie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:41:24.289Z"
+  },
+  {
+    "word": "dogodne",
+    "correct": true,
+    "timestamp": "2024-07-15T16:41:59.680Z"
+  },
+  {
+    "word": "dalsze",
+    "correct": true,
+    "timestamp": "2024-07-15T16:42:17.015Z"
+  },
+  {
+    "word": "czeka\u0107 na wiadomo\u015b\u0107 od Ciebie",
+    "correct": true,
+    "timestamp": "2024-07-15T16:45:51.790Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:49:46.437Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": true,
+    "timestamp": "2024-07-15T16:49:47.905Z"
+  },
+  {
+    "word": "czeka\u0107 na wiadomo\u015b\u0107 od Ciebie",
+    "correct": false,
+    "timestamp": "2024-07-15T16:55:50.255Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:57:59.778Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:58:12.650Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T16:58:54.385Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": false,
+    "timestamp": "2024-07-15T17:05:38.038Z"
+  },
+  {
+    "word": "dogodne",
+    "correct": true,
+    "timestamp": "2024-07-15T17:08:29.567Z"
+  },
+  {
+    "word": "czeka\u0107 na wiadomo\u015b\u0107 od Ciebie",
+    "correct": true,
+    "timestamp": "2024-07-15T17:08:39.907Z"
+  },
+  {
+    "word": "czeka\u0107 na wiadomo\u015b\u0107 od Ciebie",
+    "correct": true,
+    "timestamp": "2024-07-15T17:09:59.876Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": false,
+    "timestamp": "2024-07-15T17:10:05.943Z"
+  },
+  {
+    "word": "zapewni\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T17:10:06.844Z"
+  },
+  {
+    "word": "nazwa odbiorcy",
+    "correct": true,
+    "timestamp": "2024-07-15T17:10:07.586Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:13.221Z"
+  },
+  {
+    "word": "przest\u0119pstwo",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:14.718Z"
+  },
+  {
+    "word": "uczestniczy\u0107 w rozmowie kwalifikacyjnej",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:15.764Z"
+  },
+  {
+    "word": "zapytanie",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:16.998Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": true,
+    "timestamp": "2024-07-15T17:11:18.946Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:35.950Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:42.064Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:45.713Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:53.276Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:11:59.532Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:05.986Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:17.670Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:23.668Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:26.504Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:31.500Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:37.212Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:50.701Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:12:56.735Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T17:14:01.607Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T18:10:15.961Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T18:10:27.751Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T18:10:29.393Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T18:10:32.900Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T18:10:36.087Z"
   }
 ]

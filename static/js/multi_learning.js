@@ -22,6 +22,7 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
+
 function fetchData() {
   const fileInput = document.getElementById('fileInput');
   const file = fileInput.files[0];
@@ -104,8 +105,9 @@ function checkTranslation(userTranslation, correctTranslation) {
     if (ttsCheckbox.checked && !audioCheckbox.checked) {    
       playTextToSpeech(userTranslation);
     }
-    if (audioCheckbox.checked && ttsCheckbox.checked) {    
-      playTextToSpeech(correctTranslation);
+    if (audioCheckbox.checked && ttsCheckbox.checked) { 
+      const wordToTranslate = document.querySelector('.word-to-translate').textContent;   
+      playTextToSpeech(wordToTranslate);
     }
   } else {
     console.log('Incorrect translation.');
@@ -113,8 +115,9 @@ function checkTranslation(userTranslation, correctTranslation) {
     if (ttsCheckbox.checked && !audioCheckbox.checked) {    
       playTextToSpeech(userTranslation);
     }
-    if (audioCheckbox.checked && ttsCheckbox.checked) {    
-      playTextToSpeech(correctTranslation);
+    if (audioCheckbox.checked && ttsCheckbox.checked) {
+      const wordToTranslate = document.querySelector('.word-to-translate').textContent;  
+      playTextToSpeech(wordToTranslate);
     }
   }
   sendStatistic({
@@ -156,3 +159,4 @@ function removeCurrentWord() {
     generateRandomWord();
   }
 }
+

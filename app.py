@@ -44,6 +44,7 @@ for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
 
 # Logging
 logging.basicConfig(filename='app.log', level=logging.INFO)
+logging.basicConfig(filename=os.path.join(LOG_FOLDER, 'path_image.log'), level=logging.INFO)
 
 # Routes for frontend templates 
 # <!--                          -->
@@ -193,7 +194,7 @@ def load_audio_paths():
     audio_paths = []
     for word in words:
         filename = word.lower().replace(' ', '-')
-        audio_path = os.path.join(AUDIO_FOLDER, f'{filename}.mp3')
+        audio_path = os.path.join(AUDIO_FOLDER, f'{filename}.mp3').lower()
         if os.path.exists(audio_path):
             logging.info(f'File already exists: {audio_path}')
             audio_paths.append(audio_path)
@@ -220,6 +221,52 @@ def load_audio_paths():
                     logging.info(f'Failed to download audio from: {url}')
     print(f'Loaded audio paths: {audio_paths}')  # Print detailed information
     return jsonify(audio_paths)
+
+def log_to_file(message):
+    logging.info(message)
+
+def check_and_download_file(url, image_path):
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()  # Raise HTTPError for bad responses (4xx and 5xx)
+        with open(image_path, 'wb') as file:
+            file.write(response.content)
+        return image_path
+    except requests.exceptions.RequestException as e:
+        log_to_file(f'Error downloading {url}: {e}')
+        return None
+
+@app.route('/load-image-paths', methods=['POST'])
+def load_image_paths():
+    data = request.get_json()
+    words = data.get('words', [])
+
+    image_paths = []
+    for word in words:
+        if not word:
+            image_paths.append(None)
+            continue
+
+        filename = word.lower().replace(' ', '-')
+        image_path = os.path.join(IMAGE_FOLDER, f"{filename}.jpg")
+
+        if os.path.exists(image_path):
+            log_to_file(f'File already exists: {image_path}')
+            image_paths.append(image_path)
+            continue
+
+        url = f"https://www.ang.pl/img/slownik/{filename}.jpg"
+        print(url)
+        image_file = check_and_download_file(url, image_path)
+
+        if image_file:
+            log_to_file(f'Downloaded image: {url} to {image_path}')
+            image_paths.append(image_file)
+        else:
+            log_to_file(f'Failed to download image from: {url}')
+            image_paths.append(None)
+
+    return jsonify(image_paths)
 
 @app.route('/save', methods=['POST'])
 def save_json():
@@ -248,7 +295,7 @@ def save_statistic():
             existing_data.append(statistic)
             f.seek(0)
             json.dump(existing_data, f, indent=2)
-    print(f'Saved statistic: {statistic}')  # Print detailed information
+    print(f'Saved statistic: {statistic}') 
     return jsonify({'message': 'Statistic saved successfully'})
 
 @app.route('/saveSetting', methods=['POST'])
@@ -256,7 +303,7 @@ def save_setting():
     data = request.json['excludedWords']
     with open(SETTING_FILE, 'w') as f:
         json.dump(data, f, indent=2)
-    print(f'Saved setting: {data}')  # Print detailed information
+    print(f'Saved setting: {data}')  
     return jsonify({'message': 'Settings update requested'})
 
 @app.route('/words', methods=['GET'])
