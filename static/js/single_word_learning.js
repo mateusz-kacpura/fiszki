@@ -71,7 +71,7 @@ function generateRandomWord() {
   const audioIcon = `<button id="audioButton" onclick="playTextToSpeech('${randomWord.word}')"><i class="icon-sound"></i></button>`;
   const displayWord = reverseDirection ? randomWord.translation : randomWord.word;
   const displayTranslation = reverseDirection ? randomWord.word : randomWord.translation;
-  playAudio(displayWord, displayTranslation)
+  // playAudio(displayWord, displayTranslation) // text to speech is requiring for cpu
   document.getElementById('word').innerHTML = `<span class="word-to-translate">${displayWord}</span> ${audioIcon}`;
   document.getElementById('translation').value = '';
   document.getElementById('result').textContent = '';
