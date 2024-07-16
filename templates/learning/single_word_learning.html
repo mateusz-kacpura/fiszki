@@ -4,7 +4,6 @@
 
 {% block learn %}
 <h1 class="text-center mb-4">Single Word Learning</h1>
-{% include 'learning/controls/buttons.html' %}
 <div id="quiz" style="display: none;">
   <div class="card mt-3">
     <div class="card-body text-center">
@@ -29,6 +28,8 @@
 <div id="example-sentence">
   <p id="example-sentence-text" style="color: red;"></p><span id="example-sentence-text-content"></span></p>
 </div>
+{% include 'learning/controls/buttons.html' %}
+
 {% endblock %}
 
 {% block scripts %}
