@@ -108,6 +108,10 @@ def add_new_word():
 def single_word_learning():
     return render_template('single_word_learning.html', title="Language Quiz")
 
+@app.route('/image_words_learning')
+def image_words_learning():
+    return render_template('image_words_learning.html', title="Image learning")
+
 @app.route('/read_from_file')
 def read_from_file():
     return render_template('read_from_file.html', title="Wczytaj Dane z Pliku Excel")
@@ -123,6 +127,10 @@ def get_excluded_words():
 @app.route('/api/statistic/statistics.json')
 def get_statistics():
     return send_from_directory('api/statistic', 'statistics.json')
+
+@app.route('/image_files/<path:filename>')
+def custom_static(filename):
+    return send_from_directory('image_files', filename)
 
 # <--                          !-->
 
@@ -180,6 +188,7 @@ def send_audio(path):
 def text_to_speech():
     print("Received request to convert text to speech")
     text = request.json.get('text', '')
+    text = text.replace('/', ' ') 
     print(f"Received text: {text}")
     if not text:
         print("Error: No text provided")
