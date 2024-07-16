@@ -200,6 +200,13 @@
             </div>
         `;
 
+        if (ttsCheckbox.checked && !audioCheckbox.checked) {    
+            playTextToSpeech(selectedWord);
+        }
+        if (audioCheckbox.checked && ttsCheckbox.checked) { 
+            playTextToSpeech(correctWord);
+        }
+
         // Append the modal HTML to the body
         document.body.insertAdjacentHTML('beforeend', modalHTML);
 
@@ -217,11 +224,6 @@
                 generateRandomWord();
             });
         }, 3000);
-    }
-
-    function playTextToSpeech(text) {
-      const utterance = new SpeechSynthesisUtterance(text);
-      speechSynthesis.speak(utterance);
     }
 
     function toggleDirection() {
