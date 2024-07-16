@@ -101,7 +101,7 @@
         document.getElementById('result').innerText = '';
         const sentenceWithBlank = randomWord.example.replace(new RegExp(randomWord.word, 'i'), '______');
         document.getElementById('example-sentence-text').innerText = sentenceWithBlank;
-        document.getElementById('new-sentence-btn').style.display = 'none';
+        // document.getElementById('new-sentence-btn').style.display = 'none';
 
         generateAnswerButtons(randomWord);
     }
@@ -122,12 +122,12 @@
             const button = document.createElement('button');
             button.classList.add('btn', 'btn-primary', 'm-1');
             button.textContent = option;
-            button.onclick = () => checkAnswer(option, word.word);
+            button.onclick = () => checkAnswer(option, word.word, word.example_translation);
             answerButtonsDiv.appendChild(button);
         });
     }
 
-    function checkAnswer(selected, correct) {
+    function checkAnswer(selected, correct, exampleTranslation) {
         const answerButtons = document.getElementById('answer-buttons');
         answerButtons.innerHTML = '';
 
@@ -142,6 +142,7 @@
         const modalTitle = selected === correct ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
         const modalMessage = selected === correct ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
         const correctWordMessage = `<strong style="display: block; text-align: center;">${correct}</strong>`;
+        const sentenceTranslation = `<p style="text-align: center;">${exampleTranslation}</p>`;
 
         // Generate the modal HTML
         const modalHTML = `
@@ -157,6 +158,7 @@
                         <div class="modal-body">
                             <p>${modalMessage}</p>
                             <p>${correctWordMessage}</p>
+                            ${sentenceTranslation}
                         </div>
                     </div>
                 </div>
@@ -168,6 +170,7 @@
 
         // Show the modal
         $('#resultModal').modal('show');
+        document.getElementById('new-sentence-btn').style.display = 'block';
 
         // Hide the modal after 3 seconds and remove it from the DOM
         setTimeout(() => {
@@ -177,7 +180,6 @@
                 if (modal) {
                     modal.remove();
                 }
-                document.getElementById('new-sentence-btn').style.display = 'block';
             });
         }, 3000);
 
