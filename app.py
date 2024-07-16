@@ -84,45 +84,53 @@ upload_logger.addHandler(upload_handler)
 def index():
     return render_template('index.html')
 
-@app.route('/sentences_learining')
+@app.route('/learn')
+def learn():
+    return render_template('learn.html')
+
+@app.route('/manage')
+def manage():
+    return render_template('manage.html')
+
+@app.route('/learning/sentences_learining')
 def sentences_learning():
-    return render_template('sentences_learining.html')
+    return render_template('learning/sentences_learining.html')
 
-@app.route('/multi_learning')
+@app.route('/learning/multi_learning')
 def multilearning():
-    return render_template('multi_learning.html')
+    return render_template('learning/multi_learning.html')
 
-@app.route('/scattered_words_learning')
+@app.route('/learning/scattered_words_learning')
 def scattered_words_learning():
-    return render_template('scattered_words_learning.html')
+    return render_template('learning/scattered_words_learning.html')
 
-@app.route('/add_lists_words')
+@app.route('/manage/add_lists_words')
 def add_lists_word():
-    return render_template('add_lists_words.html', title="Masowe Dodawanie Słów")
+    return render_template('manage/add_lists_words.html', title="Masowe Dodawanie Słów")
 
-@app.route('/add_new_word')
+@app.route('/manage/add_new_word')
 def add_new_word():
-    return render_template('add_new_word.html', title="Dodaj Nowe Słowo")
+    return render_template('manage/add_new_word.html', title="Dodaj Nowe Słowo")
 
-@app.route('/single_word_learning')
+@app.route('/learning/single_word_learning')
 def single_word_learning():
-    return render_template('single_word_learning.html', title="Language Quiz")
+    return render_template('learning//single_word_learning.html', title="Language Quiz")
 
-@app.route('/image_words_learning')
+@app.route('/learning/image_words_learning')
 def image_words_learning():
-    return render_template('image_words_learning.html', title="Image learning")
+    return render_template('learning/image_words_learning.html', title="Image learning")
 
-@app.route('/read_from_file')
+@app.route('/manage/read_from_file')
 def read_from_file():
-    return render_template('read_from_file.html', title="Wczytaj Dane z Pliku Excel")
+    return render_template('manage/read_from_file.html', title="Wczytaj Dane z Pliku Excel")
 
-@app.route('/edit_list_words')
+@app.route('/manage/edit_list_words')
 def edit_list_words():
-    return render_template('edit_list_words.html', title="Edit JSON Data")
+    return render_template('manage/edit_list_words.html', title="Edit JSON Data")
 
-@app.route('/api/setting/excludedWords.json')
-def get_excluded_words():
-    return send_from_directory('api/setting', 'excludedWords.json')
+@app.route('/api/setting/<path:filename>')
+def get_excluded_words(filename):
+    return send_from_directory('api/setting', filename)
 
 @app.route('/api/statistic/statistics.json')
 def get_statistics():

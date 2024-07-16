@@ -8,7 +8,7 @@
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
-  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/animation.css') }}"><!--[if IE 7]><link rel="stylesheet" href="css/" + font.fontname + "-ie7.css"><![endif]-->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/animation.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-embedded.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-ie7-codes.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-ie7.css') }}">
@@ -17,15 +17,29 @@
     <link rel="stylesheet" href="{{ additionalCSS }}">
   {% endif %}
 </head>
-<style>
-.bg-transparent {
-    background-color: transparent !important;
-}
-.navbar-light .navbar-nav .nav-link {
-    color: rgba(0, 0, 0, 0.9); /* Adjust color for better visibility */
-}
 
-.navbar-brand {
+<!-- JavaScript for submenu toggle -->
+<script>
+    function showSubmenu(submenuId) {
+      hideSubmenus();
+      document.getElementById(submenuId).classList.add('active');
+    }
+  
+    function hideSubmenus() {
+      const submenus = document.querySelectorAll('.submenu');
+      submenus.forEach(submenu => submenu.classList.remove('active'));
+    }
+  </script>  
+
+<style>
+  .bg-transparent {
+    background-color: transparent !important;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.9); /* Adjust color for better visibility */
+  }
+  
+  .navbar-brand {
     color: rgb(255, 255, 255) !important;
     background-color: #007bff84 !important;
     border: 2px solid #ffffff7c !important;
@@ -35,109 +49,98 @@
     text-align: center; /* Wyśrodkowanie tekstu w poziomie */
     font-size: 17px;
     display: flex; /* Ustawienie flexbox */
-}
+    align-items: center; /* Wyśrodkowanie tekstu w pionie */
+    justify-content: center; /* Wyśrodkowanie elementu */
+  }
+  
+  .navbar-nav {
+    margin: 0 auto; /* Wyśrodkowanie menu */
+  }
 
-/* Blue background for Home button */
-.navbar-nav .nav-link.home-btn {
+  /* Background colors for buttons */
+  .navbar-nav .nav-link.home-btn {
     background-color: #007bff !important; /* Blue */
     color: white !important;
     border: 2px solid #007bff !important;
     border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
-}
-
-/* Yellow background for learning buttons */
-.navbar-nav .nav-link.learning-btn {
+  }
+  
+  .navbar-nav .nav-link.learning-btn, .submenu .nav-link.learning-btn {
     background-color: #ffc107 !important; /* Yellow */
     color: black !important;
     border: 2px solid #ffc107 !important;
     border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
-}
-
-/* Green background for manage buttons */
-.navbar-nav .nav-link.manage-btn {
+  }
+  
+  .navbar-nav .nav-link.manage-btn, .submenu .nav-link.manage-btn {
     background-color: #28a745 !important; /* Green */
     color: white !important;
     border: 2px solid #28a745 !important;
     border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
-}
-
-/* Blue-sea background for Edit button */
-.navbar-nav .nav-link.edit-btn {
+  }
+  
+  .navbar-nav .nav-link.edit-btn {
     background-color: #17a2b8 !important; /* Blue-sea */
     color: white !important;
     border: 2px solid #17a2b8 !important;
     border-radius: .25rem !important; /* Zaokrąglone rogi */
     margin: 5px;
-}
-
-</style>
+  }
+  
+  .submenu {
+    display: none;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .submenu.active {
+    display: flex;
+  }
+</style>      
+    
 <body>
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-    <a class="navbar-brand" href="{{ url_for('index') }}">Language Quiz</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
       <ul class="navbar-nav">
         <!-- Home button (blue background) -->
         <li class="nav-item">
-          <a class="nav-link home-btn" href="{{ url_for('index') }}">Home</a>
+          <a class="nav-link home-btn" href="{{ url_for('index') }}" onclick="hideSubmenus()">Home</a>
         </li>
-        <!-- Sentences Learning button (yellow background) -->
+        
+        <!-- Learn button (yellow background) -->
         <li class="nav-item">
-          <a class="nav-link learning-btn" href="{{ url_for('sentences_learning') }}">Sentences Learning</a>
+          <a class="nav-link learning-btn" href="{{ url_for('learn') }}" onclick="showSubmenu('learnSubmenuu')">Learn</a>
         </li>
-        <!-- Multi Learning button (yellow background) -->
+        
+        <!-- Manage button (green background) -->
         <li class="nav-item">
-          <a class="nav-link learning-btn" href="{{ url_for('multilearning') }}">Multi Learning</a>
+          <a class="nav-link manage-btn" href="{{ url_for('manage') }}" onclick="showSubmenu('manageSubmenuu')">Manage</a>
         </li>
-        <!-- Single Word Learning button (yellow background) -->
+        
+        <!-- Edit button (blue-sea background) -->
         <li class="nav-item">
-          <a class="nav-link learning-btn" href="{{ url_for('single_word_learning') }}">Single Word Learning</a>
-        </li>
-        <!-- Scattered Words Learning button (yellow background) -->
-        <li class="nav-item">
-          <a class="nav-link learning-btn" href="{{ url_for('scattered_words_learning') }}">Scattered Words Learning</a>
-        </li>
-        <!-- Image Words Learning button (yellow background) -->
-        <li class="nav-item">
-          <a class="nav-link learning-btn" href="{{ url_for('image_words_learning') }}">Image Learning</a>
-        </li>
-        <!-- Add Lists of Words button (green background) -->
-        <li class="nav-item">
-          <a class="nav-link manage-btn" href="{{ url_for('add_lists_word') }}">Add Lists of Words</a>
-        </li>
-        <!-- Add New Word button (green background) -->
-        <li class="nav-item">
-          <a class="nav-link manage-btn" href="{{ url_for('add_new_word') }}">Add New Word</a>
-        </li>
-        <!-- Read from File button (green background) -->
-        <li class="nav-item">
-          <a class="nav-link manage-btn" href="{{ url_for('read_from_file') }}">Read from File</a>
-        </li>
-        <!-- Edit List of Words button (blue-sea background) -->
-        <li class="nav-item">
-          <a class="nav-link edit-btn" href="{{ url_for('edit_list_words') }}">Edit List of Words</a>
+          <a class="nav-link edit-btn" href="{{ url_for('edit_list_words') }}" onclick="hideSubmenus()">Edit List of Words</a>
         </li>
       </ul>
     </div>
   </nav>
 
-  <div class="container mt-5" id="main-container">
     {% block content %}
     {% endblock %}
-  </div>
 
   <!-- Bootstrap JS and jQuery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
   {% if additionalJS %}
@@ -158,6 +161,3 @@
   {% endblock %}
 </body>
 </html>
-
-
-
