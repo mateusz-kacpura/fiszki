@@ -10,6 +10,9 @@ from openpyxl import load_workbook
 from transformers import AutoProcessor, AutoModel
 from scipy.io.wavfile import write
 from pydub import AudioSegment
+import nltk
+from nltk.corpus import wordnet
+from nltk.stem import WordNetLemmatizer
 import whisper
 import pyaudio
 import numpy as np
@@ -77,6 +80,43 @@ upload_handler.setLevel(logging.INFO)
 upload_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 upload_handler.setFormatter(upload_formatter)
 upload_logger.addHandler(upload_handler)
+
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
+
+lemmatizer = WordNetLemmatizer()
+
+def get_wordnet_pos(treebank_tag):
+    """Converts treebank tags to wordnet tags."""
+    if treebank_tag.startswith('J'):
+        return wordnet.ADJ
+    elif treebank_tag.startswith('V'):
+        return wordnet.VERB
+    elif treebank_tag.startswith('N'):
+        return wordnet.NOUN
+    elif treebank_tag.startswith('R'):
+        return wordnet.ADV
+    else:
+        return wordnet.NOUN
+
+def lemmatize_word(word):
+    """Lemmatizes the given word using its part of speech tag."""
+    pos_tag = nltk.pos_tag([word])[0][1]
+    wordnet_pos = get_wordnet_pos(pos_tag)
+    return lemmatizer.lemmatize(word, wordnet_pos)
+
+@app.route('/process-words', methods=['POST'])
+def process_words():
+    try:
+        data = json.loads(request.data)
+        words = data.get('words', [])
+        
+        lemmatized_words = [{**word, 'lemma': lemmatize_word(word['word'])} for word in words]
+        
+        return jsonify({'words': lemmatized_words})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 # Routes for frontend templates 
 # <!--                          -->

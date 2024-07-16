@@ -11,6 +11,9 @@
     .icon-sound {
         font-size: 1.2em;
     }
+    #example-sentence-text {
+        text-align: center;
+    }
 </style>
 
 <div class="container mt-5">
@@ -22,6 +25,9 @@
             <p id="example-sentence-text"></p>
         </div>
         <div id="result" class="mt-3"></div>
+        <div id="new-sentence-btn-container" class="d-flex justify-content-center mt-4">
+            <button id="new-sentence-btn" class="btn btn-primary" style="display: none;" onclick="generateRandomWord()">Losuj nowe zdanie</button>
+        </div>        
     </div>
 </div>
 
@@ -50,10 +56,31 @@
         reader.onload = function(event) {
             const fileContent = event.target.result;
             try {
-                words = JSON.parse(fileContent);
-                console.log('Data loaded successfully:', words);
-                document.getElementById('quiz').style.display = 'block';
-                generateRandomWord();
+                let rawWords = JSON.parse(fileContent);
+                console.log('Data loaded successfully:', rawWords);
+
+                // Send words to Flask backend for processing
+                fetch('/process-words', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ words: rawWords })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        console.error('Error processing words:', data.error);
+                        return;
+                    }
+                    words = data.words;
+                    document.getElementById('quiz').style.display = 'block';
+                    generateRandomWord();
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+
             } catch (error) {
                 console.error('Error parsing JSON:', error);
             }
@@ -62,16 +89,19 @@
     }
 
     function generateRandomWord() {
-        const availableWords = words.filter(word => !excludedWords.includes(word.word));
+        const availableWords = words.filter(word => !excludedWords.includes(word.lemma));
         if (availableWords.length === 0) {
             document.getElementById('result').innerText = 'No more words to study.';
             return;
         }
         const randomIndex = Math.floor(Math.random() * availableWords.length);
         const randomWord = availableWords[randomIndex];
-        currentWord = randomWord.word;
+        currentWord = randomWord.lemma;
+
         document.getElementById('result').innerText = '';
-        document.getElementById('example-sentence-text').innerText = randomWord.example.replace(randomWord.word, '______');
+        const sentenceWithBlank = randomWord.example.replace(new RegExp(randomWord.word, 'i'), '______');
+        document.getElementById('example-sentence-text').innerText = sentenceWithBlank;
+        document.getElementById('new-sentence-btn').style.display = 'none';
 
         generateAnswerButtons(randomWord);
     }
@@ -81,7 +111,7 @@
         answerButtonsDiv.innerHTML = '';
 
         // Get all words except the current word and shuffle them
-        let options = words.filter(w => w.word !== word.word).map(w => w.word);
+        let options = words.filter(w => w.lemma !== word.lemma).map(w => w.word);
 
         // Select the first 4 options and add the correct word to the options
         options = options.sort(() => Math.random() - 0.5).slice(0, 4);
@@ -98,18 +128,62 @@
     }
 
     function checkAnswer(selected, correct) {
-        const resultDiv = document.getElementById('result');
-        if (selected === correct) {
-            resultDiv.innerText = 'Correct!';
-            resultDiv.classList.remove('text-danger');
-            resultDiv.classList.add('text-success');
-            excludedWords.push(correct);
-        } else {
-            resultDiv.innerText = 'Incorrect. Try again.';
-            resultDiv.classList.remove('text-success');
-            resultDiv.classList.add('text-danger');
+        const answerButtons = document.getElementById('answer-buttons');
+        answerButtons.innerHTML = '';
+
+        // Remove any existing modals
+        const existingModal = document.getElementById('resultModal');
+        if (existingModal) {
+            existingModal.remove();
         }
-        setTimeout(generateRandomWord, 2000);
+
+        // Determine the modal header class and message based on the answer correctness
+        const modalHeaderClass = selected === correct ? 'bg-success text-white' : 'bg-danger text-white';
+        const modalTitle = selected === correct ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
+        const modalMessage = selected === correct ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
+        const correctWordMessage = `<strong style="display: block; text-align: center;">${correct}</strong>`;
+
+        // Generate the modal HTML
+        const modalHTML = `
+            <div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header ${modalHeaderClass}">
+                            <h5 class="modal-title" id="resultModalLabel">${modalTitle}</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <p>${modalMessage}</p>
+                            <p>${correctWordMessage}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        // Append the modal HTML to the body
+        document.body.insertAdjacentHTML('beforeend', modalHTML);
+
+        // Show the modal
+        $('#resultModal').modal('show');
+
+        // Hide the modal after 3 seconds and remove it from the DOM
+        setTimeout(() => {
+            $('#resultModal').modal('hide');
+            $('#resultModal').on('hidden.bs.modal', () => {
+                const modal = document.getElementById('resultModal');
+                if (modal) {
+                    modal.remove();
+                }
+                document.getElementById('new-sentence-btn').style.display = 'block';
+            });
+        }, 3000);
+
+        if (selected === correct) {
+            excludedWords.push(currentWord);
+        }
     }
 
     function playTextToSpeech(word) {
