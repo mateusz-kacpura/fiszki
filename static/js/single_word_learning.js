@@ -67,17 +67,25 @@ function fetchData() {
 function generateRandomWord() {
   const randomIndex = Math.floor(Math.random() * words.length);
   const randomWord = words[randomIndex];
-  
   // Swap word and translation based on the reverse direction flag
   const audioIcon = `<button id="audioButton" onclick="playTextToSpeech('${randomWord.word}')"><i class="icon-sound"></i></button>`;
   const displayWord = reverseDirection ? randomWord.translation : randomWord.word;
   const displayTranslation = reverseDirection ? randomWord.word : randomWord.translation;
-
+  playAudio(displayWord, displayTranslation)
   document.getElementById('word').innerHTML = `<span class="word-to-translate">${displayWord}</span> ${audioIcon}`;
   document.getElementById('translation').value = '';
   document.getElementById('result').textContent = '';
   document.getElementById('example-sentence-text').textContent = `${randomWord.example}`;
 }
+
+function playAudio(currentWord, correctTranslation) {
+    if (ttsCheckbox.checked && !audioCheckbox.checked) {
+      playTextToSpeech(correctTranslation);
+    }
+    if (audioCheckbox.checked && ttsCheckbox.checked) {
+      playTextToSpeech(currentWord);
+    }
+  }
 
 function checkTranslation() {
     const userTranslation = document.getElementById('translation').value.trim();
@@ -101,22 +109,12 @@ function checkTranslation() {
     const resultElement = document.getElementById('result');
     if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
       console.log('Correct translation.');
-      resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
-      if (ttsCheckbox.checked && !audioCheckbox.checked) {    
-        playTextToSpeech(correctTranslation);
-      }
-      if (audioCheckbox.checked && ttsCheckbox.checked) {    
-        playTextToSpeech(currentWord);
-      }
+      resultElement.innerHTML = `<span class="user-translation" style="color: green;">${userTranslation}</span> - Congratulations! Correct answer.`;
+      playAudio(currentWord, correctTranslation)
     } else {
       console.log('Incorrect translation.');
-      resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
-      if (ttsCheckbox.checked && !audioCheckbox.checked) {    
-        playTextToSpeech(correctTranslation);
-      }
-      if (audioCheckbox.checked && ttsCheckbox.checked) {    
-        playTextToSpeech(currentWord);
-      }
+      resultElement.innerHTML = `<span class="user-translation" style="color: red;">${userTranslation}</span> - Incorrect. The correct translation is: </br><span class="word-to-translate" style="color: green;">${correctTranslation}</span>`;
+      playAudio(currentWord, correctTranslation)
     }
   }
   

@@ -163,18 +163,30 @@ document.addEventListener('DOMContentLoaded', () => {
             };
             updatedData.push(wordData);
         });
-
+    
         const fileName = fileNameInput.value || 'data.json';
         const jsonString = JSON.stringify(updatedData, null, 2);
-        const blob = new Blob([jsonString], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = fileName;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-    });
+    
+        fetch('/uploads-save-json', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ fileName, data: jsonString })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                alert('Plik został zapisany pomyślnie.');
+            } else {
+                alert('Wystąpił błąd podczas zapisywania pliku.');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Wystąpił błąd podczas zapisywania pliku.');
+        });
+    });    
 
     translateRowsButton.addEventListener('click', () => {
         console.log('Button clicked!');

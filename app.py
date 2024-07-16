@@ -69,6 +69,15 @@ image_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(
 image_handler.setFormatter(image_formatter)
 image_logger.addHandler(image_handler)
 
+# Konfiguracja loggera do logowania plików
+upload_logger = logging.getLogger('upload_logger')
+upload_logger.setLevel(logging.INFO)
+upload_handler = logging.FileHandler(os.path.join(LOG_FOLDER, 'path_uploads.log'))
+upload_handler.setLevel(logging.INFO)
+upload_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+upload_handler.setFormatter(upload_formatter)
+upload_logger.addHandler(upload_handler)
+
 # Routes for frontend templates 
 # <!--                          -->
 @app.route('/')
@@ -295,6 +304,25 @@ def load_image_paths():
     except Exception as e:
         log_to_file(app_logger, f'Error in load_image_paths: {e}')
         return jsonify({"error": "Internal Server Error"}), 500
+
+# Endpoint do zapisywania JSON
+@app.route('/uploads-save-json', methods=['POST'])
+def uploads_save_json():
+    data = request.get_json()
+    file_name = data.get('fileName', 'data.json')
+    json_data = data.get('data')
+
+    try:
+        file_path = os.path.join(UPLOAD_FOLDER, f"{file_name}.json")
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(json_data)
+        # Logowanie zapisu pliku
+        upload_logger.info(f"Plik zapisany: {file_path}")
+        return jsonify(success=True)
+    except Exception as e:
+        # Logowanie błędu
+        upload_logger.error(f"Błąd podczas zapisywania pliku: {e}")
+        return jsonify(success=False)
 
 @app.route('/save', methods=['POST'])
 def save_json():

@@ -6778,5 +6778,60 @@
     "sentence": "",
     "correct": false,
     "timestamp": "2024-07-15T18:10:36.087Z"
+  },
+  {
+    "sentence": "Jest bardzo zaanga\u017cowana w dzia\u0142alno\u015b\u0107 spo\u0142eczno\u015bciow\u0105.",
+    "correct": false,
+    "timestamp": "2024-07-15T19:47:20.288Z"
+  },
+  {
+    "sentence": "Prosz\u0119 wybra\u0107 odpowiedni\u0105 odpowied\u017a.",
+    "correct": true,
+    "timestamp": "2024-07-15T19:48:13.449Z"
+  },
+  {
+    "sentence": "Offence",
+    "correct": true,
+    "timestamp": "2024-07-15T19:48:37.990Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T19:49:27.492Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T19:51:21.983Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-15T19:51:27.524Z"
+  },
+  {
+    "sentence": "graduates from",
+    "correct": true,
+    "timestamp": "2024-07-15T19:51:33.256Z"
+  },
+  {
+    "sentence": "established",
+    "correct": true,
+    "timestamp": "2024-07-15T19:51:41.108Z"
+  },
+  {
+    "sentence": "Jest bardzo zaanga\u017cowana w dzia\u0142alno\u015b\u0107 spo\u0142eczno\u015bciow\u0105.",
+    "correct": true,
+    "timestamp": "2024-07-15T19:56:21.170Z"
+  },
+  {
+    "sentence": "Jest bardzo zaanga\u017cowana w dzia\u0142alno\u015b\u0107 spo\u0142eczno\u015bciow\u0105.",
+    "correct": true,
+    "timestamp": "2024-07-15T19:56:21.393Z"
+  },
+  {
+    "sentence": "Look forward to hearing you",
+    "correct": false,
+    "timestamp": "2024-07-16T05:09:48.286Z"
   }
 ]
