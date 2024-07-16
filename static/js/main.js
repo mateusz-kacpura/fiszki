@@ -1,36 +1,77 @@
 let theme = 'light'; // default theme
 
+let modalBodyClass = '';
+
 function toggleTheme() {
-    if (theme === 'light') {
-      theme = 'dark';
-      document.body.classList.add('bg-dark');
-      document.body.classList.add('text-light');
-      document.getElementById('main-container').classList.add('bg-dark');
-      document.getElementById('main-container').classList.add('text-light');
-      document.querySelectorAll('.card').forEach(card => {
-        card.classList.add('bg-dark');
-        card.classList.add('text-light');
-      });
-      document.querySelectorAll('input').forEach(input => {
-        input.classList.add('bg-dark');
-        input.classList.add('text-light');
-      });
-    } else {
-      theme = 'light';
-      document.body.classList.remove('bg-dark');
-      document.body.classList.remove('text-light');
-      document.getElementById('main-container').classList.remove('bg-dark');
-      document.getElementById('main-container').classList.remove('text-light');
-      document.querySelectorAll('.card').forEach(card => {
-        card.classList.remove('bg-dark');
-        card.classList.remove('text-light');
-      });
-      document.querySelectorAll('input').forEach(input => {
-        input.classList.remove('bg-dark');
-        input.classList.remove('text-light');
-      });
-    }
+  if (theme === 'light') {
+    theme = 'dark';
+    modalBodyClass = 'bg-dark';
+    document.body.classList.add('bg-dark', 'text-light');
+    document.getElementById('main-container').classList.add('bg-dark', 'text-light');
+    document.querySelectorAll('.card').forEach(card => {
+      card.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('input').forEach(input => {
+      input.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.modal-content').forEach(modal => {
+      modal.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.modal-header').forEach(header => {
+      header.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.modal-body').forEach(body => {
+      body.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.correct-word-message').forEach(message => {
+      message.classList.remove('bg-success');
+      message.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.incorrect-word-message').forEach(message => {
+      message.classList.remove('bg-danger');
+      message.classList.add('bg-dark', 'text-light');
+    });
+  } else {
+    theme = 'light';
+    modalBodyClass = '';
+    document.body.classList.remove('bg-dark', 'text-light');
+    document.getElementById('main-container').classList.remove('bg-dark', 'text-light');
+    document.querySelectorAll('.card').forEach(card => {
+      card.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('input').forEach(input => {
+      input.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.modal-content').forEach(modal => {
+      modal.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.modal-header').forEach(header => {
+      header.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.modal-body').forEach(body => {
+      body.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.correct-word-message').forEach(message => {
+      message.classList.add('bg-success');
+      message.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.incorrect-word-message').forEach(message => {
+      message.classList.add('bg-danger');
+      message.classList.remove('bg-dark', 'text-light');
+    });
   }
+}
+
+function showModal() {
+  document.body.insertAdjacentHTML('beforeend', modalHTML);
+  $('#resultModal').modal('show');
+}
+
+// Function to inject the modal HTML into the DOM
+function showModal() {
+  document.body.insertAdjacentHTML('beforeend', modalHTML);
+  $('#resultModal').modal('show');
+}
 
   function playTextToSpeech(text) {
     fetch('/text-to-speech', {

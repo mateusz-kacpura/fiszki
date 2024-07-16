@@ -189,22 +189,22 @@
 
         // Generate the modal HTML
         const modalHTML = `
-            <div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header ${modalHeaderClass}">
-                            <h5 class="modal-title" id="resultModalLabel">${modalTitle}</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                            <p>${modalMessage}</p>
-                            <p>${correctWordMessage}</p>
-                        </div>
-                    </div>
+          <div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header ${modalHeaderClass}">
+                  <h5 class="modal-title" id="resultModalLabel">${modalTitle}</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
                 </div>
+                <div class="modal-body ${theme === 'dark'? 'bg-dark text-light' : ''}">
+                  <p>${modalMessage}</p>
+                  <p>${correctWordMessage}</p>
+                </div>
+              </div>
             </div>
+          </div>
         `;
 
         if (ttsCheckbox.checked && !audioCheckbox.checked) {    
