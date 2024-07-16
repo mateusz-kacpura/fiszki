@@ -104,6 +104,10 @@ def multilearning():
 def scattered_words_learning():
     return render_template('learning/scattered_words_learning.html')
 
+@app.route('/learning/insert_word')
+def insert_word():
+    return render_template('learning/insert_word.html')
+
 @app.route('/manage/add_lists_words')
 def add_lists_word():
     return render_template('manage/add_lists_words.html', title="Masowe Dodawanie Słów")

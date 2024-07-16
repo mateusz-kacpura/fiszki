@@ -1,0 +1,121 @@
+{% extends "learn.html" %}
+
+{% block title %}Multi Learning{% endblock %}
+
+{% block learn %}
+
+<style>
+    .word-to-translate {
+        font-weight: bold;
+    }
+    .icon-sound {
+        font-size: 1.2em;
+    }
+</style>
+
+<div class="container mt-5">
+    <h1>Language Learning Game</h1>
+    <div id="quiz" style="display:none;">
+        <div class="mb-3" id="answer-buttons"></div>
+        <div class="mb-3" id="word"></div> 
+        <div class="mb-3">
+            <p id="example-sentence-text"></p>
+        </div>
+        <div id="result" class="mt-3"></div>
+    </div>
+</div>
+
+{% include 'learning/controls/buttons.html' %}
+
+{% endblock %}
+
+{% block scripts %}
+
+<script>
+    let words = [];
+    let currentWord = '';
+    let excludedWords = [];
+
+    document.getElementById('fileInput').addEventListener('change', fetchData);
+
+    function fetchData() {
+        const fileInput = document.getElementById('fileInput');
+        const file = fileInput.files[0];
+        if (!file) {
+            console.error('No file selected.');
+            return;
+        }
+
+        const reader = new FileReader();
+        reader.onload = function(event) {
+            const fileContent = event.target.result;
+            try {
+                words = JSON.parse(fileContent);
+                console.log('Data loaded successfully:', words);
+                document.getElementById('quiz').style.display = 'block';
+                generateRandomWord();
+            } catch (error) {
+                console.error('Error parsing JSON:', error);
+            }
+        };
+        reader.readAsText(file);
+    }
+
+    function generateRandomWord() {
+        const availableWords = words.filter(word => !excludedWords.includes(word.word));
+        if (availableWords.length === 0) {
+            document.getElementById('result').innerText = 'No more words to study.';
+            return;
+        }
+        const randomIndex = Math.floor(Math.random() * availableWords.length);
+        const randomWord = availableWords[randomIndex];
+        currentWord = randomWord.word;
+        document.getElementById('result').innerText = '';
+        document.getElementById('example-sentence-text').innerText = randomWord.example.replace(randomWord.word, '______');
+
+        generateAnswerButtons(randomWord);
+    }
+
+    function generateAnswerButtons(word) {
+        const answerButtonsDiv = document.getElementById('answer-buttons');
+        answerButtonsDiv.innerHTML = '';
+
+        // Get all words except the current word and shuffle them
+        let options = words.filter(w => w.word !== word.word).map(w => w.word);
+
+        // Select the first 4 options and add the correct word to the options
+        options = options.sort(() => Math.random() - 0.5).slice(0, 4);
+        options.push(word.word);
+        options = options.sort(() => Math.random() - 0.5);
+
+        options.forEach(option => {
+            const button = document.createElement('button');
+            button.classList.add('btn', 'btn-primary', 'm-1');
+            button.textContent = option;
+            button.onclick = () => checkAnswer(option, word.word);
+            answerButtonsDiv.appendChild(button);
+        });
+    }
+
+    function checkAnswer(selected, correct) {
+        const resultDiv = document.getElementById('result');
+        if (selected === correct) {
+            resultDiv.innerText = 'Correct!';
+            resultDiv.classList.remove('text-danger');
+            resultDiv.classList.add('text-success');
+            excludedWords.push(correct);
+        } else {
+            resultDiv.innerText = 'Incorrect. Try again.';
+            resultDiv.classList.remove('text-success');
+            resultDiv.classList.add('text-danger');
+        }
+        setTimeout(generateRandomWord, 2000);
+    }
+
+    function playTextToSpeech(word) {
+        const msg = new SpeechSynthesisUtterance(word);
+        window.speechSynthesis.speak(msg);
+    }
+</script>
+
+{% endblock %}
