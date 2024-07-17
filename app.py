@@ -120,6 +120,7 @@ def process_words():
 
 # Routes for frontend templates 
 # <!--                          -->
+# Routes for frontend templates
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -176,14 +177,31 @@ def edit_list_words():
 def get_excluded_words(filename):
     return send_from_directory('api/setting', filename)
 
+@app.route('/learning/api/setting/<path:filename>')
+def get_excluded_words_learning(filename):
+    return send_from_directory('api/setting', filename)
+
 @app.route('/api/statistic/statistics.json')
 def get_statistics():
     return send_from_directory('api/statistic', 'statistics.json')
 
-@app.route('/image_files/<path:filename>')
-def custom_static(filename):
+# Static file routes with /learning/ segment
+@app.route('/learning/image_files/<path:filename>')
+def custom_static_images(filename):
     return send_from_directory('image_files', filename)
 
+@app.route('/learning/audio_files/<path:filename>')
+def custom_static_audio(filename):
+    return send_from_directory('audio_files', filename)
+
+# Static file routes without /learning/ segment
+@app.route('/image_files/<path:filename>')
+def image_files(filename):
+    return send_from_directory('image_files', filename)
+
+@app.route('/audio_files/<path:filename>')
+def audio_files(filename):
+    return send_from_directory('audio_files', filename)
 # <--                          !-->
 
 @app.route('/real-time-speech-recognition', methods=['POST'])
