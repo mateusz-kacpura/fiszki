@@ -258,7 +258,7 @@ def send_audio(path):
 def text_to_speech():
     print("Received request to convert text to speech")
     text = request.json.get('text', '')
-    text = text.replace('/', ' ') 
+    text = text.lower().replace('/', ' ') 
     print(f"Received text: {text}")
     if not text:
         print("Error: No text provided")
@@ -287,6 +287,11 @@ def text_to_speech():
             audio_segment = AudioSegment.from_wav(wav_path)
             mp3_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
             audio_segment.export(mp3_path, format="mp3")
+            
+            # Remove the intermediate WAV file after exporting to MP3
+            if os.path.exists(wav_path):
+                os.remove(wav_path)
+                print(f"Removed intermediate WAV file: {wav_path}")
             
             print(f"Saving audio to file: {mp3_path}")
             

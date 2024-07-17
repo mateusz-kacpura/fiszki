@@ -494,3 +494,258 @@
 2024-07-17 09:00:56,708 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/went_up_=_grew.mp3
 2024-07-17 09:00:57,118 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/gone_up_to_twice_the_number_=_doubled.mp3
 2024-07-17 09:00:57,527 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/becoming_smaller_=_declining.mp3
+2024-07-17 09:01:50,083 - audio_logger - INFO - File already exists: audio_files\average.mp3
+2024-07-17 09:01:50,521 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/households.mp3
+2024-07-17 09:01:50,992 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/features.mp3 to audio_files\features.mp3
+2024-07-17 09:01:51,335 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/comparisons.mp3
+2024-07-17 09:01:51,591 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/obvious.mp3 to audio_files\obvious.mp3
+2024-07-17 09:01:51,806 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/towards.mp3 to audio_files\towards.mp3
+2024-07-17 09:01:52,243 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/compare_to.mp3
+2024-07-17 09:01:52,443 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/notably.mp3 to audio_files\notably.mp3
+2024-07-17 09:01:55,079 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/less.mp3 to audio_files\less.mp3
+2024-07-17 09:01:55,545 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/slightly_fewer.mp3
+2024-07-17 09:01:55,968 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/smallest.mp3
+2024-07-17 09:01:56,356 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/much_lower.mp3
+2024-07-17 09:01:56,612 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/twice.mp3 to audio_files\twice.mp3
+2024-07-17 09:01:56,790 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/more.mp3 to audio_files\more.mp3
+2024-07-17 09:01:57,181 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/greatest.mp3
+2024-07-17 09:01:57,537 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_smallest_proportion_of.mp3
+2024-07-17 09:01:57,949 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/three_quarters.mp3
+2024-07-17 09:01:58,131 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/half.mp3 to audio_files\half.mp3
+2024-07-17 09:01:58,548 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_third_of_the_number_of.mp3
+2024-07-17 09:01:58,927 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/40%_of.mp3
+2024-07-17 09:01:59,283 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/over_50%.mp3
+2024-07-17 09:01:59,692 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/five_times_the_number_of.mp3
+2024-07-17 09:02:00,115 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/were_more_than.mp3
+2024-07-17 09:02:00,512 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/almost_double.mp3
+2024-07-17 09:02:00,970 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/almost_ten_times_as_many.mp3
+2024-07-17 09:02:01,316 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/considerably_more_men_made_up.mp3
+2024-07-17 09:02:01,642 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/about_a_third_more.mp3
+2024-07-17 09:02:02,046 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/not_as_many_as.mp3
+2024-07-17 09:02:02,406 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/slightly_less_than.mp3
+2024-07-17 09:02:02,829 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/was_approximately_four_times_as_many..as...mp3
+2024-07-17 09:02:02,829 - audio_logger - INFO - File already exists: audio_files\exceed.mp3
+2024-07-17 09:02:03,174 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/to_be_distinguished_from_something_else.mp3
+2024-07-17 09:02:03,531 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/refers_to_sth.mp3
+2024-07-17 09:02:03,934 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/to_be_seen_in_contrast_with_sth.mp3
+2024-07-17 09:02:04,392 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/coined_by_analogy_with_sth.mp3
+2024-07-17 09:02:04,810 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/analogous_to_sth.mp3
+2024-07-17 09:02:05,194 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/depending_on_sth.mp3
+2024-07-17 09:02:05,569 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/relationships_between_things.mp3
+2024-07-17 09:02:05,995 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_same_applies_to_sth_else.mp3
+2024-07-17 09:02:06,161 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/between.mp3 to audio_files\between.mp3
+2024-07-17 09:02:06,490 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/among.mp3 to audio_files\among.mp3
+2024-07-17 09:02:43,236 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/standpoint.mp3 to audio_files\standpoint.mp3
+2024-07-17 09:02:43,467 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/radical.mp3 to audio_files\radical.mp3
+2024-07-17 09:02:43,870 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/reactionary.mp3 to audio_files\reactionary.mp3
+2024-07-17 09:02:44,136 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/conservative.mp3 to audio_files\conservative.mp3
+2024-07-17 09:02:44,305 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/immature.mp3 to audio_files\immature.mp3
+2024-07-17 09:02:44,480 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/objective.mp3 to audio_files\objective.mp3
+2024-07-17 09:02:44,884 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/subjectively.mp3 to audio_files\subjectively.mp3
+2024-07-17 09:02:45,071 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/impartial.mp3 to audio_files\impartial.mp3
+2024-07-17 09:02:45,452 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/biased_in_favour_of.mp3
+2024-07-17 09:02:45,781 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/prejudiced_against.mp3
+2024-07-17 09:02:45,965 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/rational.mp3 to audio_files\rational.mp3
+2024-07-17 09:02:46,144 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/ideology.mp3 to audio_files\ideology.mp3
+2024-07-17 09:02:46,331 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/philosophy.mp3 to audio_files\philosophy.mp3
+2024-07-17 09:02:46,744 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/to_hold_views.mp3
+2024-07-17 09:02:47,148 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/to_adopt/take_a_stance.mp3
+2024-07-17 09:03:33,386 - audio_logger - INFO - File already exists: audio_files\under-control.mp3
+2024-07-17 09:03:33,386 - audio_logger - INFO - File already exists: audio_files\although.mp3
+2024-07-17 09:03:33,386 - audio_logger - INFO - File already exists: audio_files\up-to-date.mp3
+2024-07-17 09:03:33,386 - audio_logger - INFO - File already exists: audio_files\change-for-the-better.mp3
+2024-07-17 09:03:33,386 - audio_logger - INFO - File already exists: audio_files\under-consideration.mp3
+2024-07-17 09:03:33,783 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/come_under_the_definition_of.mp3
+2024-07-17 09:03:34,128 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_contrast.mp3
+2024-07-17 09:03:34,523 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/below_this_level.mp3
+2024-07-17 09:03:34,930 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/at_about_85,000.mp3
+2024-07-17 09:03:35,350 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/seem_in.mp3
+2024-07-17 09:03:35,350 - audio_logger - INFO - File already exists: audio_files\out-of-control.mp3
+2024-07-17 09:03:35,711 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/as_at_that_point.mp3
+2024-07-17 09:03:35,711 - audio_logger - INFO - File already exists: audio_files\under-pressure.mp3
+2024-07-17 09:03:35,711 - audio_logger - INFO - File already exists: audio_files\in-demand.mp3
+2024-07-17 09:03:35,711 - audio_logger - INFO - File already exists: audio_files\in-practice.mp3
+2024-07-17 09:03:36,115 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_need_of.mp3
+2024-07-17 09:03:36,115 - audio_logger - INFO - File already exists: audio_files\in-general.mp3
+2024-07-17 09:03:36,480 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/under_the_rules.mp3
+2024-07-17 09:03:36,480 - audio_logger - INFO - File already exists: audio_files\in-detail.mp3
+2024-07-17 09:03:36,480 - audio_logger - INFO - File already exists: audio_files\on-average.mp3
+2024-07-17 09:03:36,480 - audio_logger - INFO - File already exists: audio_files\in-addition.mp3
+2024-07-17 09:03:36,902 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/consider_to.mp3
+2024-07-17 09:03:36,902 - audio_logger - INFO - File already exists: audio_files\on-purpose.mp3
+2024-07-17 09:03:37,323 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/under_no_obligation.mp3
+2024-07-17 09:03:37,323 - audio_logger - INFO - File already exists: audio_files\by-no-means.mp3
+2024-07-17 09:03:37,718 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_freshwater.mp3
+2024-07-17 09:03:38,133 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/on_the_north_atlantic.mp3
+2024-07-17 09:03:38,527 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_rivers.mp3
+2024-07-17 09:03:38,882 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/travelling_to.mp3
+2024-07-17 09:03:39,333 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/far_away_the_sea.mp3
+2024-07-17 09:03:39,754 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/travelling_back_to.mp3
+2024-07-17 09:03:40,152 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/sign_to_albury.mp3
+2024-07-17 09:03:40,569 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/found_at_the_end.mp3
+2024-07-17 09:03:40,983 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_village_on_the_right_opposite.mp3
+2024-07-17 09:03:41,361 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/beside_the_railway.mp3
+2024-07-17 09:03:41,785 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/passes_through_a_tunnel_beneath_the_motorway.mp3
+2024-07-17 09:03:42,129 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/go_down_the_steps_on_the_right.mp3
+2024-07-17 09:03:42,644 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/circles_round.mp3
+2024-07-17 09:03:43,048 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/come_to_the_river_bank.mp3
+2024-07-17 09:03:43,446 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/map_at_this_point.mp3
+2024-07-17 09:03:43,790 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/under_construction_in_various.mp3
+2024-07-17 09:03:44,195 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_these_towns.mp3
+2024-07-17 09:03:44,643 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/among_which_will.mp3
+2024-07-17 09:03:45,051 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/smart_meter_in_each_house.mp3
+2024-07-17 09:03:45,464 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/within_a_short_distance.mp3
+2024-07-17 09:03:45,464 - audio_logger - INFO - File already exists: audio_files\cycle-to-work.mp3
+2024-07-17 09:03:45,875 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/available_in.mp3
+2024-07-17 09:03:46,298 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/solar_power_alongside_conventional_energy.mp3
+2024-07-17 09:04:04,111 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/bell_curve.mp3 to audio_files\bell-curve.mp3
+2024-07-17 09:04:04,483 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/deviate.mp3 to audio_files\deviate.mp3
+2024-07-17 09:04:04,897 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/standard_deviation.mp3 to audio_files\standard-deviation.mp3
+2024-07-17 09:04:05,107 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/extent.mp3 to audio_files\extent.mp3
+2024-07-17 09:04:05,272 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/ensure.mp3 to audio_files\ensure.mp3
+2024-07-17 09:04:05,500 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/valid.mp3 to audio_files\valid.mp3
+2024-07-17 09:04:05,500 - audio_logger - INFO - File already exists: audio_files\reliable.mp3
+2024-07-17 09:04:05,681 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/consistent.mp3 to audio_files\consistent.mp3
+2024-07-17 09:04:06,103 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/normal_distribution.mp3 to audio_files\normal-distribution.mp3
+2024-07-17 09:04:06,456 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/set_of_data.mp3
+2024-07-17 09:04:06,637 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/mean.mp3 to audio_files\mean.mp3
+2024-07-17 09:04:07,082 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/at_random.mp3 to audio_files\at-random.mp3
+2024-07-17 09:04:07,482 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/random_variable.mp3
+2024-07-17 09:04:07,850 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/outcomes.mp3
+2024-07-17 09:04:08,301 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/probability_distribution.mp3 to audio_files\probability-distribution.mp3
+2024-07-17 09:04:08,459 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/proportion.mp3 to audio_files\proportion.mp3
+2024-07-17 09:04:08,948 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/ratio.mp3 to audio_files\ratio.mp3
+2024-07-17 09:04:09,115 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/volume.mp3 to audio_files\volume.mp3
+2024-07-17 09:04:09,121 - audio_logger - INFO - File already exists: audio_files\deviate.mp3
+2024-07-17 09:04:09,538 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/deviate_from_the_norm.mp3
+2024-07-17 09:04:09,538 - audio_logger - INFO - File already exists: audio_files\standard-deviation.mp3
+2024-07-17 09:04:09,902 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/correlations.mp3
+2024-07-17 09:04:10,082 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/sample.mp3 to audio_files\sample.mp3
+2024-07-17 09:04:10,082 - audio_logger - INFO - File already exists: audio_files\consistent.mp3
+2024-07-17 09:04:10,312 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/significantly.mp3 to audio_files\significantly.mp3
+2024-07-17 09:04:34,316 - audio_logger - INFO - File already exists: audio_files\effective.mp3
+2024-07-17 09:04:34,316 - audio_logger - INFO - File already exists: audio_files\reliable.mp3
+2024-07-17 09:04:34,317 - audio_logger - INFO - File already exists: audio_files\alternative.mp3
+2024-07-17 09:04:34,317 - audio_logger - INFO - File already exists: audio_files\common.mp3
+2024-07-17 09:04:34,317 - audio_logger - INFO - File already exists: audio_files\traditional.mp3
+2024-07-17 09:04:34,715 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_procedure.mp3
+2024-07-17 09:04:35,086 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/an_experiment.mp3
+2024-07-17 09:04:35,467 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_pilot_study.mp3
+2024-07-17 09:04:35,911 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_survey.mp3
+2024-07-17 09:04:36,279 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_method.mp3
+2024-07-17 09:04:36,773 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_methodology.mp3
+2024-07-17 09:04:37,167 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_technique.mp3
+2024-07-17 09:04:37,582 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/an_approach.mp3
+2024-07-17 09:04:37,955 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/an_instrument.mp3
+2024-07-17 09:04:38,348 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_device.mp3
+2024-07-17 09:04:38,775 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/is_assembled.mp3
+2024-07-17 09:04:39,200 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/is_checked.mp3
+2024-07-17 09:04:39,608 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/piece_of_apparatus.mp3
+2024-07-17 09:04:39,612 - audio_logger - INFO - File already exists: audio_files\exploratory-study.mp3
+2024-07-17 09:04:40,009 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/experimental_study.mp3
+2024-07-17 09:04:40,478 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/correlational_study.mp3
+2024-07-17 09:04:40,809 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/casual_study.mp3
+2024-07-17 09:04:41,211 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/naturalistic_(empirical)_observation_(field_study).mp3
+2024-07-17 09:04:41,212 - audio_logger - INFO - File already exists: audio_files\survey.mp3
+2024-07-17 09:04:41,212 - audio_logger - INFO - File already exists: audio_files\case-study.mp3
+2024-07-17 09:04:41,213 - audio_logger - INFO - File already exists: audio_files\longitudinal-study.mp3
+2024-07-17 09:04:41,213 - audio_logger - INFO - File already exists: audio_files\uncertain.mp3
+2024-07-17 09:04:41,630 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/makes_changes_to.mp3
+2024-07-17 09:04:42,027 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/not_natural.mp3
+2024-07-17 09:04:42,415 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/do_in_exactly_the_same_way.mp3
+2024-07-17 09:04:42,768 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/show_something_is_not_true.mp3
+2024-07-17 09:04:42,768 - audio_logger - INFO - File already exists: audio_files\phenomenon.mp3
+2024-07-17 09:04:42,768 - audio_logger - INFO - File already exists: audio_files\altering.mp3
+2024-07-17 09:04:43,137 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/making_it_change.mp3
+2024-07-17 09:04:43,535 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/comes_to_conclusions_on_the_basis_of.mp3
+2024-07-17 09:04:43,535 - audio_logger - INFO - File already exists: audio_files\detailed.mp3
+2024-07-17 09:04:43,535 - audio_logger - INFO - File already exists: audio_files\preliminary.mp3
+2024-07-17 09:04:43,535 - audio_logger - INFO - File already exists: audio_files\variable.mp3
+2024-07-17 09:04:43,948 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/under_controlled_conditions.mp3
+2024-07-17 09:04:43,962 - audio_logger - INFO - File already exists: audio_files\dependent-variable.mp3
+2024-07-17 09:04:43,962 - audio_logger - INFO - File already exists: audio_files\reflect.mp3
+2024-07-17 09:04:44,338 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/attempts_to_determine.mp3
+2024-07-17 09:04:44,754 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/relates_in_systematic_ways.mp3
+2024-07-17 09:04:44,754 - audio_logger - INFO - File already exists: audio_files\prove.mp3
+2024-07-17 09:04:44,755 - audio_logger - INFO - File already exists: audio_files\disprove.mp3
+2024-07-17 09:04:45,092 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_cause_and_effect_relationship.mp3
+2024-07-17 09:04:45,461 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/observes.mp3
+2024-07-17 09:04:45,461 - audio_logger - INFO - File already exists: audio_files\records.mp3
+2024-07-17 09:04:45,895 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/natural_setting.mp3
+2024-07-17 09:04:46,249 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/subjects.mp3
+2024-07-17 09:04:46,263 - audio_logger - INFO - File already exists: audio_files\time-consuming.mp3
+2024-07-17 09:04:46,604 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/disrupting.mp3
+2024-07-17 09:04:46,870 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/misunderstanding.mp3 to audio_files\misunderstanding.mp3
+2024-07-17 09:04:47,268 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/inaccuracies_in_the_data.mp3
+2024-07-17 09:04:47,684 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/outside_observer.mp3
+2024-07-17 09:04:47,685 - audio_logger - INFO - File already exists: audio_files\sample.mp3
+2024-07-17 09:04:48,145 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/over_time.mp3 to audio_files\over-time.mp3
+2024-07-17 09:04:48,305 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/representative.mp3 to audio_files\representative.mp3
+2024-07-17 09:04:48,469 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/population.mp3 to audio_files\population.mp3
+2024-07-17 09:04:48,829 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/gather_results.mp3
+2024-07-17 09:04:49,064 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/conduct.mp3 to audio_files\conduct.mp3
+2024-07-17 09:05:10,426 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/series_of_numbers.mp3
+2024-07-17 09:05:10,780 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/set_of_numbers.mp3
+2024-07-17 09:05:11,129 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/a_sequence_of_numbers.mp3
+2024-07-17 09:05:11,497 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/significant_order.mp3
+2024-07-17 09:05:11,497 - audio_logger - INFO - File already exists: audio_files\squared.mp3
+2024-07-17 09:05:11,901 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/odd_numbers.mp3
+2024-07-17 09:05:12,261 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/even_numbers.mp3
+2024-07-17 09:05:12,274 - audio_logger - INFO - File already exists: audio_files\prime-numbers.mp3
+2024-07-17 09:05:12,274 - audio_logger - INFO - File already exists: audio_files\divided-by.mp3
+2024-07-17 09:05:12,639 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/apart_from.mp3
+2024-07-17 09:05:12,642 - audio_logger - INFO - File already exists: audio_files\maximum.mp3
+2024-07-17 09:05:12,642 - audio_logger - INFO - File already exists: audio_files\minimum.mp3
+2024-07-17 09:05:13,035 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_highest.mp3
+2024-07-17 09:05:13,389 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_lowest.mp3
+2024-07-17 09:05:13,389 - audio_logger - INFO - File already exists: audio_files\approximate.mp3
+2024-07-17 09:05:13,802 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/roughly_correct.mp3
+2024-07-17 09:05:14,166 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_precise.mp3
+2024-07-17 09:05:14,166 - audio_logger - INFO - File already exists: audio_files\exact-number.mp3
+2024-07-17 09:05:14,166 - audio_logger - INFO - File already exists: audio_files\aggregate.mp3
+2024-07-17 09:05:14,565 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/reached_by_totalling_a_set_of_numbers.mp3
+2024-07-17 09:05:14,969 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_total.mp3
+2024-07-17 09:05:15,386 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_average.mp3
+2024-07-17 09:05:15,718 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/entries.mp3
+2024-07-17 09:05:16,067 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/discrete_number.mp3
+2024-07-17 09:05:16,067 - audio_logger - INFO - File already exists: audio_files\unit.mp3
+2024-07-17 09:05:16,067 - audio_logger - INFO - File already exists: audio_files\constant.mp3
+2024-07-17 09:05:16,067 - audio_logger - INFO - File already exists: audio_files\quantity.mp3
+2024-07-17 09:05:16,067 - audio_logger - INFO - File already exists: audio_files\varied.mp3
+2024-07-17 09:05:16,411 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_amount_of.mp3
+2024-07-17 09:05:16,754 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/random_number.mp3
+2024-07-17 09:05:17,139 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/the_word_figure.mp3
+2024-07-17 09:05:17,525 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/refer_to.mp3
+2024-07-17 09:05:17,883 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/calculate_a_number.mp3
+2024-07-17 09:05:18,304 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/estimate_a_number.mp3
+2024-07-17 09:05:18,657 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/round_a_number_up/down.mp3
+2024-07-17 09:05:19,010 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/total_a_set_of_numbers.mp3
+2024-07-17 09:05:19,396 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/numbers_can_tally.mp3
+2024-07-17 09:05:19,736 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/seem_to.mp3
+2024-07-17 09:05:20,093 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/deduct.mp3 to audio_files\deduct.mp3
+2024-07-17 09:05:20,303 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/values.mp3 to audio_files\values.mp3
+2024-07-17 09:05:20,690 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/variables.mp3
+2024-07-17 09:05:21,068 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/incidence_of_sth.mp3
+2024-07-17 09:05:21,254 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/frequently.mp3 to audio_files\frequently.mp3
+2024-07-17 09:05:21,619 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/occurs.mp3
+2024-07-17 09:05:22,043 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/magnitude.mp3 to audio_files\magnitude.mp3
+2024-07-17 09:05:22,460 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/order_of_magnitude.mp3 to audio_files\order-of-magnitude.mp3
+2024-07-17 09:05:22,803 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/making_calculations.mp3
+2024-07-17 09:05:23,205 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/in_the_right_area.mp3
+2024-07-17 09:05:23,605 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/advised_to.mp3
+2024-07-17 09:05:23,987 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/show_the_workings.mp3
+2024-07-17 09:05:24,330 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/arrived_at_their_answer.mp3
+2024-07-17 09:05:24,751 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/work_out_=_calculate.mp3
+2024-07-17 09:05:25,169 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/make_a_rough_guess_at_=_estimate.mp3
+2024-07-17 09:05:25,556 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/make_a_fraction,_eg._1/4_into_the_nearest_whole_number_=_round_up/down.mp3
+2024-07-17 09:05:25,888 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/add_up_=_total.mp3
+2024-07-17 09:05:26,269 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/match,_agree_=_tally.mp3
+2024-07-17 09:05:26,657 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/take_away,_subtract_=_deduct.mp3
+2024-07-17 09:05:27,070 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/rough_guess_=_estimate.mp3
+2024-07-17 09:05:27,415 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/approximately_the_same_=_in_the_right_area.mp3
+2024-07-17 09:05:27,830 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/all_the_calculations_leading_up_to_an_answer_=_workings.mp3
+2024-07-17 09:05:28,171 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/round_up_6.66.mp3
+2024-07-17 09:05:28,171 - audio_logger - INFO - File already exists: audio_files\dissertation.mp3
+2024-07-17 09:05:28,424 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/submit.mp3 to audio_files\submit.mp3
+2024-07-17 09:05:28,902 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/legibly.mp3 to audio_files\legibly.mp3
+2024-07-17 09:05:29,166 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/distinguish.mp3 to audio_files\distinguish.mp3

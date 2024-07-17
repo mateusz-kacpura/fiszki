@@ -668,3 +668,708 @@
 2024-07-16 09:06:53,673 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/by-digging-into-the-archives.jpg
 2024-07-16 09:06:53,904 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/to-shed-new-perspective.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/to-shed-new-perspective.jpg
 2024-07-16 09:06:53,905 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/to-shed-new-perspective.jpg
+2024-07-17 08:59:40,689 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-control.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-control.jpg
+2024-07-17 08:59:40,689 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-control.jpg
+2024-07-17 08:59:40,884 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/although.jpg to image_files\although.jpg
+2024-07-17 08:59:41,066 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/up-to-date.jpg to image_files\up-to-date.jpg
+2024-07-17 08:59:41,294 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/change-for-the-better.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/change-for-the-better.jpg
+2024-07-17 08:59:41,294 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/change-for-the-better.jpg
+2024-07-17 08:59:41,546 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-consideration.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-consideration.jpg
+2024-07-17 08:59:41,547 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-consideration.jpg
+2024-07-17 08:59:41,767 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/come-under-the-definition-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/come-under-the-definition-of.jpg
+2024-07-17 08:59:41,769 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/come-under-the-definition-of.jpg
+2024-07-17 08:59:41,983 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-contrast.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-contrast.jpg
+2024-07-17 08:59:41,985 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-contrast.jpg
+2024-07-17 08:59:42,194 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/below-this-level.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/below-this-level.jpg
+2024-07-17 08:59:42,194 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/below-this-level.jpg
+2024-07-17 08:59:42,366 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/at-about-85,000.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/at-about-85,000.jpg
+2024-07-17 08:59:42,366 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/at-about-85,000.jpg
+2024-07-17 08:59:42,571 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/seem-in.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/seem-in.jpg
+2024-07-17 08:59:42,571 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/seem-in.jpg
+2024-07-17 08:59:42,808 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/out-of-control.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/out-of-control.jpg
+2024-07-17 08:59:42,808 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/out-of-control.jpg
+2024-07-17 08:59:43,043 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/as-at-that-point.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/as-at-that-point.jpg
+2024-07-17 08:59:43,043 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/as-at-that-point.jpg
+2024-07-17 08:59:43,211 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-pressure.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-pressure.jpg
+2024-07-17 08:59:43,211 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-pressure.jpg
+2024-07-17 08:59:43,457 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-demand.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-demand.jpg
+2024-07-17 08:59:43,457 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-demand.jpg
+2024-07-17 08:59:43,645 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-practice.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-practice.jpg
+2024-07-17 08:59:43,647 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-practice.jpg
+2024-07-17 08:59:43,861 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-need-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-need-of.jpg
+2024-07-17 08:59:43,861 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-need-of.jpg
+2024-07-17 08:59:44,095 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-general.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-general.jpg
+2024-07-17 08:59:44,095 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-general.jpg
+2024-07-17 08:59:44,271 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-the-rules.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-the-rules.jpg
+2024-07-17 08:59:44,271 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-the-rules.jpg
+2024-07-17 08:59:44,518 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-detail.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-detail.jpg
+2024-07-17 08:59:44,519 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-detail.jpg
+2024-07-17 08:59:44,763 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/on-average.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/on-average.jpg
+2024-07-17 08:59:44,763 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/on-average.jpg
+2024-07-17 08:59:44,967 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-addition.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-addition.jpg
+2024-07-17 08:59:44,967 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-addition.jpg
+2024-07-17 08:59:45,155 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/consider-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/consider-to.jpg
+2024-07-17 08:59:45,155 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/consider-to.jpg
+2024-07-17 08:59:45,372 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/on-purpose.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/on-purpose.jpg
+2024-07-17 08:59:45,372 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/on-purpose.jpg
+2024-07-17 08:59:45,562 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-no-obligation.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-no-obligation.jpg
+2024-07-17 08:59:45,562 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-no-obligation.jpg
+2024-07-17 08:59:45,814 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/by-no-means.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/by-no-means.jpg
+2024-07-17 08:59:45,814 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/by-no-means.jpg
+2024-07-17 08:59:46,077 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-freshwater.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-freshwater.jpg
+2024-07-17 08:59:46,077 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-freshwater.jpg
+2024-07-17 08:59:46,272 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/on-the-north-atlantic.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/on-the-north-atlantic.jpg
+2024-07-17 08:59:46,272 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/on-the-north-atlantic.jpg
+2024-07-17 08:59:46,462 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-rivers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-rivers.jpg
+2024-07-17 08:59:46,462 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-rivers.jpg
+2024-07-17 08:59:46,778 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/travelling-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/travelling-to.jpg
+2024-07-17 08:59:46,778 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/travelling-to.jpg
+2024-07-17 08:59:46,993 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/far-away-the-sea.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/far-away-the-sea.jpg
+2024-07-17 08:59:46,997 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/far-away-the-sea.jpg
+2024-07-17 08:59:47,174 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/travelling-back-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/travelling-back-to.jpg
+2024-07-17 08:59:47,174 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/travelling-back-to.jpg
+2024-07-17 08:59:47,348 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/sign-to-albury.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/sign-to-albury.jpg
+2024-07-17 08:59:47,348 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/sign-to-albury.jpg
+2024-07-17 08:59:47,584 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/found-at-the-end.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/found-at-the-end.jpg
+2024-07-17 08:59:47,584 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/found-at-the-end.jpg
+2024-07-17 08:59:47,793 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-village-on-the-right-opposite.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-village-on-the-right-opposite.jpg
+2024-07-17 08:59:47,793 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-village-on-the-right-opposite.jpg
+2024-07-17 08:59:48,036 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/beside-the-railway.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/beside-the-railway.jpg
+2024-07-17 08:59:48,038 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/beside-the-railway.jpg
+2024-07-17 08:59:48,219 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/passes-through-a-tunnel-beneath-the-motorway.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/passes-through-a-tunnel-beneath-the-motorway.jpg
+2024-07-17 08:59:48,219 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/passes-through-a-tunnel-beneath-the-motorway.jpg
+2024-07-17 08:59:48,400 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/go-down-the-steps-on-the-right.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/go-down-the-steps-on-the-right.jpg
+2024-07-17 08:59:48,401 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/go-down-the-steps-on-the-right.jpg
+2024-07-17 08:59:48,615 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/circles-round.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/circles-round.jpg
+2024-07-17 08:59:48,615 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/circles-round.jpg
+2024-07-17 08:59:48,849 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/come-to-the-river-bank.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/come-to-the-river-bank.jpg
+2024-07-17 08:59:48,849 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/come-to-the-river-bank.jpg
+2024-07-17 08:59:49,035 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/map-at-this-point.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/map-at-this-point.jpg
+2024-07-17 08:59:49,035 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/map-at-this-point.jpg
+2024-07-17 08:59:49,240 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-construction-in-various.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-construction-in-various.jpg
+2024-07-17 08:59:49,240 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-construction-in-various.jpg
+2024-07-17 08:59:49,461 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-these-towns.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-these-towns.jpg
+2024-07-17 08:59:49,461 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-these-towns.jpg
+2024-07-17 08:59:49,785 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/among-which-will.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/among-which-will.jpg
+2024-07-17 08:59:49,785 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/among-which-will.jpg
+2024-07-17 08:59:50,044 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/smart-meter-in-each-house.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/smart-meter-in-each-house.jpg
+2024-07-17 08:59:50,046 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/smart-meter-in-each-house.jpg
+2024-07-17 08:59:50,220 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/within-a-short-distance.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/within-a-short-distance.jpg
+2024-07-17 08:59:50,220 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/within-a-short-distance.jpg
+2024-07-17 08:59:50,491 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/cycle-to-work.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/cycle-to-work.jpg
+2024-07-17 08:59:50,491 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/cycle-to-work.jpg
+2024-07-17 08:59:50,766 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/available-in.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/available-in.jpg
+2024-07-17 08:59:50,766 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/available-in.jpg
+2024-07-17 08:59:51,039 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/solar-power-alongside-conventional-energy.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/solar-power-alongside-conventional-energy.jpg
+2024-07-17 08:59:51,039 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/solar-power-alongside-conventional-energy.jpg
+2024-07-17 09:00:33,951 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/presenting-data.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/presenting-data.jpg
+2024-07-17 09:00:33,951 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/presenting-data.jpg
+2024-07-17 09:00:34,217 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/concicisely.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/concicisely.jpg
+2024-07-17 09:00:34,217 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/concicisely.jpg
+2024-07-17 09:00:34,392 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/figures/diagrams.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/figures/diagrams.jpg
+2024-07-17 09:00:34,392 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/figures/diagrams.jpg
+2024-07-17 09:00:34,615 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/academic-article.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/academic-article.jpg
+2024-07-17 09:00:34,615 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/academic-article.jpg
+2024-07-17 09:00:34,783 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/labelled.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/labelled.jpg
+2024-07-17 09:00:34,783 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/labelled.jpg
+2024-07-17 09:00:35,011 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/pie-chart.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/pie-chart.jpg
+2024-07-17 09:00:35,011 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/pie-chart.jpg
+2024-07-17 09:00:35,185 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/divided-up.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/divided-up.jpg
+2024-07-17 09:00:35,185 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/divided-up.jpg
+2024-07-17 09:00:35,421 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/key-(legend).jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/key-(legend).jpg
+2024-07-17 09:00:35,421 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/key-(legend).jpg
+2024-07-17 09:00:35,612 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/bar-chart.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/bar-chart.jpg
+2024-07-17 09:00:35,612 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/bar-chart.jpg
+2024-07-17 09:00:35,848 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/amounts.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/amounts.jpg
+2024-07-17 09:00:35,848 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/amounts.jpg
+2024-07-17 09:00:36,066 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/thin-vertical-or-horizontal-bars.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/thin-vertical-or-horizontal-bars.jpg
+2024-07-17 09:00:36,066 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/thin-vertical-or-horizontal-bars.jpg
+2024-07-17 09:00:36,333 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-same-width.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-same-width.jpg
+2024-07-17 09:00:36,333 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-same-width.jpg
+2024-07-17 09:00:36,570 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/vary-in-length-or-height.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/vary-in-length-or-height.jpg
+2024-07-17 09:00:36,570 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/vary-in-length-or-height.jpg
+2024-07-17 09:00:36,807 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/histogram.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/histogram.jpg
+2024-07-17 09:00:36,807 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/histogram.jpg
+2024-07-17 09:00:37,044 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-bar-width-also-varies-to-indicate-different-values.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-bar-width-also-varies-to-indicate-different-values.jpg
+2024-07-17 09:00:37,044 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-bar-width-also-varies-to-indicate-different-values.jpg
+2024-07-17 09:00:37,044 - image_logger - INFO - File already exists: image_files\table.jpg
+2024-07-17 09:00:37,250 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/grid-with-columns-and-rows-of-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/grid-with-columns-and-rows-of-numbers.jpg
+2024-07-17 09:00:37,250 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/grid-with-columns-and-rows-of-numbers.jpg
+2024-07-17 09:00:37,440 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/cross-section.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/cross-section.jpg
+2024-07-17 09:00:37,440 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/cross-section.jpg
+2024-07-17 09:00:37,718 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/crust.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/crust.jpg
+2024-07-17 09:00:37,718 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/crust.jpg
+2024-07-17 09:00:37,916 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/different-layers-that-make-it-up.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/different-layers-that-make-it-up.jpg
+2024-07-17 09:00:37,917 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/different-layers-that-make-it-up.jpg
+2024-07-17 09:00:37,917 - image_logger - INFO - File already exists: image_files\label.jpg
+2024-07-17 09:00:38,193 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/flowchart.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/flowchart.jpg
+2024-07-17 09:00:38,199 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/flowchart.jpg
+2024-07-17 09:00:38,378 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/graph-presents.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/graph-presents.jpg
+2024-07-17 09:00:38,378 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/graph-presents.jpg
+2024-07-17 09:00:38,575 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/data-relating.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/data-relating.jpg
+2024-07-17 09:00:38,575 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/data-relating.jpg
+2024-07-17 09:00:38,759 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/random-sample.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/random-sample.jpg
+2024-07-17 09:00:38,759 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/random-sample.jpg
+2024-07-17 09:00:38,759 - image_logger - INFO - File already exists: image_files\average.jpg
+2024-07-17 09:00:39,009 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/x-axis.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/x-axis.jpg
+2024-07-17 09:00:39,009 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/x-axis.jpg
+2024-07-17 09:00:39,225 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/horizontal-axis-indicates.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/horizontal-axis-indicates.jpg
+2024-07-17 09:00:39,225 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/horizontal-axis-indicates.jpg
+2024-07-17 09:00:39,461 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/y-axis.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/y-axis.jpg
+2024-07-17 09:00:39,461 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/y-axis.jpg
+2024-07-17 09:00:39,741 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/vertical-axis-shows.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/vertical-axis-shows.jpg
+2024-07-17 09:00:39,742 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/vertical-axis-shows.jpg
+2024-07-17 09:00:39,958 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/graph-shows.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/graph-shows.jpg
+2024-07-17 09:00:39,958 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/graph-shows.jpg
+2024-07-17 09:00:40,246 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/amount-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/amount-of.jpg
+2024-07-17 09:00:40,247 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/amount-of.jpg
+2024-07-17 09:00:40,471 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/from-the-graph.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/from-the-graph.jpg
+2024-07-17 09:00:40,471 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/from-the-graph.jpg
+2024-07-17 09:00:40,643 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/we-can-see.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/we-can-see.jpg
+2024-07-17 09:00:40,643 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/we-can-see.jpg
+2024-07-17 09:00:40,913 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/reaches-a-peak.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/reaches-a-peak.jpg
+2024-07-17 09:00:40,913 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/reaches-a-peak.jpg
+2024-07-17 09:00:40,913 - image_logger - INFO - File already exists: image_files\decline.jpg
+2024-07-17 09:00:41,132 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/be-explained-by-the-fact-that.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/be-explained-by-the-fact-that.jpg
+2024-07-17 09:00:41,132 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/be-explained-by-the-fact-that.jpg
+2024-07-17 09:00:41,364 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/pocket-money.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/pocket-money.jpg
+2024-07-17 09:00:41,370 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/pocket-money.jpg
+2024-07-17 09:00:41,550 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/drawn-by-plotting-points-on.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/drawn-by-plotting-points-on.jpg
+2024-07-17 09:00:41,550 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/drawn-by-plotting-points-on.jpg
+2024-07-17 09:00:41,803 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/drawing-a-line-to-join-adjacent-points.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/drawing-a-line-to-join-adjacent-points.jpg
+2024-07-17 09:00:41,803 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/drawing-a-line-to-join-adjacent-points.jpg
+2024-07-17 09:00:42,010 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-lines-can-cross-or-intersect-at-various-points.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-lines-can-cross-or-intersect-at-various-points.jpg
+2024-07-17 09:00:42,010 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-lines-can-cross-or-intersect-at-various-points.jpg
+2024-07-17 09:00:42,244 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/run-parallel-to-one-another-never-intersect.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/run-parallel-to-one-another-never-intersect.jpg
+2024-07-17 09:00:42,244 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/run-parallel-to-one-another-never-intersect.jpg
+2024-07-17 09:00:42,244 - image_logger - INFO - File already exists: image_files\increase.jpg
+2024-07-17 09:00:42,244 - image_logger - INFO - File already exists: image_files\decrease.jpg
+2024-07-17 09:00:42,244 - image_logger - INFO - File already exists: image_files\rise.jpg
+2024-07-17 09:00:42,244 - image_logger - INFO - File already exists: image_files\grow.jpg
+2024-07-17 09:00:42,415 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/growth.jpg to image_files\growth.jpg
+2024-07-17 09:00:42,628 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/fall.jpg to image_files\fall.jpg
+2024-07-17 09:00:42,819 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/drop.jpg to image_files\drop.jpg
+2024-07-17 09:00:42,819 - image_logger - INFO - File already exists: image_files\decline.jpg
+2024-07-17 09:00:43,041 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/double.jpg to image_files\double.jpg
+2024-07-17 09:00:43,221 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/soar.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/soar.jpg
+2024-07-17 09:00:43,221 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/soar.jpg
+2024-07-17 09:00:43,412 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/multiply.jpg to image_files\multiply.jpg
+2024-07-17 09:00:43,635 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/appreciate.jpg to image_files\appreciate.jpg
+2024-07-17 09:00:43,895 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/exceed.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/exceed.jpg
+2024-07-17 09:00:43,895 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/exceed.jpg
+2024-07-17 09:00:44,159 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/increased-by-10%.jpg: 400 Client Error: Bad Request for url: https://www.ang.pl/img/slownik/increased-by-10%25.jpg
+2024-07-17 09:00:44,160 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/increased-by-10%.jpg
+2024-07-17 09:00:44,359 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/increase-of-15%-in-the-number-of-cars.jpg: 400 Client Error: Bad Request for url: https://www.ang.pl/img/slownik/increase-of-15%25-in-the-number-of-cars.jpg
+2024-07-17 09:00:44,359 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/increase-of-15%-in-the-number-of-cars.jpg
+2024-07-17 09:00:44,563 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/entering.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/entering.jpg
+2024-07-17 09:00:44,563 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/entering.jpg
+2024-07-17 09:00:44,728 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/over-an-eight-year-period.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/over-an-eight-year-period.jpg
+2024-07-17 09:00:44,728 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/over-an-eight-year-period.jpg
+2024-07-17 09:00:44,996 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-totals-are-listed.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-totals-are-listed.jpg
+2024-07-17 09:00:44,997 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-totals-are-listed.jpg
+2024-07-17 09:00:45,161 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/varied-over-the-period.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/varied-over-the-period.jpg
+2024-07-17 09:00:45,161 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/varied-over-the-period.jpg
+2024-07-17 09:00:45,375 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-total-rose.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-total-rose.jpg
+2024-07-17 09:00:45,376 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-total-rose.jpg
+2024-07-17 09:00:45,597 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/affect.jpg to image_files\affect.jpg
+2024-07-17 09:00:45,844 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/adjacent.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/adjacent.jpg
+2024-07-17 09:00:45,844 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/adjacent.jpg
+2024-07-17 09:00:46,091 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/cross-each-other-=-intersect.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/cross-each-other-=-intersect.jpg
+2024-07-17 09:00:46,092 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/cross-each-other-=-intersect.jpg
+2024-07-17 09:00:46,269 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/run-alongside-each-other-with-an-equal-interval-between-them.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/run-alongside-each-other-with-an-equal-interval-between-them.jpg
+2024-07-17 09:00:46,269 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/run-alongside-each-other-with-an-equal-interval-between-them.jpg
+2024-07-17 09:00:46,496 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/bits-=-segments-=-stages.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/bits-=-segments-=-stages.jpg
+2024-07-17 09:00:46,496 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/bits-=-segments-=-stages.jpg
+2024-07-17 09:00:46,710 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/record-by-making-=-plotting.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/record-by-making-=-plotting.jpg
+2024-07-17 09:00:46,719 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/record-by-making-=-plotting.jpg
+2024-07-17 09:00:46,907 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/highest-point-=-peak.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/highest-point-=-peak.jpg
+2024-07-17 09:00:46,907 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/highest-point-=-peak.jpg
+2024-07-17 09:00:47,096 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/crashed-=-plummeted.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/crashed-=-plummeted.jpg
+2024-07-17 09:00:47,096 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/crashed-=-plummeted.jpg
+2024-07-17 09:00:47,344 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/risen-=-increased.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/risen-=-increased.jpg
+2024-07-17 09:00:47,344 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/risen-=-increased.jpg
+2024-07-17 09:00:47,541 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/mortality-rate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/mortality-rate.jpg
+2024-07-17 09:00:47,542 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/mortality-rate.jpg
+2024-07-17 09:00:47,743 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/fell-to-lower-than-=-fell-below.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/fell-to-lower-than-=-fell-below.jpg
+2024-07-17 09:00:47,743 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/fell-to-lower-than-=-fell-below.jpg
+2024-07-17 09:00:47,947 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/goes-down-in-value-=-depreciates.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/goes-down-in-value-=-depreciates.jpg
+2024-07-17 09:00:47,947 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/goes-down-in-value-=-depreciates.jpg
+2024-07-17 09:00:48,160 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/fallen-by-more-than-half-=-more-than-halved.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/fallen-by-more-than-half-=-more-than-halved.jpg
+2024-07-17 09:00:48,160 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/fallen-by-more-than-half-=-more-than-halved.jpg
+2024-07-17 09:00:48,406 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/go-up-in-value-=-appreciate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/go-up-in-value-=-appreciate.jpg
+2024-07-17 09:00:48,406 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/go-up-in-value-=-appreciate.jpg
+2024-07-17 09:00:48,615 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/gone-up-rapidly-by-large-amount-=-soared.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/gone-up-rapidly-by-large-amount-=-soared.jpg
+2024-07-17 09:00:48,615 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/gone-up-rapidly-by-large-amount-=-soared.jpg
+2024-07-17 09:00:48,843 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/increased-greatly-in-number-=-multiplied.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/increased-greatly-in-number-=-multiplied.jpg
+2024-07-17 09:00:48,843 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/increased-greatly-in-number-=-multiplied.jpg
+2024-07-17 09:00:49,027 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/gone-down-=-fallen.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/gone-down-=-fallen.jpg
+2024-07-17 09:00:49,027 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/gone-down-=-fallen.jpg
+2024-07-17 09:00:49,259 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/rose-higher-than-=-exceeded.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/rose-higher-than-=-exceeded.jpg
+2024-07-17 09:00:49,259 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/rose-higher-than-=-exceeded.jpg
+2024-07-17 09:00:49,459 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/went-up-=-grew.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/went-up-=-grew.jpg
+2024-07-17 09:00:49,460 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/went-up-=-grew.jpg
+2024-07-17 09:00:49,643 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/gone-up-to-twice-the-number-=-doubled.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/gone-up-to-twice-the-number-=-doubled.jpg
+2024-07-17 09:00:49,643 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/gone-up-to-twice-the-number-=-doubled.jpg
+2024-07-17 09:00:49,862 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/becoming-smaller-=-declining.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/becoming-smaller-=-declining.jpg
+2024-07-17 09:00:49,862 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/becoming-smaller-=-declining.jpg
+2024-07-17 09:01:51,283 - image_logger - INFO - File already exists: image_files\average.jpg
+2024-07-17 09:01:51,484 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/households.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/households.jpg
+2024-07-17 09:01:51,486 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/households.jpg
+2024-07-17 09:01:51,694 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/features.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/features.jpg
+2024-07-17 09:01:51,694 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/features.jpg
+2024-07-17 09:01:51,949 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/comparisons.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/comparisons.jpg
+2024-07-17 09:01:51,950 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/comparisons.jpg
+2024-07-17 09:01:52,146 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/obvious.jpg to image_files\obvious.jpg
+2024-07-17 09:01:52,360 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/towards.jpg to image_files\towards.jpg
+2024-07-17 09:01:52,605 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/compare-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/compare-to.jpg
+2024-07-17 09:01:52,605 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/compare-to.jpg
+2024-07-17 09:01:52,827 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/notably.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/notably.jpg
+2024-07-17 09:01:52,827 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/notably.jpg
+2024-07-17 09:01:53,062 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/less.jpg to image_files\less.jpg
+2024-07-17 09:01:53,254 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/slightly-fewer.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/slightly-fewer.jpg
+2024-07-17 09:01:53,254 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/slightly-fewer.jpg
+2024-07-17 09:01:53,469 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/smallest.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/smallest.jpg
+2024-07-17 09:01:53,470 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/smallest.jpg
+2024-07-17 09:01:53,681 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/much-lower.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/much-lower.jpg
+2024-07-17 09:01:53,681 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/much-lower.jpg
+2024-07-17 09:01:53,891 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/twice.jpg to image_files\twice.jpg
+2024-07-17 09:01:54,146 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/more.jpg to image_files\more.jpg
+2024-07-17 09:01:54,359 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/greatest.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/greatest.jpg
+2024-07-17 09:01:54,359 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/greatest.jpg
+2024-07-17 09:01:54,670 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-smallest-proportion-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-smallest-proportion-of.jpg
+2024-07-17 09:01:54,670 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-smallest-proportion-of.jpg
+2024-07-17 09:01:54,906 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/three-quarters.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/three-quarters.jpg
+2024-07-17 09:01:54,906 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/three-quarters.jpg
+2024-07-17 09:01:55,083 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/half.jpg to image_files\half.jpg
+2024-07-17 09:01:55,357 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-third-of-the-number-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-third-of-the-number-of.jpg
+2024-07-17 09:01:55,357 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-third-of-the-number-of.jpg
+2024-07-17 09:01:55,580 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/40%-of.jpg: 400 Client Error: Bad Request for url: https://www.ang.pl/img/slownik/40%25-of.jpg
+2024-07-17 09:01:55,581 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/40%-of.jpg
+2024-07-17 09:01:55,813 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/over-50%.jpg: 400 Client Error: Bad Request for url: https://www.ang.pl/img/slownik/over-50%25.jpg
+2024-07-17 09:01:55,813 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/over-50%.jpg
+2024-07-17 09:01:56,023 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/five-times-the-number-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/five-times-the-number-of.jpg
+2024-07-17 09:01:56,023 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/five-times-the-number-of.jpg
+2024-07-17 09:01:56,272 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/were-more-than.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/were-more-than.jpg
+2024-07-17 09:01:56,272 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/were-more-than.jpg
+2024-07-17 09:01:56,511 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/almost-double.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/almost-double.jpg
+2024-07-17 09:01:56,511 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/almost-double.jpg
+2024-07-17 09:01:56,709 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/almost-ten-times-as-many.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/almost-ten-times-as-many.jpg
+2024-07-17 09:01:56,710 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/almost-ten-times-as-many.jpg
+2024-07-17 09:01:56,990 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/considerably-more-men-made-up.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/considerably-more-men-made-up.jpg
+2024-07-17 09:01:56,990 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/considerably-more-men-made-up.jpg
+2024-07-17 09:01:57,164 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/about-a-third-more.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/about-a-third-more.jpg
+2024-07-17 09:01:57,164 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/about-a-third-more.jpg
+2024-07-17 09:01:57,430 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/not-as-many-as.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/not-as-many-as.jpg
+2024-07-17 09:01:57,430 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/not-as-many-as.jpg
+2024-07-17 09:01:57,639 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/slightly-less-than.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/slightly-less-than.jpg
+2024-07-17 09:01:57,639 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/slightly-less-than.jpg
+2024-07-17 09:01:57,841 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/was-approximately-four-times-as-many..as...jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/was-approximately-four-times-as-many..as...jpg
+2024-07-17 09:01:57,847 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/was-approximately-four-times-as-many..as...jpg
+2024-07-17 09:01:58,078 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/exceed.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/exceed.jpg
+2024-07-17 09:01:58,078 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/exceed.jpg
+2024-07-17 09:01:58,244 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/to-be-distinguished-from-something-else.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/to-be-distinguished-from-something-else.jpg
+2024-07-17 09:01:58,244 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/to-be-distinguished-from-something-else.jpg
+2024-07-17 09:01:58,449 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/refers-to-sth.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/refers-to-sth.jpg
+2024-07-17 09:01:58,450 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/refers-to-sth.jpg
+2024-07-17 09:01:58,623 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/to-be-seen-in-contrast-with-sth.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/to-be-seen-in-contrast-with-sth.jpg
+2024-07-17 09:01:58,623 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/to-be-seen-in-contrast-with-sth.jpg
+2024-07-17 09:01:58,794 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/coined-by-analogy-with-sth.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/coined-by-analogy-with-sth.jpg
+2024-07-17 09:01:58,794 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/coined-by-analogy-with-sth.jpg
+2024-07-17 09:01:59,029 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/analogous-to-sth.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/analogous-to-sth.jpg
+2024-07-17 09:01:59,029 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/analogous-to-sth.jpg
+2024-07-17 09:01:59,266 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/depending-on-sth.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/depending-on-sth.jpg
+2024-07-17 09:01:59,266 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/depending-on-sth.jpg
+2024-07-17 09:01:59,501 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/relationships-between-things.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/relationships-between-things.jpg
+2024-07-17 09:01:59,501 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/relationships-between-things.jpg
+2024-07-17 09:01:59,738 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-same-applies-to-sth-else.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-same-applies-to-sth-else.jpg
+2024-07-17 09:01:59,738 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-same-applies-to-sth-else.jpg
+2024-07-17 09:01:59,944 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/between.jpg to image_files\between.jpg
+2024-07-17 09:02:00,223 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/among.jpg to image_files\among.jpg
+2024-07-17 09:02:44,164 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/standpoint.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/standpoint.jpg
+2024-07-17 09:02:44,164 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/standpoint.jpg
+2024-07-17 09:02:44,418 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/radical.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/radical.jpg
+2024-07-17 09:02:44,418 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/radical.jpg
+2024-07-17 09:02:44,596 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/reactionary.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/reactionary.jpg
+2024-07-17 09:02:44,596 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/reactionary.jpg
+2024-07-17 09:02:44,786 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/conservative.jpg to image_files\conservative.jpg
+2024-07-17 09:02:45,055 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/immature.jpg to image_files\immature.jpg
+2024-07-17 09:02:45,248 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/objective.jpg to image_files\objective.jpg
+2024-07-17 09:02:45,423 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/subjectively.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/subjectively.jpg
+2024-07-17 09:02:45,423 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/subjectively.jpg
+2024-07-17 09:02:45,608 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/impartial.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/impartial.jpg
+2024-07-17 09:02:45,608 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/impartial.jpg
+2024-07-17 09:02:45,859 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/biased-in-favour-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/biased-in-favour-of.jpg
+2024-07-17 09:02:45,859 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/biased-in-favour-of.jpg
+2024-07-17 09:02:46,059 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/prejudiced-against.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/prejudiced-against.jpg
+2024-07-17 09:02:46,059 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/prejudiced-against.jpg
+2024-07-17 09:02:46,285 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/rational.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/rational.jpg
+2024-07-17 09:02:46,285 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/rational.jpg
+2024-07-17 09:02:46,484 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/ideology.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/ideology.jpg
+2024-07-17 09:02:46,490 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/ideology.jpg
+2024-07-17 09:02:46,702 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/philosophy.jpg to image_files\philosophy.jpg
+2024-07-17 09:02:46,934 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/to-hold-views.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/to-hold-views.jpg
+2024-07-17 09:02:46,934 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/to-hold-views.jpg
+2024-07-17 09:02:47,171 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/to-adopt/take-a-stance.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/to-adopt/take-a-stance.jpg
+2024-07-17 09:02:47,171 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/to-adopt/take-a-stance.jpg
+2024-07-17 09:03:32,668 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-control.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-control.jpg
+2024-07-17 09:03:32,668 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-control.jpg
+2024-07-17 09:03:32,668 - image_logger - INFO - File already exists: image_files\although.jpg
+2024-07-17 09:03:32,668 - image_logger - INFO - File already exists: image_files\up-to-date.jpg
+2024-07-17 09:03:32,864 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/change-for-the-better.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/change-for-the-better.jpg
+2024-07-17 09:03:32,864 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/change-for-the-better.jpg
+2024-07-17 09:03:33,048 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-consideration.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-consideration.jpg
+2024-07-17 09:03:33,048 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-consideration.jpg
+2024-07-17 09:03:33,342 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/come-under-the-definition-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/come-under-the-definition-of.jpg
+2024-07-17 09:03:33,343 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/come-under-the-definition-of.jpg
+2024-07-17 09:03:33,577 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-contrast.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-contrast.jpg
+2024-07-17 09:03:33,577 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-contrast.jpg
+2024-07-17 09:03:33,803 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/below-this-level.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/below-this-level.jpg
+2024-07-17 09:03:33,805 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/below-this-level.jpg
+2024-07-17 09:03:33,971 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/at-about-85,000.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/at-about-85,000.jpg
+2024-07-17 09:03:33,971 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/at-about-85,000.jpg
+2024-07-17 09:03:34,205 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/seem-in.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/seem-in.jpg
+2024-07-17 09:03:34,205 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/seem-in.jpg
+2024-07-17 09:03:34,413 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/out-of-control.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/out-of-control.jpg
+2024-07-17 09:03:34,413 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/out-of-control.jpg
+2024-07-17 09:03:34,619 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/as-at-that-point.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/as-at-that-point.jpg
+2024-07-17 09:03:34,619 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/as-at-that-point.jpg
+2024-07-17 09:03:34,829 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-pressure.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-pressure.jpg
+2024-07-17 09:03:34,829 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-pressure.jpg
+2024-07-17 09:03:35,046 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-demand.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-demand.jpg
+2024-07-17 09:03:35,046 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-demand.jpg
+2024-07-17 09:03:35,238 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-practice.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-practice.jpg
+2024-07-17 09:03:35,238 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-practice.jpg
+2024-07-17 09:03:35,416 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-need-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-need-of.jpg
+2024-07-17 09:03:35,416 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-need-of.jpg
+2024-07-17 09:03:35,694 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-general.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-general.jpg
+2024-07-17 09:03:35,695 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-general.jpg
+2024-07-17 09:03:35,921 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-the-rules.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-the-rules.jpg
+2024-07-17 09:03:35,921 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-the-rules.jpg
+2024-07-17 09:03:36,146 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-detail.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-detail.jpg
+2024-07-17 09:03:36,146 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-detail.jpg
+2024-07-17 09:03:36,379 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/on-average.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/on-average.jpg
+2024-07-17 09:03:36,379 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/on-average.jpg
+2024-07-17 09:03:38,350 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-addition.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-addition.jpg
+2024-07-17 09:03:38,350 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-addition.jpg
+2024-07-17 09:03:38,598 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/consider-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/consider-to.jpg
+2024-07-17 09:03:38,598 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/consider-to.jpg
+2024-07-17 09:03:38,826 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/on-purpose.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/on-purpose.jpg
+2024-07-17 09:03:38,827 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/on-purpose.jpg
+2024-07-17 09:03:39,035 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-no-obligation.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-no-obligation.jpg
+2024-07-17 09:03:39,035 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-no-obligation.jpg
+2024-07-17 09:03:39,317 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/by-no-means.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/by-no-means.jpg
+2024-07-17 09:03:39,318 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/by-no-means.jpg
+2024-07-17 09:03:39,553 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-freshwater.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-freshwater.jpg
+2024-07-17 09:03:39,553 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-freshwater.jpg
+2024-07-17 09:03:39,775 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/on-the-north-atlantic.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/on-the-north-atlantic.jpg
+2024-07-17 09:03:39,775 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/on-the-north-atlantic.jpg
+2024-07-17 09:03:39,955 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-rivers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-rivers.jpg
+2024-07-17 09:03:39,955 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-rivers.jpg
+2024-07-17 09:03:40,231 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/travelling-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/travelling-to.jpg
+2024-07-17 09:03:40,231 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/travelling-to.jpg
+2024-07-17 09:03:40,510 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/far-away-the-sea.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/far-away-the-sea.jpg
+2024-07-17 09:03:40,510 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/far-away-the-sea.jpg
+2024-07-17 09:03:40,745 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/travelling-back-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/travelling-back-to.jpg
+2024-07-17 09:03:40,745 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/travelling-back-to.jpg
+2024-07-17 09:03:41,058 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/sign-to-albury.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/sign-to-albury.jpg
+2024-07-17 09:03:41,058 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/sign-to-albury.jpg
+2024-07-17 09:03:41,302 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/found-at-the-end.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/found-at-the-end.jpg
+2024-07-17 09:03:41,302 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/found-at-the-end.jpg
+2024-07-17 09:03:41,483 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-village-on-the-right-opposite.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-village-on-the-right-opposite.jpg
+2024-07-17 09:03:41,483 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-village-on-the-right-opposite.jpg
+2024-07-17 09:03:41,738 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/beside-the-railway.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/beside-the-railway.jpg
+2024-07-17 09:03:41,738 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/beside-the-railway.jpg
+2024-07-17 09:03:41,927 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/passes-through-a-tunnel-beneath-the-motorway.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/passes-through-a-tunnel-beneath-the-motorway.jpg
+2024-07-17 09:03:41,927 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/passes-through-a-tunnel-beneath-the-motorway.jpg
+2024-07-17 09:03:42,144 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/go-down-the-steps-on-the-right.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/go-down-the-steps-on-the-right.jpg
+2024-07-17 09:03:42,144 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/go-down-the-steps-on-the-right.jpg
+2024-07-17 09:03:42,354 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/circles-round.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/circles-round.jpg
+2024-07-17 09:03:42,354 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/circles-round.jpg
+2024-07-17 09:03:42,601 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/come-to-the-river-bank.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/come-to-the-river-bank.jpg
+2024-07-17 09:03:42,603 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/come-to-the-river-bank.jpg
+2024-07-17 09:03:42,798 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/map-at-this-point.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/map-at-this-point.jpg
+2024-07-17 09:03:42,799 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/map-at-this-point.jpg
+2024-07-17 09:03:43,048 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-construction-in-various.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-construction-in-various.jpg
+2024-07-17 09:03:43,048 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-construction-in-various.jpg
+2024-07-17 09:03:43,328 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-these-towns.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-these-towns.jpg
+2024-07-17 09:03:43,328 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-these-towns.jpg
+2024-07-17 09:03:43,549 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/among-which-will.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/among-which-will.jpg
+2024-07-17 09:03:43,549 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/among-which-will.jpg
+2024-07-17 09:03:43,764 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/smart-meter-in-each-house.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/smart-meter-in-each-house.jpg
+2024-07-17 09:03:43,764 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/smart-meter-in-each-house.jpg
+2024-07-17 09:03:43,940 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/within-a-short-distance.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/within-a-short-distance.jpg
+2024-07-17 09:03:43,940 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/within-a-short-distance.jpg
+2024-07-17 09:03:44,195 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/cycle-to-work.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/cycle-to-work.jpg
+2024-07-17 09:03:44,195 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/cycle-to-work.jpg
+2024-07-17 09:03:44,404 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/available-in.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/available-in.jpg
+2024-07-17 09:03:44,404 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/available-in.jpg
+2024-07-17 09:03:44,665 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/solar-power-alongside-conventional-energy.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/solar-power-alongside-conventional-energy.jpg
+2024-07-17 09:03:44,665 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/solar-power-alongside-conventional-energy.jpg
+2024-07-17 09:04:02,986 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/bell-curve.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/bell-curve.jpg
+2024-07-17 09:04:02,986 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/bell-curve.jpg
+2024-07-17 09:04:03,168 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/deviate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/deviate.jpg
+2024-07-17 09:04:03,168 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/deviate.jpg
+2024-07-17 09:04:03,379 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/standard-deviation.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/standard-deviation.jpg
+2024-07-17 09:04:03,380 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/standard-deviation.jpg
+2024-07-17 09:04:03,550 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/extent.jpg to image_files\extent.jpg
+2024-07-17 09:04:03,745 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/ensure.jpg to image_files\ensure.jpg
+2024-07-17 09:04:03,958 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/valid.jpg to image_files\valid.jpg
+2024-07-17 09:04:03,971 - image_logger - INFO - File already exists: image_files\reliable.jpg
+2024-07-17 09:04:04,193 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/consistent.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/consistent.jpg
+2024-07-17 09:04:04,193 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/consistent.jpg
+2024-07-17 09:04:04,428 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/normal-distribution.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/normal-distribution.jpg
+2024-07-17 09:04:04,428 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/normal-distribution.jpg
+2024-07-17 09:04:04,641 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/set-of-data.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/set-of-data.jpg
+2024-07-17 09:04:04,641 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/set-of-data.jpg
+2024-07-17 09:04:04,871 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/mean.jpg to image_files\mean.jpg
+2024-07-17 09:04:05,051 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/at-random.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/at-random.jpg
+2024-07-17 09:04:05,051 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/at-random.jpg
+2024-07-17 09:04:05,303 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/random-variable.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/random-variable.jpg
+2024-07-17 09:04:05,303 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/random-variable.jpg
+2024-07-17 09:04:05,543 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/outcomes.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/outcomes.jpg
+2024-07-17 09:04:05,543 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/outcomes.jpg
+2024-07-17 09:04:05,712 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/probability-distribution.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/probability-distribution.jpg
+2024-07-17 09:04:05,712 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/probability-distribution.jpg
+2024-07-17 09:04:05,916 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/proportion.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/proportion.jpg
+2024-07-17 09:04:05,916 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/proportion.jpg
+2024-07-17 09:04:06,095 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/ratio.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/ratio.jpg
+2024-07-17 09:04:06,095 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/ratio.jpg
+2024-07-17 09:04:06,337 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/volume.jpg to image_files\volume.jpg
+2024-07-17 09:04:06,571 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/deviate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/deviate.jpg
+2024-07-17 09:04:06,571 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/deviate.jpg
+2024-07-17 09:04:06,760 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/deviate-from-the-norm.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/deviate-from-the-norm.jpg
+2024-07-17 09:04:06,760 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/deviate-from-the-norm.jpg
+2024-07-17 09:04:06,996 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/standard-deviation.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/standard-deviation.jpg
+2024-07-17 09:04:07,002 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/standard-deviation.jpg
+2024-07-17 09:04:07,199 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/correlations.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/correlations.jpg
+2024-07-17 09:04:07,200 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/correlations.jpg
+2024-07-17 09:04:07,403 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/sample.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/sample.jpg
+2024-07-17 09:04:07,403 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/sample.jpg
+2024-07-17 09:04:07,633 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/consistent.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/consistent.jpg
+2024-07-17 09:04:07,634 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/consistent.jpg
+2024-07-17 09:04:07,647 - image_logger - INFO - File already exists: image_files\significantly.jpg
+2024-07-17 09:04:33,396 - image_logger - INFO - File already exists: image_files\effective.jpg
+2024-07-17 09:04:33,396 - image_logger - INFO - File already exists: image_files\reliable.jpg
+2024-07-17 09:04:33,398 - image_logger - INFO - File already exists: image_files\alternative.jpg
+2024-07-17 09:04:33,398 - image_logger - INFO - File already exists: image_files\common.jpg
+2024-07-17 09:04:33,398 - image_logger - INFO - File already exists: image_files\traditional.jpg
+2024-07-17 09:04:33,619 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-procedure.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-procedure.jpg
+2024-07-17 09:04:33,619 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-procedure.jpg
+2024-07-17 09:04:33,890 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/an-experiment.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/an-experiment.jpg
+2024-07-17 09:04:33,890 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/an-experiment.jpg
+2024-07-17 09:04:34,138 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-pilot-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-pilot-study.jpg
+2024-07-17 09:04:34,138 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-pilot-study.jpg
+2024-07-17 09:04:34,365 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-survey.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-survey.jpg
+2024-07-17 09:04:34,365 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-survey.jpg
+2024-07-17 09:04:34,639 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-method.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-method.jpg
+2024-07-17 09:04:34,639 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-method.jpg
+2024-07-17 09:04:34,875 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-methodology.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-methodology.jpg
+2024-07-17 09:04:34,875 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-methodology.jpg
+2024-07-17 09:04:35,078 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-technique.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-technique.jpg
+2024-07-17 09:04:35,078 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-technique.jpg
+2024-07-17 09:04:35,297 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/an-approach.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/an-approach.jpg
+2024-07-17 09:04:35,297 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/an-approach.jpg
+2024-07-17 09:04:35,502 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/an-instrument.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/an-instrument.jpg
+2024-07-17 09:04:35,502 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/an-instrument.jpg
+2024-07-17 09:04:35,674 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-device.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-device.jpg
+2024-07-17 09:04:35,674 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-device.jpg
+2024-07-17 09:04:35,861 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/is-assembled.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/is-assembled.jpg
+2024-07-17 09:04:35,862 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/is-assembled.jpg
+2024-07-17 09:04:36,129 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/is-checked.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/is-checked.jpg
+2024-07-17 09:04:36,129 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/is-checked.jpg
+2024-07-17 09:04:36,311 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/piece-of-apparatus.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/piece-of-apparatus.jpg
+2024-07-17 09:04:36,311 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/piece-of-apparatus.jpg
+2024-07-17 09:04:36,595 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/exploratory-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/exploratory-study.jpg
+2024-07-17 09:04:36,611 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/exploratory-study.jpg
+2024-07-17 09:04:36,809 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/experimental-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/experimental-study.jpg
+2024-07-17 09:04:36,809 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/experimental-study.jpg
+2024-07-17 09:04:37,041 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/correlational-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/correlational-study.jpg
+2024-07-17 09:04:37,041 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/correlational-study.jpg
+2024-07-17 09:04:37,316 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/casual-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/casual-study.jpg
+2024-07-17 09:04:37,318 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/casual-study.jpg
+2024-07-17 09:04:37,498 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/naturalistic-(empirical)-observation-(field-study).jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/naturalistic-(empirical)-observation-(field-study).jpg
+2024-07-17 09:04:37,498 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/naturalistic-(empirical)-observation-(field-study).jpg
+2024-07-17 09:04:37,514 - image_logger - INFO - File already exists: image_files\survey.jpg
+2024-07-17 09:04:37,742 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/case-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/case-study.jpg
+2024-07-17 09:04:37,753 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/case-study.jpg
+2024-07-17 09:04:37,943 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/longitudinal-study.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/longitudinal-study.jpg
+2024-07-17 09:04:37,943 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/longitudinal-study.jpg
+2024-07-17 09:04:37,960 - image_logger - INFO - File already exists: image_files\uncertain.jpg
+2024-07-17 09:04:38,227 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/makes-changes-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/makes-changes-to.jpg
+2024-07-17 09:04:38,228 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/makes-changes-to.jpg
+2024-07-17 09:04:38,420 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/not-natural.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/not-natural.jpg
+2024-07-17 09:04:38,420 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/not-natural.jpg
+2024-07-17 09:04:38,648 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/do-in-exactly-the-same-way.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/do-in-exactly-the-same-way.jpg
+2024-07-17 09:04:38,648 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/do-in-exactly-the-same-way.jpg
+2024-07-17 09:04:38,910 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/show-something-is-not-true.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/show-something-is-not-true.jpg
+2024-07-17 09:04:38,910 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/show-something-is-not-true.jpg
+2024-07-17 09:04:38,923 - image_logger - INFO - File already exists: image_files\phenomenon.jpg
+2024-07-17 09:04:39,155 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/altering.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/altering.jpg
+2024-07-17 09:04:39,155 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/altering.jpg
+2024-07-17 09:04:39,370 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/making-it-change.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/making-it-change.jpg
+2024-07-17 09:04:39,370 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/making-it-change.jpg
+2024-07-17 09:04:39,606 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/comes-to-conclusions-on-the-basis-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/comes-to-conclusions-on-the-basis-of.jpg
+2024-07-17 09:04:39,606 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/comes-to-conclusions-on-the-basis-of.jpg
+2024-07-17 09:04:39,608 - image_logger - INFO - File already exists: image_files\detailed.jpg
+2024-07-17 09:04:39,835 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/preliminary.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/preliminary.jpg
+2024-07-17 09:04:39,835 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/preliminary.jpg
+2024-07-17 09:04:39,849 - image_logger - INFO - File already exists: image_files\variable.jpg
+2024-07-17 09:04:40,111 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/under-controlled-conditions.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/under-controlled-conditions.jpg
+2024-07-17 09:04:40,111 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/under-controlled-conditions.jpg
+2024-07-17 09:04:40,299 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/dependent-variable.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/dependent-variable.jpg
+2024-07-17 09:04:40,299 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/dependent-variable.jpg
+2024-07-17 09:04:40,548 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/reflect.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/reflect.jpg
+2024-07-17 09:04:40,548 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/reflect.jpg
+2024-07-17 09:04:40,715 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/attempts-to-determine.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/attempts-to-determine.jpg
+2024-07-17 09:04:40,715 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/attempts-to-determine.jpg
+2024-07-17 09:04:40,932 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/relates-in-systematic-ways.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/relates-in-systematic-ways.jpg
+2024-07-17 09:04:40,932 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/relates-in-systematic-ways.jpg
+2024-07-17 09:04:40,932 - image_logger - INFO - File already exists: image_files\prove.jpg
+2024-07-17 09:04:41,123 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/disprove.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/disprove.jpg
+2024-07-17 09:04:41,123 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/disprove.jpg
+2024-07-17 09:04:41,334 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-cause-and-effect-relationship.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-cause-and-effect-relationship.jpg
+2024-07-17 09:04:41,334 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-cause-and-effect-relationship.jpg
+2024-07-17 09:04:45,523 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/observes.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/observes.jpg
+2024-07-17 09:04:45,523 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/observes.jpg
+2024-07-17 09:04:45,713 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/records.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/records.jpg
+2024-07-17 09:04:45,713 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/records.jpg
+2024-07-17 09:04:45,903 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/natural-setting.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/natural-setting.jpg
+2024-07-17 09:04:45,903 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/natural-setting.jpg
+2024-07-17 09:04:46,158 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/subjects.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/subjects.jpg
+2024-07-17 09:04:46,158 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/subjects.jpg
+2024-07-17 09:04:46,399 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/time-consuming.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/time-consuming.jpg
+2024-07-17 09:04:46,399 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/time-consuming.jpg
+2024-07-17 09:04:46,588 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/disrupting.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/disrupting.jpg
+2024-07-17 09:04:46,588 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/disrupting.jpg
+2024-07-17 09:04:46,871 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/misunderstanding.jpg to image_files\misunderstanding.jpg
+2024-07-17 09:04:47,112 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/inaccuracies-in-the-data.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/inaccuracies-in-the-data.jpg
+2024-07-17 09:04:47,113 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/inaccuracies-in-the-data.jpg
+2024-07-17 09:04:47,351 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/outside-observer.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/outside-observer.jpg
+2024-07-17 09:04:47,351 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/outside-observer.jpg
+2024-07-17 09:04:47,549 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/sample.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/sample.jpg
+2024-07-17 09:04:47,549 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/sample.jpg
+2024-07-17 09:04:47,746 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/over-time.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/over-time.jpg
+2024-07-17 09:04:47,746 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/over-time.jpg
+2024-07-17 09:04:47,937 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/representative.jpg to image_files\representative.jpg
+2024-07-17 09:04:48,192 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/population.jpg to image_files\population.jpg
+2024-07-17 09:04:48,368 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/gather-results.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/gather-results.jpg
+2024-07-17 09:04:48,368 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/gather-results.jpg
+2024-07-17 09:04:48,610 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/conduct.jpg to image_files\conduct.jpg
+2024-07-17 09:05:09,195 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/series-of-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/series-of-numbers.jpg
+2024-07-17 09:05:09,195 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/series-of-numbers.jpg
+2024-07-17 09:05:09,460 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/set-of-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/set-of-numbers.jpg
+2024-07-17 09:05:09,460 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/set-of-numbers.jpg
+2024-07-17 09:05:09,653 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/a-sequence-of-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/a-sequence-of-numbers.jpg
+2024-07-17 09:05:09,653 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/a-sequence-of-numbers.jpg
+2024-07-17 09:05:09,891 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/significant-order.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/significant-order.jpg
+2024-07-17 09:05:09,891 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/significant-order.jpg
+2024-07-17 09:05:10,121 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/squared.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/squared.jpg
+2024-07-17 09:05:10,122 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/squared.jpg
+2024-07-17 09:05:10,285 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/odd-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/odd-numbers.jpg
+2024-07-17 09:05:10,285 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/odd-numbers.jpg
+2024-07-17 09:05:10,487 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/even-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/even-numbers.jpg
+2024-07-17 09:05:10,487 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/even-numbers.jpg
+2024-07-17 09:05:10,707 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/prime-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/prime-numbers.jpg
+2024-07-17 09:05:10,707 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/prime-numbers.jpg
+2024-07-17 09:05:10,971 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/divided-by.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/divided-by.jpg
+2024-07-17 09:05:10,971 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/divided-by.jpg
+2024-07-17 09:05:11,191 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/apart-from.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/apart-from.jpg
+2024-07-17 09:05:11,191 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/apart-from.jpg
+2024-07-17 09:05:11,191 - image_logger - INFO - File already exists: image_files\maximum.jpg
+2024-07-17 09:05:11,191 - image_logger - INFO - File already exists: image_files\minimum.jpg
+2024-07-17 09:05:11,369 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-highest.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-highest.jpg
+2024-07-17 09:05:11,369 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-highest.jpg
+2024-07-17 09:05:11,620 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-lowest.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-lowest.jpg
+2024-07-17 09:05:11,620 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-lowest.jpg
+2024-07-17 09:05:11,620 - image_logger - INFO - File already exists: image_files\approximate.jpg
+2024-07-17 09:05:11,820 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/roughly-correct.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/roughly-correct.jpg
+2024-07-17 09:05:11,820 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/roughly-correct.jpg
+2024-07-17 09:05:12,087 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-precise.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-precise.jpg
+2024-07-17 09:05:12,100 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-precise.jpg
+2024-07-17 09:05:12,303 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/exact-number.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/exact-number.jpg
+2024-07-17 09:05:12,303 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/exact-number.jpg
+2024-07-17 09:05:12,484 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/aggregate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/aggregate.jpg
+2024-07-17 09:05:12,484 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/aggregate.jpg
+2024-07-17 09:05:12,740 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/reached-by-totalling-a-set-of-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/reached-by-totalling-a-set-of-numbers.jpg
+2024-07-17 09:05:12,740 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/reached-by-totalling-a-set-of-numbers.jpg
+2024-07-17 09:05:12,946 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-total.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-total.jpg
+2024-07-17 09:05:12,946 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-total.jpg
+2024-07-17 09:05:13,146 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-average.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-average.jpg
+2024-07-17 09:05:13,146 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-average.jpg
+2024-07-17 09:05:13,400 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/entries.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/entries.jpg
+2024-07-17 09:05:13,400 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/entries.jpg
+2024-07-17 09:05:13,569 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/discrete-number.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/discrete-number.jpg
+2024-07-17 09:05:13,585 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/discrete-number.jpg
+2024-07-17 09:05:13,585 - image_logger - INFO - File already exists: image_files\unit.jpg
+2024-07-17 09:05:13,585 - image_logger - INFO - File already exists: image_files\constant.jpg
+2024-07-17 09:05:13,585 - image_logger - INFO - File already exists: image_files\quantity.jpg
+2024-07-17 09:05:13,585 - image_logger - INFO - File already exists: image_files\varied.jpg
+2024-07-17 09:05:13,837 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-amount-of.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-amount-of.jpg
+2024-07-17 09:05:13,837 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-amount-of.jpg
+2024-07-17 09:05:14,049 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/random-number.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/random-number.jpg
+2024-07-17 09:05:14,050 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/random-number.jpg
+2024-07-17 09:05:14,260 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/the-word-figure.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/the-word-figure.jpg
+2024-07-17 09:05:14,260 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/the-word-figure.jpg
+2024-07-17 09:05:14,444 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/refer-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/refer-to.jpg
+2024-07-17 09:05:14,444 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/refer-to.jpg
+2024-07-17 09:05:14,653 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/calculate-a-number.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/calculate-a-number.jpg
+2024-07-17 09:05:14,653 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/calculate-a-number.jpg
+2024-07-17 09:05:14,860 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/estimate-a-number.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/estimate-a-number.jpg
+2024-07-17 09:05:14,874 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/estimate-a-number.jpg
+2024-07-17 09:05:15,137 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/round-a-number-up/down.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/round-a-number-up/down.jpg
+2024-07-17 09:05:15,137 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/round-a-number-up/down.jpg
+2024-07-17 09:05:15,386 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/total-a-set-of-numbers.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/total-a-set-of-numbers.jpg
+2024-07-17 09:05:15,386 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/total-a-set-of-numbers.jpg
+2024-07-17 09:05:15,588 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/numbers-can-tally.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/numbers-can-tally.jpg
+2024-07-17 09:05:15,589 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/numbers-can-tally.jpg
+2024-07-17 09:05:15,784 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/seem-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/seem-to.jpg
+2024-07-17 09:05:15,784 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/seem-to.jpg
+2024-07-17 09:05:15,987 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/deduct.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/deduct.jpg
+2024-07-17 09:05:15,987 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/deduct.jpg
+2024-07-17 09:05:16,156 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/values.jpg to image_files\values.jpg
+2024-07-17 09:05:16,406 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/variables.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/variables.jpg
+2024-07-17 09:05:16,406 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/variables.jpg
+2024-07-17 09:05:16,635 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/incidence-of-sth.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/incidence-of-sth.jpg
+2024-07-17 09:05:16,635 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/incidence-of-sth.jpg
+2024-07-17 09:05:16,948 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/frequently.jpg to image_files\frequently.jpg
+2024-07-17 09:05:17,218 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/occurs.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/occurs.jpg
+2024-07-17 09:05:17,234 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/occurs.jpg
+2024-07-17 09:05:17,451 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/magnitude.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/magnitude.jpg
+2024-07-17 09:05:17,451 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/magnitude.jpg
+2024-07-17 09:05:17,653 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/order-of-magnitude.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/order-of-magnitude.jpg
+2024-07-17 09:05:17,653 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/order-of-magnitude.jpg
+2024-07-17 09:05:17,839 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/making-calculations.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/making-calculations.jpg
+2024-07-17 09:05:17,839 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/making-calculations.jpg
+2024-07-17 09:05:18,038 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/in-the-right-area.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/in-the-right-area.jpg
+2024-07-17 09:05:18,038 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/in-the-right-area.jpg
+2024-07-17 09:05:18,244 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/advised-to.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/advised-to.jpg
+2024-07-17 09:05:18,244 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/advised-to.jpg
+2024-07-17 09:05:18,433 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/show-the-workings.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/show-the-workings.jpg
+2024-07-17 09:05:18,433 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/show-the-workings.jpg
+2024-07-17 09:05:18,626 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/arrived-at-their-answer.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/arrived-at-their-answer.jpg
+2024-07-17 09:05:18,626 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/arrived-at-their-answer.jpg
+2024-07-17 09:05:18,806 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/work-out-=-calculate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/work-out-=-calculate.jpg
+2024-07-17 09:05:18,806 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/work-out-=-calculate.jpg
+2024-07-17 09:05:18,994 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/make-a-rough-guess-at-=-estimate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/make-a-rough-guess-at-=-estimate.jpg
+2024-07-17 09:05:18,994 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/make-a-rough-guess-at-=-estimate.jpg
+2024-07-17 09:05:19,200 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/make-a-fraction,-eg.-1/4-into-the-nearest-whole-number-=-round-up/down.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/make-a-fraction,-eg.-1/4-into-the-nearest-whole-number-=-round-up/down.jpg
+2024-07-17 09:05:19,216 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/make-a-fraction,-eg.-1/4-into-the-nearest-whole-number-=-round-up/down.jpg
+2024-07-17 09:05:19,462 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/add-up-=-total.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/add-up-=-total.jpg
+2024-07-17 09:05:19,462 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/add-up-=-total.jpg
+2024-07-17 09:05:19,642 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/match,-agree-=-tally.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/match,-agree-=-tally.jpg
+2024-07-17 09:05:19,642 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/match,-agree-=-tally.jpg
+2024-07-17 09:05:19,846 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/take-away,-subtract-=-deduct.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/take-away,-subtract-=-deduct.jpg
+2024-07-17 09:05:19,846 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/take-away,-subtract-=-deduct.jpg
+2024-07-17 09:05:20,014 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/rough-guess-=-estimate.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/rough-guess-=-estimate.jpg
+2024-07-17 09:05:20,014 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/rough-guess-=-estimate.jpg
+2024-07-17 09:05:20,318 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/approximately-the-same-=-in-the-right-area.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/approximately-the-same-=-in-the-right-area.jpg
+2024-07-17 09:05:20,318 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/approximately-the-same-=-in-the-right-area.jpg
+2024-07-17 09:05:20,553 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/all-the-calculations-leading-up-to-an-answer-=-workings.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/all-the-calculations-leading-up-to-an-answer-=-workings.jpg
+2024-07-17 09:05:20,553 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/all-the-calculations-leading-up-to-an-answer-=-workings.jpg
+2024-07-17 09:05:20,756 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/round-up-6.66.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/round-up-6.66.jpg
+2024-07-17 09:05:20,756 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/round-up-6.66.jpg
+2024-07-17 09:05:20,756 - image_logger - INFO - File already exists: image_files\dissertation.jpg
+2024-07-17 09:05:20,953 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/submit.jpg to image_files\submit.jpg
+2024-07-17 09:05:21,142 - image_logger - INFO - Error downloading https://www.ang.pl/img/slownik/legibly.jpg: 404 Client Error: Not Found for url: https://www.ang.pl/img/slownik/legibly.jpg
+2024-07-17 09:05:21,142 - image_logger - INFO - Failed to download image from: https://www.ang.pl/img/slownik/legibly.jpg
+2024-07-17 09:05:21,379 - image_logger - INFO - Downloaded image: https://www.ang.pl/img/slownik/distinguish.jpg to image_files\distinguish.jpg
