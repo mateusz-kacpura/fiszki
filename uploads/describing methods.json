@@ -559,5 +559,115 @@
     "example_translation": "Projekt badawczy był pochłaniający czas, ale satysfakcjonujący.",
     "imageLink": "",
     "audioLink": "audio_files\\time-consuming.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Disrupting",
+    "translation": "zakłócanie",
+    "definition": "To cause disorder or turmoil.",
+    "example": "Construction noise is disrupting our meeting.",
+    "example_translation": "Hałas z budowy zakłóca nasze spotkanie.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Misunderstanding",
+    "translation": "niezrozumienie",
+    "definition": "A failure to understand something correctly.",
+    "example": "There was a misunderstanding about the meeting time.",
+    "example_translation": "Doszło do nieporozumienia co do czasu spotkania.",
+    "imageLink": "image_files\\misunderstanding.jpg",
+    "audioLink": "audio_files\\misunderstanding.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Inaccuracies in the data",
+    "translation": "nieścisłości w danych",
+    "definition": "Errors or mistakes in the data.",
+    "example": "The report had several inaccuracies in the data.",
+    "example_translation": "Raport zawierał kilka nieścisłości w danych.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Outside observer",
+    "translation": "zewnętrzny obserwator",
+    "definition": "A person who observes but is not involved in the activity.",
+    "example": "An outside observer might not understand the context.",
+    "example_translation": "Zewnętrzny obserwator może nie rozumieć kontekstu.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Sample",
+    "translation": "próbka",
+    "definition": "A small part or quantity intended to show what the whole is like.",
+    "example": "We tested a sample of the water for contamination.",
+    "example_translation": "Przetestowaliśmy próbkę wody pod kątem zanieczyszczeń.",
+    "imageLink": "",
+    "audioLink": "audio_files\\sample.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Over time",
+    "translation": "z biegiem czasu",
+    "definition": "As time passes.",
+    "example": "The effects will become more apparent over time.",
+    "example_translation": "Z biegiem czasu efekty staną się bardziej widoczne.",
+    "imageLink": "",
+    "audioLink": "audio_files\\over-time.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Representative",
+    "translation": "reprezentatywny",
+    "definition": "Typical of a class, group, or body of opinion.",
+    "example": "The survey was conducted with a representative sample.",
+    "example_translation": "Badanie przeprowadzono na reprezentatywnej próbie.",
+    "imageLink": "image_files\\representative.jpg",
+    "audioLink": "audio_files\\representative.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Population",
+    "translation": "populacja",
+    "definition": "All the inhabitants of a particular area or group.",
+    "example": "The population of the city has grown rapidly.",
+    "example_translation": "Populacja miasta gwałtownie wzrosła.",
+    "imageLink": "image_files\\population.jpg",
+    "audioLink": "audio_files\\population.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Gather results",
+    "translation": "zbieranie wyników",
+    "definition": "To collect outcomes or data.",
+    "example": "We need to gather results from all the tests.",
+    "example_translation": "Musimy zebrać wyniki wszystkich testów.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Conduct",
+    "translation": "przeprowadzenie",
+    "definition": "To organize and carry out.",
+    "example": "We will conduct a survey to gather feedback.",
+    "example_translation": "Przeprowadzimy ankietę, aby zebrać opinie.",
+    "imageLink": "image_files\\conduct.jpg",
+    "audioLink": "audio_files\\conduct.mp3"
   }
 ]

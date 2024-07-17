@@ -1,0 +1,167 @@
+[
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Standpoint",
+    "translation": "punkt widzenia",
+    "definition": "A set of principles or beliefs on the basis of which opinions are formed.",
+    "example": "From a legal standpoint, the case is clear.",
+    "example_translation": "Z punktu widzenia prawa sprawa jest jasna.",
+    "imageLink": "",
+    "audioLink": "audio_files\\standpoint.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Radical",
+    "translation": "radykalny",
+    "definition": "Believing that there should be extreme political or social change.",
+    "example": "He has radical views on economic reform.",
+    "example_translation": "Ma radykalne poglądy na temat reformy gospodarczej.",
+    "imageLink": "",
+    "audioLink": "audio_files\\radical.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Reactionary",
+    "translation": "reakcyjny",
+    "definition": "(Disapproving) Opposed to political or social change or new ideas.",
+    "example": "The government is often criticized for its reactionary policies.",
+    "example_translation": "Rząd jest często krytykowany za swoje reakcyjne polityki.",
+    "imageLink": "",
+    "audioLink": "audio_files\\reactionary.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Conservative",
+    "translation": "konserwatywny",
+    "definition": "Not inclined to trust change, especially if it is sudden.",
+    "example": "His conservative approach to business was very successful.",
+    "example_translation": "Jego konserwatywne podejście do biznesu było bardzo udane.",
+    "imageLink": "image_files\\conservative.jpg",
+    "audioLink": "audio_files\\conservative.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Immature",
+    "translation": "niedojrzały",
+    "definition": "(Disapproving) Lacking in experience; opposite is mature.",
+    "example": "His behavior was very immature for his age.",
+    "example_translation": "Jego zachowanie było bardzo niedojrzałe jak na jego wiek.",
+    "imageLink": "image_files\\immature.jpg",
+    "audioLink": "audio_files\\immature.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Objective",
+    "translation": "obiektywny",
+    "definition": "Not influenced by personal beliefs or attitudes, based only on facts; opposite is subjective.",
+    "example": "An objective analysis of the data was conducted.",
+    "example_translation": "Przeprowadzono obiektywną analizę danych.",
+    "imageLink": "image_files\\objective.jpg",
+    "audioLink": "audio_files\\objective.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Subjectively",
+    "translation": "subiektywnie",
+    "definition": "In a way that is influenced by personal beliefs or attitudes.",
+    "example": "She viewed the situation subjectively.",
+    "example_translation": "Oceniła sytuację subiektywnie.",
+    "imageLink": "",
+    "audioLink": "audio_files\\subjectively.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Impartial",
+    "translation": "bezstronny",
+    "definition": "Not supporting one person or group more than others.",
+    "example": "The judge must remain impartial during the trial.",
+    "example_translation": "Sędzia musi pozostać bezstronny podczas procesu.",
+    "imageLink": "",
+    "audioLink": "audio_files\\impartial.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Biased in favour of",
+    "translation": "uprzedzony na korzyść",
+    "definition": "Showing an unreasonable liking for something based on personal beliefs or opinions; opposite is biased against.",
+    "example": "The article was biased in favour of the new policy.",
+    "example_translation": "Artykuł był uprzedzony na korzyść nowej polityki.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Prejudiced against",
+    "translation": "uprzedzony wobec",
+    "definition": "Showing unreasonable dislike for, based on personal beliefs or opinions (stronger and more pejorative than biased); opposite is prejudiced in favour of.",
+    "example": "He was prejudiced against people from different cultures.",
+    "example_translation": "Był uprzedzony wobec ludzi z różnych kultur.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Rational",
+    "translation": "racjonalny",
+    "definition": "Based only on reason; opposite is irrational.",
+    "example": "She made a rational decision after considering all the facts.",
+    "example_translation": "Podjęła racjonalną decyzję po rozważeniu wszystkich faktów.",
+    "imageLink": "",
+    "audioLink": "audio_files\\rational.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Ideology",
+    "translation": "ideologia",
+    "definition": "A theory or set of beliefs or principles, particularly one on which a political system or organization is based.",
+    "example": "The party's ideology is rooted in socialism.",
+    "example_translation": "Ideologia partii jest zakorzeniona w socjalizmie.",
+    "imageLink": "",
+    "audioLink": "audio_files\\ideology.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "Philosophy",
+    "translation": "filozofia",
+    "definition": "A set of beliefs that is much more thoughtful and serious.",
+    "example": "His philosophy on life was shaped by his experiences.",
+    "example_translation": "Jego filozofia życiowa została ukształtowana przez doświadczenia.",
+    "imageLink": "image_files\\philosophy.jpg",
+    "audioLink": "audio_files\\philosophy.mp3"
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "To hold views",
+    "translation": "mieć poglądy",
+    "definition": "To have opinions.",
+    "example": "She holds strong views on environmental issues.",
+    "example_translation": "Ma silne poglądy na temat kwestii środowiskowych.",
+    "imageLink": "",
+    "audioLink": ""
+  },
+  {
+    "language": "English",
+    "translationLanguage": "English",
+    "word": "To adopt/take a stance",
+    "translation": "przyjąć stanowisko",
+    "definition": "To take a position on a particular issue.",
+    "example": "The company has adopted a strong stance on sustainability.",
+    "example_translation": "Firma przyjęła zdecydowane stanowisko w sprawie zrównoważonego rozwoju.",
+    "imageLink": "",
+    "audioLink": ""
+  }
+]
