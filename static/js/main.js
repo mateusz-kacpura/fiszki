@@ -73,27 +73,32 @@ function showModal() {
   $('#resultModal').modal('show');
 }
 
-  function playTextToSpeech(text) {
-    fetch('/text-to-speech', {
-        method: 'POST',
-        headers: {
-        'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ text: text }),
-    })
-    .then(response => response.json())
-    .then(data => {
-        if (data.audio_path) {
-        const audio = new Audio(data.audio_path);
-        audio.play();
-        } else {
-        console.error('Error:', data.error);
-        }
-    })
-    .catch(error => {
-        console.error('Error:', error);
-    });
-  }
+function playTextToSpeech(text) {
+  fetch('/text-to-speech', {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ text: text }),
+  })
+  .then(response => {
+      if (!response.ok) {
+          return response.json().then(error => { throw new Error(error.error) });
+      }
+      return response.json();
+  })
+  .then(data => {
+      if (data.audio_path) {
+          const audio = new Audio(data.audio_path);
+          audio.play();
+      } else {
+          console.error('Error:', data.error);
+      }
+  })
+  .catch(error => {
+      console.error('Error:', error);
+  });
+}
 
   function sendStatistic(data) {
     fetch('/save_statistic', {

@@ -6843,5 +6843,50 @@
     "sentence": "The totals are listed",
     "correct": true,
     "timestamp": "2024-07-17T11:30:59.932Z"
+  },
+  {
+    "sentence": "Data relating",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:26.798Z"
+  },
+  {
+    "sentence": "Rigorous",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:35.256Z"
+  },
+  {
+    "sentence": "Among",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:38.270Z"
+  },
+  {
+    "sentence": "We can see",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:42.725Z"
+  },
+  {
+    "sentence": "Come to/draw/reach a conclusion",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:49.198Z"
+  },
+  {
+    "sentence": "Go on",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:55.750Z"
+  },
+  {
+    "sentence": "Effective",
+    "correct": true,
+    "timestamp": "2024-07-18T10:27:58.181Z"
+  },
+  {
+    "sentence": "study Casual",
+    "correct": false,
+    "timestamp": "2024-07-18T10:28:07.982Z"
+  },
+  {
+    "word": "r\u00f3\u017cni kandydaci",
+    "correct": true,
+    "timestamp": "2024-07-18T10:30:35.459Z"
   }
 ]

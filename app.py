@@ -7,7 +7,8 @@ from flask_cors import CORS
 from flask import send_from_directory
 from werkzeug.utils import secure_filename
 from openpyxl import load_workbook
-from transformers import AutoProcessor, AutoModel
+from transformers import AutoProcessor, AutoModel, BarkModel
+import torch
 from scipy.io.wavfile import write
 from pydub import AudioSegment
 import nltk
@@ -265,15 +266,32 @@ def text_to_speech():
         return jsonify({'error': 'No text provided'}), 400
     
     try:
-        if not os.path.exists(os.path.join(AUDIO_FOLDER, f"{text}.mp3")):
+        mp3_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
+        if not os.path.exists(mp3_path):
             print("Generating audio...")
+
+            if torch.cuda.is_available():
+                # Run on GPU with cuda, required 12 GB vram
+                processor = AutoProcessor.from_pretrained("suno/bark")
+                # python -m pip install git+https://github.com/huggingface/optimum.git
+                # pip install -U flash-attn --no-build-isolation
+                
+                device = "cuda" if torch.cuda.is_available() else "cpu"
+                model = BarkModel.from_pretrained("suno/bark", torch_dtype=torch.float16, attn_implementation="flash_attention_2").to(device)
             
-            processor = AutoProcessor.from_pretrained("suno/bark")
-            model = AutoModel.from_pretrained("suno/bark")
+                # enable CPU offload / włącz dodatkowo obciążenie CPU
+                model.enable_cpu_offload()
+            else:
+                # Run with CPU
+                processor = AutoProcessor.from_pretrained("suno/bark")
+                model = AutoModel.from_pretrained("suno/bark")
+            
+            # voice_preset = "v2/en_speaker_6"
 
             inputs = processor(
                 text,
                 return_tensors="pt",
+                # voice_preset=voice_preset,
             )
 
             speech_values = model.generate(**inputs, do_sample=True)
@@ -285,7 +303,6 @@ def text_to_speech():
             scipy.io.wavfile.write(wav_path, rate=sampling_rate, data=wav_data)
             
             audio_segment = AudioSegment.from_wav(wav_path)
-            mp3_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
             audio_segment.export(mp3_path, format="mp3")
             
             # Remove the intermediate WAV file after exporting to MP3
@@ -294,11 +311,10 @@ def text_to_speech():
                 print(f"Removed intermediate WAV file: {wav_path}")
             
             print(f"Saving audio to file: {mp3_path}")
-            
-            return jsonify({'audio_path': mp3_path})
         else:
-            print(f"Audio file already exists: {os.path.join(AUDIO_FOLDER, f'{text}.mp3')}")
-            return jsonify({'audio_path': os.path.join(AUDIO_FOLDER, f"{text}.mp3")})
+            print(f"Audio file already exists: {mp3_path}")
+            
+        return jsonify({'audio_path': mp3_path})
     except Exception as e:
         print(f"Error in text-to-speech: {e}")
         logging.error(f"Error in text-to-speech: {e}")
