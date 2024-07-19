@@ -1,45 +1,6 @@
 let words = [];
 let reverseDirection = false;
-let recognition;
 let currentWord = null;
-
-function startRecording() {
-  if (!('webkitSpeechRecognition' in window)) {
-    alert("Web Speech API is not supported by this browser.");
-  } else {
-    recognition = new webkitSpeechRecognition();
-    recognition.continuous = true;
-    recognition.interimResults = true;
-
-    // Change the language based on the reverse direction flag
-    recognition.lang = reverseDirection ? "en-US" : "pl-PL";
-
-    recognition.onstart = function() {
-      console.log("Speech recognition started.");
-    };
-
-    recognition.onerror = function(event) {
-      console.error("Speech recognition error:", event.error);
-    };
-
-    recognition.onend = function() {
-      console.log("Speech recognition ended.");
-    };
-
-    recognition.onresult = function(event) {
-      let finalTranscript = "";
-      for (let i = event.resultIndex; i < event.results.length; ++i) {
-        if (event.results[i].isFinal) {
-          finalTranscript += event.results[i][0].transcript;
-        }
-      }
-      document.getElementById('translation').value = finalTranscript;
-    };
-
-    recognition.start();
-  }
-}
-
 
 function fetchData() {
   const fileInput = document.getElementById('fileInput');

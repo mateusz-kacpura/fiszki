@@ -73,46 +73,51 @@ function showModal() {
   $('#resultModal').modal('show');
 }
 
-  function playTextToSpeech(text) {
-    fetch('/text-to-speech', {
-        method: 'POST',
-        headers: {
-        'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ text: text }),
-    })
-    .then(response => response.json())
-    .then(data => {
-        if (data.audio_path) {
-        const audio = new Audio(data.audio_path);
-        audio.play();
-        } else {
-        console.error('Error:', data.error);
-        }
-    })
-    .catch(error => {
-        console.error('Error:', error);
-    });
-  }
-
-  function sendStatistic(data) {
-    fetch('/save_statistic', {
+function playTextToSpeech(text) {
+  fetch('/text-to-speech', {
       method: 'POST',
       headers: {
-        'Content-Type': 'application/json',
+          'Content-Type': 'application/json',
       },
-      body: JSON.stringify(data),
-    })
-    .then(response => response.json())
-    .then(result => {
-      console.log('Success:', result);
-    })
-    .catch(error => {
+      body: JSON.stringify({ text: text }),
+  })
+  .then(response => {
+      if (!response.ok) {
+          return response.json().then(error => { throw new Error(error.error) });
+      }
+      return response.json();
+  })
+  .then(data => {
+      if (data.audio_path) {
+          const audio = new Audio(data.audio_path);
+          audio.play();
+      } else {
+          console.error('Error:', data.error);
+      }
+  })
+  .catch(error => {
       console.error('Error:', error);
-    });
-  }
+  });
+}
 
-  function saveSetting(data) {
+function sendStatistic(data) {
+  fetch('/save_statistic', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(data),
+  })
+  .then(response => response.json())
+  .then(result => {
+    console.log('Success:', result);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+}
+
+function saveSetting(data) {
     fetch('/saveSetting', {
       method: 'POST',
       headers: {
@@ -129,4 +134,49 @@ function showModal() {
     });
   }
 
+  
+  let recognition;
+
+  function startRecording() {
+    if (!('webkitSpeechRecognition' in window)) {
+      alert("Web Speech API is not supported by this browser.");
+    } else {
+      recognition = new webkitSpeechRecognition();
+      recognition.continuous = true;
+      recognition.interimResults = true;
+  
+      recognition.lang = reverseDirection ? "en-US" : "pl-PL";
+  
+      recognition.onstart = function() {
+        console.log("Speech recognition started.");
+      };
+  
+      recognition.onerror = function(event) {
+        console.error("Speech recognition error:", event.error);
+      };
+  
+      recognition.onend = function() {
+        console.log("Speech recognition ended.");
+      };
+  
+      recognition.onresult = function(event) {
+        let finalTranscript = "";
+        for (let i = event.resultIndex; i < event.results.length; ++i) {
+          if (event.results[i].isFinal) {
+            finalTranscript += event.results[i][0].transcript;
+          }
+        }
+        document.getElementById('translation').value = finalTranscript;
+      };
+  
+      recognition.start();
+    }
+  }
+  
+  function stopRecording() {
+    if (recognition) {
+      recognition.stop();
+      console.log("Speech recognition stopped.");
+    }
+  }
   

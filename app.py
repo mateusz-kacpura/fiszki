@@ -208,12 +208,13 @@ def audio_files(filename):
     return send_from_directory('audio_files', filename)
 # <--                          !-->
 
+# funkcja nie działa w pełni offline pomimo pobrania repozytoriów whisper do folderu models
 @app.route('/real-time-speech-recognition', methods=['POST'])
 def real_time_speech_recognition():
-    
+
     # Load the model and processor
-    processor = WhisperProcessor.from_pretrained(WHISPER_MEDIUM)
-    model = WhisperForConditionalGeneration.from_pretrained(WHISPER_MEDIUM)
+    processor = WhisperProcessor.from_pretrained(WHISPER_MEDIUM, local_files_only=True)
+    model = WhisperForConditionalGeneration.from_pretrained(WHISPER_MEDIUM, local_files_only=True)
 
     try:
         CHUNK = 1024
@@ -230,20 +231,23 @@ def real_time_speech_recognition():
 
         print("Rozpoczęto nagrywanie...")
 
+        frames = []
+
         while True:
             data = stream.read(CHUNK)
+            frames.append(data)
             audio_data = np.frombuffer(data, dtype=np.int16)
 
-            # Convert audio data to the format expected by Whisper
             inputs = processor(audio_data, return_tensors="pt", sampling_rate=RATE)
 
-            # Generate transcription
             with torch.no_grad():
                 generated_ids = model.generate(inputs.input_features)
                 transcription = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
             print("Transkrypcja: ", transcription)
-            return jsonify({'transcription': transcription})
+            # Send partial transcription here if needed
+
+        return jsonify({'transcription': transcription})
 
     except KeyboardInterrupt:
         print("Zatrzymano nagrywanie.")
