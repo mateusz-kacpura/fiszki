@@ -116,18 +116,15 @@ function checkImage(selectedWord, correctWord) {
     }
 
     // Load modal content from the Flask endpoint
-    fetch(`/modals/pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
+    fetch(`/modals/image-pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;
 
-            // Append the modal HTML to the body
             document.body.insertAdjacentHTML('beforeend', modalHTML);
 
-            // Show the modal
             $('#resultModal').modal('show');
 
-            // Hide the modal after 3 seconds and remove it from the DOM
             setTimeout(() => {
                 $('#resultModal').modal('hide');
                 $('#resultModal').on('hidden.bs.modal', () => {

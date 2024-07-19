@@ -87,7 +87,7 @@ function generateAnswerButtons(word) {
     });
 }
 
-function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
+function checkAnswer(selected, correct, fullSentence, exampleTranslation, theme = 'light') {
     const answerButtons = document.getElementById('answer-buttons');
     answerButtons.innerHTML = '';
 
@@ -97,57 +97,31 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
         existingModal.remove();
     }
 
-    // Determine the modal header class and message based on the answer correctness
-    const modalHeaderClass = selected === correct ? 'bg-success text-white' : 'bg-danger text-white';
-    const modalTitle = selected === correct ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
-    const modalMessage = selected === correct ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
-    const correctWordMessage = `<strong style="display: block; text-align: center;">${correct} <button style="margin-left: 10px;" onclick="playTextToSpeech('${correct}')"><i class="icon-sound"></i></button></strong>`;
-    const fullSentenceMessage = `<p style="text-align: center;">${fullSentence} <button style="margin-left: 10px;" onclick="playTextToSpeech('${fullSentence}')"><i class="icon-sound"></i></button></p>`;
-    const sentenceTranslation = `<p style="text-align: center;">${exampleTranslation} <button style="margin-left: 10px;" onclick="playTextToSpeech('${exampleTranslation}')"><i class="icon-sound"></i></button></p>`;
+    fetch(`/modals/insert-pop-up?selectedWord=${selected}&correctWord=${correct}&fullSentence=${fullSentence}&exampleTranslation=${exampleTranslation}&theme=${theme}`)
+        .then(response => response.json())
+        .then(data => {
+            const modalHTML = data.modal_html;
 
-    // Generate the modal HTML
-    const modalHTML =  `
-    <div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-        <div class="modal-content">
-            <div class="modal-header ${modalHeaderClass}">
-            <h5 class="modal-title" id="resultModalLabel">${modalTitle}</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-            </div>
-            <div class="modal-body ${modalBodyClass}">
-            <p>${modalMessage}</p>
-            <p>${correctWordMessage}</p>
-            ${fullSentenceMessage}
-            ${sentenceTranslation}
-            </div>
-        </div>
-        </div>
-    </div>
-    `;
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
 
-    // Append the modal HTML to the body
-    document.body.insertAdjacentHTML('beforeend', modalHTML);
+            $('#resultModal').modal('show');
+            document.getElementById('new-sentence-btn').style.display = 'block';
 
-    // Show the modal
-    $('#resultModal').modal('show');
-    document.getElementById('new-sentence-btn').style.display = 'block';
+            setTimeout(() => {
+                $('#resultModal').modal('hide');
+                $('#resultModal').on('hidden.bs.modal', () => {
+                    const modal = document.getElementById('resultModal');
+                    if (modal) {
+                        modal.remove();
+                    }
+                });
+            }, 15000);
 
-    // Hide the modal after 15 seconds and remove it from the DOM
-    setTimeout(() => {
-        $('#resultModal').modal('hide');
-        $('#resultModal').on('hidden.bs.modal', () => {
-            const modal = document.getElementById('resultModal');
-            if (modal) {
-                modal.remove();
+            if (selected === correct) {
+                excludedWords.push(currentWord);
             }
-        });
-    }, 15000);
-
-    if (selected === correct) {
-        excludedWords.push(currentWord);
-    }
+        })
+        .catch(error => console.error('Error loading modal:', error));
 }
 
 function playTextToSpeech(word) {

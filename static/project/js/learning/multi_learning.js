@@ -96,35 +96,57 @@ function generateAnswerButtons(correctWord, direction) {
 }
 
 function checkTranslation(userTranslation, correctTranslation) {
-  const resultElement = document.getElementById('result');
+  const modalContainer = document.getElementById('modal-container');
   const timestamp = new Date().toISOString();
   const isCorrect = userTranslation.toLowerCase() === correctTranslation.toLowerCase();
-  if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
-    console.log('Correct translation.');
-    resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
-    if (ttsCheckbox.checked && !audioCheckbox.checked) {    
-      playTextToSpeech(userTranslation);
-    }
-    if (audioCheckbox.checked && ttsCheckbox.checked) { 
-      const wordToTranslate = document.querySelector('.word-to-translate').textContent;   
-      playTextToSpeech(wordToTranslate);
-    }
-  } else {
-    console.log('Incorrect translation.');
-    resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="word-to-translate">${correctTranslation}</span>`;
-    if (ttsCheckbox.checked && !audioCheckbox.checked) {    
-      playTextToSpeech(userTranslation);
-    }
-    if (audioCheckbox.checked && ttsCheckbox.checked) {
-      const wordToTranslate = document.querySelector('.word-to-translate').textContent;  
-      playTextToSpeech(wordToTranslate);
-    }
+
+  const modalHeaderClass = isCorrect ? 'bg-success text-white' : 'bg-danger text-white';
+  const modalTitle = isCorrect ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
+  const modalMessage = isCorrect ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
+  const correctWordMessage = `<strong style="display: block; text-align: center;">${correctTranslation} <button style="margin-left: 10px;" onclick="playTextToSpeech('${correctTranslation}')"><i class="icon-sound"></i></button></strong>`;
+  
+  const fullSentenceMessage = ''; // Replace with actual full sentence if available
+  const sentenceTranslation = ''; // Replace with actual sentence translation if available
+
+  // Generate the modal HTML
+  const modalHTML = `
+    <div class="modal fade" id="resultModal" tabindex="-1" aria-labelledby="resultModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header ${modalHeaderClass}">
+            <h5 class="modal-title" id="resultModalLabel">${modalTitle}</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body ${theme === 'dark' ? 'bg-dark text-light' : ''}">
+            <p>${modalMessage}</p>
+            <p>${correctWordMessage}</p>
+            ${fullSentenceMessage}
+            ${sentenceTranslation}
+          </div>
+        </div>
+      </div>
+    </div>
+  `;
+
+  modalContainer.innerHTML = modalHTML;
+
+  // Initialize and show the modal
+  const resultModal = new bootstrap.Modal(document.getElementById('resultModal'));
+  resultModal.show();
+
+  // Handle Text-to-Speech based on checkboxes
+  if (ttsCheckbox.checked && !audioCheckbox.checked) {
+    playTextToSpeech(userTranslation);
   }
+  if (audioCheckbox.checked && ttsCheckbox.checked) {
+    playTextToSpeech(correctTranslation);
+  }
+
   sendStatistic({
-        word: reverseDirection ? correctTranslation : userTranslation,
-        correct: isCorrect,
-        timestamp: timestamp
-    });
+    word: reverseDirection ? correctTranslation : userTranslation,
+    correct: isCorrect,
+    timestamp: timestamp
+  });
 }
 
 function toggleDirection() {

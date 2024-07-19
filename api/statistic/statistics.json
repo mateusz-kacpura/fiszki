@@ -6843,5 +6843,80 @@
     "sentence": "The totals are listed",
     "correct": true,
     "timestamp": "2024-07-17T11:30:59.932Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-19T15:23:53.342Z"
+  },
+  {
+    "word": "podr\u00f3\u017c z powrotem do",
+    "correct": false,
+    "timestamp": "2024-07-19T15:39:20.856Z"
+  },
+  {
+    "word": "wioska po prawej stronie naprzeciwko",
+    "correct": false,
+    "timestamp": "2024-07-19T15:39:32.940Z"
+  },
+  {
+    "word": "dokonywanie oblicze\u0144",
+    "correct": false,
+    "timestamp": "2024-07-19T15:41:45.354Z"
+  },
+  {
+    "word": "nieparzyste liczby",
+    "correct": false,
+    "timestamp": "2024-07-19T15:41:49.765Z"
+  },
+  {
+    "word": "rozprawa",
+    "correct": false,
+    "timestamp": "2024-07-19T15:41:53.018Z"
+  },
+  {
+    "word": "wsp\u00f3lna/powszechny",
+    "correct": false,
+    "timestamp": "2024-07-19T15:44:26.231Z"
+  },
+  {
+    "word": "odzwierciedla\u0107",
+    "correct": false,
+    "timestamp": "2024-07-19T15:44:34.599Z"
+  },
+  {
+    "word": "instrument",
+    "correct": true,
+    "timestamp": "2024-07-19T15:44:43.606Z"
+  },
+  {
+    "word": "pr\u00f3by okre\u015blenia",
+    "correct": false,
+    "timestamp": "2024-07-19T15:49:22.472Z"
+  },
+  {
+    "word": "radykalny",
+    "correct": false,
+    "timestamp": "2024-07-19T16:05:05.718Z"
+  },
+  {
+    "word": "reprezentatywny",
+    "correct": false,
+    "timestamp": "2024-07-19T16:07:05.517Z"
+  },
+  {
+    "word": "pr\u00f3by okre\u015blenia",
+    "correct": false,
+    "timestamp": "2024-07-19T16:07:23.200Z"
+  },
+  {
+    "word": "zmienna losowa",
+    "correct": false,
+    "timestamp": "2024-07-19T16:08:44.996Z"
+  },
+  {
+    "word": "wyniki",
+    "correct": false,
+    "timestamp": "2024-07-19T16:08:54.959Z"
   }
 ]
