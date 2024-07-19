@@ -30,6 +30,9 @@ LOG_FOLDER = 'logi'
 STATISTICS_FILE ='api/statistic/statistics.json'
 SETTING_FILE ='api/setting/excludedWords.json'
 
+#MODELS 
+BARK_MODEL = "models/bark" # git clone https://huggingface.co/suno/bark
+
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["SUNO_USE_SMALL_MODELS"] = "1"
 
@@ -272,19 +275,20 @@ def text_to_speech():
 
             if torch.cuda.is_available():
                 # Run on GPU with cuda, required 12 GB vram
-                processor = AutoProcessor.from_pretrained("suno/bark")
+                # Zgodne z CUDA 12.0 / pytorch 2.0+  // Układy GPU Ampere, Ada lub Hopper (np. A100, RTX 3090, RTX 4090, H100). Wsparcie dla Turing GPU (T4, RTX 2080) już wkrótce, proszę użyć FlashAttention 1.x dla Turing GPU na razie.
+                processor = AutoProcessor.from_pretrained(BARK_MODEL)
                 # python -m pip install git+https://github.com/huggingface/optimum.git
                 # pip install -U flash-attn --no-build-isolation
                 
                 device = "cuda" if torch.cuda.is_available() else "cpu"
-                model = BarkModel.from_pretrained("suno/bark", torch_dtype=torch.float16, attn_implementation="flash_attention_2").to(device)
+                model = BarkModel.from_pretrained(BARK_MODEL, torch_dtype=torch.float16, attn_implementation="flash_attention_2").to(device)
             
                 # enable CPU offload / włącz dodatkowo obciążenie CPU
                 model.enable_cpu_offload()
             else:
                 # Run with CPU
-                processor = AutoProcessor.from_pretrained("suno/bark")
-                model = AutoModel.from_pretrained("suno/bark")
+                processor = AutoProcessor.from_pretrained(BARK_MODEL)
+                model = AutoModel.from_pretrained(BARK_MODEL)
             
             # voice_preset = "v2/en_speaker_6"
 
