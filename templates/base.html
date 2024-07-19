@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{% block title %}Language Quiz{% endblock %}</title>
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/animation.css') }}">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fontello-embedded.css') }}">
@@ -136,10 +136,19 @@
     {% endblock %}
 
   <!-- Bootstrap JS and jQuery -->
+<<<<<<< HEAD
   <script src="{{ url_for('static', filename='js/libs/jquery-3.7.1.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/libs/handsontable.full.js') }}"></script>
   <script src="{{ url_for('static', filename='js/libs/popper.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/libs/bootstrap.min.js') }}" ></script>
+=======
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+>>>>>>> parent of 12b53a4 (Krok numer jeden do umożliwienia otwierania programu offline)
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
   {% if additionalJS %}
     <script src="{{ additionalJS }}"></script>

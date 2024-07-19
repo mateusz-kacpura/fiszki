@@ -7,14 +7,13 @@ from flask_cors import CORS
 from flask import send_from_directory
 from werkzeug.utils import secure_filename
 from openpyxl import load_workbook
-from transformers import AutoProcessor, AutoModel, BarkModel
+from transformers import AutoProcessor, AutoModel, BarkModel, WhisperProcessor, WhisperForConditionalGeneration
 import torch
 from scipy.io.wavfile import write
 from pydub import AudioSegment
 import nltk
 from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
-import whisper
 import pyaudio
 import numpy as np
 import scipy
@@ -32,6 +31,7 @@ SETTING_FILE ='api/setting/excludedWords.json'
 
 #MODELS 
 BARK_MODEL = "models/bark" # git clone https://huggingface.co/suno/bark
+WHISPER_MEDIUM = "models/whisper-medium" # git clone https://huggingface.co/openai/whisper-medium
 
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["SUNO_USE_SMALL_MODELS"] = "1"
@@ -85,9 +85,9 @@ upload_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %
 upload_handler.setFormatter(upload_formatter)
 upload_logger.addHandler(upload_handler)
 
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
+#nltk.download('punkt')
+# nltk.download('wordnet')
+# nltk.download('averaged_perceptron_tagger')
 
 lemmatizer = WordNetLemmatizer()
 
@@ -210,8 +210,12 @@ def audio_files(filename):
 
 @app.route('/real-time-speech-recognition', methods=['POST'])
 def real_time_speech_recognition():
+    
+    # Load the model and processor
+    processor = WhisperProcessor.from_pretrained(WHISPER_MEDIUM)
+    model = WhisperForConditionalGeneration.from_pretrained(WHISPER_MEDIUM)
+
     try:
-        model = whisper.load_model("medium")
         CHUNK = 1024
         FORMAT = pyaudio.paInt16
         CHANNELS = 1
@@ -229,9 +233,17 @@ def real_time_speech_recognition():
         while True:
             data = stream.read(CHUNK)
             audio_data = np.frombuffer(data, dtype=np.int16)
-            result = model.transcribe(audio_data, language='pl')
-            print("Transkrypcja: ", result["text"])
-            return jsonify({'transcription': result["text"]})
+
+            # Convert audio data to the format expected by Whisper
+            inputs = processor(audio_data, return_tensors="pt", sampling_rate=RATE)
+
+            # Generate transcription
+            with torch.no_grad():
+                generated_ids = model.generate(inputs.input_features)
+                transcription = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
+
+            print("Transkrypcja: ", transcription)
+            return jsonify({'transcription': transcription})
 
     except KeyboardInterrupt:
         print("Zatrzymano nagrywanie.")
@@ -242,7 +254,6 @@ def real_time_speech_recognition():
 
     except Exception as e:
         print(f"Error in real-time speech recognition: {e}")
-        logging.error(f"Error in real-time speech recognition: {e}")
         return jsonify({'error': 'Failed to process speech'}), 500
 
     finally:
