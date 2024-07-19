@@ -209,7 +209,7 @@ def audio_files(filename):
 # <--                          !-->
 
 @app.route('/modals/image-pop-up', methods=['GET'])
-def load_modal():
+def image_pop_up():
     # print(os.path.abspath('templates/learning/modals/pop-up.html'))
     # Pobierz parametry modalnego okienka
     selectedWord = request.args.get('selectedWord')
@@ -255,6 +255,33 @@ def insert_pop_up():
         fullSentenceMessage=fullSentenceMessage,
         sentenceTranslation=sentenceTranslation,
         modalBodyClass=modalBodyClass
+    )
+    return jsonify({'modal_html': modal_html})
+
+@app.route('/modals/multi-pop-up', methods=['GET'])
+def multi_pop_up():
+    # Pobierz parametry modalnego okienka
+    userTranslation = request.args.get('userTranslation')
+    correctTranslation = request.args.get('correctTranslation')
+    theme = request.args.get('theme', 'light')
+    isCorrect = userTranslation.lower() == correctTranslation.lower()
+    modalHeaderClass = 'bg-success text-white' if isCorrect else 'bg-danger text-white'
+    modalTitle = 'Poprawna odpowiedź!' if isCorrect else 'Nieprawidłowa odpowiedź!'
+    modalMessage = modalTitle
+    correctWordMessage = correctTranslation
+    fullSentenceMessage = ''  # Możesz tu dodać pełne zdanie, jeśli jest dostępne
+    sentenceTranslation = ''  # Możesz tu dodać tłumaczenie zdania, jeśli jest dostępne
+
+    # Renderuj szablon modalnego okienka
+    modal_html = render_template(
+        'learning/modals/multi-pop-up.html',
+        modalHeaderClass=modalHeaderClass,
+        modalTitle=modalTitle,
+        modalMessage=modalMessage,
+        correctTranslation=correctWordMessage,
+        fullSentenceMessage=fullSentenceMessage,
+        sentenceTranslation=sentenceTranslation,
+        theme=theme
     )
     return jsonify({'modal_html': modal_html})
 

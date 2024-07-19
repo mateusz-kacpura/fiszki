@@ -6918,5 +6918,40 @@
     "word": "wyniki",
     "correct": false,
     "timestamp": "2024-07-19T16:08:54.959Z"
+  },
+  {
+    "word": "znacznie mniej",
+    "correct": false,
+    "timestamp": "2024-07-19T16:11:04.480Z"
+  },
+  {
+    "word": "cechy/w\u0142a\u015bciwo\u015bci",
+    "correct": true,
+    "timestamp": "2024-07-19T16:11:11.316Z"
+  },
+  {
+    "word": "znacznie mniej",
+    "correct": false,
+    "timestamp": "2024-07-19T16:11:15.521Z"
+  },
+  {
+    "word": "nieznacznie mniej",
+    "correct": false,
+    "timestamp": "2024-07-19T16:11:18.755Z"
+  },
+  {
+    "word": "cechy/w\u0142a\u015bciwo\u015bci",
+    "correct": true,
+    "timestamp": "2024-07-19T16:11:21.948Z"
+  },
+  {
+    "word": "cechy/w\u0142a\u015bciwo\u015bci",
+    "correct": true,
+    "timestamp": "2024-07-19T16:11:28.271Z"
+  },
+  {
+    "word": "energia s\u0142oneczna obok energii konwencjonalnej",
+    "correct": true,
+    "timestamp": "2024-07-19T19:43:27.050Z"
   }
 ]

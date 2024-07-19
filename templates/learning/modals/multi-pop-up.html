@@ -1,0 +1,22 @@
+<!-- templates/learning/modals/multi-modal.html -->
+<div class="modal fade" id="resultModal" tabindex="-1" aria-labelledby="resultModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header {{ modalHeaderClass }}">
+          <h5 class="modal-title" id="resultModalLabel">{{ modalTitle }}</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body {{ 'bg-dark text-light' if theme == 'dark' else '' }}">
+          <p>{{ modalMessage }}</p>
+          <p><strong style="display: block; text-align: center;">{{ correctTranslation }}
+            <button style="margin-left: 10px;" onclick="playTextToSpeech('{{ correctTranslation }}')">
+              <i class="icon-sound"></i>
+            </button>
+          </strong></p>
+          {{ fullSentenceMessage|safe }}
+          {{ sentenceTranslation|safe }}
+        </div>
+      </div>
+    </div>
+  </div>
+  

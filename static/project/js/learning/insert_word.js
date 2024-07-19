@@ -123,8 +123,3 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation, theme 
         })
         .catch(error => console.error('Error loading modal:', error));
 }
-
-function playTextToSpeech(word) {
-    const msg = new SpeechSynthesisUtterance(word);
-    window.speechSynthesis.speak(msg);
-}
