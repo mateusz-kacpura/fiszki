@@ -1,0 +1,8 @@
+import os
+
+UPLOAD_FOLDER = 'uploads'
+IMAGE_FOLDER = 'image_files'
+AUDIO_FOLDER = 'audio_files'
+LOG_FOLDER = 'logi'
+STATISTICS_FILE = 'api/statistic/statistics.json'
+SETTING_FILE = 'api/setting/excludedWords.json'

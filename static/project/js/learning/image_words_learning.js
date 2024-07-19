@@ -108,32 +108,6 @@ function checkImage(selectedWord, correctWord) {
         existingModal.remove();
     }
 
-    // Determine the modal header class and message based on the answer correctness
-    const modalHeaderClass = selectedWord === correctWord ? 'bg-success text-white' : 'bg-danger text-white';
-    const modalTitle = selectedWord === correctWord ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
-    const modalMessage = selectedWord === correctWord ? 'Poprawna odpowiedź!' : 'Nieprawidłowa odpowiedź!';
-    const correctWordMessage = `<strong style="display: block; text-align: center;">${correctWord}</strong>`;
-
-    // Generate the modal HTML
-    const modalHTML = `
-      <div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-          <div class="modal-content">
-            <div class="modal-header ${modalHeaderClass}">
-              <h5 class="modal-title" id="resultModalLabel">${modalTitle}</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body ${theme === 'dark'? 'bg-dark text-light' : ''}">
-              <p>${modalMessage}</p>
-              <p>${correctWordMessage}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    `;
-
     if (ttsCheckbox.checked && !audioCheckbox.checked) {    
         playTextToSpeech(selectedWord);
     }
@@ -141,23 +115,31 @@ function checkImage(selectedWord, correctWord) {
         playTextToSpeech(correctWord);
     }
 
-    // Append the modal HTML to the body
-    document.body.insertAdjacentHTML('beforeend', modalHTML);
+    // Load modal content from the Flask endpoint
+    fetch(`/modals/pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
+        .then(response => response.json())
+        .then(data => {
+            const modalHTML = data.modal_html;
 
-    // Show the modal
-    $('#resultModal').modal('show');
+            // Append the modal HTML to the body
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
 
-    // Hide the modal after 3 seconds and remove it from the DOM
-    setTimeout(() => {
-        $('#resultModal').modal('hide');
-        $('#resultModal').on('hidden.bs.modal', () => {
-            const modal = document.getElementById('resultModal');
-            if (modal) {
-                modal.remove();
-            }
-            generateRandomWord();
-        });
-    }, 3000);
+            // Show the modal
+            $('#resultModal').modal('show');
+
+            // Hide the modal after 3 seconds and remove it from the DOM
+            setTimeout(() => {
+                $('#resultModal').modal('hide');
+                $('#resultModal').on('hidden.bs.modal', () => {
+                    const modal = document.getElementById('resultModal');
+                    if (modal) {
+                        modal.remove();
+                    }
+                    generateRandomWord();
+                });
+            }, 3000);
+        })
+        .catch(error => console.error('Error loading modal:', error));
 }
 
 function toggleDirection() {
@@ -170,10 +152,6 @@ function removeCurrentWord() {
     excludedWords.push(currentWord.word);
     generateRandomWord();
   }
-}
-
-function toggleTheme() {
-  document.body.classList.toggle('dark-theme');
 }
 
 function fetchExcludedWords() {

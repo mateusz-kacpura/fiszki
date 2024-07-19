@@ -208,6 +208,28 @@ def audio_files(filename):
     return send_from_directory('audio_files', filename)
 # <--                          !-->
 
+@app.route('/modals/pop-up', methods=['GET'])
+def load_modal():
+    # print(os.path.abspath('templates/learning/modals/pop-up.html'))
+    # Pobierz parametry modalnego okienka
+    selectedWord = request.args.get('selectedWord')
+    correctWord = request.args.get('correctWord')
+    theme = request.args.get('theme', 'light')
+    modalHeaderClass = 'bg-success text-white' if selectedWord == correctWord else 'bg-danger text-white'
+    modalTitle = 'Poprawna odpowiedź!' if selectedWord == correctWord else 'Nieprawidłowa odpowiedź!'
+    modalMessage = modalTitle
+    
+    # Renderuj szablon modalnego okienka
+    modal_html = render_template(
+        'learning/modals/pop-up.html',
+        modalHeaderClass=modalHeaderClass,
+        modalTitle=modalTitle,
+        modalMessage=modalMessage,
+        correctWord=correctWord,
+        theme=theme
+    )
+    return jsonify({'modal_html': modal_html})
+
 # funkcja nie działa w pełni offline pomimo pobrania repozytoriów whisper do folderu models
 @app.route('/real-time-speech-recognition', methods=['POST'])
 def real_time_speech_recognition():
@@ -530,86 +552,3 @@ def upload_file():
 
 if __name__ == '__main__':
     app.run(debug=True, port=3000)
-
-
-
-
-"""
-TEN KOD UMOŻLIWIA KORZYSTANIE Z INNEGO MODELU DO ZAMIANY TEKSTU NA MOWĘ, KTÓRY JEST LEPSZY ALE WYMAGA KARTY GRAFICZNEJ
-THIS CODE ALLOWS YOU TO USE A DIFFERENT TEXT TO SPEECH MODEL THAT IS BETTER BUT REQUIRES A GRAPHICS CARD
-
-You need install:
-pip install -U encodec # stable release
-pip install -U git+https://git@github.com/facebookresearch/encodec#egg=encodec
-pip install .
-
-and next
-
-pip install -U Pipeline
-
-from pydub import AudioSegment
-import scipy.io.wavfile
-from pydub import AudioSegment
-import torch
-from whisperspeech.pipeline import Pipeline
-
-# Check if running in Google Colab
-def is_colab():
-    try:
-        import google.colab
-        return True
-    except ImportError:
-        return False
-
-# Ensure CUDA is available
-if not torch.cuda.is_available():
-    if is_colab():
-        raise BaseException("Please change the runtime type to GPU. In the menu: Runtime -> Change runtime type (the free T4 instance is enough)")
-    else:
-        raise BaseException("Currently the example notebook requires CUDA, make sure you are running this on a machine with a GPU.")
-
-try:
-    from encodec import EncodecModel
-    print("EncodecModel imported successfully.")
-except ImportError as e:
-    print(f"ImportError: {e}")
-
-# Initialize WhisperSpeech Pipeline
-pipe = Pipeline(s2a_ref='collabora/whisperspeech:s2a-q4-tiny-en+pl.model')
-
-@app.route('/text-to-speech', methods=['POST'])
-def text_to_speech():
-    print("Received request to convert text to speech")
-    text = request.json.get('text', '')
-    print(f"Received text: {text}")
-    if not text:
-        print("Error: No text provided")
-        return jsonify({'error': 'No text provided'}), 400
-    
-    try:
-        audio_filename = f"{text.replace(' ', '_')}.mp3"
-        audio_path = os.path.join(AUDIO_FOLDER, audio_filename)
-
-        if not os.path.exists(audio_path):
-            print("Generating audio...")
-
-            stoks = pipe.t2s.generate([text])
-            audio_data = pipe.vocoder.decode(pipe.s2a.generate(stoks, pipe.default_speaker.unsqueeze(0)))
-
-            wav_path = os.path.join(AUDIO_FOLDER, f"{text.replace(' ', '_')}.wav")
-            scipy.io.wavfile.write(wav_path, rate=pipe.sample_rate, data=audio_data.squeeze().cpu().numpy())
-
-            audio_segment = AudioSegment.from_wav(wav_path)
-            audio_segment.export(audio_path, format="mp3")
-
-            print(f"Saving audio to file: {audio_path}")
-            
-            return jsonify({'audio_path': audio_path})
-        else:
-            print(f"Audio file already exists: {audio_path}")
-            return jsonify({'audio_path': audio_path})
-    except Exception as e:
-        print(f"Error in text-to-speech: {e}")
-        return jsonify({'error': 'Failed to generate speech'}), 500
-
-"""        
