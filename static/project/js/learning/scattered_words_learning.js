@@ -112,7 +112,9 @@ let sentences = [];
     
       const resultModal = new bootstrap.Modal(document.getElementById('resultModal'));
       resultModal.show();
-    
+
+    if (isCorrect) {
+
       if (ttsCheckbox.checked && !audioCheckbox.checked) {
         if (constructedSentence && constructedSentence.trim() !== "") {
           playTextToSpeech(constructedSentence);
@@ -135,8 +137,8 @@ let sentences = [];
         timestamp: timestamp
       });
     
-      if (isCorrect) {
-        setTimeout(() => {
+      
+      setTimeout(() => {
           generateRandomSentence();
           const resultModalInstance = bootstrap.Modal.getInstance(document.getElementById('resultModal'));
           resultModalInstance.hide();
@@ -146,7 +148,7 @@ let sentences = [];
               modal.remove();
             }
           });
-        }, 15000);
+        }, 5000);
       }
     }    
 
