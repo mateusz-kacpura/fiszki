@@ -6958,5 +6958,65 @@
     "word": "energia s\u0142oneczna obok energii konwencjonalnej",
     "correct": true,
     "timestamp": "2024-07-20T05:45:20.842Z"
+  },
+  {
+    "sentence": "Contact details",
+    "correct": true,
+    "timestamp": "2024-07-20T07:49:30.460Z"
+  },
+  {
+    "sentence": "Legibly",
+    "correct": true,
+    "timestamp": "2024-07-20T07:56:45.406Z"
+  },
+  {
+    "sentence": "Legibly",
+    "correct": true,
+    "timestamp": "2024-07-20T07:56:51.906Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-20T07:57:02.252Z"
+  },
+  {
+    "sentence": "Standpoint",
+    "correct": true,
+    "timestamp": "2024-07-20T08:03:24.439Z"
+  },
+  {
+    "sentence": "Standpoint",
+    "correct": true,
+    "timestamp": "2024-07-20T08:03:32.839Z"
+  },
+  {
+    "sentence": "Unearthed",
+    "correct": true,
+    "timestamp": "2024-07-20T08:03:45.437Z"
+  },
+  {
+    "sentence": "Decline",
+    "correct": true,
+    "timestamp": "2024-07-20T08:03:50.942Z"
+  },
+  {
+    "sentence": "Refer to",
+    "correct": true,
+    "timestamp": "2024-07-20T08:04:04.443Z"
+  },
+  {
+    "sentence": "Detailed",
+    "correct": true,
+    "timestamp": "2024-07-20T08:04:09.157Z"
+  },
+  {
+    "sentence": "An approach",
+    "correct": true,
+    "timestamp": "2024-07-20T08:04:45.601Z"
+  },
+  {
+    "sentence": "Notably",
+    "correct": true,
+    "timestamp": "2024-07-20T08:05:05.366Z"
   }
 ]
