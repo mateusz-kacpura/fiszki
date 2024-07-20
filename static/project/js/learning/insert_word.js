@@ -87,7 +87,7 @@ function generateAnswerButtons(word) {
     });
 }
 
-function checkAnswer(selected, correct, fullSentence, exampleTranslation, theme = 'light') {
+function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
     const answerButtons = document.getElementById('answer-buttons');
     answerButtons.innerHTML = '';
 
