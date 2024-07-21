@@ -48,6 +48,8 @@ function fetchData() {
     reader.readAsText(file);
 }
 
+let currentWordData = {}; // Store current word data for editing
+
 function generateRandomWord() {
     const availableWords = words.filter(word => !excludedWords.includes(word.lemma));
     if (availableWords.length === 0) {
@@ -57,11 +59,12 @@ function generateRandomWord() {
     const randomIndex = Math.floor(Math.random() * availableWords.length);
     const randomWord = availableWords[randomIndex];
     currentWord = randomWord.lemma;
+    currentWordData = randomWord; // Store the current word data
 
     document.getElementById('result').innerText = '';
     const sentenceWithBlank = randomWord.example.replace(new RegExp(randomWord.word, 'i'), '______');
     document.getElementById('example-sentence-text').innerText = sentenceWithBlank;
-    // document.getElementById('new-sentence-btn').style.display = 'none';
+    document.getElementById('new-sentence-btn').style.display = 'none';
 
     generateAnswerButtons(randomWord);
 }
@@ -106,6 +109,7 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
 
             $('#resultModal').modal('show');
             document.getElementById('new-sentence-btn').style.display = 'block';
+            document.getElementById('edit-word-btn').style.display = 'block'; // Show the Edit button
 
             setTimeout(() => {
                 $('#resultModal').modal('hide');
@@ -122,4 +126,55 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
             }
         })
         .catch(error => console.error('Error loading modal:', error));
+}
+
+let originalWordData = {};
+
+function openEditModal(wordData) {
+    originalWordData = { ...wordData }; // Save a copy of the original data for undo functionality
+
+    document.getElementById('edit-language').value = wordData.language || '';
+    document.getElementById('edit-translation-language').value = wordData.translationLanguage || '';
+    document.getElementById('edit-word').value = wordData.word || '';
+    document.getElementById('edit-translation').value = wordData.translation || '';
+    document.getElementById('edit-definition').value = wordData.definition || '';
+    document.getElementById('edit-example').value = wordData.example || '';
+    document.getElementById('edit-example-translation').value = wordData.example_translation || '';
+    document.getElementById('edit-image-link').value = wordData.imageLink || '';
+    document.getElementById('edit-audio-link').value = wordData.audioLink || '';
+
+    let editWordModal = new bootstrap.Modal(document.getElementById('editWordModal'));
+    editWordModal.show();
+}
+
+function clearForm() {
+    document.getElementById('edit-word-form').reset();
+}
+
+function revertChanges() {
+    openEditModal(originalWordData);
+}
+
+function saveChanges() {
+    let editedWord = {
+        language: document.getElementById('edit-language').value,
+        translationLanguage: document.getElementById('edit-translation-language').value,
+        word: document.getElementById('edit-word').value,
+        translation: document.getElementById('edit-translation').value,
+        definition: document.getElementById('edit-definition').value,
+        example: document.getElementById('edit-example').value,
+        example_translation: document.getElementById('edit-example-translation').value,
+        imageLink: document.getElementById('edit-image-link').value,
+        audioLink: document.getElementById('edit-audio-link').value,
+    };
+
+    // Update the word in the words array
+    let index = words.findIndex(word => word.lemma === originalWordData.lemma);
+    if (index !== -1) {
+        words[index] = { ...words[index], ...editedWord };
+    }
+
+    // Optionally, you could send the updated word to the backend to save changes permanently
+
+    $('#editWordModal').modal('hide');
 }
