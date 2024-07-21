@@ -1,5 +1,4 @@
 let theme = 'light'; // default theme
-
 let modalBodyClass = '';
 
 function toggleTheme() {
@@ -22,6 +21,9 @@ function toggleTheme() {
     });
     document.querySelectorAll('.modal-body').forEach(body => {
       body.classList.add('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.table').forEach(table => {
+      table.classList.add('table-dark');
     });
     document.querySelectorAll('.correct-word-message').forEach(message => {
       message.classList.remove('bg-success');
@@ -50,6 +52,9 @@ function toggleTheme() {
     });
     document.querySelectorAll('.modal-body').forEach(body => {
       body.classList.remove('bg-dark', 'text-light');
+    });
+    document.querySelectorAll('.table').forEach(table => {
+      table.classList.remove('table-dark');
     });
     document.querySelectorAll('.correct-word-message').forEach(message => {
       message.classList.add('bg-success');

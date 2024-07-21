@@ -129,6 +129,62 @@ function undoChanges() {
     populateTable(originalData);
 }
 
+// Function to show the column mapping modal
+function showColumnMappingModal() {
+    let fileInput = $('#upload-excel')[0];
+    if (fileInput.files.length === 0) {
+        alert('Please select a file.');
+        return;
+    }
+
+    // Assuming you have a way to read the Excel file and get the column names.
+    let reader = new FileReader();
+    reader.onload = function(e) {
+        let data = e.target.result;
+        let workbook = XLSX.read(data, { type: 'binary' });
+        let firstSheet = workbook.Sheets[workbook.SheetNames[0]];
+        let excelData = XLSX.utils.sheet_to_json(firstSheet, { header: 1 });
+
+        // Extract column headers
+        let columns = excelData[0];
+        populateColumnMappingForm(columns);
+
+        // Show the modal
+        let columnMappingModal = new bootstrap.Modal(document.getElementById('columnMappingModal'));
+        columnMappingModal.show();
+    };
+    reader.readAsBinaryString(fileInput.files[0]);
+}
+
+// Function to populate the column mapping form
+function populateColumnMappingForm(columns) {
+    let form = $('#column-mapping-form');
+    form.empty();
+
+    columns.forEach(col => {
+        let formGroup = $('<div class="mb-3"></div>');
+        let label = $('<label></label>').addClass('form-label').text(col);
+        let select = $('<select></select>').addClass('form-select').attr('name', col);
+
+        // Add options for mapping (customize these options as needed)
+        select.append('<option value="">Do not map</option>');
+        select.append('<option value="Language">Language</option>');
+        select.append('<option value="Translation Language">Translation Language</option>');
+        select.append('<option value="Word">Word</option>');
+        select.append('<option value="Translation">Translation</option>');
+        select.append('<option value="Definition">Definition</option>');
+        select.append('<option value="Example">Example</option>');
+        select.append('<option value="Example Translation">Example Translation</option>');
+        select.append('<option value="Image Link">Image Link</option>');
+        select.append('<option value="Audio Link">Audio Link</option>');
+
+        formGroup.append(label);
+        formGroup.append(select);
+        form.append(formGroup);
+    });
+}
+
+// Function to upload Excel file with column mapping
 function uploadExcel() {
     let fileInput = $('#upload-excel')[0];
     if (fileInput.files.length === 0) {
@@ -137,6 +193,12 @@ function uploadExcel() {
     }
     let formData = new FormData();
     formData.append('file', fileInput.files[0]);
+
+    // Get column mapping data
+    let columnMapping = $('#column-mapping-form').serializeArray();
+    columnMapping.forEach(item => {
+        formData.append(item.name, item.value);
+    });
 
     $.ajax({
         url: '/upload_excel',
@@ -149,6 +211,13 @@ function uploadExcel() {
             fetchData();  // Refresh the data after uploading the file
         }
     });
+}
+
+// Function to submit column mapping and upload the file
+function submitColumnMapping() {
+    let columnMappingModal = bootstrap.Modal.getInstance(document.getElementById('columnMappingModal'));
+    columnMappingModal.hide();
+    uploadExcel();
 }
 
 function uploadJson() {

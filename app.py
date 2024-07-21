@@ -611,12 +611,22 @@ def delete_data(index):
     del data[index]
     return jsonify(data)
 
+data = []
+
 @app.route('/upload_excel', methods=['POST'])
 def upload_excel():
     file = request.files['file']
     df = pd.read_excel(file)
+    print (df)
+    # Extract column mapping from the form data
+    column_mapping = request.form.to_dict()
+    
+    # Apply column mapping to the DataFrame
+    df = df.rename(columns=column_mapping)
+    
     global data
     data = df.to_dict(orient='records')
+    
     return jsonify(data)
 
 @app.route('/upload_json', methods=['POST'])
