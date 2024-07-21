@@ -12,7 +12,7 @@ with open(json_file_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Extract words
-words = [entry["word"] for entry in data]
+words = [entry["example"] for entry in data]
 
 # URL for the text_to_speech function (assuming it's hosted as a web service)
 text_to_speech_url = "http://127.0.0.1:3000/text-to-speech"  # Replace with actual URL

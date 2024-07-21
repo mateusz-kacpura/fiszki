@@ -7228,5 +7228,50 @@
     "sentence": "Over an eight-year period",
     "correct": true,
     "timestamp": "2024-07-20T08:52:03.912Z"
+  },
+  {
+    "sentence": "The weather can affect crop yields.",
+    "correct": true,
+    "timestamp": "2024-07-20T12:45:21.614Z"
+  },
+  {
+    "sentence": "The product is available in several colors.",
+    "correct": true,
+    "timestamp": "2024-07-20T12:45:55.332Z"
+  },
+  {
+    "sentence": "Please ensure that all lights are turned off before you leave.",
+    "correct": true,
+    "timestamp": "2024-07-20T12:48:30.179Z"
+  },
+  {
+    "sentence": "She is very involved in community activities.",
+    "correct": true,
+    "timestamp": "2024-07-20T12:52:26.950Z"
+  },
+  {
+    "sentence": "The job attracted various candidates.",
+    "correct": true,
+    "timestamp": "2024-07-20T12:52:38.076Z"
+  },
+  {
+    "sentence": "By no means is this project complete.",
+    "correct": true,
+    "timestamp": "2024-07-20T12:55:27.399Z"
+  },
+  {
+    "sentence": "The longitudinal study tracked participants' health over 20 years.",
+    "correct": true,
+    "timestamp": "2024-07-20T13:07:11.600Z"
+  },
+  {
+    "sentence": "The study attempts to disprove the theory.",
+    "correct": true,
+    "timestamp": "2024-07-20T13:08:40.530Z"
+  },
+  {
+    "sentence": "The bacteria can multiply rapidly under the right conditions.",
+    "correct": true,
+    "timestamp": "2024-07-20T13:10:29.197Z"
   }
 ]
