@@ -65,7 +65,7 @@ function generateRandomWord() {
     const sentenceWithBlank = randomWord.example.replace(new RegExp(randomWord.word, 'i'), '______');
     document.getElementById('example-sentence-text').innerText = sentenceWithBlank;
     document.getElementById('new-sentence-btn').style.display = 'none';
-
+    document.getElementById('edit-word-btn').style.display = 'none';
     generateAnswerButtons(randomWord);
 }
 

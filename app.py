@@ -229,7 +229,7 @@ def insert_pop_up():
 
     modalHeaderClass = 'bg-success text-white' if selectedWord == correctWord else 'bg-danger text-white'
     modalTitle = 'Correct Answer!' if selectedWord == correctWord else 'Incorrect Answer!'
-    modalMessage = f'The word was {correctWord}' if selectedWord != correctWord else ''
+    modalMessage = f'Your choise: {selectedWord}' if selectedWord != correctWord else ''
 
     modal_html = render_template(
         'learning/modals/insert-pop-up.html',
