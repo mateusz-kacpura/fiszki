@@ -17,6 +17,7 @@ from nltk.stem import WordNetLemmatizer
 import pyaudio
 import numpy as np
 import scipy
+import pandas as pd 
 
 app = Flask(__name__)
 CORS(app)
@@ -153,14 +154,6 @@ def scattered_words_learning():
 def insert_word():
     return render_template('learning/insert_word.html')
 
-@app.route('/manage/add_lists_words')
-def add_lists_word():
-    return render_template('manage/add_lists_words.html', title="Masowe Dodawanie Słów")
-
-@app.route('/manage/add_new_word')
-def add_new_word():
-    return render_template('manage/add_new_word.html', title="Dodaj Nowe Słowo")
-
 @app.route('/learning/single_word_learning')
 def single_word_learning():
     return render_template('learning//single_word_learning.html', title="Language Quiz")
@@ -169,13 +162,9 @@ def single_word_learning():
 def image_words_learning():
     return render_template('learning/image_words_learning.html', title="Image learning")
 
-@app.route('/manage/read_from_file')
-def read_from_file():
-    return render_template('manage/read_from_file.html', title="Wczytaj Dane z Pliku Excel")
-
-@app.route('/manage/edit_list_words')
-def edit_list_words():
-    return render_template('manage/edit_list_words.html', title="Edit JSON Data")
+@app.route('/manage/exel')
+def exel():
+    return render_template('manage/exel.html', title="Excel")
 
 @app.route('/api/setting/<path:filename>')
 def get_excluded_words(filename):
@@ -497,25 +486,6 @@ def load_image_paths():
         log_to_file(app_logger, f'Error in load_image_paths: {e}')
         return jsonify({"error": "Internal Server Error"}), 500
 
-# Endpoint do zapisywania JSON
-@app.route('/uploads-save-json', methods=['POST'])
-def uploads_save_json():
-    data = request.get_json()
-    file_name = data.get('fileName', 'data.json')
-    json_data = data.get('data')
-
-    try:
-        file_path = os.path.join(UPLOAD_FOLDER, f"{file_name}.json")
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(json_data)
-        # Logowanie zapisu pliku
-        upload_logger.info(f"Plik zapisany: {file_path}")
-        return jsonify(success=True)
-    except Exception as e:
-        # Logowanie błędu
-        upload_logger.error(f"Błąd podczas zapisywania pliku: {e}")
-        return jsonify(success=False)
-
 @app.route('/save', methods=['POST'])
 def save_json():
     file_name = request.json['fileName']
@@ -600,6 +570,80 @@ def upload_file():
     for row in sheet.iter_rows(values_only=True):
         data.append(row)
     return jsonify({'columns': data[0]})
+
+data = [
+    {
+        "language": "English",
+        "translationLanguage": "Polish",
+        "word": "Include",
+        "translation": "zawierać",
+        "definition": "To contain something as a part of something else.",
+        "example": "The report includes several recommendations.",
+        "example_translation": "Raport zawiera kilka zaleceń.",
+        "imageLink": "image_files/include.jpg",
+        "audioLink": "audio_files/include.mp3"
+    }
+    # Dodaj więcej obiektów w miarę potrzeby
+]
+
+@app.route('/data', methods=['GET'])
+def get_data():
+    page = int(request.args.get('page', 1))
+    per_page = int(request.args.get('per_page', 5))
+    start = (page - 1) * per_page
+    end = start + per_page
+    return jsonify(data[start:end])
+
+@app.route('/data', methods=['POST'])
+def add_data():
+    new_item = request.json
+    data.append(new_item)
+    return jsonify(data)
+
+@app.route('/data/<int:index>', methods=['PUT'])
+def update_data(index):
+    updated_item = request.json
+    data[index] = updated_item
+    return jsonify(data)
+
+@app.route('/data/<int:index>', methods=['DELETE'])
+def delete_data(index):
+    del data[index]
+    return jsonify(data)
+
+@app.route('/upload_excel', methods=['POST'])
+def upload_excel():
+    file = request.files['file']
+    df = pd.read_excel(file)
+    global data
+    data = df.to_dict(orient='records')
+    return jsonify(data)
+
+@app.route('/upload_json', methods=['POST'])
+def upload_json():
+    file = request.files['file']
+    global data
+    data = json.load(file)
+    return jsonify(data)
+
+@app.route('/data/count', methods=['GET'])
+def get_data_count():
+    return jsonify(len(data))
+
+@app.route('/upload-save-json', methods=['POST'])
+def upload_save_json():
+    global data
+    data = request.json
+    with open('data.json', 'w') as f:
+        json.dump(data, f)
+    return jsonify({"success": True})
+
+@app.route('/translate-word', methods=['GET'])
+def translate_word():
+    word = request.args.get('word')
+    target_lang = request.args.get('targetLang')
+    # translation = translate(word, target_lang)
+    # return jsonify(translation)
 
 if __name__ == '__main__':
     app.run(debug=True, port=3000)

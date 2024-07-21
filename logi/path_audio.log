@@ -749,3 +749,8 @@
 2024-07-17 09:05:28,424 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/submit.mp3 to audio_files\submit.mp3
 2024-07-17 09:05:28,902 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/legibly.mp3 to audio_files\legibly.mp3
 2024-07-17 09:05:29,166 - audio_logger - INFO - Downloaded audio: https://www.ang.pl/sound/dict/distinguish.mp3 to audio_files\distinguish.mp3
+2024-07-21 22:05:24,293 - audio_logger - INFO - File already exists: audio_files\include.mp3
+2024-07-21 22:05:24,577 - audio_logger - INFO - Failed to download audio from: https://www.diki.pl/images-common/en/mp3/come_to/reach_a_conclusion.mp3
+2024-07-21 22:05:24,577 - audio_logger - INFO - File already exists: audio_files\conclude.mp3
+2024-07-21 22:05:24,577 - audio_logger - INFO - File already exists: audio_files\particular.mp3
+2024-07-21 22:05:24,577 - audio_logger - INFO - File already exists: audio_files\for-instance.mp3
