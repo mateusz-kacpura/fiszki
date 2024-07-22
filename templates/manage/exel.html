@@ -25,6 +25,7 @@
         <button id="translateRows" class="btn btn-warning mt-2">Translate Rows</button>  
         <button id="search" class="btn btn-primary mt-2">Search</button>
         <button class="btn btn-secondary mt-2" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+        <button class="btn btn-secondary mt-2" onclick="showDownloadOptionsModal()">Download Configuration</button><br>
     </div>
     <table class="table table-bordered mt-4" id="data-table">
         <thead>
@@ -240,6 +241,44 @@
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal fade" id="downloadOptionsModal" tabindex="-1" aria-labelledby="downloadOptionsModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="downloadOptionsModalLabel">Download Configuration</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>Select the format to download the configuration:</p>
+          <form id="download-options-form">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="format" id="format-json" value="json" checked>
+              <label class="form-check-label" for="format-json">
+                JSON
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="format" id="format-excel" value="excel">
+              <label class="form-check-label" for="format-excel">
+                Excel (.xlsx)
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="format" id="format-csv" value="csv">
+              <label class="form-check-label" for="format-csv">
+                CSV
+              </label>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-primary" onclick="downloadConfiguration()">Download</button>
         </div>
       </div>
     </div>

@@ -18,6 +18,7 @@ import pyaudio
 import numpy as np
 import scipy
 import pandas as pd 
+import io 
 
 app = Flask(__name__)
 CORS(app)
@@ -611,23 +612,47 @@ def delete_data(index):
     del data[index]
     return jsonify(data)
 
+# Globalna zmienna do przechowywania danych
 data = []
 
 @app.route('/upload_excel', methods=['POST'])
 def upload_excel():
+    global data
     file = request.files['file']
     df = pd.read_excel(file)
-    print (df)
-    # Extract column mapping from the form data
-    column_mapping = request.form.to_dict()
-    
-    # Apply column mapping to the DataFrame
-    df = df.rename(columns=column_mapping)
-    
-    global data
-    data = df.to_dict(orient='records')
-    
+    data = df.to_dict(orient='records')  # Przechowuj dane w zmiennej globalnej
     return jsonify(data)
+
+@app.route('/download_configuration', methods=['POST'])
+def download_configuration():
+    format = request.form.get('format')
+    
+    if not data:
+        return jsonify({'error': 'No data available'}), 400
+
+    df = pd.DataFrame(data)  # Convert data to DataFrame
+    print (data)  ## zawiera właściwe dane
+    if format == 'json':
+        response = jsonify(data)
+        response.headers['Content-Disposition'] = 'attachment; filename=configuration.json'
+        response.mimetype = 'application/json'
+        return response
+    
+    elif format == 'excel':
+        output = io.BytesIO()
+        with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+            df.to_excel(writer, index=False, sheet_name='Sheet1')
+        output.seek(0)
+        return send_file(output, as_attachment=True, download_name='configuration.xlsx', mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
+    
+    elif format == 'csv':
+        output = io.StringIO()
+        df.to_csv(output, index=False)
+        output.seek(0)
+        return send_file(io.BytesIO(output.getvalue().encode()), as_attachment=True, download_name='configuration.csv', mimetype='text/csv')
+    
+    else:
+        return jsonify({'error': 'Unsupported format'}), 400
 
 @app.route('/upload_json', methods=['POST'])
 def upload_json():

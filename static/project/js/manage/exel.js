@@ -184,7 +184,8 @@ function populateColumnMappingForm(columns) {
     });
 }
 
-// Function to upload Excel file with column mapping
+let data = []; // Globalna zmienna do przechowywania danych
+
 function uploadExcel() {
     let fileInput = $('#upload-excel')[0];
     if (fileInput.files.length === 0) {
@@ -194,21 +195,15 @@ function uploadExcel() {
     let formData = new FormData();
     formData.append('file', fileInput.files[0]);
 
-    // Get column mapping data
-    let columnMapping = $('#column-mapping-form').serializeArray();
-    columnMapping.forEach(item => {
-        formData.append(item.name, item.value);
-    });
-
     $.ajax({
         url: '/upload_excel',
         type: 'POST',
         data: formData,
         processData: false,
         contentType: false,
-        success: function(data) {
-            originalData = JSON.parse(JSON.stringify(data));  // Save a copy of the new original data
-            fetchData();  // Refresh the data after uploading the file
+        success: function(response) {
+            data = response; // Zapisz dane do zmiennej globalnej
+            fetchData();  // Odśwież dane po załadowaniu pliku
         }
     });
 }
@@ -431,6 +426,36 @@ function updateBulkTranslationLanguage() {
     const selectedTranslationLanguage = $('#bulkTranslationLanguage').val();
     $('#data-table tbody tr').each(function() {
         $(this).find('td').eq(1).text(selectedTranslationLanguage);
+    });
+}
+
+// Function to show the download options modal
+function showDownloadOptionsModal() {
+    let downloadOptionsModal = new bootstrap.Modal(document.getElementById('downloadOptionsModal'));
+    downloadOptionsModal.show();
+}
+
+function downloadConfiguration() {
+    let selectedFormat = $('input[name="format"]:checked').val();
+    
+    $.ajax({
+        url: '/download_configuration',
+        type: 'POST',
+        data: { format: selectedFormat },
+        success: function(response) {
+            // Create a link element to trigger the download
+            let link = document.createElement('a');
+            link.href = window.URL.createObjectURL(new Blob([response.data], { type: response.contentType }));
+            link.download = `configuration.${selectedFormat}`;
+            link.click();
+            
+            // Hide the modal
+            let downloadOptionsModal = bootstrap.Modal.getInstance(document.getElementById('downloadOptionsModal'));
+            downloadOptionsModal.hide();
+        },
+        error: function() {
+            alert('Failed to download configuration.');
+        }
     });
 }
 
