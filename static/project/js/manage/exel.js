@@ -421,11 +421,6 @@ function confirmTranslateRows() {
     });
 }
 
-// Function to handle search modal
-function handleSearch() {
-    $('#searchModal').modal('show');
-}
-
 // Function to filter table rows based on search input
 function filterTableRows() {
     const searchText = $('#searchInput').val().toLowerCase();
@@ -521,6 +516,10 @@ function closeAllModals() {
     });
 }
 
+// Function to handle search modal
+function handleSearch() {
+    $('#searchModal').modal('show');
+}
 
 // Pokaż modal do wyboru formatu po wybraniu kolumn
 function showDownloadOptions() {

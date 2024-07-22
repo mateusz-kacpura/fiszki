@@ -17,13 +17,15 @@
             <option value="50">50</option>
             <option value="100">100</option>
             <option value="200">200</option>
+            <option value="500">500</option>
+            <option value="1000">1000</option>
         </select>
     </div>
     <div class="mb-3">
         <button id="loadAudioPaths" class="btn btn-info mt-2">Load Audio Paths</button>  
         <button id="loadImagePaths" class="btn btn-info mt-2">Load Image Paths</button>  
         <button id="translateRows" class="btn btn-warning mt-2">Translate Rows</button>  
-        <button id="search" class="btn btn-primary mt-2">Search</button>
+        <button id="search" class="btn btn-primary mt-2"  onclick="handleSearch()" >Search</button>
         <button class="btn btn-secondary mt-2" id="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
         <button class="btn btn-secondary mt-2" onclick="showColumnSelection()">Download Configuration</button><br>
     </div>
