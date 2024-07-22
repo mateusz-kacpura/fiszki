@@ -7513,5 +7513,405 @@
     "sentence": "Maximum",
     "correct": true,
     "timestamp": "2024-07-22T07:53:03.181Z"
+  },
+  {
+    "word": "r\u00f3\u017cni kandydaci",
+    "correct": true,
+    "timestamp": "2024-07-22T16:24:59.072Z"
+  },
+  {
+    "word": "r\u00f3\u017cni kandydaci",
+    "correct": true,
+    "timestamp": "2024-07-22T16:25:23.510Z"
+  },
+  {
+    "word": "uko\u0144czenie studi\u00f3w x z dyplomem w zakresie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:25:31.863Z"
+  },
+  {
+    "word": "odnosi si\u0119 do czego\u015b",
+    "correct": true,
+    "timestamp": "2024-07-22T16:25:40.372Z"
+  },
+  {
+    "word": "po\u0142owa",
+    "correct": true,
+    "timestamp": "2024-07-22T16:25:46.817Z"
+  },
+  {
+    "word": "szkoli\u0107 jako",
+    "correct": true,
+    "timestamp": "2024-07-22T16:30:43.831Z"
+  },
+  {
+    "word": "o\u015b pozioma wskazuje",
+    "correct": true,
+    "timestamp": "2024-07-22T16:30:51.831Z"
+  },
+  {
+    "word": "zbi\u00f3r danych",
+    "correct": true,
+    "timestamp": "2024-07-22T16:31:04.191Z"
+  },
+  {
+    "word": "spadek",
+    "correct": true,
+    "timestamp": "2024-07-22T16:31:09.583Z"
+  },
+  {
+    "word": "osi\u0105gni\u0119ty przez zsumowanie zestawu liczb",
+    "correct": true,
+    "timestamp": "2024-07-22T16:31:18.486Z"
+  },
+  {
+    "word": "wnioskuje na podstawie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:31:30.855Z"
+  },
+  {
+    "word": "Biased in favour of",
+    "correct": false,
+    "timestamp": "2024-07-22T16:31:40.911Z"
+  },
+  {
+    "word": "Biased in favour of",
+    "correct": true,
+    "timestamp": "2024-07-22T16:31:56.995Z"
+  },
+  {
+    "word": "Amounts",
+    "correct": true,
+    "timestamp": "2024-07-22T16:32:09.003Z"
+  },
+  {
+    "word": "Philosophy",
+    "correct": true,
+    "timestamp": "2024-07-22T16:32:18.530Z"
+  },
+  {
+    "word": "Is checked",
+    "correct": true,
+    "timestamp": "2024-07-22T16:32:32.548Z"
+  },
+  {
+    "word": "Skill",
+    "correct": true,
+    "timestamp": "2024-07-22T16:32:53.795Z"
+  },
+  {
+    "word": "Unearthed",
+    "correct": true,
+    "timestamp": "2024-07-22T16:33:31.032Z"
+  },
+  {
+    "word": "Divided up",
+    "correct": true,
+    "timestamp": "2024-07-22T16:33:44.896Z"
+  },
+  {
+    "word": "Variables",
+    "correct": true,
+    "timestamp": "2024-07-22T16:33:59.347Z"
+  },
+  {
+    "word": "Increased greatly in number = multiplied",
+    "correct": true,
+    "timestamp": "2024-07-22T16:34:13.050Z"
+  },
+  {
+    "word": "Point to",
+    "correct": false,
+    "timestamp": "2024-07-22T16:34:40.893Z"
+  },
+  {
+    "word": "Point to",
+    "correct": true,
+    "timestamp": "2024-07-22T16:34:43.933Z"
+  },
+  {
+    "word": "As at that point",
+    "correct": true,
+    "timestamp": "2024-07-22T16:34:50.414Z"
+  },
+  {
+    "word": "Flowchart",
+    "correct": true,
+    "timestamp": "2024-07-22T16:35:01.456Z"
+  },
+  {
+    "word": "Detailed",
+    "correct": true,
+    "timestamp": "2024-07-22T16:35:06.737Z"
+  },
+  {
+    "word": "Drawbacks",
+    "correct": false,
+    "timestamp": "2024-07-22T16:35:17.253Z"
+  },
+  {
+    "word": "Drawbacks",
+    "correct": true,
+    "timestamp": "2024-07-22T16:35:20.132Z"
+  },
+  {
+    "word": "Volume",
+    "correct": true,
+    "timestamp": "2024-07-22T16:35:43.610Z"
+  },
+  {
+    "word": "Various candidates",
+    "correct": true,
+    "timestamp": "2024-07-22T16:35:48.815Z"
+  },
+  {
+    "word": "Involved",
+    "correct": true,
+    "timestamp": "2024-07-22T16:35:59.048Z"
+  },
+  {
+    "word": "Extent",
+    "correct": true,
+    "timestamp": "2024-07-22T16:36:11.370Z"
+  },
+  {
+    "word": "Increased greatly in number = multiplied",
+    "correct": true,
+    "timestamp": "2024-07-22T16:36:27.074Z"
+  },
+  {
+    "word": "Course of action",
+    "correct": false,
+    "timestamp": "2024-07-22T16:37:19.371Z"
+  },
+  {
+    "word": "Course of action",
+    "correct": true,
+    "timestamp": "2024-07-22T16:37:22.326Z"
+  },
+  {
+    "word": "Over time",
+    "correct": true,
+    "timestamp": "2024-07-22T16:37:31.286Z"
+  },
+  {
+    "word": "Standpoint",
+    "correct": true,
+    "timestamp": "2024-07-22T16:37:34.651Z"
+  },
+  {
+    "word": "Under construction in various",
+    "correct": true,
+    "timestamp": "2024-07-22T16:38:00.591Z"
+  },
+  {
+    "word": "Self-motivated",
+    "correct": true,
+    "timestamp": "2024-07-22T16:38:06.444Z"
+  },
+  {
+    "word": "An experiment",
+    "correct": true,
+    "timestamp": "2024-07-22T16:38:10.588Z"
+  },
+  {
+    "word": "Label",
+    "correct": true,
+    "timestamp": "2024-07-22T16:38:22.487Z"
+  },
+  {
+    "word": "All the calculations leading up to an answer = workings",
+    "correct": true,
+    "timestamp": "2024-07-22T16:38:40.559Z"
+  },
+  {
+    "word": "All the calculations leading up to an answer = workings",
+    "correct": false,
+    "timestamp": "2024-07-22T16:39:10.903Z"
+  },
+  {
+    "word": "All the calculations leading up to an answer = workings",
+    "correct": true,
+    "timestamp": "2024-07-22T16:39:15.359Z"
+  },
+  {
+    "word": "Advised to",
+    "correct": true,
+    "timestamp": "2024-07-22T16:39:28.780Z"
+  },
+  {
+    "word": "Graph presents",
+    "correct": false,
+    "timestamp": "2024-07-22T16:39:38.489Z"
+  },
+  {
+    "word": "jak wida\u0107",
+    "correct": true,
+    "timestamp": "2024-07-22T16:40:02.957Z"
+  },
+  {
+    "word": "wykre\u015blenie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:40:42.076Z"
+  },
+  {
+    "word": "sp\u00f3jno\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-07-22T16:40:56.825Z"
+  },
+  {
+    "word": "stosunek",
+    "correct": false,
+    "timestamp": "2024-07-22T16:41:08.858Z"
+  },
+  {
+    "word": "stosunek",
+    "correct": true,
+    "timestamp": "2024-07-22T16:41:20.702Z"
+  },
+  {
+    "word": "ch\u0119tnie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:41:47.006Z"
+  },
+  {
+    "word": "znacznie wi\u0119cej m\u0119\u017cczyzn stanowi\u0142o",
+    "correct": true,
+    "timestamp": "2024-07-22T16:41:54.817Z"
+  },
+  {
+    "word": "odpowiedni",
+    "correct": false,
+    "timestamp": "2024-07-22T16:42:22.511Z"
+  },
+  {
+    "word": "zak\u0142\u00f3canie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:42:25.979Z"
+  },
+  {
+    "word": "punkt widzenia",
+    "correct": false,
+    "timestamp": "2024-07-22T16:42:52.392Z"
+  },
+  {
+    "word": "badanie terenowe",
+    "correct": true,
+    "timestamp": "2024-07-22T16:42:58.036Z"
+  },
+  {
+    "word": "studium przypadku",
+    "correct": true,
+    "timestamp": "2024-07-22T16:43:04.373Z"
+  },
+  {
+    "word": "ponad 50%",
+    "correct": true,
+    "timestamp": "2024-07-22T16:43:13.296Z"
+  },
+  {
+    "word": "spadek warto\u015bci/deprecjacja",
+    "correct": true,
+    "timestamp": "2024-07-22T16:43:48.953Z"
+  },
+  {
+    "word": "s\u0142owa kluczowe",
+    "correct": false,
+    "timestamp": "2024-07-22T16:44:07.995Z"
+  },
+  {
+    "word": "stosunek",
+    "correct": true,
+    "timestamp": "2024-07-22T16:44:18.131Z"
+  },
+  {
+    "word": "naturalne otoczenie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:44:27.283Z"
+  },
+  {
+    "word": "wa\u017cenie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:47:15.782Z"
+  },
+  {
+    "word": "s\u0142owo liczba",
+    "correct": true,
+    "timestamp": "2024-07-22T16:47:34.449Z"
+  },
+  {
+    "word": "odzwierciedla\u0107",
+    "correct": true,
+    "timestamp": "2024-07-22T16:47:49.493Z"
+  },
+  {
+    "word": "zaleca si\u0119",
+    "correct": true,
+    "timestamp": "2024-07-22T16:49:28.348Z"
+  },
+  {
+    "word": "kwoty",
+    "correct": true,
+    "timestamp": "2024-07-22T16:49:33.622Z"
+  },
+  {
+    "word": "zdobywanie do\u015bwiadczenia",
+    "correct": true,
+    "timestamp": "2024-07-22T16:49:40.026Z"
+  },
+  {
+    "word": "reprezentatywny",
+    "correct": true,
+    "timestamp": "2024-07-22T16:49:43.091Z"
+  },
+  {
+    "word": "r\u00f3\u017cni\u0105 si\u0119 d\u0142ugo\u015bci\u0105 lub wysoko\u015bci\u0105",
+    "correct": true,
+    "timestamp": "2024-07-22T16:50:03.125Z"
+  },
+  {
+    "word": "wci\u0119cie",
+    "correct": true,
+    "timestamp": "2024-07-22T16:50:25.341Z"
+  },
+  {
+    "word": "by\u0107 odr\u00f3\u017cnionym od czego\u015b innego",
+    "correct": false,
+    "timestamp": "2024-07-22T16:50:35.560Z"
+  },
+  {
+    "word": "w celu",
+    "correct": false,
+    "timestamp": "2024-07-22T16:51:14.199Z"
+  },
+  {
+    "word": "cz\u0119sto\u015b\u0107 wyst\u0119powania czego\u015b",
+    "correct": true,
+    "timestamp": "2024-07-22T16:51:15.395Z"
+  },
+  {
+    "word": "cz\u0119sto\u015b\u0107 wyst\u0119powania czego\u015b",
+    "correct": true,
+    "timestamp": "2024-07-22T16:51:16.650Z"
+  },
+  {
+    "word": "podr\u00f3\u017c z powrotem do",
+    "correct": true,
+    "timestamp": "2024-07-22T16:51:22.459Z"
+  },
+  {
+    "word": "podzielony",
+    "correct": true,
+    "timestamp": "2024-07-22T16:51:27.199Z"
+  },
+  {
+    "sentence": "",
+    "correct": false,
+    "timestamp": "2024-07-22T16:55:35.678Z"
+  },
+  {
+    "sentence": "Spadek temperatury by\u0142 zauwa\u017calny.",
+    "correct": true,
+    "timestamp": "2024-07-22T16:56:18.506Z"
   }
 ]

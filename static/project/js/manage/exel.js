@@ -102,6 +102,8 @@ function saveRow(index) {
         audioLink: row.find('td').eq(9).text().trim()           // Updated index for Audio Link
     };
 
+    console.log("Saving Row:", index, updatedItem); // Logowanie zapisanych danych
+
     // Validate data if needed
     if (!updatedItem.language || !updatedItem.word) {
         alert('Language and Word fields are required.');
@@ -158,37 +160,57 @@ function undoChanges() {
 
 // Function to show the column mapping modal
 function showColumnMappingModal() {
-    // Zamknięcie wszelkich otwartych modali
-    let openModals = document.querySelectorAll('.modal.show');
-    openModals.forEach(modal => {
-        let instance = bootstrap.Modal.getInstance(modal);
-        if (instance) {
-            instance.hide();
-        }
-    });
-
+    // Load columns from uploaded Excel and populate the modal
     let fileInput = $('#upload-excel')[0];
     if (fileInput.files.length === 0) {
         alert('Please select a file.');
         return;
     }
+    let formData = new FormData();
+    formData.append('file', fileInput.files[0]);
 
-    let reader = new FileReader();
-    reader.onload = function(e) {
-        let data = e.target.result;
-        let workbook = XLSX.read(data, { type: 'binary' });
-        let firstSheet = workbook.Sheets[workbook.SheetNames[0]];
-        let excelData = XLSX.utils.sheet_to_json(firstSheet, { header: 1 });
-
-        let columns = excelData[0];
-        populateColumnMappingForm(columns);
-
-        let columnMappingModal = new bootstrap.Modal(document.getElementById('columnMappingModal'));
-        columnMappingModal.show();
-    };
-    reader.readAsBinaryString(fileInput.files[0]);
+    $.ajax({
+        url: '/parse_excel_columns',  // Endpoint to parse and return columns
+        type: 'POST',
+        data: formData,
+        processData: false,
+        contentType: false,
+        success: function(data) {
+            populateColumnMappingFields(data.columns);  // Populate the modal with columns
+            $('#columnMappingModal').modal('show');  // Show the modal
+        }
+    });
 }
 
+function populateColumnMappingFields(columns) {
+    let container = $('#column-mapping-fields');
+    container.empty();  // Clear existing fields
+    let mappingOptions = [
+        'Language',
+        'Translation Language',
+        'Word',
+        'Translation',
+        'Definition',
+        'Example',
+        'Example Translation',
+        'Image Link',
+        'Audio Link'
+    ];
+
+    columns.forEach((column, index) => {
+        let optionsHtml = mappingOptions.map(option => `<option value="${option}">${option}</option>`).join('');
+        let field = `
+            <div class="mb-3">
+                <label for="map-column${index}" class="form-label">${column}</label>
+                <select class="form-select" id="map-column${index}" name="map-${column}">
+                    <option value="">Select a column</option>
+                    ${optionsHtml}
+                </select>
+            </div>
+        `;
+        container.append(field);
+    });
+}
 
 // Function to populate the column mapping form
 function populateColumnMappingForm(columns) {
@@ -229,18 +251,47 @@ function uploadExcel() {
     let formData = new FormData();
     formData.append('file', fileInput.files[0]);
 
+    // Get column mapping data
+    let columnMapping = $('#column-mapping-form').serializeArray();
+    columnMapping.forEach(item => {
+        formData.append(item.name, item.value);
+    });
+
     $.ajax({
         url: '/upload_excel',
         type: 'POST',
         data: formData,
         processData: false,
         contentType: false,
-        success: function(response) {
-            data = response; // Zapisz dane do zmiennej globalnej
-            fetchData();  // Odśwież dane po załadowaniu pliku
+        success: function(data) {
+            console.log("Upload successful:", data);  // Log success response
+
+            // Transform data keys to match expected column names
+            let transformedData = data.map(item => {
+                return {
+                    language: item['Language'] || '',
+                    translationLanguage: item['Translation Language'] || '',
+                    word: item['Word'] || '',
+                    translation: item['Translation'] || '',
+                    definition: item['Definition'] || '',
+                    example: item['Example'] || '',
+                    example_translation: item['Example Translation'] || '',
+                    imageLink: item['Image Link'] || '',
+                    audioLink: item['Audio Link'] || ''
+                };
+            });
+
+            console.log("Transformed data:", transformedData);  // Log transformed data
+            originalData = JSON.parse(JSON.stringify(transformedData));  // Save a copy of the transformed data
+            populateTable(transformedData);  // Populate the table with the transformed data
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+            console.error("Upload failed:", textStatus, errorThrown);  // Log error
+            console.error("Response text:", jqXHR.responseText);  // Log response text for debugging
         }
     });
 }
+
 
 // Function to submit column mapping and upload the file
 function submitColumnMapping() {
@@ -543,10 +594,6 @@ function showDownloadOptionsModal() {
     downloadModal.show();
 }
 
-function toggleTheme() {
-    document.body.classList.toggle('dark-theme'); // Implement dark-theme class in your CSS
-}
-
 function getTableData() {
     const table = document.getElementById('data-table');
     const rows = table.querySelectorAll('tbody tr');
@@ -565,6 +612,7 @@ function getTableData() {
             imageLink: cells[8].textContent.trim(),
             audioLink: cells[9].textContent.trim()
         };
+        console.log("Row Data:", rowData); // Logowanie danych wiersza
         data.push(rowData);
     });
 
@@ -582,19 +630,26 @@ function downloadConfiguration() {
         }
     });
 
-    const columns = getSelectedColumns(); // Implement this function based on your needs
+    const columns = getSelectedColumns(); 
     const rowData = getTableData();
+
+    console.log("Selected Columns:", columns);
+    console.log("Row Data:", rowData);
+
     let fileData;
 
     if (selectedFormat === 'json') {
         fileData = JSON.stringify({ columns, rows: rowData });
+        // console.log("File Data (JSON):", fileData);
         downloadFile(fileData, 'data.json', 'application/json');
     } else if (selectedFormat === 'csv') {
         fileData = convertToCSV(rowData, columns); // Implement convertToCSV
+        // console.log("File Data (CSV):", fileData);
         downloadFile(fileData, 'data.csv', 'text/csv');
     } else if (selectedFormat === 'excel') {
         // Implement Excel export logic
-        fileData = convertToExcel(rowData, columns); // Implement convertToExcel
+        // fileData = convertToExcel(rowData, columns); // Implement convertToExcel
+        console.log("File Data (Excel):", fileData);
         downloadFile(fileData, 'data.xlsx', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
     }
 }
@@ -668,30 +723,6 @@ function generateTableRows(data) {
     });
 }
 
-// Funkcja do uploadu pliku Excel (pozostaje bez zmian)
-function uploadExcel() {
-    let fileInput = $('#upload-excel')[0];
-    if (fileInput.files.length === 0) {
-        alert('Please select a file.');
-        return;
-    }
-    let formData = new FormData();
-    formData.append('file', fileInput.files[0]);
-
-    $.ajax({
-        url: '/upload_excel',
-        type: 'POST',
-        data: formData,
-        processData: false,
-        contentType: false,
-        success: function(data) {
-            window.data = JSON.parse(JSON.stringify(data));  // Save a copy of the new original data
-            console.log('Uploaded data:', window.data); // Sprawdź dane w konsoli
-            fetchData();  // Refresh the data after uploading the file
-            generateColumnCheckboxes();  // Generate column checkboxes in the table header
-        }
-    });
-}
 // Attach event listeners to buttons and search input
 $(document).ready(function() {
     $('#saveChanges').click(handleSaveChanges);

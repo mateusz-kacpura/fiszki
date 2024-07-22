@@ -1,30 +1,31 @@
     <!-- Column Mapping Modal -->
-    <div class="modal fade" id="columnSelectionModal" tabindex="-1" aria-labelledby="columnSelectionModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-          <div class="modal-content">
-              <div class="modal-header">
-                  <h5 class="modal-title" id="columnSelectionModalLabel">Select Columns to Download</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                  <p>Select the columns you want to include in the download:</p>
-                  <!-- Dynamically generate checkboxes based on columns in data -->
-                  <div id="column-checkboxes">
-                      <!-- Example Checkbox -->
-                      <div class="form-check">
-                          <input class="form-check-input" type="checkbox" value="Language" id="column-Language" checked>
-                          <label class="form-check-label" for="column-Language">
-                              Language
-                          </label>
-                      </div>
-                      <!-- Add more checkboxes as needed -->
-                  </div>
-              </div>
-              <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                  <button type="button" class="btn btn-primary" onclick="showDownloadOptions()">Next</button>
-              </div>
-          </div>
-      </div>
-  </div>
-  
+<!-- Column Mapping Modal -->
+<div class="modal fade" id="columnMappingModal" tabindex="-1" aria-labelledby="columnMappingModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="columnMappingModalLabel">Map Columns</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="column-mapping-form">
+                    <!-- Dynamically generate column mapping fields -->
+                    <div id="column-mapping-fields">
+                        <!-- Example Mapping Field -->
+                        <div class="mb-3">
+                            <label for="map-column1" class="form-label">Excel Column</label>
+                            <select class="form-select" id="map-column1" name="column1">
+                                <option value="">Select a column</option>
+                                <!-- Options will be populated dynamically -->
+                            </select>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="uploadExcel()">Upload</button>
+            </div>
+        </div>
+    </div>
+</div>

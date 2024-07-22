@@ -616,13 +616,31 @@ def delete_data(index):
 # Globalna zmienna do przechowywania danych
 data = []
 
+@app.route('/parse_excel_columns', methods=['POST'])
+def parse_excel_columns():
+    file = request.files['file']
+    df = pd.read_excel(file)
+    columns = df.columns.tolist()
+    return jsonify(columns=columns)
+
 @app.route('/upload_excel', methods=['POST'])
 def upload_excel():
     global data
     file = request.files['file']
-    df = pd.read_excel(file)
-    data = df.to_dict(orient='records')  # Przechowuj dane w zmiennej globalnej
-    return jsonify(data)
+    try:
+        df = pd.read_excel(file)
+        # Process column mapping
+        column_mapping = request.form.to_dict()
+        mapped_columns = {k.split('-')[1]: v for k, v in column_mapping.items() if v}
+        df = df.rename(columns=mapped_columns)
+        
+        # Replace NaN with None (JSON null)
+        df = df.replace({np.nan: None})
+
+        data = df.to_dict(orient='records')
+        return jsonify(data), 200  # Return JSON with HTTP status 200
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500  # Return error message with HTTP status 500
 
 @app.route('/download_configuration', methods=['POST'])
 def download_configuration():
