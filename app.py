@@ -2,7 +2,7 @@ import os
 import json
 import logging
 import requests
-from flask import Flask, request, render_template, jsonify, send_file
+from flask import Flask, request, render_template, jsonify, make_response, send_file
 from flask_cors import CORS
 from flask import send_from_directory
 from werkzeug.utils import secure_filename
@@ -18,7 +18,8 @@ import pyaudio
 import numpy as np
 import scipy
 import pandas as pd 
-import io 
+from io import BytesIO, StringIO
+import csv
 
 app = Flask(__name__)
 CORS(app)
@@ -625,34 +626,53 @@ def upload_excel():
 
 @app.route('/download_configuration', methods=['POST'])
 def download_configuration():
-    format = request.form.get('format')
-    
-    if not data:
-        return jsonify({'error': 'No data available'}), 400
+    try:
+        request_data = request.get_json()
+        columns = request_data.get('columns')
+        rows = request_data.get('rows')
+        format = request_data.get('format')
 
-    df = pd.DataFrame(data)  # Convert data to DataFrame
-    print (data)  ## zawiera właściwe dane
-    if format == 'json':
-        response = jsonify(data)
-        response.headers['Content-Disposition'] = 'attachment; filename=configuration.json'
-        response.mimetype = 'application/json'
-        return response
-    
-    elif format == 'excel':
-        output = io.BytesIO()
-        with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
-            df.to_excel(writer, index=False, sheet_name='Sheet1')
-        output.seek(0)
-        return send_file(output, as_attachment=True, download_name='configuration.xlsx', mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
-    
-    elif format == 'csv':
-        output = io.StringIO()
-        df.to_csv(output, index=False)
-        output.seek(0)
-        return send_file(io.BytesIO(output.getvalue().encode()), as_attachment=True, download_name='configuration.csv', mimetype='text/csv')
-    
-    else:
-        return jsonify({'error': 'Unsupported format'}), 400
+        if not columns:
+            return jsonify({'error': 'No columns selected'}), 400
+        
+        if not rows:
+            return jsonify({'error': 'No rows selected'}), 400
+
+        if not data:
+            return jsonify({'error': 'No data available to download'}), 400
+        
+        if format not in ['json', 'csv', 'excel']:
+            return jsonify({'error': 'Unsupported format'}), 400
+        
+        # Filter data based on selected columns and rows
+        filtered_data = [{col: row[col] for col in columns} for i, row in enumerate(data) if str(i) in rows]
+
+        if format == 'json':
+            response = jsonify(filtered_data)
+            response.headers['Content-Disposition'] = 'attachment; filename=configuration.json'
+            response.mimetype = 'application/json'
+            return response
+        elif format == 'csv':
+            output = StringIO()
+            writer = csv.DictWriter(output, fieldnames=columns)
+            writer.writeheader()
+            writer.writerows(filtered_data)
+            output.seek(0)
+            response = make_response(output.getvalue())
+            response.headers['Content-Disposition'] = 'attachment; filename=configuration.csv'
+            response.mimetype = 'text/csv'
+            return response
+        elif format == 'excel':
+            output = BytesIO()
+            df = pd.DataFrame(filtered_data)
+            df.to_excel(output, index=False)
+            output.seek(0)
+            response = make_response(output.getvalue())
+            response.headers['Content-Disposition'] = 'attachment; filename=configuration.xlsx'
+            response.mimetype = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+            return response
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/upload_json', methods=['POST'])
 def upload_json():

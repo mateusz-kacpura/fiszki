@@ -13,6 +13,7 @@
       <p class="word-to-translate" id="word"></p>
       <div class="answer-buttons" id="answer-buttons"></div>
       <button class="btn btn-success" onclick="generateRandomWord()">Next Word</button>
+      <button id="edit-word-btn" class="btn btn-warning ms-2"  onclick="openEditModal(currentWordData)">Edit</button>
       <p id="result" class="mt-3"></p>
       {% include 'learning/controls/audio.html' %}
       <div id="result"></div>
@@ -27,6 +28,7 @@
 </div>
 
 {% include 'learning/controls/buttons.html' %}
+{% include 'learning/modals/edit-word-modal.html' %}
 
 {% endblock %}
 

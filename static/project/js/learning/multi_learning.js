@@ -83,7 +83,6 @@ function generateAnswerButtons(correctWord, direction) {
     }
   }
 
-  // Shuffle answers
   answers.sort(() => Math.random() - 0.5);
 
   answers.forEach((answer, index) => {
@@ -106,14 +105,11 @@ function checkTranslation(userTranslation, correctTranslation) {
       .then(data => {
           const modalHTML = data.modal_html;
 
-          // Append the modal HTML to the modal container
           modalContainer.innerHTML = modalHTML;
 
-          // Initialize and show the modal
           const resultModal = new bootstrap.Modal(document.getElementById('resultModal'));
           resultModal.show();
 
-          // Handle Text-to-Speech based on checkboxes
           if (ttsCheckbox.checked && !audioCheckbox.checked) {
               playTextToSpeech(userTranslation);
           }
@@ -149,7 +145,7 @@ function fetchExcludedWords() {
   })
   .catch(error => {
     console.error('Error fetching excluded words:', error);
-    excludedWords = []; // Initialize to an empty array if fetching fails
+    excludedWords = [];
   });
 }
 

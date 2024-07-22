@@ -7278,5 +7278,240 @@
     "word": "mniej wi\u0119cej tyle samo",
     "correct": true,
     "timestamp": "2024-07-21T21:28:04.207Z"
+  },
+  {
+    "word": "wielko\u015b\u0107",
+    "correct": false,
+    "timestamp": "2024-07-22T07:24:43.632Z"
+  },
+  {
+    "word": "przyj\u0105\u0107 stanowisko",
+    "correct": false,
+    "timestamp": "2024-07-22T07:25:19.896Z"
+  },
+  {
+    "word": "pr\u00f3ba losowa",
+    "correct": true,
+    "timestamp": "2024-07-22T07:25:26.758Z"
+  },
+  {
+    "word": "analogiczny do czego\u015b",
+    "correct": false,
+    "timestamp": "2024-07-22T07:25:38.427Z"
+  },
+  {
+    "word": "analogiczny do czego\u015b",
+    "correct": false,
+    "timestamp": "2024-07-22T07:25:42.394Z"
+  },
+  {
+    "sentence": "Sample",
+    "correct": true,
+    "timestamp": "2024-07-22T07:34:37.501Z"
+  },
+  {
+    "sentence": "Vertical axis shows",
+    "correct": true,
+    "timestamp": "2024-07-22T07:34:48.683Z"
+  },
+  {
+    "sentence": "Amounts",
+    "correct": true,
+    "timestamp": "2024-07-22T07:35:03.458Z"
+  },
+  {
+    "sentence": "Grid with columns and rows of numbers",
+    "correct": true,
+    "timestamp": "2024-07-22T07:36:49.070Z"
+  },
+  {
+    "sentence": "Achievements",
+    "correct": true,
+    "timestamp": "2024-07-22T07:41:11.099Z"
+  },
+  {
+    "sentence": "Standard deviation",
+    "correct": true,
+    "timestamp": "2024-07-22T07:41:26.678Z"
+  },
+  {
+    "sentence": "Crust",
+    "correct": true,
+    "timestamp": "2024-07-22T07:41:44.273Z"
+  },
+  {
+    "sentence": "Indent",
+    "correct": true,
+    "timestamp": "2024-07-22T07:42:41.670Z"
+  },
+  {
+    "sentence": "Smart meter in each house",
+    "correct": true,
+    "timestamp": "2024-07-22T07:43:35.333Z"
+  },
+  {
+    "sentence": "Ratio",
+    "correct": true,
+    "timestamp": "2024-07-22T07:43:44.684Z"
+  },
+  {
+    "sentence": "Label",
+    "correct": true,
+    "timestamp": "2024-07-22T07:43:52.076Z"
+  },
+  {
+    "sentence": "Appropriate",
+    "correct": true,
+    "timestamp": "2024-07-22T07:43:59.881Z"
+  },
+  {
+    "sentence": "Prime numbers",
+    "correct": true,
+    "timestamp": "2024-07-22T07:44:12.918Z"
+  },
+  {
+    "sentence": "Prejudiced against",
+    "correct": true,
+    "timestamp": "2024-07-22T07:44:21.858Z"
+  },
+  {
+    "sentence": "Divided up",
+    "correct": true,
+    "timestamp": "2024-07-22T07:44:33.272Z"
+  },
+  {
+    "sentence": "Critical of",
+    "correct": true,
+    "timestamp": "2024-07-22T07:44:43.425Z"
+  },
+  {
+    "sentence": "Reactionary",
+    "correct": true,
+    "timestamp": "2024-07-22T07:44:54.120Z"
+  },
+  {
+    "sentence": "Valid",
+    "correct": true,
+    "timestamp": "2024-07-22T07:45:02.195Z"
+  },
+  {
+    "sentence": "Take away, subtract = deduct",
+    "correct": true,
+    "timestamp": "2024-07-22T07:45:35.719Z"
+  },
+  {
+    "sentence": "Three-quarters",
+    "correct": true,
+    "timestamp": "2024-07-22T07:45:50.713Z"
+  },
+  {
+    "sentence": "Under construction in various",
+    "correct": true,
+    "timestamp": "2024-07-22T07:46:53.233Z"
+  },
+  {
+    "sentence": "Add up = total",
+    "correct": true,
+    "timestamp": "2024-07-22T07:47:18.927Z"
+  },
+  {
+    "sentence": "Slightly less than",
+    "correct": true,
+    "timestamp": "2024-07-22T07:47:30.767Z"
+  },
+  {
+    "sentence": "Beside the railway",
+    "correct": true,
+    "timestamp": "2024-07-22T07:47:41.743Z"
+  },
+  {
+    "sentence": "Come to the river bank",
+    "correct": true,
+    "timestamp": "2024-07-22T07:47:59.727Z"
+  },
+  {
+    "sentence": "Robust",
+    "correct": true,
+    "timestamp": "2024-07-22T07:48:04.527Z"
+  },
+  {
+    "sentence": "Between",
+    "correct": true,
+    "timestamp": "2024-07-22T07:48:09.003Z"
+  },
+  {
+    "sentence": "Between",
+    "correct": true,
+    "timestamp": "2024-07-22T07:48:34.914Z"
+  },
+  {
+    "sentence": "Casual study",
+    "correct": true,
+    "timestamp": "2024-07-22T07:48:45.133Z"
+  },
+  {
+    "sentence": "Histogram",
+    "correct": true,
+    "timestamp": "2024-07-22T07:49:05.487Z"
+  },
+  {
+    "sentence": "Critically",
+    "correct": true,
+    "timestamp": "2024-07-22T07:49:12.985Z"
+  },
+  {
+    "sentence": "Refers TO sth",
+    "correct": true,
+    "timestamp": "2024-07-22T07:49:21.612Z"
+  },
+  {
+    "sentence": "Critical thinking",
+    "correct": true,
+    "timestamp": "2024-07-22T07:49:29.076Z"
+  },
+  {
+    "sentence": "Dissertation",
+    "correct": true,
+    "timestamp": "2024-07-22T07:49:39.003Z"
+  },
+  {
+    "sentence": "Pocket money",
+    "correct": true,
+    "timestamp": "2024-07-22T07:49:46.664Z"
+  },
+  {
+    "sentence": "Match, agree = tally",
+    "correct": true,
+    "timestamp": "2024-07-22T07:50:26.095Z"
+  },
+  {
+    "sentence": "Come down on one side",
+    "correct": true,
+    "timestamp": "2024-07-22T07:50:40.996Z"
+  },
+  {
+    "sentence": "Advised to",
+    "correct": true,
+    "timestamp": "2024-07-22T07:50:54.349Z"
+  },
+  {
+    "sentence": "Three-quarters",
+    "correct": true,
+    "timestamp": "2024-07-22T07:51:03.238Z"
+  },
+  {
+    "sentence": "Conservative",
+    "correct": true,
+    "timestamp": "2024-07-22T07:52:44.403Z"
+  },
+  {
+    "sentence": "Maximum",
+    "correct": true,
+    "timestamp": "2024-07-22T07:52:58.174Z"
+  },
+  {
+    "sentence": "Maximum",
+    "correct": true,
+    "timestamp": "2024-07-22T07:53:03.181Z"
   }
 ]

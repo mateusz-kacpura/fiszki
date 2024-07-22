@@ -22,8 +22,8 @@
         <div class="mb-3" id="answer-buttons"></div>
         <div class="mb-3" id="word"></div> 
         <div class="mb-3">
-            <p id="example-sentence-text"></p>
-        </div>
+            <p id="example-sentence-text"></p>        
+        </div>        
         <div id="result" class="mt-3"></div>
         <div id="new-sentence-btn-container" class="d-flex justify-content-center mt-4">
             <button id="new-sentence-btn" class="btn btn-primary me-2" style="display: none;" onclick="generateRandomWord()">Losuj nowe zdanie</button>
@@ -34,64 +34,7 @@
 
 {% include 'learning/controls/buttons.html' %}
 
-<!-- Edit Word Modal -->
-<div class="modal fade" id="editWordModal" tabindex="-1" aria-labelledby="editWordModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="editWordModalLabel">Edit Word</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <form id="edit-word-form">
-            <div class="mb-3">
-              <label for="edit-language" class="form-label">Language</label>
-              <input type="text" class="form-control" id="edit-language" name="language">
-            </div>
-            <div class="mb-3">
-              <label for="edit-translation-language" class="form-label">Translation Language</label>
-              <input type="text" class="form-control" id="edit-translation-language" name="translationLanguage">
-            </div>
-            <div class="mb-3">
-              <label for="edit-word" class="form-label">Word</label>
-              <input type="text" class="form-control" id="edit-word" name="word">
-            </div>
-            <div class="mb-3">
-              <label for="edit-translation" class="form-label">Translation</label>
-              <input type="text" class="form-control" id="edit-translation" name="translation">
-            </div>
-            <div class="mb-3">
-              <label for="edit-definition" class="form-label">Definition</label>
-              <input type="text" class="form-control" id="edit-definition" name="definition">
-            </div>
-            <div class="mb-3">
-              <label for="edit-example" class="form-label">Example</label>
-              <input type="text" class="form-control" id="edit-example" name="example">
-            </div>
-            <div class="mb-3">
-              <label for="edit-example-translation" class="form-label">Example Translation</label>
-              <input type="text" class="form-control" id="edit-example-translation" name="example_translation">
-            </div>
-            <div class="mb-3">
-              <label for="edit-image-link" class="form-label">Image Link</label>
-              <input type="text" class="form-control" id="edit-image-link" name="imageLink">
-            </div>
-            <div class="mb-3">
-              <label for="edit-audio-link" class="form-label">Audio Link</label>
-              <input type="text" class="form-control" id="edit-audio-link" name="audioLink">
-            </div>
-          </form>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-          <button type="button" class="btn btn-warning" onclick="clearForm()">Clear</button>
-          <button type="button" class="btn btn-secondary" onclick="revertChanges()">Undo Changes</button>
-          <button type="button" class="btn btn-primary" onclick="saveChanges()">Save</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  
+{% include 'learning/modals/edit-word-modal.html' %}
 
 {% endblock %}
 

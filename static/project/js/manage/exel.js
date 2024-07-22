@@ -13,16 +13,28 @@ $(document).ready(function() {
 function fetchData() {
     $.getJSON('/data', { page: currentPage, per_page: rowsPerPage }, function(data) {
         originalData = JSON.parse(JSON.stringify(data));  // Save a copy of the original data
-        populateTable(data);
-        updatePagination();
+        populateTable(data);  // Generowanie wierszy tabeli
+        updatePagination();   // Aktualizacja paginacji
     });
 }
 
+document.addEventListener('DOMContentLoaded', () => {
+    fetchData(); // Pobieranie danych po załadowaniu strony
+
+    // Dodaj event listener dla zaznaczania wszystkich wierszy
+    document.querySelector('#select-all-rows').addEventListener('change', function() {
+        toggleSelectAllRows(this);
+    });
+});
 function populateTable(data) {
     let tbody = $('#data-table tbody');
     tbody.empty();
+
     data.forEach((item, index) => {
         let row = `<tr>
+            <td>
+                <input type="checkbox" class="row-checkbox" data-row-index="${index}">
+            </td>
             <td contenteditable="true">${item.language}</td>
             <td contenteditable="true">${item.translationLanguage}</td>
             <td contenteditable="true">${item.word}</td>
@@ -40,6 +52,7 @@ function populateTable(data) {
         </tr>`;
         tbody.append(row);
     });
+
     $('#current-page').text(currentPage);
 }
 
@@ -75,24 +88,38 @@ function addRow() {
 
 function saveRow(index) {
     let row = $('#data-table tbody tr').eq(index);
+    
+    // Collect data from the row
     let updatedItem = {
-        language: row.find('td').eq(0).text(),
-        translationLanguage: row.find('td').eq(1).text(),
-        word: row.find('td').eq(2).text(),
-        translation: row.find('td').eq(3).text(),
-        definition: row.find('td').eq(4).text(),
-        example: row.find('td').eq(5).text(),
-        example_translation: row.find('td').eq(6).text(),
-        imageLink: row.find('td').eq(7).text(),
-        audioLink: row.find('td').eq(8).text()
+        language: row.find('td').eq(1).text().trim(),           // Updated index for Language
+        translationLanguage: row.find('td').eq(2).text().trim(),// Updated index for Translation Language
+        word: row.find('td').eq(3).text().trim(),               // Updated index for Word
+        translation: row.find('td').eq(4).text().trim(),        // Updated index for Translation
+        definition: row.find('td').eq(5).text().trim(),         // Updated index for Definition
+        example: row.find('td').eq(6).text().trim(),            // Updated index for Example
+        example_translation: row.find('td').eq(7).text().trim(),// Updated index for Example Translation
+        imageLink: row.find('td').eq(8).text().trim(),          // Updated index for Image Link
+        audioLink: row.find('td').eq(9).text().trim()           // Updated index for Audio Link
     };
+
+    // Validate data if needed
+    if (!updatedItem.language || !updatedItem.word) {
+        alert('Language and Word fields are required.');
+        return;
+    }
+
     $.ajax({
         url: `/data/${index}`,
         type: 'PUT',
         contentType: 'application/json',
         data: JSON.stringify(updatedItem),
         success: function(data) {
+            alert('Row saved successfully!');
             fetchData();  // Refresh the data after saving the row
+        },
+        error: function(xhr, status, error) {
+            console.error('Error saving row:', status, error);
+            alert('Failed to save the row. Please try again.');
         }
     });
 }
@@ -131,13 +158,21 @@ function undoChanges() {
 
 // Function to show the column mapping modal
 function showColumnMappingModal() {
+    // Zamknięcie wszelkich otwartych modali
+    let openModals = document.querySelectorAll('.modal.show');
+    openModals.forEach(modal => {
+        let instance = bootstrap.Modal.getInstance(modal);
+        if (instance) {
+            instance.hide();
+        }
+    });
+
     let fileInput = $('#upload-excel')[0];
     if (fileInput.files.length === 0) {
         alert('Please select a file.');
         return;
     }
 
-    // Assuming you have a way to read the Excel file and get the column names.
     let reader = new FileReader();
     reader.onload = function(e) {
         let data = e.target.result;
@@ -145,16 +180,15 @@ function showColumnMappingModal() {
         let firstSheet = workbook.Sheets[workbook.SheetNames[0]];
         let excelData = XLSX.utils.sheet_to_json(firstSheet, { header: 1 });
 
-        // Extract column headers
         let columns = excelData[0];
         populateColumnMappingForm(columns);
 
-        // Show the modal
         let columnMappingModal = new bootstrap.Modal(document.getElementById('columnMappingModal'));
         columnMappingModal.show();
     };
     reader.readAsBinaryString(fileInput.files[0]);
 }
+
 
 // Function to populate the column mapping form
 function populateColumnMappingForm(columns) {
@@ -429,45 +463,246 @@ function updateBulkTranslationLanguage() {
     });
 }
 
-// Function to show the download options modal
-function showDownloadOptionsModal() {
-    let downloadOptionsModal = new bootstrap.Modal(document.getElementById('downloadOptionsModal'));
-    downloadOptionsModal.show();
+let selectedColumns = [];
+
+function getSelectedColumns() {
+    // Array to hold selected column names
+    let selectedColumns = [];
+    
+    // Iterate over all checkboxes in the modal
+    $('#column-checkboxes .form-check-input:checked').each(function() {
+        // Get the value of each checked checkbox
+        selectedColumns.push($(this).val());
+    });
+    
+    // Return the list of selected columns
+    return selectedColumns;
 }
 
-function downloadConfiguration() {
-    let selectedFormat = $('input[name="format"]:checked').val();
+// Pokaż modal do wyboru kolumn i wierszy
+function showColumnSelection() {
+    // Zamknięcie wszelkich otwartych modali
+    let openModals = document.querySelectorAll('.modal.show');
+    openModals.forEach(modal => {
+        let instance = bootstrap.Modal.getInstance(modal);
+        if (instance) {
+            instance.hide();
+        }
+    });
+
+    const modal = new bootstrap.Modal(document.getElementById('columnSelectionModal'));
+    const columnCheckboxes = document.getElementById('column-checkboxes');
     
-    $.ajax({
-        url: '/download_configuration',
-        type: 'POST',
-        data: { format: selectedFormat },
-        success: function(response) {
-            // Create a link element to trigger the download
-            let link = document.createElement('a');
-            link.href = window.URL.createObjectURL(new Blob([response.data], { type: response.contentType }));
-            link.download = `configuration.${selectedFormat}`;
-            link.click();
-            
-            // Hide the modal
-            let downloadOptionsModal = bootstrap.Modal.getInstance(document.getElementById('downloadOptionsModal'));
-            downloadOptionsModal.hide();
-        },
-        error: function() {
-            alert('Failed to download configuration.');
+    columnCheckboxes.innerHTML = ''; // Clear existing checkboxes
+    const columns = ['Language', 'Translation Language', 'Word', 'Translation', 'Definition', 'Example', 'Example Translation', 'Image Link', 'Audio Link'];
+    
+    columns.forEach(column => {
+        const checkbox = document.createElement('div');
+        checkbox.classList.add('form-check');
+        checkbox.innerHTML = `
+            <input class="form-check-input" type="checkbox" value="${column}" id="column-${column}" checked>
+            <label class="form-check-label" for="column-${column}">
+                ${column}
+            </label>
+        `;
+        columnCheckboxes.appendChild(checkbox);
+    });
+
+    modal.show();
+}
+
+function closeAllModals() {
+    let openModals = document.querySelectorAll('.modal.show');
+    openModals.forEach(modal => {
+        let instance = bootstrap.Modal.getInstance(modal);
+        if (instance) {
+            instance.hide();
         }
     });
 }
 
+
+// Pokaż modal do wyboru formatu po wybraniu kolumn
+function showDownloadOptions() {
+    const columnSelectionModal = bootstrap.Modal.getInstance(document.getElementById('columnSelectionModal'));
+    columnSelectionModal.hide(); // Ukryj modal wyboru kolumn
+    const downloadOptionsModal = new bootstrap.Modal(document.getElementById('downloadOptionsModal'));
+    downloadOptionsModal.show(); // Pokaż modal wyboru formatu
+}
+
+function showDownloadOptionsModal() {
+    // Zamknięcie wszelkich otwartych modali
+    let openModals = document.querySelectorAll('.modal.show');
+    openModals.forEach(modal => {
+        let instance = bootstrap.Modal.getInstance(modal);
+        if (instance) {
+            instance.hide();
+        }
+    });
+
+    let downloadModal = new bootstrap.Modal(document.getElementById('downloadOptionsModal'));
+    downloadModal.show();
+}
+
+function toggleTheme() {
+    document.body.classList.toggle('dark-theme'); // Implement dark-theme class in your CSS
+}
+
+function getTableData() {
+    const table = document.getElementById('data-table');
+    const rows = table.querySelectorAll('tbody tr');
+    const data = [];
+
+    rows.forEach(row => {
+        const cells = row.querySelectorAll('td');
+        const rowData = {
+            language: cells[1].textContent.trim(),
+            translationLanguage: cells[2].textContent.trim(),
+            word: cells[3].textContent.trim(),
+            translation: cells[4].textContent.trim(),
+            definition: cells[5].textContent.trim(),
+            example: cells[6].textContent.trim(),
+            exampleTranslation: cells[7].textContent.trim(),
+            imageLink: cells[8].textContent.trim(),
+            audioLink: cells[9].textContent.trim()
+        };
+        data.push(rowData);
+    });
+
+    return data;
+}
+
+// Funkcja do pobierania konfiguracji
+function downloadConfiguration() {
+    const formatRadios = document.querySelectorAll('input[name="format"]');
+    let selectedFormat;
+
+    formatRadios.forEach(radio => {
+        if (radio.checked) {
+            selectedFormat = radio.value;
+        }
+    });
+
+    const columns = getSelectedColumns(); // Implement this function based on your needs
+    const rowData = getTableData();
+    let fileData;
+
+    if (selectedFormat === 'json') {
+        fileData = JSON.stringify({ columns, rows: rowData });
+        downloadFile(fileData, 'data.json', 'application/json');
+    } else if (selectedFormat === 'csv') {
+        fileData = convertToCSV(rowData, columns); // Implement convertToCSV
+        downloadFile(fileData, 'data.csv', 'text/csv');
+    } else if (selectedFormat === 'excel') {
+        // Implement Excel export logic
+        fileData = convertToExcel(rowData, columns); // Implement convertToExcel
+        downloadFile(fileData, 'data.xlsx', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+    }
+}
+
+function downloadFile(content, filename, mimeType) {
+    const blob = new Blob([content], { type: mimeType });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => {
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);
+    }, 0);
+}
+
+
+// Funkcja do zaznaczenia/odznaczenia wszystkich kolumn
+function toggleSelectAllColumns(selectAllCheckbox) {
+    let checkboxes = document.querySelectorAll('input.column-checkbox');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = selectAllCheckbox.checked;
+    });
+}
+
+// Pokaż modal do wyboru wierszy
+function showRowSelection() {
+    let rowSelectionModal = new bootstrap.Modal(document.getElementById('rowSelectionModal'));
+    rowSelectionModal.show();
+}
+
+// Funkcja do zaznaczania wszystkich wierszy
+function toggleSelectAllRows(selectAllCheckbox) {
+    let checkboxes = document.querySelectorAll('input.row-checkbox');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = selectAllCheckbox.checked;
+    });
+}
+
+function generateTableRows(data) {
+    let tbody = document.querySelector('#data-table tbody');
+    tbody.innerHTML = ''; // Czyści istniejące wiersze
+
+    data.forEach((row, index) => {
+        let tr = document.createElement('tr');
+
+        // Dodanie checkboxa do pierwszej kolumny
+        let checkboxCell = document.createElement('td');
+        checkboxCell.innerHTML = `<input type="checkbox" class="row-checkbox" data-row-index="${index}">`;
+        tr.appendChild(checkboxCell);
+
+        // Dodanie pozostałych danych do wiersza
+        Object.values(row).forEach(value => {
+            let td = document.createElement('td');
+            td.textContent = value;
+            tr.appendChild(td);
+        });
+
+        // Dodanie przycisków akcji
+        let actionsCell = document.createElement('td');
+        actionsCell.innerHTML = `
+            <button class="btn btn-success" onclick="saveRow(${index})">Save</button>
+            <button class="btn btn-danger" onclick="deleteRow(${index})">Delete</button>
+            <button class="btn btn-warning" onclick="clearRow(${index})">Clear</button>
+        `;
+        tr.appendChild(actionsCell);
+
+        tbody.appendChild(tr);
+    });
+}
+
+// Funkcja do uploadu pliku Excel (pozostaje bez zmian)
+function uploadExcel() {
+    let fileInput = $('#upload-excel')[0];
+    if (fileInput.files.length === 0) {
+        alert('Please select a file.');
+        return;
+    }
+    let formData = new FormData();
+    formData.append('file', fileInput.files[0]);
+
+    $.ajax({
+        url: '/upload_excel',
+        type: 'POST',
+        data: formData,
+        processData: false,
+        contentType: false,
+        success: function(data) {
+            window.data = JSON.parse(JSON.stringify(data));  // Save a copy of the new original data
+            console.log('Uploaded data:', window.data); // Sprawdź dane w konsoli
+            fetchData();  // Refresh the data after uploading the file
+            generateColumnCheckboxes();  // Generate column checkboxes in the table header
+        }
+    });
+}
 // Attach event listeners to buttons and search input
 $(document).ready(function() {
-    $('#loadAudioPaths').click(handleLoadAudioPaths);
-    $('#loadImagePaths').click(handleLoadImagePaths);
     $('#saveChanges').click(handleSaveChanges);
     $('#translateRows').click(handleTranslateRows);
     $('#search').click(handleSearch);
-
+    $('#loadAudioPaths').click(handleLoadAudioPaths);
+    $('#loadImagePaths').click(handleLoadImagePaths);
     $('#searchInput').on('input', filterTableRows);
     $('#bulkLanguage').on('change', updateBulkLanguage);
     $('#bulkTranslationLanguage').on('change', updateBulkTranslationLanguage);
 });
+
+

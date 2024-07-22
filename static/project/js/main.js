@@ -185,3 +185,55 @@ function saveSetting(data) {
     }
   }
   
+  let currentWordData = {}; // Store current word data for editing
+  let originalWordData = {};
+
+  function openEditModal(wordData) {
+      originalWordData = { ...wordData }; // Save a copy of the original data for undo functionality
+  
+      document.getElementById('edit-language').value = wordData.language || '';
+      document.getElementById('edit-translation-language').value = wordData.translationLanguage || '';
+      document.getElementById('edit-word').value = wordData.word || '';
+      document.getElementById('edit-translation').value = wordData.translation || '';
+      document.getElementById('edit-definition').value = wordData.definition || '';
+      document.getElementById('edit-example').value = wordData.example || '';
+      document.getElementById('edit-example-translation').value = wordData.example_translation || '';
+      document.getElementById('edit-image-link').value = wordData.imageLink || '';
+      document.getElementById('edit-audio-link').value = wordData.audioLink || '';
+  
+      let editWordModal = new bootstrap.Modal(document.getElementById('editWordModal'));
+      editWordModal.show();
+  }
+  
+  function clearForm() {
+      document.getElementById('edit-word-form').reset();
+  }
+  
+  function revertChanges() {
+      openEditModal(originalWordData);
+  }
+  
+  function saveChanges() {
+      let editedWord = {
+          language: document.getElementById('edit-language').value,
+          translationLanguage: document.getElementById('edit-translation-language').value,
+          word: document.getElementById('edit-word').value,
+          translation: document.getElementById('edit-translation').value,
+          definition: document.getElementById('edit-definition').value,
+          example: document.getElementById('edit-example').value,
+          example_translation: document.getElementById('edit-example-translation').value,
+          imageLink: document.getElementById('edit-image-link').value,
+          audioLink: document.getElementById('edit-audio-link').value,
+      };
+  
+      // Update the word in the words array
+      let index = words.findIndex(word => word.lemma === originalWordData.lemma);
+      if (index !== -1) {
+          words[index] = { ...words[index], ...editedWord };
+      }
+  
+      // Optionally, you could send the updated word to the backend to save changes permanently
+  
+      $('#editWordModal').modal('hide');
+  }
+  
