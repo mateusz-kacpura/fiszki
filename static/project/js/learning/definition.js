@@ -97,8 +97,7 @@ function fetchTranslation(text) {
 }
 
 function showResultInModal(correct, translation, selectedWord) {
-    console.log('Selected Word:', currentWordData.definition);
-    console.log('Correct Word:', correct);
+    console.log('Your answer is: ', correct);
 
     const answerButtons = document.getElementById('answer-buttons');
     answerButtons.innerHTML = '';
