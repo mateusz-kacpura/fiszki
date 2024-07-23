@@ -1,0 +1,40 @@
+<!-- Result Modal -->
+    <div class="modal fade" id="resultModal" tabindex="-1" aria-labelledby="resultModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header {{ modalHeaderClass }}">
+                    <h5 class="modal-title" id="resultModalLabel">{{ modalTitle }}</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <!-- Modal Body -->
+                <div class="modal-body {{ 'bg-dark text-light' if theme == 'dark' else '' }}">
+                    <p id="result-text">{{ resultMessage }}</p>
+                    <p>
+                        <strong id="correct-word" style="display: block; text-align: center;">
+                            {{ correctWord }}
+                            <button style="margin-left: 10px;" onclick="playTextToSpeech('{{ correctWord }}')">
+                                <i class="icon-sound"></i>
+                            </button>
+                        </strong>
+                    </p>
+                    <p style="text-align: center;" id="full-sentence">
+                        {{ fullSentence }}
+                        <button style="margin-left: 10px;" onclick="playTextToSpeech('{{ fullSentence }}')">
+                            <i class="icon-sound"></i>
+                        </button>
+                    </p>
+                    <p style="text-align: center;" id="example-translation">
+                        {{ exampleTranslation }}
+                        <button style="margin-left: 10px;" onclick="playTextToSpeech('{{ exampleTranslation }}')">
+                            <i class="icon-sound"></i>
+                        </button>
+                    </p>
+                </div>
+                <!-- Modal Footer -->
+                <div class="modal-footer {{ 'bg-dark text-light' if theme == 'dark' else '' }}">
+                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onclick="generateRandomWord()">Next</button>
+                </div>
+            </div>
+        </div>
+    </div>

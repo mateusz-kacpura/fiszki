@@ -1,0 +1,41 @@
+{% extends "learn.html" %}
+
+{% block title %}Multi Learning{% endblock %}
+
+{% block learn %}
+<style>
+    .word-to-translate {
+        font-weight: bold;
+    }
+    .icon-sound {
+        font-size: 1.2em;
+    }
+    #example-sentence-text {
+        text-align: center;
+    }
+</style>
+
+<div class="container mt-5">
+    <h1>Language Learning Game</h1>
+    <div id="quiz" style="display:none;">
+        <div class="mb-3" id="answer-buttons"></div>
+        <div class="mb-3">
+            <p id="example-sentence-text"></p>        
+        </div>        
+        <div id="new-sentence-btn-container" class="d-flex justify-content-center mt-4">
+            <button id="new-sentence-btn" class="btn btn-primary me-2" style="display: none;" onclick="generateRandomWord()">Losuj nowe zdanie</button>
+            <button id="edit-word-btn" class="btn btn-warning ms-2" style="display: none;" onclick="openEditModal(currentWordData)">Edit</button>
+        </div>            
+    </div>
+
+    {% include 'learning/controls/buttons.html' %}
+    {% include 'learning/modals/definition-pop-up.html' %}
+    {% include 'learning/modals/edit-word-modal.html' %}
+
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='project/js/learning/definition.js') }}"></script>
+{% endblock %}

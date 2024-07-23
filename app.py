@@ -8,6 +8,7 @@ from flask import send_from_directory
 from werkzeug.utils import secure_filename
 from openpyxl import load_workbook
 from transformers import AutoProcessor, AutoModel, BarkModel, WhisperProcessor, WhisperForConditionalGeneration
+from transformers import pipeline
 import torch
 from scipy.io.wavfile import write
 from pydub import AudioSegment
@@ -156,6 +157,10 @@ def scattered_words_learning():
 def insert_word():
     return render_template('learning/insert_word.html')
 
+@app.route('/learning/definition')
+def definition():
+    return render_template('learning/definition.html')
+
 @app.route('/learning/single_word_learning')
 def single_word_learning():
     return render_template('learning//single_word_learning.html', title="Language Quiz")
@@ -199,27 +204,61 @@ def audio_files(filename):
     return send_from_directory('audio_files', filename)
 # <--                          !-->
 
-@app.route('/modals/image-pop-up', methods=['GET'])
-def image_pop_up():
-    # print(os.path.abspath('templates/learning/modals/pop-up.html'))
-    # Pobierz parametry modalnego okienka
-    selectedWord = request.args.get('selectedWord')
-    correctWord = request.args.get('correctWord')
-    theme = request.args.get('theme', 'light')
-    modalHeaderClass = 'bg-success text-white' if selectedWord == correctWord else 'bg-danger text-white'
-    modalTitle = 'Poprawna odpowiedź!' if selectedWord == correctWord else 'Nieprawidłowa odpowiedź!'
-    modalMessage = modalTitle
-    
-    # Renderuj szablon modalnego okienka
-    modal_html = render_template(
-        'learning/modals/image-pop-up.html',
-        modalHeaderClass=modalHeaderClass,
-        modalTitle=modalTitle,
-        modalMessage=modalMessage,
-        correctWord=correctWord,
-        theme=theme
-    )
-    return jsonify({'modal_html': modal_html})
+@app.route('/translate', methods=['POST'])
+def translate():
+    data = request.json
+    text = data.get('text')
+
+    if not text:
+        return jsonify({'error': 'No text provided'}), 400
+
+    try:
+        # Initialize the translation pipeline
+        generator = pipeline("translation", model="facebook/m2m100_418M")
+        result = generator(text, src_lang="en", tgt_lang="pl", max_length=512)
+
+        # Extract the translated text from the result
+        translated_text = result[0]['translation_text']
+        return jsonify({'translatedText': translated_text})
+
+    except Exception as e:
+        # Return error message and status code
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/modals/definition-pop-up', methods=['GET'])
+def definition_pop_up():
+    try:
+        resultMessage = request.args.get('resultMessage', '')
+        selectedWord = request.args.get('selectedWord', '')
+        word = request.args.get('word', '')
+        print(word)
+        print(selectedWord)
+        translation = request.args.get('translation', '')
+        definition = request.args.get('definition', '')
+        theme = request.args.get('theme', 'light')
+
+        # Determine if the answer is correct
+        isCorrect = resultMessage == 'Correct!'
+        modalHeaderClass = 'bg-success text-white' if selectedWord == word else 'bg-danger text-white'
+        modalTitle = 'Correct Answer!' if isCorrect else 'Incorrect Answer!'
+        modalMessage = f'Your choice: {selectedWord}' if not isCorrect else ''
+        selectedWord = f"Your choice:  {selectedWord}"
+        
+        # Render the modal HTML using Jinja2 template
+        modal_html = render_template(
+            'learning/modals/definition-pop-up.html',
+            modalHeaderClass=modalHeaderClass,
+            modalTitle=modalTitle,
+            modalMessage=modalMessage,
+            correctWord=translation,
+            fullSentence=definition,
+            exampleTranslation=word,
+            theme=theme
+        )
+
+        return jsonify({'modal_html': modal_html})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/modals/insert-pop-up', methods=['GET'])
 def insert_pop_up():
@@ -642,8 +681,6 @@ def upload_excel():
     df = pd.read_excel(file)
     print(df.columns.tolist())
 
-    # Process each row and map columns to the specified variables
-    # Process each row and map columns to the specified variables
     for _, row in df.iterrows():
         entry = {
             "language": row[language_col] if language_col and pd.notna(row[language_col]) else '',

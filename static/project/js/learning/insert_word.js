@@ -102,6 +102,7 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;
+            playTextToSpeech(fullSentence);
 
             document.body.insertAdjacentHTML('beforeend', modalHTML);
 
