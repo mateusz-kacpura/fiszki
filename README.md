@@ -1,219 +1,349 @@
-# Language Quiz
+## Dokumentacja Aplikacji Flask
 
-A flashcard application for learning new words quickly and efficiently.
+### Opis
 
-![Language Quiz](https://raw.githubusercontent.com/mateusz-kacpura/fiszki/main/img/Language%20Quiz.png)
+Aplikacja jest zbudowana z użyciem frameworka Flask i służy do różnych operacji związanych z przetwarzaniem języka naturalnego, zarządzaniem plikami oraz konwersją tekstu na mowę i odwrotnie. Wykorzystuje różne modele przetwarzania języka oraz narzędzia do zarządzania plikami i logowaniem.
 
-## Backend Documentation
+### Wymagania
 
-### Table of Contents
+- Python 3.7+
+- Flask
+- Flask-CORS
+- Requests
+- OpenPyXL
+- Transformers
+- Torch
+- SciPy
+- Pydub
+- NLTK
+- PyAudio
+- NumPy
+- Pandas
+- Werkzeug
 
-- Introduction
-- Installation and configuration
-- Directory Structure
-- API Endpoints
-  - Real-Time Speech Recognition
-  - Send Static File
-  - Send Audio File
-  - Text-to-Speech
-  - Load Audio Paths
-  - Save JSON
-  - Save Statistic
-  - Save Setting
-  - Get Words
-  - Edit Word
-  - Get Files
-  - Upload File
-- Logging
+### Konfiguracja
 
-### Introduction
+1. **Foldery i Pliki**:
+    - `uploads`: Folder do przechowywania przesłanych plików.
+    - `image_files`: Folder do przechowywania plików graficznych.
+    - `audio_files`: Folder do przechowywania plików audio.
+    - `logi`: Folder do przechowywania plików logów.
+    - `api/statistic/statistics.json`: Plik do przechowywania statystyk.
+    - `api/setting/excludedWords.json`: Plik do przechowywania wykluczonych słów.
 
-This application is a Flask-based backend that handles various functions related to speech recognition, text-to-speech conversion, and managing audio and JSON files.
+2. **Modele**:
+    - `BARK_MODEL`: Ścieżka do modelu Bark.
+    - `WHISPER_MEDIUM`: Ścieżka do modelu Whisper.
 
-### Installation and Configuration
+3. **Logger**:
+    - Konfiguruje logowanie dla różnych rodzajów aktywności: aplikacji, audio, obrazów, przesyłania plików.
 
-1. **Clone the repository**:
-    ```bash
-    git clone <REPOSITORY_URL>
-    cd <REPOSITORY_NAME>
-    ```
+### Endpointy API
 
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+#### `/process-words`
+- **Metoda**: POST
+- **Opis**: Przetwarza słowa, zwracając ich lematyzowane wersje.
+- **Dane wejściowe**: JSON z listą słów.
+- **Odpowiedź**: JSON z lematyzowanymi słowami.
 
-3. **Set environment variables**:
-    ```python
-    import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = ""
-    os.environ["SUNO_USE_SMALL_MODELS"] = "1"
-    ```
+#### `/translate`
+- **Metoda**: POST
+- **Opis**: Tłumaczy podany tekst z języka angielskiego na polski.
+- **Dane wejściowe**: JSON z tekstem do tłumaczenia.
+- **Odpowiedź**: JSON z przetłumaczonym tekstem.
 
-4. **Run the application**:
-    ```bash
-    python app.py
-    ```
+#### `/modals/definition-pop-up`
+- **Metoda**: GET
+- **Opis**: Generuje HTML dla modalnego okienka definicji słowa.
+- **Parametry**: `resultMessage`, `selectedWord`, `word`, `translation`, `definition`, `theme`.
 
-5. **Run pages - routes**
-- 127.0.0.1:3000/add_lists_words
-- 127.0.0.1:3000/add_new_word
-- 127.0.0.1:3000/edit_list_words
-- 127.0.0.1:3000/multi_learning
-- 127.0.0.1:3000/read_from_file
-- 127.0.0.1:3000/scattered_words_learning
-- 127.0.0.1:3000/sentences_learining
-- 127.0.0.1:3000/single_word_learning
+#### `/modals/insert-pop-up`
+- **Metoda**: GET
+- **Opis**: Generuje HTML dla modalnego okienka wstawiania słowa.
+- **Parametry**: `selectedWord`, `correctWord`, `fullSentence`, `exampleTranslation`, `theme`.
 
-### Directory Structure
+#### `/modals/multi-pop-up`
+- **Metoda**: GET
+- **Opis**: Generuje HTML dla modalnego okienka wielokrotnego wyboru.
+- **Parametry**: `userTranslation`, `correctTranslation`, `theme`.
 
-- `uploads/`: Stores uploaded files.
-- `image_files/`: Stores image files.
-- `audio_files/`: Stores audio files.
-- `logs/`: Stores application logs.
-- `api/astatistic/statistics.json`: Stores saved statistics.
-- `api/setting/excludedWords.json`: Stores settings.
-- `templates/`: Files html Jnija2 System
-- `static/`: Files /js and /css for build frontend
+#### `/real-time-speech-recognition`
+- **Metoda**: POST
+- **Opis**: Rozpoczyna rozpoznawanie mowy w czasie rzeczywistym.
+- **Dane wejściowe**: Brak (rozpoczyna nagrywanie).
+- **Odpowiedź**: JSON z transkrypcją mowy.
 
-### API Endpoints
+#### `/text-to-speech`
+- **Metoda**: POST
+- **Opis**: Konwertuje tekst na mowę i zwraca ścieżkę do pliku audio.
+- **Dane wejściowe**: JSON z tekstem.
+- **Odpowiedź**: JSON ze ścieżką do pliku audio.
 
-#### Real-Time Speech Recognition
+#### `/load-audio-paths`
+- **Metoda**: POST
+- **Opis**: Ładuje ścieżki do plików audio dla listy słów.
+- **Dane wejściowe**: JSON z listą słów.
+- **Odpowiedź**: JSON z listą ścieżek do plików audio.
 
-- **Endpoint**: `/real-time-speech-recognition`
-- **Method**: POST
-- **Description**: Starts recording and real-time speech recognition.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/real-time-speech-recognition
-    ```
+#### `/load-image-paths`
+- **Metoda**: POST
+- **Opis**: Ładuje ścieżki do plików obrazów dla listy słów.
+- **Dane wejściowe**: JSON z listą słów.
+- **Odpowiedź**: JSON z listą ścieżek do plików obrazów.
 
-#### Send Static File
+#### `/save`
+- **Metoda**: POST
+- **Opis**: Zapisuje dane JSON do pliku.
+- **Dane wejściowe**: JSON z nazwą pliku i danymi.
+- **Odpowiedź**: JSON z komunikatem o sukcesie.
 
-- **Endpoint**: `/<path:path>`
-- **Method**: GET
-- **Description**: Sends a static file from the `public` directory.
-- **Example**:
-    ```bash
-    curl http://localhost:3000/somefile.html
-    ```
+#### `/save_statistic`
+- **Metoda**: POST
+- **Opis**: Zapisuje statystyki do pliku.
+- **Dane wejściowe**: JSON z danymi statystyk.
+- **Odpowiedź**: JSON z komunikatem o sukcesie.
 
-#### Send Audio File
+#### `/saveSetting`
+- **Metoda**: POST
+- **Opis**: Zapisuje ustawienia wykluczonych słów do pliku.
+- **Dane wejściowe**: JSON z wykluczonymi słowami.
+- **Odpowiedź**: JSON z komunikatem o sukcesie.
 
-- **Endpoint**: `/audio_files/<path:path>`
-- **Method**: GET
-- **Description**: Sends an audio file from the `audio_files` directory.
-- **Example**:
-    ```bash
-    curl http://localhost:3000/audio_files/somefile.mp3
-    ```
+#### `/words`
+- **Metoda**: GET
+- **Opis**: Pobiera dane z pliku JSON.
+- **Parametry**: `file` (nazwa pliku).
+- **Odpowiedź**: JSON z danymi.
 
-#### Text-to-Speech
+#### `/edit/:file/:index`
+- **Metoda**: POST
+- **Opis**: Edytuje słowo w pliku JSON.
+- **Parametry**: `file` (nazwa pliku), `index` (indeks słowa).
+- **Dane wejściowe**: JSON z zaktualizowanymi danymi.
+- **Odpowiedź**: JSON z komunikatem o sukcesie.
 
-- **Endpoint**: `/text-to-speech`
-- **Method**: POST
-- **Description**: Converts text to speech and saves the audio file.
-- **Body**: JSON containing `text`.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/text-to-speech -H "Content-Type: application/json" -d '{"text": "Hello world"}'
-    ```
+#### `/files`
+- **Metoda**: GET
+- **Opis**: Pobiera listę plików z folderu `uploads`.
+- **Odpowiedź**: JSON z listą plików.
 
-#### Load Audio Paths
+#### `/upload`
+- **Metoda**: POST
+- **Opis**: Przesyła plik Excel i zwraca kolumny.
+- **Dane wejściowe**: Plik Excel.
+- **Odpowiedź**: JSON z kolumnami.
 
-- **Endpoint**: `/load-audio-paths`
-- **Method**: POST
-- **Description**: Retrieves paths to audio files for the given words.
-- **Body**: JSON containing `words`.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/load-audio-paths -H "Content-Type: application/json" -d '{"words": ["word1", "word2"]}'
-    ```
+#### `/data`
+- **Metoda**: GET
+- **Opis**: Pobiera dane w paginowanej formie.
+- **Parametry**: `page`, `per_page`.
+- **Odpowiedź**: JSON z danymi.
 
-#### Save JSON
+#### `/data`
+- **Metoda**: POST
+- **Opis**: Dodaje nowe dane.
+- **Dane wejściowe**: JSON z nowymi danymi.
+- **Odpowiedź**: JSON z zaktualizowanymi danymi.
 
-- **Endpoint**: `/save`
-- **Method**: POST
-- **Description**: Saves JSON data to a file.
-- **Body**: JSON containing `fileName` and `jsonData`.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/save -H "Content-Type: application/json" -d '{"fileName": "data.json", "jsonData": {"key": "value"}}'
-    ```
+#### `/data/<int:index>`
+- **Metoda**: PUT
+- **Opis**: Aktualizuje dane w oparciu o indeks.
+- **Dane wejściowe**: JSON z zaktualizowanymi danymi.
+- **Odpowiedź**: JSON z zaktualizowanymi danymi.
 
-#### Save Statistic
+#### `/data/<int:index>`
+- **Metoda**: DELETE
+- **Opis**: Usuwa dane na podstawie indeksu.
+- **Odpowiedź**: JSON z zaktualizowanymi danymi.
 
-- **Endpoint**: `/save_statistic`
-- **Method**: POST
-- **Description**: Saves statistics to the `statistics.json` file.
-- **Body**: JSON containing statistics.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/save_statistic -H "Content-Type: application/json" -d '{"stat": "value"}'
-    ```
+#### `/parse_excel_columns`
+- **Metoda**: POST
+- **Opis**: Parsuje kolumny z pliku Excel.
+- **Dane wejściowe**: Plik Excel.
+- **Odpowiedź**: JSON z nazwami kolumn.
 
-#### Save Setting
+#### `/upload_excel`
+- **Metoda**: POST
+- **Opis**: Przesyła plik Excel i dodaje dane do aplikacji.
+- **Dane wejściowe**: Plik Excel i mapowanie kolumn.
+- **Odpowiedź**: JSON z dodanymi danymi.
 
-- **Endpoint**: `/saveSetting`
-- **Method**: POST
-- **Description**: Saves settings to the `excludedWords.json` file.
-- **Body**: JSON containing `excludedWords`.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/saveSetting -H "Content-Type: application/json" -d '{"excludedWords": ["word1", "word2"]}'
-    ```
+#### `/download_configuration`
+- **Metoda**: POST
+- **Opis**: Pobiera dane w wybranym formacie (JSON, CSV, Excel).
+- **Dane wejściowe**: JSON z kolumnami, wierszami i formatem.
+- **Odpowiedź**: Plik w wybranym formacie.
 
-#### Get Words
+### Uwagi
 
-- **Endpoint**: `/words`
-- **Method**: GET
-- **Description**: Returns JSON data from the specified file.
-- **URL Parameters**: `file` - name of the file.
-- **Example**:
-    ```bash
-    curl http://localhost:3000/words?file=data.json
-    ```
+- Modele BARK i Whisper wymagają odpowiednich repozytoriów i zasobów do działania. Upewnij się, że są pobrane i skonfigurowane przed uruchomieniem aplikacji.
+- Konfiguracja i logowanie są zaawansowane i dostosowane do różnych przypadków użycia, co ułatwia śledzenie błędów i monitorowanie aktywności aplikacji.
+- Aplikacja wykorzystuje różne mechanizmy przechowywania i manipulacji danymi, w tym operacje na plikach, co wymaga odpowiednich uprawnień i konfiguracji środowiska.
 
-#### Edit Word
+### Przykłady Użycia
 
-- **Endpoint**: `/edit/:file/:index`
-- **Method**: POST
-- **Description**: Edits data in the specified JSON file at the given index.
-- **URL Parameters**: `file` - name of the file, `index` - index of the data to edit.
-- **Body**: JSON containing updated data.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/edit/data.json/1 -H "Content-Type: application/json" -d '{"key": "new_value"}'
-    ```
+1. **Przetwarzanie słów**: Wysy
 
-#### Get Files
+łając JSON z listą słów do endpointu `/process-words`, można uzyskać lematyzowane wersje tych słów.
+   
+2. **Konwersja tekstu na mowę**: Wysyłając JSON z tekstem do `/text-to-speech`, aplikacja zwróci ścieżkę do pliku audio zawierającego mowę wygenerowaną z tekstu.
 
-- **Endpoint**: `/files`
-- **Method**: GET
-- **Description**: Returns a list of files in the `uploads` directory.
-- **Example**:
-    ```bash
-    curl http://localhost:3000/files
-    ```
+3. **Wgrywanie plików Excel**: Można przesłać plik Excel do `/upload` i otrzymać listę kolumn z pliku.
 
-#### Upload File
+4. **Pobieranie danych**: Można pobierać dane z endpointu `/data` w paginowanej formie lub dodawać nowe dane za pomocą tego samego endpointu.
 
-- **Endpoint**: `/upload`
-- **Method**: POST
-- **Description**: Uploads a file to the `uploads` directory and returns the columns from the Excel file.
-- **Body**: File uploaded as `multipart/form-data`.
-- **Example**:
-    ```bash
-    curl -X POST http://localhost:3000/upload -F 'file=@path/to/file.xlsx'
-    ```
+### Pomoc i Dokumentacja
 
-### Logging
+- Aby uzyskać więcej informacji na temat poszczególnych funkcji, proszę sprawdzić dokumentację każdej z metod API w powyższej sekcji.
+- W razie problemów z konfiguracją lub błędami, proszę sprawdzić logi w folderze `logi` i upewnić się, że wszystkie wymagane pakiety są zainstalowane i odpowiednio skonfigurowane.
 
-Application logs are stored in the `app.log` file in the root directory. Logging is performed using the `logging` module with the logging level set to `INFO`. Logs include error information and actions such as file retrieval and saving.
+### Instalacja Aplikacji Flask
 
-## Files
+Aby zainstalować i uruchomić aplikację Flask, wykonaj poniższe kroki:
 
-- `edit_list_words.html`: Edit and add new words in JSON format.
-- `index.html`: The learning panel.
+#### 1. **Przygotowanie Środowiska**
 
----
+1. **Zainstaluj Python**:
+   Upewnij się, że masz zainstalowaną wersję Pythona 3.7 lub wyższą. Możesz pobrać Pythona z [oficjalnej strony](https://www.python.org/downloads/).
+
+2. **Utwórz Wirtualne Środowisko**:
+   Aby uniknąć konfliktów między zależnościami różnych projektów, zaleca się używanie wirtualnego środowiska.
+
+   ```bash
+   python -m venv venv
+   ```
+
+3. **Aktywuj Wirtualne Środowisko**:
+   - **Windows**:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - **macOS/Linux**:
+     ```bash
+     source venv/bin/activate
+     ```
+
+#### 2. **Instalacja Zależności**
+
+1. **Pobierz Kod Źródłowy**:
+   Skopiuj kod źródłowy aplikacji na swoje lokalne środowisko. Możesz to zrobić za pomocą `git clone` lub ręcznie pobrać pliki.
+
+   ```bash
+   git clone <URL_REPOZYTORIUM>
+   cd <NAZWA_FOLDERU>
+   ```
+
+2. **Zainstaluj Zależności**:
+   Użyj pliku `requirements.txt`, aby zainstalować wszystkie wymagane pakiety.
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   Jeżeli nie masz pliku `requirements.txt`, możesz ręcznie zainstalować wymagane pakiety:
+
+   ```bash
+   pip install Flask Flask-CORS Requests OpenPyXL Transformers Torch SciPy Pydub NLTK PyAudio NumPy Pandas Werkzeug
+   ```
+
+#### 3. **Konfiguracja Środowiska**
+
+1. **Konfiguracja Modeli**:
+   Upewnij się, że masz pobrane modele `BARK_MODEL` i `WHISPER_MEDIUM`. Jeśli modele są w formie plików, umieść je w odpowiednich lokalizacjach wskazanych w kodzie aplikacji. W przeciwnym razie skonfiguruj ścieżki do modeli zgodnie z instrukcją w dokumentacji projektu.
+
+2. **Ustawienia Folderów**:
+   Upewnij się, że odpowiednie foldery istnieją:
+   - `uploads`
+   - `image_files`
+   - `audio_files`
+   - `logi`
+
+   Możesz je utworzyć ręcznie, jeśli nie istnieją.
+
+   ```bash
+   mkdir uploads image_files audio_files logi
+   ```
+
+3. **Konfiguracja Plików JSON**:
+   Upewnij się, że pliki `statistics.json` i `excludedWords.json` są dostępne w odpowiednich lokalizacjach (np. `api/statistic/statistics.json` i `api/setting/excludedWords.json`). Możesz je stworzyć ręcznie lub dostosować zgodnie z wymaganiami aplikacji.
+
+#### 4. **Uruchamianie Aplikacji**
+
+1. **Uruchom Aplikację**:
+   Po skonfigurowaniu środowiska i zainstalowaniu wszystkich zależności, uruchom aplikację Flask.
+
+   ```bash
+   python app.py
+   ```
+
+   Upewnij się, że `app.py` to główny plik aplikacji. Jeśli główny plik ma inną nazwę, użyj jej zamiast `app.py`.
+
+2. **Sprawdź Działanie Aplikacji**:
+   Otwórz przeglądarkę internetową i przejdź do `http://127.0.0.1:5000` (domyślny port Flask). Powinieneś zobaczyć stronę startową aplikacji lub odpowiednią stronę powitalną.
+
+#### 5. **Rozwiązywanie Problemów**
+
+- **Brakujące Pakiety**: Jeśli pojawią się błędy związane z brakującymi pakietami, upewnij się, że wszystkie wymagane pakiety są zainstalowane. Możesz spróbować zaktualizować `pip` i ponownie zainstalować zależności.
+
+  ```bash
+  pip install --upgrade pip
+  pip install -r requirements.txt
+  ```
+
+- **Problemy z Modelami**: Jeśli aplikacja nie może znaleźć modeli, upewnij się, że są one poprawnie pobrane i ścieżki do nich są prawidłowo ustawione w kodzie aplikacji.
+
+- **Problemy z Folderami**: Sprawdź, czy wszystkie wymagane foldery istnieją i mają odpowiednie uprawnienia do zapisu.
+
+
+├── api (demo)
+│   ├── setting
+│   └── statistic
+├── app (demo)
+│   ├── api
+│   └── utils
+├── audio_files
+├── image_files
+├── img
+├── logi
+├── models
+│   ├── bark
+│   │   └── speaker_embeddings
+│   │       └── v2
+│   └── whisper-medium
+├── static
+│   ├── bootstrap-5.3.3-dist
+│   │   ├── css
+│   │   └── js
+│   ├── fontello
+│   │   ├── css
+│   │   └── font
+│   └── project
+│       ├── css
+│       └── js
+│           ├── learning
+│           └── manage
+├── templates
+│   ├── learning
+│   │   ├── controls
+│   │   └── modals
+│   ├── manage
+│   │   ├── lists
+│   │   └── modals
+│   └── submenu
+└── uploads
+
+# Requirements
+
+Flask>=2.0.0
+Flask-CORS>=3.0.0
+requests>=2.0.0
+openpyxl>=3.0.0
+transformers>=4.0.0
+torch>=1.0.0
+scipy>=1.0.0
+pydub>=0.23.0
+nltk>=3.0.0
+pyaudio>=0.2.0
+numpy>=1.0.0
+pandas>=1.0.0
+werkzeug>=2.0.0
