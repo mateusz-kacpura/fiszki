@@ -626,33 +626,38 @@ def parse_excel_columns():
 @app.route('/upload_excel', methods=['POST'])
 def upload_excel():
     file = request.files['file']
-    language = request.form['language']
-    translationLanguage = request.form['translationLanguage']
-    word = request.form['word']
-    translation = request.form['translation']
-    definition = request.form['definition']
-    example = request.form['example']
-    example_translation = request.form['example_translation']
-    imageLink = request.form['imageLink']
-    audioLink = request.form['audioLink']
 
+    # Retrieve column names from the form, use .get() to handle empty keys
+    language_col = request.form.get('language', '')
+    translationLanguage_col = request.form.get('translationLanguage', '')
+    word_col = request.form.get('word', '')
+    translation_col = request.form.get('translation', '')
+    definition_col = request.form.get('definition', '')
+    example_col = request.form.get('example', '')
+    example_translation_col = request.form.get('example_translation', '')
+    imageLink_col = request.form.get('imageLink', '')
+    audioLink_col = request.form.get('audioLink', '')
+
+    # Read the Excel file
     df = pd.read_excel(file)
-    
-    global data
+    print(df.columns.tolist())
+
+    # Process each row and map columns to the specified variables
+    # Process each row and map columns to the specified variables
     for _, row in df.iterrows():
         entry = {
-            "language": language,
-            "translationLanguage": translationLanguage,
-            "word": word,
-            "translation": translation,
-            "definition": definition,
-            "example": example,
-            "example_translation": example_translation,
-            "imageLink": imageLink,
-            "audioLink": audioLink
+            "language": row[language_col] if language_col and pd.notna(row[language_col]) else '',
+            "translationLanguage": row[translationLanguage_col] if translationLanguage_col and pd.notna(row[translationLanguage_col]) else '',
+            "word": row[word_col] if word_col and pd.notna(row[word_col]) else '',
+            "translation": row[translation_col] if translation_col and pd.notna(row[translation_col]) else '',
+            "definition": row[definition_col] if definition_col and pd.notna(row[definition_col]) else '',
+            "example": row[example_col] if example_col and pd.notna(row[example_col]) else '',
+            "example_translation": row[example_translation_col] if example_translation_col and pd.notna(row[example_translation_col]) else '',
+            "imageLink": row[imageLink_col] if imageLink_col and pd.notna(row[imageLink_col]) else '',
+            "audioLink": row[audioLink_col] if audioLink_col and pd.notna(row[audioLink_col]) else ''
         }
         data.append(entry)
-    print(len(data))
+    
     return jsonify(data)
 
 
