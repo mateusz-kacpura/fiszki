@@ -294,9 +294,6 @@ Aby zainstalować i uruchomić aplikację Flask, wykonaj poniższe kroki:
 
 - **Problemy z Folderami**: Sprawdź, czy wszystkie wymagane foldery istnieją i mają odpowiednie uprawnienia do zapisu.
 
-
-Oczywiście, oto jak można zapisać strukturę folderów w formacie Markdown:
-
 ```markdown
 ├── api (demo)
 │   ├── setting
