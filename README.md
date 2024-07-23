@@ -295,6 +295,9 @@ Aby zainstalować i uruchomić aplikację Flask, wykonaj poniższe kroki:
 - **Problemy z Folderami**: Sprawdź, czy wszystkie wymagane foldery istnieją i mają odpowiednie uprawnienia do zapisu.
 
 
+Oczywiście, oto jak można zapisać strukturę folderów w formacie Markdown:
+
+```markdown
 ├── api (demo)
 │   ├── setting
 │   └── statistic
@@ -331,19 +334,6 @@ Aby zainstalować i uruchomić aplikację Flask, wykonaj poniższe kroki:
 │   │   └── modals
 │   └── submenu
 └── uploads
+```
 
-# Requirements
 
-Flask>=2.0.0
-Flask-CORS>=3.0.0
-requests>=2.0.0
-openpyxl>=3.0.0
-transformers>=4.0.0
-torch>=1.0.0
-scipy>=1.0.0
-pydub>=0.23.0
-nltk>=3.0.0
-pyaudio>=0.2.0
-numpy>=1.0.0
-pandas>=1.0.0
-werkzeug>=2.0.0
