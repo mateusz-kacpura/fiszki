@@ -2,6 +2,7 @@ let originalData = [];
 let currentPage = 1;
 let rowsPerPage = 5;
 let totalPages = 1;
+let data = []; // Globalna zmienna do przechowywania danych
 
 $(document).ready(function() {
     $('#addRow').click(function() {
@@ -176,6 +177,7 @@ function showColumnMappingModal() {
         processData: false,
         contentType: false,
         success: function(data) {
+            console.log(data.columns)
             populateColumnMappingFields(data.columns);  // Populate the modal with columns
             $('#columnMappingModal').modal('show');  // Show the modal
         }
@@ -185,25 +187,33 @@ function showColumnMappingModal() {
 function populateColumnMappingFields(columns) {
     let container = $('#column-mapping-fields');
     container.empty();  // Clear existing fields
+
+    // Predefined columns in desired order
     let mappingOptions = [
-        'Language',
-        'Translation Language',
-        'Word',
-        'Translation',
-        'Definition',
-        'Example',
-        'Example Translation',
-        'Image Link',
-        'Audio Link'
+        { value: 'language', text: 'Language' },
+        { value: 'translationLanguage', text: 'Translation Language' },
+        { value: 'word', text: 'Word' },
+        { value: 'translation', text: 'Translation' },
+        { value: 'definition', text: 'Definition' },
+        { value: 'example', text: 'Example' },
+        { value: 'example_translation', text: 'Example Translation' },
+        { value: 'imageLink', text: 'Image Link' },
+        { value: 'audioLink', text: 'Audio Link' }
     ];
 
-    columns.forEach((column, index) => {
-        let optionsHtml = mappingOptions.map(option => `<option value="${option}">${option}</option>`).join('');
+    // Generate the mapping fields
+    mappingOptions.forEach((option, index) => {
+        // Add an option for each column from the input array
+        let optionsHtml = columns.map(column => 
+            `<option value="${column}">${column}</option>`).join('');
+        
+        // Add an empty option at the start of the list
+        optionsHtml = `<option value="">Select a column</option>` + optionsHtml;
+        
         let field = `
             <div class="mb-3">
-                <label for="map-column${index}" class="form-label">${column}</label>
-                <select class="form-select" id="map-column${index}" name="map-${column}">
-                    <option value="">Select a column</option>
+                <label for="map-column${index}" class="form-label">${option.text}</label>
+                <select class="form-select" id="map-column${index}" name="${option.value}">
                     ${optionsHtml}
                 </select>
             </div>
@@ -240,8 +250,6 @@ function populateColumnMappingForm(columns) {
     });
 }
 
-let data = []; // Globalna zmienna do przechowywania danych
-
 function uploadExcel() {
     let fileInput = $('#upload-excel')[0];
     if (fileInput.files.length === 0) {
@@ -256,7 +264,7 @@ function uploadExcel() {
     columnMapping.forEach(item => {
         formData.append(item.name, item.value);
     });
-
+    console.log("Przed wysłaniem", formData)
     $.ajax({
         url: '/upload_excel',
         type: 'POST',
@@ -264,26 +272,10 @@ function uploadExcel() {
         processData: false,
         contentType: false,
         success: function(data) {
-            console.log("Upload successful:", data);  // Log success response
-
-            // Transform data keys to match expected column names
-            let transformedData = data.map(item => {
-                return {
-                    language: item['Language'] || '',
-                    translationLanguage: item['Translation Language'] || '',
-                    word: item['Word'] || '',
-                    translation: item['Translation'] || '',
-                    definition: item['Definition'] || '',
-                    example: item['Example'] || '',
-                    example_translation: item['Example Translation'] || '',
-                    imageLink: item['Image Link'] || '',
-                    audioLink: item['Audio Link'] || ''
-                };
-            });
-
-            console.log("Transformed data:", transformedData);  // Log transformed data
-            originalData = JSON.parse(JSON.stringify(transformedData));  // Save a copy of the transformed data
-            populateTable(transformedData);  // Populate the table with the transformed data
+            console.log("Przed przetworzeniem", data)
+            originalData = JSON.parse(JSON.stringify(data));  // Save a copy of the transformed data
+            console.log("Po przetworzeniu", originalData)
+            fetchData();  // Populate the table with the transformed data
         },
         error: function(jqXHR, textStatus, errorThrown) {
             console.error("Upload failed:", textStatus, errorThrown);  // Log error
@@ -317,6 +309,7 @@ function uploadJson() {
         contentType: false,
         success: function(data) {
             originalData = JSON.parse(JSON.stringify(data));  // Save a copy of the new original data
+            console.log(originalData)
             fetchData();  // Refresh the data after uploading the file
         }
     });

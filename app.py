@@ -625,22 +625,36 @@ def parse_excel_columns():
 
 @app.route('/upload_excel', methods=['POST'])
 def upload_excel():
-    global data
     file = request.files['file']
-    try:
-        df = pd.read_excel(file)
-        # Process column mapping
-        column_mapping = request.form.to_dict()
-        mapped_columns = {k.split('-')[1]: v for k, v in column_mapping.items() if v}
-        df = df.rename(columns=mapped_columns)
-        
-        # Replace NaN with None (JSON null)
-        df = df.replace({np.nan: None})
+    language = request.form['language']
+    translationLanguage = request.form['translationLanguage']
+    word = request.form['word']
+    translation = request.form['translation']
+    definition = request.form['definition']
+    example = request.form['example']
+    example_translation = request.form['example_translation']
+    imageLink = request.form['imageLink']
+    audioLink = request.form['audioLink']
 
-        data = df.to_dict(orient='records')
-        return jsonify(data), 200  # Return JSON with HTTP status 200
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500  # Return error message with HTTP status 500
+    df = pd.read_excel(file)
+    
+    global data
+    for _, row in df.iterrows():
+        entry = {
+            "language": language,
+            "translationLanguage": translationLanguage,
+            "word": word,
+            "translation": translation,
+            "definition": definition,
+            "example": example,
+            "example_translation": example_translation,
+            "imageLink": imageLink,
+            "audioLink": audioLink
+        }
+        data.append(entry)
+    print(len(data))
+    return jsonify(data)
+
 
 @app.route('/download_configuration', methods=['POST'])
 def download_configuration():
@@ -701,6 +715,7 @@ def upload_json():
 
 @app.route('/data/count', methods=['GET'])
 def get_data_count():
+    print("len data/count", len(data))
     return jsonify(len(data))
 
 @app.route('/upload-save-json', methods=['POST'])
