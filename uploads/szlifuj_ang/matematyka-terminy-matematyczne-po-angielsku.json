@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
       "language": "English",
@@ -10,8 +9,8 @@
       "definition_translation": "wartość lub ilość matematyczna",
       "example": "The number of people in the room was impressive.",
       "example_translation": "Liczba osób w pokoju była imponująca.",
-      "imageLink": "https://www.ang.pl/img/slownik/number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/number.mp3"
+      "imageLink": "image_files\\number.jpg",
+      "audioLink": "image_files\\number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -23,8 +22,8 @@
       "definition_translation": "Kształt okrągły bez początku ani końca.",
       "example": "The circle of friends gathered around the campfire.",
       "example_translation": "Krąg przyjaciół zgromadził się wokół ogniska.",
-      "imageLink": "https://www.ang.pl/img/slownik/circle-3.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/circle.mp3"
+      "imageLink": "image_files\\circle-3.jpg",
+      "audioLink": "image_files\\circle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -36,8 +35,8 @@
       "definition_translation": "kształt z czterema równymi bokami i czterema kątami prostymi",
       "example": "The square in the center of the city is a popular meeting spot.",
       "example_translation": "Plac kwadratowy w centrum miasta jest popularnym miejscem spotkań.",
-      "imageLink": "https://www.ang.pl/img/slownik/square-2.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/square.mp3"
+      "imageLink": "image_files\\square-2.jpg",
+      "audioLink": "image_files\\square.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -49,8 +48,8 @@
       "definition_translation": "duża, samowystarczalna kula gazu, która jest trzymana przez własną grawitację",
       "example": "The star shone brightly in the night sky.",
       "example_translation": "Gwiazda świeciła jasno na nocnym niebie.",
-      "imageLink": "https://www.ang.pl/img/slownik/star-2.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/star.mp3"
+      "imageLink": "image_files\\star-2.jpg",
+      "audioLink": "image_files\\star.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -62,8 +61,8 @@
       "definition_translation": "znak lub kształt składający się z dwóch przecinających się linii, szczególnie symbol chrześcijański",
       "example": "She wore a cross around her neck.",
       "example_translation": "Ona nosiła krzyż na szyi.",
-      "imageLink": "https://www.ang.pl/img/slownik/cross-1.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cross.mp3"
+      "imageLink": "image_files\\cross-1.jpg",
+      "audioLink": "image_files\\cross.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -75,8 +74,8 @@
       "definition_translation": "jednostka procentowa, równa setnej części całości",
       "example": "The company's profits increased by 25 per cent last year.",
       "example_translation": "Zyski spółki wzrosły o 25 procent w zeszłym roku.",
-      "imageLink": "https://www.ang.pl/img/slownik/per-cent.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/per cent.mp3"
+      "imageLink": "image_files\\per-cent.jpg",
+      "audioLink": "image_files\\per cent.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -88,8 +87,8 @@
       "definition_translation": "liczba będąca wynikiem dodania dwóch lub więcej liczb",
       "example": "The sum of 2 + 2 is 4.",
       "example_translation": "Suma 2 + 2 jest równa 4.",
-      "imageLink": "https://www.ang.pl/img/slownik/sum-1.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/sum.mp3"
+      "imageLink": "image_files\\sum-1.jpg",
+      "audioLink": "image_files\\sum.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -101,8 +100,8 @@
       "definition_translation": "Akt dodawania czegoś do czegoś innego, szczególnie aby zwiększyć jego rozmiar lub ilość",
       "example": "The addition of a new wing to the museum will increase its exhibition space.",
       "example_translation": "Dodanie nowego skrzydła do muzeum zwiększy jego przestrzeń wystawienniczą.",
-      "imageLink": "https://www.ang.pl/img/slownik/addition.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/addition.mp3"
+      "imageLink": "image_files\\addition.jpg",
+      "audioLink": "image_files\\addition.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -114,8 +113,8 @@
       "definition_translation": "kształt podobny do koła, który staje się mniejszy ku górze",
       "example": "The ice cream cone was melting in my hand.",
       "example_translation": "Śruba lodowa topniała mi w ręku.",
-      "imageLink": "https://www.ang.pl/img/slownik/cone-1.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cone.mp3"
+      "imageLink": "image_files\\cone-1.jpg",
+      "audioLink": "image_files\\cone.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -127,8 +126,8 @@
       "definition_translation": "trójwymiarowy obiekt stały z sześcioma stronami kwadratowymi o równych rozmiarach",
       "example": "The architect designed a cube-shaped building.",
       "example_translation": "Architekt zaprojektował budynek w kształcie sześcianu.",
-      "imageLink": "https://www.ang.pl/img/slownik/cube.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cube.mp3"
+      "imageLink": "image_files\\cube.jpg",
+      "audioLink": "image_files\\cube.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -140,8 +139,8 @@
       "definition_translation": "Odległość przez okrąg, przechodząca przez jego centrum.",
       "example": "The diameter of the wheel is 20 inches.",
       "example_translation": "Średnica koła jest 20 cali.",
-      "imageLink": "https://www.ang.pl/img/slownik/diameter.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/diameter.mp3"
+      "imageLink": "image_files\\diameter.jpg",
+      "audioLink": "image_files\\diameter.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -153,8 +152,8 @@
       "definition_translation": "mający zaokrąglony i zakrzywiony kształt, podobny do jaja",
       "example": "The oval shape of the swimming pool was a unique feature of the hotel.",
       "example_translation": "Owalny kształt basenu pływackiego był unikatową cechą hotelu.",
-      "imageLink": "https://www.ang.pl/img/slownik/oval.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/oval.mp3"
+      "imageLink": "image_files\\oval.jpg",
+      "audioLink": "image_files\\oval.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -166,8 +165,8 @@
       "definition_translation": "wielokąt o trzech bokach",
       "example": "The triangle is a fundamental shape in geometry.",
       "example_translation": "Trójkąt jest fundamentalnym kształtem w geometrii.",
-      "imageLink": "https://www.ang.pl/img/slownik/triangle-1.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/triangle.mp3"
+      "imageLink": "image_files\\triangle-1.jpg",
+      "audioLink": "image_files\\triangle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -179,8 +178,8 @@
       "definition_translation": "Przestrzeń lub kształt utworzony przez dwie linie lub płaszczyzny, które się spotykają",
       "example": "The angle of the roof is very steep.",
       "example_translation": "Kąt dachu jest bardzo stromy.",
-      "imageLink": "https://www.ang.pl/img/slownik/angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/angle.mp3"
+      "imageLink": "image_files\\angle.jpg",
+      "audioLink": "image_files\\angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -192,8 +191,8 @@
       "definition_translation": "duża struktura z kwadratową bazą i czterema trójkątnymi ścianami, które spotykają się na górze",
       "example": "The ancient Egyptians built massive pyramids as tombs for their pharaohs.",
       "example_translation": "Starożytni Egipcjanie zbudowali ogromne piramidy jako grobowce dla swoich faraonów.",
-      "imageLink": "https://www.ang.pl/img/slownik/pyramid.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/pyramid.mp3"
+      "imageLink": "image_files\\pyramid.jpg",
+      "audioLink": "image_files\\pyramid.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -205,8 +204,8 @@
       "definition_translation": "Czworokąt z czterema kątami prostymi, szczególnie jeden z przeciwnymi bokami o równej długości.",
       "example": "The rectangle was used as a frame for the painting.",
       "example_translation": "Prostokąt został użyty jako ramka dla obrazu.",
-      "imageLink": "https://www.ang.pl/img/slownik/rectangle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/rectangle.mp3"
+      "imageLink": "image_files\\rectangle.jpg",
+      "audioLink": "image_files\\rectangle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -218,8 +217,8 @@
       "definition_translation": "ustawić, położyć lub postawić (coś) w określonym miejscu lub lokalizacji",
       "example": "Can you set the book on the table?",
       "example_translation": "Czy możesz ustawić książkę na stole?",
-      "imageLink": "https://www.ang.pl/img/slownik/set-4.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/set.mp3"
+      "imageLink": "image_files\\set-4.jpg",
+      "audioLink": "image_files\\set.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -231,8 +230,8 @@
       "definition_translation": "ilość, która może mieć różną wartość w różnych przypadkach lub w różnych czasach",
       "example": "The cost of the trip is a variable that depends on the time of year.",
       "example_translation": "Koszt podróży jest zmienną, która zależy od czasu roku.",
-      "imageLink": "https://www.ang.pl/img/slownik/variable.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/variable.mp3"
+      "imageLink": "image_files\\variable.jpg",
+      "audioLink": "image_files\\variable.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -244,8 +243,8 @@
       "definition_translation": "Kąt, którego miara mieści się między 0° a 90°.",
       "example": "The architect designed the building with an acute angle to provide more space.",
       "example_translation": "Architekt zaprojektował budynek z ostrym kątem, aby zapewnić więcej miejsca.",
-      "imageLink": "https://www.ang.pl/img/slownik/acute-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/acute angle.mp3"
+      "imageLink": "image_files\\acute-angle.jpg",
+      "audioLink": "image_files\\acute angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -257,8 +256,8 @@
       "definition_translation": "Oś współrzędnych to linia, która służy jako punkt odniesienia do mierzenia odległości lub kierunków w systemie współrzędnych.",
       "example": "The axis of coordinates is used to locate points in space.",
       "example_translation": "Oś współrzędnych służy do lokalizacji punktów w przestrzeni.",
-      "imageLink": "https://www.ang.pl/img/slownik/axis-of-coordinates.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/axis of coordinates.mp3"
+      "imageLink": "image_files\\axis-of-coordinates.jpg",
+      "audioLink": "image_files\\axis of coordinates.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -270,8 +269,8 @@
       "definition_translation": "Liczba, która wyraża wielkość zbioru, taką jak jeden, dwa lub trzy.",
       "example": "The cardinal number of a set is always a whole number.",
       "example_translation": "Liczba kardynalna zbioru jest zawsze liczbą całkowitą.",
-      "imageLink": "https://www.ang.pl/img/slownik/cardinal-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cardinal number.mp3"
+      "imageLink": "image_files\\cardinal-number.jpg",
+      "audioLink": "image_files\\cardinal number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -283,8 +282,8 @@
       "definition_translation": "Odległość wokół okręgu lub kształtu.",
       "example": "The circumference of the Earth is approximately 40,075 kilometers.",
       "example_translation": "Obwód Ziemi wynosi około 40 075 kilometrów.",
-      "imageLink": "https://www.ang.pl/img/slownik/circumference.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/circumference.mp3"
+      "imageLink": "image_files\\circumference.jpg",
+      "audioLink": "image_files\\circumference.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -296,8 +295,8 @@
       "definition_translation": "liczba używana do pomnożenia zmiennej w formule lub równaniu",
       "example": "The coefficient of friction is used to calculate the force of friction.",
       "example_translation": "Współczynnik tarcia jest używany do obliczenia siły tarcia.",
-      "imageLink": "https://www.ang.pl/img/slownik/coefficient.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/coefficient.mp3"
+      "imageLink": "image_files\\coefficient.jpg",
+      "audioLink": "image_files\\coefficient.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -309,8 +308,8 @@
       "definition_translation": "Narzędzie używane do nawigacji i orientacji, które pokazuje kierunek, typowo z igłą, która wskazuje na północ magnetyczną.",
       "example": "The hikers used compasses to navigate through the dense forest.",
       "example_translation": "Wędrowcy użyli kompasów, aby nawigować przez gęsty las.",
-      "imageLink": "https://www.ang.pl/img/slownik/compasses.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/compasses.mp3"
+      "imageLink": "image_files\\compasses.jpg",
+      "audioLink": "image_files\\compasses.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -322,8 +321,8 @@
       "definition_translation": "Kąt o wielkości 360 stopni.",
       "example": "The complete angle of the circle is 360 degrees.",
       "example_translation": "Kąt pełny koła wynosi 360 stopni.",
-      "imageLink": "https://www.ang.pl/img/slownik/complete-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/complete angle.mp3"
+      "imageLink": "image_files\\complete-angle.jpg",
+      "audioLink": "image_files\\complete angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -335,8 +334,8 @@
       "definition_translation": "system przypisywania współrzędnych punktom w przestrzeni, stosowany w kartografii, nawigacji i innych celach",
       "example": "The GPS uses a coordinate system to determine its exact location.",
       "example_translation": "System GPS wykorzystuje system współrzędnych, aby określić swoje dokładne położenie.",
-      "imageLink": "https://www.ang.pl/img/slownik/coordinate-system.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/coordinate system.mp3"
+      "imageLink": "image_files\\coordinate-system.jpg",
+      "audioLink": "image_files\\coordinate system.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -348,8 +347,8 @@
       "definition_translation": "Wartość, która, podniesiona do sześciennej potęgi, daje określoną liczbę lub wyrażenie.",
       "example": "The cube root of 27 is 3.",
       "example_translation": "Pierwiastek sześcienny z 27 jest równy 3.",
-      "imageLink": "https://www.ang.pl/img/slownik/cube-root.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cube root.mp3"
+      "imageLink": "image_files\\cube-root.jpg",
+      "audioLink": "image_files\\cube root.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -361,8 +360,8 @@
       "definition_translation": "Bryła to trójwymiarowa figura o sześciu płaszczyznach prostokątnych.",
       "example": "The cuboid box was too heavy to lift.",
       "example_translation": "Bryłowy pudełko było zbyt ciężkie, aby je podnieść.",
-      "imageLink": "https://www.ang.pl/img/slownik/cuboid.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cuboid.mp3"
+      "imageLink": "image_files\\cuboid.jpg",
+      "audioLink": "image_files\\cuboid.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -374,8 +373,8 @@
       "definition_translation": "trójwymiarowa figura z dwiema równoległymi i okrągłymi podstawami połączonymi przez powierzchnię boczną krzywą",
       "example": "The mechanic used a cylinder to measure the engine's efficiency.",
       "example_translation": "Mechanik użył cylindra do pomiaru wydajności silnika.",
-      "imageLink": "https://www.ang.pl/img/slownik/cylinder.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/cylinder.mp3"
+      "imageLink": "image_files\\cylinder.jpg",
+      "audioLink": "image_files\\cylinder.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -387,8 +386,8 @@
       "definition_translation": "Dziesiętna jest to ułamkowa, której mianownik jest potęgą liczby 10.",
       "example": "The decimal point is used to separate the whole part from the fractional part of a number.",
       "example_translation": "Kropka dziesiętna służy do oddzielenia części całkowitej od części ułamkowej liczby.",
-      "imageLink": "https://www.ang.pl/img/slownik/decimal.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/decimal.mp3"
+      "imageLink": "image_files\\decimal.jpg",
+      "audioLink": "image_files\\decimal.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -400,8 +399,8 @@
       "definition_translation": "matematyczne równanie, które zawiera nieznane funkcje i ich pochodne, i jest używane do modelowania szerokiego zakresu zjawisk w dziedzinach takich jak fizyka, inżynieria i ekonomia",
       "example": "The differential equation describing the motion of a pendulum is a nonlinear second-order equation.",
       "example_translation": "Równanie różniczkowe opisujące ruch wahadła jest nietypowym równaniem drugiego rzędu.",
-      "imageLink": "https://www.ang.pl/img/slownik/differential-equation.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/differential equation.mp3"
+      "imageLink": "image_files\\differential-equation.jpg",
+      "audioLink": "image_files\\differential equation.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -413,8 +412,8 @@
       "definition_translation": "symbol lub cyfra w systemie liczbowym, zwłaszcza pojedynczy symbol w systemie dwójkowym",
       "example": "The credit card number is a sequence of 16 digits.",
       "example_translation": "Numer karty kredytowej to sekwencja 16 cyfr.",
-      "imageLink": "https://www.ang.pl/img/slownik/digit.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/digit.mp3"
+      "imageLink": "image_files\\digit.jpg",
+      "audioLink": "image_files\\digit.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -426,8 +425,8 @@
       "definition_translation": "Udział w zyskach dystrybuowany akcjonariuszom.",
       "example": "The company paid out a large divident to its investors.",
       "example_translation": "Spółka wypłaciła dużą dywidendę swoim inwestorom.",
-      "imageLink": "https://www.ang.pl/img/slownik/divident.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/divident.mp3"
+      "imageLink": "image_files\\divident.jpg",
+      "audioLink": "image_files\\divident.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -439,8 +438,8 @@
       "definition_translation": "akt dzielenia lub stan podzielenia",
       "example": "The division of the company into smaller units was necessary.",
       "example_translation": "Podział firmy na mniejsze jednostki był konieczny.",
-      "imageLink": "https://www.ang.pl/img/slownik/division.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/division.mp3"
+      "imageLink": "image_files\\division.jpg",
+      "audioLink": "image_files\\division.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -452,8 +451,8 @@
       "definition_translation": "Liczba, przez którą inna liczba jest dzielona, aby uzyskać iloraz.",
       "example": "The divisor of 12 is 3, because 12 divided by 3 equals 4.",
       "example_translation": "Dzielnikem 12 jest 3, ponieważ 12 podzielone przez 3 równa się 4.",
-      "imageLink": "https://www.ang.pl/img/slownik/divisor.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/divisor.mp3"
+      "imageLink": "image_files\\divisor.jpg",
+      "audioLink": "image_files\\divisor.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -465,8 +464,8 @@
       "definition_translation": "operacja matematyczna, która podnosi liczbę do pewnej potęgi",
       "example": "The exponent of 2 in the expression 2^3 is 3.",
       "example_translation": "Wykładnik 2 w wyrażeniu 2^3 jest równy 3.",
-      "imageLink": "https://www.ang.pl/img/slownik/exponent-power.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/exponent, power.mp3"
+      "imageLink": "image_files\\exponent-power.jpg",
+      "audioLink": "image_files\\exponent, power.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -478,8 +477,8 @@
       "definition_translation": "Mała część całości",
       "example": "The fraction of the students who passed the exam was impressive.",
       "example_translation": "Ułamek studentów, którzy zdali egzamin, był imponujący.",
-      "imageLink": "https://www.ang.pl/img/slownik/fraction.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/fraction.mp3"
+      "imageLink": "image_files\\fraction.jpg",
+      "audioLink": "image_files\\fraction.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -491,8 +490,8 @@
       "definition_translation": "Funkcja to blok kodu, który może być wywołany wielokrotnie z różnych części twojego programu.",
       "example": "The calculator has a function to calculate the square root of a number.",
       "example_translation": "Kalkulator ma funkcję do obliczania pierwiastka kwadratowego liczby.",
-      "imageLink": "https://www.ang.pl/img/slownik/function.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/function.mp3"
+      "imageLink": "image_files\\function.jpg",
+      "audioLink": "image_files\\function.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -504,8 +503,8 @@
       "definition_translation": "która część Ziemi, zwłaszcza podzielona przez równik",
       "example": "The Earth is divided into two hemispheres.",
       "example_translation": "Ziemia jest podzielona na dwie półkule.",
-      "imageLink": "https://www.ang.pl/img/slownik/hemisphere.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/hemisphere.mp3"
+      "imageLink": "image_files\\hemisphere.jpg",
+      "audioLink": "image_files\\hemisphere.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -517,8 +516,8 @@
       "definition_translation": "wielokąt o siedmiu stronach",
       "example": "The architect designed a heptagon-shaped building.",
       "example_translation": "Architekt zaprojektował budynek o kształcie siedmiokąta.",
-      "imageLink": "https://www.ang.pl/img/slownik/heptagon.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/heptagon.mp3"
+      "imageLink": "image_files\\heptagon.jpg",
+      "audioLink": "image_files\\heptagon.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -530,8 +529,8 @@
       "definition_translation": "Wielokąt o sześciu stronach.",
       "example": "The hexagon is a common shape in nature.",
       "example_translation": "Sześciokąt jest typowym kształtem w naturze.",
-      "imageLink": "https://www.ang.pl/img/slownik/hexagon.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/hexagon.mp3"
+      "imageLink": "image_files\\hexagon.jpg",
+      "audioLink": "image_files\\hexagon.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -543,8 +542,8 @@
       "definition_translation": "Pojęcie przekraczające miarę lub ilość skończoną; nieskończoność.",
       "example": "The universe is thought to have no end, having an infinity of stars.",
       "example_translation": "Wszechświat uważany jest za nie mający końca, mając nieskończoność gwiazd.",
-      "imageLink": "https://www.ang.pl/img/slownik/infinity.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/infinity.mp3"
+      "imageLink": "image_files\\infinity.jpg",
+      "audioLink": "image_files\\infinity.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -556,8 +555,8 @@
       "definition_translation": "Liczba całkowita; liczba, która nie jest ułamkiem lub dziesiętną.",
       "example": "The number of students in the class is an integer.",
       "example_translation": "Liczba studentów w klasie jest liczbą całkowitą.",
-      "imageLink": "https://www.ang.pl/img/slownik/integer.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/integer.mp3"
+      "imageLink": "image_files\\integer.jpg",
+      "audioLink": "image_files\\integer.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -569,8 +568,8 @@
       "definition_translation": "dotyczący lub będący całością jednostki; kompletny",
       "example": "The integral part of the equation is crucial to solving it.",
       "example_translation": "Część całkowita równania jest kluczowa dla jego rozwiązania.",
-      "imageLink": "https://www.ang.pl/img/slownik/integral.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/integral.mp3"
+      "imageLink": "image_files\\integral.jpg",
+      "audioLink": "image_files\\integral.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -582,8 +581,8 @@
       "definition_translation": "Liczba rzeczywista, która nie może być wyrażona jako skończony dziesiętny lub ułamek.",
       "example": "Pi is an irrational number.",
       "example_translation": "Pi jest liczbą niewymierną.",
-      "imageLink": "https://www.ang.pl/img/slownik/irrational-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/irrational number.mp3"
+      "imageLink": "image_files\\irrational-number.jpg",
+      "audioLink": "image_files\\irrational number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -595,8 +594,8 @@
       "definition_translation": "Część linii ograniczona przez dwa różne punkty.",
       "example": "The line segment connecting the two points is 5 cm long.",
       "example_translation": "Odcinek prostej łączący dwa punkty ma długość 5 cm.",
-      "imageLink": "https://www.ang.pl/img/slownik/line-segment.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/line segment.mp3"
+      "imageLink": "image_files\\line-segment.jpg",
+      "audioLink": "image_files\\line segment.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -608,8 +607,8 @@
       "definition_translation": "Operacja matematyczna, która jest odwrotnością potęgowania, używana do obliczania potęgi, której musi zostać podniesione dane podstawowe liczby, aby uzyskać wartość.",
       "example": "The logarithm of 100 is 2, because 10 to the power of 2 is 100.",
       "example_translation": "Logarytm 100 wynosi 2, ponieważ 10 do potęgi 2 jest równa 100.",
-      "imageLink": "https://www.ang.pl/img/slownik/logarithm.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/logarithm.mp3"
+      "imageLink": "image_files\\logarithm.jpg",
+      "audioLink": "image_files\\logarithm.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -621,8 +620,8 @@
       "definition_translation": "Akt mnożenia czegoś, szczególnie liczby, przez określoną ilość.",
       "example": "The multiplication of 2 and 3 is 6.",
       "example_translation": "Mnożenie 2 i 3 jest równych 6.",
-      "imageLink": "https://www.ang.pl/img/slownik/multiplication.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/multiplication.mp3"
+      "imageLink": "image_files\\multiplication.jpg",
+      "audioLink": "image_files\\multiplication.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -634,8 +633,8 @@
       "definition_translation": "Dodatnia liczba całkowita, rozpoczynająca się od 1 i zwiększająca się o 1 dla każdej następnej liczby.",
       "example": "The set of natural numbers is infinite.",
       "example_translation": "Zbiór liczb naturalnych jest nieskończony.",
-      "imageLink": "https://www.ang.pl/img/slownik/natural-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/natural number.mp3"
+      "imageLink": "image_files\\natural-number.jpg",
+      "audioLink": "image_files\\natural number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -647,8 +646,8 @@
       "definition_translation": "Wizualne przedstawienie liczb na linii, używane do zrozumienia relacji między liczbami.",
       "example": "The teacher used a number line to explain the concept of fractions to the students.",
       "example_translation": "Nauczyciel wykorzystał oś liczbowa, aby wyjaśnić koncepcję ułamków uczniom.",
-      "imageLink": "https://www.ang.pl/img/slownik/number-line.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/number line.mp3"
+      "imageLink": "image_files\\number-line.jpg",
+      "audioLink": "image_files\\number line.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -660,8 +659,8 @@
       "definition_translation": "kąt większy niż 90 stopni, ale mniejszy niż 180 stopni",
       "example": "The obtuse angle between the two lines is 120 degrees.",
       "example_translation": "Kąt tępy między dwiema liniami wynosi 120 stopni.",
-      "imageLink": "https://www.ang.pl/img/slownik/obtuse-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/obtuse angle.mp3"
+      "imageLink": "image_files\\obtuse-angle.jpg",
+      "audioLink": "image_files\\obtuse angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -673,8 +672,8 @@
       "definition_translation": "wielokąt o八iu stron",
       "example": "The architect designed an octagon-shaped building.",
       "example_translation": "Architekt zaprojektował budynek o kształcie ośmiokąta.",
-      "imageLink": "https://www.ang.pl/img/slownik/octagon.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/octagon.mp3"
+      "imageLink": "image_files\\octagon.jpg",
+      "audioLink": "image_files\\octagon.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -686,8 +685,8 @@
       "definition_translation": "Liczba, która pokazuje pozycję czegoś w serii lub liście.",
       "example": "The book is at the fifth ordinal number in the series.",
       "example_translation": "Książka jest na piątej liczbie porządkowej w serii.",
-      "imageLink": "https://www.ang.pl/img/slownik/ordinal-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/ordinal number.mp3"
+      "imageLink": "image_files\\ordinal-number.jpg",
+      "audioLink": "image_files\\ordinal number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -699,8 +698,8 @@
       "definition_translation": "rozciągający się w tym samym kierunku i zawsze w takiej samej odległości",
       "example": "The two lines are parallel to each other.",
       "example_translation": "Dwie linie są równoległe do siebie.",
-      "imageLink": "https://www.ang.pl/img/slownik/parallel.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/parallel.mp3"
+      "imageLink": "image_files\\parallel.jpg",
+      "audioLink": "image_files\\parallel.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -712,8 +711,8 @@
       "definition_translation": "Czworokąt o przeciwnych stronach o równej długości, przeciwnych kątach o równej miarze i przekątnych, które się przecinają.",
       "example": "The parallelogram is a type of quadrilateral with unique properties.",
       "example_translation": "Czworokąt równoległy jest typem czworokąta o unikatowych właściwościach.",
-      "imageLink": "https://www.ang.pl/img/slownik/parallelogram.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/parallelogram.mp3"
+      "imageLink": "image_files\\parallelogram.jpg",
+      "audioLink": "image_files\\parallelogram.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -725,8 +724,8 @@
       "definition_translation": "Wielokąt o pięciu stronach.",
       "example": "The pentagon is a common shape in architecture.",
       "example_translation": "Pięciokąt jest common shape w architekturze.",
-      "imageLink": "https://www.ang.pl/img/slownik/pentagon.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/pentagon.mp3"
+      "imageLink": "image_files\\pentagon.jpg",
+      "audioLink": "image_files\\pentagon.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -738,8 +737,8 @@
       "definition_translation": "pod kątem prostym do określonej linii lub powierzchni",
       "example": "The two lines are perpendicular to each other.",
       "example_translation": "Dwie linie są prostopadłe do siebie.",
-      "imageLink": "https://www.ang.pl/img/slownik/perpendicular.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/perpendicular.mp3"
+      "imageLink": "image_files\\perpendicular.jpg",
+      "audioLink": "image_files\\perpendicular.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -751,8 +750,8 @@
       "definition_translation": "Dodatnia liczba całkowita, która jest dzielna tylko przez siebie i 1.",
       "example": "The prime number 7 is a fundamental concept in number theory.",
       "example_translation": "Liczba pierwsza 7 jest fundamentalnym pojęciem w teorii liczb.",
-      "imageLink": "https://www.ang.pl/img/slownik/prime-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/prime number.mp3"
+      "imageLink": "image_files\\prime-number.jpg",
+      "audioLink": "image_files\\prime number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -764,8 +763,8 @@
       "definition_translation": "Pryzmat to przezroczysty element optyczny z płaskimi, polerowanymi powierzchniami, które załamują światło.",
       "example": "The scientist used a prism to split light into its component colors.",
       "example_translation": "Naukowiec wykorzystał pryzmat do rozbicia światła na jego składowe kolory.",
-      "imageLink": "https://www.ang.pl/img/slownik/prism.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/prism.mp3"
+      "imageLink": "image_files\\prism.jpg",
+      "audioLink": "image_files\\prism.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -777,8 +776,8 @@
       "definition_translation": "Rzecz lub substancja, która jest produkowana lub rafinowana do sprzedaży.",
       "example": "The company produces a wide range of products.",
       "example_translation": "Firma produkuje szeroki asortyment produktów.",
-      "imageLink": "https://www.ang.pl/img/slownik/product-1.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/product.mp3"
+      "imageLink": "image_files\\product-1.jpg",
+      "audioLink": "image_files\\product.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -790,8 +789,8 @@
       "definition_translation": "Matematyczne pojęcie, które opisuje relację między długościami boków trójkąta prostokątnego.",
       "example": "The Pythagorean theorem is useful in solving triangular problems in geometry.",
       "example_translation": "Twierdzenie Pitagorasa jest użyteczne w rozwiązywaniu problemów trójkątnych w geometrii.",
-      "imageLink": "https://www.ang.pl/img/slownik/pythagorean-theorem.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/Pythagorean theorem.mp3"
+      "imageLink": "image_files\\pythagorean-theorem.jpg",
+      "audioLink": "image_files\\Pythagorean theorem.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -803,8 +802,8 @@
       "definition_translation": "Równanie wielomianowe drugiego stopnia, charakteryzujące się obecnością zmiennej kwadratowej i havind dyskryminantu, który determinuje naturę pierwiastków.",
       "example": "The quadratic equation x^2 + 5x + 6 = 0 has two distinct roots.",
       "example_translation": "Równanie kwadratowe x^2 + 5x + 6 = 0 ma dwa różne pierwiastki.",
-      "imageLink": "https://www.ang.pl/img/slownik/quadratic-equation.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/quadratic equation.mp3"
+      "imageLink": "image_files\\quadratic-equation.jpg",
+      "audioLink": "image_files\\quadratic equation.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -816,8 +815,8 @@
       "definition_translation": "wartość, która jest wynikiem dzielenia jednej wielkości przez inną",
       "example": "The quotient of 10 and 2 is 5.",
       "example_translation": "Iloczyn 10 i 2 jest równy 5.",
-      "imageLink": "https://www.ang.pl/img/slownik/quotient.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/quotient.mp3"
+      "imageLink": "image_files\\quotient.jpg",
+      "audioLink": "image_files\\quotient.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -829,8 +828,8 @@
       "definition_translation": "Odcinek linii łączący środek koła z każdym punktem na jego obwodzie.",
       "example": "The radius of the circle is 5 cm.",
       "example_translation": "Promień koła wynosi 5 cm.",
-      "imageLink": "https://www.ang.pl/img/slownik/radius.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/radius.mp3"
+      "imageLink": "image_files\\radius.jpg",
+      "audioLink": "image_files\\radius.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -842,8 +841,8 @@
       "definition_translation": "Liczba, która może być wyrażona jako iloraz lub ułamek dwóch liczb całkowitych.",
       "example": "The decimal expansion of a rational number always terminates or repeats.",
       "example_translation": "Rozwinięcie dziesiętne liczby wymiernej zawsze kończy się lub powtarza się.",
-      "imageLink": "https://www.ang.pl/img/slownik/rational-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/rational number.mp3"
+      "imageLink": "image_files\\rational-number.jpg",
+      "audioLink": "image_files\\rational number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -855,8 +854,8 @@
       "definition_translation": "Liczba, która może być wyrażona jako nieskończony dziesiętny, ale nigdy nie powtarza się w przewidywalnym wzorze.",
       "example": "The set of real numbers includes all rational and irrational numbers.",
       "example_translation": "Zbiór liczb rzeczywistych obejmuje wszystkie liczby racjonalne i nieracjonalne.",
-      "imageLink": "https://www.ang.pl/img/slownik/real-number.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/real number.mp3"
+      "imageLink": "image_files\\real-number.jpg",
+      "audioLink": "image_files\\real number.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -868,8 +867,8 @@
       "definition_translation": "Kąt większy niż 180 stopni, ale mniejszy niż 360 stopni.",
       "example": "The reflex angle of the triangle is 270 degrees.",
       "example_translation": "Kąt zwierciadłowy trójkąta wynosi 270 stopni.",
-      "imageLink": "https://www.ang.pl/img/slownik/reflex-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/reflex angle.mp3"
+      "imageLink": "image_files\\reflex-angle.jpg",
+      "audioLink": "image_files\\reflex angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -881,8 +880,8 @@
       "definition_translation": "czworobok z wszystkimi bokami o równej długości, przeciwległymi bokami równoległymi i przeciwległymi kątami równymi",
       "example": "The kite is a type of rhombus.",
       "example_translation": "Kite jest rodzajem równoległoboku.",
-      "imageLink": "https://www.ang.pl/img/slownik/rhombus.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/rhombus.mp3"
+      "imageLink": "image_files\\rhombus.jpg",
+      "audioLink": "image_files\\rhombus.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -894,8 +893,8 @@
       "definition_translation": "kąt o wielkości 90 stopni, utworzony przez dwie linie lub płaszczyzny, które są prostopadłe do siebie",
       "example": "The architect designed the building with a right angle between the two walls.",
       "example_translation": "Architekt zaprojektował budynek z kątem prostym pomiędzy dwiema ścianami.",
-      "imageLink": "https://www.ang.pl/img/slownik/right-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/right angle.mp3"
+      "imageLink": "image_files\\right-angle.jpg",
+      "audioLink": "image_files\\right angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -907,8 +906,8 @@
       "definition_translation": "Podziemna część rośliny, która absorbują wodę i składniki odżywcze.",
       "example": "The root of the tree was damaged in the storm.",
       "example_translation": "Korzeń drzewa został uszkodzony w czasie burzy.",
-      "imageLink": "https://www.ang.pl/img/slownik/root-1.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/root.mp3"
+      "imageLink": "image_files\\root-1.jpg",
+      "audioLink": "image_files\\root.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -920,8 +919,8 @@
       "definition_translation": "Sfera to zbiór punktów w przestrzeni, które są wszystkie równoodległe od danego punktu, zwanego centrum.",
       "example": "The Earth is roughly a sphere in shape.",
       "example_translation": "Ziemia ma kształt zbliżony do sfery.",
-      "imageLink": "https://www.ang.pl/img/slownik/sphere.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/sphere.mp3"
+      "imageLink": "image_files\\sphere.jpg",
+      "audioLink": "image_files\\sphere.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -933,8 +932,8 @@
       "definition_translation": "Wartość, która, gdy pomnożona przez siebie, daje określoną liczbę",
       "example": "The square root of 16 is 4.",
       "example_translation": "Pierwiastek kwadratowy z 16 jest równy 4.",
-      "imageLink": "https://www.ang.pl/img/slownik/square-root.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/square root.mp3"
+      "imageLink": "image_files\\square-root.jpg",
+      "audioLink": "image_files\\square root.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -946,8 +945,8 @@
       "definition_translation": "Kąt, którego miara wynosi 180 stopni.",
       "example": "The straight angle formed by two lines is 180 degrees.",
       "example_translation": "Prosta kątowa utworzona przez dwie linie wynosi 180 stopni.",
-      "imageLink": "https://www.ang.pl/img/slownik/straight-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/straight angle.mp3"
+      "imageLink": "image_files\\straight-angle.jpg",
+      "audioLink": "image_files\\straight angle.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -959,8 +958,8 @@
       "definition_translation": "Zbiór elementów zawartych w innym zbiorze.",
       "example": "The set of prime numbers is a subset of the set of natural numbers.",
       "example_translation": "Zbiór liczb pierwszych jest podzbiorami zbioru liczb naturalnych.",
-      "imageLink": "https://www.ang.pl/img/slownik/subset.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/subset.mp3"
+      "imageLink": "image_files\\subset.jpg",
+      "audioLink": "image_files\\subset.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -972,8 +971,8 @@
       "definition_translation": "Czynność odejmowania jednej liczby lub ilości od innej",
       "example": "The subtraction of 5 from 10 gives 5.",
       "example_translation": "Odejmowanie 5 od 10 daje 5.",
-      "imageLink": "https://www.ang.pl/img/slownik/subtraction.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/subtraction.mp3"
+      "imageLink": "image_files\\subtraction.jpg",
+      "audioLink": "image_files\\subtraction.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -985,8 +984,8 @@
       "definition_translation": "Twierdzenie z geometrii, które stwierdza, że jeślipunkt leży na okręgu koła, a dwa inne punkty leżą na tej samej zijnej, to kąty, pod którymi punkt widzi dwa punkty, są równe.",
       "example": "Thales' theorem can be used to prove that the sum of the interior angles of a triangle is always 180 degrees.",
       "example_translation": "Twierdzenie Talesa można wykorzystać do udowodnienia, że suma kątów wewnętrznych trójkąta jest zawsze równa 180 stopniom.",
-      "imageLink": "https://www.ang.pl/img/slownik/thales-theorem.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/Thales' theorem.mp3"
+      "imageLink": "image_files\\thales-theorem.jpg",
+      "audioLink": "image_files\\Thales' theorem.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -998,8 +997,8 @@
       "definition_translation": "powierzchnia w kształcie pierścienia wygenerowana przez obracanie koła wokół osi współpłaszczyznowej z okręgiem",
       "example": "The engineer designed a torus-shaped tunnel to reduce wind resistance.",
       "example_translation": "Inżynier zaprojektował tunel w kształcie torusa, aby zmniejszyć opór wiatru.",
-      "imageLink": "https://www.ang.pl/img/slownik/torus.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/torus.mp3"
+      "imageLink": "image_files\\torus.jpg",
+      "audioLink": "image_files\\torus.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -1011,8 +1010,8 @@
       "definition_translation": "czworokąt bez równoległych boków",
       "example": "The architect designed a trapezoid-shaped building.",
       "example_translation": "Architekt zaprojektował budynek o kształcie trapezu.",
-      "imageLink": "https://www.ang.pl/img/slownik/trapezoid.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/trapezoid.mp3"
+      "imageLink": "image_files\\trapezoid.jpg",
+      "audioLink": "image_files\\trapezoid.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -1024,8 +1023,8 @@
       "definition_translation": "Ilość mająca kierunek i wielkość, zwłaszcza jako określająca pozycję jednego punktu w przestrzeni względem innego.",
       "example": "The vector of the force was directly proportional to the mass of the object.",
       "example_translation": "Wektor siły był bezpośrednio proporcjonalny do masy obiektu.",
-      "imageLink": "https://www.ang.pl/img/slownik/vector.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/vector.mp3"
+      "imageLink": "image_files\\vector.jpg",
+      "audioLink": "image_files\\vector.mp3"
     },
     {
       "section": "matematyka-terminy-matematyczne-po-angielsku",
@@ -1037,8 +1036,7 @@
       "definition_translation": "kąt o zerowych stopniach, gdzie dwie linie lub powierzchnie spotykają się i tworzą płaszczyznę płaską",
       "example": "The architect designed the building with a zero angle between the walls to create a sense of openness.",
       "example_translation": "Architekt zaprojektował budynek z kątem zerowym między ścianami, aby stworzyć poczucie otwartości.",
-      "imageLink": "https://www.ang.pl/img/slownik/zero-angle.jpg",
-      "audioLink": "https://www.ang.pl/sound/dict/zero angle.mp3"
+      "imageLink": "image_files\\zero-angle.jpg",
+      "audioLink": "image_files\\zero angle.mp3"
     }
-  ]
-}
+]
