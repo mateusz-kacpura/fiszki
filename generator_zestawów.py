@@ -1,90 +1,153 @@
 import json
-import requests
 from tqdm import tqdm
 import os
-import time  
+import time
+from groq import Groq
+import re
 
-input_file_path = r'C:\Users\engli\fiszki\fiszki\zestawy.json'
+# Plik wejściowy
+input_file_path = r'C:\Users\engli\fiszki\fiszki\zestawy-2.json'
+out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\szlifuj_ang'
 
-def parse_data(input_data):
-    content_str = input_data['choices'][0]['message']['content']
-    parsed_content = json.loads(content_str)
-    return parsed_content
+API_KEY = "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"
 
-# Funkcja do generowania danych z API AIML
-def fetch_aiml_data(word):
-    url = 'https://api.aimlapi.com/chat/completions'
-    headers = {
-        'Content-Type': 'application/json',
-        'Authorization': 'Bearer 02eddf9c575c40f0b7d144433c21208e'
-    }
-    payload = {
-        'model': 'gpt-3.5-turbo',
-        'messages': [
-            {
-                'role': 'user',
-                'content': f"""Translate '{word}' to Polish and provide its definition and an example sentence. 
-                Send me request as json: 
-                [
-                    language: English,
-                    translationLanguage: Polish,
-                    word: word,
-                    translation: ..,  # Uzupełnij w oparciu o dane z odpowiedzi
-                    definition: ...,  # Uzupełnij w oparciu o dane z odpowiedzi
-                    example: ..,  # Uzupełnij w oparciu o dane z odpowiedzi
-                    example_translation: ..,  # Uzupełnij w oparciu o dane z odpowiedzi
-                    imageLink: ...,  # Uzupełnij w oparciu o dane z wejścia
-                    audioLink: ...  # Uzupełnij w oparciu o dane z wejścia 
-                ]"""
-            }
-        ],
-        'max_tokens': 512,
-        'stream': False
-    }
-    response = requests.post(url, headers=headers, json=payload)
+# Funkcja do generowania danych z API Groq
+def fetch_groq_data(word, image_link, audio_link):
+    client = Groq(api_key=API_KEY)
     
-    if response.status_code == 201:
-        output_data = parse_data(response.text)
-        print(output_data)
-        return output_data
-    else:
-        print(f"Error fetching data for {word}: {response.status_code}, {response.text}")
+    dane_wejściowe_json = {
+        "language": "English",
+        "translationLanguage": "Polish",
+        "word": word,
+        "translation": "",
+        "definition": "",
+        "definition_translation": "",
+        "example": "",
+        "example_translation": "",
+        "imageLink": image_link,
+        "audioLink": audio_link
+    }
+
+    message = (
+        f"Zwróć mi uzupełnione dane w formacie json według mojego przepisu `{json.dumps(dane_wejściowe_json)}`,\n"
+        "# dane_wejściowe_json.word -> tłumaczenie słowa word na język polski\n"
+        "# dane_wejściowe_json.definition -> definicja słowa word w języku angielskim\n"
+        "# dane_wejściowe_json.definition_translation -> tłumaczenie definicji na język polski\n"
+        "# dane_wejściowe_json.example -> przykładowe zdanie z wykorzystaniem słowa dane_wejściowe_json.word\n"
+        "# dane_wejściowe_json.example_translation -> tłumaczenie na język polski przykładowego zdania dane_wejściowe_json.example"
+    )
+
+    try:
+        completion = client.chat.completions.create(
+            model="llama3-70b-8192",
+            messages=[{"role": "user", "content": message}],
+            temperature=1,
+            max_tokens=512,
+            top_p=1,
+            stream=False
+        )
+
+        response_text = completion.choices[0].message.content
+
+        # Wyrażenia regularne do wyodrębniania danych
+        data_pattern = re.compile(
+            r'\{.*?\}', re.DOTALL
+        )
+        
+        match = data_pattern.search(response_text)
+        if match:
+            json_str = match.group(0)
+            try:
+                groq_data = json.loads(json_str)
+            except json.JSONDecodeError as e:
+                print(f"JSON Decode Error: {e}")
+                return {}
+            
+            return groq_data
+
+    except Exception as e:
+        print(f"Error during API request: {e}")
         return {}
 
 def file_exists(filepath):
     return os.path.isfile(filepath)
 
+# Wczytanie pliku wejściowego
 with open(input_file_path, 'r') as file:
     data = json.load(file)
 
 sections = {}
+request_counter = 0
+request_start_time = time.time()
+
 for item in tqdm(data, desc="Processing sections"):
     section = item["section"]
-    output_file_path = f'C:\\Users\\engli\\fiszki\\fiszki\\{section}.json'
+    output_file_path = f'{out_path}\\{section}.json'
     
-    if file_exists(output_file_path):
-        print(f"Plik {output_file_path} już istnieje. Pomijanie.")
-        continue
+    if not file_exists(output_file_path):
+        # Jeśli plik nie istnieje, twórz nowy plik i zapisz dane
+        with open(output_file_path, 'w', encoding='utf-8') as file:
+            json.dump({"data": []}, file, ensure_ascii=False, indent=2)
     
-    if section not in sections:
-        sections[section] = []
-    
-    for key, value in item.items():
-        if key != "section":
-            word_data = {
-                "word": value["alt_text"],
-                "imageLink": value["img_src"],
-                "audioLink": value["audio_src"]
-            }
-            aiml_data = fetch_aiml_data(word_data["word"])
-            if aiml_data:  
-                aiml_data.update(word_data)
-                sections[section].append(aiml_data)
-                time.sleep(5)
-            
-for section, items in tqdm(sections.items(), desc="Saving files"):
-    output_file_path = f'C:\\Users\\engli\\fiszki\\fiszki\\{section}.json'
-    with open(output_file_path, 'w') as file:
-        json.dump(items, file, indent=4)
+    # Wczytaj istniejące dane
+    with open(output_file_path, 'r+', encoding='utf-8') as file:
+        content = file.read()
+        file.seek(0)
+        try:
+            existing_data = json.loads(content)
+        except json.JSONDecodeError as e:
+            print(f"JSON Decode Error: {e}")
+            continue
+        
+        if not isinstance(existing_data, dict) or "data" not in existing_data:
+            raise ValueError(f"Plik {output_file_path} zawiera niepoprawny format danych.")
+        
+        # Dodaj nowe dane do tablicy pod kluczem "data"
+        data_list = existing_data["data"]
+        for key, value in item.items():
+            if key != "section":
+                word_data = {
+                    "word": value["alt_text"],
+                    "imageLink": value["img_src"],
+                    "audioLink": value["audio_src"]
+                }
+                groq_data = fetch_groq_data(word_data["word"], word_data["imageLink"], word_data["audioLink"])
+
+                # Define the result dictionary
+                result = {
+                    "section": section,
+                    "language": groq_data.get("language", "English"),
+                    "translationLanguage": groq_data.get("translationLanguage", "Polish"),
+                    "word": groq_data.get("word", word_data["word"]),
+                    "translation": groq_data.get("translation", ""),
+                    "definition": groq_data.get("definition", ""),
+                    "definition_translation": groq_data.get("definition_translation", ""),
+                    "example": groq_data.get("example", ""),
+                    "example_translation": groq_data.get("example_translation", ""),
+                    "imageLink": groq_data.get("imageLink", word_data["imageLink"]),
+                    "audioLink": groq_data.get("audioLink", word_data["audioLink"])
+                }
+
+                # Dodaj dane do istniejącej tablicy
+                data_list.append(result)
+
+        # Zapisz zaktualizowane dane do pliku
+        file.seek(0)
+        json.dump(existing_data, file, ensure_ascii=False, indent=2)
+        file.truncate()  # Upewnij się, że plik nie zawiera pozostałości po wcześniejszych danych
+
+    # Update request counters and handle timing
+    request_counter += 1
+
+    # Manage request timing to avoid exceeding rate limits
+    if request_counter >= 10:
+        elapsed_time = time.time() - request_start_time
+        if elapsed_time < 60:
+            time.sleep(60 - elapsed_time)
+        request_counter = 0
+        request_start_time = time.time()
+
+    # Pause between requests
+    time.sleep(5)
 
 print("Pliki zostały zapisane.")

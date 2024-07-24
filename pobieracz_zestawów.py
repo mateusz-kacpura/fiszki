@@ -3,58 +3,10 @@ from bs4 import BeautifulSoup
 import re
 import json
 
-links = ["https://www.ang.pl/slownictwo/cechy-charakteru-po-angielsku",
-"https://www.ang.pl/slownictwo/cechy-charakter-po-angielsku",
-"https://www.ang.pl/slownictwo/czlowiek-czynnosci-rzeczowniki-po-angielsku",
-"https://www.ang.pl/slownictwo/czlowiek-czynnosci-czasowniki-po-angielsku",
-"https://www.ang.pl/slownictwo/czlowiek-wyglad-zewnetrzny-po-angielsku",
-"https://www.ang.pl/slownictwo/czesci-ciala-po-angielsku",
-"https://www.ang.pl/slownictwo/czlowiek-czynnosci-czasowniki-b1-po-angielsku",
-"https://www.ang.pl/slownictwo/ubrania-garderoba-po-angielsku",
-"https://www.ang.pl/slownictwo/czlonkowie-rodziny-po-angielsku",
-"https://www.ang.pl/slownictwo/zawody-po-angielsku",
-"https://www.ang.pl/slownictwo/imiona-meskie-po-angielsku",
-"https://www.ang.pl/slownictwo/imiona-zenskie-po-angielsku",
-"https://www.ang.pl/slownictwo/kosmetyki-akcesoria-po-angielsku",
-"https://www.ang.pl/slownictwo/przedmioty-osobistego-uzytku-po-angielsku",
-"https://www.ang.pl/slownictwo/znaki-zodiaku-po-angielsku",
-"https://www.ang.pl/slownictwo/miesiace-po-angielsku",
-"https://www.ang.pl/slownictwo/dni-tygodnia-po-angielsku",
-"https://www.ang.pl/slownictwo/pogoda-po-angielsku",
-"https://www.ang.pl/slownictwo/pory-roku-po-angielsku",
-"https://www.ang.pl/slownictwo/pory-dnia-po-angielsku",
-"https://www.ang.pl/slownictwo/miejsca-po-angielsku",
-"https://www.ang.pl/slownictwo/uksztaltowanie-terenu-po-angielsku",
-"https://www.ang.pl/slownictwo/kleski-zywiolowe-kataklizmy-po-angielsku",
-"https://www.ang.pl/slownictwo/jedzenie-picie-po-angielsku",
-"https://www.ang.pl/slownictwo/owoce-po-angielsku",
-"https://www.ang.pl/slownictwo/warzywa-po-angielsku",
-"https://www.ang.pl/slownictwo/napoje-po-angielsku",
-"https://www.ang.pl/slownictwo/przyprawy-ziola-po-angielsku",
-"https://www.ang.pl/slownictwo/slodycze-po-angielsku",
-"https://www.ang.pl/slownictwo/psy-rasy-psow-po-angielsku",
-"https://www.ang.pl/slownictwo/koty-rasy-kotow-po-angielsku",
-"https://www.ang.pl/slownictwo/ptaki-po-angielsku",
-"https://www.ang.pl/slownictwo/ssaki-po-angielsku",
-"https://www.ang.pl/slownictwo/ryby-po-angielsku",
-"https://www.ang.pl/slownictwo/owady-insekty-po-angielsku",
-"https://www.ang.pl/slownictwo/gady-plazy-po-angielsku",
-"https://www.ang.pl/slownictwo/ziola-rosliny-lecznicze-po-angielsku",
-"https://www.ang.pl/slownictwo/drzewa-po-angielsku",
-"https://www.ang.pl/slownictwo/kwiaty-po-angielsku",
-"https://www.ang.pl/slownictwo/pomieszczenia-czesci-domu-po-angielsku",
-"https://www.ang.pl/slownictwo/wyposazenie-kuchni-po-angielsku",
-"https://www.ang.pl/slownictwo/wyposazenie-lazienki-po-angielsku",
-"https://www.ang.pl/slownictwo/na-lotnisku-po-angielsku",
-"https://www.ang.pl/slownictwo/turystyka-podroze-po-angielsku",
-"https://www.ang.pl/slownictwo/srodki-transportu-po-angielsku",
-"https://www.ang.pl/slownictwo/wyposazenie-biura-po-angielsku",
-"https://www.ang.pl/slownictwo/matematyka-terminy-matematyczne-po-angielsku",
-"https://www.ang.pl/slownictwo/rekodzielo-artykuly-plastyczne-po-angielsku",
-"https://www.ang.pl/slownictwo/kolory-po-angielsku",
-"https://www.ang.pl/slownictwo/narzedzia-po-angielsku",
-"https://www.ang.pl/slownictwo/instrumenty-muzyczne-po-angielsku",
-"https://www.ang.pl/slownictwo/christmas-boze-narodzenie-po-angielsku"]
+links = ["https://www.ang.pl/slownictwo/slownictwo-angielskie-poziom-a1",
+"https://www.ang.pl/slownictwo/slownictwo-angielskie-poziom-a2",
+"https://www.ang.pl/slownictwo/slownictwo-angielskie-poziom-b1",
+"https://www.ang.pl/slownictwo/slownictwo-angielskie-poziom-b2"]
 
 def get_page_content(url):
     response = requests.get(url)
@@ -123,7 +75,7 @@ all_data = crawl_links(links)
 
 json_data = json.dumps(all_data, indent=4, ensure_ascii=False)
 
-with open('data.json', 'w', encoding='utf-8') as f:
+with open('zestawy-2.json', 'w', encoding='utf-8') as f:
     f.write(json_data)
 
 print("Dane zostały zapisane do pliku data.json")

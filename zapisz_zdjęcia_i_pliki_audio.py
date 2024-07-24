@@ -3,7 +3,7 @@ import os
 import requests
 from tqdm import tqdm
 
-json_file_path = 'C:\\Users\\engli\\fiszki\\fiszki\\zestawy.json'
+json_file_path = 'C:\\Users\\engli\\fiszki\\fiszki\\zestawy-2.json'
 audio_folder_path = 'C:\\Users\\engli\\fiszki\\fiszki\\audio_files'
 image_folder_path = 'C:\\Users\\engli\\fiszki\\fiszki\\image_files'
 
