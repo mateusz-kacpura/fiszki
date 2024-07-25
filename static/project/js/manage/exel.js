@@ -490,7 +490,7 @@ function filterTableRows() {
 function updateBulkLanguage() {
     const selectedLanguage = $('#bulkLanguage').val();
     $('#data-table tbody tr').each(function() {
-        $(this).find('td').eq(0).text(selectedLanguage);
+        $(this).find('td').eq(1).text(selectedLanguage);
     });
 }
 
@@ -498,7 +498,7 @@ function updateBulkLanguage() {
 function updateBulkTranslationLanguage() {
     const selectedTranslationLanguage = $('#bulkTranslationLanguage').val();
     $('#data-table tbody tr').each(function() {
-        $(this).find('td').eq(1).text(selectedTranslationLanguage);
+        $(this).find('td').eq(2).text(selectedTranslationLanguage);
     });
 }
 
