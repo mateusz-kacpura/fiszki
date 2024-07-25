@@ -82,7 +82,7 @@ function displayImages(correctWord) {
       imageContainerElement.className = 'image-option';
 
       const imageElement = document.createElement('img');
-      imageElement.src = `/image_files/${wordData.imageLink.split('\\').pop()}`;
+      imageElement.src = `/image_files/English/${wordData.imageLink.split('\\').pop()}`;
       imageElement.alt = answer;
 
       const labelElement = document.createElement('div');
@@ -108,11 +108,20 @@ function checkImage(selectedWord, correctWord) {
         existingModal.remove();
     }
 
-    if (ttsCheckbox.checked && !audioCheckbox.checked) {    
-        playTextToSpeech(selectedWord);
+    if (ttsCheckbox.checked && !audioCheckbox.checked) {
+        if (groqCheckbox.checked) {
+            playTextToSpeechWithGroq(selectedWord);
+        } else {
+            playTextToSpeech(selectedWord);
+        }
     }
-    if (audioCheckbox.checked && ttsCheckbox.checked) { 
-        playTextToSpeech(correctWord);
+
+    if (audioCheckbox.checked && ttsCheckbox.checked) {
+        if (groqCheckbox.checked) {
+            playTextToSpeechWithGroq(correctWord);
+        } else {
+            playTextToSpeech(correctWord);
+        }
     }
 
     // Load modal content from the Flask endpoint

@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "section": "kolory-po-angielsku",
+      "language": "Spanish",
+      "translationLanguage": "Polish",
+      "word": "negro",
+      "translation": "czarny",
+      "definition": "De color oscuro, sin luz o reflexión.",
+      "definition_translation": "Ciemny, bez światła lub odbicia.",
+      "example": "El gato negro está durmiendo.",
+      "example_translation": "Czarny kot śpi.",
+      "imageLink": "https://www.ang.pl/img/slownik/black.jpg",
+      "audioLink": "https://www.ang.pl/sound/dict/black.mp3"
+    }
+  ]
+}

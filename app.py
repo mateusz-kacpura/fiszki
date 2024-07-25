@@ -21,14 +21,15 @@ import scipy
 import pandas as pd 
 from io import BytesIO, StringIO
 import csv
+from groq import Groq
 
 app = Flask(__name__)
 CORS(app)
 
 # Configurations
 UPLOAD_FOLDER = 'uploads'
-IMAGE_FOLDER = 'image_files'
-AUDIO_FOLDER = 'audio_files'
+IMAGE_FOLDER = 'image_files/English/'
+AUDIO_FOLDER = 'audio_files/English/'
 LOG_FOLDER = 'logi'
 STATISTICS_FILE ='api/statistic/statistics.json'
 SETTING_FILE ='api/setting/excludedWords.json'
@@ -186,22 +187,22 @@ def get_statistics():
     return send_from_directory('api/statistic', 'statistics.json')
 
 # Static file routes with /learning/ segment
-@app.route('/learning/image_files/<path:filename>')
+@app.route('/learning/image_files/English/<path:filename>')
 def custom_static_images(filename):
-    return send_from_directory('image_files', filename)
+    return send_from_directory('image_files/English', filename)
 
-@app.route('/learning/audio_files/<path:filename>')
+@app.route('/learning/audio_files/English/<path:filename>')
 def custom_static_audio(filename):
-    return send_from_directory('audio_files', filename)
+    return send_from_directory('audio_files/English', filename)
 
 # Static file routes without /learning/ segment
-@app.route('/image_files/<path:filename>')
+@app.route('/image_files/English/<path:filename>')
 def image_files(filename):
-    return send_from_directory('image_files', filename)
+    return send_from_directory('image_files/English', filename)
 
-@app.route('/audio_files/<path:filename>')
+@app.route('/audio_files/English/<path:filename>')
 def audio_files(filename):
-    return send_from_directory('audio_files', filename)
+    return send_from_directory('audio_files/English', filename)
 # <--                          !-->
 
 @app.route('/translate', methods=['POST'])
@@ -394,7 +395,7 @@ def real_time_speech_recognition():
 def send_static(path):
     return send_from_directory('public', path)
 
-@app.route('/audio_files/<path:path>')
+@app.route('/audio_files/English/<path:path>')
 def send_audio(path):
     return send_from_directory(AUDIO_FOLDER, path)
 
@@ -464,6 +465,55 @@ def text_to_speech():
         logging.error(f"Error in text-to-speech: {e}")
         return jsonify({'error': 'Failed to generate speech'}), 500
     
+@app.route('/text-to-speech-groq', methods=['POST'])
+def text_to_speech_groq():
+
+    API_KEY = "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"
+    client = Groq(api_key=API_KEY)
+
+    print("Received request to convert text to speech using Groq API")
+    text = request.json.get('text', '')
+    text = text.lower().replace('/', ' ')
+    print(f"Received text: {text}")
+    if not text:
+        print("Error: No text provided")
+        return jsonify({'error': 'No text provided'}), 400
+
+    flaga = 0 # groq nie obsługuje text-to-speech tylko speech to text
+    try:
+        mp3_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
+        if not os.path.exists(mp3_path) and flaga == 1:
+            print("Generating audio...")
+            completion = client.chat.completions.create(
+                model="whisper-large-v3",
+                messages=[{"role": "user", "content": text}],
+                temperature=1,
+                max_tokens=1024,
+                top_p=1,
+                stream=True,
+                stop=None,
+            )
+
+            audio_content = b""
+            for chunk in completion:
+                audio_content += chunk.choices[0].delta.audio or b""
+
+            audio_path = os.path.join(AUDIO_FOLDER, f"{text}.mp3")
+            with open(audio_path, 'wb') as audio_file:
+                audio_file.write(audio_content)
+
+            print("Plik został zapisany pod ścieżką: ", audio_path)
+    
+        else:
+            print(f"Audio file already exists: {mp3_path}")
+            
+        return jsonify({'audio_path': mp3_path})
+        
+    except Exception as e:
+        print(f"Error in text-to-speech using Groq: {e}")
+        logging.error(f"Error in text-to-speech using Groq: {e}")
+        return jsonify({'error': 'Failed to generate speech using Groq'}), 500
+
 @app.route('/load-audio-paths', methods=['POST'])
 def load_audio_paths():
     words = request.json['words']
@@ -643,8 +693,8 @@ data = [
         "definition": "To contain something as a part of something else.",
         "example": "The report includes several recommendations.",
         "example_translation": "Raport zawiera kilka zaleceń.",
-        "imageLink": "image_files/include.jpg",
-        "audioLink": "audio_files/include.mp3"
+        "imageLink": "image_files/English/include.jpg",
+        "audioLink": "audio_files/English/include.mp3"
     }
     # Dodaj więcej obiektów w miarę potrzeby
 ]
