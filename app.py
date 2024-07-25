@@ -782,6 +782,25 @@ def get_data_count():
     print("len data/count", len(data))
     return jsonify(len(data))
 
+# Endpoint do zapisywania JSON, służy do zapisywania całych zestawów, które zostały poprawione w ekselu wbudowanym w aplikacje
+@app.route('/uploads-save-json', methods=['POST'])
+def uploads_save_json():
+    data = request.get_json()
+    file_name = data.get('fileName', 'data')  ## w chwili obecnej zmienna fileName nie jest przekazywana z frontendu
+    json_data = data.get('data')   
+    print(file_name)
+    try:
+        file_path = os.path.join(UPLOAD_FOLDER, f"{file_name}.json")
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(json_data)
+        # Logowanie zapisu pliku
+        upload_logger.info(f"Plik zapisany: {file_path}")
+        return jsonify(success=True, file_path=file_path)
+    except Exception as e:
+        # Logowanie błędu
+        upload_logger.error(f"Błąd podczas zapisywania pliku: {e}")
+        return jsonify(success=False)
+
 @app.route('/upload-save-json', methods=['POST'])
 def upload_save_json():
     global data

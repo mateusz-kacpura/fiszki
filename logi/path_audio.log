@@ -754,3 +754,8 @@
 2024-07-21 22:05:24,577 - audio_logger - INFO - File already exists: audio_files\conclude.mp3
 2024-07-21 22:05:24,577 - audio_logger - INFO - File already exists: audio_files\particular.mp3
 2024-07-21 22:05:24,577 - audio_logger - INFO - File already exists: audio_files\for-instance.mp3
+2024-07-25 08:35:43,683 - audio_logger - INFO - Downloaded audio: https://www.diki.pl/images-common/en/mp3/polish.mp3 to audio_files\polish.mp3
+2024-07-25 08:35:43,684 - audio_logger - INFO - File already exists: audio_files\polish.mp3
+2024-07-25 08:35:43,684 - audio_logger - INFO - File already exists: audio_files\polish.mp3
+2024-07-25 08:35:43,684 - audio_logger - INFO - File already exists: audio_files\polish.mp3
+2024-07-25 08:35:43,685 - audio_logger - INFO - File already exists: audio_files\polish.mp3

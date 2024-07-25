@@ -390,6 +390,11 @@ function handleSaveChanges() {
     $('#saveChangesModal').modal('show');
 }
 
+function showNotification(message) {
+    $('#notificationMessage').text(message);
+    $('#notificationModal').modal('show');
+}
+
 function confirmSaveChanges() {
     $('#saveChangesModal').modal('hide');
     const updatedData = [];
@@ -410,25 +415,26 @@ function confirmSaveChanges() {
     });
 
     const jsonString = JSON.stringify(updatedData, null, 2);
+    const fileName = $('#fileNameInput').val() || 'example'; // Pobierz nazwę pliku od użytkownika lub ustaw na "example"
 
     fetch('/uploads-save-json', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ data: jsonString })
+        body: JSON.stringify({ data: jsonString, fileName: fileName })
     })
     .then(response => response.json())
     .then(data => {
         if (data.success) {
-            alert('Changes saved successfully.');
+            showNotification('Changes saved successfully. File saved at: {} ');
         } else {
-            alert('Error saving changes.');
+            showNotification('Error saving changes.');
         }
     })
     .catch(error => {
         console.error('Error:', error);
-        alert('Error saving changes.');
+        showNotification('Error saving changes.');
     });
 }
 
