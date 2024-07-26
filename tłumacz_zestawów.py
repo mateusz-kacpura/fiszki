@@ -6,8 +6,8 @@ from groq import Groq
 import re
 
 # Plik wejściowy
-input_file_path = r'C:\Users\engli\fiszki\fiszki\English-2.json'
-out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\Spanish'
+input_file_path = r'C:\Users\engli\fiszki\fiszki\English-1.json'
+out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\French'
 
 API_KEY = "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"
 
@@ -16,7 +16,7 @@ def fetch_groq_data(word):
     client = Groq(api_key=API_KEY)
     
     dane_wejściowe_json = {
-        "language": "Spanish",
+        "language": "French",
         "translationLanguage": "Polish",
         "word": word,
         "translation": "",
@@ -27,13 +27,13 @@ def fetch_groq_data(word):
     }
 
     message = (
-        f"Devuélveme los datos completados en formato JSON según mi receta `{json.dumps(dane_wejściowe_json)}`,\n"
-        "# dane_wejściowe_json.word -> Write this word in Spanish \n"
-        "# dane_wejściowe_json.translation -> traduce la palabra al polaco \n"
-        "# dane_wejściowe_json.definition -> definición de la palabra en español \n"
-        "# dane_wejściowe_json.definition_translation -> definición traducida de la palabra en polaco \n"
-        "# dane_wejściowe_json.example -> oración de ejemplo usando la palabra dane_wejściowe_json.word en español \n"
-        "# dane_wejściowe_json.example_translation -> traducción de la oración de ejemplo del español al polaco "
+        f"Return the completed data in JSON format according to my recipe `{json.dumps(dane_wejściowe_json)}`,\n"
+        "# dane_wejściowe_json.word -> Write this word in French! po Francusku \n"
+        "# dane_wejściowe_json.translation -> translate the word to Polish! po polsku \n"
+        "# dane_wejściowe_json.definition -> definition of the word in French! po francusku \n"
+        "# dane_wejściowe_json.definition_translation -> translated definition of the word dane_wejściowe_json.definition in Polish! po polsku \n"
+        "# dane_wejściowe_json.example -> example sentence using the word dane_wejściowe_json.word in French! po francusku\n"
+        "# dane_wejściowe_json.example_translation -> translation of the example sentence from French to Polish! po polsku "
     )
 
     try:

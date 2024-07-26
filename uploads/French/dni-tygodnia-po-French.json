@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Friday",
+      "translation": "Piątek",
+      "definition": "le cinquième jour de la semaine",
+      "definition_translation": "piąty dzień tygodnia",
+      "example": "Je vais au parc le vendredi.",
+      "example_translation": "Idę do parku w piątek.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Monday",
+      "translation": "poniedziałek",
+      "definition": "le premier jour de la semaine",
+      "definition_translation": "pierwszy dzień tygodnia",
+      "example": "Je vais au parc le lundi.",
+      "example_translation": "Idę do parku w poniedziałek.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Saturday",
+      "translation": "Sobota",
+      "definition": "Jour de la semaine entre vendredi et dimanche",
+      "definition_translation": "Dzień tygodnia między piątkiem a niedzielą",
+      "example": "Je vais à la plage le samedi.",
+      "example_translation": "Idę na plażę w sobotę.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Sunday",
+      "translation": "niedziela",
+      "definition": "jour de la semaine chrétienne",
+      "definition_translation": "dni tygodnia chrześcijańskiego",
+      "example": "Je vais à la messe le dimanche.",
+      "example_translation": "Idę do mszy w niedzielę.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Thursday",
+      "translation": "Czwartek",
+      "definition": "Jour de la semaine entre le mercredi et le vendredi",
+      "definition_translation": "Dzień tygodnia między środą a piątkiem",
+      "example": "Je vais au cinéma le jeudi soir.",
+      "example_translation": "Idę do kina w czwartek wieczorem.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Tuesday",
+      "translation": "wtorek",
+      "definition": "le deuxième jour de la semaine",
+      "definition_translation": "drugi dzień tygodnia",
+      "example": "Je vais au parc le mardi.",
+      "example_translation": "Idę do parku we wtorek.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-French",
+      "language": "French",
+      "translationLanguage": "Polish",
+      "word": "Wednesday",
+      "translation": "Środa",
+      "definition": "Le troisième jour de la semaine",
+      "definition_translation": "Trzeci dzień tygodnia",
+      "example": "Je vais au parc le mercredi.",
+      "example_translation": "Idę do parku w środę.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}
