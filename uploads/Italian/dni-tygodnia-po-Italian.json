@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Venerdì",
+      "translation": "Piątek",
+      "definition": "Il giorno della settimana che precede il sabato",
+      "definition_translation": "Dzień tygodnia poprzedzający sobotę",
+      "example": "Venerdì sera andiamo al cinema",
+      "example_translation": "W piątek wieczorem idziemy do kina",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Lunedì",
+      "translation": "Poniedziałek",
+      "definition": "Il giorno della settimana che segue la domenica",
+      "definition_translation": "Dzień tygodnia następujący po niedzieli",
+      "example": "Lunedì mattina andiamo a scuola",
+      "example_translation": "W poniedziałek rano idziemy do szkoły",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Sabato",
+      "translation": "Sobota",
+      "definition": "Il giorno della settimana che precede la domenica",
+      "definition_translation": "Dzień tygodnia poprzedzający niedzielę",
+      "example": "Sabato pomeriggio andiamo al parco",
+      "example_translation": "W sobotę po południu idziemy do parku",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Domenica",
+      "translation": "Niedziela",
+      "definition": "Il giorno della settimana che segue il sabato",
+      "definition_translation": "Dzień tygodnia następujący po sobocie",
+      "example": "Domenica sera andiamo a cena dai nonni",
+      "example_translation": "W niedzielę wieczorem idziemy na kolację do dziadków",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Giovedì",
+      "translation": "Czwartek",
+      "definition": "Il giorno della settimana che precede il venerdì",
+      "definition_translation": "Dzień tygodnia poprzedzający piątek",
+      "example": "Giovedì pomeriggio andiamo a fare la spesa",
+      "example_translation": "W czwartek po południu idziemy na zakupy",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Martedì",
+      "translation": "Wtorek",
+      "definition": "Il giorno della settimana che segue il lunedì",
+      "definition_translation": "Dzień tygodnia następujący po poniedziałku",
+      "example": "Martedì sera andiamo a vedere un film",
+      "example_translation": "We wtorek wieczorem idziemy oglądać film",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Mercoledì",
+      "translation": "Środa",
+      "definition": "Il giorno della settimana che segue il martedì",
+      "definition_translation": "Dzień tygodnia następujący po wtorku",
+      "example": "Mercoledì pomeriggio andiamo a studiare",
+      "example_translation": "W środę po południu idziemy się uczyć",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}

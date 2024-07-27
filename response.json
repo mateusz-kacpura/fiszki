@@ -1,0 +1,308 @@
+Here is the completed data in JSON format:
+
+```
+[
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "calmo",
+        "translation": "spokojny",
+        "definition": "stato d'animo caratterizzato da assenza di turbamento o agitazione",
+        "definition_translation": "stan umysłu charakteryzujący się brakiem zakłócenia lub agitacji",
+        "example": "Il mio amico è sempre calmo anche nelle situazioni più difficili.",
+        "example_translation": "Mój przyjaciel jest zawsze spokojny, nawet w najtrudniejszych sytuacjach."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "calmo",
+        "translation": "spokojny",
+        "definition": "stato d'animo caratterizzato da assenza di turbamento o agitazione",
+        "definition_translation": "stan umysłu charakteryzujący się brakiem zakłócenia lub agitacji",
+        "example": "Il mio amico è sempre calmo anche nelle situazioni più difficili.",
+        "example_translation": "Mój przyjaciel jest zawsze spokojny, nawet w najtrudniejszych sytuacjach."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "cammello",
+        "translation": "wielbłąd",
+        "definition": "mammifero anche conosciuto come dromedario, di grandi dimensioni e con una o due gobbe",
+        "definition_translation": "ssak, także znany jako dromader, o dużych rozmiarach i z jednym lub dwoma garbami",
+        "example": "Il cammello è un animale molto resistente.",
+        "example_translation": "Wielbłąd jest bardzo wytrzymałym zwierzęciem."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "campeggio",
+        "translation": "kemping",
+        "definition": "-area di terreno attrezzata per accogliere tende e roulotte",
+        "definition_translation": "obszar ziemi wyposażony do przyjmowania namiotów i przyczep kempingowych",
+        "example": "Il campeggio era molto affollato durante il fine settimana.",
+        "example_translation": "Kemping byłbardzo zatłoczony w weekend."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "campeggio",
+        "translation": "kemping",
+        "definition": "area di terreno attrezzata per accogliere tende e roulotte",
+        "definition_translation": "obszar ziemi wyposażony do przyjmowania namiotów i przyczep kempingowych",
+        "example": "Il campeggio era molto affollato durante il fine settimana.",
+        "example_translation": "Kemping byłbardzo zatłoczony w weekend."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "canale",
+        "translation": "kanał",
+        "definition": "corso d'acqua naturale o artificiale che collega due superfici di acqua",
+        "definition_translation": "bieg wody naturalny lub sztuczny, łączący dwie powierzchnie wody",
+        "example": "Il canale di Venezia è molto pittoresco.",
+        "example_translation": "Kanał w Wenecji jest bardzo malowniczy."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "annullare",
+        "translation": "anulować",
+        "definition": "rendere nullo o senza effetto un atto o un documento",
+        "definition_translation": "uczynić nieważnym lub bezskutecznym akt lub dokument",
+        "example": "Ho annullato la prenotazione del volo.",
+        "example_translation": "Anulowałem rezerwację lotu."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "annullato",
+        "translation": "anulowany",
+        "definition": "reso nullo o senza effetto",
+        "definition_translation": "uczyniony nieważnym lub bezskutecznym",
+        "example": "Il concerto è stato annullato per maltempo.",
+        "example_translation": "Koncert został anulowany z powodu niepogody."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "cancro",
+        "translation": "rak",
+        "definition": "malattia neoplastica caratterizzata dalla crescita anormale di cellule",
+        "definition_translation": "choroba nowotworowa charakteryzująca się nieprawidłowym wzrostem komórek",
+        "example": "Il cancro è una delle principali cause di morte.",
+        "example_translation": "Rak jest jedną z głównych przyczyn zgonów."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "candidato",
+        "translation": "kandydat",
+        "definition": "persona che si presenta come possibile rappresentante",
+        "definition_translation": "osoba, która przedstawia się jako możliwy przedstawiciel",
+        "example": "Il candidato è stato scelto per la sua esperienza.",
+        "example_translation": "Kandydat został wybrany ze względu na jego doświadczenie."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "candela",
+        "translation": "świeca",
+        "definition": "oggetto che produce luce mediante la combustione di un materiale",
+        "definition_translation": "przedmiot, który produkuje światło poprzez spalanie materiału",
+        "example": "La candela è stata accesa per creare un'atmosfera romantica.",
+        "example_translation": "Świeca została zapalona, aby stworzyć atmosferę romantyczną."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "mensa",
+        "translation": "kantyna",
+        "definition": "locale dove vengono serviti pasti",
+        "definition_translation": "miejsce, gdzie są serwowane posiłki",
+        "example": "La mensa dell'università è molto economica.",
+        "example_translation": "Kantyna uniwersytecka jest bardzo ekonomiczna."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "capitano",
+        "translation": "kapitan",
+        "definition": "comandante di una nave o di un'unità militare",
+        "definition_translation": "dowódca statku lub jednostki wojskowej",
+        "example": "Il capitano ha ordinato di fermare la nave.",
+        "example_translation": "Kapitan nakazał zatrzymać statek."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "carta",
+        "translation": "karta",
+        "definition": "foglio di materiale flessibile utilizzato per scrivere o disegnare",
+        "definition_translation": "kartka materiału elastycznego używana do pisania lub rysowania",
+        "example": "La carta è molto resistente all'umidità.",
+        "example_translation": "Karta jest bardzo odporna na wilgoć."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "prenderti cura",
+        "translation": "zająć się",
+        "definition": "occuparsi di qualcosa con attenzione e dedizione",
+        "definition_translation": "zajmować się czymś z uwagą i poświęceniem",
+        "example": "Mi prendo cura dei miei genitori anziani.",
+        "example_translation": "Zajmuję się moimi starzeniecymi się rodzicami."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "carriera",
+        "translation": "kariera",
+        "definition": "sviluppo professionale di una persona",
+        "definition_translation": "rozwoj zawodowy osoby",
+        "example": "La mia carriera è stata molto soddisfacente.",
+        "example_translation": "Moja kariera była bardzo zadowalająca."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "senza pensieri",
+        "translation": "bezczynny",
+        "definition": "non preoccupato o non ansioso",
+        "definition_translation": "niezaniepokojony lub niezbyt zdenerwowany",
+        "example": "Sono stato senza pensieri durante le vacanze.",
+        "example_translation": "Byłem bezczynny podczas wakacji."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "senza cura",
+        "translation": "bezpieczny",
+        "definition": "non preoccupato o non attento",
+        "definition_translation": "niezaniepokojony lub nieuwagi",
+        "example": "Il conducente era senza cura e è stato multato.",
+        "example_translation": "Kierowca był bezpieczny i dostał mandat."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "caso",
+        "translation": "przypadek",
+        "definition": "evento o situazione particolare",
+        "definition_translation": "wydarzenie lub sytuacja szczególna",
+        "example": "Il caso è stato risolto dalla polizia.",
+        "example_translation": "Przypadek został rozwiązany przez policję."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "contanti",
+        "translation": "gotówka",
+        "definition": "denaro in forma di banconote o monete",
+        "definition_translation": "pieniądze w formie banknotów lub monet",
+        "example": "Ho pagato i contanti per il biglietto.",
+        "example_translation": "Zapłaciłem gotówką za bilet."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "sportello automatico",
+        "translation": "bankomat",
+        "definition": "macchina che eroga denaro contante",
+        "definition_translation": "maszyna, która wypłaca gotówkę",
+        "example": "Ho preso i soldi dallo sportello automatico.",
+        "example_translation": "Wziąłem pieniądze z bankomatu."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "informale",
+        "translation": "nieformalny",
+        "definition": "non ufficiale o non cerimoniale",
+        "definition_translation": "nieoficjalny lub nieuroczysty",
+        "example": "Il mio abito era informale per la sera.",
+        "example_translation": "Mój strój był nieformalny wieczorem."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "bestiame",
+        "translation": "bydło",
+        "definition": "animali allevati per la loro carne o latte",
+        "definition_translation": "zwierzęta hodowlane dla mięsa lub mleka",
+        "example": "Il bestiame è stato vaccinato contro la malattia.",
+        "example_translation": "Bydło zostało zaszczepione przeciw chorobie."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "grotta",
+        "translation": "jaskinia",
+        "definition": "cavità naturale nella roccia",
+        "definition_translation": "naturalna szczelina w skale",
+        "example": "La grotta era molto buia e umida.",
+        "example_translation": "Jaskinia była bardzo ciemna i wilgotna."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "festeggiare",
+        "translation": "świętować",
+        "definition": "celebrare un evento o una ricorrenza con gioia e allegria",
+        "definition_translation": "świętować wydarzenie lub rocznicę z radością i wesołością",
+        "example": "Abbiamo festeggiato il nostro anniversario di matrimonio.",
+        "example_translation": "Świętowaliśmy rocznicę naszego małżeństwa."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "festa",
+        "translation": "święto",
+        "definition": "evento o celebrazione con musica, cibo e divertimenti",
+        "definition_translation": "wydarzenie lub święto z muzyką, jedzeniem i rozrywkami",
+        "example": "La festa è stata molto divertente.",
+        "example_translation": "Święto było bardzo zabawne."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "celebrità",
+        "translation": "celebryta",
+        "definition": "persona famosa per il suo talento o la sua popolarità",
+        "definition_translation": "osoba sławna ze względu na swój talent lub popularność",
+        "example": "La celebrità è stata invitata alla festa.",
+        "example_translation": "Celebryta została zaproszona na przyjęcie."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "centrale",
+        "translation": "centralny",
+        "definition": "situato nel centro di qualcosa",
+        "definition_translation": "położony w centrum czegoś",
+        "example": "La stazione centrale è molto grande.",
+        "example_translation": "Stacja centralna jest bardzo duża."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "riscaldamento centrale",
+        "translation": "ogrzewanie centralne",
+        "definition": "sistema di riscaldamento che fornisce calore a un edificio",
+        "definition_translation": "system ogrzewania, który dostarcza ciepło budynkowi",
+        "example": "Il riscaldamento centrale è stato riparato.",
+        "example_translation": "Ogrzewanie centralne zostało naprawione."
+    },
+    {
+        "language": "Italian",
+        "translationLanguage": "Polish",
+        "word": "cerimonia",
+        "translation": "ceremonia",
+        "definition": "evento ufficiale o rituale che celebra un avvenimento importante",
+        "definition_translation": "wydarzenie oficjalne lub rytuał, który celebrować ważne wydarzenie",
+        "example": "La cerimonia di apertura è stata molto emozionante.",
+        "example_translation": "Ceremonia otwarcia była bardzo emocjonująca."
+    }
+]
+```
+
+Note: Please note that the translations and definitions provided are machine-generated and may not be perfect. It's always a good idea to have a human translator review the content for accuracy and cultural relevance.

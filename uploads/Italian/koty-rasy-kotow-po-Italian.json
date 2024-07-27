@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "section": "koty-rasy-kotow-po-Italian",
+      "language": "Italian",
+      "translationLanguage": "Polish",
+      "word": "Turco Van",
+      "translation": "Turkish Van",
+      "definition": "Il Turco Van è un tipo di gatto domestico",
+      "definition_translation": "Turkish Van to rodzaj domowego kota",
+      "example": "Il mio gatto è un Turco Van nero",
+      "example_translation": "Mój kot to czarny Turkish Van",
+      "imageLink": "turkish-van.jpg",
+      "audioLink": "Turkish Van.mp3"
+    }
+  ]
+}
