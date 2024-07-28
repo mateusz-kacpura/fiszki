@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Friday",
+      "translation": "piątek",
+      "definition": "dia da semana que vem após quinta-feira",
+      "definition_translation": "dzień tygodnia, który następuje po czwartku",
+      "example": "Eu vou à praia na sexta-feira.",
+      "example_translation": "Idę na plażę w piątek.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Monday",
+      "translation": "poniedziałek",
+      "definition": "primeiro dia da semana",
+      "definition_translation": "pierwszy dzień tygodnia",
+      "example": "Eu estou cansado na segunda-feira.",
+      "example_translation": "Jestem zmęczony w poniedziałek.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Saturday",
+      "translation": "sobota",
+      "definition": "dia da semana que vem após sexta-feira",
+      "definition_translation": "dzień tygodnia, który następuje po piątku",
+      "example": "Eu vou ao cinema no sábado.",
+      "example_translation": "Idę do kina w sobotę.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Sunday",
+      "translation": "niedziela",
+      "definition": "ultimo dia da semana",
+      "definition_translation": "ostatni dzień tygodnia",
+      "example": "Eu vou à igreja no domingo.",
+      "example_translation": "Idę do kościoła w niedzielę.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Thursday",
+      "translation": "czwartek",
+      "definition": "quarto dia da semana",
+      "definition_translation": "czwarty dzień tygodnia",
+      "example": "Eu tenho uma reunião na quinta-feira.",
+      "example_translation": "Mam spotkanie w czwartek.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Tuesday",
+      "translation": "wtorek",
+      "definition": "segundo dia da semana",
+      "definition_translation": "drugi dzień tygodnia",
+      "example": "Eu vou ao supermercado na terça-feira.",
+      "example_translation": "Idę do supermarketu we wtorek.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Italian",
+      "language": "Portuguese",
+      "translationLanguage": "Polish",
+      "word": "Wednesday",
+      "translation": "środa",
+      "definition": "terceiro dia da semana",
+      "definition_translation": "trzeci dzień tygodnia",
+      "example": "Eu tenho uma aula na quarta-feira.",
+      "example_translation": "Mam lekcję w środę.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}

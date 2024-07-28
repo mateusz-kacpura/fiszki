@@ -7,13 +7,13 @@ import re
 
 # File paths and API key
 input_file_path = r'C:\Users\engli\fiszki\fiszki\English-2.json'
-out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\Italian'
+out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-IT'
 API_KEY = "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"
 
 # Parameters
-language = "Italian"
-translationLanguage = "Polish"
-chunk_size = 30
+language = "English"
+translationLanguage = "Italian"
+chunk_size = 40
 
 def prepare_data(words):
     dane_wejsciowe_list = [
@@ -34,12 +34,12 @@ def prepare_data(words):
 
     message = (
         f" Return the completed data in JSON format according to my recipe `{dane_wejsciowe_json_output}`, return only the completed data in json format in response \n"
-        f" dane_wejściowe_json.word -> Translate this word to {language}! word must be in {language} \n"
-        f" dane_wejściowe_json.translation -> Translate the word to {translationLanguage}! po {translationLanguage} \n"
-        f" dane_wejściowe_json.definition -> dane_wejściowe_json.definition of the word must be in {language}! definition mast be in {language} \n"
+        f" dane_wejściowe_json.word -> This word must be in {language} \n"
+        f" dane_wejściowe_json.translation -> Translate the word to {translationLanguage}! this translation must be in {translationLanguage} \n"
+        f" dane_wejściowe_json.definition -> Make a long definition my dane_wejściowe_json.word in {language} dane_wejściowe_json.definition of the word must be in {language}! definition mast be in {language} \n"
         f" dane_wejściowe_json.definition_translation -> translated definition of the word dane_wejściowe_json.definition in {translationLanguage} ! this translation must be in {translationLanguage} \n"
-        f" dane_wejściowe_json.example -> example sentence using the word dane_wejściowe_json.word in {language}! example must be in {language} \n"
-        f" dane_wejściowe_json.example_translation -> translation of the example sentence from {language} to {translationLanguage}! this translation must be in {translationLanguage} "
+        f" dane_wejściowe_json.example -> Make a long example sentence using the word dane_wejściowe_json.word in {language}! example must be in {language}. Use past, present and future tenses alternately. \n"
+        f" dane_wejściowe_json.example_translation -> Make a translation of the example sentence from {language} to {translationLanguage}! This translation must be in {translationLanguage} "
     )
 
     return message

@@ -6,7 +6,7 @@ from groq import Groq
 import re
 
 # Plik wejściowy
-input_file_path = r'C:\Users\engli\fiszki\fiszki\zestawy-2.json'
+input_file_path = r'C:\Users\engli\fiszki\fiszki\zestawy-1.json'
 out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\szlifuj_ang'
 
 API_KEY = "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"
