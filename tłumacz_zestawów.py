@@ -4,16 +4,19 @@ import os
 import time
 from groq import Groq
 import re
+from colorama import init, Fore
 
+init(autoreset=True)
 # File paths and API key
-input_file_path = r'C:\Users\engli\fiszki\fiszki\English-2.json'
-out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-IT'
+input_file_path = r'C:\Users\engli\fiszki\fiszki\English-1.json'
+out_path = f'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-ES'
 API_KEY = "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"
 
 # Parameters
 language = "English"
-translationLanguage = "Italian"
-chunk_size = 40
+translationLanguage = "Spanish"
+chunk_size = 3
+SLEEPS = 2
 
 def prepare_data(words):
     dane_wejsciowe_list = [
@@ -89,11 +92,13 @@ def fetch_groq_data(message):
                 print(f"JSON Decode Error: {e}")
                 return []
         else:
-            print("No JSON data found in the response.")
-            return []
+            print(Fore.RED + "No JSON data found in the response.")
+            time.sleep(SLEEPS)
+            print(Fore.RED + "Próbuję jeszcze raz.")
+            fetch_groq_data(message)
         
     except Exception as e:
-        print(f"Error during API request: {e}")
+        print(Fore.RED + f"Error during API request: {e}")
         return []
 
 def file_exists(filepath):
@@ -173,7 +178,7 @@ def process_chunk(section, chunk, out_path, language, translationLanguage):
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     json.dump(existing_data, file, ensure_ascii=False, indent=2)
 
-            time.sleep(60)
+            time.sleep(SLEEPS)
 
 request_counter = 0
 request_start_time = time.time()

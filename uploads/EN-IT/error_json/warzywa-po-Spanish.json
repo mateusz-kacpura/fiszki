@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "section": "warzywa-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Italian",
+      "word": "marrow",
+      "translation": "midollo",
+      "definition": "A soft, fatty tissue that fills the cavities of bones, such as the hips and thighbones, and produces blood cells.",
+      "definition_translation": "Un tessuto molle e grasso che riempie le cavità delle ossa, come quelle delle anche e delle cosce, e produce cellule del sangue.",
+      "example": "The doctor extracted a sample of marrow from the patient's hip bone. Yesterday, she extracted a sample of marrow from the patient's thighbone. Tomorrow, she will extract a sample of marrow from the patient's ribcage.",
+      "example_translation": "Il dottore ha estratto un campione di midollo dall'osso dell'anca del paziente. Ieri, ha estratto un campione di midollo dall'osso della coscia del paziente. Domani, estrarrà un campione di midollo dalla gabbia toracica del paziente.",
+      "imageLink": "marrow.jpg",
+      "audioLink": "marrow.mp3"
+    },
+    {
+      "section": "warzywa-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Italian",
+      "word": "parsnip",
+      "translation": "pastinaca",
+      "definition": "A sweet and starchy root vegetable, often used in soups and stews.",
+      "definition_translation": "Un ortaggio dolce e starchoso, spesso utilizzato in zuppe e stufati.",
+      "example": "I chopped the parsnips and carrots for the stew. Yesterday, I boiled the parsnips for 20 minutes. Next week, I will roast the parsnips with olive oil and garlic.",
+      "example_translation": "Ho tagliato le pastinache e le carote per lo stufato. Ieri, ho bollito le pastinache per 20 minuti. La prossima settimana, arrostirò le pastinache con olio d'oliva e aglio.",
+      "imageLink": "parsnip.jpg",
+      "audioLink": "parsnip.mp3"
+    },
+    {
+      "section": "warzywa-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Italian",
+      "word": "rhubarb",
+      "translation": "rabarbaro",
+      "definition": "A tart and sour-tasting vegetable, often used in pies and jams.",
+      "definition_translation": "Un ortaggio aspro e acidulo, spesso utilizzato in torte e marmellate.",
+      "example": "I picked fresh rhubarb from the garden for the pie. Last year, I made a rhubarb jam with sugar and lemon juice. Next spring, I will plant new rhubarb seeds in the garden.",
+      "example_translation": "Ho raccolto rabarbaro fresco dal giardino per la torta. L'anno scorso, ho fatto una marmellata di rabarbaro con zucchero e succo di limone. La prossima primavera, pianterò nuovi semi di rabarbaro nel giardino.",
+      "imageLink": "rhubarb.jpg",
+      "audioLink": "rhubarb.mp3"
+    },
+    {
+      "section": "warzywa-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Italian",
+      "word": "swede",
+      "translation": "ravanello",
+      "definition": "A root vegetable, similar to a turnip, often used in soups and stews.",
+      "definition_translation": "Un ortaggio radice, simile alla rapa, spesso utilizzato in zuppe e stufati.",
+      "example": "I grated the swede and carrots for the soup. Yesterday, I boiled the swede for 15 minutes. Next week, I will roast the swede with butter and salt.",
+      "example_translation": "Ho grattugiato il ravanello e le carote per la zuppa. Ieri, ho bollito il ravanello per 15 minuti. La prossima settimana, arrostirò il ravanello con burro e sale.",
+      "imageLink": "swede.jpg",
+      "audioLink": "swede.mp3"
+    },
+    {
+      "section": "warzywa-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Italian",
+      "word": "sweet potato",
+      "translation": "patata dolce",
+      "definition": "A starchy root vegetable, often baked or mashed and served as a side dish.",
+      "definition_translation": "Un ortaggio radice starchoso, spesso cotto al forno o schiacciato e servito come contorno.",
+      "example": "I baked sweet potatoes for dinner. Last week, I mashed sweet potatoes with butter and milk. Next month, I will try sweet potato fries.",
+      "example_translation": "Ho cotto patate dolci per cena. La settimana scorsa, ho schiacciato patate dolci con burro e latte. Il mese prossimo, proverò patatine fritte di patate dolci.",
+      "imageLink": "sweet-potato.jpg",
+      "audioLink": "sweet potato.mp3"
+    },
+    {
+      "section": "warzywa-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Italian",
+      "word": "turnip",
+      "translation": "rapa",
+      "definition": "A root vegetable, often used in soups and stews, and also eaten raw in salads.",
+      "definition_translation": "Un ortaggio radice, spesso utilizzato in zuppe e stufati, e anche mangiato crudo in insalate.",
+      "example": "I chopped the turnips and carrots for the stew. Yesterday, I boiled the turnips for 10 minutes. Next week, I will pickle turnips with vinegar and salt.",
+      "example_translation": "Ho tagliato le rape e le carote per lo stufato. Ieri, ho bollito le rape per 10 minuti. La prossima settimana, insalaterò le rape con aceto e sale.",
+      "imageLink": "turnip.jpg",
+      "audioLink": "turnip.mp3"
+    }
+  ]
+}
