@@ -5,44 +5,42 @@ Here is the completed data in JSON format:
     {
         "language": "English",
         "translationLanguage": "Russian",
-        "word": "broken",
-        "translation": "сломанный",
-        "definition": "Not in working order; damaged or spoiled.",
-        "definition_translation": "Не работает; повреждён или испорчен.",
-        "example": "The TV was broken, so we had to buy a new one. It broke yesterday, but we will fix it tomorrow.",
-        "example_translation": "Телевизор был сломан, поэтому мы должны были купить новый. Он сломался вчера, но мы отремонтируем его завтра."
+        "word": "hairdryer",
+        "translation": "фен",
+        "definition": "An electrical appliance used to dry and style hair.",
+        "definition_translation": "Электрический прибор, используемый для сушки и стилизации волос.",
+        "example": "She used a hairdryer to dry her hair quickly. Yesterday, she had used a hairdryer to style her hair for the party. Tomorrow, she will use a hairdryer to dry her hair before going to work.",
+        "example_translation": "Она использовала фен, чтобы быстро высушить волосы. Вчера она использовала фен, чтобы уложить волосы для вечеринки. Завтра она будет использовать фен, чтобы высушить волосы перед уходом на работу."
     },
     {
         "language": "English",
         "translationLanguage": "Russian",
-        "word": "broken",
-        "translation": "сломанный",
-        "definition": "Not in working order; damaged or spoiled.",
-        "definition_translation": "Не работает; повреждён или испорчен.",
-        "example": "The chair was broken, so we had to throw it away. It will break if you drop it.",
-        "example_translation": "Стул был сломан, поэтому мы должны были выбросить его. Он сломается, если вы его упадете."
+        "word": "hand luggage",
+        "translation": "ручная кладь",
+        "definition": "A small bag or case that you can carry onto an airplane or train, containing personal items.",
+        "definition_translation": "Маленькая сумка или чемодан, который вы можете взять с собой на самолет или поезд, содержащий личные вещи.",
+        "example": "I had to pack my hand luggage carefully to ensure it fit in the overhead compartment. She had checked her hand luggage at the gate. They will check their hand luggage at the security checkpoint.",
+        "example_translation": "Я должен был аккуратно بستهать свою ручную кладь, чтобы убедиться, что она поместится в верхнем отделении. Она сдала свою ручную кладь у выхода. Они будут проверять свою ручную кладь на контрольно-пропускном пункте безопасности."
     },
     {
         "language": "English",
         "translationLanguage": "Russian",
-        "word": "brush",
-        "translation": "кисть",
-        "definition": "An instrument with bristles or wires, used for cleaning or arranging.",
-        "definition_translation": "Инструмент с щетиной или проволокой, используемый для очистки или укладки.",
-        "example": "I need to brush my hair before I go out. She brushes her teeth twice a day.",
-        "example_translation": "Мне нужно расчесать волосы перед тем, как я выйду. Она чистит зубы дважды в день."
+        "word": "hand-held",
+        "translation": "ручной",
+        "definition": "Designed to be held and operated in one's hand.",
+        "definition_translation": "Спроектированный для удержания и управления одной рукой.",
+        "example": "The camera was hand-held, allowing for more flexibility during filming. The hand-held device was used to scan the barcodes. They will use a hand-held microphone for the presentation.",
+        "example_translation": "Камера была ручной, что позволило иметь больше гибкости во время съемки. Ручное устройство было использовано для сканирования штрих-кодов. Они будут использовать ручной микрофон для презентации."
     },
     {
         "language": "English",
         "translationLanguage": "Russian",
-        "word": "build",
-        "translation": "строить",
-        "definition": "To construct or make something by combining materials or parts.",
-        "definition_translation": "Строить или создавать что-то, сочетая материалы или детали.",
-        "example": "We will build a new house next year. They built a bridge over the river.",
-        "example_translation": "Мы построим новый дом в следующем году. Они построили мост через реку."
+        "word": "handkerchief",
+        "translation": " носовой платок",
+        "definition": "A square or rectangular piece of cloth used for wiping sweat, blowing one's nose, or as a decorative item.",
+        "definition_translation": "Квадратный или прямоугольный кусок ткани, используемый для вытирания пота, сморкания или в качестве декоративного элемента.",
+        "example": "She used a handkerchief to wipe her tears. He always carried a handkerchief with him. They will use handkerchiefs as a gift for their guests.",
+        "example_translation": "Она использовала носовой платок, чтобы вытереть слезы. Он всегда носил носовой платок с собой. Они будут использовать носовые платки в качестве подарка для своих гостей."
     }
 ]
 ```
-
-Please note that the translations, definitions, and examples are provided based on my understanding of the words and may not be perfect. If you need more accurate or nuanced translations, please let me know!
