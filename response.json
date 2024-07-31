@@ -4,25 +4,45 @@ Here is the completed data in JSON format:
 [
     {
         "language": "English",
-        "translationLanguage": "Spanish",
-        "word": "viper",
-        "translation": "víbora",
-        "definition": "A venomous snake found in a variety of habitats, including deserts, forests, and grasslands.",
-        "definition_translation": "Una serpiente venenosa encontrada en various hábitats, incluyendo desiertos, bosques y praderas.",
-        "example": "The hiker carefully avoided the viper in the rock crevices. Yesterday, she saw a viper in the forest. Next year, she will visit the viper sanctuary.",
-        "example_translation": "El senderista evitó cuidadosamente la víbora en las grietas de roca. Ayer, vio una víbora en el bosque. El próximo año, visitará el santuario de viboras."
+        "translationLanguage": "Russian",
+        "word": "broken",
+        "translation": "сломанный",
+        "definition": "Not in working order; damaged or spoiled.",
+        "definition_translation": "Не работает; повреждён или испорчен.",
+        "example": "The TV was broken, so we had to buy a new one. It broke yesterday, but we will fix it tomorrow.",
+        "example_translation": "Телевизор был сломан, поэтому мы должны были купить новый. Он сломался вчера, но мы отремонтируем его завтра."
     },
     {
         "language": "English",
-        "translationLanguage": "Spanish",
-        "word": "water serpent",
-        "translation": "serpiente de agua",
-        "definition": "A mythological or legendary creature depicted as a serpent-like being living in water.",
-        "definition_translation": "Una criatura mitológica o legendaria descrita como un ser serpentino que vive en el agua.",
-        "example": "The ancient civilization worshipped a water serpent as a deity. They believed the water serpent protected their village. In the future, the water serpent will be a symbol of their culture.",
-        "example_translation": "La civilización antigua adoraba a una serpiente de agua como deidad. Creían que la serpiente de agua protegía su aldea. En el futuro, la serpiente de agua será un símbolo de su cultura."
+        "translationLanguage": "Russian",
+        "word": "broken",
+        "translation": "сломанный",
+        "definition": "Not in working order; damaged or spoiled.",
+        "definition_translation": "Не работает; повреждён или испорчен.",
+        "example": "The chair was broken, so we had to throw it away. It will break if you drop it.",
+        "example_translation": "Стул был сломан, поэтому мы должны были выбросить его. Он сломается, если вы его упадете."
+    },
+    {
+        "language": "English",
+        "translationLanguage": "Russian",
+        "word": "brush",
+        "translation": "кисть",
+        "definition": "An instrument with bristles or wires, used for cleaning or arranging.",
+        "definition_translation": "Инструмент с щетиной или проволокой, используемый для очистки или укладки.",
+        "example": "I need to brush my hair before I go out. She brushes her teeth twice a day.",
+        "example_translation": "Мне нужно расчесать волосы перед тем, как я выйду. Она чистит зубы дважды в день."
+    },
+    {
+        "language": "English",
+        "translationLanguage": "Russian",
+        "word": "build",
+        "translation": "строить",
+        "definition": "To construct or make something by combining materials or parts.",
+        "definition_translation": "Строить или создавать что-то, сочетая материалы или детали.",
+        "example": "We will build a new house next year. They built a bridge over the river.",
+        "example_translation": "Мы построим новый дом в следующем году. Они построили мост через реку."
     }
 ]
 ```
 
-Note: I used Google Translate to translate the words, definitions, and examples from English to Spanish. Please review the translations for accuracy.
+Please note that the translations, definitions, and examples are provided based on my understanding of the words and may not be perfect. If you need more accurate or nuanced translations, please let me know!

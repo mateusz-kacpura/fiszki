@@ -8,15 +8,15 @@ from colorama import init, Fore
 
 init(autoreset=True)
 # File paths and API key
-input_file_path = r'C:\Users\engli\fiszki\fiszki\English-1.json'
-out_path = f'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-ES'
+input_file_path = r'C:\Users\engli\fiszki\fiszki\English-2.json'
+out_path = f'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-RU'
 API_KEY = "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"
 
 # Parameters
 language = "English"
-translationLanguage = "Spanish"
-chunk_size = 3
-SLEEPS = 2
+translationLanguage = "Russian"
+chunk_size = 4
+SLEEPS = 1
 
 def prepare_data(words):
     dane_wejsciowe_list = [
