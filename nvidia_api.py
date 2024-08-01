@@ -4,18 +4,20 @@ import os
 import time
 import re
 from openai import OpenAI
+from colorama import init, Fore
 
 # Konfiguracja API
 API_KEY = "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"
 
 # File paths and API key
 input_file_path = r'C:\Users\engli\fiszki\fiszki\English-2.json'
-out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\Italian'
+out_path = 'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-CN'
 
 # Parameters
-language = "Italian"
-translationLanguage = "Polish"
-chunk_size = 25
+language = "English"
+translationLanguage = "Chinese"
+chunk_size = 10
+SLEEPS = 2
 
 def prepare_data(words):
     dane_wejsciowe_list = [
@@ -62,20 +64,28 @@ def fetch_groq_data(message):
             model="meta/llama-3.1-405b-instruct",
             messages=[{"role": "user", "content": message}],
             temperature=1,
-            max_tokens=12000,
+            max_tokens=4096,
             top_p=1,
             stream=False
         )
 
-        response_text = completion.choices[0].message.content
+        # Assume response['choices'][0]['message'] contains a ChatCompletionMessage object
+        message = completion['choices'][0]['message']
+
+        # Convert the ChatCompletionMessage to a string (if necessary)
+        response_text = message['content'] if isinstance(message, dict) else str(message)
+
 
         # Pobieranie liczby tokenów wejściowych i wyjściowych z obiektu `CompletionUsage`
+        """
         usage = completion.usage
         input_tokens = usage.prompt_tokens
         output_tokens = usage.completion_tokens
 
         print(f"Liczba tokenów wejściowych: {input_tokens}")
         print(f"Liczba tokenów wyjściowych: {output_tokens}")
+
+        """
 
         # print(response_text)
         save_response_text(response_text, "response.json")
@@ -91,11 +101,18 @@ def fetch_groq_data(message):
                 print(f"JSON Decode Error: {e}")
                 return []
         else:
-            print("No JSON data found in the response.")
-            return []
+            print(Fore.RED + "No JSON data found in the response.")
+            time.sleep(SLEEPS)
+            print(Fore.RED + "Próbuję jeszcze raz.")
+            fetch_groq_data(message)
         
     except Exception as e:
-        print(f"Error during API request: {e}")
+        print(Fore.RED + f"Error during API request: {e}")
+        time.sleep(SLEEPS)
+        time.sleep(SLEEPS)
+        time.sleep(SLEEPS)
+        print(Fore.RED + "Próbuję jeszcze raz.")
+        fetch_groq_data(message)
         return []
 
 def file_exists(filepath):

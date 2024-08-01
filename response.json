@@ -1,46 +1,64 @@
-Here is the completed data in JSON format:
-
 ```
 [
     {
-        "language": "English",
-        "translationLanguage": "Russian",
-        "word": "hairdryer",
-        "translation": "фен",
-        "definition": "An electrical appliance used to dry and style hair.",
-        "definition_translation": "Электрический прибор, используемый для сушки и стилизации волос.",
-        "example": "She used a hairdryer to dry her hair quickly. Yesterday, she had used a hairdryer to style her hair for the party. Tomorrow, she will use a hairdryer to dry her hair before going to work.",
-        "example_translation": "Она использовала фен, чтобы быстро высушить волосы. Вчера она использовала фен, чтобы уложить волосы для вечеринки. Завтра она будет использовать фен, чтобы высушить волосы перед уходом на работу."
+        "word": "independent",
+        "translation": "niezależny",
+        "definition": "Mający moc lub zdolność do działania lub podejmowania decyzji bez wpływu lub kontroli osób trzecich.",
+        "example": "Zawsze była niezależną osobą, podejmującą decyzje bez pytania o zdanie innych."
     },
     {
-        "language": "English",
-        "translationLanguage": "Russian",
-        "word": "hand luggage",
-        "translation": "ручная кладь",
-        "definition": "A small bag or case that you can carry onto an airplane or train, containing personal items.",
-        "definition_translation": "Маленькая сумка или чемодан, который вы можете взять с собой на самолет или поезд, содержащий личные вещи.",
-        "example": "I had to pack my hand luggage carefully to ensure it fit in the overhead compartment. She had checked her hand luggage at the gate. They will check their hand luggage at the security checkpoint.",
-        "example_translation": "Я должен был аккуратно بستهать свою ручную кладь, чтобы убедиться, что она поместится в верхнем отделении. Она сдала свою ручную кладь у выхода. Они будут проверять свою ручную кладь на контрольно-пропускном пункте безопасности."
+        "word": "inexperienced",
+        "translation": "nieprzeprawiony",
+        "definition": "Mający niewielkie doświadczenie lub umiejętności w danych obszarach lub zadaniach.",
+        "example": "Jako niedoświadczony kierowca, był nerwowy, prowadząc samochód po autostradzie po raz pierwszy."
     },
     {
-        "language": "English",
-        "translationLanguage": "Russian",
-        "word": "hand-held",
-        "translation": "ручной",
-        "definition": "Designed to be held and operated in one's hand.",
-        "definition_translation": "Спроектированный для удержания и управления одной рукой.",
-        "example": "The camera was hand-held, allowing for more flexibility during filming. The hand-held device was used to scan the barcodes. They will use a hand-held microphone for the presentation.",
-        "example_translation": "Камера была ручной, что позволило иметь больше гибкости во время съемки. Ручное устройство было использовано для сканирования штрих-кодов. Они будут использовать ручной микрофон для презентации."
+        "word": "innocent",
+        "translation": "niewinny",
+        "definition": "Winnie popełniania przestępstwa lub wykroczenia; wolny od grzechu lub moralnej obscenności.",
+        "example": "Liczba osób niewinnych skazanych na karę śmierci jest alarmująco wysoka."
     },
     {
-        "language": "English",
-        "translationLanguage": "Russian",
-        "word": "handkerchief",
-        "translation": " носовой платок",
-        "definition": "A square or rectangular piece of cloth used for wiping sweat, blowing one's nose, or as a decorative item.",
-        "definition_translation": "Квадратный или прямоугольный кусок ткани, используемый для вытирания пота, сморкания или в качестве декоративного элемента.",
-        "example": "She used a handkerchief to wipe her tears. He always carried a handkerchief with him. They will use handkerchiefs as a gift for their guests.",
-        "example_translation": "Она использовала носовой платок, чтобы вытереть слезы. Он всегда носил носовой платок с собой. Они будут использовать носовые платки в качестве подарка для своих гостей."
+        "word": "insincere",
+        "translation": "nieprawdziwy",
+        "definition": "Niegenuine lub nietraktujący serio; udawać, że czuje się lub wierzy w coś, czego naprawdę nie czuje lub w co nie wierzy.",
+        "example": "Przepraszam, ale okaże się, że moja przeproszba była bezprawdą podjętą próbą ratowania twarzy."
+    },
+    {
+        "word": "intellectual",
+        "translation": "intelektualista",
+        "definition": "Osoba, która jest wysoce wykształcona i wybornie umiejętna, zwłaszcza w naukach lub sztukach.",
+        "example": "Intelektualista napisał kilka książek na temat filozofii. Była intelektualistką przez wiele lat i stanie się nim w przyszłości."
+    },
+    {
+        "word": "irresponsible",
+        "translation": "nieodpowiedzialny",
+        "definition": "Nieposiadający lub nieprzedstawiający zdolności ponoszenia odpowiedzialności; lekkomyślny lub nieostrożny.",
+        "example": "Był nieodpowiedzialny, prowadząc życie w długach. To on jest nieodpowiedzialny, podczas gdy ja próbuję obejmować wszystko pod kontrolę."
+    },
+    {
+        "word": "irritated",
+        "translation": "irytowany",
+        "definition": "Czujący lub okazujący zaniepokojenie lub niezadowolenie.",
+        "example": "Klient był irytowany długim czasem oczekiwania. To zirytowało ją cały dzień, a teraz ona jest irytowana, ponieważ sytuacja się nie poprawia."
+    },
+    {
+        "word": "irritating",
+        "translation": "męczący",
+        "definition": "Diazolanie lub powodowanie zaniepokojenia lub frustracji.",
+        "example": "Hałas były męczący dla wszystkich. Praca była irytująca, ponieważ musiała obierać się powoli. W przyszłości korporacje teraz powinny być męczące."
+    },
+    {
+        "word": "loyal",
+        "translation": "wierny",
+        "definition": "Występujący jako stała i skuteczna forma wsparcia lub miłości, skierowana ku poszczególnej osobie lub instytucji.",
+        "example": "Wielbicielka marki otrzymała specjalny rabat. Jest odpowiednia i lojalna, wyrabia wiedzę i poświęć się swoim studiom."
+    },
+    {
+        "word": "mature",
+        "translation": "dojrzały",
+        "definition": "Bezpiecznie osadzone, w pełni rozwinięte lub dorosłe; osiągnęło pełny rozmiar, siłę lub jakość.",
+        "example": "Dojrzałe drzewa w lesie były tak spektakularne, a historia o dojrzałych relacjach była inspirująca. Dojrzałość jest tym, co szukamy podczas naszego urodzenia."
     }
 ]
 ```

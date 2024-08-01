@@ -8,7 +8,7 @@ from colorama import init, Fore
 
 init(autoreset=True)
 # File paths and API key
-input_file_path = r'C:\Users\engli\fiszki\fiszki\English-2.json'
+input_file_path = r'C:\Users\engli\fiszki\fiszki\English-1.json'
 out_path = f'C:\\Users\\engli\\fiszki\\fiszki\\uploads\\EN-RU'
 API_KEY = "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"
 
@@ -56,7 +56,7 @@ def fetch_groq_data(message):
 
     try:
         completion = client.chat.completions.create(
-            model="llama3-70b-8192",
+            model="llama3-groq-70b-8192-tool-use-preview",
             messages=[{"role": "user", "content": message}],
             temperature=1,
             max_tokens=6000,

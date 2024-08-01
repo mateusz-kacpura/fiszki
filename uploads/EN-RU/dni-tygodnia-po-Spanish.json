@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Friday",
+      "translation": "Пятница",
+      "definition": "The day of the week between Thursday and Saturday.",
+      "definition_translation": "День недели между четвергом и субботой.",
+      "example": "I will meet you on Friday afternoon. Yesterday was Friday. I met her on Friday last week.",
+      "example_translation": "Я встречусь с тобой в пятницуПослеобеда. Вчера был пятница. Я встретился с ней в прошлую пятницу.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Monday",
+      "translation": "Понедельник",
+      "definition": "The first day of the week, considered the beginning of the workweek.",
+      "definition_translation": "Первый день недели, считающийся началом рабочей недели.",
+      "example": "I will start my new job on Monday. I was tired on Monday morning. I will travel on Monday next week.",
+      "example_translation": "Я начну новую работу в понедельник. Я был утомлен в понедельник утром. Я поеду в понедельник на следующей неделе.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Saturday",
+      "translation": "Суббота",
+      "definition": "The day of the week between Friday and Sunday, often considered a day of leisure.",
+      "definition_translation": "День недели между пятницей и воскресеньем, часто считающийся днем досуга.",
+      "example": "I will go to the beach on Saturday. They got married on Saturday last year. I will study on Saturday morning.",
+      "example_translation": "Я пойду на пляж в субботу. Они поженились в прошлый субботу год. Я буду учиться в субботу утром.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Sunday",
+      "translation": "Воскресенье",
+      "definition": "The day of the week between Saturday and Monday, often considered a day of rest.",
+      "definition_translation": "День недели между субботой и понедельником, часто считающийся днем отдыха.",
+      "example": "I will attend church on Sunday. They had a picnic on Sunday afternoon. I will watch TV on Sunday evening.",
+      "example_translation": "Я пойду в церковь в воскресенье. Они устроили пикник в воскресенье днем. Я буду смотреть телевизор в воскресенье вечером.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Thursday",
+      "translation": "Четверг",
+      "definition": "The fifth day of the week, following Wednesday and preceding Friday.",
+      "definition_translation": "Пятый день недели, следующий после среды и предшествующий пятнице.",
+      "example": "I will meet you on Thursday at 5 pm. I met you on Thursday last week. I will have met you on Thursday by next year.",
+      "example_translation": "Я встречусь с вами в четверг в 5 вечера. Я встретился с вами в прошлый четверг. К следующему году я встречусь с вами в четверг.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Tuesday",
+      "translation": "Вторник",
+      "definition": "The second day of the week, following Monday and preceding Wednesday.",
+      "definition_translation": "Второй день недели, следующий после понедельника и предшествующий среде.",
+      "example": "I have a meeting on Tuesday at 2 pm. I had a meeting on Tuesday last month. I will have a meeting on Tuesday next week.",
+      "example_translation": "У меня есть встреча во вторник в 2 часа дня. У меня была встреча во вторник прошлого месяца. У меня будет встреча во вторник на следующей недели.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Russian",
+      "word": "Wednesday",
+      "translation": "Среда",
+      "definition": "The third day of the week, following Tuesday and preceding Thursday.",
+      "definition_translation": "Третий день недели, следующий после вторника и предшествующий четвергу.",
+      "example": "I studied English on Wednesday evening. I will study English on Wednesday morning. I had studied English on Wednesday afternoon.",
+      "example_translation": "Я изучал английский язык в среду вечером. Я изучу английский язык в среду утром. Я изучил английский язык в среду днем.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}
