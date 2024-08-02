@@ -22,6 +22,29 @@ translationLanguage = "Russian"
 chunk_size = 10
 SLEEPS = 1
 
+def is_correct_format(json_data):
+    # Sprawdzamy, czy json_data jest listą
+    if not isinstance(json_data, list):
+        return False
+    
+    required_keys = ["word", "definition", "example"]
+    
+    for item in json_data:
+        # Sprawdzamy, czy każdy element listy jest słownikiem
+        if not isinstance(item, dict):
+            return False
+        
+        # Sprawdzamy, czy każdy słownik zawiera wszystkie wymagane klucze
+        for key in required_keys:
+            if key not in item:
+                return False
+            
+            # Sprawdzamy, czy wartości są typu string
+            if not isinstance(item[key], str):
+                return False
+    
+    return True
+
 def prepare_data(words, definitions, examples):
     dane_wejsciowe_list = [
         {
@@ -34,7 +57,7 @@ def prepare_data(words, definitions, examples):
 
     dane_wejsciowe_json_output = json.dumps(dane_wejsciowe_list, indent=4, ensure_ascii=False)
     message = (
-        f" Return the completed data in JSON format according to my recipe `{dane_wejsciowe_json_output}`, return only the completed data in json format in response \n"
+        f" Return the completed data in JSON format according to my format recipe `{dane_wejsciowe_json_output}`. The returned data must be in the language {language} \n"
         f" dane_wejściowe_json.word -> Translated my word to {language}. Make sure that the translation is correctly written in {language}. Remember the correct conjugations \n"
         f" dane_wejściowe_json.definition -> Translated my definition to {language}. Make sure that the translation is correctly written in {language}. Remember the correct conjugations \n"
         f" dane_wejściowe_json.example -> Translated my example to {language}. Make sure that the translation is correctly written in {language}. Remember the correct conjugations \n"
@@ -51,7 +74,7 @@ def fetch_groq_data(message):
 
     try:
         completion = client.chat.completions.create(
-            model="llama3-groq-70b-8192-tool-use-preview",
+            model="llama3-70b-8192",
             messages=[{"role": "user", "content": message}],
             temperature=1,
             max_tokens=6000,
@@ -84,7 +107,7 @@ def fetch_groq_data(message):
             json_str = match.group(0)
             try:
                 groq_data = json.loads(json_str)
-                if isinstance(groq_data, list):
+                if is_correct_format(groq_data):
                     print(Fore.GREEN + "DANE SĄ POPRAWNE")
                 else:
                     print(Fore.RED + "BŁĄD W DANYCH")
@@ -250,7 +273,7 @@ for file_name in files:
                 #print("Count", count)
                 #print("", total_processed, end_index)
                 words, translation, definition, definition_translation, example, example_translation, imageLinks, audioLinks = prepare_chunk(section_data)
-
+                print(words)
                 time.sleep(SLEEPS)
                 # Uncomment and use the following lines to process each chunk
                 if len(section_data) == chunk_size:
