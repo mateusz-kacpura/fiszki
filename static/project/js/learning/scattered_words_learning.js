@@ -36,45 +36,45 @@ let sentences = [];
     let currentSentence = null;
 
     function generateRandomSentence() {
-      const availableSentences = sentences.filter(sentence => !excludedSentences.includes(sentence.word));
+      const availableSentences = sentences.filter(sentence => !excludedSentences.includes(sentence.example));
       if (availableSentences.length === 0) {
         document.getElementById('result').textContent = 'No more sentences to study.';
         return;
       }
       const randomIndex = Math.floor(Math.random() * availableSentences.length);
       const randomSentence = availableSentences[randomIndex];
-      currentSentence = randomSentence.word;
+      currentSentence = randomSentence.example;
       document.getElementById('result').textContent = '';
 
-      const words = currentSentence.split(' ').sort(() => Math.random() - 0.5);
-      const wordBankDiv = document.getElementById('word-bank');
+      const examples = currentSentence.split(' ').sort(() => Math.random() - 0.5);
+      const exampleBankDiv = document.getElementById('word-bank');
       const sentenceConstructionDiv = document.getElementById('sentence-construction');
-      wordBankDiv.innerHTML = '';
+      exampleBankDiv.innerHTML = '';
       sentenceConstructionDiv.innerHTML = '';
 
-      words.forEach(word => {
+      examples.forEach(example => {
         const button = document.createElement('button');
         button.className = 'btn btn-outline-primary';
-        button.textContent = word;
-        button.onclick = () => addWordToSentence(word, button);
-        wordBankDiv.appendChild(button);
+        button.textContent = example;
+        button.onclick = () => addexampleToSentence(example, button);
+        exampleBankDiv.appendChild(button);
       });
-      document.getElementById('sentence-translation').textContent = randomSentence.translation; // tłumaczone zdanie
+      document.getElementById('sentence-translation').textContent = randomSentence.example_translation; // tłumaczone zdanie
     }
 
-    function addWordToSentence(word, button) {
+    function addexampleToSentence(example, button) {
       const sentenceConstructionDiv = document.getElementById('sentence-construction');
-      const wordButton = document.createElement('button');
-      wordButton.className = 'btn btn-primary';
-      wordButton.textContent = word;
-      wordButton.onclick = () => removeWordFromSentence(wordButton, button);
-      sentenceConstructionDiv.appendChild(wordButton);
+      const exampleButton = document.createElement('button');
+      exampleButton.className = 'btn btn-primary';
+      exampleButton.textContent = example;
+      exampleButton.onclick = () => removeexampleFromSentence(exampleButton, button);
+      sentenceConstructionDiv.appendChild(exampleButton);
       button.disabled = true;
     }
 
-    function removeWordFromSentence(wordButton, originalButton) {
+    function removeexampleFromSentence(exampleButton, originalButton) {
       const sentenceConstructionDiv = document.getElementById('sentence-construction');
-      sentenceConstructionDiv.removeChild(wordButton);
+      sentenceConstructionDiv.removeChild(exampleButton);
       originalButton.disabled = false;
     }
 

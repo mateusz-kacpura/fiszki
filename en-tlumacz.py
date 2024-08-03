@@ -11,16 +11,16 @@ init(autoreset=True)
 input_dir = r"C:\Users\engli\fiszki\fiszki\uploads\EN-RU"
 
 # Ścieżka do katalogu z plikami wyjściowymi
-output_dir = r"C:\Users\engli\fiszki\fiszki\translated\PL-RU"
+output_dir = r"C:\Users\engli\fiszki\fiszki\translated\DE-RU"
 
 # File paths and API key
 API_KEY = "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"
 
 # Parameters
-language = "Polish"
-translationLanguage = "Russian"
+language = "German"
+translationLanguage = "Portugase"
 chunk_size = 10
-SLEEPS = 1
+SLEEPS = 0
 
 def is_correct_format(json_data):
     # Sprawdzamy, czy json_data jest listą
