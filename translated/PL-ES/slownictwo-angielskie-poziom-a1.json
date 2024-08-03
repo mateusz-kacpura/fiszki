@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "section": "slownictwo-angielskie-poziom-a1",
       "language": "Spanish",
@@ -10,7 +9,7 @@
       "definition_translation": "Przyimek wskazujący kierunek lub ruch w stronę miejsca",
       "example": "Voy a la tienda.",
       "example_translation": "Idę do sklepu.",
-      "imageLink": "https://www.ang.pl/img/slownik/a.jpg",
+      "imageLink": "a.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/a.mp3"
     },
     {
@@ -23,7 +22,7 @@
       "definition_translation": "Skrot używany do wskazania godziny przed południem.",
       "example": "Me levanto a las 7 a.m. todos los días.",
       "example_translation": "Wstaję o 7 rano każdego dnia.",
-      "imageLink": "https://www.ang.pl/img/slownik/am.jpg",
+      "imageLink": "am.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/a.m..mp3"
     },
     {
@@ -36,7 +35,7 @@
       "definition_translation": "Przyimek wskazujący bliskość lub pobliskie miejsce czegoś",
       "example": "Estoy leyendo un libro sobre historia.",
       "example_translation": "Czytam książkę o historii.",
-      "imageLink": "https://www.ang.pl/img/slownik/about.jpg",
+      "imageLink": "about.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/about.mp3"
     },
     {
@@ -49,7 +48,7 @@
       "definition_translation": "Przymiotnik, który wskazuje na bliskość lub sąsiedztwo w przestrzeni lub czasie.",
       "example": "Estoy cerca de casa, about a kilometer.",
       "example_translation": "Jestem blisko domu, o kilometr.",
-      "imageLink": "https://www.ang.pl/img/slownik/about-1.jpg",
+      "imageLink": "about-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/about.mp3"
     },
     {
@@ -62,7 +61,7 @@
       "definition_translation": "znajdujący się bezpośrednio nad głową",
       "example": "El helicóptero voló arriba de la ciudad.",
       "example_translation": "Helikopter poleciał powyżej miasta.",
-      "imageLink": "https://www.ang.pl/img/slownik/above.jpg",
+      "imageLink": "above.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/above.mp3"
     },
     {
@@ -75,7 +74,7 @@
       "definition_translation": "Adres to informacja, która wskazuje miejsce, w którym mieszka lub znajduje się osoba lub podmiot.",
       "example": "Mi dirección es calle Gran Vía, número 12.",
       "example_translation": "Mój adres to ulica Gran Vía, numer 12.",
-      "imageLink": "https://www.ang.pl/img/slownik/address.jpg",
+      "imageLink": "address.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/address.mp3"
     },
     {
@@ -88,7 +87,7 @@
       "definition_translation": "Miejsce lub przestrzeń, w której ktoś lub coś się znajduje.",
       "example": "Mi dirección es calle principal número 123.",
       "example_translation": "Mój adres to ulica główna numer 123.",
-      "imageLink": "https://www.ang.pl/img/slownik/address-1.jpg",
+      "imageLink": "address-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/address.mp3"
     },
     {
@@ -101,7 +100,7 @@
       "definition_translation": "Osoba, która ma wiek równy lub większy od pełnoletności",
       "example": "Era un adulto responsable cuando se casó.",
       "example_translation": "Był odpowiedzialnym dorosłym, kiedy się ożenił.",
-      "imageLink": "https://www.ang.pl/img/slownik/adult.jpg",
+      "imageLink": "adult.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/adult.mp3"
     },
     {
@@ -114,7 +113,7 @@
       "definition_translation": "wskazując czas następujący po konkretnym czasie lub wydarzeniu",
       "example": "Vamos a ir al cine después de cenar.",
       "example_translation": "Pójdziemy do kina po kolacji.",
-      "imageLink": "https://www.ang.pl/img/slownik/after.jpg",
+      "imageLink": "after.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/after.mp3"
     },
     {
@@ -127,7 +126,7 @@
       "definition_translation": "Okres dnia między 12 a 17 godziną",
       "example": "Me gusta dar un paseo por la tarde",
       "example_translation": "Lubię spacer po południu",
-      "imageLink": "https://www.ang.pl/img/slownik/afternoon.jpg",
+      "imageLink": "afternoon.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/afternoon.mp3"
     },
     {
@@ -140,7 +139,7 @@
       "definition_translation": "ponownie; znów",
       "example": "Voy a intentarlo de nuevo, ¿puedes explicármelo again?",
       "example_translation": "Próbuję to ponownie, czy możesz mi to wyjaśnić jeszcze raz?",
-      "imageLink": "https://www.ang.pl/img/slownik/again.jpg",
+      "imageLink": "again.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/again.mp3"
     },
     {
@@ -153,7 +152,7 @@
       "definition_translation": "Wiek to okres czasu, jaki osoba mieszka od urodzenia",
       "example": "Mi edad es 25 años",
       "example_translation": "Mam 25 lat",
-      "imageLink": "https://www.ang.pl/img/slownik/age.jpg",
+      "imageLink": "age.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/age.mp3"
     },
     {
@@ -166,7 +165,7 @@
       "definition_translation": "Pojazd, który lata dzięki skrzydłom i silnikom.",
       "example": "El avión despegó del aeropuerto a las 10 am.",
       "example_translation": "Samolot wystartował z lotniska o 10 rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/airplane.jpg",
+      "imageLink": "airplane.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/airplane.mp3"
     },
     {
@@ -179,7 +178,7 @@
       "definition_translation": "Wszystko, każdy, wszyscy",
       "example": "Me gustan todas las películas de Matrix.",
       "example_translation": "Lubię wszystkie filmy z serii Matrix.",
-      "imageLink": "https://www.ang.pl/img/slownik/all.jpg",
+      "imageLink": "all.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/all.mp3"
     },
     {
@@ -192,7 +191,7 @@
       "definition_translation": "Przysłówek, który wskazuje, że coś dzieje się lub jest robione w tym samym czasie lub w tym samym miejscu co coś innego.",
       "example": "Me gusta leer libros, también me gustan los documentales.",
       "example_translation": "Lubię czytać książki, również lubię dokumentalne filmy.",
-      "imageLink": "https://www.ang.pl/img/slownik/also.jpg",
+      "imageLink": "also.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/also.mp3"
     },
     {
@@ -205,7 +204,7 @@
       "definition_translation": "w każdej chwili, nigdy nie przestaje się dziać",
       "example": "Siempre llego puntual al trabajo.",
       "example_translation": "Zawsze przychodzę punktualnie do pracy.",
-      "imageLink": "https://www.ang.pl/img/slownik/always.jpg",
+      "imageLink": "always.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/always.mp3"
     },
     {
@@ -218,7 +217,7 @@
       "definition_translation": "spójnik, który służy do wyrażania relacji czasowej lub przyczynowej między dwiema akcjami",
       "example": "Voy an ir al parque.",
       "example_translation": "Idę na spacer do parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/an.jpg",
+      "imageLink": "an.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/an.mp3"
     },
     {
@@ -231,7 +230,7 @@
       "definition_translation": "Łącznik, który łączy słowa, zdania lub wyrażenia",
       "example": "Ella come una manzana y una pera.",
       "example_translation": "Ona je jabłko i gruszkę.",
-      "imageLink": "https://www.ang.pl/img/slownik/and.jpg",
+      "imageLink": "and.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/and.mp3"
     },
     {
@@ -244,7 +243,7 @@
       "definition_translation": "Żyjąca istota, która się żywi, rośnie, rozmnaża się i reaguje na bodźce.",
       "example": "El perro es un animal domestico.",
       "example_translation": "Pies jest zwierzęciem domowym.",
-      "imageLink": "https://www.ang.pl/img/slownik/animal.jpg",
+      "imageLink": "animal.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/animal.mp3"
     },
     {
@@ -257,7 +256,7 @@
       "definition_translation": "Odpowiedź to działanie lub efekt odpowiedzi na pytanie lub sytuację.",
       "example": "La respuesta correcta es la opción A.",
       "example_translation": "Prawidłowa odpowiedź to opcja A.",
-      "imageLink": "https://www.ang.pl/img/slownik/answer.jpg",
+      "imageLink": "answer.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/answer.mp3"
     },
     {
@@ -270,7 +269,7 @@
       "definition_translation": "Odpowiedź to działanie lub skutek odpowiedzi na coś.",
       "example": "La respuesta del estudiante fue correcta.",
       "example_translation": "Odpowiedź ucznia była prawidłowa.",
-      "imageLink": "https://www.ang.pl/img/slownik/answer-1.jpg",
+      "imageLink": "answer-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/answer.mp3"
     },
     {
@@ -283,7 +282,7 @@
       "definition_translation": "Ktoś lub coś, co jest wybierane lub wybrane losowo.",
       "example": "Puedes elegir cualquier restaurante que desees.",
       "example_translation": "Możesz wybrać dowolną restaurację, którą tylko chcesz.",
-      "imageLink": "https://www.ang.pl/img/slownik/any-1.jpg",
+      "imageLink": "any-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/any.mp3"
     },
     {
@@ -296,7 +295,7 @@
       "definition_translation": "Czerwony lub żółty, jadalny owoc, o cienkiej skórce i chrupkiej miazszce",
       "example": "Me encanta comer manzanas frescas en verano.",
       "example_translation": "Lubię jeść świeże jabłka latem.",
-      "imageLink": "https://www.ang.pl/img/slownik/apple.jpg",
+      "imageLink": "apple.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/apple.mp3"
     },
     {
@@ -309,7 +308,7 @@
       "definition_translation": "Czwarty miesiąc roku",
       "example": "Me encanta viajar en Abril porque hace buen tiempo.",
       "example_translation": "Lubię podróżować w kwietniu, bo jest ładna pogoda.",
-      "imageLink": "https://www.ang.pl/img/slownik/april.jpg",
+      "imageLink": "april.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/April.mp3"
     },
     {
@@ -322,7 +321,7 @@
       "definition_translation": "Część ludzkiego ciała, która rozciąga się od ramienia do ręki.",
       "example": "Me duele el brazo después de levantar pesas.",
       "example_translation": "Boli mnie ręka po podnoszeniu ciężarów.",
-      "imageLink": "https://www.ang.pl/img/slownik/arm.jpg",
+      "imageLink": "arm.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/arm.mp3"
     },
     {
@@ -335,7 +334,7 @@
       "definition_translation": "Łącznik, który służy do wskazania dodatku lub równości",
       "example": "Me gusta leer libros así como ver películas.",
       "example_translation": "Lubię czytać książki, tak samo jak oglądać filmy.",
-      "imageLink": "https://www.ang.pl/img/slownik/as-well-as.jpg",
+      "imageLink": "as-well-as.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/as well as.mp3"
     },
     {
@@ -348,7 +347,7 @@
       "definition_translation": "zadać pytanie, aby uzyskać informację",
       "example": "¿Cuál es tu número de teléfono? Pregúntale a tu amigo.",
       "example_translation": "Jak jest twój numer telefonu? Zapytaj swojego przyjaciela.",
-      "imageLink": "https://www.ang.pl/img/slownik/ask.jpg",
+      "imageLink": "ask.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/ask.mp3"
     },
     {
@@ -361,7 +360,7 @@
       "definition_translation": "Przyimek, który wskazuje miejsce lub położenie",
       "example": "Estoy at the park.",
       "example_translation": "Jestem przy parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/at.jpg",
+      "imageLink": "at.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/at.mp3"
     },
     {
@@ -374,7 +373,7 @@
       "definition_translation": "Ósmy miesiąc kalendarza gregoriańskiego.",
       "example": "El verano termina en Agosto.",
       "example_translation": "Lato kończy się w sierpniu.",
-      "imageLink": "https://www.ang.pl/img/slownik/august.jpg",
+      "imageLink": "august.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/August.mp3"
     },
     {
@@ -387,7 +386,7 @@
       "definition_translation": "Dziecko w wieku przedszkolnym",
       "example": "Me encanta cuidar bebés.",
       "example_translation": "Lubię opiekować się dziećmi.",
-      "imageLink": "https://www.ang.pl/img/slownik/baby.jpg",
+      "imageLink": "baby.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/baby.mp3"
     },
     {
@@ -400,7 +399,7 @@
       "definition_translation": "Który nie jest dobry lub który ma złą jakość.",
       "example": "Este restaurante es malo, no vuelvo a ir.",
       "example_translation": "Ten restauracja jest zła, nie wracam już.",
-      "imageLink": "https://www.ang.pl/img/slownik/bad.jpg",
+      "imageLink": "bad.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bad.mp3"
     },
     {
@@ -413,7 +412,7 @@
       "definition_translation": "elastyczny kontener tkaniny lub plastiku używany do transportu przedmiotów",
       "example": "Necesito una bolsa para llevar mis cosas al parque.",
       "example_translation": "Potrzebuję torby, aby zabrać swoje rzeczy do parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/bag.jpg",
+      "imageLink": "bag.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bag.mp3"
     },
     {
@@ -426,7 +425,7 @@
       "definition_translation": "Obiekt sferyczny używany w różnych grach i sportach",
       "example": "Me encanta jugar con una pelota en el parque.",
       "example_translation": "Uwielbiam grać z piłką w parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/ball.jpg",
+      "imageLink": "ball.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/ball.mp3"
     },
     {
@@ -439,7 +438,7 @@
       "definition_translation": "Żółto-czerwony owoc, jadany świeży lub używany w deserach",
       "example": "Me encanta comer bananas en el desayuno",
       "example_translation": "Lubię jeść banany na śniadanie",
-      "imageLink": "https://www.ang.pl/img/slownik/banana.jpg",
+      "imageLink": "banana.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/banana.mp3"
     },
     {
@@ -452,7 +451,7 @@
       "definition_translation": "Grupa muzyków grających na instrumentach",
       "example": "La banda tocó en el festival de música",
       "example_translation": "Zespół zagrał na festiwalu muzyki",
-      "imageLink": "https://www.ang.pl/img/slownik/band.jpg",
+      "imageLink": "band.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/band.mp3"
     },
     {
@@ -465,7 +464,7 @@
       "definition_translation": "Instytucja finansowa, która zajmuje się przyjmowaniem, przechowywaniem i udzielaniem pieniędzy",
       "example": "Voy al banco para depositar mi sueldo.",
       "example_translation": "Idę do banku, aby zdeponować moją pensję.",
-      "imageLink": "https://www.ang.pl/img/slownik/bank.jpg",
+      "imageLink": "bank.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bank.mp3"
     },
     {
@@ -478,7 +477,7 @@
       "definition_translation": "lokal, w którym serwowane są napoje",
       "example": "Vamos al bar a tomar una cerveza.",
       "example_translation": "Idźmy do baru, żeby wziąć piwo.",
-      "imageLink": "https://www.ang.pl/img/slownik/bar.jpg",
+      "imageLink": "bar.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bar.mp3"
     },
     {
@@ -491,7 +490,7 @@
       "definition_translation": "drużynowy sport, w którym dwie drużyny po pięciu graczy próbują wrzucić piłkę do kosza",
       "example": "Me encanta jugar al baloncesto en mi tiempo libre.",
       "example_translation": "Uwielbiam grać w koszykówkę w wolnym czasie.",
-      "imageLink": "https://www.ang.pl/img/slownik/basketball.jpg",
+      "imageLink": "basketball.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/basketball.mp3"
     },
     {
@@ -504,7 +503,7 @@
       "definition_translation": "Pokój w domu, gdzie znajduje się wanienka do kąpieli",
       "example": "Necesito ducharme en la baño antes de ir al trabajo.",
       "example_translation": "Muszę wykąpać się w łazience, zanim pójdę do pracy.",
-      "imageLink": "https://www.ang.pl/img/slownik/bath.jpg",
+      "imageLink": "bath.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bath.mp3"
     },
     {
@@ -517,7 +516,7 @@
       "definition_translation": "Miejsce w domu, gdzie się myje i przygotowuje",
       "example": "Me gusta relajarme en un baño caliente después de un largo día.",
       "example_translation": "Lubię się relaksować w gorącej łazience po długim dniu.",
-      "imageLink": "https://www.ang.pl/img/slownik/bath-1.jpg",
+      "imageLink": "bath-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bath.mp3"
     },
     {
@@ -530,7 +529,7 @@
       "definition_translation": "pokój w domu z urządzeniami do mycia, takimi jak toaleta, umywalka i prysznic lub wanna",
       "example": "Necesito ir al baño.",
       "example_translation": "Muszę iść do łazienki.",
-      "imageLink": "https://www.ang.pl/img/slownik/bathroom-1.jpg",
+      "imageLink": "bathroom-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bathroom.mp3"
     },
     {
@@ -543,7 +542,7 @@
       "definition_translation": "Czasownik, który wyraża istnienie, obecność lub tożsamość.",
       "example": "Soy estudiante.",
       "example_translation": " Jestem studentem.",
-      "imageLink": "https://www.ang.pl/img/slownik/be.jpg",
+      "imageLink": "be.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/be.mp3"
     },
     {
@@ -556,7 +555,7 @@
       "definition_translation": "Obszar ziemi lub piasku nad morzem lub jeziorem, gdzie ludzie relaksują się i bawią.",
       "example": "Me encanta ir a la playa en verano.",
       "example_translation": "Uwielbiam chodzić na plażę latem.",
-      "imageLink": "https://www.ang.pl/img/slownik/beach.jpg",
+      "imageLink": "beach.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/beach.mp3"
     },
     {
@@ -569,7 +568,7 @@
       "definition_translation": "włosy twarzowe, które rosną na dolnej części twarzy niektórych mężczyzn",
       "example": "El hombre tenía una larga barba blanca.",
       "example_translation": "Mężczyzna miał długą białą brodę.",
-      "imageLink": "https://www.ang.pl/img/slownik/beard.jpg",
+      "imageLink": "beard.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/beard.mp3"
     },
     {
@@ -582,7 +581,7 @@
       "definition_translation": "Ładna i atrakcyjna dla oka.",
       "example": "La modelo era hermosa en el desfile de moda.",
       "example_translation": "Modelka była piękna na pokazie mody.",
-      "imageLink": "https://www.ang.pl/img/slownik/beautiful.jpg",
+      "imageLink": "beautiful.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/beautiful.mp3"
     },
     {
@@ -595,7 +594,7 @@
       "definition_translation": "Z powodu, że, z racji",
       "example": "Voy al cine porque quiero ver la nueva película.",
       "example_translation": "Idę do kina, bo chcę zobaczyć nowy film.",
-      "imageLink": "https://www.ang.pl/img/slownik/because.jpg",
+      "imageLink": "because.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/because.mp3"
     },
     {
@@ -608,7 +607,7 @@
       "definition_translation": "Mebel do spania lub wypoczynku",
       "example": "Voy a la cama a dormir.",
       "example_translation": "Idę spać do łóżka.",
-      "imageLink": "https://www.ang.pl/img/slownik/bed.jpg",
+      "imageLink": "bed.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bed.mp3"
     },
     {
@@ -621,7 +620,7 @@
       "definition_translation": "pokój w domu przeznaczony do spania",
       "example": "Mi dormitorio es muy acogedor.",
       "example_translation": "Moja sypialnia jest sangat przytulna.",
-      "imageLink": "https://www.ang.pl/img/slownik/bedroom.jpg",
+      "imageLink": "bedroom.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bedroom.mp3"
     },
     {
@@ -634,7 +633,7 @@
       "definition_translation": "alkoholowy napój fermentowany z jęczmienia lub innych zbóż",
       "example": "Me gustaría una cervesa fría, por favor.",
       "example_translation": "Chciałbym jedno piwo, proszę.",
-      "imageLink": "https://www.ang.pl/img/slownik/beer.jpg",
+      "imageLink": "beer.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/beer.mp3"
     },
     {
@@ -647,7 +646,7 @@
       "definition_translation": "W czasie wcześniejszym",
       "example": "Voy a llegar antes de la hora de cierre.",
       "example_translation": "Dotrę przed godziną zamknięcia.",
-      "imageLink": "https://www.ang.pl/img/slownik/before-1.jpg",
+      "imageLink": "before-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/before.mp3"
     },
     {
@@ -660,7 +659,7 @@
       "definition_translation": "W tylnej lub ukrytej pozycji",
       "example": "El perro está detrás de la casa.",
       "example_translation": "Pies jest za domem.",
-      "imageLink": "https://www.ang.pl/img/slownik/behind.jpg",
+      "imageLink": "behind.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/behind.mp3"
     },
     {
@@ -673,7 +672,7 @@
       "definition_translation": "W pozycji niższej niż coś",
       "example": "El parque está debajo de la colina.",
       "example_translation": "Park jest poniżej wzgórza.",
-      "imageLink": "https://www.ang.pl/img/slownik/below-1.jpg",
+      "imageLink": "below-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/below.mp3"
     },
     {
@@ -686,7 +685,7 @@
       "definition_translation": "Najwyższej jakości lub stopnia.",
       "example": "Este es el mejor restaurante de la ciudad.",
       "example_translation": "To jest najlepsza restauracja w mieście.",
-      "imageLink": "https://www.ang.pl/img/slownik/best.jpg",
+      "imageLink": "best.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/best.mp3"
     },
     {
@@ -699,7 +698,7 @@
       "definition_translation": "Co jest bardziej odpowiednie lub bardziej skuteczne w sytuacji lub problemie.",
       "example": "Este método es mejor que el anterior.",
       "example_translation": "Ten sposób jest lepszy niż poprzedni.",
-      "imageLink": "https://www.ang.pl/img/slownik/better.jpg",
+      "imageLink": "better.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/better.mp3"
     },
     {
@@ -712,7 +711,7 @@
       "definition_translation": "Który przewyższa inny pod względem jakości lub ilości.",
       "example": "Este restaurante es mejor que el de la esquina.",
       "example_translation": "Ten restauracja jest lepsza niż ten na rogu.",
-      "imageLink": "https://www.ang.pl/img/slownik/better-1.jpg",
+      "imageLink": "better-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/better.mp3"
     },
     {
@@ -725,7 +724,7 @@
       "definition_translation": "w przestrzeni między dwiema rzeczami",
       "example": "El pueblo se encuentra entre dos montañas.",
       "example_translation": "Wieś znajduje się między dwiema górami.",
-      "imageLink": "https://www.ang.pl/img/slownik/between.jpg",
+      "imageLink": "between.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/between.mp3"
     },
     {
@@ -738,7 +737,7 @@
       "definition_translation": "O dużym rozmiarze lub ilości.",
       "example": "Este coche es muy grande.",
       "example_translation": "Ten samochód jest bardzo duży.",
-      "imageLink": "https://www.ang.pl/img/slownik/big.jpg",
+      "imageLink": "big.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/big.mp3"
     },
     {
@@ -751,7 +750,7 @@
       "definition_translation": " Zwierzę kręgowe, które ma skrzydła i może latać.",
       "example": "El pájaro canta una canción hermosa.",
       "example_translation": "Ptak śpiewa piękną piosenkę.",
-      "imageLink": "https://www.ang.pl/img/slownik/bird.jpg",
+      "imageLink": "bird.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bird.mp3"
     },
     {
@@ -764,7 +763,7 @@
       "definition_translation": "Roczne święto obchodzone w dniu urodzenia danej osoby",
       "example": "Mañana es mi cumpleaños y voy a celebrarlo con mis amigos",
       "example_translation": "Jutro jest mój urodziny i będę świętować z przyjaciółmi",
-      "imageLink": "https://www.ang.pl/img/slownik/birthday.jpg",
+      "imageLink": "birthday.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/birthday.mp3"
     },
     {
@@ -777,7 +776,7 @@
       "definition_translation": "mały, kruchy placek lub biszkopt",
       "example": "Me encanta comer una galleta con té",
       "example_translation": "Lubię jeść herbatnik z herbatą",
-      "imageLink": "https://www.ang.pl/img/slownik/biscuit.jpg",
+      "imageLink": "biscuit.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/biscuit.mp3"
     },
     {
@@ -790,7 +789,7 @@
       "definition_translation": "O kolorze ciemnym, bez światła ani blasku",
       "example": "El gato es negro.",
       "example_translation": "Kot jest czarny.",
-      "imageLink": "https://www.ang.pl/img/slownik/black.jpg",
+      "imageLink": "black.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/black.mp3"
     },
     {
@@ -803,7 +802,7 @@
       "definition_translation": "Kolor znajdujący się pomiędzy zielenią a fioletem w widzialnym spekturze.",
       "example": "El cielo es azul en un día soleado.",
       "example_translation": "Niebo jest niebieskie w słoneczny dzień.",
-      "imageLink": "https://www.ang.pl/img/slownik/blue.jpg",
+      "imageLink": "blue.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/blue.mp3"
     },
     {
@@ -816,7 +815,7 @@
       "definition_translation": "Statek płynący po wodzie, wykorzystywany do transportu ludzi lub rzeczy.",
       "example": "Me gusta navegar en un barco durante las vacaciones.",
       "example_translation": "Lubię żeglować łodzią podczas wakacji.",
-      "imageLink": "https://www.ang.pl/img/slownik/boat.jpg",
+      "imageLink": "boat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/boat.mp3"
     },
     {
@@ -829,7 +828,7 @@
       "definition_translation": "Fizyczna część człowieka lub zwierzęcia",
       "example": "Mi cuerpo necesita descanso después de correr.",
       "example_translation": "Moje ciało potrzebuje odpoczynku po bieganiu.",
-      "imageLink": "https://www.ang.pl/img/slownik/body.jpg",
+      "imageLink": "body.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/body.mp3"
     },
     {
@@ -842,7 +841,7 @@
       "definition_translation": "Dzieło drukowane lub rękopiśmienna, zawierająca informacje, historię lub rozrywkę.",
       "example": "Me encanta leer libros en mi tiempo libre.",
       "example_translation": "Uwielbiam czytać książki w wolnym czasie.",
-      "imageLink": "https://www.ang.pl/img/slownik/book-1.jpg",
+      "imageLink": "book-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/book.mp3"
     },
     {
@@ -855,7 +854,7 @@
       "definition_translation": "Zmęczony lub znudzony czymś",
       "example": "Me siento aburrido en este trabajo.",
       "example_translation": "Czuję się znudzonym w tej pracy.",
-      "imageLink": "https://www.ang.pl/img/slownik/bored.jpg",
+      "imageLink": "bored.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bored.mp3"
     },
     {
@@ -868,7 +867,7 @@
       "definition_translation": "Który powoduje brak zainteresowania lub czasu wolnego",
       "example": "Este trabajo es muy aburrido.",
       "example_translation": "Ta praca jest bardzo nudna.",
-      "imageLink": "https://www.ang.pl/img/slownik/boring.jpg",
+      "imageLink": "boring.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/boring.mp3"
     },
     {
@@ -881,7 +880,7 @@
       "definition_translation": "Używany do wskazania, że dwie rzeczy są odniesione, często aby odróżnić je od innych.",
       "example": "Me gustan ambos libros.",
       "example_translation": "Lubię obie książki.",
-      "imageLink": "https://www.ang.pl/img/slownik/both.jpg",
+      "imageLink": "both.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/both.mp3"
     },
     {
@@ -894,7 +893,7 @@
       "definition_translation": "sztywne i prostokątne pojemnik, zwykle wykonane z tektury lub drewna, używane do przechowywania lub transportowania przedmiotów",
       "example": "Pon una caja en la mesa.",
       "example_translation": "Połóż pudełko na stole.",
-      "imageLink": "https://www.ang.pl/img/slownik/box.jpg",
+      "imageLink": "box.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/box.mp3"
     },
     {
@@ -907,7 +906,7 @@
       "definition_translation": "mężczyzna; osoba ludzka w dzieciństwie lub okresie dojrzewania",
       "example": "El niño Come una manzana.",
       "example_translation": "Chłopiec je jabłko.",
-      "imageLink": "https://www.ang.pl/img/slownik/boy.jpg",
+      "imageLink": "boy.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/boy.mp3"
     },
     {
@@ -920,7 +919,7 @@
       "definition_translation": "produkt spożywczy wytworzony z mąki pszennej",
       "example": "Me gusta comer pan tostado por la mañana.",
       "example_translation": "Lubię jeść tostowany chleb rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/bread.jpg",
+      "imageLink": "bread.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bread.mp3"
     },
     {
@@ -933,7 +932,7 @@
       "definition_translation": "Pierwszy posiłek dnia, zazwyczaj podawany rano.",
       "example": "Me encanta comer desayuno en el jardín.",
       "example_translation": "Lubię jeść śniadanie w ogrodzie.",
-      "imageLink": "https://www.ang.pl/img/slownik/breakfast.jpg",
+      "imageLink": "breakfast.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/breakfast.mp3"
     },
     {
@@ -946,7 +945,7 @@
       "definition_translation": "osoba, która ma tego samego ojca i matkę co inna osoba",
       "example": "Mi hermano menor siempre causa problemas.",
       "example_translation": "Mój młodszy brat zawsze sprawia kłopoty.",
-      "imageLink": "https://www.ang.pl/img/slownik/brother.jpg",
+      "imageLink": "brother.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/brother.mp3"
     },
     {
@@ -959,7 +958,7 @@
       "definition_translation": "W kolorze brązowym, podobnym do kawy lub suchej ziemi",
       "example": "El perro es marrón.",
       "example_translation": "Pies jest brązowy.",
-      "imageLink": "https://www.ang.pl/img/slownik/brown.jpg",
+      "imageLink": "brown.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/brown.mp3"
     },
     {
@@ -972,7 +971,7 @@
       "definition_translation": "środek transportu publicznego, służący do przewozu osób",
       "example": "El autobús passé por la esquina",
       "example_translation": "Autobus jechał obok zakrętu",
-      "imageLink": "https://www.ang.pl/img/slownik/bus-1.jpg",
+      "imageLink": "bus-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bus.mp3"
     },
     {
@@ -985,7 +984,7 @@
       "definition_translation": "Spójnik, który wskazuje na przeciwieństwo lub ograniczenie.",
       "example": "Quiero ir al cine, pero no tengo dinero.",
       "example_translation": "Chcę iść do kina, ale nie mam pieniędzy.",
-      "imageLink": "https://www.ang.pl/img/slownik/but.jpg",
+      "imageLink": "but.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/but.mp3"
     },
     {
@@ -998,7 +997,7 @@
       "definition_translation": "Jedzenie tłuszczowe, które uzyskuje się z mleka, stosowane jako składnik w kuchni",
       "example": "Me gusta untar mantequilla en mis tostadas por la mañana",
       "example_translation": "Lubię smarować masło na moich tostach rano",
-      "imageLink": "https://www.ang.pl/img/slownik/butter.jpg",
+      "imageLink": "butter.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/butter.mp3"
     },
     {
@@ -1011,7 +1010,7 @@
       "definition_translation": "nabyć coś w zamian za pieniądze",
       "example": "Voy a comprar un regalo para mi amigo.",
       "example_translation": "Zamierzam kupić prezent dla mojego przyjaciela.",
-      "imageLink": "https://www.ang.pl/img/slownik/buy.jpg",
+      "imageLink": "buy.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/buy.mp3"
     },
     {
@@ -1024,7 +1023,7 @@
       "definition_translation": "wyrażenie używane do pożegnania się z kimś",
       "example": "Hasta luego, ¡hasta mañana!",
       "example_translation": "Żegnaj, do jutra!",
-      "imageLink": "https://www.ang.pl/img/slownik/bye.jpg",
+      "imageLink": "bye.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/bye.mp3"
     },
     {
@@ -1037,7 +1036,7 @@
       "definition_translation": "Sklep lub lokum, gdzie serwowane są kawy i inne produkty",
       "example": "Voy a ir al café con mis amigos",
       "example_translation": "Idę do kawiarni z przyjaciółmi",
-      "imageLink": "https://www.ang.pl/img/slownik/cafe.jpg",
+      "imageLink": "cafe.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cafĂ©.mp3"
     },
     {
@@ -1050,7 +1049,7 @@
       "definition_translation": "Rodzaj deseru, który składa się z mąki, cukru, jaj i masła.",
       "example": "Me encanta comer torta de chocolate en mi cumpleaños.",
       "example_translation": "Lubię jeść tort czekoladowy w moje urodziny.",
-      "imageLink": "https://www.ang.pl/img/slownik/cake.jpg",
+      "imageLink": "cake.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cake.mp3"
     },
     {
@@ -1063,7 +1062,7 @@
       "definition_translation": "Urządzenie optyczne rejestrujące obrazy",
       "example": "Me encanta hacer fotos con mi cámara en el parque",
       "example_translation": "Uwielbiam robić zdjęcia moim aparatem w parku",
-      "imageLink": "https://www.ang.pl/img/slownik/camera.jpg",
+      "imageLink": "camera.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/camera.mp3"
     },
     {
@@ -1076,7 +1075,7 @@
       "definition_translation": "Metalowy pojemnik używany do przechowywania żywności lub napojów.",
       "example": "Necesito una lata de tomate para hacer la salsa.",
       "example_translation": "Potrzebuję puszki pomidorów, żeby zrobić sos.",
-      "imageLink": "https://www.ang.pl/img/slownik/can.jpg",
+      "imageLink": "can.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/can.mp3"
     },
     {
@@ -1089,7 +1088,7 @@
       "definition_translation": "Pojazd z kołami, silnikiem i możliwością przewozu osób lub ładunku",
       "example": "Me encanta conducir mi coche por la autopista",
       "example_translation": "Uwielbiam jeździć swoim samochodem po autostradzie",
-      "imageLink": "https://www.ang.pl/img/slownik/car.jpg",
+      "imageLink": "car.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/car.mp3"
     },
     {
@@ -1102,7 +1101,7 @@
       "definition_translation": "przenosić lub nieść coś z jednego miejsca do innego",
       "example": "Tengo que carry esta bolsa pesada hasta la estación de autobús.",
       "example_translation": "Muszę nosić tę ciężką torbę aż do dworca autobusowego.",
-      "imageLink": "https://www.ang.pl/img/slownik/carry.jpg",
+      "imageLink": "carry.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/carry.mp3"
     },
     {
@@ -1115,7 +1114,7 @@
       "definition_translation": "Domowy, mięsożerny ssak, o elastycznym i zwinnym ciele, z miękkim futrem i ostrymi uszami.",
       "example": "El gato duerme todo el día en el sofá.",
       "example_translation": "Kot śpi cały dzień na sofie.",
-      "imageLink": "https://www.ang.pl/img/slownik/cat.jpg",
+      "imageLink": "cat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cat.mp3"
     },
     {
@@ -1128,7 +1127,7 @@
       "definition_translation": "Złapać lub złapać coś rękami lub pułapką.",
       "example": "Me gustaría atrapar una pelota en el parque.",
       "example_translation": "Chciałbym złapać piłkę w parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/catch.jpg",
+      "imageLink": "catch.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/catch.mp3"
     },
     {
@@ -1141,7 +1140,7 @@
       "definition_translation": "Urządzenie elektroniczne, które odtwarza dyski kompaktowe",
       "example": "Me encanta escuchar música en mi reproductor de CD",
       "example_translation": "Lubię słuchać muzyki na moim odtwarzaczu CD",
-      "imageLink": "https://www.ang.pl/img/slownik/cd-player.jpg",
+      "imageLink": "cd-player.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/CD player.mp3"
     },
     {
@@ -1154,7 +1153,7 @@
       "definition_translation": "Obiekt z nogami, służący do siedzenia",
       "example": "Me senté en la silla y me relajé",
       "example_translation": "Usiadłem na krześle i zrelaksowałem się",
-      "imageLink": "https://www.ang.pl/img/slownik/chair.jpg",
+      "imageLink": "chair.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/chair.mp3"
     },
     {
@@ -1167,7 +1166,7 @@
       "definition_translation": "uczynić, aby coś było inne lub miało inny wygląd",
       "example": "Quiero cambiar mi contraseña porque la he olvidado.",
       "example_translation": "Chcę zmienić hasło, bo je zapomniałem.",
-      "imageLink": "https://www.ang.pl/img/slownik/change-6.jpg",
+      "imageLink": "change-6.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/change.mp3"
     },
     {
@@ -1180,7 +1179,7 @@
       "definition_translation": "niska cena lub koszt",
       "example": "Un hotel barato en el centro de la ciudad.",
       "example_translation": "Taniej hotel w centrum miasta.",
-      "imageLink": "https://www.ang.pl/img/slownik/cheap.jpg",
+      "imageLink": "cheap.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cheap.mp3"
     },
     {
@@ -1193,7 +1192,7 @@
       "definition_translation": "Produkt spożywczy powstający na skutek koagulacji mleka",
       "example": "Me encanta comer queso con pan",
       "example_translation": "Lubię jeść ser z chlebem",
-      "imageLink": "https://www.ang.pl/img/slownik/cheese.jpg",
+      "imageLink": "cheese.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cheese.mp3"
     },
     {
@@ -1206,7 +1205,7 @@
       "definition_translation": "Osoba, która jeszcze nie osiągnęła fizycznej i psychicznej dojrzałości.",
       "example": "El niño juega en el parque.",
       "example_translation": "Dziecko bawi się w parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/child.jpg",
+      "imageLink": "child.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/child.mp3"
     },
     {
@@ -1219,7 +1218,7 @@
       "definition_translation": "Dzieci to ludzie młodsi niż wiek dorosły",
       "example": "Los niños están jugando en el parque",
       "example_translation": "Dzieci bawią się w parku",
-      "imageLink": "https://www.ang.pl/img/slownik/children.jpg",
+      "imageLink": "children.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/children.mp3"
     },
     {
@@ -1232,7 +1231,7 @@
       "definition_translation": "cienkie, smażone plastry ziemniaczane",
       "example": "Me encanta comer chips con salsa de tomate",
       "example_translation": "Lubię jeść czipy z sosem pomidorowym",
-      "imageLink": "https://www.ang.pl/img/slownik/chips.jpg",
+      "imageLink": "chips.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/chips.mp3"
     },
     {
@@ -1245,7 +1244,7 @@
       "definition_translation": "Rodzaj słodyczy wykonanej z kakao",
       "example": "Me encanta comer chocolate caliente en invierno",
       "example_translation": "Uwielbiam jeść gorącą czekoladę w zimie",
-      "imageLink": "https://www.ang.pl/img/slownik/chocolate.jpg",
+      "imageLink": "chocolate.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/chocolate.mp3"
     },
     {
@@ -1258,7 +1257,7 @@
       "definition_translation": "wybrać coś lub kogoś",
       "example": "Elegí la opción más fácil.",
       "example_translation": "Wybrałem najłatwiejszą opcję.",
-      "imageLink": "https://www.ang.pl/img/slownik/choose.jpg",
+      "imageLink": "choose.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/choose.mp3"
     },
     {
@@ -1271,7 +1270,7 @@
       "definition_translation": "Miejsce, gdzie są wyświetlane filmy.",
       "example": "Voy al cine todos los fines de semana.",
       "example_translation": "Chodzę do kina każdego weekendu.",
-      "imageLink": "https://www.ang.pl/img/slownik/cinema-1.jpg",
+      "imageLink": "cinema-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cinema.mp3"
     },
     {
@@ -1284,7 +1283,7 @@
       "definition_translation": "duża miejscowość z budynkami, ulicami i usługami",
       "example": "Viva en una ciudad grande cerca del mar.",
       "example_translation": "Mieszkałem w dużym mieście niedaleko morza.",
-      "imageLink": "https://www.ang.pl/img/slownik/city.jpg",
+      "imageLink": "city.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/city.mp3"
     },
     {
@@ -1297,7 +1296,7 @@
       "definition_translation": "Grupa ludzi, którzy otrzymują edukację razem w instytucji edukacyjnej.",
       "example": "Voy a clase de matemáticas mañana.",
       "example_translation": "Jutro idę na zajęcia z matematyki.",
-      "imageLink": "https://www.ang.pl/img/slownik/class.jpg",
+      "imageLink": "class.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/class.mp3"
     },
     {
@@ -1310,7 +1309,7 @@
       "definition_translation": "grupa osób, które spotykają się, aby się uczyć czegoś",
       "example": "La clase de matemáticas es a las 10 am.",
       "example_translation": "Lekcja matematyki jest o 10 rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/class-1.jpg",
+      "imageLink": "class-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/class.mp3"
     },
     {
@@ -1323,7 +1322,7 @@
       "definition_translation": "Pokój w szkole, gdzie odbywają się zajęcia.",
       "example": "La clase se reunirá en la sala de clase.",
       "example_translation": "Klasa spotka się w sali lekcyjnej.",
-      "imageLink": "https://www.ang.pl/img/slownik/classroom.jpg",
+      "imageLink": "classroom.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/classroom.mp3"
     },
     {
@@ -1336,7 +1335,7 @@
       "definition_translation": "Usuwać brud lub nieczystości z czegoś.",
       "example": "Debes limpiar la habitación antes de recibir a los invitados.",
       "example_translation": "Musisz posprzątać pokój przed przybyciem gości.",
-      "imageLink": "https://www.ang.pl/img/slownik/clean.jpg",
+      "imageLink": "clean.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/clean.mp3"
     },
     {
@@ -1349,7 +1348,7 @@
       "definition_translation": "Zdolny lub zręczny w robieniu czegoś",
       "example": "Era un hombre astuto y siempre encontraba formas de salir de problemas",
       "example_translation": "Był to mężczyzna zręczny i zawsze znajdował sposoby, aby wyjść z problemów",
-      "imageLink": "https://www.ang.pl/img/slownik/clever.jpg",
+      "imageLink": "clever.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/clever.mp3"
     },
     {
@@ -1362,7 +1361,7 @@
       "definition_translation": "Urządzenie pokazujące godzinę",
       "example": "El reloj de la pared marcaba las 3 pm.",
       "example_translation": "Zegar na ścianie wskazywał 3 pm.",
-      "imageLink": "https://www.ang.pl/img/slownik/clock.jpg",
+      "imageLink": "clock.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/clock.mp3"
     },
     {
@@ -1375,7 +1374,7 @@
       "definition_translation": "Zakryć lub zamknąć coś, aby nie było otwarte lub dostępne.",
       "example": "Cierra la puerta cuando salgas.",
       "example_translation": "Zamknij drzwi, gdy wychodzisz.",
-      "imageLink": "https://www.ang.pl/img/slownik/close.jpg",
+      "imageLink": "close.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/close.mp3"
     },
     {
@@ -1388,7 +1387,7 @@
       "definition_translation": "Nie otwarty lub niedostępny",
       "example": "La tienda está cerrada hoy.",
       "example_translation": "Sklep jest zamknięty dziś.",
-      "imageLink": "https://www.ang.pl/img/slownik/closed.jpg",
+      "imageLink": "closed.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/closed.mp3"
     },
     {
@@ -1401,7 +1400,7 @@
       "definition_translation": "Przedmioty i rzeczy, które noszone są aby zakryć lub ozdobić ciało",
       "example": "Me encanta comprar ropa nueva en las ventas",
       "example_translation": "Uwielbiam kupować nową odzież w czasie wyprzedaży",
-      "imageLink": "https://www.ang.pl/img/slownik/clothes.jpg",
+      "imageLink": "clothes.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/clothes.mp3"
     },
     {
@@ -1414,7 +1413,7 @@
       "definition_translation": "ubranie, które nakrywa górną część ciała",
       "example": "Me pongo una chaqueta antes de salir a la calle.",
       "example_translation": "Wdziewam kurtkę przed wyjściem na ulicę.",
-      "imageLink": "https://www.ang.pl/img/slownik/coat.jpg",
+      "imageLink": "coat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/coat.mp3"
     },
     {
@@ -1427,7 +1426,7 @@
       "definition_translation": "Gorąca napój przygotowana z ziaren kawy",
       "example": "Me encanta tomarme un café por la mañana.",
       "example_translation": "Lubię pić kawę rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/coffee.jpg",
+      "imageLink": "coffee.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/coffee.mp3"
     },
     {
@@ -1440,7 +1439,7 @@
       "definition_translation": "Gazowana napój zawierający kofeinę i cukier",
       "example": "Me gustaría un vaso de Coca-Cola, por favor.",
       "example_translation": "Chciałbym szklankę Koka-Koli, proszę.",
-      "imageLink": "https://www.ang.pl/img/slownik/coke.jpg",
+      "imageLink": "coke.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Coke.mp3"
     },
     {
@@ -1453,7 +1452,7 @@
       "definition_translation": "Oznacza, że ma niską temperaturę.",
       "example": "Hace frío en invierno.",
       "example_translation": "Zima jest zimna w zimie.",
-      "imageLink": "https://www.ang.pl/img/slownik/cold-1.jpg",
+      "imageLink": "cold-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cold.mp3"
     },
     {
@@ -1466,7 +1465,7 @@
       "definition_translation": "O niskiej temperaturze.",
       "example": "Hace mucho frío en invierno en Madrid.",
       "example_translation": "Zima jest bardzo zimna w Madrycie.",
-      "imageLink": "https://www.ang.pl/img/slownik/cold-3.jpg",
+      "imageLink": "cold-3.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cold.mp3"
     },
     {
@@ -1479,7 +1478,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "https://www.ang.pl/img/slownik/colour.jpg",
+      "imageLink": "colour.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/colour.mp3"
     },
     {
@@ -1492,7 +1491,7 @@
       "definition_translation": "Właściwość charakterystyczna światła, która pozwala odróżnić je od innych według długości fali.",
       "example": "El color del cielo es azul.",
       "example_translation": "Kolor nieba jest niebieski.",
-      "imageLink": "https://www.ang.pl/img/slownik/colour-1.jpg",
+      "imageLink": "colour-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/colour.mp3"
     },
     {
@@ -1505,7 +1504,7 @@
       "definition_translation": "Spożywać jedzenie, aby zaspokoić głód lub potrzebę",
       "example": "Vamos a comer algo para cenar.",
       "example_translation": "Zjedzmy coś na kolację.",
-      "imageLink": "https://www.ang.pl/img/slownik/come.jpg",
+      "imageLink": "come.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/come.mp3"
     },
     {
@@ -1518,7 +1517,7 @@
       "definition_translation": "Urządzenie elektroniczne przetwarzające informacje",
       "example": "Necesito un computadora más potente para editar videos",
       "example_translation": "Potrzebuję bardziej wydajnego komputera do edycji filmów",
-      "imageLink": "https://www.ang.pl/img/slownik/computer.jpg",
+      "imageLink": "computer.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/computer.mp3"
     },
     {
@@ -1531,7 +1530,7 @@
       "definition_translation": "Czynność i efekt rozmawiania lub mówienia z kimś",
       "example": "Me encanta tener una conversación con mis amigos",
       "example_translation": "Lubię prowadzić rozmowę z przyjaciółmi",
-      "imageLink": "https://www.ang.pl/img/slownik/conversation.jpg",
+      "imageLink": "conversation.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/conversation.mp3"
     },
     {
@@ -1544,7 +1543,7 @@
       "definition_translation": "Przygotowywać żywność poprzez zastosowanie ciepła lub gotowania",
       "example": "Me gusta cocinar platos internacionales en mi cocina",
       "example_translation": "Lubię gotować międzynarodowe potrawy w mojej kuchni",
-      "imageLink": "https://www.ang.pl/img/slownik/cook-1.jpg",
+      "imageLink": "cook-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cook.mp3"
     },
     {
@@ -1557,7 +1556,7 @@
       "definition_translation": "Przygotowywać żywność do spożycia gotując.",
       "example": "Me gusta cocinar pizzas los fines de semana.",
       "example_translation": "Lubię gotować pizze w weekendy.",
-      "imageLink": "https://www.ang.pl/img/slownik/cook.jpg",
+      "imageLink": "cook.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cook.mp3"
     },
     {
@@ -1570,7 +1569,7 @@
       "definition_translation": "Terytorium definowane przez granice geograficzne i polityczne",
       "example": "España es un país ubicado en el sur de Europa",
       "example_translation": "Hiszpania jest krajem położonym w południowej Europie",
-      "imageLink": "https://www.ang.pl/img/slownik/country.jpg",
+      "imageLink": "country.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/country.mp3"
     },
     {
@@ -1583,7 +1582,7 @@
       "definition_translation": "Kurs to seria lekcji lub zajęć, które są prowadzone w instytucji edukacyjnej.",
       "example": "Voy a matricularme en un curso de inglés.",
       "example_translation": "Zapiszę się na kurs angielskiego.",
-      "imageLink": "https://www.ang.pl/img/slownik/course-2.jpg",
+      "imageLink": "course-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/course.mp3"
     },
     {
@@ -1596,7 +1595,7 @@
       "definition_translation": "Domowe ssaki, które produkują mleko dla konsumpcji przez ludzi",
       "example": "La vaca come hierba en el campo.",
       "example_translation": "Krowa je trawę na polu.",
-      "imageLink": "https://www.ang.pl/img/slownik/cow.jpg",
+      "imageLink": "cow.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cow.mp3"
     },
     {
@@ -1609,7 +1608,7 @@
       "definition_translation": "Karta płatnicza, która pozwala jej posiadaczowi uzyskać środki lub dokonywać płatności do ustalonego limitu kredytu.",
       "example": "Necesito pagar con tarjeta de crédito.",
       "example_translation": "Muszę zapłacić kartą kredytową.",
-      "imageLink": "https://www.ang.pl/img/slownik/credit-card.jpg",
+      "imageLink": "credit-card.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/credit card.mp3"
     },
     {
@@ -1622,7 +1621,7 @@
       "definition_translation": "Naczynie, które służy do picia płynów, szczególnie herbaty lub kawy",
       "example": "Necesito una taza para tomar un café",
       "example_translation": "Potrzebuję filżanki, aby wypić kawę",
-      "imageLink": "https://www.ang.pl/img/slownik/cup-1.jpg",
+      "imageLink": "cup-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/cup.mp3"
     },
     {
@@ -1635,7 +1634,7 @@
       "definition_translation": "Ojciec lub męski przodek.",
       "example": "Mi papá es muy amoroso.",
       "example_translation": "Mój tata jest bardzo uczuciowy.",
-      "imageLink": "https://www.ang.pl/img/slownik/dad.jpg",
+      "imageLink": "dad.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dad.mp3"
     },
     {
@@ -1648,7 +1647,7 @@
       "definition_translation": "Poruszać ciałem w rytm, szczególnie w towarzystwie muzyki",
       "example": "Me encanta bailar salsa en las noches de verano",
       "example_translation": "Uwielbiam tańczyć salsę w letnie noce",
-      "imageLink": "https://www.ang.pl/img/slownik/dance-2.jpg",
+      "imageLink": "dance-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dance.mp3"
     },
     {
@@ -1661,7 +1660,7 @@
       "definition_translation": "Ruch ciała w rytmie muzyki",
       "example": "Me encanta bailar salsa en las noches de verano",
       "example_translation": "Uwielbiam tańczyć salsę w letnie noce",
-      "imageLink": "https://www.ang.pl/img/slownik/dance-1.jpg",
+      "imageLink": "dance-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dance.mp3"
     },
     {
@@ -1674,7 +1673,7 @@
       "definition_translation": "Brak światła lub wyraźności",
       "example": "La habitación estaba oscuro debido a la falta de luces.",
       "example_translation": "Pokój był ciemny ze względu na brak światła.",
-      "imageLink": "https://www.ang.pl/img/slownik/dark.jpg",
+      "imageLink": "dark.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dark.mp3"
     },
     {
@@ -1687,7 +1686,7 @@
       "definition_translation": "dzień miesiąca, w którym coś się dzieje",
       "example": "La fecha de entrega es el próximo viernes.",
       "example_translation": "Data dostawy to następny piątek.",
-      "imageLink": "https://www.ang.pl/img/slownik/date-2.jpg",
+      "imageLink": "date-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/date.mp3"
     },
     {
@@ -1700,7 +1699,7 @@
       "definition_translation": "Córka to potomstwo żeńskie osoby lub pary.",
       "example": "Mi hija está estudiando en la universidad.",
       "example_translation": "Moja córka studiuje na uniwersytecie.",
-      "imageLink": "https://www.ang.pl/img/slownik/daughter.jpg",
+      "imageLink": "daughter.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/daughter.mp3"
     },
     {
@@ -1713,7 +1712,7 @@
       "definition_translation": "Bardzo kochany lub ceniony",
       "example": "Eres mi querido hermano",
       "example_translation": "Jesteś moim drogim bratem",
-      "imageLink": "https://www.ang.pl/img/slownik/dear-1.jpg",
+      "imageLink": "dear-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dear.mp3"
     },
     {
@@ -1726,7 +1725,7 @@
       "definition_translation": "Dwunasty i ostatni miesiąc roku",
       "example": "Me encanta viajar en diciembre para disfrutar de la Navidad.",
       "example_translation": "Lubię podróżować w grudniu, aby cieszyć się Bożym Narodzeniem.",
-      "imageLink": "https://www.ang.pl/img/slownik/december.jpg",
+      "imageLink": "december.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/December.mp3"
     },
     {
@@ -1739,7 +1738,7 @@
       "definition_translation": "Stół lub mebel do pisania lub pracy",
       "example": "Necesito un escritorio más grande para mi oficina.",
       "example_translation": "Potrzebuję większego biurka w moim biurze.",
-      "imageLink": "https://www.ang.pl/img/slownik/desk.jpg",
+      "imageLink": "desk.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/desk.mp3"
     },
     {
@@ -1752,7 +1751,7 @@
       "definition_translation": "Książka zawierająca wyjaśnienie i klasyfikację słów w języku",
       "example": "Consulté el diccionario para buscar la definición de la palabra",
       "example_translation": "Skonsultowałem słownik, aby znaleźć definicję słowa",
-      "imageLink": "https://www.ang.pl/img/slownik/dictionary.jpg",
+      "imageLink": "dictionary.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dictionary.mp3"
     },
     {
@@ -1765,7 +1764,7 @@
       "definition_translation": "Przestać żyć; przestać istnieć",
       "example": "Mi abuela murió el año pasado",
       "example_translation": "Moja babcia umarła w zeszłym roku",
-      "imageLink": "https://www.ang.pl/img/slownik/die.jpg",
+      "imageLink": "die.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/die.mp3"
     },
     {
@@ -1778,7 +1777,7 @@
       "definition_translation": "Który przedstawia trudności lub przeszkody w realizacji lub osiągnięciu.",
       "example": "Este problema es muy difícil de resolver.",
       "example_translation": "Ten problem jest bardzo trudny do rozwiązania.",
-      "imageLink": "https://www.ang.pl/img/slownik/difficult.jpg",
+      "imageLink": "difficult.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/difficult.mp3"
     },
     {
@@ -1791,7 +1790,7 @@
       "definition_translation": "Pokój w mieszkaniu, gdzie się je",
       "example": "Vamos a cenar en el comedor",
       "example_translation": "Zagramy obiad w jadalni",
-      "imageLink": "https://www.ang.pl/img/slownik/dining-room.jpg",
+      "imageLink": "dining-room.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dining room.mp3"
     },
     {
@@ -1804,7 +1803,7 @@
       "definition_translation": "główny posiłek wieczorny",
       "example": "Vamos a cenar en el restaurante esta noche.",
       "example_translation": "Zjedzemy kolację w restauracji tej nocy.",
-      "imageLink": "https://www.ang.pl/img/slownik/dinner.jpg",
+      "imageLink": "dinner.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dinner.mp3"
     },
     {
@@ -1817,7 +1816,7 @@
       "definition_translation": "wykonać akcję",
       "example": "Voy a hacer la tarea esta noche.",
       "example_translation": "Zrobię zadanie tej nocy.",
-      "imageLink": "https://www.ang.pl/img/slownik/do.jpg",
+      "imageLink": "do.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/do.mp3"
     },
     {
@@ -1830,7 +1829,7 @@
       "definition_translation": "Aktywność, która polega na utrzymaniu przestrzeni czystej i uporządkowanej",
       "example": "Mañana voy a hacer la limpieza de la casa",
       "example_translation": "Jutro będę sprzątał dom",
-      "imageLink": "https://www.ang.pl/img/slownik/do-the-cleaning.jpg",
+      "imageLink": "do-the-cleaning.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/do the cleaning.mp3"
     },
     {
@@ -1843,7 +1842,7 @@
       "definition_translation": "przygotowywać jedzenie do spożycia",
       "example": "Mi madre hace la cocina todos los días.",
       "example_translation": "Moja matka gotuje każdego dnia.",
-      "imageLink": "https://www.ang.pl/img/slownik/do-the-cooking.jpg",
+      "imageLink": "do-the-cooking.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/do the cooking.mp3"
     },
     {
@@ -1856,7 +1855,7 @@
       "definition_translation": "czynność prania ubrań",
       "example": "Mañana voy a hacer la lavandería.",
       "example_translation": "Jutro zrobię pranie.",
-      "imageLink": "https://www.ang.pl/img/slownik/do-the-washing.jpg",
+      "imageLink": "do-the-washing.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/do the washing.mp3"
     },
     {
@@ -1869,7 +1868,7 @@
       "definition_translation": "Zawód medyczny zajmujący się zapobieganiem, diagnozowaniem i leczeniem chorób",
       "example": "El doctor me dio un diagnóstico preciso.",
       "example_translation": "Lekarz udzielił mi dokładnej diagnozy.",
-      "imageLink": "https://www.ang.pl/img/slownik/doctor.jpg",
+      "imageLink": "doctor.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/doctor.mp3"
     },
     {
@@ -1882,7 +1881,7 @@
       "definition_translation": "Ssak domowy, znany z wierności i czułości wobec swojego pana",
       "example": "El perro de la familia jugó con el niño en el parque.",
       "example_translation": "Pies rodziny grał z chłopcem w parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/dog.jpg",
+      "imageLink": "dog.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dog.mp3"
     },
     {
@@ -1895,7 +1894,7 @@
       "definition_translation": "figura zabawki przedstawiająca osobę lub zwierzę",
       "example": "Mi hija quiere una muneca para su cumpleaños.",
       "example_translation": "Moja córka chce lalkę na urodziny.",
-      "imageLink": "https://www.ang.pl/img/slownik/doll.jpg",
+      "imageLink": "doll.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/doll.mp3"
     },
     {
@@ -1908,7 +1907,7 @@
       "definition_translation": "Oficjalna jednostka monetarna Stanów Zjednoczonych i innych krajów.",
       "example": "El precio del ticket es de 10 dólares.",
       "example_translation": "Cena biletu to 10 dolarów.",
-      "imageLink": "https://www.ang.pl/img/slownik/dollar.jpg",
+      "imageLink": "dollar.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dollar.mp3"
     },
     {
@@ -1921,7 +1920,7 @@
       "definition_translation": "główny wejście do domu lub budynku",
       "example": "Abre la puerta, por favor.",
       "example_translation": "Otwórz drzwi, proszę.",
-      "imageLink": "https://www.ang.pl/img/slownik/door.jpg",
+      "imageLink": "door.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/door.mp3"
     },
     {
@@ -1934,7 +1933,7 @@
       "definition_translation": "W kierunku niższej pozycji lub w stronę części dolnej.",
       "example": "El avión comenzó a descender hacia el aeropuerto.",
       "example_translation": "Samolot zaczął schodzić w kierunku lotniska.",
-      "imageLink": "https://www.ang.pl/img/slownik/down.jpg",
+      "imageLink": "down.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/down.mp3"
     },
     {
@@ -1947,7 +1946,7 @@
       "definition_translation": "stworzyć obraz lub figurę na papierze lub powierzchni używając narzędzi rysunkowych",
       "example": "Me gusta dibujar paisajes en mi tiempo libre.",
       "example_translation": "Lubię rysować krajobrazy w wolnym czasie.",
-      "imageLink": "https://www.ang.pl/img/slownik/draw.jpg",
+      "imageLink": "draw.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/draw.mp3"
     },
     {
@@ -1960,7 +1959,7 @@
       "definition_translation": "Ubranie, które zakłada się, aby przykryć ciało",
       "example": "Me compré un vestido nuevo para la fiesta",
       "example_translation": "Kupiłem nową sukienkę na imprezę",
-      "imageLink": "https://www.ang.pl/img/slownik/dress.jpg",
+      "imageLink": "dress.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dress.mp3"
     },
     {
@@ -1973,7 +1972,7 @@
       "definition_translation": "podać płyn przez usta",
       "example": "Me gustaría beber un vaso de agua.",
       "example_translation": "Chciałbym pić szklankę wody.",
-      "imageLink": "https://www.ang.pl/img/slownik/drink-1.jpg",
+      "imageLink": "drink-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/drink.mp3"
     },
     {
@@ -1986,7 +1985,7 @@
       "definition_translation": "Ciecz, który jest spożywany, aby zaspokoić pragnienie lub odżywić ciało",
       "example": "Me gustaría una bebida fresca en este calor",
       "example_translation": "Chciałbym świeżego napoju w tym upale",
-      "imageLink": "https://www.ang.pl/img/slownik/drink.jpg",
+      "imageLink": "drink.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/drink.mp3"
     },
     {
@@ -1999,7 +1998,7 @@
       "definition_translation": "Poruszać pojazdem z umiejętnością i kontrolą",
       "example": "Me gusta conducir por la carretera del lago.",
       "example_translation": "Lubię jechać drogą nad jeziorem.",
-      "imageLink": "https://www.ang.pl/img/slownik/drive.jpg",
+      "imageLink": "drive.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/drive.mp3"
     },
     {
@@ -2012,7 +2011,7 @@
       "definition_translation": "Osoba, która kieruje pojazdem, szczególnie samochodem.",
       "example": "Necesito un conductor para llevarme al aeropuerto.",
       "example_translation": "Potrzebuję kierowcy, żeby zająć mnie na lotnisko.",
-      "imageLink": "https://www.ang.pl/img/slownik/driver.jpg",
+      "imageLink": "driver.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/driver.mp3"
     },
     {
@@ -2025,7 +2024,7 @@
       "definition_translation": "Pozbawiony wilgoci lub cieczy.",
       "example": "El clima era seco y cálido en el desierto.",
       "example_translation": "Klimat był suchy i ciepły na pustyni.",
-      "imageLink": "https://www.ang.pl/img/slownik/dry.jpg",
+      "imageLink": "dry.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/dry.mp3"
     },
     {
@@ -2038,7 +2037,7 @@
       "definition_translation": "Każdy składnik grupy lub serii.",
       "example": "Each student has a book.",
       "example_translation": "Każdy uczeń ma książkę.",
-      "imageLink": "https://www.ang.pl/img/slownik/each.jpg",
+      "imageLink": "each.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/each.mp3"
     },
     {
@@ -2051,7 +2050,7 @@
       "definition_translation": "organ zmysłu słuchu",
       "example": "Tengo una oreja dolorida desde ayer.",
       "example_translation": "Mam bolesną ucho od wczoraj.",
-      "imageLink": "https://www.ang.pl/img/slownik/ear.jpg",
+      "imageLink": "ear.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/ear.mp3"
     },
     {
@@ -2064,7 +2063,7 @@
       "definition_translation": "Nie wymaga dużego wysiłku ani zdolności",
       "example": "Esto es un ejercicio fácil de resolver.",
       "example_translation": "To jest łatwe ćwiczenie do rozwiązania.",
-      "imageLink": "https://www.ang.pl/img/slownik/easy.jpg",
+      "imageLink": "easy.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/easy.mp3"
     },
     {
@@ -2077,7 +2076,7 @@
       "definition_translation": "Spożywanie pokarmu w celu zaopatrzenia się w składniki odżywcze.",
       "example": "Me gusta comer una manzana por la mañana.",
       "example_translation": "Lubię jeść jabłko rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/eat.jpg",
+      "imageLink": "eat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/eat.mp3"
     },
     {
@@ -2090,7 +2089,7 @@
       "definition_translation": "Część rozwrotna żeńska ptaków, jadalna i bogata w białko.",
       "example": "Me gusta comer huevos revueltos para desayunar.",
       "example_translation": "Lubię jeść jajka sadzone na śniadanie.",
-      "imageLink": "https://www.ang.pl/img/slownik/egg.jpg",
+      "imageLink": "egg.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/egg.mp3"
     },
     {
@@ -2103,7 +2102,7 @@
       "definition_translation": "Liczba, która następuje po siedmiu i poprzedza dziewięć.",
       "example": "Tengo ocho años.",
       "example_translation": "Mam osiem lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/eight.jpg",
+      "imageLink": "eight.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/eight.mp3"
     },
     {
@@ -2116,7 +2115,7 @@
       "definition_translation": "Licza naturalne, które następuje po siedemnastu i poprzedza dziewiętnaście.",
       "example": "Tengo dieciocho años.",
       "example_translation": "Mam osiemnaście lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/eighteen.jpg",
+      "imageLink": "eighteen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/eighteen.mp3"
     },
     {
@@ -2129,7 +2128,7 @@
       "definition_translation": "Liczba, która następuje po dziesięciu",
       "example": "Tengo once años.",
       "example_translation": "Mam jedenaście lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/eleven.jpg",
+      "imageLink": "eleven.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/eleven.mp3"
     },
     {
@@ -2142,7 +2141,7 @@
       "definition_translation": "odczuwać przyjemność lub 만족",
       "example": "Me encanta disfrutar del sol en la playa.",
       "example_translation": "Uwielbiam cieszyć się słońcem na plaży.",
-      "imageLink": "https://www.ang.pl/img/slownik/enjoy.jpg",
+      "imageLink": "enjoy.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/enjoy.mp3"
     },
     {
@@ -2155,7 +2154,7 @@
       "definition_translation": "okres dnia od zachodu słońca do nocy",
       "example": "Me encanta pasear por el parque por la tarde.",
       "example_translation": "Lubię spacerować po parku wieczorem.",
-      "imageLink": "https://www.ang.pl/img/slownik/evening.jpg",
+      "imageLink": "evening.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/evening.mp3"
     },
     {
@@ -2168,7 +2167,7 @@
       "definition_translation": "Każdy z elementów, które tworzą zestaw.",
       "example": "Voy a leer cada página del libro.",
       "example_translation": "Przeczytam każdą stronę tej książki.",
-      "imageLink": "https://www.ang.pl/img/slownik/every.jpg",
+      "imageLink": "every.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/every.mp3"
     },
     {
@@ -2181,7 +2180,7 @@
       "definition_translation": "Ilustracja lub próbka, która wyjaśnia lub klaruje coś.",
       "example": "El ejemplo que mejor se ajusta a la situación es este.",
       "example_translation": "Najlepszym przykładem, który się najlepiej nadaje do sytuacji, jest ten.",
-      "imageLink": "https://www.ang.pl/img/slownik/example.jpg",
+      "imageLink": "example.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/example.mp3"
     },
     {
@@ -2194,7 +2193,7 @@
       "definition_translation": "uczucie entuzjazmu lub intensywnej radości",
       "example": "Estoy muy excitado por mi cumpleaños mañana.",
       "example_translation": "Jestem bardzo zachwycony moimi urodzinami jutro.",
-      "imageLink": "https://www.ang.pl/img/slownik/excited.jpg",
+      "imageLink": "excited.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/excited.mp3"
     },
     {
@@ -2207,7 +2206,7 @@
       "definition_translation": "Co wywołuje emocje lub entuzjazm",
       "example": "Este película es emocionante.",
       "example_translation": "Ten film jest emocjonujący.",
-      "imageLink": "https://www.ang.pl/img/slownik/exciting.jpg",
+      "imageLink": "exciting.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/exciting.mp3"
     },
     {
@@ -2220,7 +2219,7 @@
       "definition_translation": "wyrażenie używane do przeproszenia lub uzyskania uwagi",
       "example": "Disculpa, ¿dónde está la estación de tren?",
       "example_translation": "Przepraszam, gdzie jest stacja kolejowa?",
-      "imageLink": "https://www.ang.pl/img/slownik/excuse-me.jpg",
+      "imageLink": "excuse-me.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/excuse me.mp3"
     },
     {
@@ -2233,7 +2232,7 @@
       "definition_translation": "o wysokiej ceny lub kosztu",
       "example": "Este restaurante es caro, así que vamos a otro lugar.",
       "example_translation": "Ten restauracja jest droga, więc idźmy gdzie indziej.",
-      "imageLink": "https://www.ang.pl/img/slownik/expensive.jpg",
+      "imageLink": "expensive.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/expensive.mp3"
     },
     {
@@ -2246,7 +2245,7 @@
       "definition_translation": "Organ zmysłu, który pozwala nam widzieć",
       "example": "Abrí los ojos para ver la belleza del paisaje",
       "example_translation": "Otworzyłem oczy, aby zobaczyć piękno krajobrazu",
-      "imageLink": "https://www.ang.pl/img/slownik/eye.jpg",
+      "imageLink": "eye.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/eye.mp3"
     },
     {
@@ -2259,7 +2258,7 @@
       "definition_translation": "Część przednia ludzkiej głowy",
       "example": "La cara de mi amigo es muy amigable.",
       "example_translation": "Twarz mojego przyjaciela jest bardzo przyjazna.",
-      "imageLink": "https://www.ang.pl/img/slownik/face.jpg",
+      "imageLink": "face.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/face.mp3"
     },
     {
@@ -2272,7 +2271,7 @@
       "definition_translation": "Budynek lub zespół budynków, w których produkty są wytwarzane przy użyciu maszyn i pracy ludzkiej.",
       "example": "La fábrica de coches emplea a cientos de personas.",
       "example_translation": "Fabryka samochodów zatrudnia setki osób.",
-      "imageLink": "https://www.ang.pl/img/slownik/factory.jpg",
+      "imageLink": "factory.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/factory.mp3"
     },
     {
@@ -2285,7 +2284,7 @@
       "definition_translation": "Grupa osób spokrewnionych, które mieszkają razem lub mają więzy krwi",
       "example": "Mi familia es muy unida",
       "example_translation": "Moja rodzina jest bardzo zjednoczona",
-      "imageLink": "https://www.ang.pl/img/slownik/family.jpg",
+      "imageLink": "family.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/family.mp3"
     },
     {
@@ -2298,7 +2297,7 @@
       "definition_translation": "Bardzo znany lub celebrowany za coś.",
       "example": "El actor es famoso por su papel en la película.",
       "example_translation": "Aktor jest sławny ze swojej roli w filmie.",
-      "imageLink": "https://www.ang.pl/img/slownik/famous.jpg",
+      "imageLink": "famous.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/famous.mp3"
     },
     {
@@ -2311,7 +2310,7 @@
       "definition_translation": "Miejsce, w którym uprawia się produkty rolne i hoduje się zwierzęta",
       "example": "La granja de mi tío es famosa por sus deliciosos productos lácteos",
       "example_translation": "Farma mojego wuja jest słynna z delikatnych produktów mlecznych",
-      "imageLink": "https://www.ang.pl/img/slownik/farm.jpg",
+      "imageLink": "farm.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/farm.mp3"
     },
     {
@@ -2324,7 +2323,7 @@
       "definition_translation": "poruszać się lub robić coś szybko",
       "example": "Este coche es muy rápido en la autopista.",
       "example_translation": "Ten samochód jest bardzo szybki na autostradzie.",
-      "imageLink": "https://www.ang.pl/img/slownik/fast.jpg",
+      "imageLink": "fast.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fast.mp3"
     },
     {
@@ -2337,7 +2336,7 @@
       "definition_translation": "Tłusty lub tłuszczowy, szczególnie w ludzkim ciele.",
       "example": "Ese hombre es demasiado gordo para correr una maratón.",
       "example_translation": "Ten człowiek jest zbyt tłusty, aby ukończyć maraton.",
-      "imageLink": "https://www.ang.pl/img/slownik/fat.jpg",
+      "imageLink": "fat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fat.mp3"
     },
     {
@@ -2350,7 +2349,7 @@
       "definition_translation": "Mężczyzna, który spłodził dziecko.",
       "example": "Mi padre es ingeniero.",
       "example_translation": "Mój ojciec jest inżynierem.",
-      "imageLink": "https://www.ang.pl/img/slownik/father.jpg",
+      "imageLink": "father.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/father.mp3"
     },
     {
@@ -2363,7 +2362,7 @@
       "definition_translation": "Osoba lub rzecz preferowana przez kogoś",
       "example": "Mi comida favorita es la pizza.",
       "example_translation": "Mój ulubiony pokarm to pizza.",
-      "imageLink": "https://www.ang.pl/img/slownik/favourite.jpg",
+      "imageLink": "favourite.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/favourite.mp3"
     },
     {
@@ -2376,7 +2375,7 @@
       "definition_translation": "drugi miesiąc roku",
       "example": "El carnaval siempre es en febrero.",
       "example_translation": "Karnawał zawsze jest w lutym.",
-      "imageLink": "https://www.ang.pl/img/slownik/february.jpg",
+      "imageLink": "february.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/February.mp3"
     },
     {
@@ -2389,7 +2388,7 @@
       "definition_translation": "Mieć wewnętrzne uczucie lub emocję.",
       "example": "Siento que algo está mal.",
       "example_translation": "Czuję, że coś jest nie tak.",
-      "imageLink": "https://www.ang.pl/img/slownik/feel.jpg",
+      "imageLink": "feel.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/feel.mp3"
     },
     {
@@ -2402,7 +2401,7 @@
       "definition_translation": "Liczba która następuje po czternaście i poprzedza szesnaście.",
       "example": "Tengo quince años.",
       "example_translation": "Mam piętnaście lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/fifteen.jpg",
+      "imageLink": "fifteen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fifteen.mp3"
     },
     {
@@ -2415,7 +2414,7 @@
       "definition_translation": "praca audiowizualna składająca się z ruchomych obrazów, z lub bez dźwięku, przeznaczona do wyświetlania na ekranie",
       "example": "Me encanta ver películas de acción en el fin de semana.",
       "example_translation": "Lubię oglądać filmy akcji w weekend.",
-      "imageLink": "https://www.ang.pl/img/slownik/film.jpg",
+      "imageLink": "film.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/film.mp3"
     },
     {
@@ -2428,7 +2427,7 @@
       "definition_translation": "Odkryć lub znaleźć coś lub kogoś",
       "example": "Puedo encontrar mi camino hacia casa",
       "example_translation": "Mogę znaleźć drogę do domu",
-      "imageLink": "https://www.ang.pl/img/slownik/find.jpg",
+      "imageLink": "find.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/find.mp3"
     },
     {
@@ -2441,7 +2440,7 @@
       "definition_translation": "w dobrym stanie zdrowia lub humoru",
       "example": "Estoy bien, gracias.",
       "example_translation": "Jestem dobrze, dziękuję.",
-      "imageLink": "https://www.ang.pl/img/slownik/fine-1.jpg",
+      "imageLink": "fine-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fine.mp3"
     },
     {
@@ -2454,7 +2453,7 @@
       "definition_translation": "zakończyć coś lub zrealizować",
       "example": "Voy a acabar este proyecto esta semana.",
       "example_translation": "Zakończę ten projekt w tym tygodniu.",
-      "imageLink": "https://www.ang.pl/img/slownik/finish.jpg",
+      "imageLink": "finish.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/finish.mp3"
     },
     {
@@ -2467,7 +2466,7 @@
       "definition_translation": "Który zajmuje pierwsze miejsce w sekwencji lub serii",
       "example": "Soy el primero en llegar al partido.",
       "example_translation": "Jestem pierwszym, który przychodzi na mecz.",
-      "imageLink": "https://www.ang.pl/img/slownik/first-1.jpg",
+      "imageLink": "first-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/first.mp3"
     },
     {
@@ -2480,7 +2479,7 @@
       "definition_translation": "który zajmuje pierwsze miejsce w serii lub sukcesji",
       "example": "Ella siempre fue la primera en llegar a la fiesta.",
       "example_translation": "Ona zawsze była pierwszą, która przybywała na imprezę.",
-      "imageLink": "https://www.ang.pl/img/slownik/first.jpg",
+      "imageLink": "first.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/first.mp3"
     },
     {
@@ -2493,7 +2492,7 @@
       "definition_translation": "Zwierzę wodne, które oddycha przez skrzela i ma ciało łuskowe.",
       "example": "Me gustan los pescados frescos en el mercado.",
       "example_translation": "Lubię świeże ryby na targu.",
-      "imageLink": "https://www.ang.pl/img/slownik/fish.jpg",
+      "imageLink": "fish.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fish.mp3"
     },
     {
@@ -2506,7 +2505,7 @@
       "definition_translation": "zwierzę wodne, które oddycha przez skrzela",
       "example": "Me encanta comer pescado en el restaurante",
       "example_translation": "Lubię jeść rybę w restauracji",
-      "imageLink": "https://www.ang.pl/img/slownik/fish-1.jpg",
+      "imageLink": "fish-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fish.mp3"
     },
     {
@@ -2519,7 +2518,7 @@
       "definition_translation": "liczba następująca po czterech i poprzedzająca sześć",
       "example": "Tengo cinco hermanos.",
       "example_translation": "Mam pięciu braci.",
-      "imageLink": "https://www.ang.pl/img/slownik/five.jpg",
+      "imageLink": "five.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/five.mp3"
     },
     {
@@ -2532,7 +2531,7 @@
       "definition_translation": "Płaski i poziomy",
       "example": "El piso de mi apartamento es muy plano.",
       "example_translation": "Podłoga mojego mieszkania jest bardzo płaska.",
-      "imageLink": "https://www.ang.pl/img/slownik/flat.jpg",
+      "imageLink": "flat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/flat.mp3"
     },
     {
@@ -2545,7 +2544,7 @@
       "definition_translation": "Dół pomieszczenia lub zamkniętej przestrzeni",
       "example": "El suelo de madera es muy bonito",
       "example_translation": "Podłoga drewniana jest bardzo ładna",
-      "imageLink": "https://www.ang.pl/img/slownik/floor.jpg",
+      "imageLink": "floor.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/floor.mp3"
     },
     {
@@ -2558,7 +2557,7 @@
       "definition_translation": "Roślina z kwiatami, szczególnie część, która produkuje nasiona",
       "example": "La flor del jardín es muy bonita.",
       "example_translation": "Kwiat w ogrodzie jest bardzo ładny.",
-      "imageLink": "https://www.ang.pl/img/slownik/flower.jpg",
+      "imageLink": "flower.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/flower.mp3"
     },
     {
@@ -2571,7 +2570,7 @@
       "definition_translation": "przenieść się szybko przez powietrze, zwykle z pomocą skrzydeł",
       "example": "El pájaro comenzó a volar hacia su nido.",
       "example_translation": "Ptak zaczął latać w stronę swojego gniazda.",
-      "imageLink": "https://www.ang.pl/img/slownik/fly-3.jpg",
+      "imageLink": "fly-3.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fly.mp3"
     },
     {
@@ -2584,7 +2583,7 @@
       "definition_translation": "postać spożywczą, która się je, aby odżywić ciało",
       "example": "Me encanta la comida mexicana.",
       "example_translation": "Uwielbiam meksykańskie jedzenie.",
-      "imageLink": "https://www.ang.pl/img/slownik/food.jpg",
+      "imageLink": "food.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/food.mp3"
     },
     {
@@ -2597,7 +2596,7 @@
       "definition_translation": "Dolna część ludzkiej nogi",
       "example": "Me duele el pie después de caminar todo el día",
       "example_translation": "Boli mnie noga po całodziennym chodzeniu",
-      "imageLink": "https://www.ang.pl/img/slownik/foot.jpg",
+      "imageLink": "foot.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/foot.mp3"
     },
     {
@@ -2610,7 +2609,7 @@
       "definition_translation": "gra zespołowa, w której używa się okrągłej piłki",
       "example": "Me encanta jugar al fútbol los fines de semana.",
       "example_translation": "Lubię grać w piłkę nożną w weekendy.",
-      "imageLink": "https://www.ang.pl/img/slownik/football.jpg",
+      "imageLink": "football.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/football.mp3"
     },
     {
@@ -2623,7 +2622,7 @@
       "definition_translation": "Przyimek wskazujący kierunek lub cel",
       "example": "Voy para la tienda.",
       "example_translation": "Idę do sklepu.",
-      "imageLink": "https://www.ang.pl/img/slownik/for.jpg",
+      "imageLink": "for.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/for.mp3"
     },
     {
@@ -2636,7 +2635,7 @@
       "definition_translation": "liczba naturalna, która następuje po trzech",
       "example": "Tengo cuatro perros en casa.",
       "example_translation": "Mam cztery psy w domu.",
-      "imageLink": "https://www.ang.pl/img/slownik/four.jpg",
+      "imageLink": "four.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/four.mp3"
     },
     {
@@ -2649,7 +2648,7 @@
       "definition_translation": "Liczba równa 14 jednostkom.",
       "example": "Tengo catorce años.",
       "example_translation": "Mam czternaście lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/fourteen.jpg",
+      "imageLink": "fourteen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fourteen.mp3"
     },
     {
@@ -2662,7 +2661,7 @@
       "definition_translation": "dzień tygodnia między czwartkiem a sobotą",
       "example": "Me reuniré contigo el viernes por la noche.",
       "example_translation": "Spotkam się z tobą w piątek wieczorem.",
-      "imageLink": "https://www.ang.pl/img/slownik/friday.jpg",
+      "imageLink": "friday.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Friday.mp3"
     },
     {
@@ -2675,7 +2674,7 @@
       "definition_translation": "Osoba mająca relację przyjaźni i zaufania z inną",
       "example": "Mi amigo viene a visitarme este fin de semana",
       "example_translation": "Mój przyjaciel przyjeżdża do mnie w tym weekendzie",
-      "imageLink": "https://www.ang.pl/img/slownik/friend.jpg",
+      "imageLink": "friend.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/friend.mp3"
     },
     {
@@ -2688,7 +2687,7 @@
       "definition_translation": "Wskazując punkt wyjściowy procesu lub akcji",
       "example": "Voy desde Madrid hasta Barcelona",
       "example_translation": "Jadę od Madrytu do Barcelony",
-      "imageLink": "https://www.ang.pl/img/slownik/from.jpg",
+      "imageLink": "from.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/from.mp3"
     },
     {
@@ -2701,7 +2700,7 @@
       "definition_translation": "Jadalna część rośliny, zazwyczaj słodka lub soczysta.",
       "example": "Me encanta comer fruta fresca por la mañana.",
       "example_translation": "Lubię jeść świeżą owoc w poranku.",
-      "imageLink": "https://www.ang.pl/img/slownik/fruit.jpg",
+      "imageLink": "fruit.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fruit.mp3"
     },
     {
@@ -2714,7 +2713,7 @@
       "definition_translation": "wywoływać przyjemność lub rozrywkę",
       "example": "Me gusta hacer cosas divertidas en mi tiempo libre.",
       "example_translation": "Lubię robić zabawne rzeczy w wolnym czasie.",
-      "imageLink": "https://www.ang.pl/img/slownik/fun.jpg",
+      "imageLink": "fun.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/fun.mp3"
     },
     {
@@ -2727,7 +2726,7 @@
       "definition_translation": "powoduje śmiech lub radość",
       "example": "Ese chiste es muy divertido.",
       "example_translation": "Ten dowcip jest bardzo śmieszny.",
-      "imageLink": "https://www.ang.pl/img/slownik/funny.jpg",
+      "imageLink": "funny.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/funny.mp3"
     },
     {
@@ -2740,7 +2739,7 @@
       "definition_translation": "Aktywność rozrywkowa, która podlega konkretnym regułom.",
       "example": "Me encanta jugar videojuegos con mis amigos.",
       "example_translation": "Lubię grać w gry wideo z moimi przyjaciółmi.",
-      "imageLink": "https://www.ang.pl/img/slownik/game.jpg",
+      "imageLink": "game.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/game.mp3"
     },
     {
@@ -2753,7 +2752,7 @@
       "definition_translation": "Przestrzeń na świeżym powietrzu przeznaczona do uprawy kwiatów, drzew i innych roślin",
       "example": "Me gusta pasear por el jardín los fines de semana",
       "example_translation": "Lubię spacerować po ogrodzie w weekendy",
-      "imageLink": "https://www.ang.pl/img/slownik/garden.jpg",
+      "imageLink": "garden.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/garden.mp3"
     },
     {
@@ -2766,7 +2765,7 @@
       "definition_translation": "uzyskać coś dzięki wysiłkowi lub działaniu",
       "example": "Voy a get una bebida del refrigerador.",
       "example_translation": "Idź pobierz drinka z lodówki.",
-      "imageLink": "https://www.ang.pl/img/slownik/get.jpg",
+      "imageLink": "get.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/get.mp3"
     },
     {
@@ -2779,7 +2778,7 @@
       "definition_translation": "wstać po spaniu lub siedzeniu",
       "example": "Debes levantarte temprano para ir al trabajo",
       "example_translation": "Musisz wstać wcześnie, aby pójść do pracy",
-      "imageLink": "https://www.ang.pl/img/slownik/get-up.jpg",
+      "imageLink": "get-up.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/get up.mp3"
     },
     {
@@ -2792,7 +2791,7 @@
       "definition_translation": "dziewczyna lub młoda kobieta",
       "example": "La chica come una manzana.",
       "example_translation": "Dziewczyna je jabłko.",
-      "imageLink": "https://www.ang.pl/img/slownik/girl.jpg",
+      "imageLink": "girl.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/girl.mp3"
     },
     {
@@ -2805,7 +2804,7 @@
       "definition_translation": "przekazać lub udostępnić coś komuś",
       "example": "Me gustaría dar las gracias a mi madre.",
       "example_translation": "Chciałbym podziękować mojej matce.",
-      "imageLink": "https://www.ang.pl/img/slownik/give.jpg",
+      "imageLink": "give.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/give.mp3"
     },
     {
@@ -2818,7 +2817,7 @@
       "definition_translation": "przezroczysty i twardy pojemnik, używany do picia lub przechowywania płynów",
       "example": "Pon el vaso de vidrio sobre la mesa.",
       "example_translation": "Położył szklany kubek na stole.",
-      "imageLink": "https://www.ang.pl/img/slownik/glass.jpg",
+      "imageLink": "glass.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/glass.mp3"
     },
     {
@@ -2831,7 +2830,7 @@
       "definition_translation": "Przedmiot, który umieszcza się na oczach, aby poprawić wzrok.",
       "example": "Necesito mis gafas para leer.",
       "example_translation": "Potrzebuję okularów, aby czytać.",
-      "imageLink": "https://www.ang.pl/img/slownik/glasses.jpg",
+      "imageLink": "glasses.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/glasses.mp3"
     },
     {
@@ -2844,7 +2843,7 @@
       "definition_translation": "przenieść się z jednego miejsca do innego",
       "example": "Voy a ir al parque.",
       "example_translation": "Idę do parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/go.jpg",
+      "imageLink": "go.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/go.mp3"
     },
     {
@@ -2857,7 +2856,7 @@
       "definition_translation": "wyjść z miejsca",
       "example": "Voy a salir con amigos esta noche.",
       "example_translation": "Wyjdę z przyjaciółmi tej nocy.",
-      "imageLink": "https://www.ang.pl/img/slownik/go-out.jpg",
+      "imageLink": "go-out.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/go out.mp3"
     },
     {
@@ -2870,7 +2869,7 @@
       "definition_translation": "Wychodzę kupić rzeczy niezbędne lub przyjemności",
       "example": "Mañana voy a ir de compras con mis amigos.",
       "example_translation": "Jutro idę na zakupy z przyjaciółmi.",
-      "imageLink": "https://www.ang.pl/img/slownik/go-shopping.jpg",
+      "imageLink": "go-shopping.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/go shopping.mp3"
     },
     {
@@ -2883,7 +2882,7 @@
       "definition_translation": "Dobrej jakości lub natury.",
       "example": "Este restaurante tiene buena comida.",
       "example_translation": "Ten restauracja ma dobrą żywność.",
-      "imageLink": "https://www.ang.pl/img/slownik/good.jpg",
+      "imageLink": "good.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/good.mp3"
     },
     {
@@ -2896,7 +2895,7 @@
       "definition_translation": "wysokiej jakości lub przyjemny",
       "example": "Este restaurante es muy bueno.",
       "example_translation": "To restauracja jest bardzo dobra.",
-      "imageLink": "https://www.ang.pl/img/slownik/good-1.jpg",
+      "imageLink": "good-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/good.mp3"
     },
     {
@@ -2909,7 +2908,7 @@
       "definition_translation": "wyrażenie używane do pozdrowienia kogoś w południe",
       "example": "¿Cómo estás después de todas buenas tardes?",
       "example_translation": "Jak się masz po wszystkich dobrych wieczorach?",
-      "imageLink": "https://www.ang.pl/img/slownik/good-afternoon.jpg",
+      "imageLink": "good-afternoon.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/good afternoon.mp3"
     },
     {
@@ -2922,7 +2921,7 @@
       "definition_translation": "formalne pozdrowienie, aby życzyć dobrej nocy",
       "example": "Buenas noches, ¿cómo estás?",
       "example_translation": "Dobry wieczór, jak się masz?",
-      "imageLink": "https://www.ang.pl/img/slownik/good-evening.jpg",
+      "imageLink": "good-evening.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/good evening.mp3"
     },
     {
@@ -2935,7 +2934,7 @@
       "definition_translation": "poranny pozdrowienie używane do pozdrawiania kogoś rano",
       "example": "Me dijeron 'buenos días' cuando llegué a la oficina esta mañana.",
       "example_translation": "Powiedzieli mi 'dobrze rano', kiedy przybyłem do biura rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/good-morning.jpg",
+      "imageLink": "good-morning.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/good morning.mp3"
     },
     {
@@ -2948,7 +2947,7 @@
       "definition_translation": "Wyrażenie używane do życzenia komuś dobrej nocy",
       "example": "Me voy a acostar, buenas noches",
       "example_translation": "Idę się położyć, dobranoc",
-      "imageLink": "https://www.ang.pl/img/slownik/good-night.jpg",
+      "imageLink": "good-night.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/good night.mp3"
     },
     {
@@ -2961,7 +2960,7 @@
       "definition_translation": "wyrażenie używane do pożegnania się z kimś",
       "example": "Adiós, nos vemos mañana.",
       "example_translation": "Żegnaj, widzimy się jutro.",
-      "imageLink": "https://www.ang.pl/img/slownik/goodbye.jpg",
+      "imageLink": "goodbye.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/goodbye.mp3"
     },
     {
@@ -2974,7 +2973,7 @@
       "definition_translation": "Trawa rosnąca w ziemi, szczególnie w ogrodach i polach",
       "example": "Me gusta caminar sobre el césped fresco en el parque",
       "example_translation": "Lubię chodzić po świeżej trawie w parku",
-      "imageLink": "https://www.ang.pl/img/slownik/grass.jpg",
+      "imageLink": "grass.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/grass.mp3"
     },
     {
@@ -2987,7 +2986,7 @@
       "definition_translation": "Duża jakość lub znaczenie",
       "example": "Ese restaurante es gran para comer tapas",
       "example_translation": "Torestauracja jest wielka do jedzenia tapas",
-      "imageLink": "https://www.ang.pl/img/slownik/great.jpg",
+      "imageLink": "great.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/great.mp3"
     },
     {
@@ -3000,7 +2999,7 @@
       "definition_translation": "Koloru zielonego, relatywny do koloru zielonego.",
       "example": "El parque está lleno de plantas verdes.",
       "example_translation": "Park jest pełen zieleni.",
-      "imageLink": "https://www.ang.pl/img/slownik/green.jpg",
+      "imageLink": "green.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/green.mp3"
     },
     {
@@ -3013,7 +3012,7 @@
       "definition_translation": "Kolor pośredni między białym a czarnym",
       "example": "El gato gris saltó por encima de la valla.",
       "example_translation": "Szary kot przeskoczył przez płot.",
-      "imageLink": "https://www.ang.pl/img/slownik/grey.jpg",
+      "imageLink": "grey.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/grey.mp3"
     },
     {
@@ -3026,7 +3025,7 @@
       "definition_translation": "Grupa osób lub rzeczy, które mają coś wspólnego",
       "example": "El grupo de amigos se reunió en el parque.",
       "example_translation": "Grupa przyjaciół spotkała się w parku.",
-      "imageLink": "https://www.ang.pl/img/slownik/group.jpg",
+      "imageLink": "group.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/group.mp3"
     },
     {
@@ -3039,7 +3038,7 @@
       "definition_translation": "Instrument muzyczny ze sznurkiem i pudłem rezonansowym, z tyką",
       "example": "Me encanta tocar la guitarra en mi tiempo libre",
       "example_translation": "Lubię grać na gitarze w wolnym czasie",
-      "imageLink": "https://www.ang.pl/img/slownik/guitar.jpg",
+      "imageLink": "guitar.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/guitar.mp3"
     },
     {
@@ -3052,7 +3051,7 @@
       "definition_translation": "Część ciała kryjąca głowę człowieka",
       "example": "Me gusta peinar mi pelo antes de salir",
       "example_translation": "Lubię czesać swoje włosy przed wyjściem",
-      "imageLink": "https://www.ang.pl/img/slownik/hair.jpg",
+      "imageLink": "hair.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hair.mp3"
     },
     {
@@ -3065,7 +3064,7 @@
       "definition_translation": "Wyrażenie używane do wskazania pół godziny ponad określoną godzinę",
       "example": "Son las tres y media.",
       "example_translation": "Są trzy i pół.",
-      "imageLink": "https://www.ang.pl/img/slownik/half-past.jpg",
+      "imageLink": "half-past.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/half past.mp3"
     },
     {
@@ -3078,7 +3077,7 @@
       "definition_translation": "Końcowa część ludzkiej ręki, która służy do chwytania, odczuwania i wykonywania czynności.",
       "example": "Me duele la mano después de escribir tanto.",
       "example_translation": "Boli mnie ręka po tym, jak napisałem tyle.",
-      "imageLink": "https://www.ang.pl/img/slownik/hand.jpg",
+      "imageLink": "hand.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hand.mp3"
     },
     {
@@ -3091,7 +3090,7 @@
       "definition_translation": "uczucie radości lub zadowolenia",
       "example": "Me siento feliz cuando estoy con mis amigos.",
       "example_translation": "Czuję się szczęśliwy, kiedy jestem z przyjaciółmi.",
-      "imageLink": "https://www.ang.pl/img/slownik/happy.jpg",
+      "imageLink": "happy.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/happy.mp3"
     },
     {
@@ -3104,7 +3103,7 @@
       "definition_translation": "Nakrycie głowy, które zakrywa górę głowy i zwykle ma daszek z przodu.",
       "example": "Me gusta llevar sombrero en verano porque me protege del sol.",
       "example_translation": "Lubię nosić kapelusz latem, bo chroni mnie przed słońcem.",
-      "imageLink": "https://www.ang.pl/img/slownik/hat.jpg",
+      "imageLink": "hat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hat.mp3"
     },
     {
@@ -3117,7 +3116,7 @@
       "definition_translation": "Posiadać lub dysponować czymś",
       "example": "Tengo un perro llamado Max",
       "example_translation": "Mam psa o imieniu Max",
-      "imageLink": "https://www.ang.pl/img/slownik/have.jpg",
+      "imageLink": "have.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/have.mp3"
     },
     {
@@ -3130,7 +3129,7 @@
       "definition_translation": "osobowy zaimek męski, odnoszący się do osoby lub zwierzęcia płci męskiej",
       "example": "Él come una manzana.",
       "example_translation": "On je jabłko.",
-      "imageLink": "https://www.ang.pl/img/slownik/he.jpg",
+      "imageLink": "he.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/he.mp3"
     },
     {
@@ -3143,7 +3142,7 @@
       "definition_translation": "górna część ciała ludzkiego, która zawiera mózg",
       "example": "Me duele la cabeza después de leer ese libro.",
       "example_translation": "Boli mnie głowa po przeczytaniu tej książki.",
-      "imageLink": "https://www.ang.pl/img/slownik/head.jpg",
+      "imageLink": "head.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/head.mp3"
     },
     {
@@ -3156,7 +3155,7 @@
       "definition_translation": "Percepcja dźwięku przez słuch.",
       "example": "Ella puede escuchar la música desde su habitación.",
       "example_translation": "Ona może słyszeć muzykę z jej pokoju.",
-      "imageLink": "https://www.ang.pl/img/slownik/hear.jpg",
+      "imageLink": "hear.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hear.mp3"
     },
     {
@@ -3169,7 +3168,7 @@
       "definition_translation": "Powitanie lub wyrażenie uprzejmości, służące do pozdrawiania kogoś",
       "example": "Hola, ¿cómo estás?",
       "example_translation": "Cześć, jak się masz?",
-      "imageLink": "https://www.ang.pl/img/slownik/hello.jpg",
+      "imageLink": "hello.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hello.mp3"
     },
     {
@@ -3182,7 +3181,7 @@
       "definition_translation": "czynność udzielenia pomocy lub wsparcia komuś",
       "example": "Necesito ayuda para llevar este paquete.",
       "example_translation": "Potrzebuję pomocy, aby dostać ten pakiet.",
-      "imageLink": "https://www.ang.pl/img/slownik/help.jpg",
+      "imageLink": "help.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/help.mp3"
     },
     {
@@ -3195,7 +3194,7 @@
       "definition_translation": "Osobowy zaimek żeński, używany do odniesienia się do kobiety lub dziewczyny.",
       "example": "Ella come una manzana.",
       "example_translation": "Ona je jabłko.",
-      "imageLink": "https://www.ang.pl/img/slownik/she.jpg",
+      "imageLink": "she.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/her.mp3"
     },
     {
@@ -3208,7 +3207,7 @@
       "definition_translation": "W tym miejscu lub czasie.",
       "example": "Puedes dejar tu chaqueta aquí.",
       "example_translation": "Możesz zostawić swoją kurtkę tutaj.",
-      "imageLink": "https://www.ang.pl/img/slownik/here.jpg",
+      "imageLink": "here.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/here.mp3"
     },
     {
@@ -3221,7 +3220,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "https://www.ang.pl/img/slownik/hi.jpg",
+      "imageLink": "hi.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hi.mp3"
     },
     {
@@ -3234,7 +3233,7 @@
       "definition_translation": "męski zaimek, który odnosi się do osoby lub rzeczy męskiej",
       "example": "Yo veo a él en la calle.",
       "example_translation": "Widzę go na ulicy.",
-      "imageLink": "https://www.ang.pl/img/slownik/him.jpg",
+      "imageLink": "him.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/him.mp3"
     },
     {
@@ -3247,7 +3246,7 @@
       "definition_translation": "Zaimek męski, odnoszący się do mężczyzny lub zwierzęcia płci męskiej.",
       "example": "Él es muy amable.",
       "example_translation": "On jest bardzo miły.",
-      "imageLink": "https://www.ang.pl/img/slownik/his.jpg",
+      "imageLink": "his.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/his.mp3"
     },
     {
@@ -3260,7 +3259,7 @@
       "definition_translation": "Okres wypoczynku lub rekreacji, szczególnie latem.",
       "example": "Voy a la playa durante las vacaciones.",
       "example_translation": "Jadę nad morze w czasie wakacji.",
-      "imageLink": "https://www.ang.pl/img/slownik/holiday.jpg",
+      "imageLink": "holiday.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/holiday.mp3"
     },
     {
@@ -3273,7 +3272,7 @@
       "definition_translation": "Miejsce, gdzie się mieszka, zwykle z rodziną",
       "example": "Me gusta pasar tiempo en mi casa con mis amigos",
       "example_translation": "Lubię spędzać czas w swoim domu z przyjaciółmi",
-      "imageLink": "https://www.ang.pl/img/slownik/home.jpg",
+      "imageLink": "home.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/home.mp3"
     },
     {
@@ -3286,7 +3285,7 @@
       "definition_translation": "prace, które należy wykonać poza klasą",
       "example": "Debo hacer mi homework para mañana.",
       "example_translation": "Muszę zrobić swoją pracę domową na jutro.",
-      "imageLink": "https://www.ang.pl/img/slownik/homework.jpg",
+      "imageLink": "homework.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/homework.mp3"
     },
     {
@@ -3299,7 +3298,7 @@
       "definition_translation": "Czwórnocki ssak z długą grzywą i długim ogonem, udomowiony przez człowieka od dawna i używany do jazdy lub ciągnięcia powozów.",
       "example": "Voy a montar a caballo por el parque.",
       "example_translation": "Jadę konno przez park.",
-      "imageLink": "https://www.ang.pl/img/slownik/horse.jpg",
+      "imageLink": "horse.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/horse.mp3"
     },
     {
@@ -3312,7 +3311,7 @@
       "definition_translation": "Zakład opieki zdrowotnej, gdzie udzielana jest pomoc medyczna i przeprowadzane są zabiegi chirurgiczne.",
       "example": "El paciente fue ingresado en el hospital ayer.",
       "example_translation": "Pacjent został przyjęty do szpitala wczoraj.",
-      "imageLink": "https://www.ang.pl/img/slownik/hospital.jpg",
+      "imageLink": "hospital.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hospital.mp3"
     },
     {
@@ -3325,7 +3324,7 @@
       "definition_translation": "o wysokiej temperaturze",
       "example": "El café está muy caliente.",
       "example_translation": "Kawa jest zbyt gorąca.",
-      "imageLink": "https://www.ang.pl/img/slownik/hot-2.jpg",
+      "imageLink": "hot-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hot.mp3"
     },
     {
@@ -3338,7 +3337,7 @@
       "definition_translation": "o wysokiej temperaturze; z dużą energią",
       "example": "Este café está muy caliente.",
       "example_translation": "Ta kawa jest zbyt gorąca.",
-      "imageLink": "https://www.ang.pl/img/slownik/hot.jpg",
+      "imageLink": "hot.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hot.mp3"
     },
     {
@@ -3351,7 +3350,7 @@
       "definition_translation": "Budynek, który zapewnia zakwaterowanie podróżnym",
       "example": "Me voy a quedar en un hotel en el centro de la ciudad.",
       "example_translation": "Zamierzam się zatrzymać w hotelu w centrum miasta.",
-      "imageLink": "https://www.ang.pl/img/slownik/hotel-1.jpg",
+      "imageLink": "hotel-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hotel.mp3"
     },
     {
@@ -3364,7 +3363,7 @@
       "definition_translation": "Jednostka czasu równa sześćdziesięciu minutom.",
       "example": "Voy a llegar a las tres horas.",
       "example_translation": "Przybędę o trzeciej godzinie.",
-      "imageLink": "https://www.ang.pl/img/slownik/hour.jpg",
+      "imageLink": "hour.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hour.mp3"
     },
     {
@@ -3377,7 +3376,7 @@
       "definition_translation": "Stała struktura mieszkalna dla osób lub rodzin",
       "example": "Mi casa es grande y Comfortable.",
       "example_translation": "Mój dom jest duży i wygodny.",
-      "imageLink": "https://www.ang.pl/img/slownik/house.jpg",
+      "imageLink": "house.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/house.mp3"
     },
     {
@@ -3390,7 +3389,7 @@
       "definition_translation": "stan braku jedzenia w organizmie",
       "example": "Me muero de hambre después de correr 5 kilómetros.",
       "example_translation": "Umieram z głodu po przebiegnięciu 5 kilometrów.",
-      "imageLink": "https://www.ang.pl/img/slownik/hungry.jpg",
+      "imageLink": "hungry.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/hungry.mp3"
     },
     {
@@ -3403,7 +3402,7 @@
       "definition_translation": "Osoba związana małżeństwem z inną osobą",
       "example": "Mi esposo es ingeniero.",
       "example_translation": "Mój mąż jest inżynierem.",
-      "imageLink": "https://www.ang.pl/img/slownik/husband.jpg",
+      "imageLink": "husband.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/husband.mp3"
     },
     {
@@ -3416,7 +3415,7 @@
       "definition_translation": "Osobowy zaimek, który służy do odniesienia się do samego siebie",
       "example": "Yo como una manzana cada mañana.",
       "example_translation": "Jem jedną jabłko każdego ranka.",
-      "imageLink": "https://www.ang.pl/img/slownik/i.jpg",
+      "imageLink": "i.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/I.mp3"
     },
     {
@@ -3429,7 +3428,7 @@
       "definition_translation": "Słodkie i zimne jedzenie, które jest robione z kremu lub mleka i serwowane jako deser.",
       "example": "Me encanta comer helado en verano.",
       "example_translation": "Lubię jeść lód w lecie.",
-      "imageLink": "https://www.ang.pl/img/slownik/ice-cream.jpg",
+      "imageLink": "ice-cream.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/ice cream.mp3"
     },
     {
@@ -3442,7 +3441,7 @@
       "definition_translation": "Dużego znaczenia lub wagi; który ma dużo wpływu lub władzy",
       "example": "Es importante aprender idiomas para comunicarse con personas de otros países.",
       "example_translation": "Ucz się języków, aby porozumieć się z ludźmi z innych krajów.",
-      "imageLink": "https://www.ang.pl/img/slownik/important.jpg",
+      "imageLink": "important.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/important.mp3"
     },
     {
@@ -3455,7 +3454,7 @@
       "definition_translation": "Przysłówek wskazujący miejsce lub położenie w czymś.",
       "example": "Estoy en la biblioteca.",
       "example_translation": "Jestem w bibliotece.",
-      "imageLink": "https://www.ang.pl/img/slownik/in.jpg",
+      "imageLink": "in.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/in.mp3"
     },
     {
@@ -3468,7 +3467,7 @@
       "definition_translation": "budzący zainteresowanie lub ciekawość",
       "example": "Este documental es muy interesante, deberías verlo.",
       "example_translation": "Ten dokument jest bardzo ciekawy, powinieneś go zobaczyć.",
-      "imageLink": "https://www.ang.pl/img/slownik/interesting.jpg",
+      "imageLink": "interesting.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/interesting.mp3"
     },
     {
@@ -3481,7 +3480,7 @@
       "definition_translation": "Globalny system połączonych sieci komputerowych, które korzystają z protokołu internetowego do komunikacji między sobą.",
       "example": "Me gusta navegar por Internet durante mi tiempo libre.",
       "example_translation": "Lubię przeglądać Internet podczas mojego wolnego czasu.",
-      "imageLink": "https://www.ang.pl/img/slownik/internet.jpg",
+      "imageLink": "internet.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Internet.mp3"
     },
     {
@@ -3494,7 +3493,7 @@
       "definition_translation": "Przymiotnik, który wskazuje na wejście lub penetrację w miejsce lub przestrzeń",
       "example": "Pon la lezna into la tierra",
       "example_translation": "Włożył łopatę w ziemię",
-      "imageLink": "https://www.ang.pl/img/slownik/into.jpg",
+      "imageLink": "into.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/into.mp3"
     },
     {
@@ -3507,7 +3506,7 @@
       "definition_translation": "zaprosić kogoś do udziału w miejscu lub wydarzeniu",
       "example": "Me gustaría invitar a mi hermano a la fiesta.",
       "example_translation": "Chciałbym zaprosić mojego brata na imprezę.",
-      "imageLink": "https://www.ang.pl/img/slownik/invite.jpg",
+      "imageLink": "invite.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/invite.mp3"
     },
     {
@@ -3520,7 +3519,7 @@
       "definition_translation": "Przymiotnik niepolski, odpowiednik 'jego', 'jej' lub 'ich' w zależności od kontekstu",
       "example": "Es un libro sus favorito.",
       "example_translation": "To jego ulubiona książka.",
-      "imageLink": "https://www.ang.pl/img/slownik/its.jpg",
+      "imageLink": "its.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/its.mp3"
     },
     {
@@ -3533,7 +3532,7 @@
       "definition_translation": "pierwszy miesiąc roku",
       "example": "El clima en enero es muy frío en Madrid.",
       "example_translation": "Klimat w styczniu jest bardzo zimny w Madrycie.",
-      "imageLink": "https://www.ang.pl/img/slownik/january.jpg",
+      "imageLink": "january.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/January.mp3"
     },
     {
@@ -3546,7 +3545,7 @@
       "definition_translation": "Spodnie wykonane z tkaniny bawełnianej, charakteryzujące się wytrzymałością i trwałością.",
       "example": "Me gusta llevar tejanos en el verano.",
       "example_translation": "Lubię nosić dżinsy latem.",
-      "imageLink": "https://www.ang.pl/img/slownik/jeans.jpg",
+      "imageLink": "jeans.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/jeans.mp3"
     },
     {
@@ -3559,7 +3558,7 @@
       "definition_translation": "działalność, którą prowadzi się w celu produkcji dóbr lub usług w zamian za wynagrodzenie",
       "example": "Este parece un buen trabajo para mí.",
       "example_translation": "To wydaje się być dobrym zajęciem dla mnie.",
-      "imageLink": "https://www.ang.pl/img/slownik/job.jpg",
+      "imageLink": "job.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/job.mp3"
     },
     {
@@ -3572,7 +3571,7 @@
       "definition_translation": "Słodki i orzeźwiający płyn uzyskany z owoców lub warzyw",
       "example": "Me encanta beber jugo de naranja por la mañana",
       "example_translation": "Lubię pić sok pomarańczowy rano",
-      "imageLink": "https://www.ang.pl/img/slownik/juice.jpg",
+      "imageLink": "juice.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/juice.mp3"
     },
     {
@@ -3585,7 +3584,7 @@
       "definition_translation": "Siódmy miesiąc roku",
       "example": "Me voy de vacaciones en julio",
       "example_translation": "Wyjeżdżam na wakacje w lipcu",
-      "imageLink": "https://www.ang.pl/img/slownik/july.jpg",
+      "imageLink": "july.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/July.mp3"
     },
     {
@@ -3598,7 +3597,7 @@
       "definition_translation": "Szósty miesiąc roku",
       "example": "Me encanta viajar en junio porque hace buen tiempo",
       "example_translation": "Lubię podróżować w czerwcu, bo jest ładna pogoda",
-      "imageLink": "https://www.ang.pl/img/slownik/june.jpg",
+      "imageLink": "june.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/June.mp3"
     },
     {
@@ -3611,7 +3610,7 @@
       "definition_translation": "mały obiekt używany do otwierania lub zamykania zamka",
       "example": "Necesito una clave para abrir este archivo.",
       "example_translation": "Potrzebuję klucza, aby otworzyć ten plik.",
-      "imageLink": "https://www.ang.pl/img/slownik/key.jpg",
+      "imageLink": "key.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/key.mp3"
     },
     {
@@ -3624,7 +3623,7 @@
       "definition_translation": "Uderzyć nogą z siłą.",
       "example": "El jugador de fútbol pateó la pelota con todas sus fuerzas.",
       "example_translation": "Piłkarz kopnął piłkę z całej siły.",
-      "imageLink": "https://www.ang.pl/img/slownik/kick.jpg",
+      "imageLink": "kick.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/kick.mp3"
     },
     {
@@ -3637,7 +3636,7 @@
       "definition_translation": "Pokój w domu, w którym przygotowuje się jedzenie",
       "example": "Me gusta cocinar en mi cocina nueva.",
       "example_translation": "Lubię gotować w mojej nowej kuchni.",
-      "imageLink": "https://www.ang.pl/img/slownik/kitchen.jpg",
+      "imageLink": "kitchen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/kitchen.mp3"
     },
     {
@@ -3650,7 +3649,7 @@
       "definition_translation": "narzędzie z ostrzem do krojenia",
       "example": "Necesito un cuchillo para cortar el pan.",
       "example_translation": "Potrzebuję noża, aby pokroić chleb.",
-      "imageLink": "https://www.ang.pl/img/slownik/knife.jpg",
+      "imageLink": "knife.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/knife.mp3"
     },
     {
@@ -3663,7 +3662,7 @@
       "definition_translation": "Godzina po południu",
       "example": "Voy a llegar tarde al trabajo hoy.",
       "example_translation": "Dziś przyjdę późno do pracy.",
-      "imageLink": "https://www.ang.pl/img/slownik/late-1.jpg",
+      "imageLink": "late-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/late.mp3"
     },
     {
@@ -3676,7 +3675,7 @@
       "definition_translation": "Opóźniony lub przychodzący po oczekiwanej godzinie.",
       "example": "Llegó tarde a la reunión porque se perdió.",
       "example_translation": "Spóźnił się na spotkanie, bo się zgubił.",
-      "imageLink": "https://www.ang.pl/img/slownik/late.jpg",
+      "imageLink": "late.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/late.mp3"
     },
     {
@@ -3689,7 +3688,7 @@
       "definition_translation": "nabywać wiedzy lub umiejętności poprzez naukę lub praktykę",
       "example": "Debes aprender a hablar español para viajar a España.",
       "example_translation": "Musisz nauczyć się mówić po hiszpańsku, aby podróżować do Hiszpanii.",
-      "imageLink": "https://www.ang.pl/img/slownik/learn.jpg",
+      "imageLink": "learn.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/learn.mp3"
     },
     {
@@ -3702,7 +3701,7 @@
       "definition_translation": " odejść, opuścić, zostawić",
       "example": " Necesito dejar mi casa a las 8 para llegar a tiempo al trabajo.",
       "example_translation": "Muszę opuścić mój dom o 8, żeby zdążyć na czas do pracy.",
-      "imageLink": "https://www.ang.pl/img/slownik/leave-1.jpg",
+      "imageLink": "leave-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/leave.mp3"
     },
     {
@@ -3715,7 +3714,7 @@
       "definition_translation": "Część ludzkiego ciała od biodra do stopy.",
       "example": "Me duele la pierna después de correr.",
       "example_translation": "Boli mnie noga po biegu.",
-      "imageLink": "https://www.ang.pl/img/slownik/leg.jpg",
+      "imageLink": "leg.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/leg.mp3"
     },
     {
@@ -3728,7 +3727,7 @@
       "definition_translation": "Lekcja to jednostka nauczania, która jest przeprowadzana w klasie lub sesji.",
       "example": "La próxima lección será sobre la independencia de América Latina.",
       "example_translation": "Następna lekcja będzie o niepodległości Ameryki Łacińskiej.",
-      "imageLink": "https://www.ang.pl/img/slownik/lesson.jpg",
+      "imageLink": "lesson.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/lesson.mp3"
     },
     {
@@ -3741,7 +3740,7 @@
       "definition_translation": "Pismo lub wiadomość skierowana do kogoś.",
       "example": "Escribí una carta a mi amigo para felicitarlo por su cumpleaños.",
       "example_translation": "Napisałem list do mojego przyjaciela, aby pogratulować mu urodzin.",
-      "imageLink": "https://www.ang.pl/img/slownik/letter-1.jpg",
+      "imageLink": "letter-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/letter.mp3"
     },
     {
@@ -3754,7 +3753,7 @@
       "definition_translation": "źródło naturalnego lub sztucznego światła",
       "example": "La habitación necesita más luz.",
       "example_translation": "Pokój potrzebuje więcej światła.",
-      "imageLink": "https://www.ang.pl/img/slownik/light-2.jpg",
+      "imageLink": "light-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/light.mp3"
     },
     {
@@ -3767,7 +3766,7 @@
       "definition_translation": "czuć sympatię lub atrakcję do kogoś lub czegoś",
       "example": "Me gusta leer libros en mi tiempo libre.",
       "example_translation": "Lubię czytać książki w wolnym czasie.",
-      "imageLink": "https://www.ang.pl/img/slownik/like.jpg",
+      "imageLink": "like.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/like.mp3"
     },
     {
@@ -3780,7 +3779,7 @@
       "definition_translation": "Uwaga na coś lub kogoś, aby zrozumieć lub usłyszeć",
       "example": "Debes escuchar atentamente al profesor para entender la lección.",
       "example_translation": "Musisz uważnie słuchać profesora, aby zrozumieć lekcję.",
-      "imageLink": "https://www.ang.pl/img/slownik/listen.jpg",
+      "imageLink": "listen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/listen.mp3"
     },
     {
@@ -3793,7 +3792,7 @@
       "definition_translation": "o wielkości zmniejszonej lub nieznacznej",
       "example": "Este niño es muy poco para subir solo en bicicleta.",
       "example_translation": "Ten chłopiec jest zbyt mały, aby jeździć sam na rowerze.",
-      "imageLink": "https://www.ang.pl/img/slownik/little.jpg",
+      "imageLink": "little.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/little.mp3"
     },
     {
@@ -3806,7 +3805,7 @@
       "definition_translation": "Pokój w domu przeznaczony do przyjmowania gości lub na życie towarzyskie",
       "example": "Me encanta sentarme en el salón a leer un libro",
       "example_translation": "Uwielbiam siedzieć w salonie i czytać książkę",
-      "imageLink": "https://www.ang.pl/img/slownik/living-room.jpg",
+      "imageLink": "living-room.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/living room.mp3"
     },
     {
@@ -3819,7 +3818,7 @@
       "definition_translation": "rozciągnięty lub wydłużony w przestrzeni",
       "example": "El río es muy largo y ancho.",
       "example_translation": "Rzeka jest bardzo długa i szeroka.",
-      "imageLink": "https://www.ang.pl/img/slownik/long.jpg",
+      "imageLink": "long.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/long.mp3"
     },
     {
@@ -3832,7 +3831,7 @@
       "definition_translation": "Skierować swój wzrok w określonym kierunku.",
       "example": "El niño mira la televisión.",
       "example_translation": "Chłopiec ogląda telewizję.",
-      "imageLink": "https://www.ang.pl/img/slownik/look.jpg",
+      "imageLink": "look.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/look.mp3"
     },
     {
@@ -3845,7 +3844,7 @@
       "definition_translation": "duża ilość czegoś",
       "example": "Me gustan los libros mucho.",
       "example_translation": "Lubię książki bardzo.",
-      "imageLink": "https://www.ang.pl/img/slownik/lots.jpg",
+      "imageLink": "lots.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/lots / a lot.mp3"
     },
     {
@@ -3858,7 +3857,7 @@
       "definition_translation": "Intensywne uczucie sympatii, przywiązania lub afektu wobec kogoś lub czegoś",
       "example": "El amor es la respuesta a todos los problemas del mundo.",
       "example_translation": "Miłość jest odpowiedzią na wszystkie problemy świata.",
-      "imageLink": "https://www.ang.pl/img/slownik/love-1.jpg",
+      "imageLink": "love-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/love.mp3"
     },
     {
@@ -3871,7 +3870,7 @@
       "definition_translation": "Intensywne uczucie miłości i sympatii do kogoś lub czegoś.",
       "example": "El amor entre dos personas puede ser muy hermoso.",
       "example_translation": "Miłość między dwiema osobami może być bardzo piękna.",
-      "imageLink": "https://www.ang.pl/img/slownik/love.jpg",
+      "imageLink": "love.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/love.mp3"
     },
     {
@@ -3884,7 +3883,7 @@
       "definition_translation": "Podczas śniadania",
       "example": "Voy a ir al restaurante para almorzar.",
       "example_translation": "Idę do restauracji na obiad.",
-      "imageLink": "https://www.ang.pl/img/slownik/lunch.jpg",
+      "imageLink": "lunch.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/lunch.mp3"
     },
     {
@@ -3897,7 +3896,7 @@
       "definition_translation": "Stworzyć lub zbudować coś",
       "example": "Voy a hacer una torta para mi cumpleaños.",
       "example_translation": "Zrobię tortę na mój urodziny.",
-      "imageLink": "https://www.ang.pl/img/slownik/make.jpg",
+      "imageLink": "make.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/make.mp3"
     },
     {
@@ -3910,7 +3909,7 @@
       "definition_translation": "Osoba dorosła płci męskiej",
       "example": "El hombre caminó por la calle.",
       "example_translation": "Mężczyzna szedł ulicą.",
-      "imageLink": "https://www.ang.pl/img/slownik/man.jpg",
+      "imageLink": "man.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/man.mp3"
     },
     {
@@ -3923,7 +3922,7 @@
       "definition_translation": "Duża liczba osób lub rzeczy.",
       "example": "Tengo muchos amigos en la ciudad.",
       "example_translation": "Mam wielu przyjaciół w mieście.",
-      "imageLink": "https://www.ang.pl/img/slownik/many.jpg",
+      "imageLink": "many.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/many.mp3"
     },
     {
@@ -3936,7 +3935,7 @@
       "definition_translation": "Miesiąc roku, który rozpoczął się 1 marca i zakończył 31 marca.",
       "example": "El invierno termina en marzo en el hemisferio norte.",
       "example_translation": "Zima kończy się w marcu na półkuli północnej.",
-      "imageLink": "https://www.ang.pl/img/slownik/march.jpg",
+      "imageLink": "march.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/March.mp3"
     },
     {
@@ -3949,7 +3948,7 @@
       "definition_translation": "Miesiąc roku między kwietniem a czerwcem",
       "example": "El clima en mayo es cálido en la mayoría de los países.",
       "example_translation": "Klimat w maju jest ciepły w większości krajów.",
-      "imageLink": "https://www.ang.pl/img/slownik/may.jpg",
+      "imageLink": "may.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/May.mp3"
     },
     {
@@ -3962,7 +3961,7 @@
       "definition_translation": "imienna forma osobista, która odnosi się do mówiącego",
       "example": "Me duele la cabeza.",
       "example_translation": "Boli mnie głowa.",
-      "imageLink": "https://www.ang.pl/img/slownik/me.jpg",
+      "imageLink": "me.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/me.mp3"
     },
     {
@@ -3975,7 +3974,7 @@
       "definition_translation": "Pokarm spożyty w określonym czasie",
       "example": "Voy a preparar la comida para esta noche.",
       "example_translation": "Przygotuję posiłek na dzisiejszy wieczór.",
-      "imageLink": "https://www.ang.pl/img/slownik/meal.jpg",
+      "imageLink": "meal.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/meal.mp3"
     },
     {
@@ -3988,7 +3987,7 @@
       "definition_translation": "Jadalna część zwierząt, takich jak ssaki, ptaki lub ryby.",
       "example": "Me encanta comer carne asada.",
       "example_translation": "Uwielbiam jeść pieczone mięso.",
-      "imageLink": "https://www.ang.pl/img/slownik/meat.jpg",
+      "imageLink": "meat.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/meat.mp3"
     },
     {
@@ -4001,7 +4000,7 @@
       "definition_translation": "mieć znajomość lub relację z kimś lub czymś",
       "example": "Me alegra conocer a mis nuevos vecinos.",
       "example_translation": "Cieszy mnie poznanie moich nowych sąsiadów.",
-      "imageLink": "https://www.ang.pl/img/slownik/meet-1.jpg",
+      "imageLink": "meet-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/meet.mp3"
     },
     {
@@ -4014,7 +4013,7 @@
       "definition_translation": "mieć spotkanie lub zebranie z kimś",
       "example": "Me gusta conocer gente nueva.",
       "example_translation": "Lubię spotykać nowych ludzi.",
-      "imageLink": "https://www.ang.pl/img/slownik/meet-2.jpg",
+      "imageLink": "meet-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/meet.mp3"
     },
     {
@@ -4027,7 +4026,7 @@
       "definition_translation": "Komunikat pisemny lub ustny, który jest wysyłany z jednej osoby do drugiej",
       "example": "Envíame un mensaje cuando llegues a casa.",
       "example_translation": "Wyślij mi wiadomość, gdy dotrzesz do domu.",
-      "imageLink": "https://www.ang.pl/img/slownik/message.jpg",
+      "imageLink": "message.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/message.mp3"
     },
     {
@@ -4040,7 +4039,7 @@
       "definition_translation": "Biała cieczka produkowana przez gruczoły mleczne samic ssaków, używana jako pokarm przez ssaki.",
       "example": "Me gusta beber leche en el desayuno.",
       "example_translation": "Lubię pić mleko na śniadanie.",
-      "imageLink": "https://www.ang.pl/img/slownik/milk.jpg",
+      "imageLink": "milk.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/milk.mp3"
     },
     {
@@ -4053,7 +4052,7 @@
       "definition_translation": "Jednostka czasu równa sześćdziesięciu sekundom.",
       "example": "Voy a reunirme con mis amigos en una hora y un minuto.",
       "example_translation": "Spotkam się z przyjaciółmi za godzinę i minutę.",
-      "imageLink": "https://www.ang.pl/img/slownik/minute.jpg",
+      "imageLink": "minute.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/minute.mp3"
     },
     {
@@ -4066,7 +4065,7 @@
       "definition_translation": "Tytuł grzecznościowy dla młodej kobiety niezamężnej",
       "example": "La señorita Smith es la profesora de inglés.",
       "example_translation": "Panna Smith jest nauczycielem angielskiego.",
-      "imageLink": "https://www.ang.pl/img/slownik/miss-3.jpg",
+      "imageLink": "miss-3.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Miss.mp3"
     },
     {
@@ -4079,7 +4078,7 @@
       "definition_translation": "przenośny elektroniczny urządzenie umożliwiające wykonywanie połączeń i wysyłanie wiadomości",
       "example": "Me encanta utilizar mi móvil para chequear mis correos electrónicos",
       "example_translation": "Uwielbiam korzystać z mojego komórki, aby sprawdzić moje e-maile",
-      "imageLink": "https://www.ang.pl/img/slownik/mobile.jpg",
+      "imageLink": "mobile.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/mobile.mp3"
     },
     {
@@ -4092,7 +4091,7 @@
       "definition_translation": "Przenośne urządzenie elektroniczne umożliwiające wykonywanie połączeń i wysyłanie wiadomości tekstowych",
       "example": "Me gusta llevar mi teléfono móvil siempre conmigo.",
       "example_translation": "Lubię zawsze nosić ze sobą mój telefon komórkowy.",
-      "imageLink": "https://www.ang.pl/img/slownik/mobile-phone.jpg",
+      "imageLink": "mobile-phone.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/mobile phone.mp3"
     },
     {
@@ -4105,7 +4104,7 @@
       "definition_translation": "pierwszy dzień tygodnia",
       "example": "Me gusta salir a correr los lunes por la mañana.",
       "example_translation": "Lubię biegać w poniedziałki rano.",
-      "imageLink": "https://www.ang.pl/img/slownik/monday.jpg",
+      "imageLink": "monday.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Monday.mp3"
     },
     {
@@ -4118,7 +4117,7 @@
       "definition_translation": "powszechnie akceptowany środek wymiany",
       "example": "Necesito dinero para ir al cine.",
       "example_translation": "Potrzebuję pieniędzy, aby pójść do kina.",
-      "imageLink": "https://www.ang.pl/img/slownik/money.jpg",
+      "imageLink": "money.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/money.mp3"
     },
     {
@@ -4131,7 +4130,7 @@
       "definition_translation": "Okres czasu trwający około 30 lub 31 dni",
       "example": "El mes que viene voy de vacaciones.",
       "example_translation": "W przyszłym miesiącu wyjeżdżam na wakacje.",
-      "imageLink": "https://www.ang.pl/img/slownik/month.jpg",
+      "imageLink": "month.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/month.mp3"
     },
     {
@@ -4144,7 +4143,7 @@
       "definition_translation": "Okres dnia, który obejmuje od wschodu słońca do południa",
       "example": "Buenos días, ¿cómo estás esta mañana?",
       "example_translation": "Dzień dobry, jak sobie radzisz rano?",
-      "imageLink": "https://www.ang.pl/img/slownik/morning.jpg",
+      "imageLink": "morning.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/morning.mp3"
     },
     {
@@ -4157,7 +4156,7 @@
       "definition_translation": "Matka jest kobiecą postacią, która daje życie i opiekuje się dzieckiem.",
       "example": "Mi madre es muy amable.",
       "example_translation": "Moja matka jest bardzo miła.",
-      "imageLink": "https://www.ang.pl/img/slownik/mother.jpg",
+      "imageLink": "mother.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/mother.mp3"
     },
     {
@@ -4170,7 +4169,7 @@
       "definition_translation": "Naturalny otwór ciała, przez który przyjmujemy pożywienie i wydalamy powietrze.",
       "example": "Abre la boca para comer.",
       "example_translation": "Otwórz usta, aby jeść.",
-      "imageLink": "https://www.ang.pl/img/slownik/mouth.jpg",
+      "imageLink": "mouth.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/mouth.mp3"
     },
     {
@@ -4183,7 +4182,7 @@
       "definition_translation": "dzieło filmowe, które jest emitowane na ekranie",
       "example": "Me encanta ir al cine a ver películas de acción.",
       "example_translation": "Uwielbiam chodzić do kina, aby oglądać filmy akcji.",
-      "imageLink": "https://www.ang.pl/img/slownik/movie.jpg",
+      "imageLink": "movie.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/movie.mp3"
     },
     {
@@ -4196,7 +4195,7 @@
       "definition_translation": "Tytuł szacunku używany wobec mężczyzny",
       "example": "¿Cómo se llama, señor?",
       "example_translation": "Jak się nazywa, pan?",
-      "imageLink": "https://www.ang.pl/img/slownik/mr.jpg",
+      "imageLink": "mr.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Mr.mp3"
     },
     {
@@ -4209,7 +4208,7 @@
       "definition_translation": "Termin szacunku używany do zwracania się do zamężnej kobiety",
       "example": "La Sra. González es mi profesora de español.",
       "example_translation": "Pani González jest moją nauczycielką hiszpańskiego.",
-      "imageLink": "https://www.ang.pl/img/slownik/mrs.jpg",
+      "imageLink": "mrs.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/Mrs.mp3"
     },
     {
@@ -4222,7 +4221,7 @@
       "definition_translation": "duża ilość lub stopień czegoś",
       "example": "Tengo mucho trabajo que hacer hoy.",
       "example_translation": "Mam dużo pracy do zrobienia dzisiaj.",
-      "imageLink": "https://www.ang.pl/img/slownik/much.jpg",
+      "imageLink": "much.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/much.mp3"
     },
     {
@@ -4235,7 +4234,7 @@
       "definition_translation": "Matka osoby",
       "example": "Me quiero a mi mamá.",
       "example_translation": "Kocham swoją mamę.",
-      "imageLink": "https://www.ang.pl/img/slownik/mum.jpg",
+      "imageLink": "mum.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/mum.mp3"
     },
     {
@@ -4248,7 +4247,7 @@
       "definition_translation": "Budynek lub instytucja, która przechowuje i eksponuje obiekty o znaczeniu historycznym, naukowym lub artystycznym.",
       "example": "El museo nacional es un lugar muy interesante para visitar.",
       "example_translation": "Narodowe muzeum jest bardzo interesującym miejscem do zwiedzenia.",
-      "imageLink": "https://www.ang.pl/img/slownik/museum.jpg",
+      "imageLink": "museum.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/museum.mp3"
     },
     {
@@ -4261,7 +4260,7 @@
       "definition_translation": "sztuka łączenia dźwięków, aby stworzyć doświadczenie estetyczne",
       "example": "Me encanta escuchar música clásica",
       "example_translation": "Uwielbiam słuchać muzyki klasycznej",
-      "imageLink": "https://www.ang.pl/img/slownik/music.jpg",
+      "imageLink": "music.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/music.mp3"
     },
     {
@@ -4274,7 +4273,7 @@
       "definition_translation": "przymiotnik wskazujący na przynależność lub relację",
       "example": "Este es mi libro.",
       "example_translation": "To jest moja książka.",
-      "imageLink": "https://www.ang.pl/img/slownik/my.jpg",
+      "imageLink": "my.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/my.mp3"
     },
     {
@@ -4287,7 +4286,7 @@
       "definition_translation": "Własne imię osoby lub miejsca.",
       "example": "Mi nombre es Juan.",
       "example_translation": "Nazywam się Jan.",
-      "imageLink": "https://www.ang.pl/img/slownik/name.jpg",
+      "imageLink": "name.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/name.mp3"
     },
     {
@@ -4300,7 +4299,7 @@
       "definition_translation": "Przynależność do narodu lub grupy etnicznej",
       "example": "Mi nacionalidad es española.",
       "example_translation": "Moja narodowość jest hiszpańska.",
-      "imageLink": "https://www.ang.pl/img/slownik/nationality.jpg",
+      "imageLink": "nationality.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/nationality.mp3"
     },
     {
@@ -4313,7 +4312,7 @@
       "definition_translation": "znajdujący się w bliskim sąsiedztwie czegoś",
       "example": "Estoy cerca de la playa.",
       "example_translation": "Jestem blisko plaży.",
-      "imageLink": "https://www.ang.pl/img/slownik/near.jpg",
+      "imageLink": "near.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/near.mp3"
     },
     {
@@ -4326,7 +4325,7 @@
       "definition_translation": "mieć potrzebę czegoś",
       "example": "Necesito ayuda para llevar este peso.",
       "example_translation": "Potrzebuję pomocy aby unieść ten ciężar.",
-      "imageLink": "https://www.ang.pl/img/slownik/need.jpg",
+      "imageLink": "need.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/need.mp3"
     },
     {
@@ -4339,7 +4338,7 @@
       "definition_translation": "Przysłówek, który neguje czynność lub sytuację w przeszłości lub przyszłości",
       "example": "Nunca he probado sushi.",
       "example_translation": "Nigdy nie próbowałem sushi.",
-      "imageLink": "https://www.ang.pl/img/slownik/never.jpg",
+      "imageLink": "never.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/never.mp3"
     },
     {
@@ -4352,7 +4351,7 @@
       "definition_translation": "Niedawno, nie istniał wcześniej",
       "example": "Este es un nuevo modelo de coche.",
       "example_translation": "To jest nowy model samochodu.",
-      "imageLink": "https://www.ang.pl/img/slownik/new.jpg",
+      "imageLink": "new.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/new.mp3"
     },
     {
@@ -4365,7 +4364,7 @@
       "definition_translation": "Czasopismo, które zajmuje się wiadomościami i artykułami dotyczącymi bieżących wydarzeń.",
       "example": "Me gusta leer el periódico todos los días por la mañana.",
       "example_translation": "Lubię czytać gazetę każdego ranka.",
-      "imageLink": "https://www.ang.pl/img/slownik/newspaper-1.jpg",
+      "imageLink": "newspaper-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/newspaper.mp3"
     },
     {
@@ -4378,7 +4377,7 @@
       "definition_translation": "Który występuje lub następuje później lub następnie.",
       "example": "El próximo capítulo es el más emocionante.",
       "example_translation": "Następny rozdział jest najbardziej emocjonujący.",
-      "imageLink": "https://www.ang.pl/img/slownik/next.jpg",
+      "imageLink": "next.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/next.mp3"
     },
     {
@@ -4391,7 +4390,7 @@
       "definition_translation": "Przyjemny, miły",
       "example": "Ella es una persona muy amable.",
       "example_translation": "Ona jest bardzo miłą osobą.",
-      "imageLink": "https://www.ang.pl/img/slownik/nice.jpg",
+      "imageLink": "nice.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/nice.mp3"
     },
     {
@@ -4404,7 +4403,7 @@
       "definition_translation": "Okres czasu między zachodem słońca a świtem.",
       "example": "Voy a salir esta noche con mis amigos.",
       "example_translation": "Wychodzę tej nocy z przyjaciółmi.",
-      "imageLink": "https://www.ang.pl/img/slownik/night.jpg",
+      "imageLink": "night.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/night.mp3"
     },
     {
@@ -4417,7 +4416,7 @@
       "definition_translation": "Liczbę naturalną, która następuje po ośmiu i poprzedza dziesięć",
       "example": "Tengo nueve años.",
       "example_translation": "Mam dziewięć lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/nine.jpg",
+      "imageLink": "nine.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/nine.mp3"
     },
     {
@@ -4430,7 +4429,7 @@
       "definition_translation": "Liczbę naturalną, która następuje po osiemnastu i poprzedza dwadzieścia.",
       "example": "Tengo diecinueve años.",
       "example_translation": "Mam dziewiętnaście lat.",
-      "imageLink": "https://www.ang.pl/img/slownik/nineteen.jpg",
+      "imageLink": "nineteen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/nineteen.mp3"
     },
     {
@@ -4443,7 +4442,7 @@
       "definition_translation": "Przysłówek, który wskazuje na negację lub odrzucenie",
       "example": "No voy al cine hoy.",
       "example_translation": "Nie idę do kina dzisiaj.",
-      "imageLink": "https://www.ang.pl/img/slownik/no.jpg",
+      "imageLink": "no.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/no.mp3"
     },
     {
@@ -4456,7 +4455,7 @@
       "definition_translation": "Głośny i nieprzyjemny dźwięk, który może być wyprodukowany przez każde źródło",
       "example": "El ruido de la ciudad puede ser muy estresante.",
       "example_translation": "Hałas miasta może być bardzo stresujący.",
-      "imageLink": "https://www.ang.pl/img/slownik/noise.jpg",
+      "imageLink": "noise.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/noise.mp3"
     },
     {
@@ -4469,7 +4468,7 @@
       "definition_translation": "Organolfacyjny w twarzy",
       "example": "Me duele la nariz.",
       "example_translation": "Boli mnie nos.",
-      "imageLink": "https://www.ang.pl/img/slownik/nose.jpg",
+      "imageLink": "nose.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/nose.mp3"
     },
     {
@@ -4482,7 +4481,7 @@
       "definition_translation": "Przysłówek wyrażający negację lub nieistnienie",
       "example": "No es verdad, no es noticia.",
       "example_translation": " Nie jest to prawdą, nie jest wiadomością.",
-      "imageLink": "https://www.ang.pl/img/slownik/not.jpg",
+      "imageLink": "not.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/not.mp3"
     },
     {
@@ -4495,7 +4494,7 @@
       "definition_translation": "Zapisek lub krótkie wyjaśnienie czegoś",
       "example": "Deja una nota en la mesa para recordar la cita",
       "example_translation": "Zostaw notkę na stole, aby przypomnieć o spotkaniu",
-      "imageLink": "https://www.ang.pl/img/slownik/note-1.jpg",
+      "imageLink": "note-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/note.mp3"
     },
     {
@@ -4508,7 +4507,7 @@
       "definition_translation": "Jedenasty miesiąc roku w kalendarzu gregoriańskim",
       "example": "Me encanta viajar en noviembre porque hay menos turistas",
       "example_translation": "Lubię podróżować w listopadzie, bo jest mniejszy ruch turystyczny",
-      "imageLink": "https://www.ang.pl/img/slownik/november.jpg",
+      "imageLink": "november.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/November.mp3"
     },
     {
@@ -4521,7 +4520,7 @@
       "definition_translation": "W tej chwili",
       "example": "Voy a comer ahora.",
       "example_translation": "Teraz zjem.",
-      "imageLink": "https://www.ang.pl/img/slownik/now.jpg",
+      "imageLink": "now.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/now.mp3"
     },
     {
@@ -4534,7 +4533,7 @@
       "definition_translation": "Liczba, która wyraża ilość lub wielkość.",
       "example": "El número pi es un número irracional.",
       "example_translation": "Liczba pi jest liczbą irracjonalną.",
-      "imageLink": "https://www.ang.pl/img/slownik/number.jpg",
+      "imageLink": "number.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/number.mp3"
     },
     {
@@ -4547,7 +4546,7 @@
       "definition_translation": "wyrażenie używane do wskazania dokładnej godziny",
       "example": "Me reuniré contigo a las tres en punto.",
       "example_translation": "Spotkam się z tobą o trzechточnie.",
-      "imageLink": "https://www.ang.pl/img/slownik/oclock.jpg",
+      "imageLink": "oclock.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/o'clock.mp3"
     },
     {
@@ -4560,7 +4559,7 @@
       "definition_translation": "dziesiąty miesiąc roku",
       "example": "El otoño comienza en octubre en el hemisferio norte.",
       "example_translation": "Jesień rozpoczyna się w październiku na półkuli północnej.",
-      "imageLink": "https://www.ang.pl/img/slownik/october.jpg",
+      "imageLink": "october.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/October.mp3"
     },
     {
@@ -4573,7 +4572,7 @@
       "definition_translation": "Przymiotnik określający właśność, pochodzenie lub materiał",
       "example": "El libro es de mi hermano.",
       "example_translation": "Książka jest mojego brata.",
-      "imageLink": "https://www.ang.pl/img/slownik/of.jpg",
+      "imageLink": "of.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/of.mp3"
     },
     {
@@ -4586,7 +4585,7 @@
       "definition_translation": "Wyrażający zgodę lub potwierdzenie",
       "example": "Sí, por supuesto, voy al cine esta noche.",
       "example_translation": "Tak, oczywiście, idę do kina tej nocy.",
-      "imageLink": "https://www.ang.pl/img/slownik/of-course.jpg",
+      "imageLink": "of-course.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/of course.mp3"
     },
     {
@@ -4599,7 +4598,7 @@
       "definition_translation": "często, bardzo często.",
       "example": "Yo como frutas a menudo.",
       "example_translation": "Jem owoce często.",
-      "imageLink": "https://www.ang.pl/img/slownik/often.jpg",
+      "imageLink": "often.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/often.mp3"
     },
     {
@@ -4612,7 +4611,7 @@
       "definition_translation": "wykrzyknik wyrażający zdziwienie lub ból",
       "example": "Oh, qué hermoso día!",
       "example_translation": "O, jaki piękny dzień!",
-      "imageLink": "https://www.ang.pl/img/slownik/oh.jpg",
+      "imageLink": "oh.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/oh.mp3"
     },
     {
@@ -4625,7 +4624,7 @@
       "definition_translation": "Wyrażenie używane do wyrażenia zgody lub akceptacji.",
       "example": "¿Quieres ir al cine? OK, vayamos.",
       "example_translation": "Czy chcesz iść do kina? OK, idźmy.",
-      "imageLink": "https://www.ang.pl/img/slownik/ok-okay.jpg",
+      "imageLink": "ok-okay.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/OK / okay.mp3"
     },
     {
@@ -4638,7 +4637,7 @@
       "definition_translation": "Wielu lat lub długiego użytkowania.",
       "example": "Mi abuelo es muy viejo y necesita ayuda.",
       "example_translation": "Mój dziadek jest już bardzo stary i potrzebuje pomocy.",
-      "imageLink": "https://www.ang.pl/img/slownik/old-1.jpg",
+      "imageLink": "old-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/old.mp3"
     },
     {
@@ -4651,7 +4650,7 @@
       "definition_translation": "mający żyć lub istnieć przez długi czas; nie już młody",
       "example": "Mi abuelo es un hombre viejo.",
       "example_translation": "Mój dziadek jest starym mężczyzną.",
-      "imageLink": "https://www.ang.pl/img/slownik/old.jpg",
+      "imageLink": "old.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/old.mp3"
     },
     {
@@ -4664,7 +4663,7 @@
       "definition_translation": "Przymiotnik, który wskazuje położenie lub sytuację na czymś",
       "example": "Estoy sentado en el sofá.",
       "example_translation": "Siedzę na kanapie.",
-      "imageLink": "https://www.ang.pl/img/slownik/on.jpg",
+      "imageLink": "on.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/on.mp3"
     },
     {
@@ -4677,7 +4676,7 @@
       "definition_translation": "Liczba wyrażająca minimalną lub jednostkową ilość",
       "example": " Necesito uno más de estos lápices.",
       "example_translation": "Potrzebuję jeszcze jednego z tych ołówków.",
-      "imageLink": "https://www.ang.pl/img/slownik/one.jpg",
+      "imageLink": "one.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/one.mp3"
     },
     {
@@ -4690,7 +4689,7 @@
       "definition_translation": "Przysłówek, który wskazuje, że coś jest jedyny lub wyłączny.",
       "example": "Este es el único libro que necesito.",
       "example_translation": "To jest jedyna książka, której potrzebuję.",
-      "imageLink": "https://www.ang.pl/img/slownik/only.jpg",
+      "imageLink": "only.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/only.mp3"
     },
     {
@@ -4703,7 +4702,7 @@
       "definition_translation": " Tylko, wyłącznie ",
       "example": "Sólo necesito un poco de ayuda.",
       "example_translation": "Tylko potrzebuję trochę pomocy.",
-      "imageLink": "https://www.ang.pl/img/slownik/only-1.jpg",
+      "imageLink": "only-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/only.mp3"
     },
     {
@@ -4716,7 +4715,7 @@
       "definition_translation": " Nie zamknięty lub dostępny",
       "example": "La tienda está abierta todos los días.",
       "example_translation": "Sklep jest otwarty codziennie.",
-      "imageLink": "https://www.ang.pl/img/slownik/open-3.jpg",
+      "imageLink": "open-3.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/open.mp3"
     },
     {
@@ -4729,7 +4728,7 @@
       "definition_translation": "Czynność sprawia, że coś jest dostępne lub widoczne",
       "example": "Necesito abrir la puerta para salir",
       "example_translation": "Muszę otworzyć drzwi, aby wyjść",
-      "imageLink": "https://www.ang.pl/img/slownik/open-2.jpg",
+      "imageLink": "open-2.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/open.mp3"
     },
     {
@@ -4742,7 +4741,7 @@
       "definition_translation": "Spójnik, który wskazuje na opcję lub alternatywę",
       "example": "Puedes tomar un café o té.",
       "example_translation": "Możesz wziąć kawę lub herbatę.",
-      "imageLink": "https://www.ang.pl/img/slownik/or.jpg",
+      "imageLink": "or.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/or.mp3"
     },
     {
@@ -4755,7 +4754,7 @@
       "definition_translation": "Jadalny owoc o pomarańczowym kolorze",
       "example": "Me encanta comer naranjas en verano.",
       "example_translation": "Uwielbiam jeść pomarańcze latem.",
-      "imageLink": "https://www.ang.pl/img/slownik/orange-1.jpg",
+      "imageLink": "orange-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/orange.mp3"
     },
     {
@@ -4768,7 +4767,7 @@
       "definition_translation": "Owoc koloru pomarańczowego, soczysty i jadalny",
       "example": "Me encanta comer naranjas frescas en verano.",
       "example_translation": "Lubię jeść świeże pomarańcze latem.",
-      "imageLink": "https://www.ang.pl/img/slownik/orange.jpg",
+      "imageLink": "orange.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/orange.mp3"
     },
     {
@@ -4781,7 +4780,7 @@
       "definition_translation": "Ożywczy napój zrobiony z soku pomarańczowego",
       "example": "Me gustaría beber un vaso de orange juice para desayunar",
       "example_translation": "Chciałbym wypić kubek soku pomarańczowego na śniadanie",
-      "imageLink": "https://www.ang.pl/img/slownik/orange-juice.jpg",
+      "imageLink": "orange-juice.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/orange juice.mp3"
     },
     {
@@ -4794,7 +4793,7 @@
       "definition_translation": "Który nie jest taki sam czy nie jest równy innemu lub innym.",
       "example": "Este libro es otro que el que leí la semana pasada.",
       "example_translation": "Ta książka jest inna niż ta, którą czytałem w zeszłym tygodniu.",
-      "imageLink": "https://www.ang.pl/img/slownik/other.jpg",
+      "imageLink": "other.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/other.mp3"
     },
     {
@@ -4807,7 +4806,7 @@
       "definition_translation": "Należy lub odnosi się do nas.",
       "example": "Este es nuestro coche.",
       "example_translation": "To jest nasz samochód.",
-      "imageLink": "https://www.ang.pl/img/slownik/our.jpg",
+      "imageLink": "our.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/our.mp3"
     },
     {
@@ -4820,7 +4819,7 @@
       "definition_translation": "Po południu, odnosi się do godziny po południu.",
       "example": "La reunión será a las 2 p.m.",
       "example_translation": "Spotkanie będzie o 2 po południu.",
-      "imageLink": "https://www.ang.pl/img/slownik/pm.jpg",
+      "imageLink": "pm.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/p.m..mp3"
     },
     {
@@ -4833,7 +4832,7 @@
       "definition_translation": "Strona to jednostka zawartości w dokumencie, książce lub stronie internetowej.",
       "example": "Abre la página 5 del manual.",
       "example_translation": "Otwórz stronę 5 instrukcji obsługi.",
-      "imageLink": "https://www.ang.pl/img/slownik/page.jpg",
+      "imageLink": "page.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/page.mp3"
     },
     {
@@ -4846,7 +4845,7 @@
       "definition_translation": "malować lub pokryć powierzchnię substancją barwiącą",
       "example": "Voy a pintar la pared de mi habitación de azul.",
       "example_translation": "Będę malował ścianę mojego pokoju na niebiesko.",
-      "imageLink": "https://www.ang.pl/img/slownik/paint.jpg",
+      "imageLink": "paint.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/paint.mp3"
     },
     {
@@ -4859,7 +4858,7 @@
       "definition_translation": "nakładać warstwy farby na powierzchnię",
       "example": "Voy a pintar la habitación de azul.",
       "example_translation": "Będę malował pokój na niebiesko.",
-      "imageLink": "https://www.ang.pl/img/slownik/paint-1.jpg",
+      "imageLink": "paint-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/paint.mp3"
     },
     {
@@ -4872,7 +4871,7 @@
       "definition_translation": "Materiał zrobiony z rozdrobnionych włókien roślinnych,通常wykorzystywany do pisania lub drukowania.",
       "example": "Necesito papel para hacer mi tarea.",
       "example_translation": "Potrzebuję papieru, aby zrobić swoją pracę domową.",
-      "imageLink": "https://www.ang.pl/img/slownik/paper.jpg",
+      "imageLink": "paper.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/paper.mp3"
     },
     {
@@ -4885,7 +4884,7 @@
       "definition_translation": "przepraszać lub wybaczać komuś błąd lub winę",
       "example": "Puedes pedir pardon por tu error.",
       "example_translation": "Możesz przeprosić za swój błąd.",
-      "imageLink": "https://www.ang.pl/img/slownik/pardon.jpg",
+      "imageLink": "pardon.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pardon.mp3"
     },
     {
@@ -4898,7 +4897,7 @@
       "definition_translation": "Osoba, która rodzi dziecko; przodek",
       "example": "Mi padre es muy amable",
       "example_translation": "Mój ojciec jest bardzo mili",
-      "imageLink": "https://www.ang.pl/img/slownik/parent.jpg",
+      "imageLink": "parent.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/parent.mp3"
     },
     {
@@ -4911,7 +4910,7 @@
       "definition_translation": "Rodzice są przodkami danej osoby.",
       "example": "Mis padres siempre me apoyan.",
       "example_translation": "Moja rodzice zawsze mnie wspierają.",
-      "imageLink": "https://www.ang.pl/img/slownik/parents.jpg",
+      "imageLink": "parents.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/parents.mp3"
     },
     {
@@ -4924,7 +4923,7 @@
       "definition_translation": "Publiczne miejsce z zielenią i urządzeniami rekreacyjnymi",
       "example": "Me gusta pasear por el parque los domingos",
       "example_translation": "Lubię spacerować po parku w niedziele",
-      "imageLink": "https://www.ang.pl/img/slownik/park.jpg",
+      "imageLink": "park.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/park.mp3"
     },
     {
@@ -4937,7 +4936,7 @@
       "definition_translation": "Część czegoś, porcja lub fragment",
       "example": "Me falta una parte del rompecabezas",
       "example_translation": "Brakuje mi jednej części układanki",
-      "imageLink": "https://www.ang.pl/img/slownik/part-1.jpg",
+      "imageLink": "part-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/part.mp3"
     },
     {
@@ -4950,7 +4949,7 @@
       "definition_translation": "Spotkanie towarzyskie lub celebration z muzyką, jedzeniem i napojami.",
       "example": "Vamos a la fiesta de cumpleaños de mi amigo.",
       "example_translation": "Idziemy na urodziny mojego przyjaciela.",
-      "imageLink": "https://www.ang.pl/img/slownik/party.jpg",
+      "imageLink": "party.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/party.mp3"
     },
     {
@@ -4963,7 +4962,7 @@
       "definition_translation": "płacić pieniądze w zamian za coś",
       "example": "Tengo que pagar la cuenta del restaurante.",
       "example_translation": "Muszę zapłacić rachunek za restaurację.",
-      "imageLink": "https://www.ang.pl/img/slownik/pay.jpg",
+      "imageLink": "pay.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pay.mp3"
     },
     {
@@ -4976,7 +4975,7 @@
       "definition_translation": "Narzędzie do pisania lub rysowania atramentem.",
       "example": "Necesito una pluma para firmar este documento.",
       "example_translation": "Potrzebuję pióra, aby podpisać ten dokument.",
-      "imageLink": "https://www.ang.pl/img/slownik/pen.jpg",
+      "imageLink": "pen.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pen.mp3"
     },
     {
@@ -4989,7 +4988,7 @@
       "definition_translation": "Przedmiot używany do pisania lub rysowania, składający się z miękkiego i kolorowego materiału znajdującego się w drewnianej lub plastikowej osłonie.",
       "example": "Necesito un lápiz para hacer mi tarea.",
       "example_translation": "Potrzebuję ołówka, aby wykonać zadanie.",
-      "imageLink": "https://www.ang.pl/img/slownik/pencil.jpg",
+      "imageLink": "pencil.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pencil.mp3"
     },
     {
@@ -5002,7 +5001,7 @@
       "definition_translation": "Pojemnik na przechowywanie ołówków, długopisów i innych przyborów piśmiennych",
       "example": "Necesito mi estuche de lápices para la clase de matemáticas",
       "example_translation": "Potrzebuję mojego pudełka ołówkowego na lekcję matematyki",
-      "imageLink": "https://www.ang.pl/img/slownik/pencil-case.jpg",
+      "imageLink": "pencil-case.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pencil case.mp3"
     },
     {
@@ -5015,7 +5014,7 @@
       "definition_translation": "Człowiek, osoba będąca częścią społeczności lub społeczeństwa.",
       "example": "La gente corre por la calle.",
       "example_translation": "Ludzie biegną ulicą.",
-      "imageLink": "https://www.ang.pl/img/slownik/people.jpg",
+      "imageLink": "people.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/people.mp3"
     },
     {
@@ -5028,7 +5027,7 @@
       "definition_translation": "indywidualny człowiek rozważany z różnych stron, jako byt racjonalny, społeczny, emocjonalny itp.",
       "example": "La persona que viene detrás de mí es mi amigo.",
       "example_translation": "Osoba stojąca za mną to mój przyjaciel.",
-      "imageLink": "https://www.ang.pl/img/slownik/person.jpg",
+      "imageLink": "person.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/person.mp3"
     },
     {
@@ -5041,7 +5040,7 @@
       "definition_translation": "Zwierzę utrzymywane w domu jako towarzysz.",
       "example": "Mi hija quiere tener una mascota para cuidar.",
       "example_translation": "Moja córka chce mieć zwierzę domowe, aby się nim opiekować.",
-      "imageLink": "https://www.ang.pl/img/slownik/pet.jpg",
+      "imageLink": "pet.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pet.mp3"
     },
     {
@@ -5054,7 +5053,7 @@
       "definition_translation": "Urządzenie, które umożliwia wykonywanie połączeń i wysyłanie wiadomości",
       "example": "Necesito mi teléfono para contactar con mi familia.",
       "example_translation": "Potrzebuję mojego telefonu, aby skontaktować się z rodziną.",
-      "imageLink": "https://www.ang.pl/img/slownik/phone.jpg",
+      "imageLink": "phone.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/phone.mp3"
     },
     {
@@ -5067,7 +5066,7 @@
       "definition_translation": "urządzenie umożliwiające wykonywanie połączeń na odległość",
       "example": "Necesito mi teléfono para hacer una llamada.",
       "example_translation": "Potrzebuję mojego telefonu, aby zrobić połączenie.",
-      "imageLink": "https://www.ang.pl/img/slownik/phone-1.jpg",
+      "imageLink": "phone-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/phone.mp3"
     },
     {
@@ -5080,7 +5079,7 @@
       "definition_translation": "Obraz stworzony za pomocą aparatu",
       "example": "Me encanta mirar las fotos de mis vacaciones",
       "example_translation": "Lubię oglądać zdjęcia z moich wakacji",
-      "imageLink": "https://www.ang.pl/img/slownik/photo.jpg",
+      "imageLink": "photo.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/photo.mp3"
     },
     {
@@ -5093,7 +5092,7 @@
       "definition_translation": "Jedzenie na świeżym powietrzu,通常 w parku lub obszarze zielonym.",
       "example": "Vamos a hacer un picnic en el parque este fin de semana.",
       "example_translation": "Zrobimy piknik w parku tego weekendu.",
-      "imageLink": "https://www.ang.pl/img/slownik/picnic.jpg",
+      "imageLink": "picnic.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/picnic.mp3"
     },
     {
@@ -5106,7 +5105,7 @@
       "definition_translation": "Obraz lub figura rysowana lub drukowana na powierzchni",
       "example": "La chica miraba una picture en su teléfono.",
       "example_translation": "Dziewczyna oglądała zdjęcie na swoim telefonie.",
-      "imageLink": "https://www.ang.pl/img/slownik/picture.jpg",
+      "imageLink": "picture.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/picture.mp3"
     },
     {
@@ -5119,7 +5118,7 @@
       "definition_translation": "domowy, wszystkożerny ssak hodowany dla mięsa",
       "example": "El cerdo come muchas verduras.",
       "example_translation": "Świnia je dużo warzyw.",
-      "imageLink": "https://www.ang.pl/img/slownik/pig.jpg",
+      "imageLink": "pig.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pig.mp3"
     },
     {
@@ -5132,7 +5131,7 @@
       "definition_translation": "Włoskie danie przygotowane z mąki, wody, soli i oleju, wypiekane w piecu i zwykle pokryte pomidorem, serem i innymi składnikami.",
       "example": "Me encanta comer pizza los fines de semana.",
       "example_translation": "Lubię jeść pizzę w weekendy.",
-      "imageLink": "https://www.ang.pl/img/slownik/pizza.jpg",
+      "imageLink": "pizza.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/pizza.mp3"
     },
     {
@@ -5145,7 +5144,7 @@
       "definition_translation": "Określone miejsce, w którym coś się znajduje lub dzieje.",
       "example": "Este lugar es muy bonito.",
       "example_translation": "To miejsce jest bardzo ładne.",
-      "imageLink": "https://www.ang.pl/img/slownik/place.jpg",
+      "imageLink": "place.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/place.mp3"
     },
     {
@@ -5158,7 +5157,7 @@
       "definition_translation": "Samolot transportujący ludzi lub towary",
       "example": "El avión despegó con un retraso de dos horas.",
       "example_translation": "Samolot wystartował z dwugodzinnym opóźnieniem.",
-      "imageLink": "https://www.ang.pl/img/slownik/plane.jpg",
+      "imageLink": "plane.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/plane.mp3"
     },
     {
@@ -5171,7 +5170,7 @@
       "definition_translation": "Roślina; żywiący się organizm, który rośnie w ziemi",
       "example": "La planta de mi jardín es muy bonita.",
       "example_translation": "Roślina w moim ogrodzie jest bardzo ładna.",
-      "imageLink": "https://www.ang.pl/img/slownik/plant-1.jpg",
+      "imageLink": "plant-1.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/plant.mp3"
     },
     {
@@ -5184,7 +5183,7 @@
       "definition_translation": "Płaski, okrągły przedmiot używany do serwowania jedzenia.",
       "example": "Puse el plato en la mesa.",
       "example_translation": "Postawiłem talerz na stole.",
-      "imageLink": "https://www.ang.pl/img/slownik/plate.jpg",
+      "imageLink": "plate.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/plate.mp3"
     },
     {
@@ -5197,8 +5196,7 @@
       "definition_translation": " Wykonywać czynność rozrywkową lub rozrywkę",
       "example": "Los niños están jugando fuera.",
       "example_translation": "Dzieci bawią się na zewnątrz.",
-      "imageLink": "https://www.ang.pl/img/slownik/play-5.jpg",
+      "imageLink": "play-5.jpg",
       "audioLink": "https://www.ang.pl/sound/dict/play.mp3"
     }
   ]
-}

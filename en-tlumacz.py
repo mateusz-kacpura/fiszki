@@ -8,10 +8,10 @@ from colorama import init, Fore
 
 init(autoreset=True)
 # Ścieżka do katalogu z plikami wejściowymi
-input_dir = r"C:\Users\engli\fiszki\fiszki\uploads\EN-RU"
+input_dir = r"C:\Users\engli\fiszki\fiszki\uploads\EN-FR"
 
 # Ścieżka do katalogu z plikami wyjściowymi
-output_dir = r"C:\Users\engli\fiszki\fiszki\translated\DE-RU"
+output_dir = r"C:\Users\engli\fiszki\fiszki\translated\DE-FR"
 
 # File paths and API key
 API_KEY = "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"

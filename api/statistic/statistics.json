@@ -8703,5 +8703,285 @@
     "sentence": "The temperature exceeded 30 degrees Celsius.",
     "correct": true,
     "timestamp": "2024-08-03T10:10:31.284Z"
+  },
+  {
+    "sentence": "Two, three, and five are prime numbers.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:16:45.355Z"
+  },
+  {
+    "sentence": "In your CV, mention skills relevant to the job.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:20:35.058Z"
+  },
+  {
+    "sentence": "I urge you to reconsider your decision.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:21:53.142Z"
+  },
+  {
+    "sentence": "The bird circles round the tree.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:22:56.424Z"
+  },
+  {
+    "sentence": "You can deduct expenses from your income.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:29:45.298Z"
+  },
+  {
+    "sentence": "His behavior deviates from the norm.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:30:29.280Z"
+  },
+  {
+    "sentence": "Candidates must be numerate and have good analytical skills.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:31:17.818Z"
+  },
+  {
+    "sentence": "Round 3/4 up to 1.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:38:55.727Z"
+  },
+  {
+    "sentence": "He is known for his reliable methods.",
+    "correct": true,
+    "timestamp": "2024-08-03T10:41:05.991Z"
+  },
+  {
+    "sentence": "The results reflect the participants' true feelings.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:17:26.220Z"
+  },
+  {
+    "sentence": "Round 3/4 up to 1.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:17:39.859Z"
+  },
+  {
+    "sentence": "The numbers on both reports should tally.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:18:34.020Z"
+  },
+  {
+    "sentence": "The outcome of the experiment may vary depending on the conditions.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:19:57.370Z"
+  },
+  {
+    "sentence": "He has perfected his painting technique.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:20:18.744Z"
+  },
+  {
+    "sentence": "She qualified as a nurse last year.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:20:39.788Z"
+  },
+  {
+    "sentence": "The numbers on both reports should tally.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:21:02.115Z"
+  },
+  {
+    "sentence": "He dropped out of college to start his own business.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:21:35.404Z"
+  },
+  {
+    "sentence": "The new marketing strategy proved to be very effective.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:22:28.165Z"
+  },
+  {
+    "sentence": "I am writing with reference to your job advertisement.",
+    "correct": true,
+    "timestamp": "2024-08-03T12:24:05.838Z"
+  },
+  {
+    "sentence": "In this histogram, the bar width also varies to indicate different values.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:49:01.446Z"
+  },
+  {
+    "sentence": "She is pursuing a master's degree in psychology.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:51:09.554Z"
+  },
+  {
+    "sentence": "The instructions are provided directly below the image.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:51:39.404Z"
+  },
+  {
+    "sentence": "The price of oil has fallen recently.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:52:07.952Z"
+  },
+  {
+    "sentence": "Check the map at this point to see where we are.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:56:54.122Z"
+  },
+  {
+    "sentence": "The weather can affect crop yields.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:57:26.889Z"
+  },
+  {
+    "sentence": "The company's profits went up by 20%.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:57:57.622Z"
+  },
+  {
+    "sentence": "The company's profits continue to grow.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:58:15.576Z"
+  },
+  {
+    "sentence": "He explained the process in detail.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:58:56.821Z"
+  },
+  {
+    "sentence": "The proposal was soundly rejected.",
+    "correct": true,
+    "timestamp": "2024-08-03T13:59:09.905Z"
+  },
+  {
+    "sentence": "Make a rough guess of how many people will come.",
+    "correct": true,
+    "timestamp": "2024-08-03T14:01:44.455Z"
+  },
+  {
+    "sentence": "The x axis shows the months of the year.",
+    "correct": true,
+    "timestamp": "2024-08-03T14:02:17.315Z"
+  },
+  {
+    "sentence": "Her achievements in the field are impressive.",
+    "correct": true,
+    "timestamp": "2024-08-03T14:02:36.271Z"
+  },
+  {
+    "sentence": "She qualified as a nurse last year.",
+    "correct": true,
+    "timestamp": "2024-08-03T14:02:52.782Z"
+  },
+  {
+    "sentence": "She is a talented musician.",
+    "correct": true,
+    "timestamp": "2024-08-03T14:03:03.567Z"
+  },
+  {
+    "sentence": "The approximate distance between the two cities is 200 miles.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:10:13.119Z"
+  },
+  {
+    "sentence": "The situation is under control.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:11:19.655Z"
+  },
+  {
+    "sentence": "The experiment was conducted under controlled conditions.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:12:00.365Z"
+  },
+  {
+    "sentence": "He got the job through a recruitment agency.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:12:32.456Z"
+  },
+  {
+    "sentence": "Many people in the city cycle to work.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:13:03.022Z"
+  },
+  {
+    "sentence": "The festival follows a traditional method of celebration.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:14:11.512Z"
+  },
+  {
+    "sentence": "The solution works in practice.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:14:43.855Z"
+  },
+  {
+    "sentence": "The word figure can also mean a shape or form.",
+    "correct": true,
+    "timestamp": "2024-08-03T15:16:09.270Z"
+  },
+  {
+    "sentence": "He is a self-motivated individual who always strives for the best.",
+    "correct": true,
+    "timestamp": "2024-08-03T16:22:10.122Z"
+  },
+  {
+    "sentence": "They conducted a casual study to get some initial insights.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:25:47.245Z"
+  },
+  {
+    "sentence": "The study attempts to disprove the theory.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:26:07.865Z"
+  },
+  {
+    "sentence": "The political winds are blowing in a different direction now.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:27:48.645Z"
+  },
+  {
+    "sentence": "All our staff members are computer-literate.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:49:21.519Z"
+  },
+  {
+    "sentence": "All our staff members are computer-literate.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:49:26.647Z"
+  },
+  {
+    "sentence": "She qualified as a nurse last year.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:49:43.770Z"
+  },
+  {
+    "sentence": "The results varied over the period studied.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:49:55.810Z"
+  },
+  {
+    "sentence": "Me encanta leer libros en mi tiempo libre.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:50:34.518Z"
+  },
+  {
+    "sentence": "Me gusta relajarme en un ba\u00f1o caliente despu\u00e9s de un largo d\u00eda.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:50:45.408Z"
+  },
+  {
+    "sentence": "Me gusta cocinar pizzas los fines de semana.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:50:59.191Z"
+  },
+  {
+    "sentence": "Me gustar\u00eda beber un vaso de agua.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:51:03.712Z"
+  },
+  {
+    "sentence": "Tengo nueve a\u00f1os.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:51:07.800Z"
+  },
+  {
+    "sentence": "Me encanta pasear por el parque por la tarde.",
+    "correct": true,
+    "timestamp": "2024-08-03T18:51:14.664Z"
   }
 ]
