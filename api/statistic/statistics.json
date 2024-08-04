@@ -8983,5 +8983,340 @@
     "sentence": "Me encanta pasear por el parque por la tarde.",
     "correct": true,
     "timestamp": "2024-08-03T18:51:14.664Z"
+  },
+  {
+    "word": "dog\u0142\u0119bny",
+    "correct": true,
+    "timestamp": "2024-08-04T07:03:35.278Z"
+  },
+  {
+    "word": "ilo\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-08-04T07:03:46.410Z"
+  },
+  {
+    "word": "zwi\u0119\u017ale",
+    "correct": false,
+    "timestamp": "2024-08-04T07:04:21.818Z"
+  },
+  {
+    "word": "krytyczne my\u015blenie",
+    "correct": false,
+    "timestamp": "2024-08-04T07:04:26.215Z"
+  },
+  {
+    "word": "osoby z tego samego kr\u0119gu",
+    "correct": true,
+    "timestamp": "2024-08-04T07:04:30.567Z"
+  },
+  {
+    "word": "wzrost warto\u015bci",
+    "correct": true,
+    "timestamp": "2024-08-04T07:05:09.815Z"
+  },
+  {
+    "word": "w celu",
+    "correct": false,
+    "timestamp": "2024-08-04T07:05:34.800Z"
+  },
+  {
+    "word": "porz\u0105dek znacz\u0105cy",
+    "correct": false,
+    "timestamp": "2024-08-04T07:05:38.642Z"
+  },
+  {
+    "word": "wybrany",
+    "correct": true,
+    "timestamp": "2024-08-04T07:05:40.430Z"
+  },
+  {
+    "word": "szczyt",
+    "correct": false,
+    "timestamp": "2024-08-04T07:05:47.641Z"
+  },
+  {
+    "word": "s\u0105siaduj\u0105cy",
+    "correct": true,
+    "timestamp": "2024-08-04T07:05:52.682Z"
+  },
+  {
+    "word": "kwoty",
+    "correct": true,
+    "timestamp": "2024-08-04T07:09:23.709Z"
+  },
+  {
+    "word": "by\u0142o ok. 4x wi\u0119cej ni\u017c",
+    "correct": true,
+    "timestamp": "2024-08-04T07:09:40.236Z"
+  },
+  {
+    "word": "spadek",
+    "correct": false,
+    "timestamp": "2024-08-04T07:10:24.748Z"
+  },
+  {
+    "word": "utrzymanie/obs\u0142uga techniczna",
+    "correct": true,
+    "timestamp": "2024-08-04T07:10:27.954Z"
+  },
+  {
+    "word": "wyst\u0119puje",
+    "correct": false,
+    "timestamp": "2024-08-04T07:10:52.145Z"
+  },
+  {
+    "word": "ilo\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-08-04T07:10:55.281Z"
+  },
+  {
+    "word": "w\u015br\u00f3d kt\u00f3rych b\u0119dzie",
+    "correct": true,
+    "timestamp": "2024-08-04T07:11:15.098Z"
+  },
+  {
+    "word": "wzr\u00f3s\u0142 wy\u017cej ni\u017c/przekroczy\u0142",
+    "correct": true,
+    "timestamp": "2024-08-04T07:11:38.017Z"
+  },
+  {
+    "word": "o\u015b pozioma wskazuje",
+    "correct": true,
+    "timestamp": "2024-08-04T07:11:52.128Z"
+  },
+  {
+    "word": "niewykwalifikowani",
+    "correct": true,
+    "timestamp": "2024-08-04T07:20:19.589Z"
+  },
+  {
+    "word": "zmienna losowa",
+    "correct": true,
+    "timestamp": "2024-08-04T07:20:33.908Z"
+  },
+  {
+    "word": "znacznie wi\u0119cej m\u0119\u017cczyzn stanowi\u0142o",
+    "correct": true,
+    "timestamp": "2024-08-04T07:20:48.436Z"
+  },
+  {
+    "word": "w kontrolowanych warunkach",
+    "correct": true,
+    "timestamp": "2024-08-04T07:21:04.200Z"
+  },
+  {
+    "word": "znacznie wi\u0119cej m\u0119\u017cczyzn stanowi\u0142o",
+    "correct": true,
+    "timestamp": "2024-08-04T07:22:32.116Z"
+  },
+  {
+    "word": "zmotywowany",
+    "correct": true,
+    "timestamp": "2024-08-04T07:23:58.481Z"
+  },
+  {
+    "word": "bior\u0105c pod uwag\u0119",
+    "correct": false,
+    "timestamp": "2024-08-04T07:24:10.726Z"
+  },
+  {
+    "word": "",
+    "correct": true,
+    "timestamp": "2024-08-04T07:24:12.940Z"
+  },
+  {
+    "word": "przeprowadzenie",
+    "correct": true,
+    "timestamp": "2024-08-04T07:25:21.631Z"
+  },
+  {
+    "word": "podej\u015bcie, metoda",
+    "correct": false,
+    "timestamp": "2024-08-04T07:26:18.159Z"
+  },
+  {
+    "word": "prawid\u0142owo",
+    "correct": true,
+    "timestamp": "2024-08-04T07:43:30.806Z"
+  },
+  {
+    "word": "oblicz liczb\u0119",
+    "correct": true,
+    "timestamp": "2024-08-04T07:47:11.304Z"
+  },
+  {
+    "word": "we w\u0142a\u015bciwym obszarze",
+    "correct": true,
+    "timestamp": "2024-08-04T07:47:33.896Z"
+  },
+  {
+    "word": "sumowanie",
+    "correct": true,
+    "timestamp": "2024-08-04T07:48:08.372Z"
+  },
+  {
+    "word": "gospodarstwa domowe",
+    "correct": true,
+    "timestamp": "2024-08-04T07:48:46.725Z"
+  },
+  {
+    "word": "w przeciwie\u0144stwie do",
+    "correct": true,
+    "timestamp": "2024-08-04T07:49:54.956Z"
+  },
+  {
+    "word": "dwukrotnie",
+    "correct": false,
+    "timestamp": "2024-08-04T07:50:12.333Z"
+  },
+  {
+    "word": "rozwa\u017cania",
+    "correct": false,
+    "timestamp": "2024-08-04T07:51:32.832Z"
+  },
+  {
+    "word": "poruszone kwestie",
+    "correct": false,
+    "timestamp": "2024-08-04T07:51:44.142Z"
+  },
+  {
+    "word": "we w\u0142a\u015bciwym obszarze",
+    "correct": false,
+    "timestamp": "2024-08-04T07:52:34.177Z"
+  },
+  {
+    "word": "zgodnie z zasadami",
+    "correct": true,
+    "timestamp": "2024-08-04T07:55:05.329Z"
+  },
+  {
+    "word": "wydaje si\u0119 w",
+    "correct": true,
+    "timestamp": "2024-08-04T07:55:19.371Z"
+  },
+  {
+    "word": "kontynuowa\u0107",
+    "correct": true,
+    "timestamp": "2024-08-04T07:56:01.274Z"
+  },
+  {
+    "word": "stanowi\u0105",
+    "correct": false,
+    "timestamp": "2024-08-04T08:01:52.624Z"
+  },
+  {
+    "word": "konserwatywny",
+    "correct": true,
+    "timestamp": "2024-08-04T08:02:16.173Z"
+  },
+  {
+    "word": "pr\u00f3bka",
+    "correct": true,
+    "timestamp": "2024-08-04T08:03:29.831Z"
+  },
+  {
+    "word": "zmienna",
+    "correct": true,
+    "timestamp": "2024-08-04T08:05:42.914Z"
+  },
+  {
+    "word": "oblicz liczb\u0119",
+    "correct": true,
+    "timestamp": "2024-08-04T08:05:55.218Z"
+  },
+  {
+    "word": "dodatkowo",
+    "correct": true,
+    "timestamp": "2024-08-04T08:06:06.091Z"
+  },
+  {
+    "word": "niewykwalifikowani",
+    "correct": true,
+    "timestamp": "2024-08-04T08:06:13.620Z"
+  },
+  {
+    "word": "popyt",
+    "correct": true,
+    "timestamp": "2024-08-04T08:06:31.718Z"
+  },
+  {
+    "word": "podr\u00f3\u017c z powrotem do",
+    "correct": true,
+    "timestamp": "2024-08-04T08:06:38.868Z"
+  },
+  {
+    "word": "obiektywny",
+    "correct": true,
+    "timestamp": "2024-08-04T08:07:20.155Z"
+  },
+  {
+    "word": "w kontrolowanych warunkach",
+    "correct": true,
+    "timestamp": "2024-08-04T08:07:26.064Z"
+  },
+  {
+    "word": "solidnie/stanowczo",
+    "correct": true,
+    "timestamp": "2024-08-04T08:07:31.861Z"
+  },
+  {
+    "word": "minimum",
+    "correct": true,
+    "timestamp": "2024-08-04T08:14:48.727Z"
+  },
+  {
+    "word": "wzrost",
+    "correct": true,
+    "timestamp": "2024-08-04T08:14:53.966Z"
+  },
+  {
+    "word": "badanie terenowe",
+    "correct": true,
+    "timestamp": "2024-08-04T08:15:01.954Z"
+  },
+  {
+    "word": "replikuje",
+    "correct": true,
+    "timestamp": "2024-08-04T08:17:24.449Z"
+  },
+  {
+    "word": "stanowi\u0105",
+    "correct": true,
+    "timestamp": "2024-08-04T08:17:33.216Z"
+  },
+  {
+    "word": "sztuczne",
+    "correct": true,
+    "timestamp": "2024-08-04T08:17:44.260Z"
+  },
+  {
+    "word": "podej\u015bcie, metoda",
+    "correct": true,
+    "timestamp": "2024-08-04T08:17:51.020Z"
+  },
+  {
+    "word": "alternatywna",
+    "correct": true,
+    "timestamp": "2024-08-04T08:17:56.804Z"
+  },
+  {
+    "word": "zmotywowany",
+    "correct": true,
+    "timestamp": "2024-08-04T08:18:02.522Z"
+  },
+  {
+    "word": "average difference from the norm",
+    "correct": true,
+    "timestamp": "2024-08-04T08:18:13.043Z"
+  },
+  {
+    "word": "wa\u017cenie",
+    "correct": true,
+    "timestamp": "2024-08-04T08:18:37.804Z"
+  },
+  {
+    "word": "rygorystyczny",
+    "correct": true,
+    "timestamp": "2024-08-04T08:18:46.597Z"
   }
 ]

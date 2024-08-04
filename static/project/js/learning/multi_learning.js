@@ -110,11 +110,17 @@ function checkTranslation(userTranslation, correctTranslation) {
           const resultModal = new bootstrap.Modal(document.getElementById('resultModal'));
           resultModal.show();
 
-          if (ttsCheckbox.checked && !audioCheckbox.checked) {
-              playTextToSpeech(userTranslation);
-          }
+          //if (ttsCheckbox.checked && !audioCheckbox.checked) {
+          //    playTextToSpeech(userTranslation);
+          //}
           if (audioCheckbox.checked && ttsCheckbox.checked) {
-              playTextToSpeech(correctTranslation);
+              // Select the element with the class "word-to-translate"
+              let element = document.querySelector('.word-to-translate');
+
+              // Get the text content of the selected element
+              let text = element.textContent.trim();
+              console.log("Odtwarzam", text)
+              playTextToSpeech(text);
           }
 
           sendStatistic({
@@ -122,6 +128,17 @@ function checkTranslation(userTranslation, correctTranslation) {
               correct: isCorrect,
               timestamp: timestamp
           });
+
+          setTimeout(() => {
+              $('#resultModal').modal('hide');
+              $('#resultModal').on('hidden.bs.modal', () => {
+                  const modal = document.getElementById('resultModal');
+                  if (modal) {
+                      modal.remove();
+                  }
+                  generateRandomWord();
+              });
+          }, 3000);
       })
       .catch(error => console.error('Error loading modal:', error));
 }
