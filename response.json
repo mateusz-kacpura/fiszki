@@ -1,58 +1,29 @@
-Here is the translated data in Spanish:
+Here is the data in JSON format with the translations in Spanish:
 
 ```
 [
     {
-        "word": "cooperativa",
-        "definition": "Dispuesta a trabajar juntos y ayudarse mutuamente.",
-        "example": "El banco cooperativo ayudó a la comunidad financieramente. Ayer, el equipo fue cooperativo durante la reunión. En el futuro, las dos empresas formarán una sociedad cooperativa."
+        "word": "Tauro",
+        "definition": "El segundo signo del zodiaco, que se representa con el símbolo del toro. Las personas nacidas entre el 20 de abril y el 20 de mayo se consideran Tauros.",
+        "example": "Soy un Tauro, así que amo la estabilidad y la seguridad. He estado trabajando en la misma empresa durante cinco años, y planeo comprar una casa el año próximo. El mes pasado, fui de vacaciones al campo, y fue increíble."
     },
     {
-        "word": "cobarde",
-        "definition": "Careciendo de coraje o fuerza en el enfrentamiento de peligro o dificultad.",
-        "example": "Él mostró un comportamiento cobarde durante la crisis. Ayer, el acto cobarde fue condenado por todos. Mañana, el héroe no actuará cobardemente en el enfrentamiento del peligro."
+        "word": "Virgo",
+        "definition": "El sexto signo del zodiaco, que se representa con el símbolo de la virgen. Las personas nacidas entre el 23 de agosto y el 22 de septiembre se consideran Vírgenes.",
+        "example": "Mi hermana es una Virgen, así que es muy analítica y trabajadora. Es una perfeccionista, y siempre trata de mejorar sus habilidades. La semana pasada, comenzó un nuevo proyecto en el trabajo, y ahora está trabajando horas extra para terminarlo."
     },
     {
-        "word": "decente",
-        "definition": "Teniendo un alto estándar de moralidad, comportamiento o gusto; respetable y justo.",
-        "example": "Ella fue una persona decente que siempre ayudó a aquellos en necesidad. Ha sido decente conmigo desde que me mudé a la ciudad. Ella respetará decentemente las reglas."
-    },
-    {
-        "word": "decisiva",
-        "definition": "Teniendo o mostrando la capacidad de tomar decisiones rápidas y con confianza.",
-        "example": "Él fue un líder decisivo que tomó decisiones difíciles. Ha sido decisivo en sus elecciones profesionales. Será decisivo en su voto."
-    },
-    {
-        "word": "exigente",
-        "definition": "Requiriendo un gran esfuerzo, tiempo o atención; severo o estricto.",
-        "example": "El trabajo fue exigente y requería mucho trabajo duro. Ha sido exigente en sus expectativas. Será exigente en sus negociaciones."
-    },
-    {
-        "word": "deprimente",
-        "definition": "Causando sentimientos de tristeza o desesperanza; sombrío o desagradable.",
-        "example": "La noticia fue deprimente y me hizo sentir triste. El clima ha sido deprimente últimamente. La economía será deprimente en los próximos años."
-    },
-    {
-        "word": "desesperada",
-        "definition": "Sintiendo o mostrando un fuerte deseo de hacer algo porque estás en una situación difícil y no sabes qué hacer.",
-        "example": "Estuve desesperada por salir del edificio en llamas. Había estado desesperada por encontrar un trabajo durante meses. Estaré desesperada por ver a mi familia de nuevo."
-    },
-    {
-        "word": "determinada",
-        "definition": "Habiendo tomado una decisión firme o teniendo una intención fuerte de hacer algo.",
-        "example": "Ella estaba determinada a terminar el maratón. Él había estado determinado a aprender a tocar la guitarra. Ellos estarán determinados a tener éxito en su negocio."
-    },
-    {
-        "word": "devota",
-        "definition": "Dedicando mucho tiempo, amor o energía a algo o alguien porque lo cuidas mucho.",
-        "example": "Ella fue devota de su familia. Él había sido devoto de su trabajo durante años. Ellos serán devotos de su caridad."
-    },
-    {
-        "word": "diligente",
-        "definition": "Haciendo cosas cuidadosamente y con mucho esfuerzo, con el fin de lograr un buen resultado.",
-        "example": "Ella fue diligente en su investigación. Él había sido diligente en sus estudios. Ellos serán diligentes en su preparación para el examen."
+        "word": "signo del zodiaco",
+        "definition": "Un signo del zodiaco es un grupo de estrellas que, cuando se conectan, forman un patrón en la esfera celeste, utilizado para determinar el signo astrológico de una persona.",
+        "example": "Nací bajo el signo del zodiaco de Escorpión, mi hermana nació bajo Libra, y mi hermano nacerá bajo Capricornio. Actualmente estoy estudiando el signo del zodiaco de Cáncer, y estudié el signo del zodiaco de Leo el año pasado."
     }
 ]
 ```
 
-Note: I made sure to use the correct conjugations and translations in Spanish, but please review the data to ensure it meets your requirements.
+Note: I've used the following translations:
+
+* "Taurus" -> "Tauro"
+* "Virgo" -> "Virgo" (no change, since it's already a Latin word)
+* "zodiac sign" -> "signo del zodiaco"
+
+Also, I've made sure to use the correct conjugations and verb forms in the translations. Let me know if you need any further assistance!
