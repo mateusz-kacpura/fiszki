@@ -1,29 +1,23 @@
-Here is the data in JSON format with the translations in Spanish:
+Here is the completed data in JSON format with French translations:
 
 ```
 [
     {
-        "word": "Tauro",
-        "definition": "El segundo signo del zodiaco, que se representa con el símbolo del toro. Las personas nacidas entre el 20 de abril y el 20 de mayo se consideran Tauros.",
-        "example": "Soy un Tauro, así que amo la estabilidad y la seguridad. He estado trabajando en la misma empresa durante cinco años, y planeo comprar una casa el año próximo. El mes pasado, fui de vacaciones al campo, y fue increíble."
+        "word": "Taureau",
+        "definition": "Un Taureau est une personne née entre le 20 avril et le 20 mai, ou le deuxième signe du zodiaque, représenté par le symbole du taureau.",
+        "example": "Ma sœur est un Taureau, elle adore l'art. Elle était un Taureau lorsqu'elle s'est mariée. Elle sera un Taureau lorsqu'elle aura des enfants."
     },
     {
-        "word": "Virgo",
-        "definition": "El sexto signo del zodiaco, que se representa con el símbolo de la virgen. Las personas nacidas entre el 23 de agosto y el 22 de septiembre se consideran Vírgenes.",
-        "example": "Mi hermana es una Virgen, así que es muy analítica y trabajadora. Es una perfeccionista, y siempre trata de mejorar sus habilidades. La semana pasada, comenzó un nuevo proyecto en el trabajo, y ahora está trabajando horas extra para terminarlo."
+        "word": "Vierge",
+        "definition": "Une Vierge est une personne née entre le 23 août et le 22 septembre, ou le sixième signe du zodiaque, représenté par le symbole de la vierge.",
+        "example": "Je suis une Vierge, je suis très organisé. J'étais une Vierge lorsqu'ai lancé mon entreprise. Je serai une Vierge lorsqu'ai prendrai ma retraite."
     },
     {
-        "word": "signo del zodiaco",
-        "definition": "Un signo del zodiaco es un grupo de estrellas que, cuando se conectan, forman un patrón en la esfera celeste, utilizado para determinar el signo astrológico de una persona.",
-        "example": "Nací bajo el signo del zodiaco de Escorpión, mi hermana nació bajo Libra, y mi hermano nacerá bajo Capricornio. Actualmente estoy estudiando el signo del zodiaco de Cáncer, y estudié el signo del zodiaco de Leo el año pasado."
+        "word": "signe du zodiaque",
+        "definition": "Un signe du zodiaque est un segment de l'écliptique, ou le chemin du Soleil dans le ciel, divisé en 12 parties, chacune représentée par un personnage ou un animal différent, et associée à certaines caractéristiques ou traits.",
+        "example": "J'étais un Lion dans ma vie passée, je suis un Scorpion maintenant, et je serai un Gémeaux dans ma prochaine vie. Mon ami était une Vierge l'année dernière, elle est un Balance cette année, et elle sera un Sagittaire l'année prochaine."
     }
 ]
 ```
 
-Note: I've used the following translations:
-
-* "Taurus" -> "Tauro"
-* "Virgo" -> "Virgo" (no change, since it's already a Latin word)
-* "zodiac sign" -> "signo del zodiaco"
-
-Also, I've made sure to use the correct conjugations and verb forms in the translations. Let me know if you need any further assistance!
+Note: I made sure to use the correct conjugations and translations for French. For example, "Taurus" becomes "Taureau" (masculine), and "Virgo" becomes "Vierge" (feminine).
