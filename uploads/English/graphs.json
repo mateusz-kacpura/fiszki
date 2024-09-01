@@ -63,7 +63,7 @@
     "example": "The pie chart illustrated the market share of each company.",
     "example_translation": "Wykres kołowy przedstawił udział rynkowy każdej firmy.",
     "imageLink": "",
-    "audioLink": "audio_files\\pie-chart.mp3"
+    "audioLink": "audio_files\\English\\pie-chart.mp3"
   },
   {
     "language": "English",
@@ -96,7 +96,7 @@
     "example": "The bar chart showed the sales figures for the year.",
     "example_translation": "Wykres słupkowy przedstawiał wyniki sprzedaży za rok.",
     "imageLink": "",
-    "audioLink": "audio_files\\bar-chart.mp3"
+    "audioLink": "audio_files\\English\\bar-chart.mp3"
   },
   {
     "language": "English",
@@ -151,7 +151,7 @@
     "example": "The histogram displayed the distribution of ages in the sample.",
     "example_translation": "Histogram przedstawiał rozkład wiekowy w próbie.",
     "imageLink": "",
-    "audioLink": "audio_files\\histogram.mp3"
+    "audioLink": "audio_files\\English\\histogram.mp3"
   },
   {
     "language": "English",
@@ -172,8 +172,8 @@
     "definition": "A grid of rows and columns used to organize data.",
     "example": "The table summarized the survey results.",
     "example_translation": "Tabela podsumowywała wyniki ankiety.",
-    "imageLink": "image_files\\table.jpg",
-    "audioLink": "audio_files\\table.mp3"
+    "imageLink": "image_files\\English\\table.jpg",
+    "audioLink": "audio_files\\English\\table.mp3"
   },
   {
     "language": "English",
@@ -195,7 +195,7 @@
     "example": "The cross-section of the tree showed its age rings.",
     "example_translation": "Przekrój drzewa pokazywał jego pierścienie wiekowe.",
     "imageLink": "",
-    "audioLink": "audio_files\\cross-section.mp3"
+    "audioLink": "audio_files\\English\\cross-section.mp3"
   },
   {
     "language": "English",
@@ -206,7 +206,7 @@
     "example": "The earth's crust is made up of different layers.",
     "example_translation": "Skorupa ziemska składa się z różnych warstw.",
     "imageLink": "",
-    "audioLink": "audio_files\\crust.mp3"
+    "audioLink": "audio_files\\English\\crust.mp3"
   },
   {
     "language": "English",
@@ -227,8 +227,8 @@
     "definition": "A tag or descriptor attached to an item to identify or describe it.",
     "example": "Each axis on the graph has a label.",
     "example_translation": "Każda oś na wykresie ma etykietę.",
-    "imageLink": "image_files\\label.jpg",
-    "audioLink": "audio_files\\label.mp3"
+    "imageLink": "image_files\\English\\label.jpg",
+    "audioLink": "audio_files\\English\\label.mp3"
   },
   {
     "language": "English",
@@ -239,7 +239,7 @@
     "example": "The flowchart illustrated the steps in the manufacturing process.",
     "example_translation": "Schemat blokowy ilustrował etapy procesu produkcji.",
     "imageLink": "",
-    "audioLink": "audio_files\\flowchart.mp3"
+    "audioLink": "audio_files\\English\\flowchart.mp3"
   },
   {
     "language": "English",
@@ -272,7 +272,7 @@
     "example": "The study used a random sample of 1,000 participants.",
     "example_translation": "Badanie wykorzystało próbę losową 1000 uczestników.",
     "imageLink": "",
-    "audioLink": "audio_files\\random-sample.mp3"
+    "audioLink": "audio_files\\English\\random-sample.mp3"
   },
   {
     "language": "English",
@@ -282,8 +282,8 @@
     "definition": "The result obtained by adding several quantities together and then dividing this total by the number of quantities.",
     "example": "The average temperature for July is 25°C.",
     "example_translation": "Średnia temperatura w lipcu wynosi 25°C.",
-    "imageLink": "image_files\\average.jpg",
-    "audioLink": "audio_files\\average.mp3"
+    "imageLink": "image_files\\English\\average.jpg",
+    "audioLink": "audio_files\\English\\average.mp3"
   },
   {
     "language": "English",
@@ -392,8 +392,8 @@
     "definition": "A decrease or reduction in something.",
     "example": "There was a decline in sales last year.",
     "example_translation": "W ubiegłym roku nastąpił spadek sprzedaży.",
-    "imageLink": "image_files\\decline.jpg",
-    "audioLink": "audio_files\\decline.mp3"
+    "imageLink": "image_files\\English\\decline.jpg",
+    "audioLink": "audio_files\\English\\decline.mp3"
   },
   {
     "language": "English",
@@ -415,7 +415,7 @@
     "example": "She saves a portion of her pocket money every week.",
     "example_translation": "Oszczędza część swojego kieszonkowego każdego tygodnia.",
     "imageLink": "",
-    "audioLink": "audio_files\\pocket-money.mp3"
+    "audioLink": "audio_files\\English\\pocket-money.mp3"
   },
   {
     "language": "English",
@@ -469,8 +469,8 @@
     "definition": "A rise in quantity, size, or amount.",
     "example": "There was an increase in demand for the product.",
     "example_translation": "Nastąpił wzrost popytu na produkt.",
-    "imageLink": "image_files\\increase.jpg",
-    "audioLink": "audio_files\\increase.mp3"
+    "imageLink": "image_files\\English\\increase.jpg",
+    "audioLink": "audio_files\\English\\increase.mp3"
   },
   {
     "language": "English",
@@ -480,8 +480,8 @@
     "definition": "A reduction in quantity, size, or amount.",
     "example": "The decrease in temperature was noticeable.",
     "example_translation": "Spadek temperatury był zauważalny.",
-    "imageLink": "image_files\\decrease.jpg",
-    "audioLink": "audio_files\\decrease.mp3"
+    "imageLink": "image_files\\English\\decrease.jpg",
+    "audioLink": "audio_files\\English\\decrease.mp3"
   },
   {
     "language": "English",
@@ -491,8 +491,8 @@
     "definition": "To move upward or increase in amount.",
     "example": "Prices are expected to rise next year.",
     "example_translation": "Ceny mają wzrosnąć w przyszłym roku.",
-    "imageLink": "image_files\\rise.jpg",
-    "audioLink": "audio_files\\rise.mp3"
+    "imageLink": "image_files\\English\\rise.jpg",
+    "audioLink": "audio_files\\English\\rise.mp3"
   },
   {
     "language": "English",
@@ -502,8 +502,8 @@
     "definition": "To increase in size, number, or significance.",
     "example": "The company's profits continue to grow.",
     "example_translation": "Zyski firmy nadal rosną.",
-    "imageLink": "image_files\\grow.jpg",
-    "audioLink": "audio_files\\grow.mp3"
+    "imageLink": "image_files\\English\\grow.jpg",
+    "audioLink": "audio_files\\English\\grow.mp3"
   },
   {
     "language": "English",
@@ -513,8 +513,8 @@
     "definition": "An increase in size, amount, or degree.",
     "example": "The company has experienced rapid growth over the past year.",
     "example_translation": "Firma doświadczyła szybkiego wzrostu w ciągu ostatniego roku.",
-    "imageLink": "image_files\\growth.jpg",
-    "audioLink": "audio_files\\growth.mp3"
+    "imageLink": "image_files\\English\\growth.jpg",
+    "audioLink": "audio_files\\English\\growth.mp3"
   },
   {
     "language": "English",
@@ -524,8 +524,8 @@
     "definition": "A decrease in size, amount, or degree.",
     "example": "There was a significant fall in sales last quarter.",
     "example_translation": "W ostatnim kwartale nastąpił znaczny spadek sprzedaży.",
-    "imageLink": "image_files\\fall.jpg",
-    "audioLink": "audio_files\\fall.mp3"
+    "imageLink": "image_files\\English\\fall.jpg",
+    "audioLink": "audio_files\\English\\fall.mp3"
   },
   {
     "language": "English",
@@ -535,8 +535,8 @@
     "definition": "A reduction or decline in level, amount, or value.",
     "example": "The drop in temperature was sudden and unexpected.",
     "example_translation": "Spadek temperatury był nagły i niespodziewany.",
-    "imageLink": "image_files\\drop.jpg",
-    "audioLink": "audio_files\\drop.mp3"
+    "imageLink": "image_files\\English\\drop.jpg",
+    "audioLink": "audio_files\\English\\drop.mp3"
   },
   {
     "language": "English",
@@ -546,8 +546,8 @@
     "definition": "A gradual decrease in size, amount, or quality.",
     "example": "The company has seen a steady decline in profits.",
     "example_translation": "Firma odnotowała stały spadek zysków.",
-    "imageLink": "image_files\\decline.jpg",
-    "audioLink": "audio_files\\decline.mp3"
+    "imageLink": "image_files\\English\\decline.jpg",
+    "audioLink": "audio_files\\English\\decline.mp3"
   },
   {
     "language": "English",
@@ -557,8 +557,8 @@
     "definition": "Increase to twice the number or amount.",
     "example": "The company's profits doubled in one year.",
     "example_translation": "Zyski firmy podwoiły się w ciągu roku.",
-    "imageLink": "image_files\\double.jpg",
-    "audioLink": "audio_files\\double.mp3"
+    "imageLink": "image_files\\English\\double.jpg",
+    "audioLink": "audio_files\\English\\double.mp3"
   },
   {
     "language": "English",
@@ -569,7 +569,7 @@
     "example": "Housing prices have soared in the past year.",
     "example_translation": "Ceny mieszkań gwałtownie wzrosły w ciągu ostatniego roku.",
     "imageLink": "",
-    "audioLink": "audio_files\\soar.mp3"
+    "audioLink": "audio_files\\English\\soar.mp3"
   },
   {
     "language": "English",
@@ -579,8 +579,8 @@
     "definition": "Increase to a very large number.",
     "example": "The bacteria can multiply rapidly under the right conditions.",
     "example_translation": "Bakterie mogą się szybko mnożyć w odpowiednich warunkach.",
-    "imageLink": "image_files\\multiply.jpg",
-    "audioLink": "audio_files\\multiply.mp3"
+    "imageLink": "image_files\\English\\multiply.jpg",
+    "audioLink": "audio_files\\English\\multiply.mp3"
   },
   {
     "language": "English",
@@ -590,8 +590,8 @@
     "definition": "Increase in value.",
     "example": "The value of the property has appreciated over time.",
     "example_translation": "Wartość nieruchomości wzrosła z czasem.",
-    "imageLink": "image_files\\appreciate.jpg",
-    "audioLink": "audio_files\\appreciate.mp3"
+    "imageLink": "image_files\\English\\appreciate.jpg",
+    "audioLink": "audio_files\\English\\appreciate.mp3"
   },
   {
     "language": "English",
@@ -602,7 +602,7 @@
     "example": "Sales have exceeded expectations this quarter.",
     "example_translation": "Sprzedaż przekroczyła oczekiwania w tym kwartale.",
     "imageLink": "",
-    "audioLink": "audio_files\\exceed.mp3"
+    "audioLink": "audio_files\\English\\exceed.mp3"
   },
   {
     "language": "English",
@@ -635,7 +635,7 @@
     "example": "Entering the data correctly is crucial for the analysis.",
     "example_translation": "Poprawne wprowadzenie danych jest kluczowe dla analizy.",
     "imageLink": "",
-    "audioLink": "audio_files\\entering.mp3"
+    "audioLink": "audio_files\\English\\entering.mp3"
   },
   {
     "language": "English",
@@ -689,8 +689,8 @@
     "definition": "To have an influence on or cause a change in something.",
     "example": "The weather can affect crop yields.",
     "example_translation": "Pogoda może wpływać na plony.",
-    "imageLink": "image_files\\affect.jpg",
-    "audioLink": "audio_files\\affect.mp3"
+    "imageLink": "image_files\\English\\affect.jpg",
+    "audioLink": "audio_files\\English\\affect.mp3"
   },
   {
     "language": "English",
@@ -701,7 +701,7 @@
     "example": "The adjacent buildings were both damaged in the fire.",
     "example_translation": "Sąsiadujące budynki zostały uszkodzone w pożarze.",
     "imageLink": "",
-    "audioLink": "audio_files\\adjacent.mp3"
+    "audioLink": "audio_files\\English\\adjacent.mp3"
   },
   {
     "language": "English",
@@ -789,7 +789,7 @@
     "example": "The mortality rate decreased due to better healthcare.",
     "example_translation": "Wskaźnik śmiertelności spadł dzięki lepszej opiece zdrowotnej.",
     "imageLink": "",
-    "audioLink": "audio_files\\mortality-rate.mp3"
+    "audioLink": "audio_files\\English\\mortality-rate.mp3"
   },
   {
     "language": "English",

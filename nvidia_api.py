@@ -69,12 +69,7 @@ def fetch_groq_data(message):
             stream=False
         )
 
-        # Assume response['choices'][0]['message'] contains a ChatCompletionMessage object
-        message = completion['choices'][0]['message']
-
-        # Convert the ChatCompletionMessage to a string (if necessary)
-        response_text = message['content'] if isinstance(message, dict) else str(message)
-
+        response_text = completion.choices[0].message
 
         # Pobieranie liczby tokenów wejściowych i wyjściowych z obiektu `CompletionUsage`
         """

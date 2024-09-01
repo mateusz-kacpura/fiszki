@@ -8,7 +8,7 @@
     "example": "The test scores followed a bell curve.",
     "example_translation": "Wyniki testów układały się w krzywą dzwonową.",
     "imageLink": "",
-    "audioLink": "audio_files\\bell-curve.mp3"
+    "audioLink": "audio_files\\English\\bell-curve.mp3"
   },
   {
     "language": "English",
@@ -19,7 +19,7 @@
     "example": "The results deviate from the expected pattern.",
     "example_translation": "Wyniki odbiegają od oczekiwanego wzoru.",
     "imageLink": "",
-    "audioLink": "audio_files\\deviate.mp3"
+    "audioLink": "audio_files\\English\\deviate.mp3"
   },
   {
     "language": "English",
@@ -30,7 +30,7 @@
     "example": "The standard deviation of the test scores was 5 points.",
     "example_translation": "Odchylenie standardowe wyników testu wyniosło 5 punktów.",
     "imageLink": "",
-    "audioLink": "audio_files\\standard-deviation.mp3"
+    "audioLink": "audio_files\\English\\standard-deviation.mp3"
   },
   {
     "language": "English",
@@ -40,8 +40,8 @@
     "definition": "The range or scope of something.",
     "example": "We need to determine the extent of the damage.",
     "example_translation": "Musimy określić zakres szkód.",
-    "imageLink": "image_files\\extent.jpg",
-    "audioLink": "audio_files\\extent.mp3"
+    "imageLink": "image_files\\English\\extent.jpg",
+    "audioLink": "audio_files\\English\\extent.mp3"
   },
   {
     "language": "English",
@@ -51,8 +51,8 @@
     "definition": "To make certain that something will occur or be the case.",
     "example": "Please ensure that all lights are turned off before you leave.",
     "example_translation": "Proszę upewnić się, że wszystkie światła są wyłączone przed wyjściem.",
-    "imageLink": "image_files\\ensure.jpg",
-    "audioLink": "audio_files\\ensure.mp3"
+    "imageLink": "image_files\\English\\ensure.jpg",
+    "audioLink": "audio_files\\English\\ensure.mp3"
   },
   {
     "language": "English",
@@ -62,8 +62,8 @@
     "definition": "Having a sound basis in logic or fact; reasonable or cogent.",
     "example": "The ticket is valid for one month.",
     "example_translation": "Bilet jest ważny przez jeden miesiąc.",
-    "imageLink": "image_files\\valid.jpg",
-    "audioLink": "audio_files\\valid.mp3"
+    "imageLink": "image_files\\English\\valid.jpg",
+    "audioLink": "audio_files\\English\\valid.mp3"
   },
   {
     "language": "English",
@@ -73,8 +73,8 @@
     "definition": "Consistently good in quality or performance; able to be trusted.",
     "example": "He is a reliable employee.",
     "example_translation": "Jest niezawodnym pracownikiem.",
-    "imageLink": "image_files\\reliable.jpg",
-    "audioLink": "audio_files\\reliable.mp3"
+    "imageLink": "image_files\\English\\reliable.jpg",
+    "audioLink": "audio_files\\English\\reliable.mp3"
   },
   {
     "language": "English",
@@ -85,7 +85,7 @@
     "example": "Her results are consistent across all tests.",
     "example_translation": "Jej wyniki są spójne we wszystkich testach.",
     "imageLink": "",
-    "audioLink": "audio_files\\consistent.mp3"
+    "audioLink": "audio_files\\English\\consistent.mp3"
   },
   {
     "language": "English",
@@ -96,7 +96,7 @@
     "example": "The data follows a normal distribution.",
     "example_translation": "Dane podążają za rozkładem normalnym.",
     "imageLink": "",
-    "audioLink": "audio_files\\normal-distribution.mp3"
+    "audioLink": "audio_files\\English\\normal-distribution.mp3"
   },
   {
     "language": "English",
@@ -117,8 +117,8 @@
     "definition": "The arithmetic average of a set of values.",
     "example": "The mean score of the test was 75.",
     "example_translation": "Średnia wyniku testu wyniosła 75.",
-    "imageLink": "image_files\\mean.jpg",
-    "audioLink": "audio_files\\mean.mp3"
+    "imageLink": "image_files\\English\\mean.jpg",
+    "audioLink": "audio_files\\English\\mean.mp3"
   },
   {
     "language": "English",
@@ -129,7 +129,7 @@
     "example": "The participants were selected at random.",
     "example_translation": "Uczestnicy zostali wybrani losowo.",
     "imageLink": "",
-    "audioLink": "audio_files\\at-random.mp3"
+    "audioLink": "audio_files\\English\\at-random.mp3"
   },
   {
     "language": "English",
@@ -162,7 +162,7 @@
     "example": "The probability distribution for rolling a die is uniform.",
     "example_translation": "Rozkład prawdopodobieństwa rzutu kostką jest jednolity.",
     "imageLink": "",
-    "audioLink": "audio_files\\probability-distribution.mp3"
+    "audioLink": "audio_files\\English\\probability-distribution.mp3"
   },
   {
     "language": "English",
@@ -173,7 +173,7 @@
     "example": "A large proportion of the students passed the exam.",
     "example_translation": "Duża część studentów zdała egzamin.",
     "imageLink": "",
-    "audioLink": "audio_files\\proportion.mp3"
+    "audioLink": "audio_files\\English\\proportion.mp3"
   },
   {
     "language": "English",
@@ -184,7 +184,7 @@
     "example": "The ratio of teachers to students is 1:20.",
     "example_translation": "Stosunek nauczycieli do uczniów wynosi 1:20.",
     "imageLink": "",
-    "audioLink": "audio_files\\ratio.mp3"
+    "audioLink": "audio_files\\English\\ratio.mp3"
   },
   {
     "language": "English",
@@ -194,8 +194,8 @@
     "definition": "The amount of space that a substance or object occupies, or that is enclosed within a container.",
     "example": "The volume of the box is 3 cubic meters.",
     "example_translation": "Objętość pudełka wynosi 3 metry sześcienne.",
-    "imageLink": "image_files\\volume.jpg",
-    "audioLink": "audio_files\\volume.mp3"
+    "imageLink": "image_files\\English\\volume.jpg",
+    "audioLink": "audio_files\\English\\volume.mp3"
   },
   {
     "language": "English",
@@ -206,7 +206,7 @@
     "example": "The experiment's results deviate from the original hypothesis.",
     "example_translation": "Wyniki eksperymentu różnią się od pierwotnej hipotezy.",
     "imageLink": "",
-    "audioLink": "audio_files\\deviate.mp3"
+    "audioLink": "audio_files\\English\\deviate.mp3"
   },
   {
     "language": "English",
@@ -228,7 +228,7 @@
     "example": "A low standard deviation indicates that the data points tend to be close to the mean.",
     "example_translation": "Niskie odchylenie standardowe wskazuje, że punkty danych mają tendencję do zbliżania się do średniej.",
     "imageLink": "",
-    "audioLink": "audio_files\\standard-deviation.mp3"
+    "audioLink": "audio_files\\English\\standard-deviation.mp3"
   },
   {
     "language": "English",
@@ -250,7 +250,7 @@
     "example": "The sample consisted of 200 individuals from various age groups.",
     "example_translation": "Próbka składała się z 200 osób z różnych grup wiekowych.",
     "imageLink": "",
-    "audioLink": "audio_files\\sample.mp3"
+    "audioLink": "audio_files\\English\\sample.mp3"
   },
   {
     "language": "English",
@@ -261,7 +261,7 @@
     "example": "Her performance was consistent throughout the season.",
     "example_translation": "Jej występ był spójny przez cały sezon.",
     "imageLink": "",
-    "audioLink": "audio_files\\consistent.mp3"
+    "audioLink": "audio_files\\English\\consistent.mp3"
   },
   {
     "language": "English",
@@ -271,7 +271,7 @@
     "definition": "In a way that is sufficiently great or important to be worthy of attention.",
     "example": "The new policy significantly improved company morale.",
     "example_translation": "Nowa polityka znacznie poprawiła morale firmy.",
-    "imageLink": "image_files\\significantly.jpg",
-    "audioLink": "audio_files\\significantly.mp3"
+    "imageLink": "image_files\\English\\significantly.jpg",
+    "audioLink": "audio_files\\English\\significantly.mp3"
   }
 ]

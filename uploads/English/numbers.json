@@ -52,7 +52,7 @@
     "example": "Four squared is sixteen.",
     "example_translation": "Cztery do kwadratu to szesnaście.",
     "imageLink": "",
-    "audioLink": "audio_files\\squared.mp3"
+    "audioLink": "audio_files\\English\\squared.mp3"
   },
   {
     "language": "English",
@@ -85,7 +85,7 @@
     "example": "Two, three, and five are prime numbers.",
     "example_translation": "Dwa, trzy i pięć to liczby pierwsze.",
     "imageLink": "",
-    "audioLink": "audio_files\\prime-numbers.mp3"
+    "audioLink": "audio_files\\English\\prime-numbers.mp3"
   },
   {
     "language": "English",
@@ -96,7 +96,7 @@
     "example": "Fifteen divided by three is five.",
     "example_translation": "Piętnaście podzielone przez trzy to pięć.",
     "imageLink": "",
-    "audioLink": "audio_files\\divided-by.mp3"
+    "audioLink": "audio_files\\English\\divided-by.mp3"
   },
   {
     "language": "English",
@@ -117,8 +117,8 @@
     "definition": "The greatest amount or degree possible.",
     "example": "The maximum temperature today is 30°C.",
     "example_translation": "Maksymalna temperatura dzisiaj to 30°C.",
-    "imageLink": "image_files\\maximum.jpg",
-    "audioLink": "audio_files\\maximum.mp3"
+    "imageLink": "image_files\\English\\maximum.jpg",
+    "audioLink": "audio_files\\English\\maximum.mp3"
   },
   {
     "language": "English",
@@ -128,8 +128,8 @@
     "definition": "The least or smallest amount or degree possible.",
     "example": "The minimum requirement for this job is a bachelor's degree.",
     "example_translation": "Minimalne wymaganie na to stanowisko to stopień licencjata.",
-    "imageLink": "image_files\\minimum.jpg",
-    "audioLink": "audio_files\\minimum.mp3"
+    "imageLink": "image_files\\English\\minimum.jpg",
+    "audioLink": "audio_files\\English\\minimum.mp3"
   },
   {
     "language": "English",
@@ -161,8 +161,8 @@
     "definition": "Nearly correct or exact; close in value but not precise.",
     "example": "The approximate distance between the two cities is 200 miles.",
     "example_translation": "Przybliżona odległość między tymi dwoma miastami wynosi 200 mil.",
-    "imageLink": "image_files\\approximate.jpg",
-    "audioLink": "audio_files\\approximate.mp3"
+    "imageLink": "image_files\\English\\approximate.jpg",
+    "audioLink": "audio_files\\English\\approximate.mp3"
   },
   {
     "language": "English",
@@ -195,7 +195,7 @@
     "example": "The exact number of participants was 156.",
     "example_translation": "Dokładna liczba uczestników wynosiła 156.",
     "imageLink": "",
-    "audioLink": "audio_files\\exact-number.mp3"
+    "audioLink": "audio_files\\English\\exact-number.mp3"
   },
   {
     "language": "English",
@@ -206,7 +206,7 @@
     "example": "The data was aggregated to provide an overall view.",
     "example_translation": "Dane zostały zebrane, aby przedstawić ogólny widok.",
     "imageLink": "",
-    "audioLink": "audio_files\\aggregate.mp3"
+    "audioLink": "audio_files\\English\\aggregate.mp3"
   },
   {
     "language": "English",
@@ -271,8 +271,8 @@
     "definition": "A single, distinct element or quantity.",
     "example": "The unit of measurement for length is the meter.",
     "example_translation": "Jednostką miary długości jest metr.",
-    "imageLink": "image_files\\unit.jpg",
-    "audioLink": "audio_files\\unit.mp3"
+    "imageLink": "image_files\\English\\unit.jpg",
+    "audioLink": "audio_files\\English\\unit.mp3"
   },
   {
     "language": "English",
@@ -282,8 +282,8 @@
     "definition": "A value that does not change.",
     "example": "In mathematics, π (pi) is a constant.",
     "example_translation": "W matematyce π (pi) jest stałą.",
-    "imageLink": "image_files\\constant.jpg",
-    "audioLink": "audio_files\\constant.mp3"
+    "imageLink": "image_files\\English\\constant.jpg",
+    "audioLink": "audio_files\\English\\constant.mp3"
   },
   {
     "language": "English",
@@ -293,8 +293,8 @@
     "definition": "An amount or number of something.",
     "example": "The quantity of apples needed for the recipe is five.",
     "example_translation": "Ilość jabłek potrzebna do przepisu to pięć.",
-    "imageLink": "image_files\\quantity.jpg",
-    "audioLink": "audio_files\\quantity.mp3"
+    "imageLink": "image_files\\English\\quantity.jpg",
+    "audioLink": "audio_files\\English\\quantity.mp3"
   },
   {
     "language": "English",
@@ -304,8 +304,8 @@
     "definition": "Changed or altered, often in a continuous way.",
     "example": "The results varied depending on the conditions.",
     "example_translation": "Wyniki zmieniały się w zależności od warunków.",
-    "imageLink": "image_files\\varied.jpg",
-    "audioLink": "audio_files\\varied.mp3"
+    "imageLink": "image_files\\English\\varied.jpg",
+    "audioLink": "audio_files\\English\\varied.mp3"
   },
   {
     "language": "English",
@@ -426,7 +426,7 @@
     "example": "You can deduct expenses from your income.",
     "example_translation": "Możesz odjąć wydatki od swoich dochodów.",
     "imageLink": "",
-    "audioLink": "audio_files\\deduct.mp3"
+    "audioLink": "audio_files\\English\\deduct.mp3"
   },
   {
     "language": "English",
@@ -436,8 +436,8 @@
     "definition": "The numerical amount, quantity, or range of something.",
     "example": "The values in the dataset vary greatly.",
     "example_translation": "Wartości w zestawie danych różnią się znacznie.",
-    "imageLink": "image_files\\values.jpg",
-    "audioLink": "audio_files\\values.mp3"
+    "imageLink": "image_files\\English\\values.jpg",
+    "audioLink": "audio_files\\English\\values.mp3"
   },
   {
     "language": "English",
@@ -469,8 +469,8 @@
     "definition": "At short intervals; regularly or habitually.",
     "example": "She frequently travels for work.",
     "example_translation": "Często podróżuje służbowo.",
-    "imageLink": "image_files\\frequently.jpg",
-    "audioLink": "audio_files\\frequently.mp3"
+    "imageLink": "image_files\\English\\frequently.jpg",
+    "audioLink": "audio_files\\English\\frequently.mp3"
   },
   {
     "language": "English",
@@ -492,7 +492,7 @@
     "example": "The magnitude of the earthquake was 7.0 on the Richter scale.",
     "example_translation": "Wielkość trzęsienia ziemi wynosiła 7,0 w skali Richtera.",
     "imageLink": "",
-    "audioLink": "audio_files\\magnitude.mp3"
+    "audioLink": "audio_files\\English\\magnitude.mp3"
   },
   {
     "language": "English",
@@ -503,7 +503,7 @@
     "example": "The estimates are within an order of magnitude of each other.",
     "example_translation": "Szacunki mieszczą się w tej samej kolejności wielkości.",
     "imageLink": "",
-    "audioLink": "audio_files\\order-of-magnitude.mp3"
+    "audioLink": "audio_files\\English\\order-of-magnitude.mp3"
   },
   {
     "language": "English",
@@ -678,8 +678,8 @@
     "definition": "A long essay on a particular subject, especially one written for a university degree.",
     "example": "She is writing her dissertation on medieval literature.",
     "example_translation": "Pisze swoją rozprawę o literaturze średniowiecznej.",
-    "imageLink": "image_files\\dissertation.jpg",
-    "audioLink": "audio_files\\dissertation.mp3"
+    "imageLink": "image_files\\English\\dissertation.jpg",
+    "audioLink": "audio_files\\English\\dissertation.mp3"
   },
   {
     "language": "English",
@@ -689,8 +689,8 @@
     "definition": "To present or propose something for consideration or judgment.",
     "example": "Please submit your assignment by Friday.",
     "example_translation": "Proszę przesłać swoje zadanie do piątku.",
-    "imageLink": "image_files\\submit.jpg",
-    "audioLink": "audio_files\\submit.mp3"
+    "imageLink": "image_files\\English\\submit.jpg",
+    "audioLink": "audio_files\\English\\submit.mp3"
   },
   {
     "language": "English",
@@ -701,7 +701,7 @@
     "example": "Please write legibly so the teacher can read your answers.",
     "example_translation": "Proszę pisać czytelnie, aby nauczyciel mógł przeczytać twoje odpowiedzi.",
     "imageLink": "",
-    "audioLink": "audio_files\\legibly.mp3"
+    "audioLink": "audio_files\\English\\legibly.mp3"
   },
   {
     "language": "English",
@@ -711,7 +711,7 @@
     "definition": "To recognize or point out the difference between similar things.",
     "example": "It's important to distinguish between fact and opinion.",
     "example_translation": "Ważne jest, aby rozróżniać fakty od opinii.",
-    "imageLink": "image_files\\distinguish.jpg",
-    "audioLink": "audio_files\\distinguish.mp3"
+    "imageLink": "image_files\\English\\distinguish.jpg",
+    "audioLink": "audio_files\\English\\distinguish.mp3"
   }
 ]

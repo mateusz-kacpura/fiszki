@@ -8,7 +8,7 @@
     "example": "The situation is under control.",
     "example_translation": "Sytuacja jest pod kontrolą.",
     "imageLink": "",
-    "audioLink": "audio_files\\under-control.mp3"
+    "audioLink": "audio_files\\English\\under-control.mp3"
   },
   {
     "language": "English",
@@ -18,8 +18,8 @@
     "definition": "Despite the fact that; even though.",
     "example": "Although it was raining, we went for a walk.",
     "example_translation": "Chociaż padał deszcz, poszliśmy na spacer.",
-    "imageLink": "image_files\\although.jpg",
-    "audioLink": "audio_files\\although.mp3"
+    "imageLink": "image_files\\English\\although.jpg",
+    "audioLink": "audio_files\\English\\although.mp3"
   },
   {
     "language": "English",
@@ -29,8 +29,8 @@
     "definition": "Current, modern, or containing the latest information.",
     "example": "The information is up to date.",
     "example_translation": "Informacje są aktualne.",
-    "imageLink": "image_files\\up-to-date.jpg",
-    "audioLink": "audio_files\\up-to-date.mp3"
+    "imageLink": "image_files\\English\\up-to-date.jpg",
+    "audioLink": "audio_files\\English\\up-to-date.mp3"
   },
   {
     "language": "English",
@@ -41,7 +41,7 @@
     "example": "The new policy is a change for the better.",
     "example_translation": "Nowa polityka to zmiana na lepsze.",
     "imageLink": "",
-    "audioLink": "audio_files\\change-for-the-better.mp3"
+    "audioLink": "audio_files\\English\\change-for-the-better.mp3"
   },
   {
     "language": "English",
@@ -52,7 +52,7 @@
     "example": "The proposal is under consideration.",
     "example_translation": "Wniosek jest rozważany.",
     "imageLink": "",
-    "audioLink": "audio_files\\under-consideration.mp3"
+    "audioLink": "audio_files\\English\\under-consideration.mp3"
   },
   {
     "language": "English",
@@ -118,7 +118,7 @@
     "example": "The fire quickly got out of control.",
     "example_translation": "Pożar szybko wymknął się spod kontroli.",
     "imageLink": "",
-    "audioLink": "audio_files\\out-of-control.mp3"
+    "audioLink": "audio_files\\English\\out-of-control.mp3"
   },
   {
     "language": "English",
@@ -140,7 +140,7 @@
     "example": "She works well under pressure.",
     "example_translation": "Dobrze pracuje pod presją.",
     "imageLink": "",
-    "audioLink": "audio_files\\under-pressure.mp3"
+    "audioLink": "audio_files\\English\\under-pressure.mp3"
   },
   {
     "language": "English",
@@ -151,7 +151,7 @@
     "example": "Electric cars are in demand.",
     "example_translation": "Samochody elektryczne są w popycie.",
     "imageLink": "",
-    "audioLink": "audio_files\\in-demand.mp3"
+    "audioLink": "audio_files\\English\\in-demand.mp3"
   },
   {
     "language": "English",
@@ -162,7 +162,7 @@
     "example": "The solution works in practice.",
     "example_translation": "Rozwiązanie działa w praktyce.",
     "imageLink": "",
-    "audioLink": "audio_files\\in-practice.mp3"
+    "audioLink": "audio_files\\English\\in-practice.mp3"
   },
   {
     "language": "English",
@@ -184,7 +184,7 @@
     "example": "In general, people are satisfied with the service.",
     "example_translation": "Ogólnie ludzie są zadowoleni z obsługi.",
     "imageLink": "",
-    "audioLink": "audio_files\\in-general.mp3"
+    "audioLink": "audio_files\\English\\in-general.mp3"
   },
   {
     "language": "English",
@@ -206,7 +206,7 @@
     "example": "He explained the process in detail.",
     "example_translation": "Szczegółowo wyjaśnił proces.",
     "imageLink": "",
-    "audioLink": "audio_files\\in-detail.mp3"
+    "audioLink": "audio_files\\English\\in-detail.mp3"
   },
   {
     "language": "English",
@@ -217,7 +217,7 @@
     "example": "On average, students spend 3 hours on homework.",
     "example_translation": "Średnio uczniowie spędzają 3 godziny na pracach domowych.",
     "imageLink": "",
-    "audioLink": "audio_files\\on-average.mp3"
+    "audioLink": "audio_files\\English\\on-average.mp3"
   },
   {
     "language": "English",
@@ -228,7 +228,7 @@
     "example": "In addition to his salary, he receives bonuses.",
     "example_translation": "Oprócz pensji otrzymuje premie.",
     "imageLink": "",
-    "audioLink": "audio_files\\in-addition.mp3"
+    "audioLink": "audio_files\\English\\in-addition.mp3"
   },
   {
     "language": "English",
@@ -250,7 +250,7 @@
     "example": "He did it on purpose to annoy her.",
     "example_translation": "Zrobił to celowo, aby ją zirytować.",
     "imageLink": "",
-    "audioLink": "audio_files\\on-purpose.mp3"
+    "audioLink": "audio_files\\English\\on-purpose.mp3"
   },
   {
     "language": "English",
@@ -272,7 +272,7 @@
     "example": "By no means is this project complete.",
     "example_translation": "W żadnym wypadku ten projekt nie jest ukończony.",
     "imageLink": "",
-    "audioLink": "audio_files\\by-no-means.mp3"
+    "audioLink": "audio_files\\English\\by-no-means.mp3"
   },
   {
     "language": "English",
@@ -503,7 +503,7 @@
     "example": "Many people in the city cycle to work.",
     "example_translation": "Wiele osób w mieście jeździ rowerem do pracy.",
     "imageLink": "",
-    "audioLink": "audio_files\\cycle-to-work.mp3"
+    "audioLink": "audio_files\\English\\cycle-to-work.mp3"
   },
   {
     "language": "English",

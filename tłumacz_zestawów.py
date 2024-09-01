@@ -108,8 +108,6 @@ def file_exists(filepath):
 with open(input_file_path, 'r') as file:
     data = json.load(file)
 
-
-
 def prepare_chunk(chunk):
     words = []
     imageLinks = []

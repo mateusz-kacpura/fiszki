@@ -7,8 +7,8 @@
     "definition": "A number expressing the central or typical value in a set of data.",
     "example": "The average age of the participants was 30.",
     "example_translation": "Średni wiek uczestników wynosił 30 lat.",
-    "imageLink": "image_files\\average.jpg",
-    "audioLink": "audio_files\\average.mp3"
+    "imageLink": "image_files\\English\\average.jpg",
+    "audioLink": "audio_files\\English\\average.mp3"
   },
   {
     "language": "English",
@@ -30,7 +30,7 @@
     "example": "The new model has several innovative features.",
     "example_translation": "Nowy model ma kilka innowacyjnych cech.",
     "imageLink": "",
-    "audioLink": "audio_files\\features.mp3"
+    "audioLink": "audio_files\\English\\features.mp3"
   },
   {
     "language": "English",
@@ -51,8 +51,8 @@
     "definition": "Easily perceived or understood; clear, self-evident, or apparent.",
     "example": "It was obvious that she was upset.",
     "example_translation": "Było oczywiste, że była zdenerwowana.",
-    "imageLink": "image_files\\obvious.jpg",
-    "audioLink": "audio_files\\obvious.mp3"
+    "imageLink": "image_files\\English\\obvious.jpg",
+    "audioLink": "audio_files\\English\\obvious.mp3"
   },
   {
     "language": "English",
@@ -62,8 +62,8 @@
     "definition": "In the direction of.",
     "example": "She walked towards the park.",
     "example_translation": "Poszła w kierunku parku.",
-    "imageLink": "image_files\\towards.jpg",
-    "audioLink": "audio_files\\towards.mp3"
+    "imageLink": "image_files\\English\\towards.jpg",
+    "audioLink": "audio_files\\English\\towards.mp3"
   },
   {
     "language": "English",
@@ -85,7 +85,7 @@
     "example": "Several people were notably absent from the meeting.",
     "example_translation": "Kilka osób było w szczególności nieobecnych na spotkaniu.",
     "imageLink": "",
-    "audioLink": "audio_files\\notably.mp3"
+    "audioLink": "audio_files\\English\\notably.mp3"
   },
   {
     "language": "English",
@@ -95,8 +95,8 @@
     "definition": "A smaller amount of; not as much.",
     "example": "He ate less than he usually does.",
     "example_translation": "Zjadł mniej niż zazwyczaj.",
-    "imageLink": "image_files\\less.jpg",
-    "audioLink": "audio_files\\less.mp3"
+    "imageLink": "image_files\\English\\less.jpg",
+    "audioLink": "audio_files\\English\\less.mp3"
   },
   {
     "language": "English",
@@ -139,8 +139,8 @@
     "definition": "Two times; on two occasions.",
     "example": "She called twice yesterday.",
     "example_translation": "Dzwoniła dwukrotnie wczoraj.",
-    "imageLink": "image_files\\twice.jpg",
-    "audioLink": "audio_files\\twice.mp3"
+    "imageLink": "image_files\\English\\twice.jpg",
+    "audioLink": "audio_files\\English\\twice.mp3"
   },
   {
     "language": "English",
@@ -150,8 +150,8 @@
     "definition": "A greater amount or number of something.",
     "example": "We need more time to complete the project.",
     "example_translation": "Potrzebujemy więcej czasu na ukończenie projektu.",
-    "imageLink": "image_files\\more.jpg",
-    "audioLink": "audio_files\\more.mp3"
+    "imageLink": "image_files\\English\\more.jpg",
+    "audioLink": "audio_files\\English\\more.mp3"
   },
   {
     "language": "English",
@@ -194,8 +194,8 @@
     "definition": "One of two equal parts of something.",
     "example": "He ate half of the cake.",
     "example_translation": "Zjadł połowę ciasta.",
-    "imageLink": "image_files\\half.jpg",
-    "audioLink": "audio_files\\half.mp3"
+    "imageLink": "image_files\\English\\half.jpg",
+    "audioLink": "audio_files\\English\\half.mp3"
   },
   {
     "language": "English",
@@ -338,7 +338,7 @@
     "example": "The number of visitors exceeded our expectations.",
     "example_translation": "Liczba odwiedzających przekroczyła nasze oczekiwania.",
     "imageLink": "",
-    "audioLink": "audio_files\\exceed.mp3"
+    "audioLink": "audio_files\\English\\exceed.mp3"
   },
   {
     "language": "English",
@@ -436,8 +436,8 @@
     "definition": "In or into the space separating two points, objects, or regions.",
     "example": "The ball is between the two chairs.",
     "example_translation": "Piłka jest pomiędzy dwoma krzesłami.",
-    "imageLink": "image_files\\between.jpg",
-    "audioLink": "audio_files\\between.mp3"
+    "imageLink": "image_files\\English\\between.jpg",
+    "audioLink": "audio_files\\English\\between.mp3"
   },
   {
     "language": "English",
@@ -447,7 +447,7 @@
     "definition": "Situated in, or being a part of a larger group.",
     "example": "She was among the first to arrive.",
     "example_translation": "Była wśród pierwszych, którzy przybyli.",
-    "imageLink": "image_files\\among.jpg",
-    "audioLink": "audio_files\\among.mp3"
+    "imageLink": "image_files\\English\\among.jpg",
+    "audioLink": "audio_files\\English\\among.mp3"
   }
 ]

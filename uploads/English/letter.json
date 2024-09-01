@@ -8,7 +8,7 @@
     "example": "The instructions are provided directly below the image.",
     "example_translation": "Instrukcje znajdują się bezpośrednio poniżej obrazu.",
     "imageLink": "",
-    "audioLink": "audio_files\\indent.mp3"
+    "audioLink": "audio_files\\English\\indent.mp3"
   },
   {
     "language": "English",
@@ -19,7 +19,7 @@
     "example": "Please write the recipient's name on the envelope.",
     "example_translation": "Proszę napisać nazwę odbiorcy na kopercie.",
     "imageLink": "",
-    "audioLink": "audio_files\\capital.mp3"
+    "audioLink": "audio_files\\English\\capital.mp3"
   },
   {
     "language": "English",
@@ -30,7 +30,7 @@
     "example": "Remember to indent the first line of each paragraph.",
     "example_translation": "Pamiętaj, aby wciąć pierwszą linię każdego akapitu.",
     "imageLink": "",
-    "audioLink": "audio_files\\enquiry.mp3"
+    "audioLink": "audio_files\\English\\enquiry.mp3"
   },
   {
     "language": "English",
@@ -40,8 +40,8 @@
     "definition": "Money or assets used to fund a business or investment.",
     "example": "They are seeking additional capital to expand their business.",
     "example_translation": "Szukają dodatkowego kapitału, aby rozwinąć swój biznes.",
-    "imageLink": "image_files\\capital.jpg",
-    "audioLink": "audio_files\\further.mp3"
+    "imageLink": "image_files\\English\\capital.jpg",
+    "audioLink": "audio_files\\English\\further.mp3"
   },
   {
     "language": "English",
@@ -51,8 +51,8 @@
     "definition": "An act of asking for information.",
     "example": "They received an enquiry about their new product.",
     "example_translation": "Otrzymali zapytanie dotyczące ich nowego produktu.",
-    "imageLink": "image_files\\enquiry.jpg",
-    "audioLink": "audio_files\\convenient.mp3"
+    "imageLink": "image_files\\English\\enquiry.jpg",
+    "audioLink": "audio_files\\English\\convenient.mp3"
   },
   {
     "language": "English",
@@ -62,8 +62,8 @@
     "definition": "At a greater distance or more advanced stage.",
     "example": "We need further information to proceed.",
     "example_translation": "Potrzebujemy dalszych informacji, aby kontynuować.",
-    "imageLink": "image_files\\further.jpg",
-    "audioLink": "audio_files\\inconvenience.mp3"
+    "imageLink": "image_files\\English\\further.jpg",
+    "audioLink": "audio_files\\English\\inconvenience.mp3"
   },
   {
     "language": "English",
@@ -74,7 +74,7 @@
     "example": "She will attend an interview for the manager position next week.",
     "example_translation": "W przyszłym tygodniu będzie uczestniczyć w rozmowie kwalifikacyjnej na stanowisko menedżera.",
     "imageLink": "",
-    "audioLink": "audio_files\\offence.mp3"
+    "audioLink": "audio_files\\English\\offence.mp3"
   },
   {
     "language": "English",
@@ -84,8 +84,8 @@
     "definition": "Fitting in well with a person's needs, activities, and plans.",
     "example": "Let me know a convenient time for our meeting.",
     "example_translation": "Daj mi znać dogodny czas na nasze spotkanie.",
-    "imageLink": "image_files\\convenient.jpg",
-    "audioLink": "audio_files\\appropriate.mp3"
+    "imageLink": "image_files\\English\\convenient.jpg",
+    "audioLink": "audio_files\\English\\appropriate.mp3"
   },
   {
     "language": "English",
@@ -96,7 +96,7 @@
     "example": "Sorry for any inconvenience caused by the delay.",
     "example_translation": "Przepraszamy za wszelkie niedogodności spowodowane opóźnieniem.",
     "imageLink": "",
-    "audioLink": "audio_files\\assure.mp3"
+    "audioLink": "audio_files\\English\\assure.mp3"
   },
   {
     "language": "English",
@@ -106,8 +106,8 @@
     "definition": "A breach of a law or rule; an illegal act.",
     "example": "He was charged with a serious offence.",
     "example_translation": "Został oskarżony o poważne przestępstwo.",
-    "imageLink": "image_files\\offence.jpg",
-    "audioLink": "audio_files\\gladly.mp3"
+    "imageLink": "image_files\\English\\offence.jpg",
+    "audioLink": "audio_files\\English\\gladly.mp3"
   },
   {
     "language": "English",
@@ -117,8 +117,8 @@
     "definition": "Suitable or proper in the circumstances.",
     "example": "Please choose an appropriate response.",
     "example_translation": "Proszę wybrać odpowiednią odpowiedź.",
-    "imageLink": "image_files\\appropriate.jpg",
-    "audioLink": "audio_files\\involved.mp3"
+    "imageLink": "image_files\\English\\appropriate.jpg",
+    "audioLink": "audio_files\\English\\involved.mp3"
   },
   {
     "language": "English",
@@ -128,8 +128,8 @@
     "definition": "To tell someone something positively to dispel any doubts.",
     "example": "I assure you that everything will be fine.",
     "example_translation": "Zapewniam cię, że wszystko będzie w porządku.",
-    "imageLink": "image_files\\assure.jpg",
-    "audioLink": "audio_files\\concern.mp3"
+    "imageLink": "image_files\\English\\assure.jpg",
+    "audioLink": "audio_files\\English\\concern.mp3"
   },
   {
     "language": "English",
@@ -140,7 +140,7 @@
     "example": "I would gladly help you with your project.",
     "example_translation": "Chętnie pomogę ci w twoim projekcie.",
     "imageLink": "",
-    "audioLink": "audio_files\\insist.mp3"
+    "audioLink": "audio_files\\English\\insist.mp3"
   },
   {
     "language": "English",
@@ -150,8 +150,8 @@
     "definition": "Being a part of something or associated with it.",
     "example": "She is very involved in community activities.",
     "example_translation": "Jest bardzo zaangażowana w działalność społecznościową.",
-    "imageLink": "image_files\\involved.jpg",
-    "audioLink": "audio_files\\urge.mp3"
+    "imageLink": "image_files\\English\\involved.jpg",
+    "audioLink": "audio_files\\English\\urge.mp3"
   },
   {
     "language": "English",
@@ -161,8 +161,8 @@
     "definition": "A matter of interest or importance to someone.",
     "example": "Your health is our main concern.",
     "example_translation": "Twoje zdrowie jest naszą główną troską.",
-    "imageLink": "image_files\\concern.jpg",
-    "audioLink": "audio_files\\appeared.mp3"
+    "imageLink": "image_files\\English\\concern.jpg",
+    "audioLink": "audio_files\\English\\appeared.mp3"
   },
   {
     "language": "English",
@@ -172,7 +172,7 @@
     "definition": "To demand something forcefully, not accepting refusal.",
     "example": "She insists on paying for the meal.",
     "example_translation": "Nalega, aby zapłacić za posiłek.",
-    "imageLink": "image_files\\insist.jpg",
+    "imageLink": "image_files\\English\\insist.jpg",
     "audioLink": ""
   },
   {

@@ -8,7 +8,7 @@
     "example": "Please attach your curriculum vitae to the application.",
     "example_translation": "Proszę załączyć swój życiorys do aplikacji.",
     "imageLink": "",
-    "audioLink": "audio_files\\curriculum-vitae.mp3"
+    "audioLink": "audio_files\\English\\curriculum-vitae.mp3"
   },
   {
     "language": "English",
@@ -18,8 +18,8 @@
     "definition": "An occupation undertaken for a significant period of a person's life and with opportunities for progress.",
     "example": "She plans to pursue a career in law.",
     "example_translation": "Planuje rozwijać karierę w dziedzinie prawa.",
-    "imageLink": "image_files\\career.jpg",
-    "audioLink": "audio_files\\career.mp3"
+    "imageLink": "image_files\\English\\career.jpg",
+    "audioLink": "audio_files\\English\\career.mp3"
   },
   {
     "language": "English",
@@ -41,7 +41,7 @@
     "example": "Please provide your contact details.",
     "example_translation": "Proszę podać swoje dane kontaktowe.",
     "imageLink": "",
-    "audioLink": "audio_files\\contact-details.mp3"
+    "audioLink": "audio_files\\English\\contact-details.mp3"
   },
   {
     "language": "English",
@@ -52,7 +52,7 @@
     "example": "My career goal is to become a manager.",
     "example_translation": "Moim celem kariery jest zostanie menedżerem.",
     "imageLink": "",
-    "audioLink": "audio_files\\career-goal.mp3"
+    "audioLink": "audio_files\\English\\career-goal.mp3"
   },
   {
     "language": "English",
@@ -84,8 +84,8 @@
     "definition": "Practical contact with and observation of facts or events.",
     "example": "He has five years of experience in marketing.",
     "example_translation": "Ma pięcioletnie doświadczenie w marketingu.",
-    "imageLink": "image_files\\experience.jpg",
-    "audioLink": "audio_files\\experience.mp3"
+    "imageLink": "image_files\\English\\experience.jpg",
+    "audioLink": "audio_files\\English\\experience.mp3"
   },
   {
     "language": "English",
@@ -96,7 +96,7 @@
     "example": "Her achievements in the field are impressive.",
     "example_translation": "Jej osiągnięcia w tej dziedzinie są imponujące.",
     "imageLink": "",
-    "audioLink": "audio_files\\achievements.mp3"
+    "audioLink": "audio_files\\English\\achievements.mp3"
   },
   {
     "language": "English",
@@ -118,7 +118,7 @@
     "example": "Use appropriate keywords to enhance your resume.",
     "example_translation": "Użyj odpowiednich słów kluczowych, aby wzmocnić swoje CV.",
     "imageLink": "",
-    "audioLink": "audio_files\\keywords.mp3"
+    "audioLink": "audio_files\\English\\keywords.mp3"
   },
   {
     "language": "English",
@@ -140,7 +140,7 @@
     "example": "Avoid exaggerations in your resume.",
     "example_translation": "Unikaj przesady w swoim CV.",
     "imageLink": "",
-    "audioLink": "audio_files\\exaggerations.mp3"
+    "audioLink": "audio_files\\English\\exaggerations.mp3"
   },
   {
     "language": "English",
@@ -151,7 +151,7 @@
     "example": "A resume should be clear and concise.",
     "example_translation": "CV powinno być jasne i zwięzłe.",
     "imageLink": "",
-    "audioLink": "audio_files\\concise.mp3"
+    "audioLink": "audio_files\\English\\concise.mp3"
   },
   {
     "language": "English",
@@ -161,8 +161,8 @@
     "definition": "The way in which text or pictures are set out on a page.",
     "example": "The layout of your resume is important.",
     "example_translation": "Układ twojego CV jest ważny.",
-    "imageLink": "image_files\\layout.jpg",
-    "audioLink": "audio_files\\layout.mp3"
+    "imageLink": "image_files\\English\\layout.jpg",
+    "audioLink": "audio_files\\English\\layout.mp3"
   },
   {
     "language": "English",
@@ -173,7 +173,7 @@
     "example": "He found the new project stimulating.",
     "example_translation": "Nowy projekt okazał się dla niego stymulujący.",
     "imageLink": "",
-    "audioLink": "audio_files\\stimulating.mp3"
+    "audioLink": "audio_files\\English\\stimulating.mp3"
   },
   {
     "language": "English",
@@ -184,7 +184,7 @@
     "example": "They have an established reputation in the industry.",
     "example_translation": "Mają ugruntowaną reputację w branży.",
     "imageLink": "",
-    "audioLink": "audio_files\\established.mp3"
+    "audioLink": "audio_files\\English\\established.mp3"
   },
   {
     "language": "English",
@@ -194,8 +194,8 @@
     "definition": "Producing new ideas.",
     "example": "Creativity is essential for this role.",
     "example_translation": "Kreatywność jest niezbędna w tej roli.",
-    "imageLink": "image_files\\creativity.jpg",
-    "audioLink": "audio_files\\creativity.mp3"
+    "imageLink": "image_files\\English\\creativity.jpg",
+    "audioLink": "audio_files\\English\\creativity.mp3"
   },
   {
     "language": "English",
@@ -206,7 +206,7 @@
     "example": "He demonstrated strong leadership skills.",
     "example_translation": "Wykazał się silnymi zdolnościami przywódczymi.",
     "imageLink": "",
-    "audioLink": "audio_files\\leadership-skills.mp3"
+    "audioLink": "audio_files\\English\\leadership-skills.mp3"
   },
   {
     "language": "English",
@@ -216,8 +216,8 @@
     "definition": "The process of maintaining or preserving something.",
     "example": "Regular maintenance is required.",
     "example_translation": "Wymagana jest regularna obsługa techniczna.",
-    "imageLink": "image_files\\maintenance.jpg",
-    "audioLink": "audio_files\\maintenance.mp3"
+    "imageLink": "image_files\\English\\maintenance.jpg",
+    "audioLink": "audio_files\\English\\maintenance.mp3"
   },
   {
     "language": "English",
@@ -228,7 +228,7 @@
     "example": "She is bilingual in English and Spanish.",
     "example_translation": "Ona jest dwujęzyczna - mówi po angielsku i hiszpańsku.",
     "imageLink": "",
-    "audioLink": "audio_files\\bilingual.mp3"
+    "audioLink": "audio_files\\English\\bilingual.mp3"
   },
   {
     "language": "English",
@@ -239,7 +239,7 @@
     "example": "He works as a freelance graphic designer.",
     "example_translation": "Pracuje jako niezależny grafik.",
     "imageLink": "",
-    "audioLink": "audio_files\\freelance.mp3"
+    "audioLink": "audio_files\\English\\freelance.mp3"
   },
   {
     "language": "English",
@@ -250,7 +250,7 @@
     "example": "She is contributing to the team's success.",
     "example_translation": "Ona przyczynia się do sukcesu zespołu.",
     "imageLink": "",
-    "audioLink": "audio_files\\contributing.mp3"
+    "audioLink": "audio_files\\English\\contributing.mp3"
   },
   {
     "language": "English",
@@ -260,8 +260,8 @@
     "definition": "To supply or make available.",
     "example": "All necessary materials will be provided.",
     "example_translation": "Wszystkie niezbędne materiały będą dostarczone.",
-    "imageLink": "image_files\\provided.jpg",
-    "audioLink": "audio_files\\provided.mp3"
+    "imageLink": "image_files\\English\\provided.jpg",
+    "audioLink": "audio_files\\English\\provided.mp3"
   },
   {
     "language": "English",
@@ -272,7 +272,7 @@
     "example": "Please include a cover letter with your application.",
     "example_translation": "Proszę załączyć list motywacyjny do swojej aplikacji.",
     "imageLink": "",
-    "audioLink": "audio_files\\cover-letter.mp3"
+    "audioLink": "audio_files\\English\\cover-letter.mp3"
   },
   {
     "language": "English",
@@ -282,8 +282,8 @@
     "definition": "A file sent with an email message.",
     "example": "I have included my resume as an attachment.",
     "example_translation": "Załączyłem swoje CV jako załącznik.",
-    "imageLink": "image_files\\attachment.jpg",
-    "audioLink": "audio_files\\attachment.mp3"
+    "imageLink": "image_files\\English\\attachment.jpg",
+    "audioLink": "audio_files\\English\\attachment.mp3"
   },
   {
     "language": "English",
@@ -304,8 +304,8 @@
     "definition": "A job or role within a company.",
     "example": "She applied for a managerial position.",
     "example_translation": "Aplikowała na stanowisko menedżerskie.",
-    "imageLink": "image_files\\position.jpg",
-    "audioLink": "audio_files\\position.mp3"
+    "imageLink": "image_files\\English\\position.jpg",
+    "audioLink": "audio_files\\English\\position.mp3"
   },
   {
     "language": "English",
@@ -360,7 +360,7 @@
     "example": "I recently graduated from university.",
     "example_translation": "Ostatnio ukończyłem studia.",
     "imageLink": "",
-    "audioLink": "audio_files\\recently.mp3"
+    "audioLink": "audio_files\\English\\recently.mp3"
   },
   {
     "language": "English",
@@ -393,7 +393,7 @@
     "example": "I look forward to hearing from you soon.",
     "example_translation": "Czekam na wiadomość od Ciebie wkrótce.",
     "imageLink": "",
-    "audioLink": "audio_files\\i-look-forward-to-hearing-from-you.mp3"
+    "audioLink": "audio_files\\English\\i-look-forward-to-hearing-from-you.mp3"
   },
   {
     "language": "English",
@@ -404,7 +404,7 @@
     "example": "Yours sincerely, John Doe",
     "example_translation": "Z poważaniem, John Doe",
     "imageLink": "",
-    "audioLink": "audio_files\\your-sincerely.mp3"
+    "audioLink": "audio_files\\English\\your-sincerely.mp3"
   },
   {
     "language": "English",
@@ -415,7 +415,7 @@
     "example": "Please write concisely.",
     "example_translation": "Proszę pisać zwięźle.",
     "imageLink": "",
-    "audioLink": "audio_files\\concise.mp3"
+    "audioLink": "audio_files\\English\\concise.mp3"
   },
   {
     "language": "English",
@@ -436,8 +436,8 @@
     "definition": "Undoubtedly; definitely; with certainty.",
     "example": "I will certainly attend the meeting.",
     "example_translation": "Z pewnością wezmę udział w spotkaniu.",
-    "imageLink": "image_files\\certainly.jpg",
-    "audioLink": "audio_files\\certainly.mp3"
+    "imageLink": "image_files\\English\\certainly.jpg",
+    "audioLink": "audio_files\\English\\certainly.mp3"
   },
   {
     "language": "English",

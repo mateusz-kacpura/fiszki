@@ -7,8 +7,8 @@
     "definition": "To contain something as a part of something else.",
     "example": "The report includes several recommendations.",
     "example_translation": "Raport zawiera kilka zaleceń.",
-    "imageLink": "image_files\\include.jpg",
-    "audioLink": "audio_files\\include.mp3"
+    "imageLink": "image_files\\English\\include.jpg",
+    "audioLink": "audio_files\\English\\include.mp3"
   },
   {
     "language": "English",
@@ -30,7 +30,7 @@
     "example": "The meeting concluded at 10 PM.",
     "example_translation": "Spotkanie zakończyło się o 22:00.",
     "imageLink": "",
-    "audioLink": "audio_files\\conclude.mp3"
+    "audioLink": "audio_files\\English\\conclude.mp3"
   },
   {
     "language": "English",
@@ -41,7 +41,7 @@
     "example": "In this particular case, we need more evidence.",
     "example_translation": "W tym szczególnym przypadku potrzebujemy więcej dowodów.",
     "imageLink": "",
-    "audioLink": "audio_files\\particular.mp3"
+    "audioLink": "audio_files\\English\\particular.mp3"
   },
   {
     "language": "English",
@@ -52,7 +52,7 @@
     "example": "Many birds migrate, for instance, geese and swans.",
     "example_translation": "Wiele ptaków migruje, na przykład gęsi i łabędzie.",
     "imageLink": "",
-    "audioLink": "audio_files\\for-instance.mp3"
+    "audioLink": "audio_files\\English\\for-instance.mp3"
   },
   {
     "language": "English",
@@ -63,7 +63,7 @@
     "example": "In order to pass the exam, you need to study hard.",
     "example_translation": "W celu zdania egzaminu musisz się dużo uczyć.",
     "imageLink": "",
-    "audioLink": "audio_files\\in-order-to.mp3"
+    "audioLink": "audio_files\\English\\in-order-to.mp3"
   },
   {
     "language": "English",
@@ -74,7 +74,7 @@
     "example": "Considering the circumstances, he did well.",
     "example_translation": "Biorąc pod uwagę okoliczności, poradził sobie dobrze.",
     "imageLink": "",
-    "audioLink": "audio_files\\considering.mp3"
+    "audioLink": "audio_files\\English\\considering.mp3"
   },
   {
     "language": "English",
@@ -85,7 +85,7 @@
     "example": "These documents constitute the entire agreement.",
     "example_translation": "Te dokumenty stanowią całą umowę.",
     "imageLink": "",
-    "audioLink": "audio_files\\constitute.mp3"
+    "audioLink": "audio_files\\English\\constitute.mp3"
   },
   {
     "language": "English",
@@ -96,7 +96,7 @@
     "example": "The best course of action is to consult a lawyer.",
     "example_translation": "Najlepszy sposób działania to skonsultować się z prawnikiem.",
     "imageLink": "",
-    "audioLink": "audio_files\\course-of-action.mp3"
+    "audioLink": "audio_files\\English\\course-of-action.mp3"
   },
   {
     "language": "English",
@@ -107,7 +107,7 @@
     "example": "The benefits outweigh the risks.",
     "example_translation": "Korzyści przeważają nad ryzykiem.",
     "imageLink": "",
-    "audioLink": "audio_files\\outweigh.mp3"
+    "audioLink": "audio_files\\English\\outweigh.mp3"
   },
   {
     "language": "English",
@@ -151,7 +151,7 @@
     "example": "The research was conducted in a rigorous manner.",
     "example_translation": "Badania przeprowadzono w rygorystyczny sposób.",
     "imageLink": "",
-    "audioLink": "audio_files\\rigorous.mp3"
+    "audioLink": "audio_files\\English\\rigorous.mp3"
   },
   {
     "language": "English",
@@ -162,7 +162,7 @@
     "example": "From the evidence, we can deduce that he is guilty.",
     "example_translation": "Z dowodów możemy dedukować, że jest winny.",
     "imageLink": "",
-    "audioLink": "audio_files\\deduce.mp3"
+    "audioLink": "audio_files\\English\\deduce.mp3"
   },
   {
     "language": "English",
@@ -173,7 +173,7 @@
     "example": "The new model is more robust and reliable.",
     "example_translation": "Nowy model jest bardziej solidny i niezawodny.",
     "imageLink": "",
-    "audioLink": "audio_files\\robust.mp3"
+    "audioLink": "audio_files\\English\\robust.mp3"
   },
   {
     "language": "English",
@@ -184,7 +184,7 @@
     "example": "The proposal was soundly rejected.",
     "example_translation": "Propozycja została solidnie odrzucona.",
     "imageLink": "",
-    "audioLink": "audio_files\\soundly.mp3"
+    "audioLink": "audio_files\\English\\soundly.mp3"
   },
   {
     "language": "English",
@@ -216,8 +216,8 @@
     "definition": "The systematic investigation into and study of materials and sources to establish facts and reach new conclusions.",
     "example": "The research took two years to complete.",
     "example_translation": "Badania zajęły dwa lata.",
-    "imageLink": "image_files\\research.jpg",
-    "audioLink": "audio_files\\research.mp3"
+    "imageLink": "image_files\\English\\research.jpg",
+    "audioLink": "audio_files\\English\\research.mp3"
   },
   {
     "language": "English",
@@ -250,7 +250,7 @@
     "example": "Considering the situation, we should act now.",
     "example_translation": "Biorąc pod uwagę sytuację, powinniśmy działać teraz.",
     "imageLink": "",
-    "audioLink": "audio_files\\considering.mp3"
+    "audioLink": "audio_files\\English\\considering.mp3"
   },
   {
     "language": "English",
@@ -294,7 +294,7 @@
     "example": "The political unrest led to widespread protests.",
     "example_translation": "Niepokój polityczny doprowadził do powszechnych protestów.",
     "imageLink": "",
-    "audioLink": "audio_files\\unrest.mp3"
+    "audioLink": "audio_files\\English\\unrest.mp3"
   },
   {
     "language": "English",
@@ -305,7 +305,7 @@
     "example": "Her insights into the market were invaluable.",
     "example_translation": "Jej spostrzeżenia dotyczące rynku były bezcenne.",
     "imageLink": "",
-    "audioLink": "audio_files\\insights.mp3"
+    "audioLink": "audio_files\\English\\insights.mp3"
   },
   {
     "language": "English",
@@ -316,7 +316,7 @@
     "example": "The company is looking to expand its workforce.",
     "example_translation": "Firma chce zwiększyć swoją siłę roboczą.",
     "imageLink": "",
-    "audioLink": "audio_files\\workforce.mp3"
+    "audioLink": "audio_files\\English\\workforce.mp3"
   },
   {
     "language": "English",
@@ -326,8 +326,8 @@
     "definition": "Correctly or satisfactorily.",
     "example": "Make sure the equipment is working properly.",
     "example_translation": "Upewnij się, że sprzęt działa prawidłowo.",
-    "imageLink": "image_files\\properly.jpg",
-    "audioLink": "audio_files\\properly.mp3"
+    "imageLink": "image_files\\English\\properly.jpg",
+    "audioLink": "audio_files\\English\\properly.mp3"
   },
   {
     "language": "English",
@@ -370,8 +370,8 @@
     "definition": "A long essay on a particular subject, especially one written for a university degree or diploma.",
     "example": "She completed her dissertation on climate change.",
     "example_translation": "Ukończyła rozprawę naukową na temat zmiany klimatu.",
-    "imageLink": "image_files\\dissertation.jpg",
-    "audioLink": "audio_files\\dissertation.mp3"
+    "imageLink": "image_files\\English\\dissertation.jpg",
+    "audioLink": "audio_files\\English\\dissertation.mp3"
   },
   {
     "language": "English",
@@ -382,7 +382,7 @@
     "example": "The evidence clearly shows he was guilty.",
     "example_translation": "Dowody wyraźnie pokazują, że był winny.",
     "imageLink": "",
-    "audioLink": "audio_files\\evidence.mp3"
+    "audioLink": "audio_files\\English\\evidence.mp3"
   },
   {
     "language": "English",
@@ -392,8 +392,8 @@
     "definition": "In a way that expresses or involves an analysis of the merits and faults of a work.",
     "example": "He critically examined the data.",
     "example_translation": "Krytycznie przeanalizował dane.",
-    "imageLink": "image_files\\critically.jpg",
-    "audioLink": "audio_files\\critically.mp3"
+    "imageLink": "image_files\\English\\critically.jpg",
+    "audioLink": "audio_files\\English\\critically.mp3"
   },
   {
     "language": "English",
@@ -404,7 +404,7 @@
     "example": "The critical review of the movie was positive.",
     "example_translation": "Krytyczna recenzja filmu była pozytywna.",
     "imageLink": "",
-    "audioLink": "audio_files\\critical-review.mp3"
+    "audioLink": "audio_files\\English\\critical-review.mp3"
   },
   {
     "language": "English",
@@ -414,8 +414,8 @@
     "definition": "The expression of disapproval of someone or something based on perceived faults or mistakes.",
     "example": "She received a lot of criticism for her decision.",
     "example_translation": "Otrzymała wiele krytyki za swoją decyzję.",
-    "imageLink": "image_files\\criticism.jpg",
-    "audioLink": "audio_files\\criticism.mp3"
+    "imageLink": "image_files\\English\\criticism.jpg",
+    "audioLink": "audio_files\\English\\criticism.mp3"
   },
   {
     "language": "English",
@@ -426,7 +426,7 @@
     "example": "Critical thinking is essential for problem-solving.",
     "example_translation": "Krytyczne myślenie jest niezbędne do rozwiązywania problemów.",
     "imageLink": "",
-    "audioLink": "audio_files\\critical-thinking.mp3"
+    "audioLink": "audio_files\\English\\critical-thinking.mp3"
   },
   {
     "language": "English",
