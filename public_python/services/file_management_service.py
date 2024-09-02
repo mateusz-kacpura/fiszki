@@ -1,8 +1,8 @@
 import os
 
 UPLOAD_FOLDER = 'uploads'
-IMAGE_FOLDER = 'image_files/English/'
-AUDIO_FOLDER = 'audio_files/English/'
+IMAGE_FOLDER = 'baza_danych/image_files/English/'
+AUDIO_FOLDER = 'baza_danych/audio_files/English/'
 
 def create_folders():
     for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER]:

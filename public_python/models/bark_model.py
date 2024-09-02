@@ -1,3 +1,3 @@
 from transformers import AutoModel, BarkModel
 
-BARK_MODEL = "models/bark" # git clone https://huggingface.co/suno/bark
+BARK_MODEL = "models/files/bark" # git clone https://huggingface.co/suno/bark

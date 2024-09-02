@@ -1,7 +1,7 @@
 import os
 import logging
 
-LOG_FOLDER = 'logi'
+LOG_FOLDER = 'baza_danych/logi'
 
 if not os.path.exists(LOG_FOLDER):
     os.makedirs(LOG_FOLDER)

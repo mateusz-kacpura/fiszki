@@ -1,0 +1,58 @@
+    <style>
+        .image-option {
+            width: 150px;
+            height: auto;
+            margin: 10px;
+            cursor: pointer;
+            border: 2px solid transparent;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .image-option img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .image-option .image-label {
+            margin-top: 5px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .image-option:hover {
+            border-color: #007bff;
+        }
+
+        #image-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        #answer-buttons {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+  
+  <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+      <ul class="navbar-nav">
+        <!-- Learn submenu items (yellow background) -->
+        <li class="nav-item">
+          <div id="learnSubmenu" class="submenu active">
+            <a class="nav-link learning-btn" href="{{ url_for('user.sentences_learning') }}">Sentences Learning</a>
+            <a class="nav-link learning-btn" href="{{ url_for('user.multilearning') }}">Multi Learning</a>
+            <a class="nav-link learning-btn" href="{{ url_for('user.single_word_learning') }}">Single Word Learning</a>
+            <a class="nav-link learning-btn" href="{{ url_for('user.scattered_words_learning') }}">Scattered Words Learning</a>
+            <a class="nav-link learning-btn" href="{{ url_for('user.image_words_learning') }}">Image Learning</a>
+            <a class="nav-link learning-btn" href="{{ url_for('user.insert_word') }}">Insert Word</a>
+            <a class="nav-link learning-btn" href="{{ url_for('user.definition') }}">Definition</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  
