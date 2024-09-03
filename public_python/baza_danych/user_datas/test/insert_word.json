@@ -1,0 +1,78 @@
+{
+    "full_text": "Anyone who has lost their permanent accommodation is classified in the UK as homeless. Sometimes these may be people who have nowhere to live and are literally sleeping on the street. In practice, the majority will be people living in temporary accommodation. All of the bodies concerned with the homeless agree with the government on exact numbers of homeless people, mainly because each organization has its own way of defining who the homeless are. Leaving this question aside, most agree about the causes of homelessness. Many people who previously lived at home with their families, or who were living above the shop where they work, may find themselves without a roof over their heads when they can no longer be helped. The same way, some people in this category, sometimes known as 'sofa surfers', end up going from one house to another, and may not appear in the statistics at all. Another large group comes under the heading of 'relationship breakdown'. When this event breaks up, either or both parties may find themselves with nowhere to go. Others who may be living, for example, in a flat above the shop where they work, may find themselves without a home when they are out of work. Finally, there is a small group who have got into financial difficulties, and cannot pay the rent or the mortgage on their property.",
+    
+    "sentences": [
+      "Anyone who has lost their permanent accommodation is classified in the UK as homeless.",
+      "Sometimes these may be people who have nowhere to live and are literally sleeping on the street.",
+      "In practice, the majority will be people living in temporary accommodation.",
+      "All of the bodies concerned with the homeless agree with the government on exact numbers of homeless people, mainly because each organization has its own way of defining who the homeless are.",
+      "Leaving this question aside, most agree about the causes of homelessness.",
+      "Many people who previously lived at home with their families, or who were living above the shop where they work, may find themselves without a roof over their heads when they can no longer be helped.",
+      "The same way, some people in this category, sometimes known as 'sofa surfers', end up going from one house to another, and may not appear in the statistics at all.",
+      "Another large group comes under the heading of 'relationship breakdown'.",
+      "When this event breaks up, either or both parties may find themselves with nowhere to go.",
+      "Others who may be living, for example, in a flat above the shop where they work, may find themselves without a home when they are out of work.",
+      "Finally, there is a small group who have got into financial difficulties, and cannot pay the rent or the mortgage on their property."
+    ],
+    
+    "missing_words": [
+      "Anyone",
+      "Sometimes",
+      "nowhere",
+      "In",
+      "All",
+      "each",
+      "agree",
+      "at",
+      "above",
+      "over",
+      "the same",
+      "longer places",
+      "in",
+      "under",
+      "When",
+      "breaks up",
+      "nowhere",
+      "above",
+      "out",
+      "into"
+    ],
+  
+    "translation_of_words": {
+      "Anyone": "Każda osoba",
+      "Sometimes": "Czasami",
+      "nowhere": "nigdzie",
+      "In": "W",
+      "All": "Wszystkie",
+      "each": "każda",
+      "agree": "zgadzają się",
+      "at": "w",
+      "above": "nad",
+      "over": "nad",
+      "the same": "w ten sam sposób",
+      "longer places": "nie pojawiają się",
+      "in": "w",
+      "under": "pod",
+      "When": "Gdy",
+      "breaks up": "dochodzi do rozpadu",
+      "nowhere": "nigdzie",
+      "above": "nad",
+      "out": "bez",
+      "into": "w"
+    },
+  
+    "translation_of_sentences": {
+      "Anyone who has lost their permanent accommodation is classified in the UK as homeless.": "Każda osoba, która utraciła swoje stałe zakwaterowanie, jest w Wielkiej Brytanii klasyfikowana jako bezdomna.",
+      "Sometimes these may be people who have nowhere to live and are literally sleeping on the street.": "Czasami mogą to być osoby, które nie mają gdzie mieszkać i dosłownie śpią na ulicy.",
+      "In practice, the majority will be people living in temporary accommodation.": "W praktyce większość stanowić będą osoby mieszkające w tymczasowych miejscach zakwaterowania.",
+      "All of the bodies concerned with the homeless agree with the government on exact numbers of homeless people, mainly because each organization has its own way of defining who the homeless are.": "Wszystkie organy zajmujące się bezdomnymi zgadzają się z rządem co do dokładnej liczby bezdomnych osób, głównie dlatego, że każda organizacja ma swój własny sposób definiowania, kim są bezdomni.",
+      "Leaving this question aside, most agree about the causes of homelessness.": "Pomijając to pytanie, większość zgadza się co do przyczyn bezdomności.",
+      "Many people who previously lived at home with their families, or who were living above the shop where they work, may find themselves without a roof over their heads when they can no longer be helped.": "Wiele osób, które wcześniej mieszkały w domu z rodzinami lub nad sklepem, w którym pracują, może znaleźć się bez dachu nad głową, gdy nie można im już pomóc.",
+      "The same way, some people in this category, sometimes known as 'sofa surfers', end up going from one house to another, and may not appear in the statistics at all.": "W ten sam sposób, niektórzy ludzie z tej kategorii, czasami nazywani „surfującymi po kanapach”, kończą przechodząc z jednego domu do drugiego i mogą w ogóle nie pojawiać się w statystykach.",
+      "Another large group comes under the heading of 'relationship breakdown'.": "Inna duża grupa mieści się pod nagłówkiem „rozpad związku”.",
+      "When this event breaks up, either or both parties may find themselves with nowhere to go.": "Gdy dochodzi do rozpadu związku, jedna lub obie strony mogą znaleźć się w sytuacji, w której nie mają dokąd pójść.",
+      "Others who may be living, for example, in a flat above the shop where they work, may find themselves without a home when they are out of work.": "Inni, którzy mogą mieszkać na przykład w mieszkaniu nad sklepem, w którym pracują, mogą znaleźć się bez domu, gdy stracą pracę.",
+      "Finally, there is a small group who have got into financial difficulties, and cannot pay the rent or the mortgage on their property.": "W końcu jest mała grupa, która popadła w trudności finansowe i nie może zapłacić czynszu lub kredytu hipotecznego na swoją nieruchomość."
+    }
+  }
+  

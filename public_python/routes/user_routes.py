@@ -41,7 +41,6 @@ WHISPER_MEDIUM = "models/files/whisper-medium" # git clone https://huggingface.c
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["SUNO_USE_SMALL_MODELS"] = "1"
 
-
 # Utwórzenie loggerów do logowania ogólnego
 app_logger = logging.getLogger('app_logger')
 app_logger.setLevel(logging.INFO)
@@ -175,6 +174,20 @@ def single_word_learning():
 @login_required
 def image_words_learning():
     return render_template('learning/image_words_learning.html', title="Image learning")
+
+# Route for serving JSON data
+@user_route.route('/get_text_data')
+@login_required
+def get_text_data():
+    with open('baza_danych/user_datas/test/insert_word.json') as f:
+        text_data = json.load(f)
+    return jsonify(text_data)  # Correctly returning JSON data
+
+# Route for rendering the HTML page
+@user_route.route('/learning/insert_word_to_text')
+@login_required
+def insert_word_to_text():
+    return render_template('learning/insert_word_to_text.html', title="Insert word to text")
 
 @user_route.route('/manage/exel')
 @login_required

@@ -1,0 +1,168 @@
+{% extends "learn.html" %}
+
+{% block title %}Multi Learning{% endblock %}
+
+{% block learn %}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+        padding: 20px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .mb-4 {
+        margin-bottom: 1.5rem;
+    }
+
+    .no-margin {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .card {
+        background-color: #ffffff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
+
+    .card-header {
+        background-color: #007bff;
+        color: white;
+        padding: 10px;
+        border-radius: 8px 8px 0 0;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .droppable {
+        padding: 5px;
+        border-bottom: 2px dashed #007bff;
+        margin-right: 5px;
+        display: inline-block;
+        min-width: 50px;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .image-option {
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: white;
+        margin: 5px;
+        border-radius: 5px;
+        cursor: pointer;
+        display: inline-block;
+        user-select: none;
+    }
+
+    .image-option:hover {
+        background-color: #0056b3;
+    }
+
+    .correct {
+        font-weight: bold;
+        color: green;
+    }
+</style>
+
+<h1 class="text-center mb-4">Uzupełnianie brakujących słów w tekście</h1>
+
+<div class="container no-margin">
+    <div class="row justify-content-center no-margin">
+        <div class="col-md-8 no-margin">
+            <div class="card mt-5 no-margin">
+                <div class="card-header">
+                    <h2 class="row justify-content-center">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
+                </div>
+                <div class="card-body">
+                    <p id="text-with-blanks"></p>
+                    <div id="image-container" class="row justify-content-center"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include 'learning/controls/buttons.html' %}
+{% include 'learning/modals/edit-word-modal.html' %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    fetch('/user/get_text_data')
+        .then(response => response.json())
+        .then(data => {
+            const textContainer = document.getElementById('text-with-blanks');
+            const wordContainer = document.getElementById('image-container');
+
+            // Display the whole text with blanks
+            let fullTextHtml = '';
+            data.full_text.split(' ').forEach(word => {
+                if (data.missing_words.includes(word)) {
+                    fullTextHtml += `<span class="droppable" data-word="${word}">____</span> `;
+                } else {
+                    fullTextHtml += word + ' ';
+                }
+            });
+            textContainer.innerHTML = fullTextHtml.trim();
+
+            // Shuffle and display draggable words
+            const shuffledWords = data.missing_words.sort(() => Math.random() - 0.5);
+            shuffledWords.forEach(word => {
+                const wordElement = document.createElement('div');
+                wordElement.classList.add('image-option');
+                wordElement.innerText = word;
+                wordElement.draggable = true;
+                wordElement.ondragstart = drag;
+                wordContainer.appendChild(wordElement);
+            });
+        });
+
+    // Functions to handle drag and drop
+    function allowDrop(event) {
+        event.preventDefault(); // Allow dropping
+    }
+
+    function drag(event) {
+        event.dataTransfer.setData('text', event.target.innerText); // Set drag data
+    }
+
+    function drop(event) {
+        event.preventDefault();
+        const draggedWord = event.dataTransfer.getData('text');
+        const target = event.target;
+
+        if (target.classList.contains('droppable') && draggedWord === target.dataset.word) {
+            target.innerText = draggedWord;
+            target.classList.add('correct');
+            target.classList.remove('droppable');
+
+            // Remove matched word from options
+            document.querySelectorAll('.image-option').forEach(option => {
+                if (option.innerText === draggedWord) {
+                    option.remove();
+                }
+            });
+        }
+    }
+
+    // Attach event listeners to the document
+    document.addEventListener('dragover', allowDrop);
+    document.addEventListener('drop', drop);
+});
+
+
+</script>
+{% endblock %}
+
