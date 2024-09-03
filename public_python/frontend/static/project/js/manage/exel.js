@@ -12,7 +12,7 @@ $(document).ready(function() {
 });
 
 function fetchData() {
-    $.getJSON('/data', { page: currentPage, per_page: rowsPerPage }, function(data) {
+    $.getJSON('/user/data', { page: currentPage, per_page: rowsPerPage }, function(data) {
         originalData = JSON.parse(JSON.stringify(data));  // Save a copy of the original data
         populateTable(data);  // Generowanie wierszy tabeli
         updatePagination();   // Aktualizacja paginacji
@@ -59,7 +59,7 @@ function populateTable(data) {
 
 function updatePagination() {
     // Assuming you have a way to get the total count of items
-    $.getJSON('/data/count', function(count) {
+    $.getJSON('/user/data/count', function(count) {
         totalPages = Math.ceil(count / rowsPerPage);
         $('#total-pages').text(totalPages);
         $('#page-number').attr('max', totalPages);
@@ -112,7 +112,7 @@ function saveRow(index) {
     }
 
     $.ajax({
-        url: `/data/${index}`,
+        url: `/user/data/${index}`,
         type: 'PUT',
         contentType: 'application/json',
         data: JSON.stringify(updatedItem),
@@ -129,7 +129,7 @@ function saveRow(index) {
 
 function deleteRow(index) {
     $.ajax({
-        url: `/data/${index}`,
+        url: `/user/data/${index}`,
         type: 'DELETE',
         success: function(data) {
             fetchData();  // Refresh the data after deleting the row
@@ -171,7 +171,7 @@ function showColumnMappingModal() {
     formData.append('file', fileInput.files[0]);
 
     $.ajax({
-        url: '/parse_excel_columns',  // Endpoint to parse and return columns
+        url: '/user/parse_excel_columns',  // Endpoint to parse and return columns
         type: 'POST',
         data: formData,
         processData: false,
@@ -266,7 +266,7 @@ function uploadExcel() {
     });
     console.log("Przed wysłaniem", formData)
     $.ajax({
-        url: '/upload_excel',
+        url: '/user/upload_excel',
         type: 'POST',
         data: formData,
         processData: false,
@@ -302,7 +302,7 @@ function uploadJson() {
     formData.append('file', fileInput.files[0]);
 
     $.ajax({
-        url: '/upload_json',
+        url: '/user/upload_json',
         type: 'POST',
         data: formData,
         processData: false,
@@ -345,7 +345,7 @@ function goToPage() {
 
 function handleLoadAudioPaths() {
     const words = Array.from(document.querySelectorAll('#data-table tbody tr td:nth-child(3)')).map(td => td.innerText);
-    fetch('/load-audio-paths', {
+    fetch('/user/load-audio-paths', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ words })
@@ -366,7 +366,7 @@ function handleLoadAudioPaths() {
 
 function handleLoadImagePaths() {
     const words = Array.from(document.querySelectorAll('#data-table tbody tr td:nth-child(3)')).map(td => td.innerText);
-    fetch('/load-image-paths', {
+    fetch('/user/load-image-paths', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ words })
@@ -417,7 +417,7 @@ function confirmSaveChanges() {
     const jsonString = JSON.stringify(updatedData, null, 2);
     const fileName = $('#fileNameInput').val() || 'example'; // Pobierz nazwę pliku od użytkownika lub ustaw na "example"
 
-    fetch('/uploads-save-json', {
+    fetch('/user/uploads-save-json', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -460,7 +460,7 @@ function confirmTranslateRows() {
     });
 
     rows.forEach(row => {
-        fetch(`/translate-word?word=${encodeURIComponent(row.sourceText)}&targetLang=${row.targetLang}`)
+        fetch(`/user/translate-word?word=${encodeURIComponent(row.sourceText)}&targetLang=${row.targetLang}`)
             .then(response => response.json())
             .then(translation => {
                 row.rowElement.find(`td[data-column="${targetColumn}"]`).text(translation);

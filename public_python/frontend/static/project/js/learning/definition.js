@@ -114,7 +114,7 @@ function showResultInModal(correct, translation, selectedWord) {
     const theme = document.body.classList.contains('bg-dark') ? 'dark' : 'light'; // Adjust theme check if needed
     currentWordData.word 
     // Fetch modal HTML from server
-    fetch(`/modals/definition-pop-up?word=${encodeURIComponent(currentWordData.word)}&selectedWord=${encodeURIComponent(selectedWord)}&resultMessage=${encodeURIComponent(resultMessage)}&translation=${encodeURIComponent(translation)}&definition=${encodeURIComponent(currentWordData.definition)}&theme=${encodeURIComponent(theme)}`)
+    fetch(`/user/modals/definition-pop-up?word=${encodeURIComponent(currentWordData.word)}&selectedWord=${encodeURIComponent(selectedWord)}&resultMessage=${encodeURIComponent(resultMessage)}&translation=${encodeURIComponent(translation)}&definition=${encodeURIComponent(currentWordData.definition)}&theme=${encodeURIComponent(theme)}`)
         .then(response => response.json())
         .then(data => {
             if (data.error) {

@@ -20,7 +20,7 @@ function fetchData() {
             console.log('Data loaded successfully:', rawWords);
 
             // Send words to Flask backend for processing
-            fetch('/process-words', {
+            fetch('/user/process-words', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -98,7 +98,7 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
         existingModal.remove();
     }
 
-    fetch(`/modals/insert-pop-up?selectedWord=${selected}&correctWord=${correct}&fullSentence=${fullSentence}&exampleTranslation=${exampleTranslation}&theme=${theme}`)
+    fetch(`/user/modals/insert-pop-up?selectedWord=${selected}&correctWord=${correct}&fullSentence=${fullSentence}&exampleTranslation=${exampleTranslation}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;

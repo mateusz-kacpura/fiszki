@@ -82,7 +82,7 @@ function displayImages(correctWord) {
       imageContainerElement.className = 'image-option';
 
       const imageElement = document.createElement('img');
-      imageElement.src = `/image_files/English/${wordData.imageLink.split('\\').pop()}`;
+      imageElement.src = `/user/image_files/English/${wordData.imageLink.split('\\').pop()}`;
       imageElement.alt = answer;
 
       const labelElement = document.createElement('div');
@@ -125,7 +125,7 @@ function checkImage(selectedWord, correctWord) {
     }
 
     // Load modal content from the Flask endpoint
-    fetch(`/modals/image-pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
+    fetch(`/user/modals/image-pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;
@@ -161,7 +161,7 @@ function removeCurrentWord() {
 }
 
 function fetchExcludedWords() {
-  fetch('api/setting/excludedWords.json')
+  fetch('user/api/setting/excludedWords.json')
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok');

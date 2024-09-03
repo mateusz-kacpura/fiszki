@@ -79,7 +79,7 @@ function showModal() {
 }
 
 function playTextToSpeech(text) {
-  fetch('/text-to-speech', {
+  fetch('/user/text-to-speech', {
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
@@ -106,7 +106,7 @@ function playTextToSpeech(text) {
 }
 
 function playTextToSpeechWithGroq(text) {
-  fetch('/text-to-speech-groq', {
+  fetch('/user/text-to-speech-groq', {
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
@@ -133,7 +133,7 @@ function playTextToSpeechWithGroq(text) {
 }
 
 function sendStatistic(data) {
-  fetch('/save_statistic', {
+  fetch('/user/save_statistic', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -150,7 +150,7 @@ function sendStatistic(data) {
 }
 
 function saveSetting(data) {
-    fetch('/saveSetting', {
+    fetch('/user/saveSetting', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
