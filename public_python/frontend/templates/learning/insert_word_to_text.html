@@ -20,8 +20,8 @@
     }
 
     .no-margin {
-        margin-top: 0px !important;
-        margin-bottom: 0px !important;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
     }
 
     .card {
@@ -72,6 +72,33 @@
         font-weight: bold;
         color: green;
     }
+
+    .word-button {
+        background-color: transparent;
+        border: none;
+        color: #007bff;
+        cursor: pointer;
+        padding: 0;
+        font-size: inherit;
+    }
+
+    .word-button:focus {
+        outline: none;
+    }
+
+    .selected {
+        background-color: #d1e7ff;
+    }
+
+    .translation-bubble {
+        position: absolute;
+        background-color: #007bff;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        z-index: 1000;
+    }
 </style>
 
 <h1 class="text-center mb-4">Uzupełnianie brakujących słów w tekście</h1>
@@ -92,10 +119,35 @@
     </div>
 </div>
 
+<!-- Bootstrap Modal for Word Translation -->
+<div class="modal fade" id="translationModal" tabindex="-1" aria-labelledby="translationModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="translationModalLabel">Tłumaczenie</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="modal-body-content">
+                <!-- Translation content will be injected here -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zamknij</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal remains the same -->
+<div class="modal fade" id="translationModal" tabindex="-1" aria-labelledby="translationModalLabel" aria-hidden="true">
+    <!-- Modal content is the same -->
+</div>
+
 {% include 'learning/controls/buttons.html' %}
 {% include 'learning/modals/edit-word-modal.html' %}
 
 {% endblock %}
+
+
 
 {% block scripts %}
 <script>
@@ -106,63 +158,221 @@ document.addEventListener('DOMContentLoaded', function() {
             const textContainer = document.getElementById('text-with-blanks');
             const wordContainer = document.getElementById('image-container');
 
-            // Display the whole text with blanks
+            let isMouseDown = false;
+            let selectedWords = [];
+            let lastSelectedIndex = -1;
+            let actionBubble = null;
+
+            // Śledzenie liczby pozostałych słów
+            const wordCount = data.missing_words.reduce((count, word) => {
+                count[word] = (count[word] || 0) + 1;
+                return count;
+            }, {});
+
+            // Wyświetlanie tekstu z brakującymi słowami
             let fullTextHtml = '';
+            let wordIndex = 0;
             data.full_text.split(' ').forEach(word => {
                 if (data.missing_words.includes(word)) {
-                    fullTextHtml += `<span class="droppable" data-word="${word}">____</span> `;
+                    fullTextHtml += `<span class="droppable word-button" data-word="${word}" data-index="${wordIndex}">____</span> `;
                 } else {
-                    fullTextHtml += word + ' ';
+                    fullTextHtml += `<button class="word-button" data-word="${word}" data-index="${wordIndex}">${word}</button> `;
                 }
+                wordIndex++;
             });
             textContainer.innerHTML = fullTextHtml.trim();
 
-            // Shuffle and display draggable words
-            const shuffledWords = data.missing_words.sort(() => Math.random() - 0.5);
-            shuffledWords.forEach(word => {
+            // Wyświetlanie słów do przeciągania
+            const createDraggableWord = (word) => {
                 const wordElement = document.createElement('div');
                 wordElement.classList.add('image-option');
                 wordElement.innerText = word;
                 wordElement.draggable = true;
                 wordElement.ondragstart = drag;
                 wordContainer.appendChild(wordElement);
-            });
-        });
+            };
 
-    // Functions to handle drag and drop
-    function allowDrop(event) {
-        event.preventDefault(); // Allow dropping
-    }
+            // Dodaj słowa do przeciągania
+            const updateWordContainer = () => {
+                // Usuń wszystkie obecne słowa
+                wordContainer.innerHTML = '';
 
-    function drag(event) {
-        event.dataTransfer.setData('text', event.target.innerText); // Set drag data
-    }
+                // Dodaj słowa, które jeszcze nie zostały użyte
+                Object.keys(wordCount).forEach(word => {
+                    if (wordCount[word] > 0 && !usedWords.has(word)) {
+                        for (let i = 0; i < wordCount[word]; i++) {
+                            createDraggableWord(word);
+                        }
+                    }
+                });
+            };
 
-    function drop(event) {
-        event.preventDefault();
-        const draggedWord = event.dataTransfer.getData('text');
-        const target = event.target;
+            // Inicjalizuj listę słów do przeciągania
+            const usedWords = new Set();
+            updateWordContainer();
 
-        if (target.classList.contains('droppable') && draggedWord === target.dataset.word) {
-            target.innerText = draggedWord;
-            target.classList.add('correct');
-            target.classList.remove('droppable');
-
-            // Remove matched word from options
-            document.querySelectorAll('.image-option').forEach(option => {
-                if (option.innerText === draggedWord) {
-                    option.remove();
+            // Obsługa zaznaczania i odznaczania słów
+            textContainer.addEventListener('mousedown', function(event) {
+                if (event.target.classList.contains('word-button')) {
+                    isMouseDown = true;
+                    toggleSelection(event.target);
+                    updateBubble(event);
                 }
             });
-        }
-    }
 
-    // Attach event listeners to the document
-    document.addEventListener('dragover', allowDrop);
-    document.addEventListener('drop', drop);
+            textContainer.addEventListener('mouseover', function(event) {
+                if (isMouseDown && event.target.classList.contains('word-button')) {
+                    toggleSelection(event.target);
+                    updateBubble(event);
+                }
+            });
+
+            textContainer.addEventListener('mouseup', function(event) {
+                isMouseDown = false;
+                if (selectedWords.length > 0) {
+                    updateBubble(event, true);
+                }
+            });
+
+            document.addEventListener('mouseup', function() {
+                isMouseDown = false;
+            });
+
+            function toggleSelection(element) {
+                const word = element.dataset.word;
+                const wordIndex = parseInt(element.dataset.index);
+
+                // Sprawdzenie, czy słowo jest pierwsze lub sąsiadujące z ostatnim zaznaczonym słowem
+                if (selectedWords.length === 0 || wordIndex === lastSelectedIndex + 1) {
+                    element.classList.add('selected');
+                    selectedWords.push(word);
+                    lastSelectedIndex = wordIndex;
+                } else if (element.classList.contains('selected')) {
+                    element.classList.remove('selected');
+                    selectedWords = selectedWords.filter(w => w !== word);
+                    lastSelectedIndex = selectedWords.length > 0 ? parseInt(element.dataset.index) : -1;
+                }
+
+                if (selectedWords.length === 0 && actionBubble) {
+                    actionBubble.style.display = 'none';
+                }
+            }
+
+            function updateBubble(event, finalizePosition = false) {
+                const firstSelectedWord = document.querySelector('.selected');
+                if (selectedWords.length > 0 && firstSelectedWord) {
+                    const rect = firstSelectedWord.getBoundingClientRect();
+                    const x = rect.left;
+                    const y = rect.top - 40;
+
+                    if (!actionBubble) {
+                        actionBubble = document.createElement('div');
+                        actionBubble.id = 'action-bubble';
+                        actionBubble.style.position = 'absolute';
+                        actionBubble.style.padding = '10px';
+                        actionBubble.style.border = '1px solid #ccc';
+                        actionBubble.style.borderRadius = '5px';
+                        actionBubble.style.backgroundColor = '#fff';
+                        actionBubble.style.boxShadow = '0px 2px 5px rgba(0,0,0,0.2)';
+                        actionBubble.innerHTML = `
+                            <button id="translateButton">Tłumacz</button>
+                            <span id="previewTranslation"></span>
+                        `;
+                        document.body.appendChild(actionBubble);
+
+                        document.getElementById('translateButton').addEventListener('click', function() {
+                            const translation = selectedWords
+                                .map(word => data.translation_of_words[word] || 'Brak tłumaczenia')
+                                .join(', ');
+                            showTranslation(translation);
+                            actionBubble.style.display = 'none';
+                        });
+                    }
+
+                    actionBubble.style.left = `${x}px`;
+                    actionBubble.style.top = `${y}px`;
+                    actionBubble.style.display = 'block';
+
+                    if (finalizePosition) {
+                        const previewTranslation = selectedWords
+                            .map(word => data.translation_of_words[word] || 'Brak tłumaczenia')
+                            .join(', ');
+                        document.getElementById('previewTranslation').innerText = ` | ${previewTranslation}`;
+                    }
+                }
+            }
+
+            function showTranslation(translation) {
+                document.getElementById('modal-body-content').innerText = translation;
+                const modal = new bootstrap.Modal(document.getElementById('translationModal'));
+                modal.show();
+            }
+
+            // Obsługa przeciągania i upuszczania
+            function allowDrop(event) {
+                event.preventDefault();
+            }
+
+            function drag(event) {
+                event.dataTransfer.setData('text', event.target.innerText);
+            }
+
+            function drop(event) {
+                event.preventDefault();
+                const draggedWord = event.dataTransfer.getData('text');
+                const target = event.target;
+
+                if (target.classList.contains('droppable') && draggedWord === target.dataset.word) {
+                    target.innerText = draggedWord;
+                    target.classList.add('correct');
+                    target.classList.remove('droppable');
+                    target.classList.add('word-button'); // Umożliwia zaznaczanie wstawionych słów
+
+                    // Zmniejsz liczbę pozostałych słów i usuń je z listy, jeśli są już niepotrzebne
+                    wordCount[draggedWord]--;
+                    if (wordCount[draggedWord] <= 0) {
+                        usedWords.add(draggedWord);
+                        updateWordContainer();
+                    }
+
+                    checkCompletion();
+                }
+            }
+
+            function checkCompletion() {
+                const remainingDroppables = document.querySelectorAll('.droppable');
+                if (remainingDroppables.length === 0) {
+                    alert('Gratulacje! Wszystkie słowa zostały wstawione.');
+                }
+            }
+
+            // Obsługa urządzeń dotykowych (mobile)
+            textContainer.addEventListener('touchstart', function(event) {
+                if (event.target.classList.contains('word-button')) {
+                    toggleSelection(event.target);
+                    updateBubble(event.touches[0]);
+                }
+            });
+
+            textContainer.addEventListener('touchmove', function(event) {
+                const touch = event.touches[0];
+                const element = document.elementFromPoint(touch.clientX, touch.clientY);
+                if (element && element.classList.contains('word-button')) {
+                    toggleSelection(element);
+                    updateBubble(touch);
+                }
+            });
+
+            textContainer.addEventListener('touchend', function(event) {
+                if (selectedWords.length > 0) {
+                    updateBubble(event.changedTouches[0], true);
+                }
+            });
+
+            // Dodanie nasłuchiwania na zdarzenia do całego dokumentu
+            document.addEventListener('dragover', allowDrop);
+            document.addEventListener('drop', drop);
+        });
 });
-
-
 </script>
 {% endblock %}
-

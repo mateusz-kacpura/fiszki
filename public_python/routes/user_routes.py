@@ -179,7 +179,7 @@ def image_words_learning():
 @user_route.route('/get_text_data')
 @login_required
 def get_text_data():
-    with open('baza_danych/user_datas/test/insert_word.json') as f:
+    with open('baza_danych/user_datas/test/insert_word.json', encoding='utf-8') as f:
         text_data = json.load(f)
     return jsonify(text_data)  # Correctly returning JSON data
 
