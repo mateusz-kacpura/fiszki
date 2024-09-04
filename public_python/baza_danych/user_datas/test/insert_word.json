@@ -58,7 +58,7 @@
                 "missing_words":[
                    {
                       "word":"agree",
-                      "position":2,
+                      "position":6,
                       "translation":"zgadzają się"
                    }
                 ]
@@ -69,17 +69,17 @@
                 "missing_words":[
                    {
                       "word":"at",
-                      "position":4,
+                      "position":6,
                       "translation":"w"
                    },
                    {
                       "word":"above",
-                      "position":10,
+                      "position":15,
                       "translation":"nad"
                    },
                    {
                       "word":"over",
-                      "position":17,
+                      "position":27,
                       "translation":"nad (poprawione ogólne tłumaczenie 'bez dachu nad głową' )"
                    }
                 ]
@@ -90,7 +90,7 @@
                 "missing_words":[
                    {
                       "word":"at",
-                      "position":23,
+                      "position":25,
                       "translation":"w"
                    }
                 ]
@@ -117,7 +117,7 @@
                    },
                    {
                       "word":"nowhere",
-                      "position":11,
+                      "position":14,
                       "translation":"nigdzie"
                    }
                 ]
@@ -128,12 +128,12 @@
                 "missing_words":[
                    {
                       "word":"above",
-                      "position":10,
+                      "position":11,
                       "translation":"nad"
                    },
                    {
                       "word":"out",
-                      "position":17,
+                      "position":26,
                       "translation":"bez"
                    }
                 ]
@@ -144,7 +144,7 @@
                 "missing_words":[
                    {
                       "word":"into",
-                      "position":5,
+                      "position":10,
                       "translation":"w"
                    }
                 ]

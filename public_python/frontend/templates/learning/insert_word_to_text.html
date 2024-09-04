@@ -142,6 +142,23 @@
     <!-- Modal content is the same -->
 </div>
 
+<div class="modal fade" id="textSelectionModal" tabindex="-1" aria-labelledby="textSelectionModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="textSelectionModalLabel">Wybierz tekst</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul id="textList" class="list-group">
+                    <!-- Lista tekstów zostanie wygenerowana dynamicznie -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 {% include 'learning/controls/buttons.html' %}
 {% include 'learning/modals/edit-word-modal.html' %}
 
@@ -150,69 +167,97 @@
 {% block scripts %}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('/user/get_text_data')
-        .then(response => response.json())
-        .then(data => {
-            const textContainer = document.getElementById('text-with-blanks');
-            const wordContainer = document.getElementById('image-container');
+    decideWhichTextToLoad();
 
-            let isMouseDown = false;
-            let selectedWords = [];
-            let lastSelectedIndex = -1;
-            let actionBubble = null;
+    function decideWhichTextToLoad() {
+        fetch('/user/get_text_data')
+            .then(response => response.json())
+            .then(data => {
+                const textList = document.getElementById('textList');
 
-            const wordCount = data.texts[0].sentences.reduce((count, sentence) => {
-                sentence.missing_words.forEach(missingWord => {
-                    const word = missingWord.word;
-                    count[word] = (count[word] || 0) + 1;
-                });
-                return count;
-            }, {});
-
-            let fullTextHtml = '';
-            data.texts[0].sentences.forEach((sentence, sentenceIndex) => {
-                let sentenceHtml = '';
-                let words = sentence.english.split(' ');
-                let positionIndex = 0;
-
-                while (positionIndex < words.length) {
-                    const word = words[positionIndex];
-
-                    // Znajdź missingWord w oparciu o pozycję
-                    const missingWord = sentence.missing_words.find(mw => {
-                        const isMultiplePositions = Array.isArray(mw.position);
-                        return isMultiplePositions
-                            ? mw.position.includes(positionIndex + 1)
-                            : mw.position === positionIndex + 1;
+                // Wygenerowanie listy tekstów do wyboru
+                data.text_names.forEach(text => {
+                    const listItem = document.createElement('li');
+                    listItem.className = 'list-group-item list-group-item-action';
+                    listItem.dataset.name = text.name;
+                    listItem.innerText = text.name;
+                    listItem.addEventListener('click', function() {
+                        const selectedTextName = this.dataset.name;
+                        fetchAndLoadText(selectedTextName);
                     });
+                    textList.appendChild(listItem);
+                });
 
-                    if (missingWord) {
-                        const missingWordLength = missingWord.word.split(' ').length;
-                        sentenceHtml += `<span class="droppable word-button" data-word="${missingWord.word}" data-index="${sentenceIndex}-${positionIndex}">____</span> `;
-                        
-                        // Przeskocz wszystkie pozycje, które zajmuje missingWord
-                        positionIndex += missingWordLength;
-                    } else {
-                        // Sprawdzenie, czy słowo powinno być pominięte, ponieważ należy do missingWord
-                        const isPartOfMissingWord = sentence.missing_words.some(mw => {
-                            if (Array.isArray(mw.position)) {
-                                return mw.position.includes(positionIndex + 1);
-                            }
-                            return false;
+                // Pokazanie modala po załadowaniu listy tekstów
+                const textSelectionModal = new bootstrap.Modal(document.getElementById('textSelectionModal'));
+                textSelectionModal.show();
+            })
+            .catch(error => {
+                console.error('Błąd przy pobieraniu listy tekstów:', error);
+            });
+    }
+
+    function fetchAndLoadText(textName) {
+        fetch(`/user/get_text_data?name=${encodeURIComponent(textName)}`)
+            .then(response => response.json())
+            .then(data => {
+                const textContainer = document.getElementById('text-with-blanks');
+                const wordContainer = document.getElementById('image-container');
+
+                let isMouseDown = false;
+                let selectedWords = [];
+                let lastSelectedIndex = -1;
+                let actionBubble = null;
+
+                const wordCount = data.texts[0].sentences.reduce((count, sentence) => {
+                    sentence.missing_words.forEach(missingWord => {
+                        const word = missingWord.word;
+                        count[word] = (count[word] || 0) + 1;
+                    });
+                    return count;
+                }, {});
+
+                let fullTextHtml = '';
+                data.texts[0].sentences.forEach((sentence, sentenceIndex) => {
+                    let sentenceHtml = '';
+                    let words = sentence.english.split(' ');
+                    let positionIndex = 0;
+
+                    while (positionIndex < words.length) {
+                        const word = words[positionIndex];
+
+                        const missingWord = sentence.missing_words.find(mw => {
+                            const isMultiplePositions = Array.isArray(mw.position);
+                            return isMultiplePositions
+                                ? mw.position.includes(positionIndex + 1)
+                                : mw.position === positionIndex + 1;
                         });
 
-                        if (!isPartOfMissingWord) {
-                            sentenceHtml += `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button> `;
+                        if (missingWord) {
+                            const missingWordLength = missingWord.word.split(' ').length;
+                            sentenceHtml += `<span class="droppable word-button" data-word="${missingWord.word}" data-index="${sentenceIndex}-${positionIndex}">____</span> `;
+                            
+                            positionIndex += missingWordLength;
+                        } else {
+                            const isPartOfMissingWord = sentence.missing_words.some(mw => {
+                                if (Array.isArray(mw.position)) {
+                                    return mw.position.includes(positionIndex + 1);
+                                }
+                                return false;
+                            });
+
+                            if (!isPartOfMissingWord) {
+                                sentenceHtml += `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button> `;
+                            }
+
+                            positionIndex += 1;
                         }
-
-                        positionIndex += 1;
                     }
-                }
 
-                fullTextHtml += sentenceHtml.trim() + ' ';
-            });
+                    fullTextHtml += sentenceHtml.trim() + ' ';
+                });
 
-            textContainer.innerHTML = fullTextHtml.trim();
+                textContainer.innerHTML = fullTextHtml.trim();
 
             const createDraggableWord = (word) => {
                 const wordElement = document.createElement('div');
@@ -306,16 +351,30 @@ document.addEventListener('DOMContentLoaded', function() {
                         document.body.appendChild(actionBubble);
 
                         document.getElementById('translateButton').addEventListener('click', function() {
-                            const translation = selectedWords
-                                .map(word => {
-                                    const translationObj = data.texts[0].sentences
-                                        .flatMap(sentence => sentence.missing_words)
-                                        .find(mw => mw.word === word);
-                                    return translationObj ? translationObj.translation : 'Brak tłumaczenia';
-                                })
-                                .join(', ');
-                            showTranslation(translation);
-                            actionBubble.style.display = 'none';
+                            const textToTranslate = selectedWords.join(' ');
+
+                            // Wykonaj fetch do Twojego API
+                            fetch('/user/translate', {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/json',
+                                },
+                                body: JSON.stringify({ text: textToTranslate }),
+                            })
+                            .then(response => response.json())
+                            .then(data => {
+                                if (data.translatedText) {
+                                    showTranslation(data.translatedText);
+                                } else {
+                                    showTranslation('Brak tłumaczenia');
+                                }
+                                actionBubble.style.display = 'none';
+                            })
+                            .catch(error => {
+                                console.error('Error:', error);
+                                showTranslation('Błąd tłumaczenia');
+                                actionBubble.style.display = 'none';
+                            });
                         });
                     }
 
@@ -324,18 +383,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     actionBubble.style.display = 'block';
 
                     if (finalizePosition) {
-                        const previewTranslation = selectedWords
-                            .map(word => {
-                                const translationObj = data.texts[0].sentences
-                                    .flatMap(sentence => sentence.missing_words)
-                                    .find(mw => mw.word === word);
-                                return translationObj ? translationObj.translation : 'Brak tłumaczenia';
-                            })
-                            .join(', ');
-                        document.getElementById('previewTranslation').innerText = ` | ${previewTranslation}`;
+                        document.getElementById('previewTranslation').innerText = '';
                     }
                 }
             }
+
 
             function showTranslation(translation) {
                 document.getElementById('modal-body-content').innerText = translation;
@@ -406,6 +458,8 @@ document.addEventListener('DOMContentLoaded', function() {
             document.addEventListener('dragover', allowDrop);
             document.addEventListener('drop', drop);
         });
+    }
+    
 });
 
 </script>

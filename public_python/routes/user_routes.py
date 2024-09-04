@@ -175,13 +175,22 @@ def single_word_learning():
 def image_words_learning():
     return render_template('learning/image_words_learning.html', title="Image learning")
 
-# Route for serving JSON data
 @user_route.route('/get_text_data')
 @login_required
 def get_text_data():
+    name = request.args.get('name')  # Pobieranie parametru 'name' z zapytania
     with open('baza_danych/user_datas/test/insert_word.json', encoding='utf-8') as f:
         text_data = json.load(f)
-    return jsonify(text_data)  # Correctly returning JSON data
+
+    # Jeśli name jest podane, znajdź odpowiedni tekst
+    if name:
+        selected_text = next((text for text in text_data["texts"] if text["name"] == name), None)
+        if selected_text:
+            return jsonify({"texts": [selected_text]})
+    
+    # Jeśli nie podano name, zwróć listę nazw dostępnych tekstów
+    text_names = [{"name": text["name"], "uuid": text["uuid"]} for text in text_data["texts"]]
+    return jsonify({"text_names": text_names})
 
 # Route for rendering the HTML page
 @user_route.route('/learning/insert_word_to_text')
