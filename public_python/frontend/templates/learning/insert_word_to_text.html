@@ -147,8 +147,6 @@
 
 {% endblock %}
 
-
-
 {% block scripts %}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -163,26 +161,59 @@ document.addEventListener('DOMContentLoaded', function() {
             let lastSelectedIndex = -1;
             let actionBubble = null;
 
-            // Śledzenie liczby pozostałych słów
-            const wordCount = data.missing_words.reduce((count, word) => {
-                count[word] = (count[word] || 0) + 1;
+            const wordCount = data.texts[0].sentences.reduce((count, sentence) => {
+                sentence.missing_words.forEach(missingWord => {
+                    const word = missingWord.word;
+                    count[word] = (count[word] || 0) + 1;
+                });
                 return count;
             }, {});
 
-            // Wyświetlanie tekstu z brakującymi słowami
             let fullTextHtml = '';
-            let wordIndex = 0;
-            data.full_text.split(' ').forEach(word => {
-                if (data.missing_words.includes(word)) {
-                    fullTextHtml += `<span class="droppable word-button" data-word="${word}" data-index="${wordIndex}">____</span> `;
-                } else {
-                    fullTextHtml += `<button class="word-button" data-word="${word}" data-index="${wordIndex}">${word}</button> `;
+            data.texts[0].sentences.forEach((sentence, sentenceIndex) => {
+                let sentenceHtml = '';
+                let words = sentence.english.split(' ');
+                let positionIndex = 0;
+
+                while (positionIndex < words.length) {
+                    const word = words[positionIndex];
+
+                    // Znajdź missingWord w oparciu o pozycję
+                    const missingWord = sentence.missing_words.find(mw => {
+                        const isMultiplePositions = Array.isArray(mw.position);
+                        return isMultiplePositions
+                            ? mw.position.includes(positionIndex + 1)
+                            : mw.position === positionIndex + 1;
+                    });
+
+                    if (missingWord) {
+                        const missingWordLength = missingWord.word.split(' ').length;
+                        sentenceHtml += `<span class="droppable word-button" data-word="${missingWord.word}" data-index="${sentenceIndex}-${positionIndex}">____</span> `;
+                        
+                        // Przeskocz wszystkie pozycje, które zajmuje missingWord
+                        positionIndex += missingWordLength;
+                    } else {
+                        // Sprawdzenie, czy słowo powinno być pominięte, ponieważ należy do missingWord
+                        const isPartOfMissingWord = sentence.missing_words.some(mw => {
+                            if (Array.isArray(mw.position)) {
+                                return mw.position.includes(positionIndex + 1);
+                            }
+                            return false;
+                        });
+
+                        if (!isPartOfMissingWord) {
+                            sentenceHtml += `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button> `;
+                        }
+
+                        positionIndex += 1;
+                    }
                 }
-                wordIndex++;
+
+                fullTextHtml += sentenceHtml.trim() + ' ';
             });
+
             textContainer.innerHTML = fullTextHtml.trim();
 
-            // Wyświetlanie słów do przeciągania
             const createDraggableWord = (word) => {
                 const wordElement = document.createElement('div');
                 wordElement.classList.add('image-option');
@@ -192,12 +223,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 wordContainer.appendChild(wordElement);
             };
 
-            // Dodaj słowa do przeciągania
             const updateWordContainer = () => {
-                // Usuń wszystkie obecne słowa
                 wordContainer.innerHTML = '';
-
-                // Dodaj słowa, które jeszcze nie zostały użyte
                 Object.keys(wordCount).forEach(word => {
                     if (wordCount[word] > 0 && !usedWords.has(word)) {
                         for (let i = 0; i < wordCount[word]; i++) {
@@ -207,7 +234,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             };
 
-            // Inicjalizuj listę słów do przeciągania
             const usedWords = new Set();
             updateWordContainer();
 
@@ -240,23 +266,22 @@ document.addEventListener('DOMContentLoaded', function() {
 
             function toggleSelection(element) {
                 const word = element.dataset.word;
-                const wordIndex = parseInt(element.dataset.index);
+                const wordIndex = element.dataset.index;
 
-                // Sprawdzenie, czy słowo jest pierwsze lub sąsiadujące z ostatnim zaznaczonym słowem
-                if (selectedWords.length === 0 || wordIndex === lastSelectedIndex + 1) {
+                if (selectedWords.length === 0 || wordIndex === `${lastSelectedIndex.split('-')[0]}-${parseInt(lastSelectedIndex.split('-')[1]) + 1}`) {
                     element.classList.add('selected');
                     selectedWords.push(word);
                     lastSelectedIndex = wordIndex;
                 } else if (element.classList.contains('selected')) {
                     element.classList.remove('selected');
                     selectedWords = selectedWords.filter(w => w !== word);
-                    lastSelectedIndex = selectedWords.length > 0 ? parseInt(element.dataset.index) : -1;
+                    lastSelectedIndex = selectedWords.length > 0 ? element.dataset.index : -1;
                 }
 
                 if (selectedWords.length === 0 && actionBubble) {
                     actionBubble.style.display = 'none';
                 }
-            }
+            }            
 
             function updateBubble(event, finalizePosition = false) {
                 const firstSelectedWord = document.querySelector('.selected');
@@ -282,7 +307,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
                         document.getElementById('translateButton').addEventListener('click', function() {
                             const translation = selectedWords
-                                .map(word => data.translation_of_words[word] || 'Brak tłumaczenia')
+                                .map(word => {
+                                    const translationObj = data.texts[0].sentences
+                                        .flatMap(sentence => sentence.missing_words)
+                                        .find(mw => mw.word === word);
+                                    return translationObj ? translationObj.translation : 'Brak tłumaczenia';
+                                })
                                 .join(', ');
                             showTranslation(translation);
                             actionBubble.style.display = 'none';
@@ -295,7 +325,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     if (finalizePosition) {
                         const previewTranslation = selectedWords
-                            .map(word => data.translation_of_words[word] || 'Brak tłumaczenia')
+                            .map(word => {
+                                const translationObj = data.texts[0].sentences
+                                    .flatMap(sentence => sentence.missing_words)
+                                    .find(mw => mw.word === word);
+                                return translationObj ? translationObj.translation : 'Brak tłumaczenia';
+                            })
                             .join(', ');
                         document.getElementById('previewTranslation').innerText = ` | ${previewTranslation}`;
                     }
@@ -326,9 +361,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     target.innerText = draggedWord;
                     target.classList.add('correct');
                     target.classList.remove('droppable');
-                    target.classList.add('word-button'); // Umożliwia zaznaczanie wstawionych słów
+                    target.classList.add('word-button');
 
-                    // Zmniejsz liczbę pozostałych słów i usuń je z listy, jeśli są już niepotrzebne
                     wordCount[draggedWord]--;
                     if (wordCount[draggedWord] <= 0) {
                         usedWords.add(draggedWord);
@@ -369,10 +403,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
 
-            // Dodanie nasłuchiwania na zdarzenia do całego dokumentu
             document.addEventListener('dragover', allowDrop);
             document.addEventListener('drop', drop);
         });
 });
+
 </script>
 {% endblock %}
