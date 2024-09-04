@@ -150,6 +150,562 @@
                 ]
              }
           ]
-       }
+       },
+        {
+            "uuid": "34.1",
+            "name": "Statistical terms sentences",
+            "sentences": [
+                {
+                    "english": "The six subjects who took the test scored 24, 22, 16, 16, 16 and 14 points out of 30. The mean score was 18. The median score was 19 and the range of scores was 10.",
+                    "polish": "Sześciu uczestników, którzy przystąpili do testu, uzyskało wyniki 24, 22, 16, 16, 16 i 14 punktów na 30 możliwych. Średnia wyniosła 18. Mediana wyników wyniosła 19, a rozpiętość wyników wyniosła 10.",
+                    "missing_words": [
+                        {
+                            "word": "mean",
+                            "position": 21,
+                            "translation": "średnia"
+                        },
+                        {
+                            "word": "median",
+                            "position": 26,
+                            "translation": "mediana"
+                        },
+                        {
+                            "word": "range",
+                            "position": 32,
+                            "translation": "rozpiętość"
+                        }
+                    ]
+                },
+                {
+                    "english": "The total of all donations to the charity in 2003 was $3,938. The smallest donation was $10 and the largest was $130. Most were around the midpoint of $60.",
+                    "polish": "Łączna suma wszystkich darowizn na rzecz organizacji charytatywnej w 2003 roku wyniosła 3 938 dolarów. Najmniejsza darowizna wyniosła 10 dolarów, a największa 130 dolarów. Większość wyniosła około środka 60 dolarów.",
+                    "missing_words": [
+                        {
+                            "word": "midpoint",
+                            "position": 27,
+                            "translation": "środek"
+                        }
+                    ]
+                },
+                {
+                    "english": "The centre has recorded a wide range of temperatures, with the two extremes being 35° in the summer and -6° in the winter.",
+                    "polish": "Centrum zarejestrowało szeroki zakres temperatur, z dwoma ekstremami wynoszącymi 35° latem i -6° zimą.",
+                    "missing_words": [
+                        {
+                            "word": "range",
+                            "position": 7,
+                            "translation": "zakres"
+                        },
+                        {
+                            "word": "extremes",
+                            "position": 13,
+                            "translation": "ekstrema"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "34.2",
+            "name": "Insurance and statistics sentences",
+            "sentences": [
+                {
+                    "english": "Life insurance companies base their calculations on the laws of probability, that is they assess the likely outcomes given the different variables such as age, sex, lifestyle and medical history of their clients.",
+                    "polish": "Firmy ubezpieczeniowe opierają swoje kalkulacje na prawach prawdopodobieństwa, czyli oceniają prawdopodobne wyniki biorąc pod uwagę różne zmienne, takie jak wiek, płeć, styl życia i historia medyczna ich klientów.",
+                    "missing_words": [
+                        {
+                            "word": "probability",
+                            "position": 11,
+                            "translation": "prawdopodobieństwo"
+                        },
+                        {
+                            "word": "outcomes",
+                            "position": 18,
+                            "translation": "wyniki"
+                        },
+                        {
+                            "word": "variables",
+                            "position": 22,
+                            "translation": "zmienne"
+                        }
+                    ]
+                },
+                {
+                    "english": "The premiums are therefore not chosen at random but are carefully calculated.",
+                    "polish": "Składki nie są zatem wybierane losowo, ale są starannie obliczane.",
+                    "missing_words": [
+                        {
+                            "word": "random",
+                            "position": 8,
+                            "translation": "losowo"
+                        }
+                    ]
+                },
+                {
+                    "english": "The distributions of ages at which death occurs and causes of death correlate with other factors to be taken into account in setting the premiums.",
+                    "polish": "Rozkłady wieku, w którym dochodzi do zgonu, oraz przyczyny zgonu korelują z innymi czynnikami, które należy uwzględnić przy ustalaniu składek.",
+                    "missing_words": [
+                        {
+                            "word": "distributions",
+                            "position": 2,
+                            "translation": "rozkłady"
+                        },
+                        {
+                            "word": "correlate",
+                            "position": 13,
+                            "translation": "korelują"
+                        }
+                    ]
+                },
+                {
+                    "english": "Naturally, the companies also monitor social trends which might significantly affect mortality rates.",
+                    "polish": "Oczywiście firmy również monitorują trendy społeczne, które mogą znacząco wpłynąć na wskaźniki śmiertelności.",
+                    "missing_words": [
+                        {
+                            "word": "trends",
+                            "position": 7,
+                            "translation": "trendy"
+                        },
+                        {
+                            "word": "significantly",
+                            "position": 10,
+                            "translation": "znacząco"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "32.1",
+            "name": "Opposite words replacement",
+            "sentences": [
+                {
+                    "english": "The views she expressed were totally rational.",
+                    "polish": "Poglądy, które wyraziła, były całkowicie racjonalne.",
+                    "missing_words": [
+                        {
+                            "word": "rational / irrational",
+                            "position": 7,
+                            "translation": "irracjonalne"
+                        }
+                    ]
+                },
+                {
+                    "english": "The committee seemed to be biased against applications from younger people.",
+                    "polish": "Komitet wydawał się być uprzedzony wobec wniosków od młodszych ludzi.",
+                    "missing_words": [
+                        {
+                            "word": "biased / unbiased",
+                            "position": 6,
+                            "translation": "uprzedzony"
+                        }
+                    ]
+                },
+                {
+                    "english": "The book is an objective account of life in a small town in the 1920s.",
+                    "polish": "Książka jest obiektywną relacją z życia w małym miasteczku w latach 20. XX wieku.",
+                    "missing_words": [
+                        {
+                            "word": "objective / subbective",
+                            "position": 5,
+                            "translation": "subiektywna"
+                        }
+                    ]
+                },
+                {
+                    "english": "The club rules were prejudiced in favour of children.",
+                    "polish": "Zasady klubu były uprzedzone na korzyść dzieci.",
+                    "missing_words": [
+                        {
+                            "word": "prejudiced / unprejudiced",
+                            "position": 5,
+                            "translation": "uprzedzone"
+                        }
+                    ]
+                },
+                {
+                    "english": "The President's daughter was quite mature for her age.",
+                    "polish": "Córka Prezydenta była dość dojrzała jak na swój wiek.",
+                    "missing_words": [
+                        {
+                            "word": "mature / inmature",
+                            "position": 6,
+                            "translation": "dojrzała"
+                        }
+                    ]
+                },
+                {
+                    "english": "He has rather radical views about marriage.",
+                    "polish": "Ma raczej radykalne poglądy na temat małżeństwa.",
+                    "missing_words": [
+                        {
+                            "word": "conservative / radical",
+                            "position": 4,
+                            "translation": "konserwatywne"
+                        }
+                    ]
+                },
+                {
+                    "english": "Her views on education are rather radical.",
+                    "polish": "Jej poglądy na temat edukacji są raczej radykalne.",
+                    "missing_words": [
+                        {
+                            "word": "radical / reactionary",
+                            "position": 7,
+                            "translation": "reakcyjne"
+                        }
+                    ]
+                },
+                {
+                    "english": "In my opinion that judge always acts in a biased way.",
+                    "polish": "Moim zdaniem ten sędzia zawsze działa w uprzedzony sposób.",
+                    "missing_words": [
+                        {
+                            "word": "biased / unbiased",
+                            "position": 10,
+                            "translation": "nieuprzedzony"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "32.2",
+            "name": "Sentence completion with proper forms",
+            "sentences": [
+                {
+                    "english": "The underlying principles of Asian and European philosophy are very similar.",
+                    "polish": "Podstawowe zasady filozofii azjatyckiej i europejskiej są bardzo podobne.",
+                    "missing_words": [
+                        {
+                            "word": "underlying",
+                            "position": 2,
+                            "translation": "podstawowe"
+                        }
+                    ]
+                },
+                {
+                    "english": "People tend to adopt a more conservative stance as they get older.",
+                    "polish": "Ludzie mają tendencję do przyjmowania bardziej konserwatywnego stanowiska wraz z wiekiem.",
+                    "missing_words": [
+                        {
+                            "word": "adopt",
+                            "position": 4,
+                            "translation": "przyjmować"
+                        }
+                    ]
+                },
+                {
+                    "english": "She has always held the view that primary education should not start before the age of seven.",
+                    "polish": "Zawsze była zdania, że edukacja podstawowa nie powinna się rozpoczynać przed siódmym rokiem życia.",
+                    "missing_words": [
+                        {
+                            "word": "held",
+                            "position": 4,
+                            "translation": "utrzymywać"
+                        }
+                    ]
+                },
+                {
+                    "english": "Many people have ethical objections to investing in companies which support corrupt regimes.",
+                    "polish": "Wiele osób ma etyczne zastrzeżenia co do inwestowania w firmy wspierające skorumpowane reżimy.",
+                    "missing_words": [
+                        {
+                            "word": "ethical",
+                            "position": 4,
+                            "translation": "etyczne"
+                        }
+                    ]
+                },
+                {
+                    "english": "Some employers still have a deep rooted prejudice against employing older people, and many older people encounter such prejudice when they apply for jobs.",
+                    "polish": "Niektórzy pracodawcy wciąż mają głęboko zakorzenione uprzedzenia wobec zatrudniania starszych ludzi, a wielu starszych ludzi spotyka się z takimi uprzedzeniami podczas ubiegania się o pracę.",
+                    "missing_words": [
+                        {
+                            "word": "rooted",
+                            "position": 7,
+                            "translation": "zakorzenione"
+                        },
+                        {
+                            "word": "encounter",
+                            "position": 17,
+                            "translation": "spotykać się z"
+                        }
+                    ]
+                },
+                {
+                    "english": "The government seems to have shifted its position recently.",
+                    "polish": "Rząd wydaje się niedawno zmienić swoje stanowisko.",
+                    "missing_words": [
+                        {
+                            "word": "shifted",
+                            "position": 6,
+                            "translation": "zmienić"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "28.3",
+            "name": "Complete the extracts with the missing words. The first letter of each word is given to help you.",
+            "sentences": [
+                {
+                    "english": "Which is better the night before an exam? ",
+                    "polish": "Co jest lepsze na noc przed egzaminem?",
+                    "missing_words": []
+                },
+                {
+                    "english": "To study longer and get less sleep or to study less and sleep longer?",
+                    "polish": "Dłużej się uczyć i mniej spać czy mniej się uczyć i dłużej spać?",
+                    "missing_words": []
+                },
+                {
+                    "english": "After ‘weighing up the evidence, scientists have concluded that the disadvantages of getting more sleep outweigh the advantages.",
+                    "polish": "Po zważeniu dowodów naukowcy doszli do wniosku, że wady dłuższego snu przeważają nad zaletami.",
+                    "missing_words": [
+                        {
+                            "word": "weighing",
+                            "position": 2,
+                            "translation": "zważenie"
+                        },
+                        {
+                            "word": "disadvantages",
+                            "position": 11,
+                            "translation": "wady"
+                        }
+                    ]
+                },
+                {
+                    "english": "Research has provided insights into the link between sleep and memory development, suggesting that sleep is essential for memory.",
+                    "polish": "Badania dostarczyły wglądu w związek między snem a rozwojem pamięci, sugerując, że sen jest niezbędny dla pamięci.",
+                    "missing_words": [
+                        {
+                            "word": "insights",
+                            "position": 4,
+                            "translation": "wgląd"
+                        },
+                        {
+                            "word": "essential",
+                            "position": 17,
+                            "translation": "niezbędny"
+                        }
+                    ]
+                },
+                {
+                    "english": "There are many variables to take into account in sleep and memory research – dreaming, phases of sleep and types of memories, for example – and recent research considers each of these in a systematic way to come to conclusions that appear to be more robust.",
+                    "polish": "Jest wiele zmiennych do uwzględnienia w badaniach nad snem i pamięcią – na przykład śnienie, fazy snu i rodzaje wspomnień – a ostatnie badania rozważają każdą z nich w systematyczny sposób, aby dojść do wniosków, które wydają się być bardziej solidne.",
+                    "missing_words": [
+                        {
+                            "word": "variables",
+                            "position": 4,
+                            "translation": "zmienne"
+                        },
+                        {
+                            "word": "phases",
+                            "position": 16,
+                            "translation": "fazy"
+                        },
+                        {
+                            "word": "come",
+                            "position": 38,
+                            "translation": "dojść"
+                        }
+                    ]
+                },
+                {
+                    "english": "Dreams constitute about 25% of a typical eight-hour sleep, but research points to a connection between memory development and non-dreaming sleep time.",
+                    "polish": "Sny stanowią około 25% typowego ośmiogodzinnego snu, ale badania wskazują na związek między rozwojem pamięci a czasem snu bez snów.",
+                    "missing_words": [
+                        {
+                            "word": "points",
+                            "position": 12,
+                            "translation": "wskazują"
+                        }
+                    ]
+                },
+                {
+                    "english": "When considering energy conservation, we have to take into account various relevant factors. But how do we relate a particular case of action to its outcome? For example, flying from London to Paris instead of taking the train is quicker but causes more pollution.",
+                    "polish": "Rozważając oszczędzanie energii, musimy wziąć pod uwagę różne istotne czynniki. Ale jak powiązać konkretną akcję z jej wynikiem? Na przykład lot z Londynu do Paryża zamiast podróży pociągiem jest szybszy, ale powoduje większe zanieczyszczenie.",
+                    "missing_words": []
+                },
+                {
+                    "english": "You opt to cycle to work instead of driving in order to avoid adding to pollution. What can we deduce from the evidence? Do our individual choices make a difference?",
+                    "polish": "Decydujesz się na dojazd rowerem do pracy zamiast jazdy samochodem, aby uniknąć przyczyniania się do zanieczyszczenia. Co możemy wywnioskować z dowodów? Czy nasze indywidualne wybory mają znaczenie?",
+                    "missing_words": []
+                },
+                {
+                    "english": "On the basis of global data we can predict that climate change will increase, but how much do personal choices affect the big picture? Could my choice to buy a second car tip the balance and cause a global catastrophe?",
+                    "polish": "Na podstawie globalnych danych możemy przewidzieć, że zmiany klimatyczne się nasilą, ale na ile nasze osobiste wybory wpływają na ogólny obraz? Czy mój wybór zakupu drugiego samochodu może przechylić szalę i spowodować globalną katastrofę?",
+                    "missing_words": []
+                }
+            ]
+        },
+        {
+            "uuid": "28.3",
+            "name": "Working with numbers",
+            "sentences": [
+                {
+                    "english": "The word figure is often used to refer to the symbol used for a number. Write the total number in words and figures.",
+                    "polish": "Słowo 'figure' jest często używane do odniesienia się do symbolu używanego dla liczby. Zapisz całkowitą liczbę słownie i cyframi.",
+                    "missing_words": [
+                        {
+                            "word": "figures",
+                            "position": 3,
+                            "translation": "cyframi"
+                        }
+                    ]
+                },
+                {
+                    "english": "You can calculate a number, estimate a number, round a number up/down and total a set of numbers.",
+                    "polish": "Możesz obliczyć liczbę, oszacować liczbę, zaokrąglić liczbę w górę/w dół i zsumować zestaw liczb.",
+                    "missing_words": [
+                        {
+                            "word": "calculate",
+                            "position": 3,
+                            "translation": "obliczyć"
+                        },
+                        {
+                            "word": "estimate",
+                            "position": 6,
+                            "translation": "oszacować"
+                        },
+                        {
+                            "word": "up/down",
+                            "position": 12,
+                            "translation": "w górę/w dół"
+                        },
+                        {
+                            "word": "total",
+                            "position": 14,
+                            "translation": "zsumować"
+                        }
+                    ]
+                },
+                {
+                    "english": "Numbers can tally. My figures don’t seem to tally with yours.",
+                    "polish": "Liczby mogą się zgadzać. Moje liczby nie wydają się zgadzać z twoimi.",
+                    "missing_words": [
+                        {
+                            "word": "tally",
+                            "position": 3,
+                            "translation": "zgadzać się"
+                        },
+                        {
+                            "word": "tally",
+                            "position": 9,
+                            "translation": "zgadzać się"
+                        }
+                    ]
+                },
+                {
+                    "english": "You can also deduct one number from another number.",
+                    "polish": "Możesz także odjąć jedną liczbę od drugiej.",
+                    "missing_words": [
+                        {
+                            "word": "deduct",
+                            "position": 4,
+                            "translation": "odjąć"
+                        }
+                    ]
+                },
+                {
+                    "english": "Values are individual numbers in a set of data. The graph shows the temperature values for different months of the year.",
+                    "polish": "Wartości to poszczególne liczby w zestawie danych. Wykres pokazuje wartości temperatury dla różnych miesięcy w roku.",
+                    "missing_words": [
+                        {
+                            "word": "Values",
+                            "position": 1,
+                            "translation": "Wartości"
+                        },
+                        {
+                            "word": "values",
+                            "position": 15,
+                            "translation": "wartości"
+                        }
+                    ]
+                },
+                {
+                    "english": "Variables are characteristics that can take on different values for different members of a group or set being studied. In investigating living standards you must take key variables such as social provision and cost of living into account.",
+                    "polish": "Zmienne to cechy, które mogą przyjmować różne wartości dla różnych członków grupy lub zbioru będącego przedmiotem badań. Przy badaniu standardów życia musisz wziąć pod uwagę kluczowe zmienne, takie jak zabezpieczenie społeczne i koszty utrzymania.",
+                    "missing_words": [
+                        {
+                            "word": "Variables",
+                            "position": 1,
+                            "translation": "Zmienne"
+                        },
+                        {
+                            "word": "variables",
+                            "position": 31,
+                            "translation": "zmienne"
+                        }
+                    ]
+                },
+                {
+                    "english": "The incidence of something refers to how frequently it occurs. The incidence of twins in the population is growing.",
+                    "polish": "Występowanie czegoś odnosi się do tego, jak często to się zdarza. Występowanie bliźniąt w populacji rośnie.",
+                    "missing_words": [
+                        {
+                            "word": "incidence",
+                            "position": 2,
+                            "translation": "występowanie"
+                        },
+                        {
+                            "word": "incidence",
+                            "position": 12,
+                            "translation": "występowanie"
+                        }
+                    ]
+                },
+                {
+                    "english": "When talking about numbers, magnitude simply refers to the size of something, whereas in other contexts it indicates large size or importance. Write down the numbers in order of magnitude, beginning with the smallest.",
+                    "polish": "Mówiąc o liczbach, wielkość odnosi się po prostu do rozmiaru czegoś, podczas gdy w innych kontekstach wskazuje na dużą wielkość lub znaczenie. Zapisz liczby w kolejności wielkości, zaczynając od najmniejszej.",
+                    "missing_words": [
+                        {
+                            "word": "magnitude",
+                            "position": 5,
+                            "translation": "wielkość"
+                        },
+                        {
+                            "word": "order of magnitude",
+                            "position": [27,28,29],
+                            "translation": "kolejność wielkości"
+                        }
+                    ]
+                },
+                {
+                    "english": "When making calculations in, say, an exam, it is often a good idea to make an estimate first of what the answer is likely to be. Then you will see if your final answer is in the right area or not.",
+                    "polish": "Dokonując obliczeń, na przykład na egzaminie, często dobrym pomysłem jest najpierw oszacowanie, jaka będzie prawdopodobna odpowiedź. Następnie zobaczysz, czy twoja ostateczna odpowiedź znajduje się w odpowiednim obszarze, czy nie.",
+                    "missing_words": [
+                        {
+                            "word": "calculations",
+                            "position": 3,
+                            "translation": "obliczenia"
+                        },
+                        {
+                            "word": "estimate",
+                            "position": 17,
+                            "translation": "oszacowanie"
+                        },
+                        {
+                            "word": "in the right area",
+                            "position": [36,36,37,39],
+                            "translation": "w odpowiednim obszarze"
+                        }
+                    ]
+                },
+                {
+                    "english": "Exam candidates are also often advised to show their workings so that the marker can see how they arrived at their answer and they may get credit for their method even if the final answer is incorrect.",
+                    "polish": "Kandydatom na egzaminie często zaleca się pokazanie swoich obliczeń, aby egzaminator mógł zobaczyć, jak doszli do swojej odpowiedzi, i mogą otrzymać uznanie za swoją metodę, nawet jeśli ostateczna odpowiedź jest nieprawidłowa.",
+                    "missing_words": [
+                        {
+                            "word": "workings",
+                            "position": 10,
+                            "translation": "obliczenia"
+                        }
+                    ]
+                }
+            ]
+        }
     ]
- }
+}

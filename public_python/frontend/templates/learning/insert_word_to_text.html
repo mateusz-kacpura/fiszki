@@ -70,7 +70,7 @@
 
     .correct {
         font-weight: bold;
-        color: green;
+        color: green !important;
     }
 
     .word-button {
@@ -346,10 +346,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         actionBubble.style.boxShadow = '0px 2px 5px rgba(0,0,0,0.2)';
                         actionBubble.innerHTML = `
                             <button id="translateButton">Tłumacz</button>
+                            <button id="selectSentenceButton">Zaznacz całe zdanie</button>
+                            <button id="clearSelectionButton">Usuń zaznaczenie</button>
                             <span id="previewTranslation"></span>
                         `;
                         document.body.appendChild(actionBubble);
 
+                        // Event listener dla przycisku tłumaczenia
                         document.getElementById('translateButton').addEventListener('click', function() {
                             const textToTranslate = selectedWords.join(' ');
 
@@ -376,6 +379,16 @@ document.addEventListener('DOMContentLoaded', function() {
                                 actionBubble.style.display = 'none';
                             });
                         });
+
+                        // Event listener dla przycisku zaznaczania całego zdania
+                        document.getElementById('selectSentenceButton').addEventListener('click', function() {
+                            selectEntireSentence();
+                        });
+
+                        // Event listener dla przycisku usuwania zaznaczeń
+                        document.getElementById('clearSelectionButton').addEventListener('click', function() {
+                            clearSelections();
+                        });
                     }
 
                     actionBubble.style.left = `${x}px`;
@@ -388,12 +401,46 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
+            function selectEntireSentence() {
+                // Funkcja do zaznaczania całego zdania
+                const firstSelectedWord = document.querySelector('.selected');
+                if (firstSelectedWord) {
+                    // Znajdź najbliższy element .word-button, aby określić początek zdania
+                    const sentenceElement = firstSelectedWord.closest('.card-body').querySelectorAll('.word-button');
+
+                    if (sentenceElement) {
+                        let startIndex = Array.from(sentenceElement).indexOf(firstSelectedWord);
+
+                        if (startIndex !== -1) {
+                            // Zaznacz całe zdanie od początkowego do końcowego indeksu
+                            for (let i = startIndex; i < sentenceElement.length; i++) {
+                                const wordElement = sentenceElement[i];
+                                if (wordElement.dataset.index.split('-')[0] !== firstSelectedWord.dataset.index.split('-')[0]) {
+                                    break;
+                                }
+                                wordElement.classList.add('selected');
+                                selectedWords.push(wordElement.dataset.word);
+                            }
+                        }
+                    }
+                }
+            }
+
+            function clearSelections() {
+                // Funkcja do usuwania wszystkich zaznaczeń
+                document.querySelectorAll('.selected').forEach(word => {
+                    word.classList.remove('selected');
+                });
+                selectedWords = [];
+                actionBubble.style.display = 'none';
+            }
 
             function showTranslation(translation) {
                 document.getElementById('modal-body-content').innerText = translation;
                 const modal = new bootstrap.Modal(document.getElementById('translationModal'));
                 modal.show();
             }
+
 
             // Obsługa przeciągania i upuszczania
             function allowDrop(event) {
