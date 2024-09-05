@@ -706,6 +706,271 @@
                     ]
                 }
             ]
-        }
+        },
+        {
+            "uuid": "32.5",
+            "name": "Words and phrases related to opinions and ideas",
+            "sentences": [
+                {
+                    "english": "Academics have traditionally taken the view that their discipline is intellectually independent from all others.",
+                    "polish": "Akademicy tradycyjnie przyjmowali pogląd, że ich dyscyplina jest intelektualnie niezależna od wszystkich innych.",
+                    "missing_words": [
+                        {
+                            "word": "taken the view that",
+                            "position": [4, 5, 6, 7],
+                            "translation": "przyjmować pogląd, że"
+                        },
+                        {
+                            "word": "intellectually independent",
+                            "position": [11, 12],
+                            "translation": "intelektualnie niezależny"
+                        }
+                    ]
+                },
+                {
+                    "english": "However, inter-disciplinary degrees are becoming more and more common, suggesting that preconceptions about what and how one should study may be somewhat misplaced.",
+                    "polish": "Jednakże interdyscyplinarne stopnie naukowe stają się coraz bardziej powszechne, sugerując, że przekonania na temat tego, co i jak należy studiować, mogą być nieco błędne.",
+                    "missing_words": [
+                        {
+                            "word": "inter-disciplinary degrees",
+                            "position": [2, 3],
+                            "translation": "interdyscyplinarne stopnie naukowe"
+                        },
+                        {
+                            "word": "preconceptions",
+                            "position": [12],
+                            "translation": "przekonania, założenia"
+                        },
+                        {
+                            "word": "misplaced",
+                            "position": [23],
+                            "translation": "błędny, źle ulokowany"
+                        }
+                    ]
+                },
+                {
+                    "english": "A more liberal view of education would advocate greater freedom to explore the links between different fields of learning, thus pushing the frontiers of knowledge in new and exciting directions.",
+                    "polish": "Bardziej liberalny pogląd na edukację popierałby większą swobodę w eksploracji powiązań między różnymi dziedzinami nauki, przesuwając tym samym granice wiedzy w nowe i ekscytujące kierunki.",
+                    "missing_words": [
+                        {
+                            "word": "liberal view of education",
+                            "position": [3, 4, 5, 6],
+                            "translation": "liberalny pogląd na edukację"
+                        },
+                        {
+                            "word": "advocate",
+                            "position": [8],
+                            "translation": "popierać"
+                        },
+                        {
+                            "word": "pushing the frontiers of knowledge",
+                            "position": [21, 22, 23, 24],
+                            "translation": "przesuwanie granic wiedzy"
+                        }
+                    ]
+                },
+                {
+                    "english": "Many academics now feel that the future lies in this blending of ideas and the cross-fertilization of thought which emerges from it.",
+                    "polish": "Wielu akademików uważa teraz, że przyszłość leży w tym łączeniu idei i wzajemnym zapładnianiu myśli, które z tego wynika.",
+                    "missing_words": [
+                        {
+                            "word": "cross-fertilization of thought",
+                            "position": [16, 17, 18],
+                            "translation": "wzajemne zapładnianie myśli"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "CV tips",
+            "name": "A CV or curriculum vitae is a document about your education, career and objectives. Look at the tips:",
+            "sentences": [
+                {
+                    "english": "Put your name and contact details at the top.",
+                    "missing_words": [
+                        {
+                            "word": "name",
+                            "position": 3,
+                            "translation": "imię"
+                        },
+                        {
+                            "word": "contact details",
+                            "position": [5,6],
+                            "translation": "dane kontaktowe"
+                        }
+                    ]
+                },
+                {
+                    "english": "Talk about your career goal - professional objective.",
+                    "missing_words": [
+                        {
+                            "word": "career goal",
+                            "position": [4,5],
+                            "translation": "cel zawodowy"
+                        }
+                    ]
+                },
+                {
+                    "english": "Mention your skills.",
+                    "missing_words": [
+                        {
+                            "word": "skills",
+                            "position": 3,
+                            "translation": "umiejętności"
+                        }
+                    ]
+                },
+                {
+                    "english": "Include your qualifications.",
+                    "missing_words": [
+                        {
+                            "word": "qualifications",
+                            "position": 3,
+                            "translation": "kwalifikacje"
+                        }
+                    ]
+                },
+                {
+                    "english": "Write about your experience and your achievements.",
+                    "missing_words": [
+                        {
+                            "word": "experience",
+                            "position": 4,
+                            "translation": "doświadczenie"
+                        },
+                        {
+                            "word": "achievements",
+                            "position": 7,
+                            "translation": "osiągnięcia"
+                        }
+                    ]
+                },
+                {
+                    "english": "You can mention relevant interests.",
+                    "missing_words": [
+                        {
+                            "word": "relevant interests",
+                            "position": [4,5],
+                            "translation": "istotne zainteresowania"
+                        }
+                    ]
+                },
+                {
+                    "english": "Use keywords relevant to the employer, organization, or job.",
+                    "missing_words": [
+                        {
+                            "word": "keywords relevant",
+                            "position": [2,3],
+                            "translation": "istotne słowa kluczowe"
+                        }
+                    ]
+                },
+                {
+                    "english": "Avoid exaggerations – saying something is better or more important than it really is.",
+                    "missing_words": [
+                        {
+                            "word": "exaggerations",
+                            "position": 2,
+                            "translation": "wyolbrzymienia"
+                        }
+                    ]
+                },
+                {
+                    "english": "Be concise – not more than two pages, preferably one.",
+                    "missing_words": [
+                        {
+                            "word": "concise",
+                            "position": 2,
+                            "translation": "zwięzły"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "Parts of a CV",
+            "name": "Layout is the way that information is arranged on the page. Clear layout is very important for CVs.",
+            "sentences": [
+                {
+                    "english": "Career goal: Looking for a stimulating career in established design company.",
+                    "missing_words": [
+                        {
+                            "word": "stimulating",
+                            "position": 6,
+                            "translation": "stymulujący"
+                        },
+                        {
+                            "word": "established",
+                            "position": 9,
+                            "translation": "uznany"
+                        }
+                    ]
+                },
+                {
+                    "english": "Skills: Visual creativity, good leadership skills, understanding of all technical and design issues in website construction and maintenance. Bilingual in Portuguese and English.",
+                    "missing_words": [
+                        {
+                            "word": "creativity",
+                            "position": 3,
+                            "translation": "kreatywność"
+                        },
+                        {
+                            "word": "good leadership skills",
+                            "position": [4,5,6],
+                            "translation": "dobre umiejętności przywódcze"
+                        },
+                        {
+                            "word": "website construction",
+                            "position": [15,16],
+                            "translation": "budowa stron internetowych"
+                        },
+                        {
+                            "word": "maintenance",
+                            "position": 18,
+                            "translation": "utrzymanie"
+                        },
+                        {
+                            "word": "Portuguese",
+                            "position": 21,
+                            "translation": "portugalski"
+                        },
+                        {
+                            "word": "English",
+                            "position": 23,
+                            "translation": "angielski"
+                        }
+                    ]
+                },
+                {
+                    "english": "Qualifications: 2016-2017 London Business School – MBA; 2011-2012 University of Berlin – Master’s degree in Advanced Web Design (course taught in English); 2002-2007 Porto School of Architecture – Architecture degree.",
+                    "missing_words": [
+                        {
+                            "word": "qualifications",
+                            "position": 1,
+                            "translation": "kwalifikacje"
+                        }
+                    ]
+                },
+                {
+                    "english": "Experience: 2012-2016 Freelance Web Designer, based in Berlin. Worked with a number of German internationals, contributing design solutions.",
+                    "missing_words": [
+                        {
+                            "word": "Freelance",
+                            "position": 3,
+                            "translation": "Freelancer"
+                        }
+                    ]
+                },
+                {
+                    "english": "2009-2011 Internet Advertising Manager, Ideias Innovativas, Lisbon. Worked on key client websites.",
+                    "missing_words": []
+                },
+                {
+                    "english": "2007-2009 Graduate Assistant, Projetos do Norte, Porto. Provided support to senior members of the firm, working on commercial building projects.",
+                    "missing_words": []
+                }
+            ]
+        }        
     ]
 }
