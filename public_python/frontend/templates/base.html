@@ -38,70 +38,96 @@
     .bg-transparent {
       background-color: transparent !important;
     }
-    .navbar-light .navbar-nav .nav-link {
-      color: rgba(0, 0, 0, 0.9); /* Adjust color for better visibility */
-    }
 
-    .navbar-brand {
-      color: rgb(255, 255, 255) !important;
-      background-color: #007bff84 !important;
-      border: 2px solid #ffffff7c !important;
-      border-radius: .25rem !important; /* Zaokrąglone rogi */
-      margin: 5px !important;
-      padding: 8px !important;
-      text-align: center; /* Wyśrodkowanie tekstu w poziomie */
-      font-size: 17px;
-      display: flex; /* Ustawienie flexbox */
-      align-items: center; /* Wyśrodkowanie tekstu w pionie */
-      justify-content: center; /* Wyśrodkowanie elementu */
-    }
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.85) !important; /* Delikatnie ciemniejszy odcień dla tekstu */
+    font-weight: 500 !important;
+    text-transform: uppercase !important; /* Tekst wielkimi literami */
+    padding: 10px 15px !important; /* Więcej przestrzeni */
+}
 
+.navbar-brand {
+    color: #ffffff !important;
+    background-color: #0056b3 !important; /* Bardziej korporacyjny niebieski */
+    border: none !important; /* Usunięcie obramowania */
+    border-radius: 0.1rem !important; /* Zmniejszenie zaokrąglenia */
+    margin: 5px 10px !important;
+    padding: 10px 15px !important; /* Więcej przestrzeni */
+    text-align: center !important;
+    font-size: 18px !important; /* Większy font */
+    font-weight: bold !important; /* Mocniejszy font */
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.navbar-nav {
+    margin: 0 auto !important;
+}
+
+.navbar-nav .nav-link {
+    margin: 5px 10px !important; /* Więcej przestrzeni między linkami */
+    padding: 10px 15px !important;
+    border-radius: 0.1rem !important; /* Zmniejszenie zaokrąglenia */
+    font-size: 15px !important;
+    transition: background-color 0.3s ease !important; /* Dodanie efektu hover */
+}
+
+.navbar-nav .nav-link.home-btn {
+    background-color: #0056b3 !important; /* Głębszy niebieski */
+    color: white !important;
+    border: none !important; /* Usunięcie obramowania */
+}
+
+.navbar-nav .nav-link.learning-btn, .submenu .nav-link.learning-btn {
+    background-color: #e0a800 !important; /* Delikatny odcień żółtego */
+    color: white !important;
+    border: none !important;
+}
+
+.navbar-nav .nav-link.manage-btn, .submenu .nav-link.manage-btn {
+    background-color: #218838 !important; /* Mocniejszy zielony */
+    color: white !important;
+    border: none !important;
+}
+
+.navbar-nav .nav-link.edit-btn {
+    background-color: #138496 !important; /* Głębszy niebiesko-zielony */
+    color: white !important;
+    border: none !important;
+}
+
+.submenu {
+    display: flex !important;
+    flex-wrap: wrap !important; /* W razie potrzeby elementy przenoszą się do nowego wiersza */
+    justify-content: center !important;
+}
+
+.submenu .nav-link {
+    margin: 5px !important;
+    padding: 10px 15px !important;
+    white-space: nowrap !important; /* Zapobiega łamaniu się tekstu */
+    text-align: center !important;
+}
+
+/* Ustawienia dla ekranów mobilnych (do 768px szerokości) */
+@media (max-width: 768px) {
     .navbar-nav {
-      margin: 0 auto; /* Wyśrodkowanie menu */
-    }
-
-    /* Background colors for buttons */
-    .navbar-nav .nav-link.home-btn {
-      background-color: #007bff !important; /* Blue */
-      color: white !important;
-      border: 2px solid #007bff !important;
-      border-radius: .25rem !important; /* Zaokrąglone rogi */
-      margin: 5px;
-    }
-
-    .navbar-nav .nav-link.learning-btn, .submenu .nav-link.learning-btn {
-      background-color: #ffc107 !important; /* Yellow */
-      color: black !important;
-      border: 2px solid #ffc107 !important;
-      border-radius: .25rem !important; /* Zaokrąglone rogi */
-      margin: 5px;
-    }
-
-    .navbar-nav .nav-link.manage-btn, .submenu .nav-link.manage-btn {
-      background-color: #28a745 !important; /* Green */
-      color: white !important;
-      border: 2px solid #28a745 !important;
-      border-radius: .25rem !important; /* Zaokrąglone rogi */
-      margin: 5px;
-    }
-
-    .navbar-nav .nav-link.edit-btn {
-      background-color: #17a2b8 !important; /* Blue-sea */
-      color: white !important;
-      border: 2px solid #17a2b8 !important;
-      border-radius: .25rem !important; /* Zaokrąglone rogi */
-      margin: 5px;
+        display: block !important; /* Zmiana na układ pionowy */
+        text-align: center !important; /* Wyśrodkowanie tekstu */
     }
 
     .submenu {
-      display: none;
-      justify-content: center;
-      margin-top: 10px;
+        display: block !important; /* Ustawienie układu pionowego dla submenu */
     }
 
-    .submenu.active {
-      display: flex;
+    .submenu .nav-link {
+        display: block !important; /* Ustawienie szerokości linków na 100% */
+        width: 100% !important;
+        margin: 5px 0 !important; /* Dodanie miejsca między elementami w pionie */
     }
+}
+
   </style>
 
   <!-- Navbar -->

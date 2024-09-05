@@ -971,6 +971,127 @@
                     "missing_words": []
                 }
             ]
-        }        
+        },
+        {
+            "uuid": "Missing words and sentences",
+            "name": "Missing words in sentences with opposite meanings or similar variations.",
+            "sentences": [
+                {
+                    "english": "Populations of some bird species in South Asia have soared by 97% in recent years. The number of cases of death by poisoning has declined significantly.",
+                    "missing_words": [
+                        {
+                            "word": "soared",
+                            "position": 10,
+                            "translation": "wzrosły"
+                        },
+                        {
+                            "word": "declined significantly",
+                            "position": [25,26],
+                            "translation": "znacząco spadła"
+                        }
+                    ]
+                },
+                {
+                    "english": "In 2007 the child mortality rate rose to higher than 60 deaths per 1,000.",
+                    "missing_words": [
+                        {
+                            "word": "rose",
+                            "position": 7,
+                            "translation": "wzrosła"
+                        },
+                        {
+                            "word": "higher",
+                            "position": 9,
+                            "translation": "wyższa"
+                        }
+                    ]
+                },
+                {
+                    "english": "The average family car in the UK goes up in value by 20% per year. This means its value has risen by more than half after just three years.",
+                    "missing_words": [
+                        {
+                            "word": "goes up",
+                            "position": [8,9],
+                            "translation": "wzrasta"
+                        },
+                        {
+                            "word": "risen",
+                            "position": 21,
+                            "translation": "wzrosła"
+                        }
+                    ]
+                },
+                {
+                    "english": "A typical piece of land on the edge of the city will go down in value by 15% per year, and house prices have gone down rapidly by a large amount in the last six months.",
+                    "missing_words": [
+                        {
+                            "word": "go down",
+                            "position": [13,14],
+                            "translation": "spada"
+                        },
+                        {
+                            "word": "gone down",
+                            "position": [25,26],
+                            "translation": "spadły"
+                        }
+                    ]
+                },
+                {
+                    "english": "Business courses have decreased significantly in number while science programmes have gone up in popularity.",
+                    "missing_words": [
+                        {
+                            "word": "decreased significantly",
+                            "position": [4,5],
+                            "translation": "znacząco spadły"
+                        },
+                        {
+                            "word": "gone up",
+                            "position": [12,13],
+                            "translation": "wzrosły"
+                        }
+                    ]
+                },
+                {
+                    "english": "The temperature fell lower than 45°C in some parts of the country. See the figure 3.",
+                    "missing_words": [
+                        {
+                            "word": "fell",
+                            "position": 3,
+                            "translation": "spadła"
+                        },
+                        {
+                            "word": "lower",
+                            "position": 4,
+                            "translation": "niższa"
+                        }
+                    ]
+                },
+                {
+                    "english": "Between 1983 and 2006, the number of this species of eagle went down from 22 pairs to 58. Other bird populations have gone down to half the number in the same period.",
+                    "missing_words": [
+                        {
+                            "word": "went down",
+                            "position": [12,13],
+                            "translation": "spadła"
+                        },
+                        {
+                            "word": "gone down",
+                            "position": [23,24],
+                            "translation": "spadły"
+                        }
+                    ]
+                },
+                {
+                    "english": "The numbers of old soldiers attending regimental reunions are becoming larger each year.",
+                    "missing_words": [
+                        {
+                            "word": "larger",
+                            "position": 11,
+                            "translation": "większe"
+                        }
+                    ]
+                }
+            ]
+        }          
     ]
 }

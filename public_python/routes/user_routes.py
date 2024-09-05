@@ -175,6 +175,41 @@ def single_word_learning():
 def image_words_learning():
     return render_template('learning/image_words_learning.html', title="Image learning")
 
+@user_route.route('/api/setting/<path:filename>')
+@login_required
+def get_excluded_words(filename):
+    return send_from_directory('baza_danych/setting', filename)
+
+@user_route.route('/learning/api/setting/<path:filename>')
+@login_required
+def get_excluded_words_learning(filename):
+    return send_from_directory('baza_danych/setting', filename)
+
+@user_route.route('/api/statistic/statistics.json')
+@login_required
+def get_statistics():
+    return send_from_directory('baza_danych/statistic', 'statistics.json')
+
+@user_route.route('/learning/image_files/English/<path:filename>')
+@login_required
+def custom_static_images(filename):
+    return send_from_directory('baza_danych/image_files/English', filename)
+
+@user_route.route('/learning/audio_files/English/<path:filename>')
+@login_required
+def custom_static_audio(filename):
+    return send_from_directory('baza_danych/audio_files/English', filename)
+
+@user_route.route('/image_files/English/<path:filename>')
+@login_required
+def image_files(filename):
+    return send_from_directory('baza_danych/image_files/English', filename)
+
+@user_route.route('/audio_files/English/<path:filename>')
+@login_required
+def audio_files(filename):
+    return send_from_directory('baza_danych/audio_files/English', filename)
+
 @user_route.route('/get_text_data')
 @login_required
 def get_text_data():
