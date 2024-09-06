@@ -23,6 +23,7 @@ import json
 import logging
 import requests
 import os
+from datetime import datetime 
 
 user_route = Blueprint('user', __name__, url_prefix='/user', template_folder='templates')
 
@@ -227,6 +228,75 @@ def get_text_data():
     text_names = [{"name": text["name"], "uuid": text["uuid"]} for text in text_data["texts"]]
     return jsonify({"text_names": text_names})
 
+#  <Rule '/user/save_history_translation' (HEAD, OPTIONS, GET) -> user.get_text_data>,
+@user_route.route('/save_history_translation', methods=['POST'])
+@login_required
+def save_history_translation():
+    name = request.args.get('name')  # Nazwa pliku
+    translations = request.json.get('translations')  # Lista tłumaczeń z requestu (z JavaScript)
+
+    # Ścieżka do pliku JSON
+    json_file_path = 'baza_danych/user_datas/test/history_translation.json'
+    
+    # Próbujemy otworzyć i odczytać plik JSON
+    try:
+        with open(json_file_path, 'r', encoding='utf-8') as f:
+            try:
+                text_data = json.load(f)
+            except json.JSONDecodeError:
+                text_data = []  # Jeśli plik jest pusty lub uszkodzony, inicjujemy pustą listę
+    except FileNotFoundError:
+        text_data = []  # Jeśli plik nie istnieje, inicjujemy pustą listę
+
+    # Znajdujemy zapis dla podanej nazwy pliku (selectedTextName)
+    entry_found = next((entry for entry in text_data if entry['selectedTextName'] == name), None)
+
+    if entry_found:
+        # Porównujemy i dodajemy nowe tłumaczenia
+        existing_translations = entry_found['translations']
+        for translation in translations:
+            if not any(
+                t['originalText'] == translation['originalText'] and 
+                t['translatedText'] == translation['translatedText']
+                for t in existing_translations
+            ):
+                existing_translations.append(translation)
+    else:
+        # Tworzymy nowy wpis dla tego pliku
+        entry_found = {
+            "selectedTextName": name,
+            "dateOfSave": datetime.utcnow().isoformat() + 'Z',  # Data zapisu w formacie ISO 8601
+            "translations": translations
+        }
+        text_data.append(entry_found)
+
+    # Zapisujemy zaktualizowany plik JSON
+    with open(json_file_path, 'w', encoding='utf-8') as f:
+        json.dump(text_data, f, ensure_ascii=False, indent=4)
+
+    return jsonify({"status": "success", "message": "Historia tłumaczeń została zapisana."}), 200
+
+@user_route.route('/load_translation_history_from_file', methods=['GET'])
+@login_required
+def load_translation_history_from_file():
+    name = request.args.get('name')  # Nazwa pliku
+
+    # Otwieramy plik JSON z historią tłumaczeń
+    json_file_path = 'baza_danych/user_datas/test/history_translation.json'
+    try:
+        with open(json_file_path, encoding='utf-8') as f:
+            text_data = json.load(f)
+    except FileNotFoundError:
+        return jsonify({"translations": []}), 200  # Zwracamy pustą listę, jeśli plik nie istnieje
+
+    # Znajdujemy wpis dla danego pliku
+    entry_found = next((entry for entry in text_data if entry['selectedTextName'] == name), None)
+
+    if entry_found:
+        return jsonify({"translations": entry_found['translations']}), 200
+    else:
+        return jsonify({"translations": []}), 200  # Jeśli nie ma wpisu, zwracamy pustą listę
+
 # Route for rendering the HTML page
 @user_route.route('/learning/insert_word_to_text')
 @login_required
@@ -412,7 +482,7 @@ def real_time_speech_recognition():
             print("Transkrypcja: ", transcription)
             # Send partial transcription here if needed
 
-        return jsonify({'transcription': transcription})
+            return jsonify({'transcription': transcription})
 
     except KeyboardInterrupt:
         print("Zatrzymano nagrywanie.")

@@ -1,0 +1,28 @@
+[
+    {
+        "selectedTextName": "exampleFileName.txt",
+        "dateOfSave": "2024-09-06T11:33:27.537905Z",
+        "translations": [
+            {
+                "originalText": "Career goal: Looking for a stimulating career in established design company.",
+                "translatedText": "Cel kariery: Poszukiwanie pobudzającej kariery w utworzonej firmie projektowej.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Layout is the way that information is arranged on the page. Clear layout is very important for CVs.",
+        "dateOfSave": "2024-09-06T11:36:17.048873Z",
+        "translations": [
+            {
+                "originalText": "Career goal: Looking for a stimulating career in established design company.",
+                "translatedText": "Cel kariery: Poszukiwanie pobudzającej kariery w utworzonej firmie projektowej.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    }
+]

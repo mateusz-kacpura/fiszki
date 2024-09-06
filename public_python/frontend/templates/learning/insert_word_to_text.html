@@ -29,6 +29,8 @@
             <div class="card-body">
                 <ul id="translation-history"></ul> <!-- Tutaj będzie wyświetlana historia tłumaczeń -->
                 <button id="clear-history" class="btn btn-sm btn-danger mt-3">Wyczyść historię</button>
+                <button id="save-history-to-file" class="btn btn-sm btn-success mt-3">Zapisz historię</button>
+                <button id="load-history-from-file" class="btn btn-sm btn-primary mt-3">Wczytaj historię</button>
             </div>
             <div class="card-footer text-center">
             <p class="m-0">ENTER = save changes </p>
@@ -89,7 +91,24 @@
 
 {% block scripts %}
 <script>
+let selectedTextName = ""
+
+// Funkcja do wyświetlania alertów
+function showAlert(message, type = 'success') {
+    const alertContainer = document.getElementById('alert-container');
+    const alert = document.createElement('div');
+    alert.className = `alert alert-${type}`;
+    alert.innerText = message;
+    alertContainer.appendChild(alert);
+
+    // Usunięcie alertu po 3 sekundach
+    setTimeout(() => {
+        alert.remove();
+    }, 3000);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
+    
     decideWhichTextToLoad();
     
     // Generowanie listy tekstów do wyboru
@@ -99,14 +118,13 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(data => {
                 const textList = document.getElementById('textList');
 
-                
                 data.text_names.forEach(text => {
                     const listItem = document.createElement('li');
                     listItem.className = 'list-group-item list-group-item-action';
                     listItem.dataset.name = text.name;
                     listItem.innerText = text.name;
                     listItem.addEventListener('click', function() {
-                        const selectedTextName = this.dataset.name;
+                        selectedTextName = this.dataset.name;
                         fetchAndLoadText(selectedTextName);
                     });
                     textList.appendChild(listItem);
@@ -327,20 +345,29 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
-            // Funkcja do wyświetlania alertów
-            function showAlert(message, type = 'success') {
-                const alertContainer = document.getElementById('alert-container');
-                const alert = document.createElement('div');
-                alert.className = `alert alert-${type}`;
-                alert.innerText = message;
-                alertContainer.appendChild(alert);
+            // Obsługa przycisku wczytywania historii z pliku
+            document.getElementById('load-history-from-file').addEventListener('click', function() {
+                fetch('/user/load_translation_history_from_file?name=' + encodeURIComponent(selectedTextName))
+                    .then(response => response.json())
+                    .then(data => {
+                        const translationHistory = document.getElementById('translation-history');
+                        translationHistory.innerHTML = '';  // Wyczyść obecne elementy listy
 
-                // Usunięcie alertu po 3 sekundach
-                setTimeout(() => {
-                    alert.remove();
-                }, 3000);
-            }
-
+                        if (data.translations && data.translations.length > 0) {
+                            data.translations.forEach(function(translation) {
+                                updateTranslationHistory(translation.originalText, translation.translatedText);
+                            });
+                            showAlert('Historia tłumaczeń została pomyślnie wczytana.', 'success');
+                        } else {
+                            showAlert('Brak zapisanych tłumaczeń dla wybranego pliku.', 'warning');
+                        }
+                    })
+                    .catch((error) => {
+                        console.error('Error:', error);
+                        showAlert('Wystąpił błąd podczas wczytywania historii tłumaczeń.', 'danger');
+                    });
+            });
+            
             // Funkcja do wykonania zapytania do Google Translate API v1 bez klucza
             async function translateText(text, targetLang = 'en') {
                 const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
@@ -548,6 +575,40 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
 });
+
+document.getElementById('save-history-to-file').addEventListener('click', function() {
+    const translations = [];
+
+    document.querySelectorAll('#translation-history li').forEach(function(item) {
+        const originalText = item.querySelector('.editable').textContent.split(' - ')[0].trim();
+        const translatedText = item.querySelector('.editable').textContent.split(' - ')[1].trim();
+
+        translations.push({
+            "originalText": originalText,
+            "translatedText": translatedText,
+            "metadata": {
+                "translationSource": "manual"  // Wartość domyślna, można zmienić
+            }
+        });
+    });
+
+    fetch('/user/save_history_translation?name=' + encodeURIComponent(selectedTextName), {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ translations: translations }),
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log('Success:', data);
+    })
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+});
+
+
 
 </script>
 {% endblock %}
