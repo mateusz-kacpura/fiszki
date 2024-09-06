@@ -98,7 +98,7 @@
       const isCorrect = userTranslation.toLowerCase() === correctTranslation.toLowerCase();
       if (isCorrect) {
         console.log('Correct translation.');
-        resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span> - Congratulations! Correct answer.`;
+        resultElement.innerHTML = `<span class="user-translation" style="color: green">${userTranslation}</span>`;
           if (ttsCheckbox.checked && !audioCheckbox.checked) {    
             playTextToSpeech(userTranslation);
           }
@@ -107,7 +107,7 @@
           }
       } else {
         console.log('Incorrect translation.');
-        resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span> - Incorrect. The correct translation is: <span class="sentence-to-translate">${correctTranslation}</span>`;
+        resultElement.innerHTML = `<span class="user-translation" style="color: red">${userTranslation}</span><span class="sentence-to-translate">${correctTranslation}</span>`;
           if (ttsCheckbox.checked && !audioCheckbox.checked) {    
             playTextToSpeech(userTranslation);
           }
@@ -128,7 +128,7 @@
     }
 
     function fetchExcludedSentences() {
-      fetch('user/baza_danych/setting/excludedWords.json')
+      fetch('baza_danych/setting/excludedWords.json')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

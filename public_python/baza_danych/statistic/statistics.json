@@ -9883,5 +9883,35 @@
     "sentence": "Sklep znajduje si\u0119 w niewielkiej odleg\u0142o\u015bci od mojego domu.",
     "correct": true,
     "timestamp": "2024-09-05T19:34:02.305Z"
+  },
+  {
+    "sentence": "W tym szczeg\u00f3lnym przypadku potrzebujemy wi\u0119cej dowod\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-09-06T09:09:40.097Z"
+  },
+  {
+    "sentence": "Z punktu widzenia prawa sprawa jest jasna.",
+    "correct": true,
+    "timestamp": "2024-09-06T09:10:10.257Z"
+  },
+  {
+    "sentence": "Zyski firmy podwoi\u0142y si\u0119 w ci\u0105gu roku.",
+    "correct": true,
+    "timestamp": "2024-09-06T09:11:19.882Z"
+  },
+  {
+    "sentence": "Termin 'mysz' zosta\u0142 ukuty przez analogi\u0119 do ma\u0142ego gryzonia.",
+    "correct": true,
+    "timestamp": "2024-09-06T09:12:14.071Z"
+  },
+  {
+    "sentence": "Niskie odchylenie standardowe wskazuje, \u017ce punkty danych maj\u0105 tendencj\u0119 do zbli\u017cania si\u0119 do \u015bredniej.",
+    "correct": true,
+    "timestamp": "2024-09-06T09:12:59.900Z"
+  },
+  {
+    "sentence": "Musimy zebra\u0107 wyniki wszystkich test\u00f3w.",
+    "correct": true,
+    "timestamp": "2024-09-06T09:18:26.887Z"
   }
 ]

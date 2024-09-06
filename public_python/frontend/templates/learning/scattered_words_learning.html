@@ -9,24 +9,41 @@
 <h1 class="text-center mb-4">Scattered Words Learning</h1>
 
 <div id="quiz" style="display: none;">
-  <div class="card mt-3">
-    <div class="card-body text-center">
-      <h5 class="card-title">Construct the sentence:</h5>
-      <p id="sentence-translation" style="font-style: italic; color: gray;"></p>
-      <div class="word-bank" id="word-bank"></div>
-      <div class="sentence-construction" id="sentence-construction"></div>
-      <button class="btn btn-success" onclick="checkSentence()">Check Sentence</button>
-      <button class="btn btn-primary" onclick="generateRandomSentence()">Next Sentence</button>
-      <button id="edit-word-btn" class="btn btn-warning ms-2"  onclick="openEditModal(currentWordData)">Edit</button>
-      <p id="result" class="mt-3"></p>
-      {% include 'learning/controls/audio.html' %}
-      <div id="result"></div>
-      <div id="modal-container"></div>
-      </br>
-      <p>ENTER - check | -> next sentence</p>
+  <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="card mt-3">
+            <div class="card-header text-center">
+                  <h5 class="no-margin">Construct the sentence</h5>
+            </div>
+            <div class="card-body text-center">
+                <p id="sentence-translation" style="font-style: italic; color: gray;"></p>
+                <div class="word-bank" id="word-bank"></div>
+                <div class="sentence-construction" id="sentence-construction"></div>
+                <div class="d-flex justify-content-center mt-3">
+                    <button class="btn btn-success me-2" onclick="checkSentence()">Check Sentence</button>
+                    <button class="btn btn-primary me-2" onclick="generateRandomSentence()">Next Sentence</button>
+                    <button id="edit-word-btn" class="btn btn-warning" onclick="openEditModal(currentWordData)">Edit</button>
+                </div>
+                <p id="result" class="mt-3"></p>
+                <div id="modal-container"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card mt-3">
+        <div class="card-header text-center">
+          <h5 class="no-margin">Additional Controls</h5>
+        </div>
+        {% include 'learning/controls/audio.html' %}
+        <div class="card-footer text-center">
+          <p class="m-0">SPACE - check | CTRL - play audio | → - next word</p>
+        </div>
+      </div>
     </div>
   </div>
+   
 </div>
+
 {% include 'learning/controls/buttons.html' %}
 
 {% include 'learning/modals/edit-word-modal.html' %}
