@@ -158,7 +158,7 @@ let sentences = [];
     }
 
     function fetchExcludedSentences() {
-      fetch('user/api/setting/excludedWords.json')
+      fetch('user/baza_danych/setting/excludedWords.json')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

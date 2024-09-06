@@ -4,120 +4,43 @@
 
 {% block learn %}
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f8f9fa;
-        padding: 20px;
-    }
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
 
-    .text-center {
-        text-align: center;
-    }
-
-    .mb-4 {
-        margin-bottom: 1.5rem;
-    }
-
-    .no-margin {
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
-    }
-
-    .card {
-        background-color: #ffffff;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        margin-bottom: 20px;
-    }
-
-    .card-header {
-        background-color: #007bff;
-        color: white;
-        padding: 10px;
-        border-radius: 8px 8px 0 0;
-    }
-
-    .card-body {
-        padding: 20px;
-    }
-
-    .droppable {
-        padding: 5px;
-        border-bottom: 2px dashed #007bff;
-        margin-right: 5px;
-        display: inline-block;
-        min-width: 50px;
-        text-align: center;
-        cursor: pointer;
-    }
-
-    .image-option {
-        padding: 5px 10px;
-        background-color: #007bff;
-        color: white;
-        margin: 5px;
-        border-radius: 5px;
-        cursor: pointer;
-        display: inline-block;
-        user-select: none;
-    }
-
-    .image-option:hover {
-        background-color: #0056b3;
-    }
-
-    .correct {
-        font-weight: bold;
-        color: green !important;
-    }
-
-    .word-button {
-        background-color: transparent;
-        border: none;
-        color: #007bff;
-        cursor: pointer;
-        padding: 0;
-        font-size: inherit;
-    }
-
-    .word-button:focus {
-        outline: none;
-    }
-
-    .selected {
-        background-color: #d1e7ff;
-    }
-
-    .translation-bubble {
-        position: absolute;
-        background-color: #007bff;
-        color: white;
-        padding: 5px 10px;
-        border-radius: 5px;
-        cursor: pointer;
-        z-index: 1000;
-    }
-</style>
-
-<h1 class="text-center mb-4">Uzupełnianie brakujących słów w tekście</h1>
-
-<div class="container no-margin">
-    <div class="row justify-content-center no-margin">
-        <div class="col-md-8 no-margin">
-            <div class="card mt-5 no-margin">
-                <div class="card-header">
-                    <h2 class="row justify-content-center">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
-                </div>
-                <div class="card-body">
-                    <p id="text-with-blanks"></p>
-                    <div id="image-container" class="row justify-content-center"></div>
-                </div>
+<div class="row justify-content-center">
+    <!-- Lewa kolumna z kartą i wyborem słów -->
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header text-center">
+                <h2 class="card-title">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
+            </div>
+            <div class="card-body">
+                <p id="text-with-blanks"></p>
+                <div id="image-container" class="d-flex justify-content-center flex-wrap"></div>
             </div>
         </div>
     </div>
+
+    <!-- Prawa kolumna z historią tłumaczeń -->
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header text-center">
+                <h2 class="card-title">Historia tłumaczeń</h2>
+            </div>
+            <div class="card-body">
+                <ul id="translation-history"></ul> <!-- Tutaj będzie wyświetlana historia tłumaczeń -->
+                <button id="clear-history" class="btn btn-danger mt-3">Wyczyść całą historię</button>
+            </div>
+            <div class="card-footer text-center">
+            <p class="m-0">ENTER = save changes </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Miejsce na dynamiczne powiadomienia (alerty) -->
+    <div id="alert-container" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+
 </div>
+
 
 <!-- Bootstrap Modal for Word Translation -->
 <div class="modal fade" id="translationModal" tabindex="-1" aria-labelledby="translationModalLabel" aria-hidden="true">
@@ -168,14 +91,15 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     decideWhichTextToLoad();
-
+    
+    // Generowanie listy tekstów do wyboru
     function decideWhichTextToLoad() {
         fetch('/user/get_text_data')
             .then(response => response.json())
             .then(data => {
                 const textList = document.getElementById('textList');
 
-                // Wygenerowanie listy tekstów do wyboru
+                
                 data.text_names.forEach(text => {
                     const listItem = document.createElement('li');
                     listItem.className = 'list-group-item list-group-item-action';
@@ -197,6 +121,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
     }
 
+    // Funkcja zarządzająca tekstem
     function fetchAndLoadText(textName) {
         fetch(`/user/get_text_data?name=${encodeURIComponent(textName)}`)
             .then(response => response.json())
@@ -368,6 +293,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             .then(data => {
                                 if (data.translatedText) {
                                     showTranslation(data.translatedText);
+                                    updateTranslationHistory(textToTranslate, data.translatedText);
                                 } else {
                                     showTranslation('Brak tłumaczenia');
                                 }
@@ -401,8 +327,98 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
+            // Funkcja do wyświetlania alertów
+            function showAlert(message, type = 'success') {
+                const alertContainer = document.getElementById('alert-container');
+                const alert = document.createElement('div');
+                alert.className = `alert alert-${type}`;
+                alert.innerText = message;
+                alertContainer.appendChild(alert);
+
+                // Usunięcie alertu po 3 sekundach
+                setTimeout(() => {
+                    alert.remove();
+                }, 3000);
+            }
+
+            // Funkcja do wykonania zapytania do Google Translate API v1 bez klucza
+            async function translateText(text, targetLang = 'en') {
+                const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
+
+                try {
+                    const response = await fetch(url);
+                    const data = await response.json();
+                    showAlert('Tłumaczenie wykonane pomyślnie');
+                    return data[0][0][0];  // Zwracany przetłumaczony tekst
+                } catch (error) {
+                    console.error('Błąd tłumaczenia:', error);
+                    showAlert('Błąd tłumaczenia', 'danger');
+                    return 'Błąd tłumaczenia';
+                }
+            }
+
+            // Funkcja aktualizująca historię tłumaczeń
+            function updateTranslationHistory(originalText, translatedText) {
+                const historyList = document.getElementById('translation-history');
+
+                // Tworzenie nowego elementu listy
+                const newEntry = document.createElement('li');
+                newEntry.innerHTML = `
+                    <span class="editable">${originalText} - ${translatedText}</span>
+                    <button class="delete-btn btn btn-sm btn-danger ml-2">Usuń</button>
+                    <button class="retranslate-btn btn btn-sm btn-primary ml-2">Tłumacz google</button>
+                `;
+
+                // Dodaj do listy
+                historyList.appendChild(newEntry);
+                showAlert('Dodano nowe tłumaczenie');
+
+                // Event listener do bezpośredniego edytowania wpisu po kliknięciu
+                const editableSpan = newEntry.querySelector('.editable');
+                editableSpan.addEventListener('click', function () {
+                    // Sprawdzanie czy już jest w trybie edycji
+                    if (!this.isContentEditable) {
+                        this.contentEditable = true;
+                        this.focus();
+                    }
+                });
+
+                // Zapisywanie zmian po wyjściu z trybu edycji
+                editableSpan.addEventListener('blur', function () {
+                    this.contentEditable = false;
+                    showAlert('Zapisano zmiany');
+                });
+
+                // Zatrzymywanie edycji po wciśnięciu klawisza Enter
+                editableSpan.addEventListener('keydown', function (event) {
+                    if (event.key === 'Enter') {
+                        event.preventDefault();
+                        this.blur(); // Wyłączenie trybu edycji
+                    }
+                });
+
+                // Event listener do usuwania wpisu
+                newEntry.querySelector('.delete-btn').addEventListener('click', function() {
+                    historyList.removeChild(newEntry);
+                    showAlert('Usunięto tłumaczenie', 'info');
+                });
+
+                // Event listener do ponownego tłumaczenia
+                newEntry.querySelector('.retranslate-btn').addEventListener('click', async function() {
+                    const newTranslation = await translateText(originalText, 'pl'); // Tłumaczenie na polski
+                    editableSpan.innerText = `${originalText} - ${newTranslation}`;
+                    showAlert('Zaktualizowano tłumaczenie przez Google');
+                });
+            }
+
+            // Funkcja czyszczenia całej historii
+            document.getElementById('clear-history').addEventListener('click', function() {
+                const historyList = document.getElementById('translation-history');
+                historyList.innerHTML = ''; // Usuwa wszystkie elementy
+                showAlert('Wyczyszczono całą historię', 'warning');
+            });
+
             function selectEntireSentence() {
-                // Funkcja do zaznaczania całego zdania
                 const firstSelectedWord = document.querySelector('.selected');
                 if (firstSelectedWord) {
                     // Znajdź najbliższy element .word-button, aby określić początek zdania
@@ -410,6 +426,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     if (sentenceElement) {
                         let startIndex = Array.from(sentenceElement).indexOf(firstSelectedWord);
+                        let selectedSentence = [];
 
                         if (startIndex !== -1) {
                             // Zaznacz całe zdanie od początkowego do końcowego indeksu
@@ -419,7 +436,30 @@ document.addEventListener('DOMContentLoaded', function() {
                                     break;
                                 }
                                 wordElement.classList.add('selected');
-                                selectedWords.push(wordElement.dataset.word);
+                                selectedSentence.push(wordElement.dataset.word);
+                            }
+
+                            // Złóż zdanie z zaznaczonych słów
+                            let sentenceString = selectedSentence.join(' ');
+
+                            // Szukaj, czy nowe zdanie zawiera się w już istniejących, lub je rozszerza
+                            let wasUpdated = false;
+                            selectedWords = selectedWords.map(existingSentence => {
+                                // Jeśli istnieje już fragment nowego zdania w istniejącym
+                                if (sentenceString.startsWith(existingSentence)) {
+                                    // Dodajemy brakującą część do istniejącego zdania
+                                    wasUpdated = true;
+                                    return existingSentence.split(' ')[0] + sentenceString.slice(existingSentence.length);
+                                } else if (existingSentence.startsWith(sentenceString)) {
+                                    // Jeśli całe nowe zdanie jest już częścią istniejącego, nic nie robimy
+                                    wasUpdated = true;
+                                    return existingSentence;
+                                }
+                            });
+
+                            // Jeśli zdanie nie zostało dodane ani rozszerzone, dodaj nowe zdanie
+                            if (!wasUpdated) {
+                                selectedWords.push(sentenceString);
                             }
                         }
                     }

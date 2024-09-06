@@ -76,25 +76,79 @@
 .navbar-nav .nav-link.home-btn {
     background-color: #0056b3 !important; /* Głębszy niebieski */
     color: white !important;
-    border: none !important; /* Usunięcie obramowania */
+    border: 1px solid #000000 !important;
 }
 
-.navbar-nav .nav-link.learning-btn, .submenu .nav-link.learning-btn {
-    background-color: #e0a800 !important; /* Delikatny odcień żółtego */
-    color: white !important;
-    border: none !important;
+/* Przyciski do nauki */
+.navbar-nav .nav-link.learning-btn,
+.submenu .nav-link.learning-btn {
+    background-color: #ffbf00 !important; /* Delikatny żółty */
+    color: #000000 !important;
+    border: 1px solid #000000 !important;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.navbar-nav .nav-link.manage-btn, .submenu .nav-link.manage-btn {
-    background-color: #218838 !important; /* Mocniejszy zielony */
-    color: white !important;
-    border: none !important;
+.navbar-nav .nav-link.learning-btn:hover,
+.submenu .nav-link.learning-btn:hover {
+    background-color: #e6ac00 !important; /* Ciemniejszy odcień żółtego */
+    color: #ffffff !important;
 }
 
+/* Przyciski zarządzania */
+.navbar-nav .nav-link.manage-btn,
+.submenu .nav-link.manage-btn {
+    background-color: #38b01d !important; /* Mocniejszy zielony */
+    color: #000000 !important;
+    border: 1px solid #000000 !important;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-nav .nav-link.manage-btn:hover,
+.submenu .nav-link.manage-btn:hover {
+    background-color: #2e9017 !important; /* Ciemniejszy odcień zielonego */
+    color: #ffffff !important;
+}
+
+/* Przyciski edytowania */
 .navbar-nav .nav-link.edit-btn {
     background-color: #138496 !important; /* Głębszy niebiesko-zielony */
-    color: white !important;
-    border: none !important;
+    color: #000000 !important;
+    border: 1px solid #000000 !important;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-nav .nav-link.edit-btn:hover {
+    background-color: #117a8b !important; /* Ciemniejszy odcień */
+    color: #ffffff !important;
+}
+
+/* Przyciski Home */
+.navbar-nav .nav-link.home-btn,
+.submenu .nav-link.home-btn {
+    background-color: #0056b3 !important; /* Niebieski */
+    color: #ffffff !important;  /* Biały tekst dla kontrastu */
+    border: 1px solid #000000 !important; /* Ciemniejszy niebieski dla obramowania */
+    padding: 8px 12px;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.navbar-nav .nav-link.home-btn:hover,
+.submenu .nav-link.home-btn:hover {
+    background-color: #004494 !important; /* Ciemniejszy odcień niebieskiego */
+    color: #e0e0e0 !important;  /* Jasnoszary tekst przy hover */
+    border-color: #000000 !important; /* Jeszcze ciemniejsze obramowanie */
+}
+
+.navbar-nav .nav-link.home-btn:focus,
+.submenu .nav-link.home-btn:focus {
+    outline: none;
+    background-color: #003377 !important; /* Jeszcze ciemniejszy niebieski */
+    color: #ffffff !important; /* Biały tekst dla lepszego kontrastu */
+    border-color: #002244 !important; /* Głębszy odcień */
+    box-shadow: 0 0 0 3px rgba(0, 86, 179, 0.5); /* Niebieska poświata */
 }
 
 .submenu {
@@ -164,6 +218,8 @@
   <script src="{{ url_for('static', filename='bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js') }}"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.2/xlsx.full.min.js"></script>
   <script src="{{ url_for('static', filename='project/js/main.js') }}"></script>
+  <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
+
   {% if additionalJS %}
     <script src="{{ additionalJS }}"></script>
     <script>

@@ -161,7 +161,7 @@ function removeCurrentWord() {
 }
 
 function fetchExcludedWords() {
-  fetch('user/api/setting/excludedWords.json')
+  fetch('baza_danych/setting/excludedWords.json')
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok');
@@ -176,6 +176,14 @@ function fetchExcludedWords() {
     console.error('Error fetching excluded words:', error);
     excludedWords = [];
   });
+}
+
+function removeCurrentSentence() {
+  if (currentSentence) {
+    excludedSentences.push(currentSentence);
+    saveSetting(excludedSentences);
+    generateRandomSentence();
+  }
 }
 
 document.addEventListener('DOMContentLoaded', fetchExcludedWords);

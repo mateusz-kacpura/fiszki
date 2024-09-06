@@ -3,34 +3,59 @@
 {% block title %}Single Word Learning{% endblock %}
 
 {% block learn %}
-<h1 class="text-center mb-4">Single Word Learning</h1>
-<div id="quiz" style="display: none;">
-  <div class="card mt-3">
-    <div class="card-body text-center">
-      <h5 class="card-title">Translate the word:</h5>
-      <p class="word-to-translate" id="word"></p>
-      <div class="form-group">
-        <label for="translation">Enter the translation:</label>
-        <input type="text" class="form-control" id="translation" onkeydown="handleKeyDown(event)">
-      </div>
-      <button class="btn btn-primary mr-2" onclick="checkTranslation()">Check</button>
-      <button class="btn btn-success" onclick="generateRandomWord()">Next Word</button>
-      <button class="btn btn-warning" id="start-recording" onclick="startRecording()">Start Recording</button>      
-      <button id="edit-word-btn" class="btn btn-warning ms-2" onclick="openEditModal(currentWordData)">Edit</button>
 
-      <p id="result" class="mt-3"></p>
-      {% include 'learning/controls/audio.html' %}
-      <div id="result"></div>
-      </br>
-      <p>SPACE - check | CTR - play audio | -> - next word </p>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
+
+<div class="container">
+  <h1 class="text-center mb-4">Single Word Learning</h1>
+  
+  <div class="row justify-content-center">
+    <!-- Main Content Column -->
+
+      <div class="col-md-8">
+          <div id="quiz" class="card mt-3" style="display: none;">
+              <div class="card-header">
+                  <h5 class="no-margin">Translate the word:</h5>
+              </div>
+              <div class="card-body text-center">
+                  <p class="word-to-translate" id="word"></p>
+                  <div class="form-group">
+                      <label for="translation">Enter the translation:</label>
+                      <input type="text" class="form-control" id="translation" onkeydown="handleKeyDown(event)">
+                  </div> 
+                  <p id="result" class="mt-3"></p>
+                  <div class="d-flex justify-content-center mt-3">
+                    <button class="btn btn-primary me-2" onclick="checkTranslation()">Check</button>
+                    <button class="btn btn-success me-2" onclick="generateRandomWord()">Next Word</button>
+                    <button class="btn btn-warning me-2" id="start-recording" onclick="startRecording()">Start Recording</button>
+                    <button id="edit-word-btn" class="btn btn-warning" onclick="openEditModal(currentWordData)">Edit</button>
+                </div>                
+                 
+              </div>
+          </div>
+  
+          <div id="example-sentence" class="mt-3">
+              <p id="example-sentence-text" class="text-danger"></p>
+              <span id="example-sentence-text-content"></span>
+          </div>
+  
+          {% include 'learning/controls/buttons.html' %}
+      </div>
+
+    <!-- Sidebar Column -->
+      <div class="col-md-4">
+        <div class="card mt-3">
+            <div class="card-header text-center">
+                <h5 class="no-margin">Additional Controls</h5>
+            </div>
+            {% include 'learning/controls/audio.html' %}
+          <div class="card-footer text-center">
+            <p class="m-0">SPACE - check | CTRL - play audio | → - next word</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
-
-<div id="example-sentence">
-  <p id="example-sentence-text" style="color: red;"></p><span id="example-sentence-text-content"></span></p>
-</div>
-{% include 'learning/controls/buttons.html' %}
 
 {% include 'learning/modals/edit-word-modal.html' %}
 

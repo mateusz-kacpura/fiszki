@@ -70,11 +70,11 @@ function checkTranslation() {
     const resultElement = document.getElementById('result');
     if (userTranslation.toLowerCase() === correctTranslation.toLowerCase()) {
       console.log('Correct translation.');
-      resultElement.innerHTML = `<span class="user-translation" style="color: green;">${userTranslation}</span> - Congratulations! Correct answer.`;
+      resultElement.innerHTML = `<span class="user-translation" style="color: green;">${userTranslation}</span>`;
       playAudio(currentWord, correctTranslation)
     } else {
       console.log('Incorrect translation.');
-      resultElement.innerHTML = `<span class="user-translation" style="color: red;">${userTranslation}</span> - Incorrect. The correct translation is: </br><span class="word-to-translate" style="color: green;">${correctTranslation}</span>`;
+      resultElement.innerHTML = `<span class="user-translation" style="color: red;">${userTranslation}</span><span class="word-to-translate" style="color: green;">${correctTranslation}</span>`;
       playAudio(currentWord, correctTranslation)
     }
   }

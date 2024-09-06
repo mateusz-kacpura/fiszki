@@ -9873,5 +9873,15 @@
     "word": "dowody",
     "correct": true,
     "timestamp": "2024-09-03T12:11:06.006Z"
+  },
+  {
+    "sentence": "Badanie pod\u0142u\u017cne \u015bledzi\u0142o zdrowie uczestnik\u00f3w przez 20 lat.",
+    "correct": true,
+    "timestamp": "2024-09-05T19:30:12.186Z"
+  },
+  {
+    "sentence": "Sklep znajduje si\u0119 w niewielkiej odleg\u0142o\u015bci od mojego domu.",
+    "correct": true,
+    "timestamp": "2024-09-05T19:34:02.305Z"
   }
 ]

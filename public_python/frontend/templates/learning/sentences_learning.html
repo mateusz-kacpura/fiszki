@@ -3,22 +3,45 @@
 {% block title %}Sentences Learning{% endblock %}
 
 {% block learn %}
-<h1 class="text-center mb-4">Sentences Learning</h1>
-<div id="quiz" style="display: none;">
-  <div class="card mt-3">
-    <div class="card-body text-center">
-      <h5 class="card-title">Translate the sentence:</h5>
-      <p class="sentence-to-translate" id="sentence"></p>
-      <div class="answer-buttons" id="answer-buttons"></div>
-      <button class="btn btn-success" onclick="generateRandomSentence()">Next Sentence</button>
-      <button id="edit-word-btn" class="btn btn-warning ms-2" onclick="openEditModal(currentWordData)">Edit</button>
-      <p id="result" class="mt-3"></p>
-      {% include 'learning/controls/audio.html' %}
-      <div id="result"></div>
-    </div>
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
+
+<div class="container">
+  <h1 class="text-center mb-4">Sentences Learning</h1>
+  <div class="row justify-content-center">
+      <!-- Main Content Column -->
+      <div class="col-md-8">
+          <div id="quiz" class="card mt-3" style="display: none;">
+              <div class="card-header">
+                  <h5 class="no-margin">Translate the sentence:</h5>
+              </div>
+              <div class="card-body text-center">
+                  <p class="sentence-to-translate" id="sentence"></p>
+                  <div class="answer-buttons" id="answer-buttons"></div>
+                  <button class="btn btn-success mt-3" onclick="generateRandomSentence()">Next Sentence</button>
+                  <button id="edit-word-btn" class="btn btn-warning mt-3 ms-2" onclick="openEditModal(currentWordData)">Edit</button>
+                  <p id="result" class="mt-3"></p>
+                  {% include 'learning/controls/audio.html' %}
+              </div>
+          </div>
+          {% include 'learning/controls/buttons.html' %}
+      </div>
+
+      <!-- Sidebar Column -->
+      <div class="col-md-4">
+          <div class="card mt-3">
+              <div class="card-header">
+                  <h5 class="no-margin">Additional Controls</h5>
+              </div>
+              <div class="card-body text-center">
+                  <p>Here you can add additional controls, tips, or information relevant to the learning process.</p>
+                  <button class="btn btn-primary">Example Control 1</button>
+                  <button class="btn btn-secondary ms-2">Example Control 2</button>
+              </div>
+          </div>
+      </div>
   </div>
 </div>
-{% include 'learning/controls/buttons.html' %}
 
 {% include 'learning/modals/edit-word-modal.html' %}
 

@@ -3,17 +3,7 @@
 {% block title %}Multi Learning{% endblock %}
 
 {% block learn %}
-<style>
-    .word-to-translate {
-        font-weight: bold;
-    }
-    .icon-sound {
-        font-size: 1.2em;
-    }
-    #example-sentence-text {
-        text-align: center;
-    }
-</style>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
 
 <div class="container mt-5">
     <h1>Language Learning Game</h1>
