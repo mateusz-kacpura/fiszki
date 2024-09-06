@@ -291,6 +291,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             <button id="translateButton">Tłumacz</button>
                             <button id="selectSentenceButton">Zaznacz całe zdanie</button>
                             <button id="clearSelectionButton">Usuń zaznaczenie</button>
+                            <button id="translateButtonGoogle">Google API</button>
                             <span id="previewTranslation"></span>
                         `;
                         document.body.appendChild(actionBubble);
@@ -333,6 +334,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         document.getElementById('clearSelectionButton').addEventListener('click', function() {
                             clearSelections();
                         });
+                             
+                        // Event listener do przycisku do tłumaczenia za pomocą Google API
+                        document.getElementById('translateButtonGoogle').addEventListener('click', async function() {
+                            const translatedText = await translateText(selectedWords, 'pl'); // Przetłumaczenie na polski
+                            updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tłumaczeń
+                        }); 
+
                     }
 
                     actionBubble.style.left = `${x}px`;
@@ -367,7 +375,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         showAlert('Wystąpił błąd podczas wczytywania historii tłumaczeń.', 'danger');
                     });
             });
-            
+
             // Funkcja do wykonania zapytania do Google Translate API v1 bez klucza
             async function translateText(text, targetLang = 'en') {
                 const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
@@ -384,58 +392,77 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
-            // Funkcja aktualizująca historię tłumaczeń
-            function updateTranslationHistory(originalText, translatedText) {
-                const historyList = document.getElementById('translation-history');
-
-                // Tworzenie nowego elementu listy
+            
+            // Funkcja tworząca nowy wpis historii tłumaczeń
+            function createNewHistoryEntry(originalText, translatedText) {
                 const newEntry = document.createElement('li');
                 newEntry.innerHTML = `
                     <span class="editable">${originalText} - ${translatedText}</span>
                     <button class="delete-btn btn btn-sm btn-danger ml-2">Usuń</button>
                     <button class="retranslate-btn btn btn-sm btn-primary ml-2">Tłumacz google</button>
                 `;
+                return newEntry;
+            }
 
-                // Dodaj do listy
+            // Funkcja dodająca wpis do historii
+            function addEntryToHistory(newEntry) {
+                const historyList = document.getElementById('translation-history');
                 historyList.appendChild(newEntry);
                 showAlert('Dodano nowe tłumaczenie');
+            }
 
-                // Event listener do bezpośredniego edytowania wpisu po kliknięciu
-                const editableSpan = newEntry.querySelector('.editable');
+            // Funkcja obsługująca edytowanie wpisu
+            function enableEditing(editableSpan) {
                 editableSpan.addEventListener('click', function () {
-                    // Sprawdzanie czy już jest w trybie edycji
                     if (!this.isContentEditable) {
                         this.contentEditable = true;
                         this.focus();
                     }
                 });
 
-                // Zapisywanie zmian po wyjściu z trybu edycji
                 editableSpan.addEventListener('blur', function () {
                     this.contentEditable = false;
                     showAlert('Zapisano zmiany');
                 });
 
-                // Zatrzymywanie edycji po wciśnięciu klawisza Enter
                 editableSpan.addEventListener('keydown', function (event) {
                     if (event.key === 'Enter') {
                         event.preventDefault();
-                        this.blur(); // Wyłączenie trybu edycji
+                        this.blur();
                     }
                 });
+            }
 
-                // Event listener do usuwania wpisu
-                newEntry.querySelector('.delete-btn').addEventListener('click', function() {
+            // Funkcja obsługująca usuwanie wpisu
+            function enableDeletion(deleteButton, newEntry) {
+                const historyList = document.getElementById('translation-history');
+                deleteButton.addEventListener('click', function() {
                     historyList.removeChild(newEntry);
                     showAlert('Usunięto tłumaczenie', 'info');
                 });
+            }
 
-                // Event listener do ponownego tłumaczenia
-                newEntry.querySelector('.retranslate-btn').addEventListener('click', async function() {
+            // Funkcja obsługująca ponowne tłumaczenie
+            function enableRetranslation(retranslateButton, originalText, editableSpan) {
+                retranslateButton.addEventListener('click', async function() {
                     const newTranslation = await translateText(originalText, 'pl'); // Tłumaczenie na polski
                     editableSpan.innerText = `${originalText} - ${newTranslation}`;
                     showAlert('Zaktualizowano tłumaczenie przez Google');
                 });
+            }
+
+            // Główna funkcja aktualizująca historię tłumaczeń
+            function updateTranslationHistory(originalText, translatedText) {
+                const newEntry = createNewHistoryEntry(originalText, translatedText);
+                addEntryToHistory(newEntry);
+
+                const editableSpan = newEntry.querySelector('.editable');
+                const deleteButton = newEntry.querySelector('.delete-btn');
+                const retranslateButton = newEntry.querySelector('.retranslate-btn');
+
+                enableEditing(editableSpan);
+                enableDeletion(deleteButton, newEntry);
+                enableRetranslation(retranslateButton, originalText, editableSpan);
             }
 
             // Funkcja czyszczenia całej historii
@@ -445,6 +472,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 showAlert('Wyczyszczono całą historię', 'warning');
             });
 
+            // Zbieranie zdania z zaznaczonych słów
             function selectEntireSentence() {
                 const firstSelectedWord = document.querySelector('.selected');
                 if (firstSelectedWord) {
@@ -542,7 +570,7 @@ document.addEventListener('DOMContentLoaded', function() {
             function checkCompletion() {
                 const remainingDroppables = document.querySelectorAll('.droppable');
                 if (remainingDroppables.length === 0) {
-                    alert('Gratulacje! Wszystkie słowa zostały wstawione.');
+                    showAlert('Gratulacje! Wszystkie słowa zostały wstawione.', 'success');
                 }
             }
 
