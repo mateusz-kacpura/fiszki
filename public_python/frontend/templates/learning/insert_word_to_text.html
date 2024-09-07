@@ -211,16 +211,38 @@ document.addEventListener('DOMContentLoaded', function() {
                 wordContainer.appendChild(wordElement);
             };
 
+            // Funkcja do losowego przetasowania tablicy
+            function shuffleArray(array) {
+                for (let i = array.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [array[i], array[j]] = [array[j], array[i]];
+                }
+                return array;
+            }
+
+            // Funkcja ustawiająca rozsypankę słów
             const updateWordContainer = () => {
                 wordContainer.innerHTML = '';
+
+                // Pobierz wszystkie słowa, które powinny być wyświetlone
+                let words = [];
                 Object.keys(wordCount).forEach(word => {
                     if (wordCount[word] > 0 && !usedWords.has(word)) {
                         for (let i = 0; i < wordCount[word]; i++) {
-                            createDraggableWord(word);
+                            words.push(word);
                         }
                     }
                 });
+
+                // Losowo przetasuj tablicę słów
+                words = shuffleArray(words);
+
+                // Dodaj losowo przetasowane słowa do wordContainer
+                words.forEach(word => {
+                    createDraggableWord(word);
+                });
             };
+
 
             const usedWords = new Set();
             updateWordContainer();
