@@ -636,7 +636,7 @@
                         },
                         {
                             "word": "variables",
-                            "position": 31,
+                            "position": 28,
                             "translation": "zmienne"
                         }
                     ]
@@ -668,7 +668,7 @@
                         },
                         {
                             "word": "order of magnitude",
-                            "position": [27,28,29],
+                            "position": [28,29,30],
                             "translation": "kolejność wielkości"
                         }
                     ]

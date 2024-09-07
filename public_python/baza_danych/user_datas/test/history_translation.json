@@ -24,5 +24,52 @@
                 }
             }
         ]
+    },
+    {
+        "selectedTextName": "Opposite words replacement",
+        "dateOfSave": "2024-09-07T16:20:45.571871Z",
+        "translations": [
+            {
+                "originalText": "The committee seemed to be biased / unbiased from younger people.,,,",
+                "translatedText": "Komisja wydawała się być stronnicza/bezstronna wobec młodszych ludzi.,,,",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "The book is an objective / subbective life in a small town in the 1920s.,",
+                "translatedText": "Książka przedstawia obiektywne/subfikcyjne życie w małym miasteczku lat 20. XX wieku.,",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "prejudiced / unprejudiced",
+                "translatedText": "uprzedzony/bez uprzedzeń",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "The club rules were prejudiced / unprejudiced of children.",
+                "translatedText": "Regulamin klubu był uprzedzony/nieuprzedzony wobec dzieci.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Complete the extracts with the missing words. The first letter of each word is given to help you.",
+        "dateOfSave": "2024-09-07T16:50:52.491726Z",
+        "translations": [
+            {
+                "originalText": "Research has provided insights into the link between sleep and memory development, suggesting that sleep is essential for memory.,",
+                "translatedText": "Badania dostarczyły wiedzy na temat związku między snem a rozwojem pamięci, sugerując, że sen jest niezbędny dla pamięci.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
     }
 ]

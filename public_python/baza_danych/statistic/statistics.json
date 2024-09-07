@@ -9913,5 +9913,55 @@
     "sentence": "Musimy zebra\u0107 wyniki wszystkich test\u00f3w.",
     "correct": true,
     "timestamp": "2024-09-06T09:18:26.887Z"
+  },
+  {
+    "sentence": "Otrzyma\u0142a wiele krytyki za swoj\u0105 decyzj\u0119.",
+    "correct": true,
+    "timestamp": "2024-09-07T16:23:07.489Z"
+  },
+  {
+    "sentence": "Pi\u0142ka jest pomi\u0119dzy dwoma krzes\u0142ami.",
+    "correct": false,
+    "timestamp": "2024-09-07T16:23:16.533Z"
+  },
+  {
+    "sentence": "Wyniki odzwierciedlaj\u0105 prawdziwe uczucia uczestnik\u00f3w.",
+    "correct": false,
+    "timestamp": "2024-09-07T16:23:17.345Z"
+  },
+  {
+    "sentence": "Badanie analizuje zwi\u0105zki mi\u0119dzy r\u00f3\u017cnymi zmiennymi.",
+    "correct": false,
+    "timestamp": "2024-09-07T16:23:17.788Z"
+  },
+  {
+    "sentence": "Bakterie mog\u0105 si\u0119 szybko mno\u017cy\u0107 w odpowiednich warunkach.",
+    "correct": true,
+    "timestamp": "2024-09-07T16:23:18.398Z"
+  },
+  {
+    "sentence": "Liczba ofert pracy maleje na obszarach wiejskich.",
+    "correct": true,
+    "timestamp": "2024-09-07T16:23:25.906Z"
+  },
+  {
+    "sentence": "Badanie analizuje zwi\u0105zki mi\u0119dzy r\u00f3\u017cnymi zmiennymi.",
+    "correct": true,
+    "timestamp": "2024-09-07T16:23:27.784Z"
+  },
+  {
+    "sentence": "Podmiotami eksperymentu byli studenci college'u.",
+    "correct": false,
+    "timestamp": "2024-09-07T16:23:58.235Z"
+  },
+  {
+    "sentence": "Ona przyczynia si\u0119 do sukcesu zespo\u0142u.",
+    "correct": false,
+    "timestamp": "2024-09-07T16:24:17.745Z"
+  },
+  {
+    "sentence": "Temperatures fell below freezing last night.",
+    "correct": false,
+    "timestamp": "2024-09-07T16:24:35.997Z"
   }
 ]
