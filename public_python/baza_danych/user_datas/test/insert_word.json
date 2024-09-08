@@ -1092,6 +1092,78 @@
                     ]
                 }
             ]
+        },
+        {
+            "uuid": "letter-01",
+            "name": "Sample cover letter",
+            "sentences": [
+                {
+                    "english": "I am writing with reference to your online advertisement.",
+                    "polish": "Piszę w nawiązaniu do Twojego ogłoszenia internetowego.",
+                    "missing_words": [
+                        {
+                            "word": "writing with reference to",
+                            "position": [2, 3, 4, 5],
+                            "translation": "piszę w nawiązaniu do"
+                        }
+                    ]
+                },
+                {
+                    "english": "As you will see from my attached CV, I have significant experience in the field.",
+                    "polish": "Jak zobaczysz w załączonym CV, mam znaczące doświadczenie w tej dziedzinie.",
+                    "missing_words": [
+                        {
+                            "word": "attached CV",
+                            "position": [7, 8],
+                            "translation": "załączone CV"
+                        }
+                    ]
+                },
+                {
+                    "english": "I would now like to relocate to a new city for fresh challenges.",
+                    "polish": "Chciałbym teraz przeprowadzić się do nowego miasta, aby podjąć nowe wyzwania.",
+                    "missing_words": [
+                        {
+                            "word": "relocate",
+                            "position": [6],
+                            "translation": "przeprowadzić się"
+                        }
+                    ]
+                },
+                {
+                    "english": "I am available for an interview on any weekday.",
+                    "polish": "Jestem dostępny na rozmowę kwalifikacyjną w dowolny dzień tygodnia.",
+                    "missing_words": [
+                        {
+                            "word": "available for an interview",
+                            "position": [3, 4, 5, 6],
+                            "translation": "dostępny na rozmowę kwalifikacyjną"
+                        }
+                    ]
+                },
+                {
+                    "english": "I look forward to hearing from you.",
+                    "polish": "Z niecierpliwością czekam na odpowiedź.",
+                    "missing_words": [
+                        {
+                            "word": "look forward to hearing from you",
+                            "position": [2, 3, 4, 5, 6],
+                            "translation": "z niecierpliwością czekam na odpowiedź"
+                        }
+                    ]
+                },
+                {
+                    "english": "Best regards, Mateusz.",
+                    "polish": "Z poważaniem, [Twoje Imię].",
+                    "missing_words": [
+                        {
+                            "word": "Best regards",
+                            "position": [1, 2],
+                            "translation": "Z poważaniem"
+                        }
+                    ]
+                }
+            ]
         }          
     ]
 }

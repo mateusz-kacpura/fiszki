@@ -9,7 +9,6 @@
 <div class="row justify-content-center">
     <!-- Lewa kolumna z kartą i wyborem słów -->
     <div class="col-md-8">
-        <!-- Karta do przeciągania słów -->
         <div class="card">
             <div class="card-header text-center">
                 <h2 class="card-title">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
@@ -17,17 +16,6 @@
             <div class="card-body">
                 <p id="text-with-blanks"></p>
                 <div id="image-container" class="d-flex justify-content-center flex-wrap"></div>
-            </div>
-        </div>
-        <!-- Karta do wyboru tekstu -->
-        <div class="card mb-3">
-            <div class="card-header text-center">
-                <h2 class="card-title">Wybierz tekst do załadowania</h2>
-            </div>
-            <div class="card-body">
-                <ul id="textList" class="list-group">
-                    <!-- Lista tekstów zostanie wygenerowana dynamicznie -->
-                </ul>
             </div>
         </div>
     </div>
@@ -52,6 +40,7 @@
 
     <!-- Miejsce na dynamiczne powiadomienia (alerty) -->
     <div id="alert-container" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+
 </div>
 
 
@@ -77,6 +66,23 @@
 <div class="modal fade" id="translationModal" tabindex="-1" aria-labelledby="translationModalLabel" aria-hidden="true">
     <!-- Modal content is the same -->
 </div>
+
+<div class="modal fade" id="textSelectionModal" tabindex="-1" aria-labelledby="textSelectionModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="textSelectionModalLabel">Wybierz tekst</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <ul id="textList" class="list-group">
+                    <!-- Lista tekstów zostanie wygenerowana dynamicznie -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 {% include 'learning/controls/buttons.html' %}
 {% include 'learning/modals/edit-word-modal.html' %}
@@ -111,41 +117,25 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(response => response.json())
             .then(data => {
                 const textList = document.getElementById('textList');
-                textList.innerHTML = ''; // Czyścimy poprzednią listę
 
                 data.text_names.forEach(text => {
                     const listItem = document.createElement('li');
                     listItem.className = 'list-group-item list-group-item-action';
                     listItem.dataset.name = text.name;
                     listItem.innerText = text.name;
-                    
                     listItem.addEventListener('click', function() {
                         selectedTextName = this.dataset.name;
                         fetchAndLoadText(selectedTextName);
-
-                        // Podświetlanie wybranego tekstu
-                        document.querySelectorAll('#textList .list-group-item').forEach(item => {
-                            item.classList.remove('active');
-                        });
-                        this.classList.add('active');
-
-                        showAlert(`Załadowano tekst: ${selectedTextName}`, 'success');
                     });
-
                     textList.appendChild(listItem);
                 });
 
-                // Opcjonalnie, automatycznie załaduj pierwszy tekst na liście
-                if (data.text_names.length > 0) {
-                    selectedTextName = data.text_names[0].name;
-                    fetchAndLoadText(selectedTextName);
-                    document.querySelector(`#textList [data-name="${selectedTextName}"]`).classList.add('active');
-                    showAlert(`Załadowano tekst: ${selectedTextName}`, 'success');
-                }
+                // Pokazanie modala po załadowaniu listy tekstów
+                const textSelectionModal = new bootstrap.Modal(document.getElementById('textSelectionModal'));
+                textSelectionModal.show();
             })
             .catch(error => {
                 console.error('Błąd przy pobieraniu listy tekstów:', error);
-                showAlert('Nie udało się pobrać listy tekstów.', 'danger');
             });
     }
 
