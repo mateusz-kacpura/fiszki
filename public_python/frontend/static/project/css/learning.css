@@ -140,3 +140,9 @@
     #action-bubble button:last-child {
         margin-right: 0;
     }
+
+    .list-group-item.active {
+        background-color: #007bff;
+        color: white;
+    }
+    

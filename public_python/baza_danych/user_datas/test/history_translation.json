@@ -56,6 +56,27 @@
                 "metadata": {
                     "translationSource": "manual"
                 }
+            },
+            {
+                "originalText": "biased / unbiased",
+                "translatedText": "stronniczy/bezstronny",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "conservative marriage.",
+                "translatedText": "konserwatywne małżeństwo.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "conservative marriage.",
+                "translatedText": "Konzerwatywne małżeństwo",
+                "metadata": {
+                    "translationSource": "manual"
+                }
             }
         ]
     },
@@ -66,6 +87,53 @@
             {
                 "originalText": "Research has provided insights into the link between sleep and memory development, suggesting that sleep is essential for memory.,",
                 "translatedText": "Badania dostarczyły wiedzy na temat związku między snem a rozwojem pamięci, sugerując, że sen jest niezbędny dla pamięci.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Words and phrases related to opinions and ideas",
+        "dateOfSave": "2024-09-07T17:25:18.765253Z",
+        "translations": [
+            {
+                "originalText": "Academics have traditionally taken the view that their discipline is intellectually independent from all others.",
+                "translatedText": "Naukowcy tradycyjnie przyjmowali pogląd, że ich dyscyplina jest intelektualnie niezależna od wszystkich innych.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "blending of ideas and the cross-fertilization of thought which emerges from it.",
+                "translatedText": "Zmieszanie pomysłów i przekraczanie myśli, które z nich powstają.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Working with numbers",
+        "dateOfSave": "2024-09-08T08:27:01.337524Z",
+        "translations": [
+            {
+                "originalText": "The incidence of twins in the population is growing.",
+                "translatedText": "Liczba bliźniąt w populacji rośnie.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "occurs.",
+                "translatedText": "występuje.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "magnitude simply refers to the size",
+                "translatedText": "Wielkość po prostu odnosi się do wielkości",
                 "metadata": {
                     "translationSource": "manual"
                 }
