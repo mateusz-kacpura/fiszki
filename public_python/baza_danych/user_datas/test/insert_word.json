@@ -1164,6 +1164,467 @@
                     ]
                 }
             ]
-        }          
+        },
+                {
+                    "uuid": "4.1",
+                    "name": "Skills and qualifications - Education and training",
+                    "sentences": [
+                        {
+                            "english": "The trouble with graduates – people who've just left university – is that their paper qualifications are good.",
+                            "polish": "Problem z absolwentami - ludźmi, którzy właśnie ukończyli studia - polega na tym, że ich kwalifikacje na papierze są dobre.",
+                            "missing_words": [
+                                {
+                                    "word": "graduates",
+                                    "position": [4],
+                                    "translation": "absolwenci"
+                                },
+                                {
+                                    "word": "qualifications",
+                                    "position": [16],
+                                    "translation": "kwalifikacje"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "They might have qualifications in interesting subjects, but they have no work experience.",
+                            "polish": "Mogą mieć kwalifikacje w interesujących dziedzinach, ale nie mają doświadczenia zawodowego.",
+                            "missing_words": [
+                                {
+                                    "word": "qualifications",
+                                    "position": [4],
+                                    "translation": "kwalifikacje"
+                                },
+                                {
+                                    "word": "no work experience",
+                                    "position": [11, 12, 13],
+                                    "translation": "brak doświadczenia zawodowego"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "One of last year’s recruits graduated from Oxford University with a degree in philosophy and she’s doing very well!",
+                            "polish": "Jedna z rekrutów z ubiegłego roku ukończyła Uniwersytet Oksfordzki z tytułem naukowym z filozofii i radzi sobie bardzo dobrze!",
+                            "missing_words": [
+                                {
+                                    "word": "graduated from",
+                                    "position": [6, 7],
+                                    "translation": "ukończyła"
+                                },
+                                {
+                                    "word": "with a degree in",
+                                    "position": [10, 11, 12, 13],
+                                    "translation": "z tytułem naukowym z"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "It's more useful to do training in a practical subject: it's better for us if you train as a scientist, and qualify as a biologist or a doctor, for example.",
+                            "polish": "Bardziej przydatne jest szkolenie w praktycznym przedmiocie: lepiej dla nas, jeśli przeszkolisz się na naukowca i zdobędziesz kwalifikacje jako biolog lub lekarz, na przykład.",
+                            "missing_words": [
+                                {
+                                    "word": "training",
+                                    "position": [6],
+                                    "translation": "szkolenie"
+                                },
+                                {
+                                    "word": "train as",
+                                    "position": [17, 18],
+                                    "translation": "szkolić się jako"
+                                },
+                                {
+                                    "word": "qualify as",
+                                    "position": [21, 22],
+                                    "translation": "zdobyć kwalifikacje jako"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "We also need good managers, which we can achieve through in-house training – courses within the company.",
+                            "polish": "Potrzebujemy również dobrych menedżerów, co możemy osiągnąć dzięki szkoleniom wewnętrznym – kursom w firmie.",
+                            "missing_words": [
+                                {
+                                    "word": "through in-house training",
+                                    "position": [10, 11, 12],
+                                    "translation": "dzięki szkoleniom wewnętrznym"
+                                },
+                                {
+                                    "word": "courses",
+                                    "position": [14],
+                                    "translation": "kursy"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "You need to acquire experience – get knowledge through doing things – for that.",
+                            "polish": "Musisz zdobyć doświadczenie – zdobyć wiedzę poprzez działanie – aby to osiągnąć.",
+                            "missing_words": [
+                                {
+                                    "word": "acquire experience",
+                                    "position": [4, 5],
+                                    "translation": "zdobyć doświadczenie"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "You know we put a lot of money into management development, where managers regularly go on specialized courses in leadership, finance, etc.",
+                            "polish": "Wiesz, że inwestujemy dużo pieniędzy w rozwój zarządzania, gdzie menedżerowie regularnie uczęszczają na specjalistyczne kursy z zakresu przywództwa, finansów itp.",
+                            "missing_words": [
+                                {
+                                    "word": "go on",
+                                    "position": [15, 16],
+                                    "translation": "uczestniczyć w"
+                                },
+                                {
+                                   "word": "courses",
+                                   "position": [18],
+                                   "translation": "kursach"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "In AmE, you can also say that someone graduates from high school – the school that people usually leave when they are 18.",
+                            "polish": "W AmE można również powiedzieć, że ktoś ukończył szkołę średnią – szkołę, którą ludzie zwykle opuszczają, gdy mają 18 lat.",
+                            "missing_words": [
+                                {
+                                    "word": "graduates from",
+                                    "position": [9, 10],
+                                    "translation": "ukończył"
+                                }
+                            ]
+                        },
+                        {
+                            "english": "A master’s degree is a qualification you can get after one or two years of graduate study.",
+                            "polish": "Stopień magistra to kwalifikacja, którą można uzyskać po jednym lub dwóch latach studiów magisterskich.",
+                            "missing_words": [
+                                {
+                                    "word": "master's degree",
+                                    "position": [2, 3],
+                                    "translation": "stopień magistra"
+                                },
+                                {
+                                    "word": "graduate study",
+                                    "position": [16, 17],
+                                    "translation": "studia magisterskie"
+                                }
+                            ]
+                        }
+                    ]
+        },
+        {
+            "uuid": "4.2",
+            "name": "Dr. Claire's Research Methods",
+            "sentences": [
+                {
+                    "english": "Once upon a time in a small town, there lived a curious scientist named Dr. Claire.",
+                    "polish": "Dawno, dawno temu w małym miasteczku mieszkała ciekawska naukowczyni o imieniu dr Claire.",
+                    "missing_words": []
+                },
+                {
+                    "english": "She was known for her insatiable thirst for knowledge and her determination to understand the mysteries of the world.",
+                    "polish": "Była znana ze swojego nienasyconego pragnienia wiedzy i determinacji w zrozumieniu tajemnic świata.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Dr. Claire employed various research methods in her quest for truth, each method offering a unique lens through which she could observe and analyze the world around her.",
+                    "polish": "Dr Claire stosowała różne metody badawcze w swojej dążeniu do prawdy, każda metoda oferowała unikalny sposób obserwacji i analizy otaczającego ją świata.",
+                    "missing_words": []
+                },
+                {
+                    "english": "One day, Dr. Claire decided to conduct an exploratory study on a rare flower that had just been discovered in the nearby forest.",
+                    "polish": "Pewnego dnia, dr Claire zdecydowała się przeprowadzić badanie eksploracyjne dotyczące rzadkiego kwiatu, który właśnie został odkryty w pobliskim lesie.",
+                    "missing_words": [
+                        {
+                            "word": "exploratory",
+                            "position": [10],
+                            "translation": "eksploracyjne"
+                        }
+                    ]
+                },
+                {
+                    "english": "No one had studied this flower before, so she began her research by gathering as much information as possible.",
+                    "polish": "Nikt wcześniej nie badał tego kwiatu, więc rozpoczęła swoje badania od zebrania jak największej ilości informacji.",
+                    "missing_words": []
+                },
+                {
+                    "english": "However, she knew that her conclusions would be tentative since she was working with a very small sample.",
+                    "polish": "Jednak wiedziała, że jej wnioski będą wstępne, ponieważ pracowała na bardzo małej próbie.",
+                    "missing_words": [
+                        {
+                            "word": "tentative",
+                            "position": [9],
+                            "translation": "wstępne"
+                        }
+                    ]
+                },
+                {
+                    "english": "Despite this limitation, her study sparked interest among other scientists.",
+                    "polish": "Pomimo tego ograniczenia, jej badanie wzbudziło zainteresowanie wśród innych naukowców.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Encouraged by her initial findings, Dr. Claire moved on to an experimental study.",
+                    "polish": "Zachęcona swoimi wstępnymi wynikami, dr Claire przeszła do badania eksperymentalnego.",
+                    "missing_words": [
+                        {
+                            "word": "experimental",
+                            "position": [8],
+                            "translation": "eksperymentalnego"
+                        }
+                    ]
+                },
+                {
+                    "english": "She took a few of the flowers to her lab, where she manipulated the environment, altering variables like light, water, and soil to see how these changes affected the flower's growth, which was her dependent variable.",
+                    "polish": "Zabrała kilka kwiatów do swojego laboratorium, gdzie manipulowała środowiskiem, zmieniając zmienne takie jak światło, woda i gleba, aby zobaczyć, jak te zmiany wpływają na wzrost kwiatu, który był jej zmienną zależną.",
+                    "missing_words": [
+                        {
+                            "word": "manipulates",
+                            "position": [14],
+                            "translation": "manipulowała"
+                        },
+                        {
+                            "word": "dependent variable",
+                            "position": [32, 33],
+                            "translation": "zmienna zależna"
+                        }
+                    ]
+                },
+                {
+                    "english": "The controlled conditions of her lab allowed her to see the effects of each change clearly.",
+                    "polish": "Kontrolowane warunki w jej laboratorium pozwoliły jej wyraźnie zobaczyć skutki każdej zmiany.",
+                    "missing_words": [
+                        {
+                            "word": "controlled conditions",
+                            "position": [2, 3],
+                            "translation": "kontrolowane warunki"
+                        }
+                    ]
+                },
+                {
+                    "english": "But she was aware that these artificial conditions might not reflect what would happen in the wild, so she shared her methods with colleagues, hoping they could replicate her experiments in different settings.",
+                    "polish": "Była jednak świadoma, że te sztuczne warunki mogą nie odzwierciedlać tego, co się dzieje w naturze, więc podzieliła się swoimi metodami z kolegami, mając nadzieję, że będą mogli powtórzyć jej eksperymenty w różnych warunkach.",
+                    "missing_words": [
+                        {
+                            "word": "artificial",
+                            "position": [8],
+                            "translation": "sztuczne"
+                        },
+                        {
+                            "word": "replicate",
+                            "position": [23],
+                            "translation": "powtórzyć"
+                        }
+                    ]
+                },
+                {
+                    "english": "Next, Dr. Claire decided to perform a correlational study.",
+                    "polish": "Następnie dr Claire zdecydowała się przeprowadzić badanie korelacyjne.",
+                    "missing_words": [
+                        {
+                            "word": "correlational",
+                            "position": [9],
+                            "translation": "korelacyjne"
+                        }
+                    ]
+                },
+                {
+                    "english": "She wanted to see if there was a systematic relationship between the flower’s color and the insects it attracted.",
+                    "polish": "Chciała zobaczyć, czy istnieje systematyczny związek między kolorem kwiatu a owadami, które przyciąga.",
+                    "missing_words": [
+                        {
+                            "word": "systematic",
+                            "position": [7],
+                            "translation": "systematyczny"
+                        }
+                    ]
+                },
+                {
+                    "english": "Using mathematical techniques for summarizing data, she found a strong correlation.",
+                    "polish": "Używając technik matematycznych do podsumowania danych, odkryła silną korelację.",
+                    "missing_words": []
+                },
+                {
+                    "english": "However, she knew this didn’t prove a cause-and-effect relationship—the correlation was intriguing but not definitive.",
+                    "polish": "Jednak wiedziała, że to nie dowodzi związku przyczynowo-skutkowego – korelacja była intrygująca, ale nie ostateczna.",
+                    "missing_words": [
+                        {
+                            "word": "cause-and-effect relationship",
+                            "position": [8, 9, 10],
+                            "translation": "związek przyczynowo-skutkowy"
+                        }
+                    ]
+                },
+                {
+                    "english": "Not one to leave things half done, Dr. Claire embarked on a causal study.",
+                    "polish": "Nie będąc osobą, która zostawia rzeczy niedokończone, dr Claire podjęła badanie przyczynowe.",
+                    "missing_words": [
+                        {
+                            "word": "causal",
+                            "position": [11],
+                            "translation": "przyczynowe"
+                        }
+                    ]
+                },
+                {
+                    "english": "She attempted to establish a causal relationship between the flower’s scent and its ability to attract certain pollinators.",
+                    "polish": "Starała się ustalić związek przyczynowy między zapachem kwiatu a jego zdolnością do przyciągania niektórych zapylaczy.",
+                    "missing_words": [
+                        {
+                            "word": "causal relationship",
+                            "position": [6, 7],
+                            "translation": "związek przyczynowy"
+                        }
+                    ]
+                },
+                {
+                    "english": "This was tricky because she had to ensure that no other variables were influencing the results.",
+                    "polish": "To było trudne, ponieważ musiała upewnić się, że żadne inne zmienne nie wpływają na wyniki.",
+                    "missing_words": []
+                },
+                {
+                    "english": "It was difficult to eliminate all other possibilities, but her findings brought her closer to understanding the flower's secret.",
+                    "polish": "Trudno było wyeliminować wszystkie inne możliwości, ale jej odkrycia przybliżyły ją do zrozumienia sekretu kwiatu.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Taking a different approach, Dr. Claire decided to engage in naturalistic observation.",
+                    "polish": "Stosując inne podejście, dr Claire zdecydowała się na obserwację naturalistyczną.",
+                    "missing_words": [
+                        {
+                            "word": "naturalistic",
+                            "position": [10],
+                            "translation": "naturalistyczną"
+                        }
+                    ]
+                },
+                {
+                    "english": "She spent days, even weeks, in the forest, watching the flowers in their natural setting without disrupting their environment.",
+                    "polish": "Spędzała dni, a nawet tygodnie w lesie, obserwując kwiaty w ich naturalnym środowisku, nie zakłócając ich otoczenia.",
+                    "missing_words": [
+                        {
+                            "word": "natural setting",
+                            "position": [14, 15],
+                            "translation": "naturalne środowisko"
+                        },
+                        {
+                            "word": "disrupting",
+                            "position": [18],
+                            "translation": "zakłócając"
+                        }
+                    ]
+                },
+                {
+                    "english": "This method was very time-consuming, but it gave her valuable insights into how the flowers interacted with their surroundings.",
+                    "polish": "Ta metoda była bardzo czasochłonna, ale dostarczyła jej cennych wglądów w to, jak kwiaty współdziałają z otoczeniem.",
+                    "missing_words": []
+                },
+                {
+                    "english": "To gather more data, Dr. Claire conducted a survey among local botanists and villagers.",
+                    "polish": "Aby zebrać więcej danych, dr Claire przeprowadziła ankietę wśród lokalnych botaników i mieszkańców wsi.",
+                    "missing_words": [
+                        {
+                            "word": "survey",
+                            "position": [8],
+                            "translation": "ankieta"
+                        }
+                    ]
+                },
+                {
+                    "english": "She collected inferences from their responses about the flower’s properties.",
+                    "polish": "Zebrała wnioski z ich odpowiedzi na temat właściwości kwiatu.",
+                    "missing_words": [
+                        {
+                            "word": "inferences",
+                            "position": [2],
+                            "translation": "wnioski"
+                        }
+                    ]
+                },
+                {
+                    "english": "However, she had to be careful, as intentional deception, poor memory, or misunderstanding of the questions could lead to inaccuracies in the data.",
+                    "polish": "Musiała jednak być ostrożna, ponieważ celowe wprowadzenie w błąd, słaba pamięć lub niezrozumienie pytań mogło prowadzić do nieścisłości w danych.",
+                    "missing_words": [
+                        {
+                            "word": "intentional deception",
+                            "position": [8, 9],
+                            "translation": "celowe wprowadzenie w błąd"
+                        },
+                        {
+                            "word": "inaccuracies",
+                            "position": [20],
+                            "translation": "nieścisłości"
+                        }
+                    ]
+                },
+                {
+                    "english": "Dr. Claire also decided to do a case study on a particular flower that exhibited unusual traits.",
+                    "polish": "Dr Claire zdecydowała się również przeprowadzić studium przypadku na konkretnym kwiecie, który wykazywał nietypowe cechy.",
+                    "missing_words": [
+                        {
+                            "word": "case",
+                            "position": [8],
+                            "translation": "przypadek"
+                        }
+                    ]
+                },
+                {
+                    "english": "She kept in-depth records of this flower’s behavior as an outside observer.",
+                    "polish": "Prowadziła szczegółowe zapisy dotyczące zachowania tego kwiatu jako zewnętrzny obserwator.",
+                    "missing_words": [
+                        {
+                            "word": "in-depth",
+                            "position": [2],
+                            "translation": "szczegółowe"
+                        }
+                    ]
+                },
+                {
+                    "english": "However, she knew that focusing on a single flower might not provide results that were representative of the entire species.",
+                    "polish": "Jednak wiedziała, że skupienie się na pojedynczym kwiecie może nie dać wyników, które byłyby reprezentatywne dla całego gatunku.",
+                    "missing_words": [
+                        {
+                            "word": "representative",
+                            "position": [15],
+                            "translation": "reprezentatywne"
+                        }
+                    ]
+                },
+                {
+                    "english": "Finally, Dr. Claire committed to a longitudinal study.",
+                    "polish": "W końcu dr Claire zaangażowała się w badanie longitudinalne.",
+                    "missing_words": [
+                        {
+                            "word": "longitudinal",
+                            "position": [8],
+                            "translation": "longitudinalne"
+                        }
+                    ]
+                },
+                {
+                    "english": "She selected a group of flowers and observed them over several seasons, making repeated observations.",
+                    "polish": "Wybrała grupę kwiatów i obserwowała je przez kilka sezonów, dokonując wielokrotnych obserwacji.",
+                    "missing_words": []
+                },
+                {
+                    "english": "This approach required patience, as it took a long time to gather results, and it was challenging to maintain the same sample over time.",
+                    "polish": "To podejście wymagało cierpliwości, ponieważ zebranie wyników zajmowało dużo czasu, a utrzymanie tej samej próby przez dłuższy czas było wyzwaniem.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Through her dedication and use of these diverse research methods, Dr. Claire slowly pieced together the puzzle of the rare flower.",
+                    "polish": "Dzięki swojej dedykacji i wykorzystaniu tych różnorodnych metod badawczych, dr Claire powoli składała w całość zagadkę rzadkiego kwiatu.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Each method she employed contributed a crucial piece of information, helping her build a comprehensive understanding of this mysterious plant.",
+                    "polish": "Każda zastosowana przez nią metoda wnosiła kluczową informację, pomagając jej zbudować całościowe zrozumienie tej tajemniczej rośliny.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Her work not only advanced scientific knowledge but also inspired others to explore the world with the same curiosity and rigor she had shown.",
+                    "polish": "Jej praca nie tylko poszerzyła wiedzę naukową, ale także zainspirowała innych do eksploracji świata z taką samą ciekawością i rygorem, jakie ona wykazała.",
+                    "missing_words": []
+                }
+            ]
+        }   
     ]
 }
