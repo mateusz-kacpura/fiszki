@@ -496,6 +496,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 enableEditing(editableSpan);
                 enableDeletion(deleteButton, newEntry);
                 enableRetranslation(retranslateButton, originalText, editableSpan);
+
+                // Wyświetl powiadomienie o dodaniu nowego wpisu do historii
+                showAlert('Nowe wpisy do historii tłumaczeń zostały dodane.', 'success');
             }
 
             // Funkcja czyszczenia całej historii
@@ -662,6 +665,7 @@ document.getElementById('save-history-to-file').addEventListener('click', functi
     .then(response => response.json())
     .then(data => {
         console.log('Success:', data);
+        showAlert('Historia tłumaczeń została pomyślnie zapisana.', 'success');
     })
     .catch((error) => {
         console.error('Error:', error);
