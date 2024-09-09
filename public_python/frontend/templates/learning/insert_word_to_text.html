@@ -275,23 +275,31 @@ document.addEventListener('DOMContentLoaded', function() {
             });
 
             function toggleSelection(element) {
-                const word = element.dataset.word;
-                const wordIndex = element.dataset.index;
+                const word = element.dataset.word; // Pobieramy słowo z atrybutu data
+                const wordIndex = element.dataset.index; // Pobieramy indeks słowa
 
+                // Jeśli selectedWords jest puste lub obecne słowo jest następne w kolejności
                 if (selectedWords.length === 0 || wordIndex === `${lastSelectedIndex.split('-')[0]}-${parseInt(lastSelectedIndex.split('-')[1]) + 1}`) {
-                    element.classList.add('selected');
-                    selectedWords.push(word);
-                    lastSelectedIndex = wordIndex;
+                    element.classList.add('selected'); // Dodajemy klasę "selected"
+                    
+                    // Łączymy słowa w jedno zdanie (dołączamy kolejne słowo z odstępem)
+                    selectedWords = selectedWords.length > 0 ? [selectedWords.join(' ') + ' ' + word] : [word];
+                    
+                    lastSelectedIndex = wordIndex; // Aktualizujemy ostatni indeks
                 } else if (element.classList.contains('selected')) {
-                    element.classList.remove('selected');
-                    selectedWords = selectedWords.filter(w => w !== word);
+                    element.classList.remove('selected'); // Usuwamy klasę "selected"
+                    
+                    // Usuwamy dane słowo ze zdania (jeśli istnieje)
+                    selectedWords = [selectedWords[0].replace(word, '').trim()];
+                    
                     lastSelectedIndex = selectedWords.length > 0 ? element.dataset.index : -1;
                 }
 
+                // Ukrywamy actionBubble, jeśli nie ma wybranych słów
                 if (selectedWords.length === 0 && actionBubble) {
                     actionBubble.style.display = 'none';
                 }
-            }            
+            }
 
             function updateBubble(event, finalizePosition = false) {
                 const firstSelectedWord = document.querySelector('.selected');
@@ -322,7 +330,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         document.getElementById('translateButton').addEventListener('click', function() {
                             const textToTranslate = selectedWords.join(' ');
 
-                            // Wykonaj fetch do Twojego API
+                            // Wykonywanie fetch do API
                             fetch('/user/translate', {
                                 method: 'POST',
                                 headers: {
@@ -356,10 +364,12 @@ document.addEventListener('DOMContentLoaded', function() {
                         document.getElementById('clearSelectionButton').addEventListener('click', function() {
                             clearSelections();
                         });
-                             
+                        
                         // Event listener do przycisku do tłumaczenia za pomocą Google API
                         document.getElementById('translateButtonGoogle').addEventListener('click', async function() {
+                            console.log("selectedWords", selectedWords)
                             const translatedText = await translateText(selectedWords, 'pl'); // Przetłumaczenie na polski
+                            console.log("const translatedText", translatedText)
                             updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tłumaczeń
                         }); 
 
@@ -400,6 +410,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Funkcja do wykonania zapytania do Google Translate API v1 bez klucza
             async function translateText(text, targetLang = 'en') {
+                console.log("translateText", text)
                 const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
 
                 try {
@@ -466,6 +477,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Funkcja obsługująca ponowne tłumaczenie
             function enableRetranslation(retranslateButton, originalText, editableSpan) {
                 retranslateButton.addEventListener('click', async function() {
+                    console.log("originalText", originalText)
                     const newTranslation = await translateText(originalText, 'pl'); // Tłumaczenie na polski
                     editableSpan.innerText = `${originalText} - ${newTranslation}`;
                     showAlert('Zaktualizowano tłumaczenie przez Google');
@@ -532,7 +544,6 @@ document.addEventListener('DOMContentLoaded', function() {
                                     return existingSentence;
                                 }
                             });
-
                             // Jeśli zdanie nie zostało dodane ani rozszerzone, dodaj nowe zdanie
                             if (!wasUpdated) {
                                 selectedWords.push(sentenceString);

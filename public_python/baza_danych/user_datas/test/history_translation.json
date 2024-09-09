@@ -77,6 +77,27 @@
                 "metadata": {
                     "translationSource": "manual"
                 }
+            },
+            {
+                "originalText": "expressed",
+                "translatedText": "wyrażone",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "prejudiced / unprejudiced",
+                "translatedText": "Nieprzekroczony / Nieprzekroczony",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "The committee seemed to be biased / unbiased from younger people.",
+                "translatedText": "Komisja wydawała się być stronnicza/bezstronna w stosunku do młodszych ludzi.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
             }
         ]
     },
@@ -134,6 +155,150 @@
             {
                 "originalText": "magnitude simply refers to the size",
                 "translatedText": "Wielkość po prostu odnosi się do wielkości",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "calculate a number,",
+                "translatedText": "obliczając liczbę,",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "advised",
+                "translatedText": "doradza",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "magnitude simply refers to the size of something,",
+                "translatedText": "wielkość po prostu odnosi się do wielkości czegoś,",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "The incidence of something",
+                "translatedText": "Wpływ czegoś",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "refers to how frequently it occurs.",
+                "translatedText": "Oznacza to, jak często zdarza się to.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Skills and qualifications - Education and training",
+        "dateOfSave": "2024-09-09T08:02:30.534671Z",
+        "translations": [
+            {
+                "originalText": "train a scientist, qualify as as a biologist or a doctor, for example.",
+                "translatedText": "Szkolenie naukowca, kwalifikuj się jako biolog lub lekarz, na przykład.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "achieve",
+                "translatedText": "osiągnąć",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "through in-house training",
+                "translatedText": "poprzez szkolenie wewnętrzne",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Insurance and statistics sentences",
+        "dateOfSave": "2024-09-09T09:32:01.074268Z",
+        "translations": [
+            {
+                "originalText": "insurance",
+                "translatedText": "Ubezpieczenie",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "laws of probability",
+                "translatedText": "prawa prawdopodobieństwa",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "likely outcomes",
+                "translatedText": "Prawdopodobne wyniki",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "their calculations on the laws of probability",
+                "translatedText": "ich obliczenia na podstawie prawdopodobieństwa",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "therefore not chosen at random but are carefully calculated.",
+                "translatedText": "Dlatego nie są wybierane przypadkowo, ale są dokładnie obliczane.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "The distributions of ages",
+                "translatedText": "Podział wieków",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "which might significantly affect mortality rates.",
+                "translatedText": "Może to znacząco wpłynąć na stopy śmiertelności.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
+    },
+    {
+        "selectedTextName": "Sentence completion with proper forms",
+        "dateOfSave": "2024-09-09T10:06:44.330041Z",
+        "translations": [
+            {
+                "originalText": "encounter such prejudice when they apply for jobs.",
+                "translatedText": "Zdarza się, że takie przeszkody pojawią się, gdy ubiegają się o pracę.",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "encounter",
+                "translatedText": "spotkanie",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "shifted its position recently.",
+                "translatedText": "Ostatnio zmienił swoją pozycję.",
                 "metadata": {
                     "translationSource": "manual"
                 }

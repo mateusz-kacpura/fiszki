@@ -1,3 +1,11 @@
+## System tagowania zadań i szybliego wyszukiwania interesujacych zadań oparty o bardziej zaawansowaną tabelę json
+# System dodawania pomysł, co należało by zmienić w aplikacji, jaki pomysł wdrożyć oparty o nową tabelę json
+# System dodawania informacji o znalezienionym issues
+# System dodawania nowych zadań
+# Nowy moduł nauki polegający na łączeniu podobne słowa w pary, należy stwożyć nową tabelę json
+# Możliwość dodania własnego kodu javascript dla użytkownika, oraz kodu html wczytywanego z json użytkownika
+# ## 
+
 from flask import Blueprint, render_template, request, jsonify, make_response
 from flask_login import UserMixin, login_required
 from flask import send_from_directory

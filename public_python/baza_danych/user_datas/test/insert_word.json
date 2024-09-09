@@ -1233,7 +1233,7 @@
                                 },
                                 {
                                     "word": "qualify as",
-                                    "position": [21, 22],
+                                    "position": [22, 23],
                                     "translation": "zdobyć kwalifikacje jako"
                                 }
                             ]
@@ -1625,6 +1625,245 @@
                     "missing_words": []
                 }
             ]
-        }   
-    ]
-}
+        },
+        {
+            "uuid": "Graph analysis",
+            "name": "The graph presents data relating to teenagers and pocket money.",
+            "sentences": [
+              {
+                "english": "The graph presents data relating to teenagers and pocket money. A random sample of 1,000 teenagers were surveyed and the average pocket money received at each age has been plotted on the graph.",
+                "missing_words": [
+                  {
+                    "word": "presents",
+                    "position": 3,
+                    "translation": "pokazuje, prezentuje"
+                  },
+                  {
+                    "word": "surveyed",
+                    "position": 18,
+                    "translation": "przeprowadzono badanie"
+                  },
+                  {
+                    "word": "plotted",
+                    "position": 30,
+                    "translation": "nakreślono punkty na wykresie"
+                  }
+                ]
+              },
+              {
+                "english": "The x axis or horizontal axis indicates age and the y axis or vertical axis shows the amount of money received per week.",
+                "missing_words": [
+                  {
+                    "word": "x axis",
+                    "position": [2,3],
+                    "translation": "oś pozioma (wiek)"
+                  },
+                  {
+                    "word": "y axis",
+                    "position": [11,12],
+                    "translation": "oś pionowa (kwota pieniędzy)"
+                  }
+                ]
+              },
+              {
+                "english": "The graph shows that 15-year-olds receive twice as much pocket money as 13-year-olds.",
+                "missing_words": []
+              },
+              {
+                "english": "From the graph we can see that the amount received reaches a peak at the age of 18 and then starts to decline.",
+                "missing_words": [
+                  {
+                    "word": "reaches a peak",
+                    "position": [11,12,13],
+                    "translation": "osiąga szczyt"
+                  },
+                  {
+                    "word": "decline",
+                    "position": 23,
+                    "translation": "spadek, zmniejszenie się"
+                  }
+                ]
+              },
+              {
+                "english": "This decline can perhaps be explained by the fact that many teenagers start earning and stop receiving pocket money at the age of 18.",
+                "missing_words": [
+                  {
+                    "word": "decline",
+                    "position": 2,
+                    "translation": "spadek, zmniejszenie się"
+                  },
+                  {
+                    "word": "explained",
+                    "position": 6,
+                    "translation": "wyjaśnić"
+                  }
+                ]
+              },
+              {
+                "english": "Graphs are drawn by plotting points on them and then drawing a line to join adjacent points.",
+                "missing_words": [
+                  {
+                    "word": "plotting",
+                    "position": 5,
+                    "translation": "nakreślanie punktów na wykresie"
+                  },
+                  {
+                    "word": "adjacent",
+                    "position": 16,
+                    "translation": "przyległy, sąsiadujący"
+                  }
+                ]
+              },
+              {
+                "english": "If there are two separate lines on a graph, the lines can cross or intersect at various points.",
+                "missing_words": [
+                  {
+                    "word": "cross",
+                    "position": 13,
+                    "translation": "przecinać, krzyżować"
+                  },
+                  {
+                    "word": "intersect",
+                    "position": 15,
+                    "translation": "przecinać się"
+                  }
+                ]
+              },
+              {
+                "english": "Lines that run parallel to one another never intersect.",
+                "missing_words": [
+                  {
+                    "word": "parallel",
+                    "position": 4,
+                    "translation": "równoległy"
+                  },
+                  {
+                    "word": "intersect",
+                    "position": 9,
+                    "translation": "przecinają się"
+                  }
+                ]
+              },
+              {
+                "english": "Graphs show how numbers increase or decrease.",
+                "missing_words": [
+                  {
+                    "word": "increase",
+                    "position": 5,
+                    "translation": "wzrost, zwiększenie się"
+                  },
+                  {
+                    "word": "decrease",
+                    "position": 7,
+                    "translation": "spadek, zmniejszenie się"
+                  }
+                ]
+              },
+              {
+                "english": "Numbers can also be said to rise or grow and fall, drop or decline.",
+                "missing_words": [
+                  {
+                    "word": "rise",
+                    "position": 7,
+                    "translation": "wzrost"
+                  },
+                  {
+                    "word": "grow",
+                    "position": 9,
+                    "translation": "rosnąć"
+                  },
+                  {
+                    "word": "fall",
+                    "position": 11,
+                    "translation": "spadać"
+                  },
+                  {
+                    "word": "drop",
+                    "position": 12,
+                    "translation": "spadek"
+                  },
+                  {
+                    "word": "decline",
+                    "position": 14,
+                    "translation": "spadać, zmniejszać się"
+                  }
+                ]
+              },
+              {
+                "english": "Other verbs used about growth include double, soar, multiply, appreciate and exceed (another number).",
+                "missing_words": [
+                  {
+                    "word": "double",
+                    "position": 7,
+                    "translation": "podwoić"
+                  },
+                  {
+                    "word": "soar",
+                    "position": 8,
+                    "translation": "gwałtownie wzrosnąć"
+                  },
+                  {
+                    "word": "multiply",
+                    "position": 9,
+                    "translation": "pomnożyć"
+                  },
+                  {
+                    "word": "appreciate",
+                    "position": 10,
+                    "translation": "zyskać na wartości"
+                  },
+                  {
+                    "word": "exceed",
+                    "position": 12,
+                    "translation": "przewyższyć"
+                  }
+                ]
+              },
+              {
+                "english": "Increase to twice the number or amount; opposite = halve.",
+                "missing_words": [
+                  {
+                    "word": "halve",
+                    "position": 10,
+                    "translation": "zmniejszyć o połowę"
+                  }
+                ]
+              },
+              {
+                "english": "Increase very quickly and by a large amount; opposite = plummet.",
+                "missing_words": [
+                  {
+                    "word": "plummet",
+                    "position": 11,
+                    "translation": "gwałtownie spadać"
+                  }
+                ]
+              },
+              {
+                "english": "Increase to a very large number.",
+                "missing_words": []
+              },
+              {
+                "english": "Increase in value; opposite = depreciate.",
+                "missing_words": [
+                  {
+                    "word": "depreciate",
+                    "position": 6,
+                    "translation": "tracić na wartości"
+                  }
+                ]
+              },
+              {
+                "english": "Increase to greater than a particular number or amount; opposite = fall below.",
+                "missing_words": [
+                  {
+                    "word": "fall below",
+                    "position": [12,13],
+                    "translation": "spaść poniżej"
+                  }
+                ]   
+              }
+            ]    
+        } 
+    ] 
+} 
