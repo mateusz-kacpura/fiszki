@@ -485,14 +485,40 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
-            // Funkcja tworząca nowy wpis historii tłumaczeń
             function createNewHistoryEntry(originalText, translatedText) {
+                // Tworzymy nowy element listy
                 const newEntry = document.createElement('li');
+                
+                // Dodajemy przycisk do odtwarzania dźwięku
+                const audioUrl = `https://api.streamelements.com/kappa/v2/speech?voice=Brian&text=${encodeURIComponent(originalText)}`;
+
+                // Element audio
+                const audioElement = document.createElement('audio');
+                audioElement.src = audioUrl;
+                audioElement.controls = true; // Umożliwia kontrolowanie odtwarzania (play, pause itp.)
+                audioElement.style.display = 'none'; // Ukryty, ale gotowy do odtworzenia
+
+                // Tworzymy przycisk do odtwarzania dźwięku
+                const playButton = document.createElement('button');
+                playButton.className = 'play-sound-btn btn btn-sm btn-success ml-2';
+                playButton.innerText = 'Audio';
+                
+                // Akcja po kliknięciu przycisku
+                playButton.addEventListener('click', () => {
+                    audioElement.play(); // Odtwarzanie dźwięku
+                });
+
+                // Ustawiamy HTML elementu wpisu historii
                 newEntry.innerHTML = `
                     <span class="editable">${originalText} - ${translatedText}</span>
                     <button class="delete-btn btn btn-sm btn-danger ml-2">Usuń</button>
                     <button class="retranslate-btn btn btn-sm btn-primary ml-2">Tłumacz google</button>
                 `;
+
+                // Dodajemy przycisk do odtwarzania i element audio do wpisu
+                newEntry.appendChild(playButton);
+                newEntry.appendChild(audioElement);
+
                 return newEntry;
             }
 
