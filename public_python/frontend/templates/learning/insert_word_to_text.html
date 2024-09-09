@@ -235,7 +235,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 // Dodaj event listenery do nowo wygenerowanych przycisków
                 addWordButtonEventListeners();
-                addActionListeners(); 
 
             const createDraggableWord = (word) => {
                 const wordElement = document.createElement('div');
@@ -371,9 +370,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     actionBubble.style.top = `${y}px`;
                     actionBubble.style.display = 'block';
 
-                    console.log("Debagowanie: addActionListeners" )
-                    addActionListeners();
-
                     if (finalizePosition) {
                         document.getElementById('previewTranslation').innerText = '';
                     }
@@ -413,33 +409,6 @@ document.addEventListener('DOMContentLoaded', function() {
             async function handleTranslateGoogle() {
                 const translatedText = await translateText(selectedWords, 'pl'); // Przetłumaczenie na polski
                 updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tłumaczeń
-            }
-
-            function addActionListeners() {
-                // Najpierw usuwamy istniejące event listenery, żeby ich nie dublować
-                removeExistingListeners();
-
-                const translateButton = document.getElementById('translateButton');
-                const selectSentenceButton = document.getElementById('selectSentenceButton');
-                const clearSelectionButton = document.getElementById('clearSelectionButton');
-                const translateButtonGoogle = document.getElementById('translateButtonGoogle');
-                console.log("addActionListeners in function")
-                if (translateButton) {
-                    translateButton.addEventListener('click', handleTranslate);
-                }
-
-                if (selectSentenceButton) {
-                    console.log("handleSelectSentence")
-                    selectSentenceButton.addEventListener('click', handleSelectSentence);
-                }
-
-                if (clearSelectionButton) {
-                    clearSelectionButton.addEventListener('click', handleClearSelection);
-                }
-
-                if (translateButtonGoogle) {
-                    translateButtonGoogle.addEventListener('click', handleTranslateGoogle);
-                }
             }
 
             function removeExistingListeners() {
