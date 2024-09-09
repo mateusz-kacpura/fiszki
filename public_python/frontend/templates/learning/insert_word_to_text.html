@@ -38,6 +38,18 @@
         </div>
     </div>
 
+    <!-- Karta do wyboru tekstu -->
+    <div class="card mb-3">
+        <div class="card-header text-center">
+            <h2 class="card-title">Wybierz tekst do załadowania</h2>
+        </div>
+        <div class="card-body">
+            <ul id="textList" class="list-group">
+                <!-- Lista tekstów zostanie wygenerowana dynamicznie -->
+            </ul>
+        </div>
+    </div>
+
     <!-- Miejsce na dynamiczne powiadomienia (alerty) -->
     <div id="alert-container" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
 
@@ -117,25 +129,41 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(response => response.json())
             .then(data => {
                 const textList = document.getElementById('textList');
+                textList.innerHTML = ''; // Czyścimy poprzednią listę
 
                 data.text_names.forEach(text => {
                     const listItem = document.createElement('li');
                     listItem.className = 'list-group-item list-group-item-action';
                     listItem.dataset.name = text.name;
                     listItem.innerText = text.name;
+                    
                     listItem.addEventListener('click', function() {
                         selectedTextName = this.dataset.name;
                         fetchAndLoadText(selectedTextName);
+
+                        // Podświetlanie wybranego tekstu
+                        document.querySelectorAll('#textList .list-group-item').forEach(item => {
+                            item.classList.remove('active');
+                        });
+                        this.classList.add('active');
+
+                        showAlert(`Załadowano tekst: ${selectedTextName}`, 'success');
                     });
+
                     textList.appendChild(listItem);
                 });
 
-                // Pokazanie modala po załadowaniu listy tekstów
-                const textSelectionModal = new bootstrap.Modal(document.getElementById('textSelectionModal'));
-                textSelectionModal.show();
+                // Opcjonalnie, automatycznie załaduj pierwszy tekst na liście
+                if (data.text_names.length > 0) {
+                    selectedTextName = data.text_names[0].name;
+                    fetchAndLoadText(selectedTextName);
+                    document.querySelector(`#textList [data-name="${selectedTextName}"]`).classList.add('active');
+                    showAlert(`Załadowano tekst: ${selectedTextName}`, 'success');
+                }
             })
             .catch(error => {
                 console.error('Błąd przy pobieraniu listy tekstów:', error);
+                showAlert('Nie udało się pobrać listy tekstów.', 'danger');
             });
     }
 
@@ -146,7 +174,10 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(data => {
                 const textContainer = document.getElementById('text-with-blanks');
                 const wordContainer = document.getElementById('image-container');
-
+                textContainer.innerHTML = '';
+                wordContainer.innerHTML = ''; 
+                clearHistory();
+                
                 let isMouseDown = false;
                 let selectedWords = [];
                 let lastSelectedIndex = -1;
@@ -202,6 +233,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 textContainer.innerHTML = fullTextHtml.trim();
 
+                // Dodaj event listenery do nowo wygenerowanych przycisków
+                addWordButtonEventListeners();
+                addActionListeners(); 
+
             const createDraggableWord = (word) => {
                 const wordElement = document.createElement('div');
                 wordElement.classList.add('image-option');
@@ -248,31 +283,36 @@ document.addEventListener('DOMContentLoaded', function() {
             updateWordContainer();
 
             // Obsługa zaznaczania i odznaczania słów
-            textContainer.addEventListener('mousedown', function(event) {
-                if (event.target.classList.contains('word-button')) {
-                    isMouseDown = true;
-                    toggleSelection(event.target);
-                    updateBubble(event);
-                }
-            });
+            function addWordButtonEventListeners() {
+                const wordButtons = document.querySelectorAll('.word-button');
+                
+                wordButtons.forEach(button => {
+                    button.addEventListener('mousedown', function(event) {
+                        isMouseDown = true;
+                        toggleSelection(event.target);
+                        updateBubble(event);
+                    });
 
-            textContainer.addEventListener('mouseover', function(event) {
-                if (isMouseDown && event.target.classList.contains('word-button')) {
-                    toggleSelection(event.target);
-                    updateBubble(event);
-                }
-            });
+                    button.addEventListener('mouseover', function(event) {
+                        if (isMouseDown) {
+                            toggleSelection(event.target);
+                            updateBubble(event);
+                        }
+                    });
+                });
 
-            textContainer.addEventListener('mouseup', function(event) {
-                isMouseDown = false;
-                if (selectedWords.length > 0) {
-                    updateBubble(event, true);
-                }
-            });
+                textContainer.addEventListener('mouseup', function(event) {
+                    isMouseDown = false;
+                    if (selectedWords.length > 0) {
+                        updateBubble(event, true);
+                    }
+                });
 
-            document.addEventListener('mouseup', function() {
-                isMouseDown = false;
-            });
+                document.addEventListener('mouseup', function() {
+                    isMouseDown = false;
+                });
+            }
+
 
             function toggleSelection(element) {
                 const word = element.dataset.word; // Pobieramy słowo z atrybutu data
@@ -325,65 +365,116 @@ document.addEventListener('DOMContentLoaded', function() {
                             <span id="previewTranslation"></span>
                         `;
                         document.body.appendChild(actionBubble);
-
-                        // Event listener dla przycisku tłumaczenia
-                        document.getElementById('translateButton').addEventListener('click', function() {
-                            const textToTranslate = selectedWords.join(' ');
-
-                            // Wykonywanie fetch do API
-                            fetch('/user/translate', {
-                                method: 'POST',
-                                headers: {
-                                    'Content-Type': 'application/json',
-                                },
-                                body: JSON.stringify({ text: textToTranslate }),
-                            })
-                            .then(response => response.json())
-                            .then(data => {
-                                if (data.translatedText) {
-                                    showTranslation(data.translatedText);
-                                    updateTranslationHistory(textToTranslate, data.translatedText);
-                                } else {
-                                    showTranslation('Brak tłumaczenia');
-                                }
-                                actionBubble.style.display = 'none';
-                            })
-                            .catch(error => {
-                                console.error('Error:', error);
-                                showTranslation('Błąd tłumaczenia');
-                                actionBubble.style.display = 'none';
-                            });
-                        });
-
-                        // Event listener dla przycisku zaznaczania całego zdania
-                        document.getElementById('selectSentenceButton').addEventListener('click', function() {
-                            selectEntireSentence();
-                        });
-
-                        // Event listener dla przycisku usuwania zaznaczeń
-                        document.getElementById('clearSelectionButton').addEventListener('click', function() {
-                            clearSelections();
-                        });
-                        
-                        // Event listener do przycisku do tłumaczenia za pomocą Google API
-                        document.getElementById('translateButtonGoogle').addEventListener('click', async function() {
-                            console.log("selectedWords", selectedWords)
-                            const translatedText = await translateText(selectedWords, 'pl'); // Przetłumaczenie na polski
-                            console.log("const translatedText", translatedText)
-                            updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tłumaczeń
-                        }); 
-
                     }
 
                     actionBubble.style.left = `${x}px`;
                     actionBubble.style.top = `${y}px`;
                     actionBubble.style.display = 'block';
 
+                    console.log("Debagowanie: addActionListeners" )
+                    addActionListeners();
+
                     if (finalizePosition) {
                         document.getElementById('previewTranslation').innerText = '';
                     }
                 }
             }
+
+
+            function handleTranslate() {
+                const textToTranslate = selectedWords.join(' ');
+
+                fetch('/user/translate', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text: textToTranslate }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    showTranslation(data.translatedText || 'Brak tłumaczenia');
+                    updateTranslationHistory(textToTranslate, data.translatedText);
+                    actionBubble.style.display = 'none';
+                })
+                .catch(() => {
+                    showTranslation('Błąd tłumaczenia');
+                    actionBubble.style.display = 'none';
+                });
+            }
+
+            function handleSelectSentence() {
+                console.log("handleSelectSentence in function")
+                selectEntireSentence();
+            }
+
+            function handleClearSelection() {
+                clearSelections();
+            }
+
+            async function handleTranslateGoogle() {
+                const translatedText = await translateText(selectedWords, 'pl'); // Przetłumaczenie na polski
+                updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tłumaczeń
+            }
+
+            function addActionListeners() {
+                // Najpierw usuwamy istniejące event listenery, żeby ich nie dublować
+                removeExistingListeners();
+
+                const translateButton = document.getElementById('translateButton');
+                const selectSentenceButton = document.getElementById('selectSentenceButton');
+                const clearSelectionButton = document.getElementById('clearSelectionButton');
+                const translateButtonGoogle = document.getElementById('translateButtonGoogle');
+                console.log("addActionListeners in function")
+                if (translateButton) {
+                    translateButton.addEventListener('click', handleTranslate);
+                }
+
+                if (selectSentenceButton) {
+                    console.log("handleSelectSentence")
+                    selectSentenceButton.addEventListener('click', handleSelectSentence);
+                }
+
+                if (clearSelectionButton) {
+                    clearSelectionButton.addEventListener('click', handleClearSelection);
+                }
+
+                if (translateButtonGoogle) {
+                    translateButtonGoogle.addEventListener('click', handleTranslateGoogle);
+                }
+            }
+
+            function removeExistingListeners() {
+                const translateButton = document.getElementById('translateButton');
+                const selectSentenceButton = document.getElementById('selectSentenceButton');
+                const clearSelectionButton = document.getElementById('clearSelectionButton');
+                const translateButtonGoogle = document.getElementById('translateButtonGoogle');
+
+                if (translateButton) {
+                    translateButton.removeEventListener('click', handleTranslate);
+                }
+                if (selectSentenceButton) {
+                    selectSentenceButton.removeEventListener('click', handleSelectSentence);
+                }
+                if (clearSelectionButton) {
+                    clearSelectionButton.removeEventListener('click', handleClearSelection);
+                }
+                if (translateButtonGoogle) {
+                    translateButtonGoogle.removeEventListener('click', handleTranslateGoogle);
+                }
+            }
+
+            // dedektory zdarzeń nie wystrzeliwują po załadowaniu nowego tekstu dlatego dodaje:
+            document.body.addEventListener('click', function (event) {
+                if (event.target.matches('#translateButton')) {
+                    handleTranslate();
+                } else if (event.target.matches('#selectSentenceButton')) {
+                    handleSelectSentence();
+                } else if (event.target.matches('#clearSelectionButton')) {
+                    handleClearSelection();
+                } else if (event.target.matches('#translateButtonGoogle')) {
+                    handleTranslateGoogle();
+                }
+            });
+
 
             // Obsługa przycisku wczytywania historii z pliku
             document.getElementById('load-history-from-file').addEventListener('click', function() {
@@ -436,12 +527,22 @@ document.addEventListener('DOMContentLoaded', function() {
                 return newEntry;
             }
 
-            // Funkcja dodająca wpis do historii
+            let flag_addEntryToHistory
             function addEntryToHistory(newEntry) {
                 const historyList = document.getElementById('translation-history');
-                historyList.appendChild(newEntry);
-                showAlert('Dodano nowe tłumaczenie');
-            }
+                    historyList.appendChild(newEntry);
+                if (flag_addEntryToHistory === 0) {
+                    flag_addEntryToHistory = 1;
+                    showAlert('Dodano nowe tłumaczenie');
+
+                    // Ustaw timer na 1 sekundę, po której flaga wróci do 0
+                    setTimeout(() => {
+                        flag_addEntryToHistory = 0;
+                    }, 1000);
+                } else {
+                    console.log('Operacja zablokowana, flaga wciąż wynosi 1');
+                }
+            } 
 
             // Funkcja obsługująca edytowanie wpisu
             function enableEditing(editableSpan) {
@@ -484,7 +585,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
 
-            // Główna funkcja aktualizująca historię tłumaczeń
+            let flag_updateTranslationHistory = 0
             function updateTranslationHistory(originalText, translatedText) {
                 const newEntry = createNewHistoryEntry(originalText, translatedText);
                 addEntryToHistory(newEntry);
@@ -497,15 +598,29 @@ document.addEventListener('DOMContentLoaded', function() {
                 enableDeletion(deleteButton, newEntry);
                 enableRetranslation(retranslateButton, originalText, editableSpan);
 
-                // Wyświetl powiadomienie o dodaniu nowego wpisu do historii
-                showAlert('Nowe wpisy do historii tłumaczeń zostały dodane.', 'success');
+                if (flag_updateTranslationHistory === 0) {
+                    flag_updateTranslationHistory = 1;
+                    showAlert('Nowe wpisy do historii tłumaczeń zostały dodane', 'success');
+
+                    // Ustaw timer na 1 sekundę, po której flaga wróci do 0
+                    setTimeout(() => {
+                        flag_updateTranslationHistory = 0;
+                    }, 1000);
+                } else {
+                    console.log('Operacja zablokowana, flaga wciąż wynosi 1');
+                }
             }
 
             // Funkcja czyszczenia całej historii
-            document.getElementById('clear-history').addEventListener('click', function() {
+            function clearHistory() {
                 const historyList = document.getElementById('translation-history');
                 historyList.innerHTML = ''; // Usuwa wszystkie elementy
                 showAlert('Wyczyszczono całą historię', 'warning');
+            }
+
+            // Przypisanie funkcji do przycisku
+            document.getElementById('clear-history').addEventListener('click', function() {
+                clearHistory();
             });
 
             // Zbieranie zdania z zaznaczonych słów
@@ -664,6 +779,10 @@ document.getElementById('save-history-to-file').addEventListener('click', functi
     })
     .then(response => response.json())
     .then(data => {
+         // Upewnij się, że historia tłumaczeń jest zawsze czyszczona przed wczytaniem nowej
+        translationHistory.innerHTML = '';  // Wyczyść obecne elementy listy
+        flag_addEntryToHistory = 0;         // Reset flagi dla dodawania
+        flag_updateTranslationHistory = 0;  // Reset flagi dla aktualizacji
         console.log('Success:', data);
         showAlert('Historia tłumaczeń została pomyślnie zapisana.', 'success');
     })
