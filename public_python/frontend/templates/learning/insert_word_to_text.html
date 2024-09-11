@@ -73,6 +73,7 @@ let actionBubble = null;
 let selectedTextName = "";
 let selectedWords = [];
 let wordCount = "";
+let alertShown = false;
 
 const textContainer = document.getElementById('text-with-blanks');
 const wordContainer = document.getElementById('image-container');
@@ -89,6 +90,18 @@ function showAlert(message, type = 'success') {
     setTimeout(() => {
         alert.remove();
     }, 3000);
+}
+
+function showAlertOnceInInterval(message, type) {
+    if (!alertShown) {
+        showAlert(message, type);
+        alertShown = true;
+        
+        // Resetowanie flagi po 5 sekundach
+        setTimeout(() => {
+            alertShown = false;
+        }, 5000); // 5000 milisekund = 5 sekund
+    }
 }
 
 // Główna funkcja inicjalizująca aplikację
@@ -133,7 +146,6 @@ function createTextListItem(text) {
 
 // Funkcja pobierająca i wyświetlająca wybrany tekst
 function fetchAndLoadText(textName) {
-    selectedTextName = "";
     selectedWords = [];
     wordCount = "";
     if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;} // if exist actionBubble in html remove from html
@@ -143,9 +155,10 @@ function fetchAndLoadText(textName) {
             const textData = data.texts[0];
             const wordCount = calculateWordCount(textData);
             const fullTextHtml = generateTextHtml(textData);
+            selectedTextName = textName
             updateTextContainer(fullTextHtml); // Aktualizacja kontenera z tekstem
             initializeWordContainer(wordCount); // Inicjalizacja kontenera z rozsypanką słów
-            showAlert(`Tekst "${textName}" został załadowany!`, 'success');
+            showAlert(`Tekst: "${textName}" został załadowany!`, 'success');
         })
         .catch(error => {
             console.error('Błąd przy pobieraniu tekstu:', error);
@@ -541,6 +554,7 @@ document.getElementById('save-history-to-file').addEventListener('click', functi
 
 // Obsługa przycisku wczytywania historii z pliku
 document.getElementById('load-history-from-file').addEventListener('click', function() {
+    console.log(selectedTextName)
     fetch('/user/load_translation_history_from_file?name=' + encodeURIComponent(selectedTextName))
         .then(response => response.json())
         .then(data => {
@@ -594,7 +608,7 @@ function createNewHistoryEntry(originalText, translatedText) {
 function addEntryToHistory(newEntry) {
     const historyList = document.getElementById('translation-history');
     historyList.appendChild(newEntry);
-    showAlert('Dodano nowe tłumaczenie');
+    //showAlert('Dodano nowe tłumaczenie');
 }
 
 // Funkcja obsługująca edytowanie wpisu
@@ -652,7 +666,7 @@ function updateTranslationHistory(originalText, translatedText) {
     enableRetranslation(retranslateButton, originalText, editableSpan);
 
     // Wyświetl powiadomienie o dodaniu nowego wpisu do historii
-    showAlert('Nowe wpisy do historii tłumaczeń zostały dodane.', 'success');
+    showAlertOnceInInterval('Nowe wpisy do historii tłumaczeń zostały dodane.', 'success');
 }
 
 // Funkcja czyszczenia całej historii
