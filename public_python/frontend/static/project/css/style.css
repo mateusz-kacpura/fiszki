@@ -115,5 +115,9 @@ th, td {
     /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
   }
 
+.active-text {
+  background-color: #007bff;
+  color: white;
+}
 
   

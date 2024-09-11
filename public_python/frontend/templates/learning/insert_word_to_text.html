@@ -38,17 +38,7 @@
         </div>
     </div>
 
-    <!-- Karta do wyboru tekstu -->
-    <div class="card mb-3">
-        <div class="card-header text-center">
-            <h2 class="card-title">Wybierz tekst do załadowania</h2>
-        </div>
-        <div class="card-body">
-            <ul id="textList" class="list-group">
-                <!-- Lista tekstów zostanie wygenerowana dynamicznie -->
-            </ul>
-        </div>
-    </div>
+
 
     <!-- Karta do wyboru tekstu -->
     <div class="card mb-3">
@@ -116,6 +106,12 @@ function showAlertOnceInInterval(message, type) {
     }
 }
 
+/////////////////////////////////////////////////
+
+// #        LOGIKA WCZYTYWANIA TEKSTÓW        #//
+
+/////////////////////////////////////////////////
+
 // Główna funkcja inicjalizująca aplikację
 document.addEventListener('DOMContentLoaded', () => {
     decideWhichTextToLoad();
@@ -160,6 +156,19 @@ function createTextListItem(text) {
 function fetchAndLoadText(textName) {
     selectedWords = [];
     wordCount = "";
+
+    // Usunięcie podświetlenia z poprzednio aktywnego elementu
+    const previousActiveItem = document.querySelector('.list-group-item.active-text');
+    if (previousActiveItem) {
+        previousActiveItem.classList.remove('active-text');
+    }
+
+    // Znalezienie klikniętego elementu listy na podstawie nazwy tekstu i dodanie klasy podświetlenia
+    const activeItem = document.querySelector(`li[data-name="${textName}"]`);
+    if (activeItem) {
+        activeItem.classList.add('active-text');
+    }
+
     if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;} // if exist actionBubble in html remove from html
     fetch(`/user/get_text_data?name=${encodeURIComponent(textName)}`)
         .then(response => response.json())
