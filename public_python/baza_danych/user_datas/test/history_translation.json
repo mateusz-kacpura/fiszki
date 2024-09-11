@@ -540,5 +540,116 @@
                 }
             }
         ]
+    },
+    {
+        "selectedTextName": "The graph presents data relating to teenagers and pocket money.",
+        "dateOfSave": "2024-09-09T15:02:52.594339Z",
+        "translations": [
+            {
+                "originalText": "intersect",
+                "translatedText": "przecinać",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "cross",
+                "translatedText": "przechodzić",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "the lines can cross or intersect",
+                "translatedText": "linie mogą się krzyżować lub przecinać",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "Graphs show how numbers increase or decrease",
+                "translatedText": "Wykresy pokazują, jak liczby rosną lub maleją",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "rise",
+                "translatedText": "wzrastać",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "grow",
+                "translatedText": "rosnąć",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "fall drop",
+                "translatedText": "spadek",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "decline",
+                "translatedText": "spadek",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "exceed",
+                "translatedText": "przekroczyć",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "halve",
+                "translatedText": "połowa",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "Increase to twice the number or amount;",
+                "translatedText": "Zwiększ dwukrotnie liczbę lub kwotę;",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "Increase in value;",
+                "translatedText": "Wzrost wartości;",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "depreciate",
+                "translatedText": "deprecjonować",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "fall below",
+                "translatedText": "spaść poniżej",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            },
+            {
+                "originalText": "Increase very quickly and by a large amount;",
+                "translatedText": "Zwiększaj bardzo szybko i w dużej ilości;",
+                "metadata": {
+                    "translationSource": "manual"
+                }
+            }
+        ]
     }
 ]
