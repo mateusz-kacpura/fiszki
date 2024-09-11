@@ -1,0 +1,244 @@
+{% extends "learn.html" %}
+
+{% block title %}Multi Learning{% endblock %}
+
+{% block learn %}
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
+
+<div class="row justify-content-center">
+    <!-- Lewa kolumna z wyborem słów -->
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header text-center">
+                <h2 class="card-title">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
+            </div>
+            <div class="card-body">
+                <!-- Kontener na bank słów do przeciągania -->
+                <div id="word-bank" class="word-bank mb-4">
+                    <!-- Słowa zostaną załadowane dynamicznie przez JS -->
+                </div>
+                <!-- Kontener na strefy upuszczania synonimów -->
+                <div id="drop-zones" class="drop-zones d-flex flex-column gap-3">
+                    <!-- Strefy upuszczania zostaną załadowane dynamicznie przez JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prawa kolumna z przykładami -->
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header text-center">
+                <h2 class="card-title">Przykład</h2>
+            </div>
+            <div class="card-body">
+                <!-- Możesz dodać przykłady lub instrukcje -->
+                <p>Przeciągnij słowo "ładny" na odpowiednik "piękny".</p>
+            </div>
+            <div class="card-footer text-center">
+                <!-- Dodatkowe kontrolki lub informacje -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Miejsce na dynamiczne powiadomienia (alerty) -->
+    <div id="alert-container" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+
+</div>
+
+{% include 'learning/controls/buttons.html' %}
+{% include 'learning/modals/edit-word-modal.html' %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+// Funkcja do wyświetlania alertów
+function showAlert(message, type = 'success') {
+    const alertContainer = document.getElementById('alert-container');
+    const alert = document.createElement('div');
+    alert.classList.add('alert', `alert-${type}`, 'alert-dismissible', 'fade', 'show');
+    alert.setAttribute('role', 'alert');
+    alert.innerHTML = `
+        ${message}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    `;
+    alertContainer.appendChild(alert);
+
+    // Automatyczne usuwanie alertu po 3 sekundach
+    setTimeout(() => {
+        alert.classList.remove('show');
+        alert.classList.add('hide');
+        alert.addEventListener('transitionend', () => alert.remove());
+    }, 3000);
+}
+
+// Funkcja do losowego mieszania tablicy
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+// Logika przeciągania i upuszczania
+let currentData = null;
+
+document.addEventListener('DOMContentLoaded', () => {
+    fetch('/user/get_synonim_data')
+        .then(response => response.json())
+        .then(data => {
+            currentData = data;
+            initializeGame(data);
+        })
+        .catch(error => {
+            console.error('Błąd podczas pobierania danych:', error);
+            showAlert('Błąd podczas ładowania danych gry.', 'danger');
+        });
+});
+
+function initializeGame(data) {
+    const wordBank = document.getElementById('word-bank');
+    const dropZones = document.getElementById('drop-zones');
+
+    // Przygotowanie listy słów i synonimów
+    const words = data.pairs.map(pair => ({ text: pair.word, pairId: pair.synonym }));
+    const synonyms = data.pairs.map(pair => ({ text: pair.synonym, pairId: pair.word }));
+
+    // Losowe rozmieszczenie słów i synonimów
+    shuffleArray(words);
+    shuffleArray(synonyms);
+
+    // Renderowanie banku słów
+    words.forEach(word => {
+        const wordElement = createDraggableElement(word.text, word.pairId);
+        wordBank.appendChild(wordElement);
+    });
+
+    // Renderowanie stref upuszczania
+    synonyms.forEach(syn => {
+        const dropZone = createDropZone(syn.text, syn.pairId);
+        dropZones.appendChild(dropZone);
+    });
+
+    // Dodanie obsługi przycisków
+    document.getElementById('check-answers').addEventListener('click', () => checkAnswers(data));
+    document.getElementById('reset-game').addEventListener('click', () => resetGame(data));
+}
+
+function createDraggableElement(text, pairId) {
+    const el = document.createElement('div');
+    el.classList.add('draggable-word', 'p-2', 'bg-light', 'border', 'rounded');
+    el.setAttribute('draggable', 'true');
+    el.setAttribute('data-pair-id', pairId);
+    el.textContent = text;
+
+    el.addEventListener('dragstart', handleDragStart);
+    el.addEventListener('dragend', handleDragEnd);
+
+    return el;
+}
+
+function createDropZone(text, pairId) {
+    const el = document.createElement('div');
+    el.classList.add('drop-zone', 'p-3', 'bg-secondary', 'text-white', 'rounded', 'position-relative');
+    el.setAttribute('data-pair-id', pairId);
+    el.textContent = `Synonim dla: "${text}"`;
+
+    // Dodanie wskaźnika na upuszczone słowo
+    const dropIndicator = document.createElement('div');
+    dropIndicator.classList.add('drop-indicator', 'mt-2');
+    el.appendChild(dropIndicator);
+
+    el.addEventListener('dragover', handleDragOver);
+    el.addEventListener('drop', handleDrop);
+
+    return el;
+}
+
+let draggedElement = null;
+
+function handleDragStart(event) {
+    draggedElement = event.target;
+    event.dataTransfer.setData('text/plain', event.target.textContent);
+    setTimeout(() => {
+        event.target.classList.add('dragging');
+    }, 0);
+}
+
+function handleDragEnd(event) {
+    event.target.classList.remove('dragging');
+}
+
+function handleDragOver(event) {
+    event.preventDefault();
+    event.dataTransfer.dropEffect = 'move';
+}
+
+function handleDrop(event) {
+    event.preventDefault();
+    const dropZone = event.currentTarget;
+    const existingWord = dropZone.querySelector('.draggable-word');
+
+    if (existingWord) {
+        // Jeśli już jest słowo w strefie, przenieś je z powrotem do banku
+        document.getElementById('word-bank').appendChild(existingWord);
+    }
+
+    // Sprawdzenie, czy istnieje wskaźnik do usunięcia
+    const dropIndicator = dropZone.querySelector('.drop-indicator');
+    if (dropIndicator) {
+        dropIndicator.remove(); // Usuń wskaźnik
+    }
+    
+    dropZone.appendChild(draggedElement);
+}
+
+// Sprawdzanie odpowiedzi
+function checkAnswers(data) {
+    let correctCount = 0;
+    let incorrectCount = 0;
+
+    data.pairs.forEach(pair => {
+        const dropZone = Array.from(document.querySelectorAll('.drop-zone')).find(zone => zone.getAttribute('data-pair-id') === pair.word);
+        if (dropZone) {
+            const droppedWord = dropZone.querySelector('.draggable-word');
+            if (droppedWord) {
+                if (droppedWord.getAttribute('data-pair-id') === pair.synonym) {
+                    correctCount++;
+                    droppedWord.classList.add('border-success');
+                    dropZone.classList.add('bg-success');
+                } else {
+                    incorrectCount++;
+                    droppedWord.classList.add('border-danger');
+                    dropZone.classList.add('bg-danger');
+                }
+            }
+        }
+    });
+
+    showAlert(`Poprawnie dopasowanych par: ${correctCount}, Błędnych dopasowań: ${incorrectCount} z ${data.pairs.length}`, 'info');
+}
+
+// Resetowanie gry
+function resetGame(data) {
+    // Czyszczenie banku słów i stref upuszczania
+    document.getElementById('word-bank').innerHTML = '';
+    document.getElementById('drop-zones').innerHTML = '';
+
+    // Usunięcie klas sukcesu i błędu
+    document.querySelectorAll('.draggable-word').forEach(el => {
+        el.classList.remove('border-success', 'border-danger');
+    });
+    document.querySelectorAll('.drop-zone').forEach(zone => {
+        zone.classList.remove('bg-success', 'bg-danger');
+    });
+
+    // Ponowne zainicjowanie gry
+    initializeGame(data);
+}
+
+
+</script>
+{% endblock %}

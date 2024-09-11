@@ -977,11 +977,11 @@
             "name": "Missing words in sentences with opposite meanings or similar variations.",
             "sentences": [
                 {
-                    "english": "Populations of some bird species in South Asia have soared by 97% in recent years. The number of cases of death by poisoning has declined significantly.",
+                    "english": "Populations of some bird species in South Asia has increased by 97% in recent years. The number of cases of death by poisoning has declined significantly.",
                     "missing_words": [
                         {
-                            "word": "soared",
-                            "position": 10,
+                            "word": "has increased",
+                            "position": [9,10],
                             "translation": "wzrosły"
                         },
                         {

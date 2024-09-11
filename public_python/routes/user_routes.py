@@ -311,6 +311,32 @@ def load_translation_history_from_file():
 def insert_word_to_text():
     return render_template('learning/insert_word_to_text.html', title="Insert word to text")
 
+# Route for rendering the HTML page
+@user_route.route('/learning/synonims')
+@login_required
+def insert_synonims_to_text():
+    return render_template('learning/insert_synonims_to_text.html', title="insert_synonims_to_text")
+
+import uuid
+
+# Przykładowe dane synonimów
+synonym_data = {
+    "uuid": str(uuid.uuid4()),
+    "name": "synonym_game",
+    "pairs": [
+        {"word": "ładny", "synonym": "piękny"},
+        {"word": "szybki", "synonym": "prędki"},
+        {"word": "mądry", "synonym": "inteligentny"},
+        {"word": "trudny", "synonym": "skomplikowany"},
+        # Dodaj więcej par według potrzeb
+    ]
+}
+
+@user_route.route('/get_synonim_data')
+def get_synonym_data():
+    # Możesz tutaj zaimplementować logikę pobierania danych z bazy danych lub innego źródła
+    return jsonify(synonym_data)
+
 @user_route.route('/manage/exel')
 @login_required
 def exel():

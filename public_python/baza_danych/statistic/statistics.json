@@ -9963,5 +9963,350 @@
     "sentence": "Temperatures fell below freezing last night.",
     "correct": false,
     "timestamp": "2024-09-07T16:24:35.997Z"
+  },
+  {
+    "word": "pr\u00f3bka",
+    "correct": true,
+    "timestamp": "2024-09-10T10:41:23.873Z"
+  },
+  {
+    "word": "w tych miastach",
+    "correct": true,
+    "timestamp": "2024-09-10T10:41:36.631Z"
+  },
+  {
+    "word": "wyst\u0119puje",
+    "correct": true,
+    "timestamp": "2024-09-10T10:42:19.381Z"
+  },
+  {
+    "word": "osiaga szczyt",
+    "correct": true,
+    "timestamp": "2024-09-10T10:43:14.369Z"
+  },
+  {
+    "word": "zakres",
+    "correct": true,
+    "timestamp": "2024-09-10T10:43:46.947Z"
+  },
+  {
+    "word": "pokaza\u0107 obliczenia",
+    "correct": true,
+    "timestamp": "2024-09-10T10:43:56.729Z"
+  },
+  {
+    "word": "istotne zainteresowania",
+    "correct": true,
+    "timestamp": "2024-09-10T10:44:38.369Z"
+  },
+  {
+    "word": "porz\u0105dek znacz\u0105cy",
+    "correct": true,
+    "timestamp": "2024-09-10T10:44:48.540Z"
+  },
+  {
+    "word": "5x wi\u0119cej ni\u017c",
+    "correct": true,
+    "timestamp": "2024-09-10T10:44:57.127Z"
+  },
+  {
+    "word": "sumowanie zestawu liczb",
+    "correct": true,
+    "timestamp": "2024-09-10T10:45:09.479Z"
+  },
+  {
+    "word": "zamontowany",
+    "correct": false,
+    "timestamp": "2024-09-10T10:45:20.986Z"
+  },
+  {
+    "word": "dost\u0119pne w",
+    "correct": true,
+    "timestamp": "2024-09-10T10:45:22.166Z"
+  },
+  {
+    "word": "pr\u00f3bka",
+    "correct": true,
+    "timestamp": "2024-09-10T10:45:42.128Z"
+  },
+  {
+    "word": "pomno\u017cona/znaczny wzrost liczby",
+    "correct": false,
+    "timestamp": "2024-09-10T10:46:03.098Z"
+  },
+  {
+    "word": "znacznie wi\u0119cej m\u0119\u017cczyzn stanowi\u0142o",
+    "correct": false,
+    "timestamp": "2024-09-10T10:46:03.672Z"
+  },
+  {
+    "word": "zaleca si\u0119",
+    "correct": false,
+    "timestamp": "2024-09-10T10:46:04.256Z"
+  },
+  {
+    "word": "zsumowa\u0107",
+    "correct": true,
+    "timestamp": "2024-09-10T10:46:04.993Z"
+  },
+  {
+    "word": "w szczeg\u00f3lno\u015bci",
+    "correct": true,
+    "timestamp": "2024-09-10T10:46:34.602Z"
+  },
+  {
+    "word": "w wodach s\u0142odkich",
+    "correct": true,
+    "timestamp": "2024-09-10T10:46:44.176Z"
+  },
+  {
+    "word": "czytelnie",
+    "correct": true,
+    "timestamp": "2024-09-10T10:46:51.143Z"
+  },
+  {
+    "word": "pr\u00f3ba losowa",
+    "correct": true,
+    "timestamp": "2024-09-10T10:46:57.130Z"
+  },
+  {
+    "word": "istotne zainteresowania",
+    "correct": true,
+    "timestamp": "2024-09-10T10:47:02.919Z"
+  },
+  {
+    "word": "radykalny",
+    "correct": true,
+    "timestamp": "2024-09-10T10:47:08.286Z"
+  },
+  {
+    "word": "umiej\u0119tno\u015b\u0107 liczenia",
+    "correct": true,
+    "timestamp": "2024-09-10T10:47:14.836Z"
+  },
+  {
+    "word": "schemat blokowy",
+    "correct": true,
+    "timestamp": "2024-09-10T10:47:31.738Z"
+  },
+  {
+    "word": "szczyt",
+    "correct": true,
+    "timestamp": "2024-09-10T10:47:40.962Z"
+  },
+  {
+    "word": "gospodarstwa domowe",
+    "correct": true,
+    "timestamp": "2024-09-10T10:47:49.093Z"
+  },
+  {
+    "word": "metodyczno\u015b\u0107, systematyczno\u015b\u0107 i zorganizowanie",
+    "correct": true,
+    "timestamp": "2024-09-10T10:48:00.693Z"
+  },
+  {
+    "word": "popyt",
+    "correct": true,
+    "timestamp": "2024-09-10T10:48:20.627Z"
+  },
+  {
+    "word": "niepewny",
+    "correct": true,
+    "timestamp": "2024-09-10T10:48:27.446Z"
+  },
+  {
+    "word": "dwukrotnie",
+    "correct": true,
+    "timestamp": "2024-09-10T10:48:33.379Z"
+  },
+  {
+    "word": "niepok\u00f3j",
+    "correct": true,
+    "timestamp": "2024-09-10T10:48:44.323Z"
+  },
+  {
+    "word": "sekwencja liczb",
+    "correct": true,
+    "timestamp": "2024-09-10T10:48:52.991Z"
+  },
+  {
+    "word": "ksi\u0119gowo\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-09-10T10:49:06.390Z"
+  },
+  {
+    "word": "zbieranie wynik\u00f3w",
+    "correct": true,
+    "timestamp": "2024-09-10T10:50:21.210Z"
+  },
+  {
+    "word": "troska",
+    "correct": true,
+    "timestamp": "2024-09-10T10:50:29.718Z"
+  },
+  {
+    "word": "badanie eksploracyjne",
+    "correct": true,
+    "timestamp": "2024-09-10T10:50:40.921Z"
+  },
+  {
+    "word": "inteligentny licznik w ka\u017cdym domu",
+    "correct": true,
+    "timestamp": "2024-09-10T10:50:47.955Z"
+  },
+  {
+    "word": "spostrze\u017cenia",
+    "correct": true,
+    "timestamp": "2024-09-10T10:51:56.067Z"
+  },
+  {
+    "word": "filozofia",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:01.676Z"
+  },
+  {
+    "word": "w kierunku",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:10.105Z"
+  },
+  {
+    "word": "mapa w tym miejscu",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:15.905Z"
+  },
+  {
+    "word": "nieparzyste liczby",
+    "correct": false,
+    "timestamp": "2024-09-10T10:52:20.599Z"
+  },
+  {
+    "word": "histogram",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:21.277Z"
+  },
+  {
+    "word": "osoby z tego samego kr\u0119gu",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:35.467Z"
+  },
+  {
+    "word": "rygorystyczny",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:42.150Z"
+  },
+  {
+    "word": "zmienna",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:47.767Z"
+  },
+  {
+    "word": "nalega\u0107",
+    "correct": true,
+    "timestamp": "2024-09-10T10:52:55.550Z"
+  },
+  {
+    "word": "podlega\u0107 definicji",
+    "correct": true,
+    "timestamp": "2024-09-10T11:27:52.678Z"
+  },
+  {
+    "word": "wyja\u015bni\u0107 faktem, \u017ce",
+    "correct": true,
+    "timestamp": "2024-09-10T11:27:59.663Z"
+  },
+  {
+    "word": "analogiczny do czego\u015b",
+    "correct": true,
+    "timestamp": "2024-09-10T11:28:04.862Z"
+  },
+  {
+    "word": "niedogodno\u015b\u0107",
+    "correct": true,
+    "timestamp": "2024-09-10T11:28:14.303Z"
+  },
+  {
+    "word": "przyj\u0105\u0107 stanowisko",
+    "correct": true,
+    "timestamp": "2024-09-10T11:28:24.789Z"
+  },
+  {
+    "word": "wnioskuje na podstawie",
+    "correct": true,
+    "timestamp": "2024-09-10T11:29:00.435Z"
+  },
+  {
+    "word": "badania pilota\u017cowe",
+    "correct": true,
+    "timestamp": "2024-09-10T11:29:07.747Z"
+  },
+  {
+    "word": "bior\u0105c pod uwag\u0119",
+    "correct": false,
+    "timestamp": "2024-09-10T11:29:17.397Z"
+  },
+  {
+    "word": "nazwa odbiorcy",
+    "correct": true,
+    "timestamp": "2024-09-10T11:29:18.233Z"
+  },
+  {
+    "word": "by\u0107 odr\u00f3\u017cnionym od czego\u015b innego",
+    "correct": false,
+    "timestamp": "2024-09-10T11:29:18.770Z"
+  },
+  {
+    "word": "nazwa odbiorcy",
+    "correct": true,
+    "timestamp": "2024-09-10T11:29:19.338Z"
+  },
+  {
+    "word": "wysokie kwalifikacje",
+    "correct": true,
+    "timestamp": "2024-09-10T11:30:04.951Z"
+  },
+  {
+    "word": "nieparzyste liczby",
+    "correct": true,
+    "timestamp": "2024-09-10T11:30:15.054Z"
+  },
+  {
+    "word": "zbi\u00f3r liczb",
+    "correct": true,
+    "timestamp": "2024-09-10T11:30:42.361Z"
+  },
+  {
+    "word": "uk\u0142ad",
+    "correct": true,
+    "timestamp": "2024-09-10T11:30:49.610Z"
+  },
+  {
+    "word": "zaawansowane",
+    "correct": true,
+    "timestamp": "2024-09-10T11:30:55.565Z"
+  },
+  {
+    "word": "krytycyzm",
+    "correct": true,
+    "timestamp": "2024-09-10T11:31:01.305Z"
+  },
+  {
+    "word": "badanie przypadkowe",
+    "correct": true,
+    "timestamp": "2024-09-10T11:31:11.561Z"
+  },
+  {
+    "word": "siatka z kolumnami i rz\u0119dami liczb",
+    "correct": true,
+    "timestamp": "2024-09-10T11:31:19.407Z"
+  },
+  {
+    "word": "s\u0142owa kluczowe",
+    "correct": false,
+    "timestamp": "2024-09-10T11:31:38.362Z"
+  },
+  {
+    "word": "si\u0142a robocza",
+    "correct": true,
+    "timestamp": "2024-09-10T11:31:42.102Z"
   }
 ]
