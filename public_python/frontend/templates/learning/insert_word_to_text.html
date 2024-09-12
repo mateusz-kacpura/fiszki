@@ -145,7 +145,7 @@ function populateTextList(textNames) {
 // Funkcja tworząca element listy tekstów
 function createTextListItem(text) {
     const listItem = document.createElement('li');
-    listItem.className = 'list-group-item list-group-item-action';
+    listItem.className = 'list-group-item';
     listItem.dataset.name = text.name;
     listItem.innerText = text.name;
     listItem.addEventListener('click', () => fetchAndLoadText(text.name)); // Pobieranie tekstu po kliknięciu
