@@ -200,6 +200,8 @@ function calculateWordCount(textData) {
 
 // Funkcja generująca HTML dla całego tekstu
 function generateTextHtml(textData) {
+    let bufforMissingWord = null; // Używamy null do sprawdzenia, czy brakujące słowo zmieniło się
+
     return textData.sentences.map((sentence, sentenceIndex) => {
         return sentence.english.split(' ').map((word, positionIndex) => {
             const missingWord = sentence.missing_words.find(mw => {
@@ -209,17 +211,27 @@ function generateTextHtml(textData) {
                     : mw.position === positionIndex + 1;
             });
 
-            if (missingWord) {
-                const missingWordLength = missingWord.word.split(' ').length;
-                positionIndex += missingWordLength - 1;
+            if (missingWord && (bufforMissingWord === null || bufforMissingWord.word !== missingWord.word)) {
+                // Jeżeli brakujące słowo się zmieniło
+                if (bufforMissingWord !== null) {
+                    // Dodaj HTML dla poprzedniego brakującego słowa, jeżeli istnieje
+                    const missingWordLength = bufforMissingWord.word.split(' ').length;
+                    positionIndex += missingWordLength - 1;
+                }
+                // Zaktualizuj bufforMissingWord
+                bufforMissingWord = missingWord;
                 return `<span class="droppable word-button" data-word="${missingWord.word}" data-index="${sentenceIndex}-${positionIndex}">____</span>`;
             }
 
             const isPartOfMissingWord = sentence.missing_words.some(mw => {
-                return Array.isArray(mw.position) && mw.position.includes(positionIndex + 1);
+                return Array.isArray(mw.position) ? mw.position.includes(positionIndex + 1) : mw.position === positionIndex + 1;
             });
 
-            return !isPartOfMissingWord ? `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button>` : '';
+            if (!isPartOfMissingWord) {
+                return `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button>`;
+            }
+
+            return ''; // Jeśli słowo jest częścią brakującego słowa, nie generujemy HTML dla niego
         }).join(' ');
     }).join(' ');
 }
@@ -306,25 +318,64 @@ document.addEventListener('mouseup', function() {
     isMouseDown = false;
 });
 
+let lastSelectedIndex = -1; // Przechowuje ostatni zaznaczony indeks
+
+// Funkcja do zaznaczania pojedynczych słów
 function toggleSelection(element) {
     const word = element.dataset.word; // Pobieramy słowo z atrybutu data
     const wordIndex = element.dataset.index; // Pobieramy indeks słowa
 
-    // Jeśli selectedWords jest puste lub obecne słowo jest następne w kolejności
-    if (selectedWords.length === 0 || wordIndex === `${lastSelectedIndex.split('-')[0]}-${parseInt(lastSelectedIndex.split('-')[1]) + 1}`) {
+    // Konwersja indeksu na numer złożony z dwóch części (zdanie-pozycja)
+    const [sentenceIndex, positionIndex] = wordIndex.split('-').map(Number);
+
+    // Sprawdzamy, czy element jest już zaznaczony (usuwanie zaznaczenia)
+    if (element.classList.contains('selected')) {
+        element.classList.remove('selected');
+
+        // Usuwamy słowo z tablicy zaznaczonych słów
+        selectedWords = selectedWords.filter(selectedWord => selectedWord !== word);
+        
+        // Aktualizujemy ostatni zaznaczony indeks
+        lastSelectedIndex = selectedWords.length > 0 ? wordIndex : -1;
+        return;
+    }
+
+    // Sprawdzanie, czy element może być zaznaczony jako następny w sekwencji
+    const isNextInSequence = () => {
+        if (selectedWords.length === 0) return true;
+        
+        const [lastSentenceIndex, lastPositionIndex] = lastSelectedIndex.split('-').map(Number);
+        
+        // Sprawdzenie, czy bieżący indeks jest bezpośrednio po ostatnim zaznaczonym elemencie
+        const isSequential = sentenceIndex === lastSentenceIndex && positionIndex === lastPositionIndex + 1;
+
+        // Pozwolenie na przeskoki w indeksach dla elementów <span>
+        const isLargeJump = sentenceIndex === lastSentenceIndex && positionIndex > lastPositionIndex + 1;
+
+        // Pozwolenie na zaznaczenie elementu z niższym indeksem (przykład: "from" 0-12 po "span" 0-13)
+        const isLowerIndex = positionIndex < lastPositionIndex;
+
+        return isSequential || isLargeJump || isLowerIndex;
+    };
+
+    // Sprawdzenie, czy element jest dozwolony do zaznaczenia
+    if (isNextInSequence()) {
         element.classList.add('selected'); // Dodajemy klasę "selected"
         
-        // Łączymy słowa w jedno zdanie (dołączamy kolejne słowo z odstępem)
-        selectedWords = selectedWords.length > 0 ? [selectedWords.join(' ') + ' ' + word] : [word];
-        
-        lastSelectedIndex = wordIndex; // Aktualizujemy ostatni indeks
-    } else if (element.classList.contains('selected')) {
-        element.classList.remove('selected'); // Usuwamy klasę "selected"
-        
-        // Usuwamy dane słowo ze zdania (jeśli istnieje)
-        selectedWords = [selectedWords[0].replace(word, '').trim()];
-        
-        lastSelectedIndex = selectedWords.length > 0 ? element.dataset.index : -1;
+        // Sprawdzamy, czy element zawiera spacje (czyli jest to <span>)
+        if (word.includes(' ')) {
+            selectedWords = selectedWords.length > 0 ? [selectedWords.join(' ') + ' ' + word] : [word];
+            const spanLength = word.split(' ').length;
+
+            // Aktualizujemy ostatni zaznaczony indeks, uwzględniając długość frazy
+            lastSelectedIndex = `${sentenceIndex}-${positionIndex + spanLength - 1}`;
+        } else {
+            selectedWords = selectedWords.length > 0 ? [selectedWords.join(' ') + ' ' + word] : [word];
+            lastSelectedIndex = wordIndex;
+        }
+    } else {
+        // Informujemy użytkownika, że zaznaczenie musi być sekwencyjne
+        showAlert("Słowa muszą być zaznaczane po kolei!", 'warning');
     }
 
     // Ukrywamy actionBubble, jeśli nie ma wybranych słów
