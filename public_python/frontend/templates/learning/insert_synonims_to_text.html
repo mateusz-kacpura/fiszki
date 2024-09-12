@@ -1,3 +1,5 @@
+<!-- Napisz projekt gry słownej, gdzie zadaniem użytkownika będzie połączenie słów z odpowiadającymi im synonimami w pary z losowej rozsypanki wyrazów, gdzie po jednej stronie będą słowa a po drugiej synonimy -->
+
 {% extends "learn.html" %}
 
 {% block title %}Multi Learning{% endblock %}
@@ -11,30 +13,20 @@
     <div class="col-md-8">
         <div class="card">
             <div class="card-header text-center">
-                <h2 class="card-title">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
+                <h2 class="card-title">Połącz słowa z ich definicjami</h2>
             </div>
-            <div class="card-body">
-                <!-- Kontener na bank słów do przeciągania -->
-                <div id="word-bank" class="word-bank mb-4">
-                    <!-- Słowa zostaną załadowane dynamicznie przez JS -->
-                </div>
-                <!-- Kontener na strefy upuszczania synonimów -->
-                <div id="drop-zones" class="drop-zones d-flex flex-column gap-3">
-                    <!-- Strefy upuszczania zostaną załadowane dynamicznie przez JS -->
-                </div>
-            </div>
+            <canvas id="wordCanvas" width="800" height="600"></canvas>
         </div>
     </div>
 
-    <!-- Prawa kolumna z przykładami -->
+    <!-- Prawa kolumna z pomocą -->
     <div class="col-md-4">
         <div class="card">
             <div class="card-header text-center">
-                <h2 class="card-title">Przykład</h2>
+                <h2 class="card-title">Pomoc</h2>
             </div>
             <div class="card-body">
-                <!-- Możesz dodać przykłady lub instrukcje -->
-                <p>Przeciągnij słowo "ładny" na odpowiednik "piękny".</p>
+                
             </div>
             <div class="card-footer text-center">
                 <!-- Dodatkowe kontrolki lub informacje -->
@@ -54,191 +46,392 @@
 
 {% block scripts %}
 <script>
-// Funkcja do wyświetlania alertów
-function showAlert(message, type = 'success') {
-    const alertContainer = document.getElementById('alert-container');
-    const alert = document.createElement('div');
-    alert.classList.add('alert', `alert-${type}`, 'alert-dismissible', 'fade', 'show');
-    alert.setAttribute('role', 'alert');
-    alert.innerHTML = `
-        ${message}
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-    `;
-    alertContainer.appendChild(alert);
+const canvas = document.getElementById("wordCanvas");
+const ctx = canvas.getContext("2d");
 
-    // Automatyczne usuwanie alertu po 3 sekundach
-    setTimeout(() => {
-        alert.classList.remove('show');
-        alert.classList.add('hide');
-        alert.addEventListener('transitionend', () => alert.remove());
-    }, 3000);
+fetch('/user/get_synonim_data?game_name=Synonym Match')
+    .then(response => response.json())
+    .then(data => {
+        initializeGame(data[0].pairs); 
+    })
+    .catch(error => console.error('Błąd:', error));
+
+const canvasWidth = canvas.width;
+const canvasHeight = canvas.height;
+const wordRadius = 50;
+const leftAreaWidth = canvasWidth / 2;
+const rightAreaWidth = canvasWidth / 2;
+const leftAreaX = wordRadius;
+const rightAreaX = canvasWidth / 2 + wordRadius;
+const verticalSpacing = wordRadius * 2 + 20;  // 20 to dodatkowa przestrzeń między słowami
+
+let words = [];
+let synonyms = [];
+let connections = [];
+let draggingLine = false; 
+let startX = 0, startY = 0;  
+let currentWord = null;  
+
+function isOverlapping(word1, word2) {
+    const dx = word1.x - word2.x;
+    const dy = word1.y - word2.y;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+    return distance < word1.radius + word2.radius;
 }
 
-// Funkcja do losowego mieszania tablicy
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-}
+function initializeGame(pairs) {
+    pairs.forEach((pair, index) => {
+        const wordY = verticalSpacing * index + wordRadius;
+        if (wordY + wordRadius > canvasHeight) {
+            console.error("Zbyt wiele par dla danego płótna.");
+            return;
+        }
 
-// Logika przeciągania i upuszczania
-let currentData = null;
+        const word = {
+            x: leftAreaX,
+            y: wordY,
+            radius: wordRadius,
+            text: pair.word,
+            pairIndex: index,
+            color: "#FFD700"
+        };
+        words.push(word);
 
-document.addEventListener('DOMContentLoaded', () => {
-    fetch('/user/get_synonim_data')
-        .then(response => response.json())
-        .then(data => {
-            currentData = data;
-            initializeGame(data);
-        })
-        .catch(error => {
-            console.error('Błąd podczas pobierania danych:', error);
-            showAlert('Błąd podczas ładowania danych gry.', 'danger');
-        });
-});
-
-function initializeGame(data) {
-    const wordBank = document.getElementById('word-bank');
-    const dropZones = document.getElementById('drop-zones');
-
-    // Przygotowanie listy słów i synonimów
-    const words = data.pairs.map(pair => ({ text: pair.word, pairId: pair.synonym }));
-    const synonyms = data.pairs.map(pair => ({ text: pair.synonym, pairId: pair.word }));
-
-    // Losowe rozmieszczenie słów i synonimów
-    shuffleArray(words);
-    shuffleArray(synonyms);
-
-    // Renderowanie banku słów
-    words.forEach(word => {
-        const wordElement = createDraggableElement(word.text, word.pairId);
-        wordBank.appendChild(wordElement);
+        const synonym = {
+            x: rightAreaX,
+            y: wordY,
+            radius: wordRadius,
+            text: pair.synonym,
+            pairIndex: index,
+            color: "#ADFF2F"
+        };
+        synonyms.push(synonym);
     });
-
-    // Renderowanie stref upuszczania
-    synonyms.forEach(syn => {
-        const dropZone = createDropZone(syn.text, syn.pairId);
-        dropZones.appendChild(dropZone);
-    });
-
-    // Dodanie obsługi przycisków
-    document.getElementById('check-answers').addEventListener('click', () => checkAnswers(data));
-    document.getElementById('reset-game').addEventListener('click', () => resetGame(data));
+    drawWords();
 }
 
-function createDraggableElement(text, pairId) {
-    const el = document.createElement('div');
-    el.classList.add('draggable-word', 'p-2', 'bg-light', 'border', 'rounded');
-    el.setAttribute('draggable', 'true');
-    el.setAttribute('data-pair-id', pairId);
-    el.textContent = text;
+function createNonOverlappingPosition(areaWidth, offset, text, index, color) {
+    let position;
+    let maxAttempts = 100;
+    let attempts = 0;
 
-    el.addEventListener('dragstart', handleDragStart);
-    el.addEventListener('dragend', handleDragEnd);
+    do {
+        position = {
+            x: Math.random() * (areaWidth - 2 * wordRadius) + offset + wordRadius,
+            y: Math.random() * (canvasHeight - 2 * wordRadius) + wordRadius,
+            radius: wordRadius,
+            text: text,
+            pairIndex: index,
+            color: color
+        };
+        attempts++;
+    } while (isOverlappingAny(position) && attempts < maxAttempts);
 
-    return el;
+    return position;
 }
 
-function createDropZone(text, pairId) {
-    const el = document.createElement('div');
-    el.classList.add('drop-zone', 'p-3', 'bg-secondary', 'text-white', 'rounded', 'position-relative');
-    el.setAttribute('data-pair-id', pairId);
-    el.textContent = `Synonim dla: "${text}"`;
-
-    // Dodanie wskaźnika na upuszczone słowo
-    const dropIndicator = document.createElement('div');
-    dropIndicator.classList.add('drop-indicator', 'mt-2');
-    el.appendChild(dropIndicator);
-
-    el.addEventListener('dragover', handleDragOver);
-    el.addEventListener('drop', handleDrop);
-
-    return el;
+function isOverlappingAny(word) {
+    return [...words, ...synonyms].some(existingWord => isOverlapping(word, existingWord));
 }
 
-let draggedElement = null;
-
-function handleDragStart(event) {
-    draggedElement = event.target;
-    event.dataTransfer.setData('text/plain', event.target.textContent);
-    setTimeout(() => {
-        event.target.classList.add('dragging');
-    }, 0);
-}
-
-function handleDragEnd(event) {
-    event.target.classList.remove('dragging');
-}
-
-function handleDragOver(event) {
-    event.preventDefault();
-    event.dataTransfer.dropEffect = 'move';
-}
-
-function handleDrop(event) {
-    event.preventDefault();
-    const dropZone = event.currentTarget;
-    const existingWord = dropZone.querySelector('.draggable-word');
-
-    if (existingWord) {
-        // Jeśli już jest słowo w strefie, przenieś je z powrotem do banku
-        document.getElementById('word-bank').appendChild(existingWord);
-    }
-
-    // Sprawdzenie, czy istnieje wskaźnik do usunięcia
-    const dropIndicator = dropZone.querySelector('.drop-indicator');
-    if (dropIndicator) {
-        dropIndicator.remove(); // Usuń wskaźnik
+function drawConnectionPoints(word) {
+    const radius = 5; 
+    ctx.beginPath();
+    
+    if (words.includes(word)) { 
+        // Draw point at the right edge of the word's rectangle
+        ctx.arc(word.x + word.radius + radius, word.y, radius, 0, 2 * Math.PI);
+    } else if (synonyms.includes(word)) {  
+        // Draw point at the left edge of the synonym's rectangle
+        ctx.arc(word.x - word.radius - radius, word.y, radius, 0, 2 * Math.PI);
     }
     
-    dropZone.appendChild(draggedElement);
+    ctx.fillStyle = "#FFF"; 
+    ctx.fill();
+    ctx.strokeStyle = "#000"; // Color of the border
+    ctx.stroke();
 }
 
-// Sprawdzanie odpowiedzi
-function checkAnswers(data) {
-    let correctCount = 0;
-    let incorrectCount = 0;
 
-    data.pairs.forEach(pair => {
-        const dropZone = Array.from(document.querySelectorAll('.drop-zone')).find(zone => zone.getAttribute('data-pair-id') === pair.word);
-        if (dropZone) {
-            const droppedWord = dropZone.querySelector('.draggable-word');
-            if (droppedWord) {
-                if (droppedWord.getAttribute('data-pair-id') === pair.synonym) {
-                    correctCount++;
-                    droppedWord.classList.add('border-success');
-                    dropZone.classList.add('bg-success');
-                } else {
-                    incorrectCount++;
-                    droppedWord.classList.add('border-danger');
-                    dropZone.classList.add('bg-danger');
-                }
-            }
+function drawCross(x, y, size = 10) {
+    // Rysowanie białego kółka wokół krzyżyka
+    const circleRadius = size * 0.75;  // Ustal promień białego kółka
+    ctx.beginPath();
+    ctx.arc(x, y, circleRadius, 0, 2 * Math.PI);
+    ctx.fillStyle = "#FFF";  // Białe kółko
+    ctx.fill();
+    ctx.strokeStyle = "#000";  // Czarny obrys kółka
+    ctx.lineWidth = 1;
+    ctx.stroke();
+
+    // Rysowanie krzyżyka
+    ctx.beginPath();
+    ctx.moveTo(x - size / 2, y - size / 2);
+    ctx.lineTo(x + size / 2, y + size / 2);
+    ctx.moveTo(x + size / 2, y - size / 2);
+    ctx.lineTo(x - size / 2, y + size / 2);
+    ctx.strokeStyle = "#FF0000";  // Czerwony krzyżyk
+    ctx.lineWidth = 2;
+    ctx.stroke();
+}
+
+function drawWords() {
+    ctx.clearRect(0, 0, canvasWidth, canvasHeight);  // Wyczyść canvas
+
+    // Rysowanie linii połączeń
+    connections.forEach(connection => {
+        ctx.beginPath();
+        ctx.moveTo(connection.word.x + wordRadius, connection.word.y);
+        ctx.lineTo(connection.synonym.x - wordRadius, connection.synonym.y);
+        ctx.strokeStyle = connection.correct ? "green" : "red";  // Kolor linii
+        ctx.lineWidth = 3;  
+        ctx.stroke();
+
+        // Rysowanie krzyżyka na środku linii
+        const midX = (connection.word.x + wordRadius + connection.synonym.x - wordRadius) / 2;
+        const midY = (connection.word.y + connection.synonym.y) / 2;
+        drawCross(midX, midY);
+    });
+
+    // Funkcja rysująca słowa i synonimy
+    [...words, ...synonyms].forEach(word => {
+        ctx.font = "16px Arial";
+        const textWidth = ctx.measureText(word.text).width;
+        const textHeight = 16; // Wysokość czcionki
+
+        // Ustawienia marginesów
+        const margin = 10; // Margines w pikselach
+        const rectWidth = textWidth + 2 * margin;
+        const rectHeight = textHeight + 2 * margin;
+
+        // Obliczanie położenia prostokąta względem koła
+        let rectX, rectY;
+        if (words.includes(word)) { 
+            rectX = word.x - word.radius - rectWidth;
+            rectY = word.y - rectHeight / 2;
+        } else if (synonyms.includes(word)) {  
+            rectX = word.x + word.radius;
+            rectY = word.y - rectHeight / 2;
+        }
+
+        // Rysowanie prostokąta
+        ctx.beginPath();
+        ctx.rect(word.x - rectWidth / 2, word.y - rectHeight / 2, rectWidth, rectHeight);
+        ctx.strokeStyle = word.color; // Kolor obramowania
+        ctx.lineWidth = 2; // Grubość linii obramowania
+        ctx.stroke();
+
+        // Rysowanie tekstu
+        ctx.fillStyle = "#000"; // Kolor tekstu
+        ctx.textAlign = "center";
+        ctx.textBaseline = "middle";
+        ctx.fillText(word.text, word.x, word.y);
+
+        // Rysowanie punktów połączeń
+        drawConnectionPoints(word);
+    });
+}
+
+
+function getConnectionPointAtPosition(x, y, wordList) {
+    return wordList.find(word => {
+        if (words.includes(word)) {
+            // Check if the point is near the right edge of the rectangle
+            const dx = x - (word.x + word.radius + 5); // Adjust for the radius of the connection point
+            const dy = y - word.y;
+            return Math.sqrt(dx * dx + dy * dy) < 5;
+        } else if (synonyms.includes(word)) {
+            // Check if the point is near the left edge of the rectangle
+            const dx = x - (word.x - word.radius - 5); // Adjust for the radius of the connection point
+            const dy = y - word.y;
+            return Math.sqrt(dx * dx + dy * dy) < 5;
         }
     });
-
-    showAlert(`Poprawnie dopasowanych par: ${correctCount}, Błędnych dopasowań: ${incorrectCount} z ${data.pairs.length}`, 'info');
 }
 
-// Resetowanie gry
-function resetGame(data) {
-    // Czyszczenie banku słów i stref upuszczania
-    document.getElementById('word-bank').innerHTML = '';
-    document.getElementById('drop-zones').innerHTML = '';
 
-    // Usunięcie klas sukcesu i błędu
-    document.querySelectorAll('.draggable-word').forEach(el => {
-        el.classList.remove('border-success', 'border-danger');
-    });
-    document.querySelectorAll('.drop-zone').forEach(zone => {
-        zone.classList.remove('bg-success', 'bg-danger');
-    });
+let selectedWord = null;
+let selectedSynonym = null;
 
-    // Ponowne zainicjowanie gry
-    initializeGame(data);
+function getWordAtPosition(x, y, wordList) {
+    return wordList.find(word => {
+        const dx = x - word.x;
+        const dy = y - word.y;
+        return Math.sqrt(dx * dx + dy * dy) < word.radius;
+    });
 }
 
+canvas.addEventListener("mousedown", (e) => {
+    const mouseX = e.offsetX;
+    const mouseY = e.offsetY;
+
+    const clickedWord = getWordAtPosition(mouseX, mouseY, words);
+    const clickedSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
+
+    if (clickedWord) {
+        currentWord = clickedWord;
+        startX = clickedWord.x;
+        startY = clickedWord.y;
+        draggingLine = true;
+    } 
+    else if (clickedSynonym) {
+        currentWord = clickedSynonym;
+        startX = clickedSynonym.x;
+        startY = clickedSynonym.y;
+        draggingLine = true;
+    }
+});
+
+
+function makeConnection(word, synonym) {
+    const existingConnection = connections.find(connection => connection.word === word || connection.synonym === synonym);
+
+    if (existingConnection) {
+        connections = connections.filter(connection => connection !== existingConnection);
+    }
+
+    const correct = word.pairIndex === synonym.pairIndex;
+
+    connections.push({
+        word: word,
+        synonym: synonym,
+        correct: correct
+    });
+}
+
+canvas.addEventListener("mousemove", (e) => {
+    if (draggingLine && currentWord) {
+        const rect = canvas.getBoundingClientRect();
+        const scaleX = canvas.width / rect.width;
+        const scaleY = canvas.height / rect.height;
+        
+        const mouseX = (e.clientX - rect.left) * scaleX;
+        const mouseY = (e.clientY - rect.top) * scaleY;
+
+        drawWords();  
+
+        ctx.beginPath();
+        
+        if (words.includes(currentWord)) {
+            ctx.moveTo(currentWord.x + currentWord.radius, currentWord.y);
+        } else {
+            ctx.moveTo(currentWord.x - currentWord.radius, currentWord.y);
+        }
+
+        ctx.lineTo(mouseX, mouseY);
+        
+        ctx.strokeStyle = "#000";  
+        ctx.lineWidth = 2; 
+        ctx.stroke();
+    }
+});
+
+canvas.addEventListener("mouseup", (e) => {
+    if (draggingLine && currentWord) {
+        const mouseX = e.offsetX;
+        const mouseY = e.offsetY;
+
+        if (currentWord && currentWord.x < leftAreaWidth) {
+            const targetSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
+            if (targetSynonym) {
+                makeConnection(currentWord, targetSynonym);
+            }
+        } else {
+            const targetWord = getWordAtPosition(mouseX, mouseY, words);
+            if (targetWord) {
+                makeConnection(targetWord, currentWord);
+            }
+        }
+
+        draggingLine = false;
+        currentWord = null;
+        drawWords(); 
+    }
+});
+
+canvas.addEventListener("mouseup", (e) => {
+    if (draggingLine && currentWord) {
+        const mouseX = e.offsetX;
+        const mouseY = e.offsetY;
+
+        // Determine if the mouse is released over a valid connection point
+        const targetWord = getConnectionPointAtPosition(mouseX, mouseY, words);
+        const targetSynonym = getConnectionPointAtPosition(mouseX, mouseY, synonyms);
+
+        if (targetWord && synonyms.includes(currentWord)) {
+            makeConnection(targetWord, currentWord); 
+        } else if (targetSynonym && words.includes(currentWord)) {
+            makeConnection(currentWord, targetSynonym);  
+        }
+
+        draggingLine = false;
+        currentWord = null;  
+        drawWords();  
+    }
+});
+
+function isClickOnCross(x, y, connection) {
+    const midX = (connection.word.x + wordRadius + connection.synonym.x - wordRadius) / 2;
+    const midY = (connection.word.y + connection.synonym.y) / 2;
+
+    const dx = x - midX;
+    const dy = y - midY;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+
+    return distance < 15;
+}
+
+canvas.addEventListener("click", (e) => {
+    const rect = canvas.getBoundingClientRect();
+    const scaleX = canvas.width / rect.width;
+    const scaleY = canvas.height / rect.height;
+    
+    const mouseX = (e.clientX - rect.left) * scaleX;
+    const mouseY = (e.clientY - rect.top) * scaleY;
+
+    const clickedConnection = connections.find(connection => isClickOnCross(mouseX, mouseY, connection));
+
+    if (clickedConnection) {
+        connections = connections.filter(connection => connection !== clickedConnection);
+        drawWords();
+    }
+});
+
+
+function pointLineDistance(px, py, x1, y1, x2, y2) {
+    const A = px - x1;
+    const B = py - y1;
+    const C = x2 - x1;
+    const D = y2 - y1;
+
+    const dot = A * C + B * D;
+    const len_sq = C * C + D * D;
+    const param = (len_sq !== 0) ? (dot / len_sq) : -1;
+
+    let xx, yy;
+
+    if (param < 0) {
+        xx = x1;
+        yy = y1;
+    } else if (param > 1) {
+        xx = x2;
+        yy = y2;
+    } else {
+        xx = x1 + param * C;
+        yy = y1 + param * D;
+    }
+
+    const dx = px - xx;
+    const dy = py - yy;
+    return Math.sqrt(dx * dx + dy * dy);
+}
+
+function getConnectionAtPosition(x, y) {
+    return connections.find(connection => {
+        const distToLine = pointLineDistance(x, y, connection.word.x, connection.word.y, connection.synonym.x, connection.synonym.y);
+        return distToLine < 5; 
+    });
+}
 
 </script>
 {% endblock %}

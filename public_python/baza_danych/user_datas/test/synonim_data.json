@@ -1,0 +1,21 @@
+[
+    {
+      "game_uuid": "game1",
+      "game_name": "Synonym Match",
+      "pairs": [
+        {"word": "happy", "synonym": "joyful"},
+        {"word": "book", "synonym": "novel"},
+        {"word": "car", "synonym": "automobile"}
+      ]
+    },
+    {
+      "game_uuid": "game2",
+      "game_name": "Language Learning",
+      "pairs": [
+        {"word": "house", "synonym": "domicile"},
+        {"word": "cloud", "synonym": "cumulus"},
+        {"word": "pizza", "synonym": "pie"}
+      ]
+    }
+  ]
+  

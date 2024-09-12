@@ -317,24 +317,10 @@ def insert_word_to_text():
 def insert_synonims_to_text():
     return render_template('learning/insert_synonims_to_text.html', title="insert_synonims_to_text")
 
-import uuid
-
-# Przykładowe dane synonimów
-synonym_data = {
-    "uuid": str(uuid.uuid4()),
-    "name": "synonym_game",
-    "pairs": [
-        {"word": "ładny", "synonym": "piękny"},
-        {"word": "szybki", "synonym": "prędki"},
-        {"word": "mądry", "synonym": "inteligentny"},
-        {"word": "trudny", "synonym": "skomplikowany"},
-        # Dodaj więcej par według potrzeb
-    ]
-}
-
 @user_route.route('/get_synonim_data')
 def get_synonym_data():
-    # Możesz tutaj zaimplementować logikę pobierania danych z bazy danych lub innego źródła
+    with open('baza_danych/user_datas/test/synonim_data.json', 'r', encoding='utf-8') as f:
+        synonym_data = json.load(f)
     return jsonify(synonym_data)
 
 @user_route.route('/manage/exel')
