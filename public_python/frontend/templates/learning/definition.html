@@ -6,22 +6,42 @@
 <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
 
 <div class="container mt-5">
-    <h1>Language Learning Game</h1>
+    <h1 class="text-center mb-4">Definition</h1>
     <div id="quiz" style="display:none;">
-        <div class="mb-3" id="answer-buttons"></div>
-        <div class="mb-3">
-            <p id="example-sentence-text"></p>        
-        </div>        
-        <div id="new-sentence-btn-container" class="d-flex justify-content-center mt-4">
-            <button id="new-sentence-btn" class="btn btn-primary me-2" style="display: none;" onclick="generateRandomWord()">Losuj nową definicję</button>
-            <button id="edit-word-btn" class="btn btn-warning ms-2" style="display: none;" onclick="openEditModal(currentWordData)">Edit</button>
-        </div>            
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card mt-3">
+                    <div class="card-header text-center">
+                        <h5 class="no-margin">Definition</h5>
+                    </div>
+                    <div class="card-body text-center">
+                        <div class="mb-3 word-bank" id="answer-buttons"></div>
+                        <div class="mb-3">
+                            <p id="example-sentence-text"></p>        
+                        </div>        
+                        <div id="new-sentence-btn-container" class="d-flex justify-content-center mt-4">
+                            <button id="new-sentence-btn" class="btn btn-primary me-2" style="display: none;" onclick="generateRandomWord()">Losuj nową definicję</button>
+                            <button id="edit-word-btn" class="btn btn-warning ms-2" style="display: none;" onclick="openEditModal(currentWordData)">Edit</button>
+                        </div>        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mt-3">
+                  <div class="card-header text-center">
+                    <h5 class="no-margin">Additional Controls</h5>
+                  </div>
+                  {% include 'learning/controls/audio.html' %}
+                  <div class="card-footer text-center">
+                    <p></p>
+                  </div>
+                </div>
+              </div>
+        </div>    
     </div>
-
     {% include 'learning/controls/buttons.html' %}
     {% include 'learning/modals/definition-pop-up.html' %}
     {% include 'learning/modals/edit-word-modal.html' %}
-
 </div>
 
 {% endblock %}
