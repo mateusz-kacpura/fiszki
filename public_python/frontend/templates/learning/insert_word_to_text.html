@@ -320,65 +320,51 @@ document.addEventListener('mouseup', function() {
 
 let lastSelectedIndex = -1; // Przechowuje ostatni zaznaczony indeks
 
-// Funkcja do zaznaczania pojedynczych słów
 function toggleSelection(element) {
     const word = element.dataset.word; // Pobieramy słowo z atrybutu data
     const wordIndex = element.dataset.index; // Pobieramy indeks słowa
 
-    // Konwersja indeksu na numer złożony z dwóch części (zdanie-pozycja)
     const [sentenceIndex, positionIndex] = wordIndex.split('-').map(Number);
 
     // Sprawdzamy, czy element jest już zaznaczony (usuwanie zaznaczenia)
     if (element.classList.contains('selected')) {
         element.classList.remove('selected');
-
-        // Usuwamy słowo z tablicy zaznaczonych słów
         selectedWords = selectedWords.filter(selectedWord => selectedWord !== word);
-        
-        // Aktualizujemy ostatni zaznaczony indeks
         lastSelectedIndex = selectedWords.length > 0 ? wordIndex : -1;
         return;
     }
 
-    // Sprawdzanie, czy element może być zaznaczony jako następny w sekwencji
-    const isNextInSequence = () => {
-        if (selectedWords.length === 0) return true;
-        
-        const [lastSentenceIndex, lastPositionIndex] = lastSelectedIndex.split('-').map(Number);
-        
-        // Sprawdzenie, czy bieżący indeks jest bezpośrednio po ostatnim zaznaczonym elemencie
-        const isSequential = sentenceIndex === lastSentenceIndex && positionIndex === lastPositionIndex + 1;
+    // Jeśli nie ma zaznaczonych słów, zaznacz pierwsze słowo
+    if (selectedWords.length === 0) {
+        element.classList.add('selected');
+        selectedWords.push(word);
+        lastSelectedIndex = wordIndex;
+        return;
+    }
 
-        // Pozwolenie na przeskoki w indeksach dla elementów <span>
-        const isLargeJump = sentenceIndex === lastSentenceIndex && positionIndex > lastPositionIndex + 1;
+    const [lastSentenceIndex, lastPositionIndex] = lastSelectedIndex.split('-').map(Number);
 
-        // Pozwolenie na zaznaczenie elementu z niższym indeksem (przykład: "from" 0-12 po "span" 0-13)
-        const isLowerIndex = positionIndex < lastPositionIndex;
+    // Sprawdzenie, czy bieżący indeks jest poprawną kontynuacją zaznaczenia
+    if (sentenceIndex === lastSentenceIndex && positionIndex >= lastPositionIndex) {
+        // Zaznaczenie wszystkich słów między ostatnim zaznaczonym a bieżącym
+        const buttons = [...textContainer.querySelectorAll('.word-button')];
+        const startIndex = buttons.findIndex(btn => btn.dataset.index === lastSelectedIndex);
+        const endIndex = buttons.findIndex(btn => btn.dataset.index === wordIndex);
 
-        return isSequential || isLargeJump || isLowerIndex;
-    };
-
-    // Sprawdzenie, czy element jest dozwolony do zaznaczenia
-    if (isNextInSequence()) {
-        element.classList.add('selected'); // Dodajemy klasę "selected"
-        
-        // Sprawdzamy, czy element zawiera spacje (czyli jest to <span>)
-        if (word.includes(' ')) {
-            selectedWords = selectedWords.length > 0 ? [selectedWords.join(' ') + ' ' + word] : [word];
-            const spanLength = word.split(' ').length;
-
-            // Aktualizujemy ostatni zaznaczony indeks, uwzględniając długość frazy
-            lastSelectedIndex = `${sentenceIndex}-${positionIndex + spanLength - 1}`;
-        } else {
-            selectedWords = selectedWords.length > 0 ? [selectedWords.join(' ') + ' ' + word] : [word];
-            lastSelectedIndex = wordIndex;
+        for (let i = startIndex; i <= endIndex; i++) {
+            const btn = buttons[i];
+            if (!btn.classList.contains('selected')) {
+                btn.classList.add('selected');
+                selectedWords.push(btn.dataset.word);
+            }
         }
+
+        lastSelectedIndex = wordIndex;
+        selectedWords = [selectedWords.join(' ')]; // Łączymy słowa w jedną frazę
     } else {
-        // Informujemy użytkownika, że zaznaczenie musi być sekwencyjne
         showAlert("Słowa muszą być zaznaczane po kolei!", 'warning');
     }
 
-    // Ukrywamy actionBubble, jeśli nie ma wybranych słów
     if (selectedWords.length === 0 && actionBubble) {
         actionBubble.style.display = 'none';
     }
