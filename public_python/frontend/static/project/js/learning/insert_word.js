@@ -98,7 +98,7 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
         existingModal.remove();
     }
 
-    fetch(`/user/modals/insert-pop-up?selectedWord=${selected}&correctWord=${correct}&fullSentence=${fullSentence}&exampleTranslation=${exampleTranslation}&theme=${theme}`)
+    fetch(`/user/modals/modal_pop_up_for_insert_word?selectedWord=${selected}&correctWord=${correct}&fullSentence=${fullSentence}&exampleTranslation=${exampleTranslation}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;

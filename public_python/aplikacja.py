@@ -1,9 +1,9 @@
 from flask import Flask
 from flask_login import LoginManager
 from flask_cors import CORS
-from routes.auth_routes import auth_route
-from routes.user_routes import user_route
-from models.user_model import User
+from backend.routes.auth_routes import auth_route
+from backend.routes.user_routes import user_route
+from backend.models.user_model import User
 import config 
 
 app = Flask(__name__, template_folder='frontend/templates', static_folder='frontend/static')

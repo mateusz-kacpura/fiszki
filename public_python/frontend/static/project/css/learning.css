@@ -1,159 +1,159 @@
 
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f8f9fa;
-        padding: 20px;
-    }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
 
-    .text-center {
-        text-align: center;
-    }
+.text-center {
+    text-align: center;
+}
 
-    .no-margin {
-        margin: 0 !important;
-    }
+.no-margin {
+    margin: 0 !important;
+}
 
-    .card {
-        background-color: #ffffff;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        margin-bottom: 20px;
-    }
+.card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
 
-    .card-header {
-        background-color: #0056b3;
-        color: white;
-        padding: 10px;
-        border-radius: 8px 8px 0 0;
-    }
+.card-header {
+    background-color: #0056b3;
+    color: white;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
+}
 
-    .card-body {
-        padding: 20px;
-    }
+.card-body {
+    padding: 20px;
+}
 
-    .droppable {
-        padding: 5px;
-        border-bottom: 2px dashed #0056b3;
-        margin-right: 5px;
-        display: inline-block;
-        min-width: 50px;
-        text-align: center;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
+.droppable {
+    padding: 5px;
+    border-bottom: 2px dashed #0056b3;
+    margin-right: 5px;
+    display: inline-block;
+    min-width: 50px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
 
-    .droppable:hover {
-        background-color: #f0f8ff;
-    }
+.droppable:hover {
+    background-color: #f0f8ff;
+}
 
-    .image-option {
-        padding: 5px 10px;
-        background-color: #0056b3;
-        color: white;
-        margin: 5px;
-        border-radius: 5px;
-        cursor: pointer;
-        display: inline-block;
-        user-select: none;
-        transition: background-color 0.3s ease;
-    }
+.image-option {
+    padding: 5px 10px;
+    background-color: #0056b3;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    user-select: none;
+    transition: background-color 0.3s ease;
+}
 
-    .image-option:hover {
-        background-color: #0056b3;
-    }
+.image-option:hover {
+    background-color: #0056b3;
+}
 
-    .correct {
-        font-weight: bold;
-        color: green !important;
-    }
+.correct {
+    font-weight: bold;
+    color: green !important;
+}
 
-    .word-button {
-        background-color: transparent;
-        border: none;
-        color: #0056b3;
-        cursor: pointer;
-        padding: 0;
-        font-size: inherit;
-    }
+.word-button {
+    background-color: transparent;
+    border: none;
+    color: #0056b3;
+    cursor: pointer;
+    padding: 0;
+    font-size: inherit;
+}
 
-    .word-button:focus {
-        outline: none;
-    }
+.word-button:focus {
+    outline: none;
+}
 
-    .selected {
-        background-color: #d1e7ff;
-    }
+.selected {
+    background-color: #d1e7ff;
+}
 
-    .translation-bubble {
-        position: absolute;
-        background-color: #0056b3;
-        color: white;
-        padding: 5px 10px;
-        border-radius: 5px;
-        cursor: pointer;
-        z-index: 1000;
-    }
+.translation-bubble {
+    position: absolute;
+    background-color: #0056b3;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000;
+}
 
-    #action-bubble {
-        position: absolute;
-        padding: 1px !important;
-        margin: 0px !important;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        background-color: #f9f9f9;
-        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-        z-index: 9999;
-        font-family: Arial, sans-serif;
-    }
+#action-bubble {
+    position: absolute;
+    padding: 1px !important;
+    margin: 0px !important;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    font-family: Arial, sans-serif;
+}
 
-    #action-bubble button {
-        background-color: #007bff;
-        padding: 3px !important;
-        color: white;
-        border: none;
-        border-radius: 3px;
-        height: 100%;
-        margin: 0px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-        font-size: 14px;
-        font-family: inherit;
-    }
+#action-bubble button {
+    background-color: #007bff;
+    padding: 3px !important;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    height: 100%;
+    margin: 0px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 14px;
+    font-family: inherit;
+}
 
-    #action-bubble button:hover {
-        background-color: #0056b3;
-    }
+#action-bubble button:hover {
+    background-color: #0056b3;
+}
 
-    #action-bubble button:focus {
-        outline: none;
-        box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
-    }
+#action-bubble button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+}
 
-    #previewTranslation {
-        display: block;
-        margin-top: 1px;
-        font-size: 14px;
-        color: #333;
-    }
+#previewTranslation {
+    display: block;
+    margin-top: 1px;
+    font-size: 14px;
+    color: #333;
+}
 
-    #action-bubble button:last-child {
-        margin-right: 0;
-    }
+#action-bubble button:last-child {
+    margin-right: 0;
+}
 
-    .list-group-item.active {
-        background-color: #007bff;
-        color: white;
-    }
-    
-    .pagination-controls {
-        display: flex;
-        justify-content: center;
-        margin-top: 10px;
-    }
-    
-    .pagination-controls button {
-        margin: 0 5px;
-        padding: 5px 10px;
-    }
-    
+.list-group-item.active {
+    background-color: #007bff;
+    color: white;
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.pagination-controls button {
+    margin: 0 5px;
+    padding: 5px 10px;
+}
+

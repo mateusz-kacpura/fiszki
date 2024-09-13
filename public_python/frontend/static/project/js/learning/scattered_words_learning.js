@@ -59,7 +59,7 @@ let sentences = [];
         button.onclick = () => addexampleToSentence(example, button);
         exampleBankDiv.appendChild(button);
       });
-      document.getElementById('sentence-translation').textContent = randomSentence.example_translation; // tłumaczone zdanie
+      document.getElementById('sentence-translation').textContent = randomSentence.example_translation; // tĹ‚umaczone zdanie
     }
 
     function addexampleToSentence(example, button) {

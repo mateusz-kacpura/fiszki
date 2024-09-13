@@ -47,7 +47,7 @@ function fetchData() {
 function generateRandomWord() {
   const availableWords = words.filter(word => word.imageLink && !excludedWords.includes(word.word));
   if (availableWords.length === 0) {
-    console.log('Brak więcej słów do nauki.');
+    console.log('Brak wiÄ™cej sĹ‚Ăłw do nauki.');
     return;
   }
 
@@ -108,24 +108,16 @@ function checkImage(selectedWord, correctWord) {
         existingModal.remove();
     }
 
-    if (ttsCheckbox.checked && !audioCheckbox.checked) {
-        if (groqCheckbox.checked) {
-            playTextToSpeechWithGroq(selectedWord);
-        } else {
-            playTextToSpeech(selectedWord);
-        }
+    if (!audioCheckbox.checked) {
+      playTextToSpeech(selectedWord);
     }
 
-    if (audioCheckbox.checked && ttsCheckbox.checked) {
-        if (groqCheckbox.checked) {
-            playTextToSpeechWithGroq(correctWord);
-        } else {
-            playTextToSpeech(correctWord);
-        }
+    if (ttsCheckbox.checked) {
+      playTextToSpeech(correctWord);
     }
 
     // Load modal content from the Flask endpoint
-    fetch(`/user/modals/image-pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
+    fetch(`/user/modals/modal_pop_up_for_image_learning?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;

@@ -20,7 +20,7 @@ function fetchData() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    fetchData(); // Pobieranie danych po załadowaniu strony
+    fetchData(); // Pobieranie danych po zaĹ‚adowaniu strony
 
     // Dodaj event listener dla zaznaczania wszystkich wierszy
     document.querySelector('#select-all-rows').addEventListener('change', function() {
@@ -264,7 +264,7 @@ function uploadExcel() {
     columnMapping.forEach(item => {
         formData.append(item.name, item.value);
     });
-    console.log("Przed wysłaniem", formData)
+    console.log("Przed wysĹ‚aniem", formData)
     $.ajax({
         url: '/user/upload_excel',
         type: 'POST',
@@ -415,7 +415,7 @@ function confirmSaveChanges() {
     });
 
     const jsonString = JSON.stringify(updatedData, null, 2);
-    const fileName = $('#fileNameInput').val() || 'example'; // Pobierz nazwę pliku od użytkownika lub ustaw na "example"
+    const fileName = $('#fileNameInput').val() || 'example'; // Pobierz nazwÄ™ pliku od uĹĽytkownika lub ustaw na "example"
 
     fetch('/user/uploads-save-json', {
         method: 'POST',
@@ -524,9 +524,9 @@ function getSelectedColumns() {
     return selectedColumns;
 }
 
-// Pokaż modal do wyboru kolumn i wierszy
+// PokaĹĽ modal do wyboru kolumn i wierszy
 function showColumnSelection() {
-    // Zamknięcie wszelkich otwartych modali
+    // ZamkniÄ™cie wszelkich otwartych modali
     let openModals = document.querySelectorAll('.modal.show');
     openModals.forEach(modal => {
         let instance = bootstrap.Modal.getInstance(modal);
@@ -571,16 +571,16 @@ function handleSearch() {
     $('#searchModal').modal('show');
 }
 
-// Pokaż modal do wyboru formatu po wybraniu kolumn
+// PokaĹĽ modal do wyboru formatu po wybraniu kolumn
 function showDownloadOptions() {
     const columnSelectionModal = bootstrap.Modal.getInstance(document.getElementById('columnSelectionModal'));
     columnSelectionModal.hide(); // Ukryj modal wyboru kolumn
     const downloadOptionsModal = new bootstrap.Modal(document.getElementById('downloadOptionsModal'));
-    downloadOptionsModal.show(); // Pokaż modal wyboru formatu
+    downloadOptionsModal.show(); // PokaĹĽ modal wyboru formatu
 }
 
 function showDownloadOptionsModal() {
-    // Zamknięcie wszelkich otwartych modali
+    // ZamkniÄ™cie wszelkich otwartych modali
     let openModals = document.querySelectorAll('.modal.show');
     openModals.forEach(modal => {
         let instance = bootstrap.Modal.getInstance(modal);
@@ -676,7 +676,7 @@ function toggleSelectAllColumns(selectAllCheckbox) {
     });
 }
 
-// Pokaż modal do wyboru wierszy
+// PokaĹĽ modal do wyboru wierszy
 function showRowSelection() {
     let rowSelectionModal = new bootstrap.Modal(document.getElementById('rowSelectionModal'));
     rowSelectionModal.show();
@@ -692,7 +692,7 @@ function toggleSelectAllRows(selectAllCheckbox) {
 
 function generateTableRows(data) {
     let tbody = document.querySelector('#data-table tbody');
-    tbody.innerHTML = ''; // Czyści istniejące wiersze
+    tbody.innerHTML = ''; // CzyĹ›ci istniejÄ…ce wiersze
 
     data.forEach((row, index) => {
         let tr = document.createElement('tr');
@@ -702,14 +702,14 @@ function generateTableRows(data) {
         checkboxCell.innerHTML = `<input type="checkbox" class="row-checkbox" data-row-index="${index}">`;
         tr.appendChild(checkboxCell);
 
-        // Dodanie pozostałych danych do wiersza
+        // Dodanie pozostaĹ‚ych danych do wiersza
         Object.values(row).forEach(value => {
             let td = document.createElement('td');
             td.textContent = value;
             tr.appendChild(td);
         });
 
-        // Dodanie przycisków akcji
+        // Dodanie przyciskĂłw akcji
         let actionsCell = document.createElement('td');
         actionsCell.innerHTML = `
             <button class="btn btn-success" onclick="saveRow(${index})">Save</button>

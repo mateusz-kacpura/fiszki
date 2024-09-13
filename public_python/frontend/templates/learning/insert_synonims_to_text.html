@@ -1,4 +1,4 @@
-<!-- Napisz projekt gry słownej, gdzie zadaniem użytkownika będzie połączenie słów z odpowiadającymi im synonimami w pary z losowej rozsypanki wyrazów, gdzie po jednej stronie będą słowa a po drugiej synonimy -->
+<!-- Napisz projekt gry sĹ‚ownej, gdzie zadaniem uĹĽytkownika bÄ™dzie poĹ‚Ä…czenie sĹ‚Ăłw z odpowiadajÄ…cymi im synonimami w pary z losowej rozsypanki wyrazĂłw, gdzie po jednej stronie bÄ™dÄ… sĹ‚owa a po drugiej synonimy -->
 
 {% extends "learn.html" %}
 
@@ -18,17 +18,17 @@
     }
 </style>
 <div class="row justify-content-center">
-    <!-- Lewa kolumna z wyborem słów -->
+    <!-- Lewa kolumna z wyborem sĹ‚Ăłw -->
     <div class="col-md-8">
         <div class="card">
             <div class="card-header text-center">
-                <h2 class="card-title">Połącz słowa z ich definicjami</h2>
+                <h2 class="card-title">PoĹ‚Ä…cz sĹ‚owa z ich definicjami</h2>
             </div>
             <canvas id="wordCanvas" width="800" height="600"></canvas>
         </div>
     </div>
 
-    <!-- Prawa kolumna z pomocą -->
+    <!-- Prawa kolumna z pomocÄ… -->
     <div class="col-md-4">
         <div class="card">
             <div class="card-header text-center">
@@ -38,7 +38,7 @@
             </div>
             <div class="card-footer text-center">
                 <!-- Dodatkowe kontrolki lub informacje -->
-                Możesz połączyć ze sobą środki wyrażeń
+                MoĹĽesz poĹ‚Ä…czyÄ‡ ze sobÄ… Ĺ›rodki wyraĹĽeĹ„
             </div>
         </div>
     </div>
@@ -68,15 +68,15 @@ function resizeCanvas() {
         canvas.width = canvasWidth;
         canvas.height = canvasHeight;
 
-        // Aktualizuj rozmiar obszarów
+        // Aktualizuj rozmiar obszarĂłw
         const leftAreaWidth = canvasWidth / 2;
         const rightAreaWidth = canvasWidth / 2;
         const rightAreaX = canvasWidth / 2 + wordRadius;
 
-        // Zaktualizuj położenie słów
+        // Zaktualizuj poĹ‚oĹĽenie sĹ‚Ăłw
         initializeGame(pairs);
     } else {
-        alert('Wprowadź prawidłowe wartości szerokości i wysokości.');
+        alert('WprowadĹş prawidĹ‚owe wartoĹ›ci szerokoĹ›ci i wysokoĹ›ci.');
     }
 }
 
@@ -85,7 +85,7 @@ fetch('/user/get_synonim_data?game_name=Synonym Match')
     .then(data => {
         initializeGame(data[0].pairs); 
     })
-    .catch(error => console.error('Błąd:', error));
+    .catch(error => console.error('BĹ‚Ä…d:', error));
 
 const canvasWidth = canvas.width;
 const canvasHeight = canvas.height;
@@ -94,8 +94,8 @@ const leftAreaWidth = canvasWidth / 2;
 const rightAreaWidth = canvasWidth / 2;
 const leftAreaX = wordRadius;
 const rightAreaX = canvasWidth / 2 + wordRadius;
-const verticalSpacing = wordRadius * 1 + 10;  // 20 to dodatkowa przestrzeń między słowami
-const leftMargin = 30;  // Odległość słów od lewej krawędzi
+const verticalSpacing = wordRadius * 1 + 10;  // 20 to dodatkowa przestrzeĹ„ miÄ™dzy sĹ‚owami
+const leftMargin = 30;  // OdlegĹ‚oĹ›Ä‡ sĹ‚Ăłw od lewej krawÄ™dzi
 
 let words = [];
 let synonyms = [];
@@ -112,17 +112,17 @@ function isOverlapping(word1, word2) {
 }
 
 function initializeGame(pairs) {
-    // Pomieszaj kolejność par
+    // Pomieszaj kolejnoĹ›Ä‡ par
     pairs = shuffleArray(pairs);
     
     pairs.forEach((pair, index) => {
         const wordY = verticalSpacing * index + wordRadius;
         if (wordY + wordRadius > canvasHeight) {
-            console.error("Zbyt wiele par dla danego płótna.");
+            console.error("Zbyt wiele par dla danego pĹ‚Ăłtna.");
             return;
         }
 
-        // Utwórz obiekt słowa z dodatkowym marginesem
+        // UtwĂłrz obiekt sĹ‚owa z dodatkowym marginesem
         const word = {
             x: leftAreaX + leftMargin,
             y: wordY,
@@ -133,7 +133,7 @@ function initializeGame(pairs) {
         };
         words.push(word);
 
-        // Utwórz obiekt synonimu
+        // UtwĂłrz obiekt synonimu
         const synonym = {
             x: rightAreaX,
             y: wordY,
@@ -285,23 +285,23 @@ function getWordAtPosition(x, y, wordList) {
 }
 
 function drawCross(x, y, size = 10) {
-    // Rysowanie białego kółka wokół krzyżyka
-    const circleRadius = size * 0.75;  // Ustal promień białego kółka
+    // Rysowanie biaĹ‚ego kĂłĹ‚ka wokĂłĹ‚ krzyĹĽyka
+    const circleRadius = size * 0.75;  // Ustal promieĹ„ biaĹ‚ego kĂłĹ‚ka
     ctx.beginPath();
     ctx.arc(x, y, circleRadius, 0, 2 * Math.PI);
-    ctx.fillStyle = "#FFF";  // Białe kółko
+    ctx.fillStyle = "#FFF";  // BiaĹ‚e kĂłĹ‚ko
     ctx.fill();
-    ctx.strokeStyle = "#000";  // Czarny obrys kółka
+    ctx.strokeStyle = "#000";  // Czarny obrys kĂłĹ‚ka
     ctx.lineWidth = 1;
     ctx.stroke();
 
-    // Rysowanie krzyżyka
+    // Rysowanie krzyĹĽyka
     ctx.beginPath();
     ctx.moveTo(x - size / 2, y - size / 2);
     ctx.lineTo(x + size / 2, y + size / 2);
     ctx.moveTo(x + size / 2, y - size / 2);
     ctx.lineTo(x - size / 2, y + size / 2);
-    ctx.strokeStyle = "#FF0000";  // Czerwony krzyżyk
+    ctx.strokeStyle = "#FF0000";  // Czerwony krzyĹĽyk
     ctx.lineWidth = 2;
     ctx.stroke();
 }
@@ -336,11 +336,11 @@ function makeConnection(word, synonym) {
     const existingConnection = connections.find(connection => connection.word === word || connection.synonym === synonym);
 
     if (existingConnection) {
-        // Usuwamy istniejące połączenie, jeśli już istnieje
+        // Usuwamy istniejÄ…ce poĹ‚Ä…czenie, jeĹ›li juĹĽ istnieje
         connections = connections.filter(connection => connection !== existingConnection);
     }
 
-    const correct = word.pairIndex === synonym.pairIndex;  // Sprawdzamy, czy połączenie jest prawidłowe
+    const correct = word.pairIndex === synonym.pairIndex;  // Sprawdzamy, czy poĹ‚Ä…czenie jest prawidĹ‚owe
 
     connections.push({
         word: word,
@@ -406,11 +406,11 @@ canvas.addEventListener("mousedown", (e) => {
     const clickedConnection = connections.find(connection => isClickOnCross(mouseX, mouseY, connection));
 
     if (clickedConnection) {
-        // Jeśli kliknięto krzyżyk, usuń połączenie
+        // JeĹ›li klikniÄ™to krzyĹĽyk, usuĹ„ poĹ‚Ä…czenie
         connections = connections.filter(connection => connection !== clickedConnection);
         drawWords();
     } else {
-        // Sprawdź, czy kliknięto na słowo lub synonim
+        // SprawdĹş, czy klikniÄ™to na sĹ‚owo lub synonim
         const clickedWord = getWordAtPosition(mouseX, mouseY, words);
         const clickedSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
 
@@ -442,9 +442,9 @@ canvas.addEventListener("mouseup", (e) => {
         const targetSynonym = getConnectionPointAtPosition(mouseX, mouseY, synonyms);
 
         if (targetWord && synonyms.includes(currentWord)) {
-            makeConnection(targetWord, currentWord); // Połączenie od słowa do synonimu
+            makeConnection(targetWord, currentWord); // PoĹ‚Ä…czenie od sĹ‚owa do synonimu
         } else if (targetSynonym && words.includes(currentWord)) {
-            makeConnection(currentWord, targetSynonym); // Połączenie od synonimu do słowa
+            makeConnection(currentWord, targetSynonym); // PoĹ‚Ä…czenie od synonimu do sĹ‚owa
         }
 
         draggingLine = false;
@@ -457,7 +457,7 @@ function isClickOnCross(x, y, connection) {
     const wordRectWidth = ctx.measureText(connection.word.text).width + 20;
     const synonymRectWidth = ctx.measureText(connection.synonym.text).width + 20;
 
-    // Zamiast dodawać stały promień, uwzględnij szerokość tekstu i wylicz miejsce na podstawie pozycji krawędzi prostokąta
+    // Zamiast dodawaÄ‡ staĹ‚y promieĹ„, uwzglÄ™dnij szerokoĹ›Ä‡ tekstu i wylicz miejsce na podstawie pozycji krawÄ™dzi prostokÄ…ta
     const midX = (connection.word.x + wordRectWidth / 2 + connection.synonym.x - synonymRectWidth / 2) / 2;
     const midY = (connection.word.y + connection.synonym.y) / 2;
 
@@ -465,7 +465,7 @@ function isClickOnCross(x, y, connection) {
     const dy = y - midY;
     const distance = Math.sqrt(dx * dx + dy * dy);
 
-    // Zwracamy true, jeśli kliknięto blisko krzyżyka (np. w promieniu 15px)
+    // Zwracamy true, jeĹ›li klikniÄ™to blisko krzyĹĽyka (np. w promieniu 15px)
     return distance < 15;
 }
 

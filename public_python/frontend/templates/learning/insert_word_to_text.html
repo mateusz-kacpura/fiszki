@@ -7,11 +7,11 @@
 <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
 
 <div class="row justify-content-center">
-    <!-- Lewa kolumna z kartą i wyborem słów -->
+    <!-- Lewa kolumna z kartÄ… i wyborem sĹ‚Ăłw -->
     <div class="col-md-8">
         <div class="card">
             <div class="card-header text-center">
-                <h2 class="card-title">Wybierz odpowiednie słowa i przeciągnij je na właściwe miejsce</h2>
+                <h2 class="card-title">Wybierz odpowiednie sĹ‚owa i przeciÄ…gnij je na wĹ‚aĹ›ciwe miejsce</h2>
             </div>
             <div class="card-body">
                 <p id="text-with-blanks"></p>
@@ -20,17 +20,17 @@
         </div>
     </div>
 
-    <!-- Prawa kolumna z historią tłumaczeń -->
+    <!-- Prawa kolumna z historiÄ… tĹ‚umaczeĹ„ -->
     <div class="col-md-4">
         <div class="card">
             <div class="card-header text-center">
-                <h2 class="card-title">Historia tłumaczeń</h2>
+                <h2 class="card-title">Historia tĹ‚umaczeĹ„</h2>
             </div>
             <div class="card-body">
-                <ul id="translation-history"></ul> <!-- Tutaj będzie wyświetlana historia tłumaczeń -->
-                <button id="clear-history" class="btn btn-sm btn-danger mt-3">Wyczyść historię</button>
-                <button id="save-history-to-file" class="btn btn-sm btn-success mt-3">Zapisz historię</button>
-                <button id="load-history-from-file" class="btn btn-sm btn-primary mt-3">Wczytaj historię</button>
+                <ul id="translation-history"></ul> <!-- Tutaj bÄ™dzie wyĹ›wietlana historia tĹ‚umaczeĹ„ -->
+                <button id="clear-history" class="btn btn-sm btn-danger mt-3">WyczyĹ›Ä‡ historiÄ™</button>
+                <button id="save-history-to-file" class="btn btn-sm btn-success mt-3">Zapisz historiÄ™</button>
+                <button id="load-history-from-file" class="btn btn-sm btn-primary mt-3">Wczytaj historiÄ™</button>
             </div>
             <div class="card-footer text-center">
             <p class="m-0">ENTER = save changes </p>
@@ -41,7 +41,7 @@
     <!-- Karta do wyboru tekstu -->
     <div class="card mb-3">
         <div class="card-header text-center">
-            <h2 class="card-title">Wybierz tekst do załadowania</h2>
+            <h2 class="card-title">Wybierz tekst do zaĹ‚adowania</h2>
         </div>
         <div class="card-body">
             <div>
@@ -55,7 +55,7 @@
                 <ul id="textList" class="list-group"></ul>
                 <div class="pagination-controls">
                     <button id="prevPage" onclick="prevPage()">Poprzednia strona</button>
-                    <button id="nextPage" onclick="nextPage()">Następna strona</button>
+                    <button id="nextPage" onclick="nextPage()">NastÄ™pna strona</button>
                 </div>                
             </div>            
         </div>
@@ -93,7 +93,7 @@ let currentPage = 1;
 let totalPages = 1;
 let allTexts = [];
 
-// Funkcja do wyświetlania alertów
+// Funkcja do wyĹ›wietlania alertĂłw
 function showAlert(message, type = 'success') {
     const alertContainer = document.getElementById('alert-container');
     const alert = document.createElement('div');
@@ -101,7 +101,7 @@ function showAlert(message, type = 'success') {
     alert.innerText = message;
     alertContainer.appendChild(alert);
 
-    // Usunięcie alertu po 3 sekundach
+    // UsuniÄ™cie alertu po 3 sekundach
     setTimeout(() => {
         alert.remove();
     }, 3000);
@@ -121,37 +121,37 @@ function showAlertOnceInInterval(message, type) {
 
 /////////////////////////////////////////////////
 
-// #        LOGIKA WCZYTYWANIA TEKSTÓW        #//
+// #        LOGIKA WCZYTYWANIA TEKSTĂ“W        #//
 
 /////////////////////////////////////////////////
 
-// Główna funkcja inicjalizująca aplikację
+// GĹ‚Ăłwna funkcja inicjalizujÄ…ca aplikacjÄ™
 document.addEventListener('DOMContentLoaded', () => {
     decideWhichTextToLoad();
 });
 
-// Pobranie tekstów z serwera z uwzględnieniem limitu i wyszukiwania
+// Pobranie tekstĂłw z serwera z uwzglÄ™dnieniem limitu i wyszukiwania
 function decideWhichTextToLoad() {
     const limit = document.getElementById('textLimit').value || 10;
     const searchQuery = document.getElementById('searchInput').value || '';
     const tagQuery = document.getElementById('tagInput').value || '';
 
-    fetch(`/user/get_text_data?limit=${limit}&page=${currentPage}&search=${searchQuery}&tag=${tagQuery}`)
+    fetch(`/user/get_texts_for_insert_words_to_text?limit=${limit}&page=${currentPage}&search=${searchQuery}&tag=${tagQuery}`)
         .then(response => response.json())
         .then(data => {
             allTexts = data.text_names;
-            totalPages = data.total_pages; // Załóżmy, że serwer zwraca też liczbę stron
+            totalPages = data.total_pages; // ZaĹ‚ĂłĹĽmy, ĹĽe serwer zwraca teĹĽ liczbÄ™ stron
             populateTextList(allTexts);
-            updatePaginationControls(); // Funkcja aktualizująca przyciski paginacji
-            showAlert('Lista tekstów została załadowana!', 'success');
+            updatePaginationControls(); // Funkcja aktualizujÄ…ca przyciski paginacji
+            showAlert('Lista tekstĂłw zostaĹ‚a zaĹ‚adowana!', 'success');
         })
         .catch(error => {
-            console.error('Błąd przy pobieraniu listy tekstów:', error);
-            showAlert('Błąd przy pobieraniu listy tekstów.', 'danger');
+            console.error('BĹ‚Ä…d przy pobieraniu listy tekstĂłw:', error);
+            showAlert('BĹ‚Ä…d przy pobieraniu listy tekstĂłw.', 'danger');
         });
 }
 
-// Funkcja generująca listę tekstów
+// Funkcja generujÄ…ca listÄ™ tekstĂłw
 function populateTextList(textNames) {
     const textList = document.getElementById('textList');
     textList.innerHTML = ''; // Czyszczenie listy
@@ -162,7 +162,7 @@ function populateTextList(textNames) {
     });
 }
 
-// Funkcja tworząca element listy tekstów
+// Funkcja tworzÄ…ca element listy tekstĂłw
 function createTextListItem(text) {
     const listItem = document.createElement('li');
     listItem.className = 'list-group-item';
@@ -194,7 +194,7 @@ function prevPage() {
     }
 }
 
-// Filtrowanie tekstów po nazwie
+// Filtrowanie tekstĂłw po nazwie
 function filterTextsByName() {
     currentPage = 1;
     const query = document.getElementById('searchInput').value.toLowerCase();
@@ -209,29 +209,29 @@ function filterTextsByTag() {
 
 /////////////////////////////////////////////////
 
-// #        LOGIKA WYŚWIETLANIA TEKSTU        #//
+// #        LOGIKA WYĹšWIETLANIA TEKSTU        #//
 
 /////////////////////////////////////////////////
 
-// Funkcja pobierająca i wyświetlająca wybrany tekst
+// Funkcja pobierajÄ…ca i wyĹ›wietlajÄ…ca wybrany tekst
 function fetchAndLoadText(textName) {
     selectedWords = [];
     wordCount = "";
 
-    // Usunięcie podświetlenia z poprzednio aktywnego elementu
+    // UsuniÄ™cie podĹ›wietlenia z poprzednio aktywnego elementu
     const previousActiveItem = document.querySelector('.list-group-item.active-text');
     if (previousActiveItem) {
         previousActiveItem.classList.remove('active-text');
     }
 
-    // Znalezienie klikniętego elementu listy na podstawie nazwy tekstu i dodanie klasy podświetlenia
+    // Znalezienie klikniÄ™tego elementu listy na podstawie nazwy tekstu i dodanie klasy podĹ›wietlenia
     const activeItem = document.querySelector(`li[data-name="${textName}"]`);
     if (activeItem) {
         activeItem.classList.add('active-text');
     }
 
     if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;} // if exist actionBubble in html remove from html
-    fetch(`/user/get_text_data_name?name=${encodeURIComponent(textName)}`)
+    fetch(`/user/get_texts_data_for_insert_fot_text?name=${encodeURIComponent(textName)}`)
         .then(response => response.json())
         .then(data => {
             const textData = data.texts[0];
@@ -239,16 +239,16 @@ function fetchAndLoadText(textName) {
             const fullTextHtml = generateTextHtml(textData);
             selectedTextName = textName
             updateTextContainer(fullTextHtml); // Aktualizacja kontenera z tekstem
-            initializeWordContainer(wordCount); // Inicjalizacja kontenera z rozsypanką słów
-            showAlert(`Tekst: "${textName}" został załadowany!`, 'success');
+            initializeWordContainer(wordCount); // Inicjalizacja kontenera z rozsypankÄ… sĹ‚Ăłw
+            showAlert(`Tekst: "${textName}" zostaĹ‚ zaĹ‚adowany!`, 'success');
         })
         .catch(error => {
-            console.error('Błąd przy pobieraniu tekstu:', error);
-            showAlert('Błąd przy wczytywaniu tekstu.', 'danger');
+            console.error('BĹ‚Ä…d przy pobieraniu tekstu:', error);
+            showAlert('BĹ‚Ä…d przy wczytywaniu tekstu.', 'danger');
         });
 }
 
-// Funkcja obliczająca ilość brakujących słów
+// Funkcja obliczajÄ…ca iloĹ›Ä‡ brakujÄ…cych sĹ‚Ăłw
 function calculateWordCount(textData) {
     return textData.sentences.reduce((count, sentence) => {
         sentence.missing_words.forEach(missingWord => {
@@ -259,9 +259,9 @@ function calculateWordCount(textData) {
     }, {});
 }
 
-// Funkcja generująca HTML dla całego tekstu
+// Funkcja generujÄ…ca HTML dla caĹ‚ego tekstu
 function generateTextHtml(textData) {
-    let bufforMissingWord = null; // Używamy null do sprawdzenia, czy brakujące słowo zmieniło się
+    let bufforMissingWord = null; // UĹĽywamy null do sprawdzenia, czy brakujÄ…ce sĹ‚owo zmieniĹ‚o siÄ™
 
     return textData.sentences.map((sentence, sentenceIndex) => {
         return sentence.english.split(' ').map((word, positionIndex) => {
@@ -273,9 +273,9 @@ function generateTextHtml(textData) {
             });
 
             if (missingWord && (bufforMissingWord === null || bufforMissingWord.word !== missingWord.word)) {
-                // Jeżeli brakujące słowo się zmieniło
+                // JeĹĽeli brakujÄ…ce sĹ‚owo siÄ™ zmieniĹ‚o
                 if (bufforMissingWord !== null) {
-                    // Dodaj HTML dla poprzedniego brakującego słowa, jeżeli istnieje
+                    // Dodaj HTML dla poprzedniego brakujÄ…cego sĹ‚owa, jeĹĽeli istnieje
                     const missingWordLength = bufforMissingWord.word.split(' ').length;
                     positionIndex += missingWordLength - 1;
                 }
@@ -292,17 +292,17 @@ function generateTextHtml(textData) {
                 return `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button>`;
             }
 
-            return ''; // Jeśli słowo jest częścią brakującego słowa, nie generujemy HTML dla niego
+            return ''; // JeĹ›li sĹ‚owo jest czÄ™Ĺ›ciÄ… brakujÄ…cego sĹ‚owa, nie generujemy HTML dla niego
         }).join(' ');
     }).join(' ');
 }
 
-// Funkcja aktualizująca zawartość kontenera z tekstem
+// Funkcja aktualizujÄ…ca zawartoĹ›Ä‡ kontenera z tekstem
 function updateTextContainer(html) {
     textContainer.innerHTML = html;
 }
 
-// Funkcja inicjalizująca kontener z rozsypanką słów
+// Funkcja inicjalizujÄ…ca kontener z rozsypankÄ… sĹ‚Ăłw
 function initializeWordContainer(wordCount) {
     const usedWords = new Set();
     updateWordContainer(wordCount, usedWords);
@@ -310,10 +310,10 @@ function initializeWordContainer(wordCount) {
     function updateWordContainer(wordCount, usedWords) {
         wordContainer.innerHTML = ''; // Czyszczenie kontenera
         const words = shuffleArray(getAvailableWords(wordCount, usedWords));
-        words.forEach(createDraggableWord); // Tworzenie słów do przeciągania
+        words.forEach(createDraggableWord); // Tworzenie sĹ‚Ăłw do przeciÄ…gania
     }
 
-    // Funkcja zwracająca dostępne słowa
+    // Funkcja zwracajÄ…ca dostÄ™pne sĹ‚owa
     function getAvailableWords(wordCount, usedWords) {
         let words = [];
         Object.keys(wordCount).forEach(word => {
@@ -335,7 +335,7 @@ function initializeWordContainer(wordCount) {
         return array;
     }
 
-    // Funkcja tworząca elementy słów do przeciągania
+    // Funkcja tworzÄ…ca elementy sĹ‚Ăłw do przeciÄ…gania
     function createDraggableWord(word) {
         const wordElement = document.createElement('div');
         wordElement.classList.add('image-option');
@@ -348,11 +348,11 @@ function initializeWordContainer(wordCount) {
 
 /////////////////////////////////////////////////
 
-// #    LOGIKA WSTAWIANIA SŁÓW W PUSTE POLA   #//
+// #    LOGIKA WSTAWIANIA SĹĂ“W W PUSTE POLA   #//
 
 /////////////////////////////////////////////////
 
-// Obsługa zaznaczania i odznaczania słów
+// ObsĹ‚uga zaznaczania i odznaczania sĹ‚Ăłw
 textContainer.addEventListener('mousedown', function(event) {
     if (event.target.classList.contains('word-button')) {
         isMouseDown = true;
@@ -382,12 +382,12 @@ document.addEventListener('mouseup', function() {
 let lastSelectedIndex = -1; // Przechowuje ostatni zaznaczony indeks
 
 function toggleSelection(element) {
-    const word = element.dataset.word; // Pobieramy słowo z atrybutu data
-    const wordIndex = element.dataset.index; // Pobieramy indeks słowa
+    const word = element.dataset.word; // Pobieramy sĹ‚owo z atrybutu data
+    const wordIndex = element.dataset.index; // Pobieramy indeks sĹ‚owa
 
     const [sentenceIndex, positionIndex] = wordIndex.split('-').map(Number);
 
-    // Sprawdzamy, czy element jest już zaznaczony (usuwanie zaznaczenia)
+    // Sprawdzamy, czy element jest juĹĽ zaznaczony (usuwanie zaznaczenia)
     if (element.classList.contains('selected')) {
         element.classList.remove('selected');
         selectedWords = selectedWords.filter(selectedWord => selectedWord !== word);
@@ -395,7 +395,7 @@ function toggleSelection(element) {
         return;
     }
 
-    // Jeśli nie ma zaznaczonych słów, zaznacz pierwsze słowo
+    // JeĹ›li nie ma zaznaczonych sĹ‚Ăłw, zaznacz pierwsze sĹ‚owo
     if (selectedWords.length === 0) {
         element.classList.add('selected');
         selectedWords.push(word);
@@ -405,9 +405,9 @@ function toggleSelection(element) {
 
     const [lastSentenceIndex, lastPositionIndex] = lastSelectedIndex.split('-').map(Number);
 
-    // Sprawdzenie, czy bieżący indeks jest poprawną kontynuacją zaznaczenia
+    // Sprawdzenie, czy bieĹĽÄ…cy indeks jest poprawnÄ… kontynuacjÄ… zaznaczenia
     if (sentenceIndex === lastSentenceIndex && positionIndex >= lastPositionIndex) {
-        // Zaznaczenie wszystkich słów między ostatnim zaznaczonym a bieżącym
+        // Zaznaczenie wszystkich sĹ‚Ăłw miÄ™dzy ostatnim zaznaczonym a bieĹĽÄ…cym
         const buttons = [...textContainer.querySelectorAll('.word-button')];
         const startIndex = buttons.findIndex(btn => btn.dataset.index === lastSelectedIndex);
         const endIndex = buttons.findIndex(btn => btn.dataset.index === wordIndex);
@@ -421,9 +421,9 @@ function toggleSelection(element) {
         }
 
         lastSelectedIndex = wordIndex;
-        selectedWords = [selectedWords.join(' ')]; // Łączymy słowa w jedną frazę
+        selectedWords = [selectedWords.join(' ')]; // ĹÄ…czymy sĹ‚owa w jednÄ… frazÄ™
     } else {
-        showAlert("Słowa muszą być zaznaczane po kolei!", 'warning');
+        showAlert("SĹ‚owa muszÄ… byÄ‡ zaznaczane po kolei!", 'warning');
     }
 
     if (selectedWords.length === 0 && actionBubble) {
@@ -431,7 +431,7 @@ function toggleSelection(element) {
     }
 }
 
-// Obsługa przeciągania i upuszczania
+// ObsĹ‚uga przeciÄ…gania i upuszczania
 function allowDrop(event) {
     event.preventDefault();
 }
@@ -459,7 +459,7 @@ function drop(event) {
     }
 }
 
-// Obsługa urządzeń dotykowych (mobile)
+// ObsĹ‚uga urzÄ…dzeĹ„ dotykowych (mobile)
 textContainer.addEventListener('touchstart', function(event) {
     if (event.target.classList.contains('word-button')) {
         toggleSelection(event.target);
@@ -487,7 +487,7 @@ document.addEventListener('drop', drop);
 
 /////////////////////////////////////////////////
 
-// #     LOGIKA DYMKA ZAZNACZANIA SŁÓWAEK     #//
+// #     LOGIKA DYMKA ZAZNACZANIA SĹĂ“WAEK     #//
 
 /////////////////////////////////////////////////
 
@@ -517,9 +517,9 @@ function createActionBubble() {
     actionBubble.style.backgroundColor = '#fff';
     actionBubble.style.boxShadow = '0px 2px 5px rgba(0,0,0,0.2)';
     actionBubble.innerHTML = `
-        <button id="translateButton">Tłumacz</button>
-        <button id="selectSentenceButton">Zaznacz całe zdanie</button>
-        <button id="clearSelectionButton">Usuń zaznaczenie</button>
+        <button id="translateButton">TĹ‚umacz</button>
+        <button id="selectSentenceButton">Zaznacz caĹ‚e zdanie</button>
+        <button id="clearSelectionButton">UsuĹ„ zaznaczenie</button>
         <button id="translateButtonGoogle">Google API</button>
     `;
     document.body.appendChild(actionBubble);
@@ -537,7 +537,7 @@ function handleTranslate() {
     const textToTranslate = selectedWords.join(' ');
 
     // Wykonywanie fetch do API
-    fetch('/user/translate', {
+    fetch('/user/model_fb_translate', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -549,22 +549,22 @@ function handleTranslate() {
         if (data.translatedText) {
             updateTranslationHistory(textToTranslate, data.translatedText);
         } else {
-            showAlert('Brak tłumaczenia', 'warning');
+            showAlert('Brak tĹ‚umaczenia', 'warning');
         }
         actionBubble.style.display = 'none';
     })
     .catch(error => {
         console.error('Error:', error);
-        showAlert('Brak tłumaczenia', 'warning');
+        showAlert('Brak tĹ‚umaczenia', 'warning');
         actionBubble.style.display = 'none';
     });
 }
 
 async function handleGoogleTranslate() {
     console.log("selectedWords", selectedWords);
-    const translatedText = await translateText(selectedWords, 'pl'); // Przetłumaczenie na polski
+    const translatedText = await translateText(selectedWords, 'pl'); // PrzetĹ‚umaczenie na polski
     console.log("const translatedText", translatedText);
-    updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tłumaczeń
+    updateTranslationHistory(selectedWords, translatedText); // Aktualizacja historii tĹ‚umaczeĹ„
 }
 
 function updateBubblePosition(x, y) {
@@ -573,11 +573,11 @@ function updateBubblePosition(x, y) {
     actionBubble.style.display = 'block';
 }
 
-// Zbieranie zdania z zaznaczonych słów
+// Zbieranie zdania z zaznaczonych sĹ‚Ăłw
 function selectEntireSentence() {
     const firstSelectedWord = document.querySelector('.selected');
     if (firstSelectedWord) {
-        // Znajdź najbliższy element .word-button, aby określić początek zdania
+        // ZnajdĹş najbliĹĽszy element .word-button, aby okreĹ›liÄ‡ poczÄ…tek zdania
         const sentenceElement = firstSelectedWord.closest('.card-body').querySelectorAll('.word-button');
 
         if (sentenceElement) {
@@ -585,7 +585,7 @@ function selectEntireSentence() {
             let selectedSentence = [];
 
             if (startIndex !== -1) {
-                // Zaznacz całe zdanie od początkowego do końcowego indeksu
+                // Zaznacz caĹ‚e zdanie od poczÄ…tkowego do koĹ„cowego indeksu
                 for (let i = startIndex; i < sentenceElement.length; i++) {
                     const wordElement = sentenceElement[i];
                     if (wordElement.dataset.index.split('-')[0] !== firstSelectedWord.dataset.index.split('-')[0]) {
@@ -595,24 +595,24 @@ function selectEntireSentence() {
                     selectedSentence.push(wordElement.dataset.word);
                 }
 
-                // Złóż zdanie z zaznaczonych słów
+                // ZĹ‚ĂłĹĽ zdanie z zaznaczonych sĹ‚Ăłw
                 let sentenceString = selectedSentence.join(' ');
 
-                // Szukaj, czy nowe zdanie zawiera się w już istniejących, lub je rozszerza
+                // Szukaj, czy nowe zdanie zawiera siÄ™ w juĹĽ istniejÄ…cych, lub je rozszerza
                 let wasUpdated = false;
                 selectedWords = selectedWords.map(existingSentence => {
-                    // Jeśli istnieje już fragment nowego zdania w istniejącym
+                    // JeĹ›li istnieje juĹĽ fragment nowego zdania w istniejÄ…cym
                     if (sentenceString.startsWith(existingSentence)) {
-                        // Dodajemy brakującą część do istniejącego zdania
+                        // Dodajemy brakujÄ…cÄ… czÄ™Ĺ›Ä‡ do istniejÄ…cego zdania
                         wasUpdated = true;
                         return existingSentence.split(' ')[0] + sentenceString.slice(existingSentence.length);
                     } else if (existingSentence.startsWith(sentenceString)) {
-                        // Jeśli całe nowe zdanie jest już częścią istniejącego, nic nie robimy
+                        // JeĹ›li caĹ‚e nowe zdanie jest juĹĽ czÄ™Ĺ›ciÄ… istniejÄ…cego, nic nie robimy
                         wasUpdated = true;
                         return existingSentence;
                     }
                 });
-                // Jeśli zdanie nie zostało dodane ani rozszerzone, dodaj nowe zdanie
+                // JeĹ›li zdanie nie zostaĹ‚o dodane ani rozszerzone, dodaj nowe zdanie
                 if (!wasUpdated) {
                     selectedWords.push(sentenceString);
                 }
@@ -622,7 +622,7 @@ function selectEntireSentence() {
 }
 
 function clearSelections() {
-    // Funkcja do usuwania wszystkich zaznaczeń
+    // Funkcja do usuwania wszystkich zaznaczeĹ„
     document.querySelectorAll('.selected').forEach(word => {
         word.classList.remove('selected');
     });
@@ -633,7 +633,7 @@ function clearSelections() {
 
 /////////////////////////////////////////////////
 
-// #       CZĘŚĆ ZARZĄDZANIA HISTORIĄ        #//
+// #       CZÄĹšÄ† ZARZÄ„DZANIA HISTORIÄ„        #//
 
 /////////////////////////////////////////////////
 
@@ -649,12 +649,12 @@ document.getElementById('save-history-to-file').addEventListener('click', functi
             "originalText": originalText,
             "translatedText": translatedText,
             "metadata": {
-                "translationSource": "manual"  // Wartość domyślna, można zmienić
+                "translationSource": "manual"  // WartoĹ›Ä‡ domyĹ›lna, moĹĽna zmieniÄ‡
             }
         });
     });
 
-    fetch('/user/save_history_translation?name=' + encodeURIComponent(selectedTextName), {
+    fetch('/user/save_history_translations_for_insert_words_to_text?name=' + encodeURIComponent(selectedTextName), {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -664,34 +664,34 @@ document.getElementById('save-history-to-file').addEventListener('click', functi
     .then(response => response.json())
     .then(data => {
         console.log('Success:', data);
-        showAlert('Historia tłumaczeń została pomyślnie zapisana.', 'success');
+        showAlert('Historia tĹ‚umaczeĹ„ zostaĹ‚a pomyĹ›lnie zapisana.', 'success');
     })
     .catch((error) => {
         console.error('Error:', error);
     });
 });
 
-// Obsługa przycisku wczytywania historii z pliku
+// ObsĹ‚uga przycisku wczytywania historii z pliku
 document.getElementById('load-history-from-file').addEventListener('click', function() {
     console.log(selectedTextName)
-    fetch('/user/load_translation_history_from_file?name=' + encodeURIComponent(selectedTextName))
+    fetch('/user/load_translation_history_for_insert_wors_to_text?name=' + encodeURIComponent(selectedTextName))
         .then(response => response.json())
         .then(data => {
             const translationHistory = document.getElementById('translation-history');
-            translationHistory.innerHTML = '';  // Wyczyść obecne elementy listy
+            translationHistory.innerHTML = '';  // WyczyĹ›Ä‡ obecne elementy listy
 
             if (data.translations && data.translations.length > 0) {
                 data.translations.forEach(function(translation) {
                     updateTranslationHistory(translation.originalText, translation.translatedText);
                 });
-                showAlert('Historia tłumaczeń została pomyślnie wczytana.', 'success');
+                showAlert('Historia tĹ‚umaczeĹ„ zostaĹ‚a pomyĹ›lnie wczytana.', 'success');
             } else {
-                showAlert('Brak zapisanych tłumaczeń dla wybranego pliku.', 'warning');
+                showAlert('Brak zapisanych tĹ‚umaczeĹ„ dla wybranego pliku.', 'warning');
             }
         })
         .catch((error) => {
             console.error('Error:', error);
-            showAlert('Wystąpił błąd podczas wczytywania historii tłumaczeń.', 'danger');
+            showAlert('WystÄ…piĹ‚ bĹ‚Ä…d podczas wczytywania historii tĹ‚umaczeĹ„.', 'danger');
         });
 });
 
@@ -703,34 +703,34 @@ async function translateText(text, targetLang = 'en') {
     try {
         const response = await fetch(url);
         const data = await response.json();
-        showAlert('Tłumaczenie wykonane pomyślnie');
-        return data[0][0][0];  // Zwracany przetłumaczony tekst
+        showAlert('TĹ‚umaczenie wykonane pomyĹ›lnie');
+        return data[0][0][0];  // Zwracany przetĹ‚umaczony tekst
     } catch (error) {
-        console.error('Błąd tłumaczenia:', error);
-        showAlert('Błąd tłumaczenia', 'danger');
-        return 'Błąd tłumaczenia';
+        console.error('BĹ‚Ä…d tĹ‚umaczenia:', error);
+        showAlert('BĹ‚Ä…d tĹ‚umaczenia', 'danger');
+        return 'BĹ‚Ä…d tĹ‚umaczenia';
     }
 }
 
-// Funkcja tworząca nowy wpis historii tłumaczeń
+// Funkcja tworzÄ…ca nowy wpis historii tĹ‚umaczeĹ„
 function createNewHistoryEntry(originalText, translatedText) {
     const newEntry = document.createElement('li');
     newEntry.innerHTML = `
         <span class="editable">${originalText} - ${translatedText}</span>
-        <button class="delete-btn btn btn-sm btn-danger ml-2">Usuń</button>
-        <button class="retranslate-btn btn btn-sm btn-primary ml-2">Tłumacz google</button>
+        <button class="delete-btn btn btn-sm btn-danger ml-2">UsuĹ„</button>
+        <button class="retranslate-btn btn btn-sm btn-primary ml-2">TĹ‚umacz google</button>
     `;
     return newEntry;
 }
 
-// Funkcja dodająca wpis do historii
+// Funkcja dodajÄ…ca wpis do historii
 function addEntryToHistory(newEntry) {
     const historyList = document.getElementById('translation-history');
     historyList.appendChild(newEntry);
-    //showAlert('Dodano nowe tłumaczenie');
+    //showAlert('Dodano nowe tĹ‚umaczenie');
 }
 
-// Funkcja obsługująca edytowanie wpisu
+// Funkcja obsĹ‚ugujÄ…ca edytowanie wpisu
 function enableEditing(editableSpan) {
     editableSpan.addEventListener('click', function () {
         if (!this.isContentEditable) {
@@ -752,26 +752,26 @@ function enableEditing(editableSpan) {
     });
 }
 
-// Funkcja obsługująca usuwanie wpisu
+// Funkcja obsĹ‚ugujÄ…ca usuwanie wpisu
 function enableDeletion(deleteButton, newEntry) {
     const historyList = document.getElementById('translation-history');
     deleteButton.addEventListener('click', function() {
         historyList.removeChild(newEntry);
-        showAlert('Usunięto tłumaczenie', 'info');
+        showAlert('UsuniÄ™to tĹ‚umaczenie', 'info');
     });
 }
 
-// Funkcja obsługująca ponowne tłumaczenie
+// Funkcja obsĹ‚ugujÄ…ca ponowne tĹ‚umaczenie
 function enableRetranslation(retranslateButton, originalText, editableSpan) {
     retranslateButton.addEventListener('click', async function() {
         console.log("originalText", originalText)
-        const newTranslation = await translateText(originalText, 'pl'); // Tłumaczenie na polski
+        const newTranslation = await translateText(originalText, 'pl'); // TĹ‚umaczenie na polski
         editableSpan.innerText = `${originalText} - ${newTranslation}`;
-        showAlert('Zaktualizowano tłumaczenie przez Google');
+        showAlert('Zaktualizowano tĹ‚umaczenie przez Google');
     });
 }
 
-// Główna funkcja aktualizująca historię tłumaczeń
+// GĹ‚Ăłwna funkcja aktualizujÄ…ca historiÄ™ tĹ‚umaczeĹ„
 function updateTranslationHistory(originalText, translatedText) {
     const newEntry = createNewHistoryEntry(originalText, translatedText);
     addEntryToHistory(newEntry);
@@ -784,15 +784,15 @@ function updateTranslationHistory(originalText, translatedText) {
     enableDeletion(deleteButton, newEntry);
     enableRetranslation(retranslateButton, originalText, editableSpan);
 
-    // Wyświetl powiadomienie o dodaniu nowego wpisu do historii
-    showAlertOnceInInterval('Nowe wpisy do historii tłumaczeń zostały dodane.', 'success');
+    // WyĹ›wietl powiadomienie o dodaniu nowego wpisu do historii
+    showAlertOnceInInterval('Nowe wpisy do historii tĹ‚umaczeĹ„ zostaĹ‚y dodane.', 'success');
 }
 
-// Funkcja czyszczenia całej historii
+// Funkcja czyszczenia caĹ‚ej historii
 document.getElementById('clear-history').addEventListener('click', function() {
     const historyList = document.getElementById('translation-history');
     historyList.innerHTML = ''; // Usuwa wszystkie elementy
-    showAlert('Wyczyszczono całą historię', 'warning');
+    showAlert('Wyczyszczono caĹ‚Ä… historiÄ™', 'warning');
 });
 
 </script>

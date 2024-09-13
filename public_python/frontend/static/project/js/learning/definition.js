@@ -79,7 +79,7 @@ function checkAnswer(selectedWord) {
 
 function fetchTranslation(text) {
     console.log(text)
-    const url = '/translate'; // Flask API URL
+    const url = '/model_fb_translate'; // Flask API URL
 
     return fetch(url, {
         method: 'POST',
@@ -114,7 +114,7 @@ function showResultInModal(correct, translation, selectedWord) {
     const theme = document.body.classList.contains('bg-dark') ? 'dark' : 'light'; // Adjust theme check if needed
     currentWordData.word 
     // Fetch modal HTML from server
-    fetch(`/user/modals/definition-pop-up?word=${encodeURIComponent(currentWordData.word)}&selectedWord=${encodeURIComponent(selectedWord)}&resultMessage=${encodeURIComponent(resultMessage)}&translation=${encodeURIComponent(translation)}&definition=${encodeURIComponent(currentWordData.definition)}&theme=${encodeURIComponent(theme)}`)
+    fetch(`/user/modals/modal_pop_up_for_definition_learning?word=${encodeURIComponent(currentWordData.word)}&selectedWord=${encodeURIComponent(selectedWord)}&resultMessage=${encodeURIComponent(resultMessage)}&translation=${encodeURIComponent(translation)}&definition=${encodeURIComponent(currentWordData.definition)}&theme=${encodeURIComponent(theme)}`)
         .then(response => response.json())
         .then(data => {
             if (data.error) {

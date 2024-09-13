@@ -100,7 +100,7 @@ function checkTranslation(userTranslation, correctTranslation) {
   const isCorrect = userTranslation.toLowerCase() === correctTranslation.toLowerCase();
 
   // Load modal content from the Flask endpoint
-  fetch(`/user/modals/multi-pop-up?userTranslation=${userTranslation}&correctTranslation=${correctTranslation}&theme=${theme}`)
+  fetch(`/user/modals/modal_pop_up_for_multi_learning?userTranslation=${userTranslation}&correctTranslation=${correctTranslation}&theme=${theme}`)
       .then(response => response.json())
       .then(data => {
           const modalHTML = data.modal_html;
@@ -149,7 +149,7 @@ function toggleDirection() {
 }
 
 function fetchExcludedWords() {
-  fetch('user/api/setting/excludedWords.json')
+  fetch('baza_danych/setting/excludedWords.json')
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok');

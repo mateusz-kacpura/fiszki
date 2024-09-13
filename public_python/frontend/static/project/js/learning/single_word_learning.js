@@ -52,10 +52,10 @@ function checkTranslation() {
     const userTranslation = document.getElementById('translation').value.trim();
     const wordElement = document.getElementById('word');
     
-    // Pobierz tylko tekst słowa (bez dodatkowego HTML)
+    // Pobierz tylko tekst sĹ‚owa (bez dodatkowego HTML)
     const currentWord = wordElement.querySelector('.word-to-translate').textContent.trim();
   
-    // Znajdź poprawne tłumaczenie
+    // ZnajdĹş poprawne tĹ‚umaczenie
     const wordObject = reverseDirection ? 
       words.find(word => word.translation === currentWord) :
       words.find(word => word.word === currentWord);
