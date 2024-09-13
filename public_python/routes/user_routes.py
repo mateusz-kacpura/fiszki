@@ -222,6 +222,47 @@ def audio_files(filename):
 @user_route.route('/get_text_data')
 @login_required
 def get_text_data():
+    name = request.args.get('search')  # Pobieranie parametru 'search' z zapytania
+    tag = request.args.get('tag')  # Pobieranie parametru 'tag' z zapytania
+    limit = int(request.args.get('limit', 10))  # Pobieranie limitu (domyślnie 10)
+    page = int(request.args.get('page', 1))  # Pobieranie numeru strony (domyślnie 1)
+
+    # Wczytanie danych z pliku JSON
+    with open('baza_danych/user_datas/test/insert_word.json', encoding='utf-8') as f:
+        text_data = json.load(f)
+    
+    # Filtrowanie po nazwie tekstu (jeśli podano)
+    filtered_texts = text_data["texts"]
+    if name:
+        filtered_texts = [text for text in filtered_texts if "name" in text and name.lower() in text["name"].lower()]
+
+    # Filtrowanie po tagu (jeśli podano)
+    if tag:
+        filtered_texts = [text for text in filtered_texts if "tag" in text and tag.lower() in text.get("tag", "").lower()]
+
+    # Obliczenie całkowitej liczby stron
+    total_items = len(filtered_texts)
+    total_pages = (total_items + limit - 1) // limit  # Zaokrąglenie w górę do pełnej strony
+
+    # Zastosowanie paginacji
+    start_index = (page - 1) * limit
+    end_index = start_index + limit
+    paginated_texts = filtered_texts[start_index:end_index]
+
+    # Przygotowanie danych do zwrócenia
+    text_names = [{"name": text.get("name", "Brak nazwy"), 
+                   "uuid": text.get("uuid", "Brak UUID"), 
+                   "tag": text.get("tag", "")} for text in paginated_texts]
+
+    return jsonify({
+        "text_names": text_names,
+        "total_pages": total_pages,
+        "current_page": page
+    })
+
+@user_route.route('/get_text_data_name')
+@login_required
+def get_text_data_nme():
     name = request.args.get('name')  # Pobieranie parametru 'name' z zapytania
     with open('baza_danych/user_datas/test/insert_word.json', encoding='utf-8') as f:
         text_data = json.load(f)

@@ -3,6 +3,7 @@
        {
           "uuid":"123e4567-e89b-12d3-a456-426614174000",
           "name":"homeless",
+          "tag": "",
           "sentences":[
              {
                 "english":"Anyone who has lost their permanent accommodation is classified in the UK as homeless.",
@@ -154,7 +155,7 @@
         {
             "uuid": "34.1",
             "name": "Statistical terms sentences",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "The six subjects who took the test scored 24, 22, 16, 16, 16 and 14 points out of 30. The mean score was 18. The median score was 19 and the range of scores was 10.",
                     "polish": "Sześciu uczestników, którzy przystąpili do testu, uzyskało wyniki 24, 22, 16, 16, 16 i 14 punktów na 30 możliwych. Średnia wyniosła 18. Mediana wyników wyniosła 19, a rozpiętość wyników wyniosła 10.",
@@ -208,7 +209,7 @@
         {
             "uuid": "34.2",
             "name": "Insurance and statistics sentences",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Life insurance companies base their calculations on the laws of probability, that is they assess the likely outcomes given the different variables such as age, sex, lifestyle and medical history of their clients.",
                     "polish": "Firmy ubezpieczeniowe opierają swoje kalkulacje na prawach prawdopodobieństwa, czyli oceniają prawdopodobne wyniki biorąc pod uwagę różne zmienne, takie jak wiek, płeć, styl życia i historia medyczna ich klientów.",
@@ -278,7 +279,7 @@
         {
             "uuid": "32.1",
             "name": "Opposite words replacement",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "The views she expressed were totally rational.",
                     "polish": "Poglądy, które wyraziła, były całkowicie racjonalne.",
@@ -372,7 +373,7 @@
         {
             "uuid": "32.2",
             "name": "Sentence completion with proper forms",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "The underlying principles of Asian and European philosophy are very similar.",
                     "polish": "Podstawowe zasady filozofii azjatyckiej i europejskiej są bardzo podobne.",
@@ -449,7 +450,7 @@
         {
             "uuid": "28.3",
             "name": "Complete the extracts with the missing words. The first letter of each word is given to help you.",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Which is better the night before an exam? ",
                     "polish": "Co jest lepsze na noc przed egzaminem?",
@@ -544,7 +545,7 @@
         {
             "uuid": "28.3",
             "name": "Working with numbers",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "The word figure is often used to refer to the symbol used for a number. Write the total number in words and figures.",
                     "polish": "Słowo 'figure' jest często używane do odniesienia się do symbolu używanego dla liczby. Zapisz całkowitą liczbę słownie i cyframi.",
@@ -710,7 +711,7 @@
         {
             "uuid": "32.5",
             "name": "Words and phrases related to opinions and ideas",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Academics have traditionally taken the view that their discipline is intellectually independent from all others.",
                     "polish": "Akademicy tradycyjnie przyjmowali pogląd, że ich dyscyplina jest intelektualnie niezależna od wszystkich innych.",
@@ -785,7 +786,7 @@
         {
             "uuid": "CV tips",
             "name": "A CV or curriculum vitae is a document about your education, career and objectives. Look at the tips:",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Put your name and contact details at the top.",
                     "missing_words": [
@@ -891,7 +892,7 @@
         {
             "uuid": "Parts of a CV",
             "name": "Layout is the way that information is arranged on the page. Clear layout is very important for CVs.",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Career goal: Looking for a stimulating career in established design company.",
                     "missing_words": [
@@ -975,7 +976,7 @@
         {
             "uuid": "Missing words and sentences",
             "name": "Missing words in sentences with opposite meanings or similar variations.",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Populations of some bird species in South Asia has increased by 97% in recent years. The number of cases of death by poisoning has declined significantly.",
                     "missing_words": [
@@ -1096,7 +1097,7 @@
         {
             "uuid": "letter-01",
             "name": "Sample cover letter",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "I am writing with reference to your online advertisement.",
                     "polish": "Piszę w nawiązaniu do Twojego ogłoszenia internetowego.",
@@ -1168,7 +1169,7 @@
                 {
                     "uuid": "4.1",
                     "name": "Skills and qualifications - Education and training",
-                    "sentences": [
+                    "tag": "","sentences": [
                         {
                             "english": "The trouble with graduates – people who've just left university – is that their paper qualifications are good.",
                             "polish": "Problem z absolwentami - ludźmi, którzy właśnie ukończyli studia - polega na tym, że ich kwalifikacje na papierze są dobre.",
@@ -1313,7 +1314,7 @@
         {
             "uuid": "4.2",
             "name": "Dr. Claire's Research Methods",
-            "sentences": [
+            "tag": "","sentences": [
                 {
                     "english": "Once upon a time in a small town, there lived a curious scientist named Dr. Claire.",
                     "polish": "Dawno, dawno temu w małym miasteczku mieszkała ciekawska naukowczyni o imieniu dr Claire.",
@@ -1629,7 +1630,7 @@
         {
             "uuid": "Graph analysis",
             "name": "The graph presents data relating to teenagers and pocket money.",
-            "sentences": [
+            "tag": "","sentences": [
               {
                 "english": "The graph presents data relating to teenagers and pocket money. A random sample of 1,000 teenagers were surveyed and the average pocket money received at each age has been plotted on the graph.",
                 "missing_words": [

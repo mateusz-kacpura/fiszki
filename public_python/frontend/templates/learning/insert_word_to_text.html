@@ -38,17 +38,26 @@
         </div>
     </div>
 
-
-
     <!-- Karta do wyboru tekstu -->
     <div class="card mb-3">
         <div class="card-header text-center">
             <h2 class="card-title">Wybierz tekst do załadowania</h2>
         </div>
         <div class="card-body">
-            <ul id="textList" class="list-group">
-                <!-- Lista tekstów zostanie wygenerowana dynamicznie -->
-            </ul>
+            <div>
+                <input type="text" id="searchInput" placeholder="Szukaj tekstu..." oninput="filterTextsByName()">
+                <input type="text" id="tagInput" placeholder="Filtruj po tagach..." oninput="filterTextsByTag()">
+                <select id="textLimit" onchange="decideWhichTextToLoad()">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                </select>
+                <ul id="textList" class="list-group"></ul>
+                <div class="pagination-controls">
+                    <button id="prevPage" onclick="prevPage()">Poprzednia strona</button>
+                    <button id="nextPage" onclick="nextPage()">Następna strona</button>
+                </div>                
+            </div>            
         </div>
     </div>
 
@@ -79,6 +88,10 @@ let alertShown = false;
 
 const textContainer = document.getElementById('text-with-blanks');
 const wordContainer = document.getElementById('image-container');
+
+let currentPage = 1;
+let totalPages = 1;
+let allTexts = [];
 
 // Funkcja do wyświetlania alertów
 function showAlert(message, type = 'success') {
@@ -117,12 +130,19 @@ document.addEventListener('DOMContentLoaded', () => {
     decideWhichTextToLoad();
 });
 
-// Funkcja pobierająca listę tekstów do wyboru
+// Pobranie tekstów z serwera z uwzględnieniem limitu i wyszukiwania
 function decideWhichTextToLoad() {
-    fetch('/user/get_text_data')
+    const limit = document.getElementById('textLimit').value || 10;
+    const searchQuery = document.getElementById('searchInput').value || '';
+    const tagQuery = document.getElementById('tagInput').value || '';
+
+    fetch(`/user/get_text_data?limit=${limit}&page=${currentPage}&search=${searchQuery}&tag=${tagQuery}`)
         .then(response => response.json())
         .then(data => {
-            populateTextList(data.text_names); // Wyświetlenie listy tekstów
+            allTexts = data.text_names;
+            totalPages = data.total_pages; // Załóżmy, że serwer zwraca też liczbę stron
+            populateTextList(allTexts);
+            updatePaginationControls(); // Funkcja aktualizująca przyciski paginacji
             showAlert('Lista tekstów została załadowana!', 'success');
         })
         .catch(error => {
@@ -134,10 +154,10 @@ function decideWhichTextToLoad() {
 // Funkcja generująca listę tekstów
 function populateTextList(textNames) {
     const textList = document.getElementById('textList');
-    textList.innerHTML = ''; // Czyszczenie listy przed dodaniem nowych elementów
+    textList.innerHTML = ''; // Czyszczenie listy
 
     textNames.forEach(text => {
-        const listItem = createTextListItem(text); // Tworzenie elementów listy <li>
+        const listItem = createTextListItem(text);
         textList.appendChild(listItem);
     });
 }
@@ -148,9 +168,50 @@ function createTextListItem(text) {
     listItem.className = 'list-group-item';
     listItem.dataset.name = text.name;
     listItem.innerText = text.name;
-    listItem.addEventListener('click', () => fetchAndLoadText(text.name)); // Pobieranie tekstu po kliknięciu
+    listItem.addEventListener('click', () => fetchAndLoadText(text.name));
     return listItem;
 }
+
+function updatePaginationControls() {
+    const nextPageBtn = document.getElementById('nextPage');
+    const prevPageBtn = document.getElementById('prevPage');
+
+    nextPageBtn.disabled = currentPage >= totalPages;
+    prevPageBtn.disabled = currentPage <= 1;
+}
+
+function nextPage() {
+    if (currentPage < totalPages) {
+        currentPage++;
+        decideWhichTextToLoad();
+    }
+}
+
+function prevPage() {
+    if (currentPage > 1) {
+        currentPage--;
+        decideWhichTextToLoad();
+    }
+}
+
+// Filtrowanie tekstów po nazwie
+function filterTextsByName() {
+    currentPage = 1;
+    const query = document.getElementById('searchInput').value.toLowerCase();
+    decideWhichTextToLoad();
+}
+
+function filterTextsByTag() {
+    currentPage = 1;
+    const tag = document.getElementById('tagInput').value.toLowerCase();
+    decideWhichTextToLoad();
+}
+
+/////////////////////////////////////////////////
+
+// #        LOGIKA WYŚWIETLANIA TEKSTU        #//
+
+/////////////////////////////////////////////////
 
 // Funkcja pobierająca i wyświetlająca wybrany tekst
 function fetchAndLoadText(textName) {
@@ -170,7 +231,7 @@ function fetchAndLoadText(textName) {
     }
 
     if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;} // if exist actionBubble in html remove from html
-    fetch(`/user/get_text_data?name=${encodeURIComponent(textName)}`)
+    fetch(`/user/get_text_data_name?name=${encodeURIComponent(textName)}`)
         .then(response => response.json())
         .then(data => {
             const textData = data.texts[0];
