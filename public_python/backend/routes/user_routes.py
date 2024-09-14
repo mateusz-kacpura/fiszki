@@ -16,6 +16,7 @@
 from flask import Blueprint, render_template, request, jsonify, make_response
 from flask_login import login_required, current_user
 from flask import send_from_directory
+from functools import partial
 from werkzeug.utils import secure_filename
 from openpyxl import load_workbook
 from scipy.io.wavfile import write
@@ -95,55 +96,36 @@ for folder in [UPLOAD_FOLDER, IMAGE_FOLDER, AUDIO_FOLDER, LOG_FOLDER]:
     if not os.path.exists(folder):
         os.makedirs(folder)
 
-@user_route.route('/')
-@login_required
-def index():
-    return render_template('index.html')
+routes = [
+    ('/', 'index.html', None, 'index'),
+    ('/learn', 'learn.html', None, 'learn'),
+    ('/manage', 'manage.html', None, 'manage'),
+    ('/learning/sentences_learning', 'learning/sentences_learning.html', None, 'sentences_learning'),
+    ('/learning/multi_learning', 'learning/multi_learning.html', None, 'multilearning'),
+    ('/learning/scattered_words_learning', 'learning/scattered_words_learning.html', None, 'scattered_words_learning'),
+    ('/learning/insert_word', 'learning/insert_word.html', None, 'insert_word'),
+    ('/learning/definition', 'learning/definition.html', None, 'definition'),
+    ('/learning/single_word_learning', 'learning/single_word_learning.html', "Language Quiz", 'single_word_learning'),
+    ('/learning/image_words_learning', 'learning/image_words_learning.html', "Image learning", 'image_words_learning'),
+    ('/learning/insert_word_to_text', 'learning/insert_word_to_text.html', 'Insert word to text', 'insert_word_to_text'),
+    ('/learning/synonims', 'learning/insert_synonims_to_text.html', 'Insert synonims to text', 'insert_synonims_to_text'),
+    ('/manage/exel', 'manage/exel.html', 'Excel', 'exel'),
+]
 
-@user_route.route('/learn')
-@login_required
-def learn():
-    return render_template('learn.html')
+def create_view_function(template, title=None):
+    def view_function():
+        if title:
+            return render_template(template, title=title)
+        else:
+            return render_template(template)
+    return view_function
 
-@user_route.route('/manage')
-@login_required
-def manage():
-    return render_template('manage.html')
-
-@user_route.route('/learning/sentences_learning')
-@login_required
-def sentences_learning():
-    return render_template('learning/sentences_learning.html')
-
-@user_route.route('/learning/multi_learning')
-@login_required
-def multilearning():
-    return render_template('learning/multi_learning.html')
-
-@user_route.route('/learning/scattered_words_learning')
-@login_required
-def scattered_words_learning():
-    return render_template('learning/scattered_words_learning.html')
-
-@user_route.route('/learning/insert_word')
-@login_required
-def insert_word():
-    return render_template('learning/insert_word.html')
-
-@user_route.route('/learning/definition')
-@login_required
-def definition():
-    return render_template('learning/definition.html')
-
-@user_route.route('/learning/single_word_learning')
-@login_required
-def single_word_learning():
-    return render_template('learning//single_word_learning.html', title="Language Quiz")
-
-@user_route.route('/learning/image_words_learning')
-@login_required
-def image_words_learning():
-    return render_template('learning/image_words_learning.html', title="Image learning")
+for route, template, title, endpoint in routes:
+    # Stwórz dynamiczną funkcję z nazwanym endpointem
+    view_func = partial(create_view_function(template, title))
+    
+    # Zarejestruj trasę z dynamicznie wygenerowaną funkcją
+    user_route.add_url_rule(route, view_func=view_func, endpoint=endpoint)
 
 @user_route.route('/baza_danuch/setting/<path:filename>')
 @login_required
@@ -180,28 +162,13 @@ def image_files(filename):
 def audio_files(filename):
     return send_from_directory('baza_danych/audio_files/English', filename)
 
-# Route for rendering the HTML page
-@user_route.route('/learning/insert_word_to_text')
-@login_required
-def insert_word_to_text():
-    return render_template('learning/insert_word_to_text.html', title="Insert word to text")
 
-# Route for rendering the HTML page
-@user_route.route('/learning/synonims')
-@login_required
-def insert_synonims_to_text():
-    return render_template('learning/insert_synonims_to_text.html', title="insert_synonims_to_text")
 
 @user_route.route('/get_synonim_data')
 def get_synonym_data():
     with open('baza_danych/user_datas/test/synonim_data.json', 'r', encoding='utf-8') as f:
         synonym_data = json.load(f)
     return jsonify(synonym_data)
-
-@user_route.route('/manage/exel')
-@login_required
-def exel():
-    return render_template('manage/exel.html', title="Excel")
 
 @user_route.route('/<path:path>')
 @login_required
