@@ -13,7 +13,7 @@ def filter_files_by_tag(files, folder_path, tag):
     filtered_files = []
     for f in files:
         file_path = os.path.join(folder_path, f)
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
             if 'tags' in data and tag.lower() in [t.lower() for t in data['tags']]:
                 filtered_files.append(f)

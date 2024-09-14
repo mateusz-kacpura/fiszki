@@ -194,12 +194,12 @@ function loadFileContent(file, isPublic = true) {
       .then(fileContent => {
           // Sprawdź, czy plik zawiera odpowiednią strukturę JSON
           try {
-              const sentences = JSON.parse(fileContent.content); // Zakładamy, że backend zwróci klucz "content"
+              sentences = JSON.parse(fileContent.content); // Zakładamy, że backend zwróci klucz "content"
               console.log('File content loaded:', sentences);
 
               // Wyświetlenie quizu lub innej logiki
               document.getElementById('quiz').style.display = 'block';
-              generateRandomSentence(sentences); // Przykładowa funkcja do przetwarzania zawartości
+              generateRandomSentence(); // Przykładowa funkcja do przetwarzania zawartości
           } catch (error) {
               console.error('Error parsing file content:', error);
               showAlert('Invalid file format', 'danger');

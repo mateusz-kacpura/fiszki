@@ -19,7 +19,7 @@ def load_file_content(file, is_public, LANGUAGE_FLAG):
     file_path = os.path.join(folder_path, file)
     print(file_path)
     try:
-        with open(file_path, 'r') as f:
+        with open(file_path, 'r' , encoding='utf-8') as f:
             content = json.load(f)
             return jsonify({"content": json.dumps(content), "file": file})
     except FileNotFoundError:
