@@ -25,26 +25,26 @@ import json
 import os
 
 from backend.models.user_model import User
-from backend.users.learn.process_words import process_words
-from backend.users.learn.get_texts_for_insert_words_to_text import get_texts_for_insert_words_to_text
-from backend.users.learn.get_texts_data_for_insert_fot_text import get_texts_data_for_insert_fot_text
-from backend.users.learn.save_history_translations_for_insert_words_to_text import save_history_translations_for_insert_words_to_text
-from backend.users.learn.load_translation_history_for_insert_wors_to_text import load_translation_history_for_insert_wors_to_text
-from backend.users.AI.model_fb_translate import model_fb_translate
-from backend.users.modals.modal_pop_up_for_definition_learning import modal_pop_up_for_definition_learning
-from backend.users.modals.modal_pop_up_for_image_learning import modal_pop_up_for_image_learning
-from backend.users.modals.modal_pop_up_for_insert_word import modal_pop_up_for_insert_word
-from backend.users.modals.modal_pop_up_for_multi_learning import modal_pop_up_for_multi_learning
-from backend.users.AI.real_time_speech_recognition import real_time_speech_recognition
-from backend.users.AI.text_to_speech import text_to_speech
-from backend.users.AI.text_to_speech_groq import text_to_speech_groq # taki model w groq obecnie nie istnieje
-from backend.users.manage.load_audio_paths import load_audio_paths 
-from backend.users.manage.load_image_paths import load_image_paths
-from backend.users.manage.download_configuration import download_configuration
-from backend.users.save_statistic import save_statistic
-from backend.users.save_setting import save_setting
-from backend.users.manage.uploads_save_json import uploads_save_json
-from backend.users.manage.upload_excel import upload_excel
+from backend.routes.users.learn.process_words import process_words
+from backend.routes.users.learn.get_texts_for_insert_words_to_text import get_texts_for_insert_words_to_text
+from backend.routes.users.learn.get_texts_data_for_insert_fot_text import get_texts_data_for_insert_fot_text
+from backend.routes.users.learn.save_history_translations_for_insert_words_to_text import save_history_translations_for_insert_words_to_text
+from backend.routes.users.learn.load_translation_history_for_insert_wors_to_text import load_translation_history_for_insert_wors_to_text
+from backend.routes.users.AI.model_fb_translate import model_fb_translate
+from backend.routes.users.modals.modal_pop_up_for_definition_learning import modal_pop_up_for_definition_learning
+from backend.routes.users.modals.modal_pop_up_for_image_learning import modal_pop_up_for_image_learning
+from backend.routes.users.modals.modal_pop_up_for_insert_word import modal_pop_up_for_insert_word
+from backend.routes.users.modals.modal_pop_up_for_multi_learning import modal_pop_up_for_multi_learning
+from backend.routes.users.AI.real_time_speech_recognition import real_time_speech_recognition
+from backend.routes.users.AI.text_to_speech import text_to_speech
+from backend.routes.users.AI.text_to_speech_groq import text_to_speech_groq # taki model w groq obecnie nie istnieje
+from backend.routes.users.manage.load_audio_paths import load_audio_paths 
+from backend.routes.users.manage.load_image_paths import load_image_paths
+from backend.routes.users.manage.download_configuration import download_configuration
+from backend.routes.users.save_statistic import save_statistic
+from backend.routes.users.save_setting import save_setting
+from backend.routes.users.manage.uploads_save_json import uploads_save_json
+from backend.routes.users.manage.upload_excel import upload_excel
 
 user_route = Blueprint('user', __name__, url_prefix='/user', template_folder='templates')
 user_route.route('/process-words', methods=['POST'])(process_words)
