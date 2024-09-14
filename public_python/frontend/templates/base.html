@@ -145,6 +145,32 @@
 .navbar-nav .nav-link.home-btn:focus,
 .submenu .nav-link.home-btn:focus {
     outline: none;
+    background-color: #0060df !important; /* Jeszcze ciemniejszy niebieski */
+    color: #000000 !important; /* Biały tekst dla lepszego kontrastu */
+    border-color: #002244 !important; /* Głębszy odcień */
+    box-shadow: 0 0 0 3px rgba(0, 86, 179, 0.5); /* Niebieska poświata */
+}
+
+/* Przyciski profil */
+.navbar-nav .nav-link.profil-btn,
+.submenu .nav-link.profil-btn{
+    background-color: #6fb5ff !important; /* Niebieski */
+    color: #000000 !important;  /* Biały tekst dla kontrastu */
+    border: 1px solid #000000 !important; /* Ciemniejszy niebieski dla obramowania */
+    padding: 8px 12px;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.navbar-nav .nav-link.profil-btn:hover,
+.submenu .nav-link.profil-btn:hover {
+    background-color: #0077ff !important; /* Ciemniejszy odcień niebieskiego */
+    color: #ffffff !important;  /* Jasnoszary tekst przy hover */
+    border-color: #000000 !important; /* Jeszcze ciemniejsze obramowanie */
+}
+
+.navbar-nav .nav-link.profil-btn:focus,
+.submenu .nav-link.profil-btn:focus {
+    outline: none;
     background-color: #003377 !important; /* Jeszcze ciemniejszy niebieski */
     color: #ffffff !important; /* Biały tekst dla lepszego kontrastu */
     border-color: #002244 !important; /* Głębszy odcień */
@@ -185,30 +211,41 @@
   </style>
 
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-      <ul class="navbar-nav">
-        <!-- Home button (blue background) -->
-        <li class="nav-item">
-          <a class="nav-link home-btn" href="{{ url_for('user.index') }}" onclick="hideSubmenus()">Home</a>
-        </li>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav me-auto">
+      <!-- Home button (blue background) -->
+      <li class="nav-item">
+        <a class="nav-link home-btn" href="{{ url_for('user.index') }}" onclick="hideSubmenus()">Home</a>
+      </li>
 
-        <!-- Learn button (yellow background) -->
-        <li class="nav-item">
-          <a class="nav-link learning-btn" href="{{ url_for('user.learn') }}" onclick="showSubmenu('learnSubmenu')">Learn</a>
-        </li>
+      <!-- Learn button (yellow background) -->
+      <li class="nav-item">
+        <a class="nav-link learning-btn" href="{{ url_for('user.learn') }}" onclick="showSubmenu('learnSubmenu')">Learn</a>
+      </li>
 
-        <!-- Manage button (green background) -->
-        <li class="nav-item">
-          <a class="nav-link manage-btn" href="{{ url_for('user.manage') }}" onclick="showSubmenu('manageSubmenu')">Manage</a>
-        </li>
+      <!-- Manage button (green background) -->
+      <li class="nav-item">
+        <a class="nav-link manage-btn" href="{{ url_for('user.manage') }}" onclick="showSubmenu('manageSubmenu')">Manage</a>
+      </li>
+    </ul>
 
-      </ul>
-    </div>
-  </nav>
+    <ul class="navbar-nav me-auto">
+      <!-- Profil button (blue background) -->
+      <li class="nav-item">
+        <a class="nav-link profil-btn" href="{{ url_for('user.profil') }}" onclick="showSubmenu('profilSubmenu')">Profil</a>
+      </li>
+      <li class="navbar-nav me-auto">
+        <a class="nav-link profil-btn" >Logout</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
 
   {% block content %}
   {% endblock %}

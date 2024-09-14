@@ -1,0 +1,84 @@
+{% extends "profil.html" %}
+{% block title %}Edit Profile Settings{% endblock %}
+
+{% block manage %}
+    <div class="container mt-4">
+        <h1 class="text-center mb-4">Witaj, {{ username }}</h1>
+        <h2 class="text-center mb-3">Wybierz preferencje językowe i ustawienia profilu</h2>
+        
+        <form method="POST" class="mx-auto" style="max-width: 600px;">
+            <!-- Preferencje językowe -->
+            <div class="form-group mb-3">
+                <label for="language_1" class="form-label">Język 1:</label>
+                <select class="form-select" name="language_1" id="language_1">
+                    {% for lang, options in languages.items() %}
+                        <option value="{{ lang }}" {% if config['language_1'] == lang %}selected{% endif %}>
+                            {{ lang }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="language_2" class="form-label">Język 2:</label>
+                <select class="form-select" name="language_2" id="language_2">
+                    {% for lang, options in languages[config['language_1']].items() %}
+                        <option value="{{ lang }}" {% if config['language_2'] == lang %}selected{% endif %}>
+                            {{ lang }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <!-- Ustawienia motywu -->
+            <div class="form-group mb-3">
+                <label for="theme" class="form-label">Motyw:</label>
+                <select class="form-select" name="theme" id="theme">
+                    <option value="light" {% if config['theme'] == 'light' %}selected{% endif %}>Jasny</option>
+                    <option value="dark" {% if config['theme'] == 'dark' %}selected{% endif %}>Ciemny</option>
+                </select>
+            </div>
+
+            <!-- Powiadomienia -->
+            <div class="form-group mb-3">
+                <label for="notifications" class="form-label">Powiadomienia:</label>
+                <select class="form-select" name="notifications" id="notifications">
+                    <option value="email" {% if config['notifications'] == 'email' %}selected{% endif %}>E-mail</option>
+                    <option value="sms" {% if config['notifications'] == 'sms' %}selected{% endif %}>SMS</option>
+                    <option value="none" {% if config['notifications'] == 'none' %}selected{% endif %}>Brak</option>
+                </select>
+            </div>
+
+            <!-- Ustawienia prywatności -->
+            <div class="form-group mb-3">
+                <label for="privacy" class="form-label">Prywatność profilu:</label>
+                <select class="form-select" name="privacy" id="privacy">
+                    <option value="public" {% if config['privacy'] == 'public' %}selected{% endif %}>Publiczny</option>
+                    <option value="private" {% if config['privacy'] == 'private' %}selected{% endif %}>Prywatny</option>
+                </select>
+            </div>
+
+            <!-- Zastosowanie przycisku z Bootstrap -->
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary profil-btn">Zapisz ustawienia</button>
+            </div>
+        </form>
+
+        <!-- Wyświetlanie wiadomości przy użyciu klas Bootstrap -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <div class="alert alert-dismissible mt-4">
+                <ul class="flashes list-group">
+                {% for category, message in messages %}
+                    <li class="list-group-item list-group-item-{{ category }}">{{ message }}</li>
+                {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
+        {% endwith %}
+    </div>
+{% endblock %}
+
+{% block scripts %}
+<script></script>
+{% endblock %}

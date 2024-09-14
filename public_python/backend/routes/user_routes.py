@@ -45,11 +45,16 @@ from backend.routes.users.save_statistic import save_statistic
 from backend.routes.users.save_setting import save_setting
 from backend.routes.users.manage.uploads_save_json import uploads_save_json
 from backend.routes.users.manage.upload_excel import upload_excel
+from backend.routes.users.profil.edit_profil import edit_profile
+from backend.routes.users.learn.load_files_for_learning import load_files_for_learning
+from backend.routes.users.learn.load_file_content import load_file
 
 user_route = Blueprint('user', __name__, url_prefix='/user', template_folder='templates')
 user_route.route('/process-words', methods=['POST'])(process_words)
 user_route.route('/get_texts_for_insert_words_to_text')(get_texts_for_insert_words_to_text)
 user_route.route('/get_texts_data_for_insert_fot_text')(get_texts_data_for_insert_fot_text)
+user_route.route('/load_files_for_learning')(load_files_for_learning)
+user_route.route('/load_file_content')(load_file)
 user_route.route('/save_history_translations_for_insert_words_to_text', methods=['POST'])(save_history_translations_for_insert_words_to_text)
 user_route.route('/load_translation_history_for_insert_wors_to_text', methods=['GET'])(load_translation_history_for_insert_wors_to_text)
 user_route.route('/model_fb_translate', methods=['POST'])(model_fb_translate)
@@ -57,7 +62,7 @@ user_route.route('/modals/modal_pop_up_for_definition_learning', methods=['GET']
 user_route.route('/modals/modal_pop_up_for_image_learning', methods=['GET'])(modal_pop_up_for_image_learning)
 user_route.route('/modals/modal_pop_up_for_insert_word', methods=['GET'])(modal_pop_up_for_insert_word)
 user_route.route('/modals/modal_pop_up_for_multi_learning', methods=['GET'])(modal_pop_up_for_multi_learning)
-
+user_route.route('/edit_profile', methods=['GET', 'POST'])(edit_profile)
 
 # funkcja nie dziaĹ‚a w peĹ‚ni offline pomimo pobrania repozytoriĂłw whisper do folderu models
 user_route.route('/real-time-speech-recognition', methods=['POST'])(real_time_speech_recognition)
@@ -100,6 +105,8 @@ routes = [
     ('/', 'index.html', None, 'index'),
     ('/learn', 'learn.html', None, 'learn'),
     ('/manage', 'manage.html', None, 'manage'),
+    ('/profil', 'profil.html', None, 'profil'),
+    ('/profil/edit_profil', 'profil/edit_profil.html', None, 'edit_profil'),
     ('/learning/sentences_learning', 'learning/sentences_learning.html', None, 'sentences_learning'),
     ('/learning/multi_learning', 'learning/multi_learning.html', None, 'multilearning'),
     ('/learning/scattered_words_learning', 'learning/scattered_words_learning.html', None, 'scattered_words_learning'),

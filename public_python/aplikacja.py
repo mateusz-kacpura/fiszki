@@ -7,6 +7,7 @@ from backend.models.user_model import User
 import config 
 
 app = Flask(__name__, template_folder='frontend/templates', static_folder='frontend/static')
+
 app.config.from_object(config.Config)
 
 CORS(app)
