@@ -121,64 +121,46 @@ def create_view_function(template, title=None):
     return view_function
 
 for route, template, title, endpoint in routes:
-    # Stwórz dynamiczną funkcję z nazwanym endpointem
     view_func = partial(create_view_function(template, title))
-    
-    # Zarejestruj trasę z dynamicznie wygenerowaną funkcją
     user_route.add_url_rule(route, view_func=view_func, endpoint=endpoint)
 
-@user_route.route('/baza_danuch/setting/<path:filename>')
-@login_required
-def get_excluded_words(filename):
-    return send_from_directory('baza_danych/setting', filename)
-
-@user_route.route('/learning/baza_danych/setting/<path:filename>')
-@login_required
-def get_excluded_words_learning(filename):
-    return send_from_directory('baza_danych/setting', filename)
-
-@user_route.route('/baza_danych/statistic/statistics.json')
-@login_required
-def get_statistics():
-    return send_from_directory('baza_danych/statistic', 'statistics.json')
-
-@user_route.route('/learning/image_files/English/<path:filename>')
-@login_required
-def custom_static_images(filename):
-    return send_from_directory('baza_danych/image_files/English', filename)
-
-@user_route.route('/learning/baza_danych/audio_files/English/<path:filename>')
-@login_required
-def custom_static_audio(filename):
-    return send_from_directory('baza_danych/audio_files/English', filename)
-
-@user_route.route('/image_files/English/<path:filename>')
-@login_required
-def image_files(filename):
-    return send_from_directory('baza_danych/image_files/English', filename)
-
-@user_route.route('/audio_files/English/<path:filename>')
-@login_required
-def audio_files(filename):
-    return send_from_directory('baza_danych/audio_files/English', filename)
-
-
-
-@user_route.route('/get_synonim_data')
-def get_synonym_data():
-    with open('baza_danych/user_datas/test/synonim_data.json', 'r', encoding='utf-8') as f:
-        synonym_data = json.load(f)
-    return jsonify(synonym_data)
+# Define route information
+routes_info = [
+    ('/baza_danuch/setting/<path:filename>', 'baza_danych/setting', None, 'get_excluded_words'),
+    ('/learning/baza_danych/setting/<path:filename>', 'baza_danych/setting', None, 'get_excluded_words_learning'),
+    ('/baza_danych/statistic/statistics.json', 'baza_danych/statistic', 'statistics.json', 'get_statistics'),
+    ('/learning/image_files/English/<path:filename>', 'baza_danych/image_files/English', None, 'custom_static_images'),
+    ('/learning/baza_danych/audio_files/English/<path:filename>', 'baza_danych/audio_files/English', None, 'custom_static_audio'),
+    ('/image_files/English/<path:filename>', 'baza_danych/image_files/English', None, 'image_files'),
+    ('/audio_files/English/<path:filename>', 'baza_danych/audio_files/English', None, 'audio_files'),
+    ('/audio_files/English/<path:path>', AUDIO_FOLDER, None, 'send_audio')
+]
 
 @user_route.route('/<path:path>')
 @login_required
 def send_static(path):
     return send_from_directory('public', path)
 
-@user_route.route('/audio_files/English/<path:path>')
-@login_required
-def send_audio(path):
-    return send_from_directory(AUDIO_FOLDER, path)
+# Register routes dynamically
+for route, directory, filename, func_name in routes_info:
+    def create_route_func(directory, filename):
+        def route_func(filename):
+            return send_from_directory(directory, filename)
+        return route_func
+
+    if filename:
+        func = create_route_func(directory, filename)
+    else:
+        func = create_route_func(directory, None)
+
+    func.__name__ = func_name
+    user_route.route(route)(login_required(func))
+
+@user_route.route('/get_synonim_data')
+def get_synonym_data():
+    with open('baza_danych/user_datas/test/synonim_data.json', 'r', encoding='utf-8') as f:
+        synonym_data = json.load(f)
+    return jsonify(synonym_data)
 
 @user_route.route('/save', methods=['POST'])
 @login_required
