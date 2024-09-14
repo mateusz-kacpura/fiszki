@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Viernes",
+      "translation": "Sexta-feira",
+      "definition": "El día de la semana entre el jueves y el sábado, y el quinto día de la semana en muchos calendarios.",
+      "definition_translation": "O dia da semana entre quinta-feira e sábado, e o quinto dia da semana em muitos calendários.",
+      "example": "Te veré el viernes a las 5 pm. Me reuní con mi amigo el viernes pasado. Iré a la playa el viernes próximo.",
+      "example_translation": "Eu vou me encontrar com você na sexta-feira às 5 pm. Eu me encontrei com meu amigo na sexta-feira da semana passada. Eu irei para a praia na sexta-feira da semana que vem.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Lunes",
+      "translation": "Segunda-feira",
+      "definition": "El primer día de la semana, y el segundo día de la semana en muchos calendarios.",
+      "definition_translation": "O primeiro dia da semana, e o segundo dia da semana em muitos calendários.",
+      "example": "Empezaré mi nuevo trabajo el lunes. Fui al colegio el lunes pasado. Estudiaré para mi examen el lunes próximo.",
+      "example_translation": "Eu vou começar meu novo trabalho na segunda-feira. Eu fui à escola na segunda-feira da semana passada. Eu vou estudar para meu exame na segunda-feira da semana que vem.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Sábado",
+      "translation": "Sábado",
+      "definition": "El día de la semana entre el viernes y el domingo, y el séptimo día de la semana en muchos calendarios.",
+      "definition_translation": "O dia da semana entre sexta-feira e domingo, e o sétimo dia da semana em muitos calendários.",
+      "example": "Iré al parque el sábado. Fui al cine el sábado pasado. Asistiré a un concierto el sábado próximo.",
+      "example_translation": "Eu vou ao parque no sábado. Eu fui ao cinema no sábado da semana passada. Eu vou a um concerto no sábado da semana que vem.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Domingo",
+      "translation": "Domingo",
+      "definition": "El séptimo y último día de la semana, y el primer día de la semana en muchos calendarios.",
+      "definition_translation": "O sétimo e último dia da semana, e o primeiro dia da semana em muitos calendários.",
+      "example": "Iré a la iglesia el domingo. Fui a la playa el domingo pasado. Tendré un picnic el domingo próximo.",
+      "example_translation": "Eu vou à igreja no domingo. Eu fui à praia no domingo da semana passada. Eu vou ter um piquenique no domingo da semana que vem.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Jueves",
+      "translation": "quinta-feira",
+      "definition": "El día de la semana entre el miércoles y el viernes, el cuarto día de la semana.",
+      "definition_translation": "O dia da semana entre quarta-feira e sexta-feira, o quinto dia da semana.",
+      "example": "Tengo una reunión el jueves a las 2 pm. Ayer fue miércoles, y mañana será viernes. Para el próximo jueves, habré terminado este proyecto.",
+      "example_translation": "Eu tenho uma reunião na quinta-feira às 2 PM. Ontem foi quarta-feira, e amanhã será sexta-feira. Até a próxima quinta-feira, vou ter concluído este projeto.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Martes",
+      "translation": "terça-feira",
+      "definition": "El día de la semana entre el lunes y el miércoles, el segundo día de la semana.",
+      "definition_translation": "O dia da semana entre segunda-feira e quarta-feira, o segundo dia da semana.",
+      "example": "Siempre voy al gimnasio el martes por la mañana. El martes pasado, corrí 5 kilómetros. Para el próximo martes, habré perdido 5 kilogramos.",
+      "example_translation": "Eu sempre vou para a academia na terça-feira de manhã. Na última terça-feira, eu corri 5 quilômetros. Até a próxima terça-feira, vou ter perdido 5 quilos.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Spanish",
+      "translationLanguage": "Portugase",
+      "word": "Miércoles",
+      "translation": "quarta-feira",
+      "definition": "El día de la semana entre el martes y el jueves, el tercer día de la semana.",
+      "definition_translation": "O dia da semana entre terça-feira e quinta-feira, o terceiro dia da semana.",
+      "example": "Tengo una clase el miércoles por la tarde. Ayer fue martes, y mañana será jueves. Para el próximo miércoles, habré terminado mi tarea.",
+      "example_translation": "Eu tenho uma aula na quarta-feira à tarde. Ontem foi terça-feira, e amanhã será quinta-feira. Até a próxima quarta-feira, vou ter concluído meu dever de casa.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}

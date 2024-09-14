@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Friday",
+      "translation": "Sexta-feira",
+      "definition": "The day of the week between Thursday and Saturday, and the fifth day of the week in many calendars.",
+      "definition_translation": "O dia da semana entre quinta-feira e sábado, e o quinto dia da semana em muitos calendários.",
+      "example": "I'll meet you on Friday at 5 pm. I met my friend on Friday last week. I will go to the beach on Friday next week.",
+      "example_translation": "Eu vou me encontrar com você na sexta-feira às 5 pm. Eu me encontrei com meu amigo na sexta-feira da semana passada. Eu irei para a praia na sexta-feira da semana que vem.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Monday",
+      "translation": "Segunda-feira",
+      "definition": "The first day of the week, and the second day of the week in many calendars.",
+      "definition_translation": "O primeiro dia da semana, e o segundo dia da semana em muitos calendários.",
+      "example": "I'll start my new job on Monday. I went to school on Monday last week. I will study for my exam on Monday next week.",
+      "example_translation": "Eu vou começar meu novo trabalho na segunda-feira. Eu fui à escola na segunda-feira da semana passada. Eu vou estudar para meu exame na segunda-feira da semana que vem.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Saturday",
+      "translation": "Sábado",
+      "definition": "The day of the week between Friday and Sunday, and the seventh day of the week in many calendars.",
+      "definition_translation": "O dia da semana entre sexta-feira e domingo, e o sétimo dia da semana em muitos calendários.",
+      "example": "I'll go to the park on Saturday. I went to the movies on Saturday last week. I will attend a concert on Saturday next week.",
+      "example_translation": "Eu vou ao parque no sábado. Eu fui ao cinema no sábado da semana passada. Eu vou a um concerto no sábado da semana que vem.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Sunday",
+      "translation": "Domingo",
+      "definition": "The seventh and last day of the week, and the first day of the week in many calendars.",
+      "definition_translation": "O sétimo e último dia da semana, e o primeiro dia da semana em muitos calendários.",
+      "example": "I'll go to church on Sunday. I went to the beach on Sunday last week. I will have a picnic on Sunday next week.",
+      "example_translation": "Eu vou à igreja no domingo. Eu fui à praia no domingo da semana passada. Eu vou ter um piquenique no domingo da semana que vem.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Thursday",
+      "translation": "quinta-feira",
+      "definition": "The day of the week between Wednesday and Friday, the fifth day of the week.",
+      "definition_translation": "O dia da semana entre quarta-feira e sexta-feira, o quinto dia da semana.",
+      "example": "I have a meeting on Thursday at 2 PM. Yesterday was Wednesday, and tomorrow will be Friday. By next Thursday, I will have finished this project.",
+      "example_translation": "Eu tenho uma reunião na quinta-feira às 2 PM. Ontem foi quarta-feira, e amanhã será sexta-feira. Até a próxima quinta-feira, vou ter concluído este projeto.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Tuesday",
+      "translation": "terça-feira",
+      "definition": "The day of the week between Monday and Wednesday, the second day of the week.",
+      "definition_translation": "O dia da semana entre segunda-feira e quarta-feira, o segundo dia da semana.",
+      "example": "I always go to the gym on Tuesday morning. Last Tuesday, I ran 5 kilometers. By next Tuesday, I will have lost 5 kilograms.",
+      "example_translation": "Eu sempre vou para a academia na terça-feira de manhã. Na última terça-feira, eu corri 5 quilômetros. Até a próxima terça-feira, vou ter perdido 5 quilos.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Portuguese",
+      "word": "Wednesday",
+      "translation": "quarta-feira",
+      "definition": "The day of the week between Tuesday and Thursday, the third day of the week.",
+      "definition_translation": "O dia da semana entre terça-feira e quinta-feira, o terceiro dia da semana.",
+      "example": "I have a class on Wednesday afternoon. Yesterday was Tuesday, and tomorrow will be Thursday. By next Wednesday, I will have finished my homework.",
+      "example_translation": "Eu tenho uma aula na quarta-feira à tarde. Ontem foi terça-feira, e amanhã será quinta-feira. Até a próxima quarta-feira, vou ter concluído meu dever de casa.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}

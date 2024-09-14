@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Piątek",
+      "translation": "Venerdì",
+      "definition": "Dzień tygodnia między czwartkiem a sobotą, tradycyjnie uważany za piąty dzień tygodnia w wielu kulturach.",
+      "definition_translation": "Il giorno della settimana tra il giovedì e il sabato, tradizionalmente considerato il quinto giorno della settimana in molte culture.",
+      "example": "Spotkam się z tobą w piątek o 17:00. W zeszłym piątku pojechałem na plażę. Do następnego piątku skończę mój projekt.",
+      "example_translation": "Ti incontrerò il venerdì alle 5 pm. Il venerdì scorso, sono andato al mare. Entro il prossimo venerdì, avrò finito il mio progetto.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Poniedziałek",
+      "translation": "Lunedì",
+      "definition": "Dzień tygodnia między niedzielą a wtorkiem, tradycyjnie uważany za pierwszy dzień tygodnia w wielu kulturach.",
+      "definition_translation": "Il giorno della settimana tra la domenica e il martedì, tradizionalmente considerato il primo giorno della settimana in molte culture.",
+      "example": "Mam spotkanie w poniedziałek rano. W zeszłym poniedziałku obejrzałem świetny film. Do następnego poniedziałku nauczę się nowej umiejętności.",
+      "example_translation": "Ho una riunione il lunedì mattina. L'ultimo lunedì, ho visto un grande film. Entro il prossimo lunedì, avrò imparato una nuova abilità.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Sobota",
+      "translation": "Sabato",
+      "definition": "Dzień tygodnia między piątkiem a niedzielą, tradycyjnie uważany za szósty dzień tygodnia w wielu kulturach.",
+      "definition_translation": "Il giorno della settimana tra il venerdì e la domenica, tradizionalmente considerato il sesto giorno della settimana in molte culture.",
+      "example": "Pójdę do parku w sobotę po południu. W zeszłej sobocie grałem w piłkę nożną z przyjaciółmi. Do następnej soboty skończę moją pracę dyplomową.",
+      "example_translation": "Vado al parco il sabato pomeriggio. L'ultimo sabato, ho giocato a calcio con i miei amici. Entro il prossimo sabato, avrò finito la mia tesi.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Niedziela",
+      "translation": "Domenica",
+      "definition": "Dzień tygodnia między sobotą a poniedziałkiem, uważany za dzień odpoczynku lub czci w wielu kulturach.",
+      "definition_translation": "Il giorno della settimana tra sabato e lunedì, considerato un giorno di riposo o di culto in molte culture.",
+      "example": "Spotkam się z tobą w niedzielę rano. Wczoraj było niedziela, więc nie poszedłem do pracy. Do następnego niedziela skończę mój projekt.",
+      "example_translation": "Mi incontrerò con te la mattina di domenica. Ieri era domenica, quindi non sono andato a lavorare. La prossima domenica, avrò finito il mio progetto.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Czwartek",
+      "translation": "Giovedì",
+      "definition": "Dzień tygodnia między środą a piątkiem, często uważany za punkt zwrotny w tygodniu pracy.",
+      "definition_translation": "Il giorno della settimana tra mercoledì e venerdì, spesso considerato un punto di mezzo nella settimana lavorativa.",
+      "example": "Mam spotkanie w czwartek po południu. W zeszłym czwartku pojechałem do kina. Do następnego czwartku skończę moj raport.",
+      "example_translation": "Ho una riunione ilgiovedì pomeriggio. L'ultimo giovedì, sono andato al cinema. La prossima giovedì, avrò finito il mio rapporto.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Wtorek",
+      "translation": "Martedì",
+      "definition": "Dzień tygodnia między poniedziałkiem a środą, często uważany za zajęty dzień.",
+      "definition_translation": "Il giorno della settimana tra lunedì e mercoledì, spesso considerato un giorno impegnato.",
+      "example": "Mam zajęcia we wtorek rano. W zeszłym wtorku pojechałem do siłowni. Do następnego wtorku skończę moje zadanie.",
+      "example_translation": "Ho una lezione il martedì mattina. L'ultimo martedì, sono andato in palestra. La prossima martedì, avrò finito il mio compito.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "Polish",
+      "translationLanguage": "Italian",
+      "word": "Środa",
+      "translation": "Mercoledì",
+      "definition": "Dzień tygodnia między wtorkiem a czwartkiem, często uważany za środek tygodnia.",
+      "definition_translation": "Il giorno della settimana tra martedì e giovedì, spesso considerato il mezzo della settimana.",
+      "example": "Spotkam się z tobą w środę rano, ale wczoraj było wtorek, a jutro będzie czwartek. Mam spotkanie w środę następnego tygodnia, a w zeszłą środę było święto.",
+      "example_translation": "Mi incontrerò con te il mercoledì mattina, ma ieri era martedì e domani sarà giovedì. Ho una riunione il mercoledì prossimo settimana, e il mercoledì scorso era un giorno di festa.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}

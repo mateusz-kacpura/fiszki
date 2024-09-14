@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Friday",
+      "translation": "Viernes",
+      "definition": "The day of the week between Thursday and Saturday, and the fifth day of the week in international standard",
+      "definition_translation": "El día de la semana entre jueves y sábado, y el quinto día de la semana en estándar internacional",
+      "example": "I will meet you on Friday at 5pm. I met you on Friday last week. I meet you on Friday every week.",
+      "example_translation": "Me reuniré contigo el viernes a las 5pm. Me reuní contigo el viernes de la semana pasada. Me reúno contigo cada viernes.",
+      "imageLink": "friday.jpg",
+      "audioLink": "Friday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Monday",
+      "translation": "Lunes",
+      "definition": "The day of the week before Tuesday, and the first day of the week in international standard",
+      "definition_translation": "El día de la semana antes del martes, y el primer día de la semana en estándar internacional",
+      "example": "I will start my new job on Monday. I started working on Monday last year. I start my week on Monday.",
+      "example_translation": "Empezaré mi nuevo trabajo el lunes. Empecé a trabajar el lunes del año pasado. Empiezo mi semana el lunes.",
+      "imageLink": "monday.jpg",
+      "audioLink": "Monday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Saturday",
+      "translation": "Sábado",
+      "definition": "The day of the week between Friday and Sunday, and the sixth day of the week in international standard",
+      "definition_translation": "El día de la semana entre viernes y domingo, y el sexto día de la semana en estándar internacional",
+      "example": "I will go to the beach on Saturday. I went to the park on Saturday last weekend. I go to the market on Saturday mornings.",
+      "example_translation": "Iré a la playa el sábado. Fui al parque el sábado del fin de semana pasado. Voy al mercado los sábados por la mañana.",
+      "imageLink": "saturday.jpg",
+      "audioLink": "Saturday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Sunday",
+      "translation": "Domingo",
+      "definition": "The day of the week between Saturday and Monday.",
+      "definition_translation": "El día de la semana entre sábado y lunes.",
+      "example": "I will meet you on Sunday. I met you on Sunday. I have met you on Sunday.",
+      "example_translation": "Te rencontraré el domingo. Te rencontré el domingo. Te he rencontrado el domingo.",
+      "imageLink": "sunday.jpg",
+      "audioLink": "Sunday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Thursday",
+      "translation": "Jueves",
+      "definition": "The day of the week between Wednesday and Friday.",
+      "definition_translation": "El día de la semana entre miércoles y viernes.",
+      "example": "I will go to the movies on Thursday. I went to the movies on Thursday. I have gone to the movies on Thursday.",
+      "example_translation": "Iré al cine el jueves. Fui al cine el jueves. He ido al cine el jueves.",
+      "imageLink": "thursday.jpg",
+      "audioLink": "Thursday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Tuesday",
+      "translation": "Martes",
+      "definition": "The day of the week between Monday and Wednesday.",
+      "definition_translation": "El día de la semana entre lunes y miércoles.",
+      "example": "I will study for my exam on Tuesday. I studied for my exam on Tuesday. I have studied for my exam on Tuesday.",
+      "example_translation": "Estudiaré para mi examen el martes. Estudié para mi examen el martes. He estudiado para mi examen el martes.",
+      "imageLink": "tuesday.jpg",
+      "audioLink": "Tuesday.mp3"
+    },
+    {
+      "section": "dni-tygodnia-po-Spanish",
+      "language": "English",
+      "translationLanguage": "Spanish",
+      "word": "Wednesday",
+      "translation": "miércoles",
+      "definition": "The day of the week between Tuesday and Thursday.",
+      "definition_translation": "El día de la semana entre martes y jueves.",
+      "example": "I will meet you on Wednesday. I met you on Wednesday. I had met you on Wednesday.",
+      "example_translation": "Me reuniré contigo el miércoles. Me reuní contigo el miércoles. Había reunido contigo el miércoles.",
+      "imageLink": "wednesday.jpg",
+      "audioLink": "Wednesday.mp3"
+    }
+  ]
+}
