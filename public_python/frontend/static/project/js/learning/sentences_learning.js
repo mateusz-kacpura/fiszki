@@ -1,13 +1,48 @@
-    let currentPage = 1;  // Aktualna strona
-    let limit = 10;  // Domyślny limit plików na stronę
-    let isPublic = false;  // Czy pliki mają być publiczne
-    let searchQuery = '';  // Wartość wyszukiwania po nazwie pliku
-    let tagQuery = '';  // Wartość wyszukiwania po tagu
-    let sentences = [];
+    fullContentData = inicializeFullContentData()
     let excludedSentences = []; // Initialize excludedSentences
     let reverseDirection = false;
 
-    document.addEventListener("DOMContentLoaded", fetchData);
+///////////////////////////////////
+
+// FUNKCJE ŁĄCZĄCE PLIKI W OPARCIU O AMTUALIZACJE DATY
+
+///////////////////////////////////
+
+    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+    function handleDateChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+              console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+              // Wywołanie funkcji z innego pliku
+              generateRandomSentence();
+          }
+      }
+    }
+
+    // Funkcja do rozpoczęcia obserwacji
+    function startObservingDateChange() {
+      const hiddenDateElement = document.getElementById('hiddenDate');
+      
+      // Konfiguracja MutationObserver
+      const observer = new MutationObserver(handleDateChange);
+      
+      // Obserwacja zmian atrybutów elementu
+      observer.observe(hiddenDateElement, {
+          attributes: true // Obserwujemy tylko zmiany atrybutów
+      });
+    }
+
+    // Wywołanie funkcji obserwującej po załadowaniu dokumentu
+    document.addEventListener('DOMContentLoaded', (event) => {
+      startObservingDateChange();
+    });
+
+
+///////////////////////////////////
+
+// FUNKCJE UNIKATOWE DLA PLIKU
+
+///////////////////////////////////
 
     document.addEventListener('keydown', function(event) {
       if (event.key >= '1' && event.key <= '5') {
@@ -28,37 +63,10 @@
       }
     });
 
-    // Funkcja do wyszukiwania plików
-    function fetchData() {
-      const publicCheckbox = document.getElementById('publicCheckbox').checked;
-      isPublic = publicCheckbox;  // Sprawdź czy załadować pliki publiczne
-      limit = document.getElementById('textLimit').value;  // Pobierz wartość limitu
-      searchQuery = document.getElementById('searchInput').value;  // Pobierz zapytanie wyszukiwania
-      tagQuery = document.getElementById('tagInput').value;  // Pobierz wartość tagu
-
-      const url = `/user/load_files_for_learning?public=${isPublic}&limit=${limit}&page=${currentPage}&name=${searchQuery}&tag=${tagQuery}`;
-
-      fetch(url)
-          .then(response => response.json())
-          .then(data => {
-              if (data.error) {
-                  showAlert(data.error, 'danger');
-              } else {
-                  displayFiles(data.files);
-                  document.getElementById('languageFlag').value = data.language_flag;
-                  updatePaginationControls(data.total_files, data.current_page);
-              }
-          })
-          .catch(error => {
-              console.error('Error fetching files:', error);
-              showAlert('Error loading files', 'danger');
-          });
-    }
-
     let currentSentence = null;
 
     function generateRandomSentence() {
-      const availableSentences = sentences.filter(sentence => !excludedSentences.includes(sentence.example));
+      const availableSentences = fullContentData.filter(sentence => !excludedSentences.includes(sentence.example));
       if (availableSentences.length === 0) {
         document.getElementById('result').textContent = 'No more sentences to study.';
         return;
@@ -84,8 +92,8 @@
       const correctAnswer = direction === 'example' ? correctSentence.example_translation : correctSentence.example;
       const answers = [correctAnswer];
       while (answers.length < 5) {
-        const randomIndex = Math.floor(Math.random() * sentences.length);
-        const randomAnswer = direction === 'example' ? sentences[randomIndex].example_translation : sentences[randomIndex].example;
+        const randomIndex = Math.floor(Math.random() * fullContentData.length);
+        const randomAnswer = direction === 'example' ? fullContentData[randomIndex].example_translation : fullContentData[randomIndex].example;
         if (!answers.includes(randomAnswer)) {
           answers.push(randomAnswer);
         }
@@ -166,101 +174,4 @@
       }
     }
 
-    
-// Funkcja do wyświetlania plików
-function displayFiles(files) {
-  const fileList = document.getElementById('textList');
-  fileList.innerHTML = ''; // Wyczyszczenie listy plików
-
-  files.forEach(file => {
-      const li = document.createElement('li');
-      li.textContent = file; // Wyświetl nazwę pliku
-      li.className = 'list-group-item';
-      li.addEventListener('click', () => loadFileContent(file)); // Dodanie zdarzenia do załadowania zawartości pliku
-      fileList.appendChild(li);
-  });
-}
-
-// Funkcja do załadowania zawartości wybranego pliku
-function loadFileContent(file, isPublic = true) {
-  const url = `/user/load_file_content?file=${file}&public=${isPublic}`; // URL endpointu do pobierania pliku
-  fetch(url)
-      .then(response => {
-          if (!response.ok) {
-              throw new Error('Error loading file content');
-          }
-          return response.json();
-      })
-      .then(fileContent => {
-          // Sprawdź, czy plik zawiera odpowiednią strukturę JSON
-          try {
-              sentences = JSON.parse(fileContent.content); // Zakładamy, że backend zwróci klucz "content"
-              console.log('File content loaded:', sentences);
-
-              // Wyświetlenie quizu lub innej logiki
-              document.getElementById('quiz').style.display = 'block';
-              generateRandomSentence(); // Przykładowa funkcja do przetwarzania zawartości
-          } catch (error) {
-              console.error('Error parsing file content:', error);
-              showAlert('Invalid file format', 'danger');
-          }
-      })
-      .catch(error => {
-          console.error('Error loading file content:', error);
-          showAlert('Error loading file content', 'danger');
-      });
-}
-
-// Paginacja: Następna strona
-function nextPage() {
-  currentPage++;
-  fetchData();
-}
-
-// Paginacja: Poprzednia strona
-function prevPage() {
-  if (currentPage > 1) {
-      currentPage--;
-      fetchData();
-  }
-}
-
-// Zaktualizuj kontrolki paginacji
-function updatePaginationControls(totalFiles, currentPage) {
-  const totalPages = Math.ceil(totalFiles / limit);
-  document.getElementById('prevPage').disabled = (currentPage === 1);
-  document.getElementById('nextPage').disabled = (currentPage === totalPages);
-}
-
-// Wyszukiwanie po nazwie pliku
-function filterFilesByName() {
-  currentPage = 1;  // Resetuj do pierwszej strony
-  fetchData();
-}
-
-// Wyszukiwanie po tagu
-function filterFilesByTag() {
-  currentPage = 1;  // Resetuj do pierwszej strony
-  fetchData();
-}
-
-// Funkcja do zmiany limitu
-function decideWhichFilesToLoad() {
-  currentPage = 1;  // Resetuj do pierwszej strony
-  fetchData();
-}
-
-// Funkcja wyświetlająca powiadomienia
-function showAlert(message, type = 'success') {
-  const alertContainer = document.getElementById('alert-container');
-  const alert = document.createElement('div');
-  alert.className = `alert alert-${type}`;
-  alert.innerText = message;
-  alertContainer.appendChild(alert);
-
-  // Usunięcie alertu po 3 sekundach
-  setTimeout(() => {
-      alert.remove();
-  }, 3000);
-}
-
+ 

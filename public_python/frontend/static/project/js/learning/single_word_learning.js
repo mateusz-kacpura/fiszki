@@ -1,33 +1,52 @@
-let words = [];
+fullContentData = inicializeFullContentData()
 let reverseDirection = false;
 let currentWord = null;
 
-function fetchData() {
-  const fileInput = document.getElementById('fileInput');
-  const file = fileInput.files[0];
-  if (!file) {
-    console.error('No file selected.');
-    return;
-  }
+///////////////////////////////////
 
-  const reader = new FileReader();
-  reader.onload = function(event) {
-    const fileContent = event.target.result;
-    try {
-      words = JSON.parse(fileContent);
-      console.log('Data loaded successfully:', words);
-      document.getElementById('quiz').style.display = 'block';
-      generateRandomWord();
-    } catch (error) {
-      console.error('Error parsing JSON:', error);
+// FUNKCJE ŁĄCZĄCE PLIKI W OPARCIU O AMTUALIZACJE DATY
+
+///////////////////////////////////
+
+    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+    function handleDateChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+              console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+              // Wywołanie funkcji z innego pliku
+              generateRandomWord();
+          }
+      }
     }
-  };
-  reader.readAsText(file);
-}
+
+    // Funkcja do rozpoczęcia obserwacji
+    function startObservingDateChange() {
+      const hiddenDateElement = document.getElementById('hiddenDate');
+      
+      // Konfiguracja MutationObserver
+      const observer = new MutationObserver(handleDateChange);
+      
+      // Obserwacja zmian atrybutów elementu
+      observer.observe(hiddenDateElement, {
+          attributes: true // Obserwujemy tylko zmiany atrybutów
+      });
+    }
+
+    // Wywołanie funkcji obserwującej po załadowaniu dokumentu
+    document.addEventListener('DOMContentLoaded', (event) => {
+      startObservingDateChange();
+    });
+
+
+///////////////////////////////////
+
+// FUNKCJE UNIKATOWE DLA PLIKU
+
+///////////////////////////////////
 
 function generateRandomWord() {
-  const randomIndex = Math.floor(Math.random() * words.length);
-  const randomWord = words[randomIndex];
+  const randomIndex = Math.floor(Math.random() * fullContentData.length);
+  const randomWord = fullContentData[randomIndex];
   // Swap word and translation based on the reverse direction flag
   const audioIcon = `<button id="audioButton" onclick="playTextToSpeech('${randomWord.word}')"><i class="icon-sound"></i></button>`;
   const displayWord = reverseDirection ? randomWord.translation : randomWord.word;
@@ -52,16 +71,16 @@ function checkTranslation() {
     const userTranslation = document.getElementById('translation').value.trim();
     const wordElement = document.getElementById('word');
     
-    // Pobierz tylko tekst sĹ‚owa (bez dodatkowego HTML)
+    // Pobierz tylko tekst słowa (bez dodatkowego HTML)
     const currentWord = wordElement.querySelector('.word-to-translate').textContent.trim();
   
-    // ZnajdĹş poprawne tĹ‚umaczenie
+    // Znajdź poprawne tłumaczenie
     const wordObject = reverseDirection ? 
-      words.find(word => word.translation === currentWord) :
-      words.find(word => word.word === currentWord);
+      fullContentData.find(word => word.translation === currentWord) :
+      fullContentData.find(word => word.word === currentWord);
     
     if (!wordObject) {
-      console.error('Current word not found in words array');
+      console.error('Current word not found in fullContentData array');
       return;
     }
   
@@ -118,7 +137,7 @@ function checkTranslation() {
   function handleEnterKey() {
     if (document.getElementById('result').textContent === '') {
       const currentWord = document.getElementById('word').textContent;
-      const correctTranslation = words.find(word => word.word === currentWord).translation;
+      const correctTranslation = fullContentData.find(word => word.word === currentWord).translation;
       const resultElement = document.getElementById('result');
       resultElement.innerHTML = `Correct translation: <span class="word-to-translate">${correctTranslation}</span>`;
       resultElement.style.color = 'green';

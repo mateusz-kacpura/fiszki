@@ -10308,5 +10308,45 @@
     "word": "si\u0142a robocza",
     "correct": true,
     "timestamp": "2024-09-10T11:31:42.102Z"
+  },
+  {
+    "sentence": "Moja macocha jest sympatyczn\u0105 osob\u0105.",
+    "correct": false,
+    "timestamp": "2024-09-14T21:26:04.393Z"
+  },
+  {
+    "sentence": "Moja te\u015bciowa jest wspania\u0142\u0105 osob\u0105.",
+    "correct": true,
+    "timestamp": "2024-09-14T21:26:13.684Z"
+  },
+  {
+    "sentence": "Moja babcia mieszka na wsi.",
+    "correct": true,
+    "timestamp": "2024-09-14T21:26:28.450Z"
+  },
+  {
+    "sentence": "Moja babcia mieszka na wsi.",
+    "correct": false,
+    "timestamp": "2024-09-14T21:26:50.896Z"
+  },
+  {
+    "sentence": "Moja babcia mieszka na wsi.",
+    "correct": false,
+    "timestamp": "2024-09-14T21:26:53.267Z"
+  },
+  {
+    "sentence": "M\u00f3j ojciec jest lekarzem.",
+    "correct": true,
+    "timestamp": "2024-09-14T21:26:54.682Z"
+  },
+  {
+    "sentence": "M\u00f3j ojciec jest lekarzem.",
+    "correct": false,
+    "timestamp": "2024-09-14T21:26:59.318Z"
+  },
+  {
+    "sentence": "M\u00f3j tata jest nauczycielem.",
+    "correct": true,
+    "timestamp": "2024-09-14T21:27:01.732Z"
   }
 ]

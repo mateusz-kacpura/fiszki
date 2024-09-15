@@ -1,7 +1,49 @@
-let words = [];
+fullContentData = inicializeFullContentData()
 let excludedWords = []; // Initialize excludedWords
 let reverseDirection = false;
 let currentWord = null;
+
+///////////////////////////////////
+
+// FUNKCJE ŁĄCZĄCE PLIKI W OPARCIU O AMTUALIZACJE DATY
+
+///////////////////////////////////
+
+    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+    function handleDateChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+              console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+              // Wywołanie funkcji z innego pliku
+              generateRandomWord();
+          }
+      }
+    }
+
+    // Funkcja do rozpoczęcia obserwacji
+    function startObservingDateChange() {
+      const hiddenDateElement = document.getElementById('hiddenDate');
+      
+      // Konfiguracja MutationObserver
+      const observer = new MutationObserver(handleDateChange);
+      
+      // Obserwacja zmian atrybutów elementu
+      observer.observe(hiddenDateElement, {
+          attributes: true // Obserwujemy tylko zmiany atrybutów
+      });
+    }
+
+    // Wywołanie funkcji obserwującej po załadowaniu dokumentu
+    document.addEventListener('DOMContentLoaded', (event) => {
+      startObservingDateChange();
+    });
+
+
+///////////////////////////////////
+
+// FUNKCJE UNIKATOWE DLA PLIKU
+
+///////////////////////////////////
 
 document.addEventListener('keydown', function(event) {
   if (event.key >= '1' && event.key <= '5') {
@@ -22,32 +64,8 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
-
-function fetchData() {
-  const fileInput = document.getElementById('fileInput');
-  const file = fileInput.files[0];
-  if (!file) {
-    console.error('No file selected.');
-    return;
-  }
-
-  const reader = new FileReader();
-  reader.onload = function(event) {
-    const fileContent = event.target.result;
-    try {
-      words = JSON.parse(fileContent);
-      console.log('Data loaded successfully:', words);
-      document.getElementById('quiz').style.display = 'block';
-      generateRandomWord();
-    } catch (error) {
-      console.error('Error parsing JSON:', error);
-    }
-  };
-  reader.readAsText(file);
-}
-
 function generateRandomWord() {
-  const availableWords = words.filter(word => !excludedWords.includes(word.word));
+  const availableWords = fullContentData.filter(word => !excludedWords.includes(word.word));
   if (availableWords.length === 0) {
     document.getElementById('result').textContent = 'No more words to study.';
     return;
@@ -76,8 +94,8 @@ function generateAnswerButtons(correctWord, direction) {
   const correctAnswer = direction === 'word' ? correctWord.translation : correctWord.word;
   const answers = [correctAnswer];
   while (answers.length < 5) {
-    const randomIndex = Math.floor(Math.random() * words.length);
-    const randomAnswer = direction === 'word' ? words[randomIndex].translation : words[randomIndex].word;
+    const randomIndex = Math.floor(Math.random() * fullContentData.length);
+    const randomAnswer = direction === 'word' ? fullContentData[randomIndex].translation : fullContentData[randomIndex].word;
     if (!answers.includes(randomAnswer)) {
       answers.push(randomAnswer);
     }

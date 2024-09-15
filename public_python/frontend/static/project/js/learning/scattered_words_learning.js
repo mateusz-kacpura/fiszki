@@ -1,6 +1,48 @@
-let sentences = [];
+    fullContentData = inicializeFullContentData()
     let excludedSentences = [];
     let reverseDirection = false;
+
+///////////////////////////////////
+
+// FUNKCJE ŁĄCZĄCE PLIKI W OPARCIU O AMTUALIZACJE DATY
+
+///////////////////////////////////
+
+    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+    function handleDateChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+              console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+              // Wywołanie funkcji z innego pliku
+              generateRandomSentence();
+          }
+      }
+    }
+
+    // Funkcja do rozpoczęcia obserwacji
+    function startObservingDateChange() {
+      const hiddenDateElement = document.getElementById('hiddenDate');
+      
+      // Konfiguracja MutationObserver
+      const observer = new MutationObserver(handleDateChange);
+      
+      // Obserwacja zmian atrybutów elementu
+      observer.observe(hiddenDateElement, {
+          attributes: true // Obserwujemy tylko zmiany atrybutów
+      });
+    }
+
+    // Wywołanie funkcji obserwującej po załadowaniu dokumentu
+    document.addEventListener('DOMContentLoaded', (event) => {
+      startObservingDateChange();
+    });
+
+
+///////////////////////////////////
+
+// FUNKCJE UNIKATOWE DLA PLIKU
+
+///////////////////////////////////
 
     document.addEventListener('keydown', function(event) {
       if (event.key === 'Enter') {
@@ -10,35 +52,12 @@ let sentences = [];
       }
     });
 
-    function fetchData() {
-      const fileInput = document.getElementById('fileInput');
-      const file = fileInput.files[0];
-      if (!file) {
-        console.error('No file selected.');
-        return;
-      }
-
-      const reader = new FileReader();
-      reader.onload = function(event) {
-        const fileContent = event.target.result;
-        try {
-          sentences = JSON.parse(fileContent);
-          console.log('Data loaded successfully:', sentences);
-          document.getElementById('quiz').style.display = 'block';
-          generateRandomSentence();
-        } catch (error) {
-          console.error('Error parsing JSON:', error);
-        }
-      };
-      reader.readAsText(file);
-    }
-
     let currentSentence = null;
 
     function generateRandomSentence() {
-      const availableSentences = sentences.filter(sentence => !excludedSentences.includes(sentence.example));
+      const availableSentences = fullContentData.filter(sentence => !excludedSentences.includes(sentence.example));
       if (availableSentences.length === 0) {
-        document.getElementById('result').textContent = 'No more sentences to study.';
+        document.getElementById('result').textContent = 'No more fullContentData to study.';
         return;
       }
       const randomIndex = Math.floor(Math.random() * availableSentences.length);
@@ -184,3 +203,5 @@ let sentences = [];
         generateRandomSentence();
       }
     }
+
+    
