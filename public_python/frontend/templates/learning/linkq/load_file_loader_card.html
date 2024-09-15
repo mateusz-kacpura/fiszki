@@ -1,0 +1,13 @@
+<!-- Karta do wyboru tekstu -->
+<div class="card mb-3">
+    <div class="card-header text-center">
+        <h2 class="card-title">Wybierz tekst do załadowania</h2>
+    </div>
+    <div class="card-body">
+        <div>
+            {% include 'learning/controls/files_loader_controls.html' %}
+            <ul id="textList" class="list-group"></ul>
+            {% include 'learning/controls/files_loader_pagination.html' %}              
+        </div>            
+    </div>
+</div>

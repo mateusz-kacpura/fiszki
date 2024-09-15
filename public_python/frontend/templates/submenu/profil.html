@@ -42,7 +42,7 @@
         <!-- Manage submenu items (green background) -->
         <li class="nav-item">
           <div id="profilSubmenu" class="submenu active">
-            <a class="nav-link profil-btn" >View</a>
+            <a class="nav-link profil-btn" href="{{ url_for('user.view_profile') }}">View</a>
             <a class="nav-link profil-btn" href="{{ url_for('user.edit_profile') }}">Edit</a>
           </div>
         </li>

@@ -6,13 +6,13 @@
 
 <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
 
-<h1 class="text-center mb-4">Scattered Words Learning</h1>
 
-<div id="quiz" style="display: none;">
+<div class="container">
+  <h1 class="text-center mb-4">Scattered Words Learning</h1>
   <div class="row justify-content-center">
       <div class="col-md-8">
-        <div class="card mt-3">
-            <div class="card-header text-center">
+        <div id="quiz" class="card mt-3" style="display: none;">
+            <div class="card-header">
                   <h5 class="no-margin">Construct the sentence</h5>
             </div>
             <div class="card-body text-center">
@@ -28,23 +28,11 @@
                 <div id="modal-container"></div>
             </div>
         </div>
+        {% include 'learning/controls/buttons.html' %}
     </div>
-    <div class="col-md-4">
-      <div class="card mt-3">
-        <div class="card-header text-center">
-          <h5 class="no-margin">Additional Controls</h5>
-        </div>
-        {% include 'learning/controls/audio.html' %}
-        <div class="card-footer text-center">
-          <p class="m-0">SPACE - check | CTRL - play audio | â†’ - next word</p>
-        </div>
-      </div>
-    </div>
+    {% include 'learning/include/sidebar.html' %}
   </div>
-   
 </div>
-
-{% include 'learning/controls/buttons.html' %}
 
 {% include 'learning/modals/edit-word-modal.html' %}
 

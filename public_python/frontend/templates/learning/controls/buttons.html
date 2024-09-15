@@ -4,34 +4,7 @@
         <div class="card-header text-center">
             <h2 class="card-title">Wybierz tekst do załadowania</h2>
         </div>
-
-        <div class="card-body">
-            <!-- Input do wyszukiwania tekstów -->
-            <div>
-                <input type="text" id="searchInput" placeholder="Szukaj tekstu..." oninput="filterFilesByName()" >
-                <input type="text" id="tagInput" placeholder="Filtruj po tagach..." oninput="filterFilesByTag()" >
-                <select id="textLimit" onchange="decideWhichFilesToLoad()">
-                    <option value="5" selected>5</option>
-                    <option value="10" >10</option>
-                    <option value="20">20</option>
-                </select>
-                <div class="mt-2 mb-2 ml-5">
-                    <label>
-                        <input type="checkbox" id="publicCheckbox" onchange="fetchData()"> Załaduj pliki publiczne
-                    </label>
-                </div>
-                <!-- Lista tekstów -->
-                <ul id="textList" class="list-group mb-3"></ul>
-                <label>Flaga języka:</label>
-                <input type="text" id="languageFlag" disabled>
-
-                <!-- Paginate controls -->
-                <div class="pagination-controls mb-3">
-                    <button id="prevPage" class="btn btn-secondary" onclick="prevPage()">Poprzednia strona</button>
-                    <button id="nextPage" class="btn btn-secondary" onclick="nextPage()">Następna strona</button>
-                </div>
-            </div>
-        </div>
+        {% include 'learning/controls/files_loader.html' %}
     </div>
     <div class="col-md-8">
         <!-- Buttons -->

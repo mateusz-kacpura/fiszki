@@ -277,7 +277,14 @@ function saveSetting(data) {
   let searchQuery = '';  // Wartość wyszukiwania po nazwie pliku
   let tagQuery = '';  // Wartość wyszukiwania po tagu
 
-  document.addEventListener("DOMContentLoaded", fetchData);
+  document.addEventListener("DOMContentLoaded", function() {
+    const publicCheckbox = document.getElementById('publicCheckbox');
+    
+    // Sprawdź, czy element istnieje i czy jest zaznaczony
+    if (publicCheckbox) {
+        fetchData();
+    }
+  });
 
   // Funkcja do wyszukiwania plików
   function fetchData() {

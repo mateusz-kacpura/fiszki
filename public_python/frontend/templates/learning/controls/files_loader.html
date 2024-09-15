@@ -1,0 +1,13 @@
+<div class="card-body">
+    <!-- Input do wyszukiwania tekstów -->
+    <div>
+        {% include 'learning/controls/files_loader_controls.html' %}
+        {% include 'learning/controls/files_loader_publicCheckbox.html' %}
+        <!-- Lista tekstów -->
+        <ul id="textList" class="list-group mb-3"></ul>
+        <label>Flaga języka:</label>
+        <input type="text" id="languageFlag" disabled>
+        <!-- Paginate controls -->
+        {% include 'learning/controls/files_loader_pagination.html' %}
+    </div>
+</div>

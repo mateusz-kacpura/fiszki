@@ -46,6 +46,7 @@ from backend.routes.users.save_setting import save_setting
 from backend.routes.users.manage.uploads_save_json import uploads_save_json
 from backend.routes.users.manage.upload_excel import upload_excel
 from backend.routes.users.profil.edit_profil import edit_profile
+from backend.routes.users.profil.view_profil import view_profile
 from backend.routes.users.learn.load_files_for_learning import load_files_for_learning
 from backend.routes.users.learn.load_file_content import load_file
 
@@ -63,6 +64,7 @@ user_route.route('/modals/modal_pop_up_for_image_learning', methods=['GET'])(mod
 user_route.route('/modals/modal_pop_up_for_insert_word', methods=['GET'])(modal_pop_up_for_insert_word)
 user_route.route('/modals/modal_pop_up_for_multi_learning', methods=['GET'])(modal_pop_up_for_multi_learning)
 user_route.route('/edit_profile', methods=['GET', 'POST'])(edit_profile)
+user_route.route('/view_profile', methods=['GET'])(view_profile)
 
 # funkcja nie dziaĹ‚a w peĹ‚ni offline pomimo pobrania repozytoriĂłw whisper do folderu models
 user_route.route('/real-time-speech-recognition', methods=['POST'])(real_time_speech_recognition)

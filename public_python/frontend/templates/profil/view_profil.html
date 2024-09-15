@@ -1,0 +1,51 @@
+{% extends "profil.html" %}
+{% block title %}Profil użytkownika - {{ config.get('username', 'Użytkownik') }}{% endblock %}
+
+{% block manage %}
+<div class="container mt-4">
+    <div class="card mx-auto" style="max-width: 600px;">
+        <div class="card-body">
+            <h1 class="card-title text-center">{{ config.get('username', 'Użytkownik') }}</h1>
+            
+            <!-- Informacje o preferencjach językowych -->
+            <p class="card-text"><strong>Język 1:</strong> {{ config.get('language_1', 'Nie ustawiono') }}</p>
+            <p class="card-text"><strong>Język 2:</strong> {{ config.get('language_2', 'Nie ustawiono') }}</p>
+            
+            <!-- Informacje o motywie -->
+            <p class="card-text"><strong>Motyw:</strong> 
+                {% if config.get('theme') == 'light' %}
+                    Jasny
+                {% elif config.get('theme') == 'dark' %}
+                    Ciemny
+                {% else %}
+                    Nie ustawiono
+                {% endif %}
+            </p>
+            
+            <!-- Informacje o powiadomieniach -->
+            <p class="card-text"><strong>Powiadomienia:</strong> 
+                {% if config.get('notifications') == 'email' %}
+                    E-mail
+                {% elif config.get('notifications') == 'sms' %}
+                    SMS
+                {% else %}
+                    Brak
+                {% endif %}
+            </p>
+            
+            <!-- Ustawienia prywatności profilu -->
+            <p class="card-text"><strong>Prywatność profilu:</strong> 
+                {% if config.get('privacy') == 'public' %}
+                    Publiczny
+                {% else %}
+                    Prywatny
+                {% endif %}
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script></script>
+{% endblock %}
