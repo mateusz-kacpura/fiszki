@@ -9,7 +9,7 @@
       "definition_translation": "Un valor o cantidad matemática, especialmente un entero o número positivo.",
       "example": "Tengo que memorizar el número de teléfono, ¿puedes repetirlo? Ayer olvidé mi número PIN y no pude retirar dinero. Para fin de año, habré terminado mi proyecto de análisis de números.",
       "example_translation": "Tengo que memorizar el número de teléfono, ¿puedes repetirlo? Ayer, olvidé mi número de PIN y no pude retirar dinero. Para fines de año, habré terminado mi proyecto de análisis de números.",
-      "imageLink": "number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "number.jpg",
       "audioLink": "number.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Una forma redonda sin principio ni fin, continuando indefinidamente en todas las direcciones.",
       "example": "El círculo de amigos que tengo es muy apoyo. En geometría, un círculo es una curva cerrada. Para fin de año, habré terminado de dibujar un círculo alrededor de toda la ciudad.",
       "example_translation": "El círculo de amigos que tengo es muy solidario. En geometría, un círculo es una curva cerrada. Para fines de año, habré terminado dibujando un círculo alrededor de toda la ciudad.",
-      "imageLink": "circle-3.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "circle-3.jpg",
       "audioLink": "circle.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Una figura con cuatro lados de igual longitud, donde todos los ángulos internos son ángulos rectos.",
       "example": "La raíz cuadrada de 16 es 4. La plaza del cuadrado es un lugar turístico popular. Para el año que viene, habré construido una casa cuadrada con un hermoso jardín.",
       "example_translation": "La raíz cuadrada de 16 es 4. La plaza del pueblo es un lugar turístico popular. Para el próximo año, habré construido una casa cuadrada con un hermoso jardín.",
-      "imageLink": "square-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "square-2.jpg",
       "audioLink": "square.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Una bola masiva y luminosa de gas que se mantiene unida por su propia gravedad. Las estrellas son objetos celestes que son visibles desde la Tierra y se ven típicamente como puntos de luz en el cielo nocturno.",
       "example": "La estrella brillaba intensamente en el cielo nocturno. El astrónomo había estudiado la estrella durante muchos años. Para el año 2050, los humanos habrán colonizado una estrella cercana.",
       "example_translation": "La estrella brilló intensamente en el cielo nocturno. El astrónomo había estudiado la estrella durante muchos años. Para el año 2050, los humanos habrán colonizado una estrella cercana.",
-      "imageLink": "star-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "star-2.jpg",
       "audioLink": "star.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un símbolo o forma con dos líneas intersectantes, utilizado como representación del cristianismo o como símbolo de protección o bendición.",
       "example": "La cruz que colgaba del cuello era un regalo de su abuela. El sacerdote cristiano llevaba una gran cruz durante la procesión. Los excursionistas tuvieron que cruzar el río para llegar a la montaña.",
       "example_translation": "La cruz que colgaba alrededor de su cuello era un regalo de su abuela. El sacerdote cristiano llevaba una gran cruz durante la procesión. Los excursionistas tuvieron que cruzar el río para alcanzar la montaña.",
-      "imageLink": "cross-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cross-1.jpg",
       "audioLink": "cross.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Una unidad de porcentaje, igual a una centésima parte de un todo, utilizada para expresar una proporción o tasa.",
       "example": "Las ganancias de la empresa aumentaron un 20 por ciento el año pasado. El estudiante obtuvo un 85 por ciento en el examen. La tasa de interés del préstamo era del 5 por ciento anual.",
       "example_translation": "Los beneficios de la empresa aumentaron un 20 por ciento el año pasado. El estudiante obtuvo un 85 por ciento en el examen. La tasa de interés del préstamo era del 5 por ciento anual.",
-      "imageLink": "per-cent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "per-cent.jpg",
       "audioLink": "per cent.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "La cantidad total o cantidad obtenida al sumar dos o más números o cantidades.",
       "example": "Voy a sumar los números para obtener el total. Ayer, sumé los números para obtener el total. Mañana, voy a sumar los números para obtener el total.",
       "example_translation": "Voy a sumar los números para obtener el total. Ayer, sumé los números para obtener el total. Mañana, sumaré los números para obtener el total.",
-      "imageLink": "sum-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sum-1.jpg",
       "audioLink": "sum.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "El acto de agregar algo a algo más, especialmente en matemáticas.",
       "example": "Aprendí adición en la escuela primaria. Mi hermana es buena en adición. Me enseñará adición mañana.",
       "example_translation": "Aprendí adición en la escuela primaria. Mi hermana es buena en adición. Ella me enseñará adición mañana.",
-      "imageLink": "addition.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "addition.jpg",
       "audioLink": "addition.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Una forma con una base circular y lados inclinados que se encuentran en un punto.",
       "example": "Me comí un cono de helado en la playa. Ella compró un cono en la tienda. Ellos harán conos para la fiesta.",
       "example_translation": "Me comí un cono de helado en la playa. Ella compró un cono en la tienda. Ellos harán conos para la fiesta.",
-      "imageLink": "cone-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cone-1.jpg",
       "audioLink": "cone.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un cubo es un objeto sólido tridimensional limitado por seis caras cuadradas, con tres caras que se encuentran en cada vértice.",
       "example": "Cubrí el número para obtener el volumen, el cubo encajaba perfectamente en la caja, y el cubo se utilizará en la lección de matemáticas mañana.",
       "example_translation": "Cubiqué el número para obtener el volumen, el cubo se ajustó perfectamente en la caja, y el cubo se utilizará en la lección de matemáticas mañana.",
-      "imageLink": "cube.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cube.jpg",
       "audioLink": "cube.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "El diámetro de un círculo es la distancia más larga posible a través del círculo, pasando por su centro.",
       "example": "Medí el diámetro del círculo, el diámetro de la tubería era demasiado pequeño, y el diámetro de la luna es aproximadamente 2,159 millas.",
       "example_translation": "Medí el diámetro del círculo, el diámetro de la tubería era demasiado pequeño, y el diámetro de la luna es de aproximadamente 2,159 millas.",
-      "imageLink": "diameter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "diameter.jpg",
       "audioLink": "diameter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un ovalo es una forma que es aproximadamente elíptica, pero no perfectamente simétrica, con dos ejes de simetría.",
       "example": "Dibujé una forma óvalo, la piscina óvalo estaba rodeada de árboles, y la pista óvalo se utilizó para los Juegos Olímpicos.",
       "example_translation": "Dibujé una forma oval, la piscina ovalada estaba rodeada de árboles, y la pista oval se utilizó para los juegos olímpicos.",
-      "imageLink": "oval.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "oval.jpg",
       "audioLink": "oval.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un polígono con tres lados y tres ángulos, que generalmente tiene tres vértices.",
       "example": "Dibujé un triángulo en la pizarra, luego lo construí con palos, y finalmente calcularé su área mañana.",
       "example_translation": "Dibujé un triángulo en la pizarra, luego lo construí con palitos, y finalmente calcularé su área mañana.",
-      "imageLink": "triangle-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "triangle-1.jpg",
       "audioLink": "triangle.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "El espacio o forma formada por dos líneas, rayos o planos que se encuentran o se intersectan.",
       "example": "Medí el ángulo del techo, luego lo ajusté, y ahora estará perfecto.",
       "example_translation": "Medí el ángulo del techo, luego lo ajusté, y ahora sera perfecto.",
-      "imageLink": "angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "angle.jpg",
       "audioLink": "angle.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un poliedro con una base cuadrada y cuatro lados triangulares que se encuentran en el ápice.",
       "example": "Los antiguos egipcios construyeron una pirámide, luego la usaron como tumba, y finalmente se convirtió en una maravilla.",
       "example_translation": "Los antiguos egipcios construyeron una pirámide, luego la usaron como tumba, y finalmente se convirtió en una maravilla.",
-      "imageLink": "pyramid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pyramid.jpg",
       "audioLink": "pyramid.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un cuadrilátero que tiene cuatro ángulos rectos y cuatro lados de longitud desigual, siendo iguales los lados opuestos.",
       "example": "La arquitecta diseñó un rectángulo con una longitud de 10 metros y una anchura de 5 metros. Ayer, midió el rectángulo para asegurarse de que estaba correcto. Mañana, construirá un rectángulo más grande.",
       "example_translation": "El arquitecto diseñó un rectángulo con una longitud de 10 metros y un ancho de 5 metros. Ayer, ella midió el rectángulo para asegurarse de que fuera correcto. Mañana, ella construirá un rectángulo más grande.",
-      "imageLink": "rectangle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rectangle.jpg",
       "audioLink": "rectangle.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Una colección de objetos únicos, conocidos como elementos o miembros, que pueden ser cualquier cosa, incluyendo números, letras, personas o otros objetos.",
       "example": "La profesora pidió a los estudiantes que pusieran sus libros en la mesa. Ayer, los estudiantes definieron sus objetivos para el proyecto. Mañana, configurarán sus presentaciones.",
       "example_translation": "El maestro pidió a los estudiantes que colocaran sus libros en la mesa. Ayer, los estudiantes establecieron sus metas para el proyecto. Mañana, ellos configurarán sus presentaciones.",
-      "imageLink": "set-4.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "set-4.jpg",
       "audioLink": "set.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una ubicación de almacenamiento con nombre que contiene un valor que puede cambiar durante la ejecución de un programa.",
       "example": "El programador declaró una variable para almacenar la entrada del usuario. Ayer, la variable se inicializó con un valor predeterminado. Mañana, la variable se actualizará con nuevos datos.",
       "example_translation": "El programador declaró una variable para almacenar la entrada del usuario. Ayer, la variable se inicializó con un valor predeterminado. Mañana, la variable se actualizará con nuevos datos.",
-      "imageLink": "variable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "variable.jpg",
       "audioLink": "variable.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un ángulo agudo es un ángulo cuya medida está entre 0 y 90 grados.",
       "example": "La constructora midió cuidadosamente el ángulo agudo del techo para asegurarse de que estaba correcto. Ayer, lo midió de nuevo para revisar. Para la próxima semana, toda la cubierta estará completa.",
       "example_translation": "El constructor midió cuidadosamente el ángulo agudo del techo para asegurarse de que fuera correcto. Ayer, lo midió de nuevo para verificar. Para la próxima semana, todo el techo estará completado.",
-      "imageLink": "acute-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "acute-angle.jpg",
       "audioLink": "acute angle.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "El eje de coordenadas es un conjunto de tres líneas que se intersectan en un punto, llamado origen, y se utilizan para ubicar puntos en el espacio.",
       "example": "La profesora de matemáticas dibujó el eje de coordenadas en la pizarra para explicar el concepto de graficación. El año pasado, luché por entenderlo, pero ahora está claro. Para el final del semestre, habré dominado el concepto.",
       "example_translation": "El maestro de matemáticas dibujó el eje de coordenadas en la pizarra para explicar el concepto de graficar. El año pasado, me costó entenderlo, pero ahora está claro. Para fin de semestre, lo habré dominado.",
-      "imageLink": "axis-of-coordinates.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "axis-of-coordinates.jpg",
       "audioLink": "axis of coordinates.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un número cardinal es un número que indica cantidad, como uno, dos o tres.",
       "example": "El número cardinal del conjunto es cinco, lo que significa que tiene cinco elementos. Ayer, conté el número de estudiantes en la clase y había treinta y cinco. Para el próximo mes, habremos aprendido sobre números ordinales.",
       "example_translation": "El número cardinal del conjunto es cinco, lo que significa que tiene cinco elementos. Ayer, conté el número de estudiantes en la clase, y había treinta y cinco. Para el próximo mes, habremos aprendido sobre números ordinales.",
-      "imageLink": "cardinal-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cardinal-number.jpg",
       "audioLink": "cardinal number.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "La circunferencia de un círculo es la distancia alrededor del círculo. Es una medida del tamaño del círculo.",
       "example": "Medí la circunferencia de la rueda para asegurarme de que se adapte al marco de la bicicleta. Mediré la circunferencia del tubo para asegurarme de que se ajuste a la válvula. Había medido la circunferencia del círculo para calcular su área.",
       "example_translation": "Medí la circunferencia de la rueda para asegurarme de que se adaptara al marco de la bicicleta. Mediré la circunferencia del tubo para asegurarme de que se adapte a la válvula. Había medido la circunferencia del círculo para calcular su área.",
-      "imageLink": "circumference.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "circumference.jpg",
       "audioLink": "circumference.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un coeficiente es un valor numérico que se multiplica por una variable o una expresión en una ecuación o fórmula.",
       "example": "El coeficiente de fricción se utiliza para calcular la fuerza necesaria para mover un objeto. El coeficiente de determinación se utilizó para analizar la correlación entre las variables. Calcularé el coeficiente de variación para entender la dispersión de los datos.",
       "example_translation": "El coeficiente de fricción se utiliza para calcular la fuerza necesaria para mover un objeto. El coeficiente de determinación se utilizó para analizar la correlación entre las variables. Calcularé el coeficiente de variación para entender la dispersión de los datos.",
-      "imageLink": "coefficient.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coefficient.jpg",
       "audioLink": "coefficient.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Los compases son una herramienta de navegación utilizada para determinar la dirección, especialmente en situaciones en las que el sol o las estrellas no son visibles.",
       "example": "Utilicé brújulas para navegar por el bosque. Los excursionistas utilizaron brújulas para encontrar su camino de regreso al campamento. Ella utilizará brújulas para orientar su mapa.",
       "example_translation": "Usé compases para navegar por el bosque. Los excursionistas utilizaron compases para encontrar su camino de regreso al campamento. Ella utilizará compases para orientar su mapa.",
-      "imageLink": "compasses.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "compasses.jpg",
       "audioLink": "compasses.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un ángulo cuya medida es de 360 grados, lo que significa que forma un círculo completo.",
       "example": "El ángulo completo del círculo fue crucial en el diseño de la estructura arquitectónica. Tendrá un ángulo completo en la próxima versión. Ella había tenido ángulos completos en mente mientras pintaba el paisaje.",
       "example_translation": "El ángulo completo del círculo fue crucial en el diseño de la estructura arquitectónica. Tendrá un ángulo completo en la próxima versión. Ella tenía ángulos completos en su mente mientras pintaba el paisaje.",
-      "imageLink": "complete-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "complete-angle.jpg",
       "audioLink": "complete angle.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un sistema utilizado para ubicar puntos en el espacio, definido por un conjunto de tres líneas perpendiculares que se intersectan en un solo punto, llamado origen.",
       "example": "El matemático utilizó un sistema de coordenadas para trazar la gráfica. Ella utilizará un sistema de coordenadas para resolver el problema. Habían aprendido sobre sistemas de coordenadas en su clase de geometría.",
       "example_translation": "El matemático utilizó un sistema de coordenadas para trazar el gráfico. Ella utilizará un sistema de coordenadas para resolver el problema. Habían aprendido sobre sistemas de coordenadas en su clase de geometría.",
-      "imageLink": "coordinate-system.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coordinate-system.jpg",
       "audioLink": "coordinate system.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un valor que, al multiplicarse por sí mismo tres veces, da un número o valor especificado.",
       "example": "La raíz cúbica de 27 es 3, ya que 3 multiplicado por sí mismo tres veces da 27. Ella encontrará la raíz cúbica del número. Habían aprendido a calcular raíces cúbicas en su clase de álgebra.",
       "example_translation": "La raíz cúbica de 27 es 3, ya que 3 multiplicado por sí mismo tres veces da 27. Ella encontrará la raíz cúbica del número. Habían aprendido a calcular raíces cúbicas en su clase de álgebra.",
-      "imageLink": "cube-root.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cube-root.jpg",
       "audioLink": "cube root.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un cuboide es una forma sólida tridimensional con seis caras rectangulares, donde cada cara es un rectángulo con todos los ángulos rectos.",
       "example": "El arquitecto diseñó un edificio con forma de paralelepípedo con techo plano. La caja de paralelepípedo era pesada para levantar. Para el próximo año, construirán un rascacielos con forma de paralelepípedo.",
       "example_translation": "El arquitecto diseñó un edificio cuboide con techo plano. La caja cuboide era pesada de levantar. Para el próximo año, construirán un rascacielos con forma de cuboide.",
-      "imageLink": "cuboid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuboid.jpg",
       "audioLink": "cuboid.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un cilindro es una forma sólida tridimensional con dos bases paralelas y circulares conectadas por un lado curvo.",
       "example": "El ingeniero diseñó un tanque con forma de cilindro. El cilindro rodó colina abajo. Para el próximo mes, manufacturarán contenedores con forma de cilindro.",
       "example_translation": "El ingeniero diseñó un tanque con forma de cilindro. El cilindro rodó colina abajo. Para el próximo mes, fabricarán contenedores con forma de cilindro.",
-      "imageLink": "cylinder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cylinder.jpg",
       "audioLink": "cylinder.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un decimal es un número expresado en el sistema decimal, donde cada dígito puede tener uno de los diez valores, desde 0 hasta 9.",
       "example": "El punto decimal estaba al final del número. Ella convirtió la fracción a decimal. La computadora procesó los datos decimales rápidamente.",
       "example_translation": "El punto decimal estaba al final del número. Ella convirtió la fracción a un decimal. La computadora procesó los datos decimales rápidamente.",
-      "imageLink": "decimal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "decimal.jpg",
       "audioLink": "decimal.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Una ecuación diferencial es una ecuación matemática que implica una función desconocida y sus derivadas, y relaciona los valores de la función y sus derivadas en diferentes puntos del espacio.",
       "example": "En matemáticas, las ecuaciones diferenciales se utilizan para modelar el crecimiento de la población, mientras que en física, se utilizan para describir el movimiento de objetos. El año pasado, resolví una ecuación diferencial para predecir la trayectoria de un proyectil. El próximo año, utilizaré ecuaciones diferenciales para modelar la propagación de una enfermedad.",
       "example_translation": "En matemáticas, las ecuaciones diferenciales se utilizan para modelar el crecimiento de la población, mientras que en física, se utilizan para describir el movimiento de objetos. El año pasado, resolví una ecuación diferencial para predecir la trayectoria de un proyectil. El próximo año, utilizaré ecuaciones diferenciales para modelar la propagación de una enfermedad.",
-      "imageLink": "differential-equation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "differential-equation.jpg",
       "audioLink": "differential equation.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un dígito es un símbolo o carácter individual en un sistema numérico, como un número en el sistema decimal o una letra en el sistema hexadecimal.",
       "example": "El número de teléfono tiene 10 dígitos. Ayer, tecleé 5 dígitos para desbloquear mi teléfono. En el futuro, tendré que recordar 12 dígitos para mi nueva tarjeta de crédito.",
       "example_translation": "El número de teléfono tiene 10 dígitos. Ayer, escribí 5 dígitos para desbloquear mi teléfono. En el futuro, necesitaré recordar 12 dígitos para mi nueva tarjeta de crédito.",
-      "imageLink": "digit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "digit.jpg",
       "audioLink": "digit.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un dividendo es un pago realizado por una corporación a sus accionistas, usualmente como una forma de distribuir ganancias.",
       "example": "La empresa pagará un dividendo de $1 por acción el próximo trimestre. El año pasado, recibí un dividendo de $500 por mi inversión. En el futuro, espero recibir un dividendo más alto de mis acciones.",
       "example_translation": "La empresa pagará un dividendo de $1 por acción el próximo trimestre. El año pasado, recibí un dividendo de $500 de mi inversión. En el futuro, espero recibir un dividendo más alto de mis acciones.",
-      "imageLink": "divident.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "divident.jpg",
       "audioLink": "divident.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "La acción de dividir o el estado de estar dividido, un proceso de separar o categorizar algo en grupos o partes, una rama de las matemáticas que se ocupa de la operación de dividir números",
       "example": "La división de la empresa en departamentos más pequeños mejoró la eficiencia, dividiré el presupuesto para el proyecto para finales de la semana y dividimos las ganancias igualmente entre los socios.",
       "example_translation": "La división de la empresa en departamentos más pequeños mejoró la eficiencia, dividiré el presupuesto del proyecto para el final de la semana, y dividimos las ganancias igualmente entre los socios.",
-      "imageLink": "division.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "division.jpg",
       "audioLink": "division.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un número por el cual otro número puede ser dividido sin dejar un resto, un factor de un número que lo divide exactamente sin dejar un resto",
       "example": "El número 4 es un divisor de 12, el maestro nos pidió encontrar todos los divisores de 24 y la calculadora puede encontrar el mayor divisor común de dos números.",
       "example_translation": "El número 4 es un divisor de 12, el maestro nos pidió encontrar todos los divisores de 24, y la calculadora puede encontrar el máximo común divisor de dos números.",
-      "imageLink": "divisor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "divisor.jpg",
       "audioLink": "divisor.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un pequeño número que indica cuántas veces debe multiplicarse un número base por sí mismo, una operación matemática en la que se eleva un número a una potencia",
       "example": "El exponente de 2 en la ecuación es 3, la potencia de 10 en la expresión es 5 y necesitamos encontrar el valor de x en la ecuación con exponente 2.",
       "example_translation": "El exponente de 2 en la ecuación es 3, la potencia de 10 en la expresión es 5, y necesitamos encontrar el valor de x en la ecuación con exponente 2.",
-      "imageLink": "exponent-power.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exponent-power.jpg",
       "audioLink": "exponent, power.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Una fracción es una forma de expresar una parte de un todo. Es una forma de mostrar una parte de algo que se divide en partes iguales.",
       "example": "Me comí una fracción de la pizza anoche, comeré otra fracción para almuerzo hoy y terminaré la fracción restante mañana.",
       "example_translation": "Me comí una fracción de la pizza anoche, comeré otra fracción para almuerzo hoy y acabaré con la fracción restante mañana.",
-      "imageLink": "fraction.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fraction.jpg",
       "audioLink": "fraction.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Una función es una relación entre un conjunto de entradas, llamado dominio, y un conjunto de salidas posibles, llamado rango.",
       "example": "La función de una calculadora es realizar operaciones matemáticas, la utilicé para calcular la función de x al cuadrado y me ayudará a graficar la función en el futuro.",
       "example_translation": "La función de una calculadora es realizar operaciones matemáticas, la usé para calcular la función de x al cuadrado, y me ayudará a graficar la función en el futuro.",
-      "imageLink": "function.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "function.jpg",
       "audioLink": "function.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un hemisferio es la mitad de la Tierra, dividida por el Ecuador o un meridiano, y también es un término utilizado en geometría para describir una semiesfera.",
       "example": "El hemisferio norte experimenta invierno, viajé al hemisferio sur y vi la constelación de Orión en el cielo y en el futuro, visitaré el hemisferio oriental.",
       "example_translation": "El hemisferio norte experimenta el invierno, viajé al hemisferio sur y vi la constelación de Orión en el cielo, y en el futuro, visitaré el hemisferio oriental.",
-      "imageLink": "hemisphere.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hemisphere.jpg",
       "audioLink": "hemisphere.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un heptágono es un polígono con siete lados. Es un tipo de polígono que tiene siete vértices y siete lados de igual longitud.",
       "example": "Los antiguos griegos estudiaron las propiedades de los heptágonos y descubrieron que es posible construir un heptágono utilizando una compás y una regla recta. Hoy en día, los heptágonos se utilizan en arquitectura y diseño para crear estructuras visualmente atractivas. Para el año 2050, los heptágonos serán una característica común en ciudades futuristas.",
       "example_translation": "Los antiguos griegos estudiaron las propiedades de los heptágonos y descubrieron que es posible construir un heptágono utilizando una compás y regla. Hoy en día, los heptágonos se utilizan en arquitectura y diseño para crear estructuras visualmente atractivas. Para el año 2050, los heptágonos serán una característica común en las ciudades futuristas.",
-      "imageLink": "heptagon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heptagon.jpg",
       "audioLink": "heptagon.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un hexágono es un polígono con seis lados. Es un tipo de polígono que tiene seis vértices y seis lados de igual longitud.",
       "example": "El hexágono es una forma común encontrada en la naturaleza, como en las celdas de una colmena. Los hexágonos también se utilizan en arquitectura para crear estructuras fuertes y estables. Para el año 2025, los hexágonos se utilizarán para diseñar edificios sostenibles y ecológicos.",
       "example_translation": "El hexágono es una forma común encontrada en la naturaleza, como en las celdas de un panal. Los hexágonos también se utilizan en arquitectura para crear estructuras fuertes y estables. Para el año 2025, los hexágonos se utilizarán para diseñar edificios sostenibles y ecológicos.",
-      "imageLink": "hexagon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hexagon.jpg",
       "audioLink": "hexagon.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "El infinito es un concepto en matemáticas que representa una cantidad sin fin ni límite. A menudo se representa matemáticamente utilizando el símbolo ∞.",
       "example": "El concepto de infinito ha fascinado a matemáticos y filósofos durante siglos. El infinito se utiliza en cálculo para describir límites y fronteras. En el futuro, el infinito seguirá desempeñando un papel crucial en el desarrollo de las matemáticas y la ciencia.",
       "example_translation": "El concepto de infinito ha fascinado a matemáticos y filósofos durante siglos. El infinito se utiliza en cálculo para describir límites y fronteras. En el futuro, el infinito seguirá desempeñando un papel crucial en el desarrollo de las matemáticas y la ciencia.",
-      "imageLink": "infinity.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "infinity.jpg",
       "audioLink": "infinity.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un número entero, ya sea positivo, negativo o cero, y no una fracción o decimal.",
       "example": "El entero 5 es un número primo. Ayer, calculé la suma de enteros desde 1 hasta 10. Para el próximo año, habré aprendido a multiplicar enteros.",
       "example_translation": "El entero 5 es un número primo. Ayer, calculé la suma de enteros desde 1 hasta 10. Para el próximo año, habré aprendido a multiplicar enteros.",
-      "imageLink": "integer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "integer.jpg",
       "audioLink": "integer.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Relativo o siendo una cosa completa, entera o integral; siendo parte de un todo, en lugar de un elemento independiente.",
       "example": "La parte integral del sistema es el motor. La empresa integrará la nueva tecnología en su sistema integral. Para 2025, la solución integral se implementará en todo el mundo.",
       "example_translation": "La parte integral del sistema es el motor. La empresa integrará la nueva tecnología en su sistema integral. Para 2025, la solución integral se implementará en todo el mundo.",
-      "imageLink": "integral.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "integral.jpg",
       "audioLink": "integral.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un número real que no puede expresarse como una fracción simple, como pi o la raíz cuadrada de 2.",
       "example": "Los números irracionales fueron descubiertos por matemáticos griegos antiguos. La relación de la circunferencia de un círculo a su diámetro es un número irracional. Para el final del curso, podré calcular números irracionales.",
       "example_translation": "Los números irracionales fueron descubiertos por matemáticos griegos antiguos. La razón de la circunferencia de un círculo a su diámetro es un número irracional. Al final del curso, podré calcular números irracionales.",
-      "imageLink": "irrational-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "irrational-number.jpg",
       "audioLink": "irrational number.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Una parte de una línea que está delimitada por dos puntos distintos y contiene todos los puntos de la línea entre ellos.",
       "example": "El maestro pidió al estudiante que dibujara un segmento de línea en la pizarra. Ayer, ella dibujó un segmento de línea en el gráfico. Mañana, aprenderán sobre dibujar segmentos de línea en diferentes ángulos.",
       "example_translation": "La maestra le pidió al estudiante que dibujara un segmento de línea en la pizarra. Ayer, ella dibujó un segmento de línea en el gráfico. Mañana, ellos aprenderán sobre dibujar segmentos de línea en diferentes ángulos.",
-      "imageLink": "line-segment.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "line-segment.jpg",
       "audioLink": "line segment.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "La potencia a la que debe ser elevado un número base para producir un valor dado, especialmente la potencia a la que debe ser elevado el número base 10 para producir un valor dado.",
       "example": "El matemático calculó el logaritmo del número para resolver la ecuación. En el pasado, utilizaron logaritmos para calcular datos de astronomía. En el futuro, los logaritmos se utilizarán en algoritmos informáticos avanzados.",
       "example_translation": "El matemático calculó el logaritmo del número para resolver la ecuación. En el pasado, ellos usaron logaritmos para calcular datos de astronomía. En el futuro, los logaritmos se utilizarán en algoritmos informáticos avanzados.",
-      "imageLink": "logarithm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "logarithm.jpg",
       "audioLink": "logarithm.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "El proceso de combinar un número con sí mismo tantas veces como unidades hay en otro número, o el producto de tal proceso.",
       "example": "El estudiante practicó tablas de multiplicación para mejorar sus habilidades matemáticas. Ayer, multiplicaron dos números para obtener el producto. Mañana, aprenderán sobre la multiplicación de fracciones.",
       "example_translation": "El estudiante practicó tablas de multiplicación para mejorar sus habilidades matemáticas. Ayer, ellos multiplicaron dos números para obtener el producto. Mañana, ellos aprenderán sobre la multiplicación de fracciones.",
-      "imageLink": "multiplication.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "multiplication.jpg",
       "audioLink": "multiplication.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un número natural es un entero positivo, comenzando desde 1 y extendiéndose hasta el infinito, como 1, 2, 3, y así sucesivamente.",
       "example": "Los números naturales 1, 2 y 3 se utilizaron en el problema matemático. Ayer, ella escribió una secuencia de números naturales. Mañana, aprenderán sobre las propiedades de los números naturales.",
       "example_translation": "Los números naturales 1, 2 y 3 se utilizaron en el problema matemático. Ayer, ella escribió una secuencia de números naturales. Mañana, aprenderán sobre las propiedades de los números naturales.",
-      "imageLink": "natural-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "natural-number.jpg",
       "audioLink": "natural number.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Una línea numérica es una representación visual de números en una línea recta, utilizada para comparar y ordenar números.",
       "example": "El maestro dibujó una recta numérica en la pizarra para explicar el concepto de fracciones. El estudiante utilizó una recta numérica para encontrar el punto medio entre dos números. Para el final del año, podrán crear sus propias rectas numéricas.",
       "example_translation": "La maestra dibujó una línea numérica en la pizarra para explicar el concepto de fracciones. El estudiante utilizó una línea numérica para encontrar el punto medio entre dos números. Para fin de año, podrán crear sus propias líneas numéricas.",
-      "imageLink": "number-line.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "number-line.jpg",
       "audioLink": "number line.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un ángulo obtuso es un tipo de ángulo que es mayor que 90 grados pero menor que 180 grados, a menudo representado por el símbolo >.",
       "example": "El ángulo obtuso en el triángulo era de 120 grados. Ella medía el ángulo obtuso del techo. Para la próxima semana, aprenderán cómo calcular la suma de ángulos obtusos.",
       "example_translation": "El ángulo obtuso en el triángulo era de 120 grados. Ella midió el ángulo obtuso del techo. Para la próxima semana, aprenderán cómo calcular la suma de ángulos obtusos.",
-      "imageLink": "obtuse-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "obtuse-angle.jpg",
       "audioLink": "obtuse angle.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un polígono con ocho lados, especialmente uno que es regular y tiene todos los lados y ángulos iguales.",
       "example": "El arquitecto diseñó un edificio con forma de octágono con ocho lados iguales. Anteriormente, había construido una casa con una forma similar. Diseñará otro octágono el año que viene.",
       "example_translation": "El arquitecto diseñó un edificio de forma octogonal con ocho lados iguales. Anteriormente, había construido una casa con una forma similar. Ella diseñará otro edificio octogonal el año que viene.",
-      "imageLink": "octagon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "octagon.jpg",
       "audioLink": "octagon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Un número que expresa la posición o rango de algo en una secuencia, como primero, segundo o tercero.",
       "example": "El número ordinal 'primero' indica la posición del ganador en una competencia. El año pasado, yo era tercero, pero este año seré primero. El año que viene, seré segundo.",
       "example_translation": "El número ordinal 'primero' indica la posición del ganador en una competencia. El año pasado, yo era tercero, pero este año seré primero. El año que viene, seré segundo.",
-      "imageLink": "ordinal-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ordinal-number.jpg",
       "audioLink": "ordinal number.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Se extiende en la misma dirección, pero no se encuentran o intersectan, especialmente en cualquier punto.",
       "example": "Las líneas paralelas en el papel nunca se encuentran, pero eran paralelas entre sí. Anteriormente, había dibujado dos líneas paralelas, y ahora estoy dibujando otra pareja. Dibujaré más líneas paralelas mañana.",
       "example_translation": "Las líneas paralelas en el papel nunca se encuentran, pero eran paralelas entre sí. Anteriormente, había dibujado dos líneas paralelas, y ahora estoy dibujando otra pareja. Dibujaré más líneas paralelas mañana.",
-      "imageLink": "parallel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parallel.jpg",
       "audioLink": "parallel.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Un cuadrilátero con lados opuestos que son paralelos y iguales en longitud.",
       "example": "El profesor dibujó un paralelogramo en la pizarra para ilustrar el concepto de geometría. Ayer, construí un paralelogramo utilizando una regla y compás. Mañana, aprenderemos a calcular el área de un paralelogramo.",
       "example_translation": "El maestro dibujó un paralelogramo en la pizarra para ilustrar el concepto de geometría. Ayer, construí un paralelogramo utilizando una regla y brújula. Mañana, aprenderemos a calcular el área de un paralelogramo.",
-      "imageLink": "parallelogram.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parallelogram.jpg",
       "audioLink": "parallelogram.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Un polígono con cinco lados, especialmente uno con cinco lados iguales y ángulos iguales.",
       "example": "El Pentágono es la sede del Departamento de Defensa de EE. UU. Los antiguos griegos estudiaron las propiedades de pentágonos. Para finales de este semestre, habremos aprendido a calcular el perímetro de un pentágono.",
       "example_translation": "El Pentágono es la sede del Departamento de Defensa de EE. UU. Los antiguos griegos estudiaron las propiedades de los pentágonos. Para fines de este semestre, habremos aprendido a calcular el perímetro de un pentágono.",
-      "imageLink": "pentagon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pentagon.jpg",
       "audioLink": "pentagon.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "En un ángulo recto con respecto a una línea o superficie dada; intersectando en un ángulo recto.",
       "example": "La escalera era perpendicular a la pared. Las dos líneas son perpendiculares entre sí. Para el año que viene, habré dominado el concepto de líneas perpendiculares.",
       "example_translation": "La escalera era perpendicular a la pared. Las dos líneas son perpendiculares entre sí. Para el próximo año, habré dominado el concepto de líneas perpendiculares.",
-      "imageLink": "perpendicular.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "perpendicular.jpg",
       "audioLink": "perpendicular.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Un número primo es un entero positivo que solo es divisible entre sí mismo y 1.",
       "example": "Ayer, encontré un número primo mientras resolvía un problema de matemáticas. Hoy, trataré de encontrar otro. Mañana, utilizaré un número primo para cifrar un mensaje.",
       "example_translation": "Ayer, encontré un número primo mientras resolvía un problema de matemáticas. Hoy, intentaré encontrar otro. Mañana, utilizaré un número primo para cifrar un mensaje.",
-      "imageLink": "prime-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "prime-number.jpg",
       "audioLink": "prime number.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Un prisma es un elemento óptico transparente con superficies planas y pulidas que refractan la luz.",
       "example": "El científico utilizó un prisma para separar la luz blanca en sus colores componentes. El prisma fue muy útil en el experimento. El prisma se utilizará de nuevo en el futuro.",
       "example_translation": "El científico utilizó un prisma para separar la luz blanca en sus colores componentes. El prisma fue muy útil en el experimento. El prisma se utilizará nuevamente en el futuro.",
-      "imageLink": "prism.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "prism.jpg",
       "audioLink": "prism.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Un producto es un resultado ooutcome de un proceso o actividad.",
       "example": "La empresa lanzó un nuevo producto la semana pasada. El producto fue muy popular entre los clientes. El producto se mejorará el año que viene.",
       "example_translation": "La empresa lanzó un nuevo producto la semana pasada. El producto fue muy popular entre los clientes. El producto se mejorará el próximo año.",
-      "imageLink": "product-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "product-1.jpg",
       "audioLink": "product.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "El teorema de Pitágoras es un concepto fundamental en geometría que describe la relación entre las longitudes de los lados de un triángulo rectángulo.",
       "example": "La estudiante utilizó el teorema de Pitágoras para calcular la longitud de la hipotenusa. Lo había utilizado antes y lo utilizaría de nuevo en su tarea de matemáticas. El maestro enseñará cómo aplicar el teorema la semana que viene.",
       "example_translation": "El estudiante utilizó el teorema de Pitágoras para calcular la longitud de la hipotenusa. Ella lo había utilizado antes y lo utilizaría de nuevo en su tarea de matemáticas. El maestro les enseñará cómo aplicar el teorema la próxima semana.",
-      "imageLink": "pythagorean-theorem.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pythagorean-theorem.jpg",
       "audioLink": "Pythagorean theorem.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Una ecuación cuadrática es una ecuación polinómica de grado dos, que se puede escribir en la forma ax^2 + bx + c = 0, donde a, b y c son constantes.",
       "example": "La estudiante luchó por resolver la ecuación cuadrática, pero finalmente encontró las soluciones. Lo había resuelto ecuaciones similares antes y resolvería más en su clase de álgebra. El maestro revisará el método para resolver ecuaciones cuadráticas el mes que viene.",
       "example_translation": "El estudiante luchó por resolver la ecuación cuadrática, pero finalmente encontró las soluciones. Ella había resuelto ecuaciones similares antes y resolvería más en su clase de álgebra. El maestro repasará el método para resolver ecuaciones cuadráticas el próximo mes.",
-      "imageLink": "quadratic-equation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quadratic-equation.jpg",
       "audioLink": "quadratic equation.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un cociente es el resultado de dividir una cantidad por otra, a menudo expresada como una fracción o un decimal.",
       "example": "La estudiante calculó el cociente de 12 y 3, y obtuvo 4. Lo había calculado cocientes antes y calcularía más en su clase de matemáticas. El maestro explicará cómo encontrar el cociente de dos polinomios la semana que viene.",
       "example_translation": "El estudiante calculó el cociente de 12 y 3, y obtuvo 4. Ella había calculado cocientes antes y calcularía más en su clase de matemáticas. El maestro explicará cómo encontrar el cociente de dos polinomios la próxima semana.",
-      "imageLink": "quotient.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quotient.jpg",
       "audioLink": "quotient.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Un segmento de línea que une el centro de un círculo a cualquier punto de su circunferencia.",
       "example": "El radio del círculo era de 5 cm. Ayer, calculé el radio del círculo. Mañana, calcularé el radio del círculo.",
       "example_translation": "El radio del círculo era de 5 cm. Ayer, calculé el radio del círculo. Mañana, calcularé el radio del círculo.",
-      "imageLink": "radius.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "radius.jpg",
       "audioLink": "radius.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Un número que se puede expresar como el cociente o fracción de dos enteros, como 3/4 o 22/7.",
       "example": "El número racional 3/4 es una fracción. Ayer, escribí un número racional como decimal. Mañana, sumaré un número racional a otro número racional.",
       "example_translation": "El número racional 3/4 es una fracción. Ayer, escribí un número racional como decimal. Mañana, agregaré un número racional a otro número racional.",
-      "imageLink": "rational-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rational-number.jpg",
       "audioLink": "rational number.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Un número que se puede representar en la línea de números, incluyendo todos los números racionales e irracionales.",
       "example": "El número real pi es un número irracional. Ayer, utilicé un número real en una ecuación matemática. Mañana, graficaré un número real en un plano cartesiano.",
       "example_translation": "El número real pi es un número irracional. Ayer, utilicé un número real en una ecuación matemática. Mañana, graficaré un número real en un plano de coordenadas.",
-      "imageLink": "real-number.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "real-number.jpg",
       "audioLink": "real number.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Un ángulo mayor de 180 grados pero menor de 360 grados, es decir, un ángulo que es mayor que una línea recta pero menor que un círculo completo.",
       "example": "El ángulo reflex formado por las manos del reloj a las 6 en punto es de 360 grados. Ayer, dibujé un ángulo reflex en mi tarea de matemáticas. Mañana, estudiaré cómo calcular ángulos reflex.",
       "example_translation": "El ángulo reflexivo formado por las manos de un reloj a las 6 en punto es de 360 grados. Ayer, dibujé un ángulo reflexivo en mi tarea de matemáticas. Mañana, estudiaré cómo calcular ángulos reflexivos.",
-      "imageLink": "reflex-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "reflex-angle.jpg",
       "audioLink": "reflex angle.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Un cuadrilátero con todos los lados de igual longitud, donde los lados opuestos son paralelos y los ángulos opuestos son iguales.",
       "example": "Dibujé un rombo con todos los lados de 5 cm en mi papel. El rombo tiene cuatro ángulos rectos. Ella dibujará un rombo con una diagonal de 10 cm mañana.",
       "example_translation": "Dibujé un rombo con todos los lados de 5 cm en mi papel. El rombo tiene cuatro ángulos rectos. Ella dibujará un rombo con una diagonal de 10 cm mañana.",
-      "imageLink": "rhombus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rhombus.jpg",
       "audioLink": "rhombus.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Un ángulo de 90 grados, formado por dos líneas o planos que se intersectan en un ángulo de 90 grados.",
       "example": "Las dos líneas forman un ángulo recto en la esquina de la habitación. El carpintero utiliza un ángulo recto para construir el marco rectangular. El maestro explicó cómo dibujar un ángulo recto utilizando un transportador.",
       "example_translation": "Las dos líneas forman un ángulo recto en la esquina de la habitación. El carpintero utiliza un ángulo recto para construir el marco rectangular. El maestro explicó cómo dibujar un ángulo recto usando un transportador.",
-      "imageLink": "right-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "right-angle.jpg",
       "audioLink": "right angle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Una raíz es parte de una planta que crece bajo tierra, anclando la planta y absorbiendo agua y nutrientes.",
       "example": "La raíz del árbol estaba dañada durante la tormenta, así que tuvo que ser removida. El árbol tenía un sistema de raíces extenso y complejo. La raíz del problema no se abordó, así que persistió.",
       "example_translation": "La raíz del árbol fue dañada durante la tormenta, por lo que tuvo que ser eliminada. El árbol tenía un sistema de raíces que era extenso y complejo. La raíz del problema no fue abordada, por lo que persistió.",
-      "imageLink": "root-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "root-1.jpg",
       "audioLink": "root.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Una esfera es una forma tridimensional que es completamente redonda y no tiene esquinas ni bordes.",
       "example": "La Tierra es una esfera, por lo que no tiene bordes ni esquinas. El balón era una esfera perfecta, lo que le permitía rodar suavemente. La esfera de influencia de la empresa es vasta y global.",
       "example_translation": "La Tierra es una esfera, por lo que no tiene bordes ni esquinas. La bola era una esfera perfecta, lo que le permitía rodar suavemente. La esfera de influencia de la empresa es vasta y global.",
-      "imageLink": "sphere.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sphere.jpg",
       "audioLink": "sphere.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "La raíz cuadrada de un número es un valor que, cuando se multiplica por sí mismo, da el número original.",
       "example": "La raíz cuadrada de 16 es 4, porque 4 multiplicado por 4 es 16. Ella tuvo que calcular la raíz cuadrada del número para resolver la ecuación. La raíz cuadrada del problema fue encontrar la solución correcta.",
       "example_translation": "La raíz cuadrada de 16 es 4, porque 4 multiplicado por 4 es 16. Ella tuvo que calcular la raíz cuadrada del número para resolver la ecuación. La raíz cuadrada del problema fue encontrar la solución correcta.",
-      "imageLink": "square-root.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "square-root.jpg",
       "audioLink": "square root.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Un ángulo recto es un ángulo cuya medida es igual a 180 grados. Se forma cuando dos líneas se extienden hasta encontrarse en un punto, creando una línea recta.",
       "example": "El pintor se aseguró de que el ángulo recto entre las dos paredes fuera perfecto. Ayer, medí el ángulo recto de la esquina. Si no arreglamos el ángulo recto del techo, se derrumbará.",
       "example_translation": "El pintor aseguró que el ángulo recto entre las dos paredes fuera perfecto. Ayer, medí el ángulo recto de la esquina. Si no arreglamos el ángulo recto del techo, se derrumbará.",
-      "imageLink": "straight-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "straight-angle.jpg",
       "audioLink": "straight angle.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Un subconjunto es un conjunto que contiene algunos o todos los elementos de otro conjunto, y es parte de ese conjunto. Es un grupo más pequeño de elementos dentro de un grupo más grande.",
       "example": "El conjunto de números impares es un subconjunto del conjunto de todos los números enteros. La semana pasada, estudié el subconjunto de números primos. Para el año próximo, habré dominado el subconjunto de expresiones algebraicas.",
       "example_translation": "El conjunto de números impares es un subconjunto del conjunto de todos los enteros. La semana pasada, estudié el subconjunto de números primos. Para el próximo año, habré dominado el subconjunto de expresiones algebraicas.",
-      "imageLink": "subset.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "subset.jpg",
       "audioLink": "subset.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "La sustracción es una operación matemática que representa la operación de encontrar la diferencia entre dos números o cantidades. Es lo opuesto a la adición.",
       "example": "Aprendí sustracción en la escuela primaria. Ayer, usé sustracción para encontrar la diferencia entre mis ahorros y gastos. Para fin de mes, habré dominado la sustracción con decimales.",
       "example_translation": "Aprendí sustracción en la escuela primaria. Ayer, utilicé sustracción para encontrar la diferencia entre mis ahorros y gastos. Para fines de mes, habré dominado la sustracción con decimales.",
-      "imageLink": "subtraction.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "subtraction.jpg",
       "audioLink": "subtraction.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Un concepto matemático que describe la relación entre el diámetro de un círculo y las longitudes de sus cuerdas.",
       "example": "En la antigua Grecia, el teorema de Tales se utilizó para calcular la distancia de los barcos desde la orilla. Hoy en día, todavía se utiliza enVarious campos como la física y la ingeniería. Para 2050, el teorema de Tales será una herramienta esencial para la exploración espacial.",
       "example_translation": "En la antigua Grecia, el teorema de Tales se utilizó para calcular la distancia de los barcos desde la costa. Hoy en día, todavía se utiliza en various campos como la física e ingeniería. Para 2050, el teorema de Tales será una herramienta esencial para la exploración espacial.",
-      "imageLink": "thales-theorem.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thales-theorem.jpg",
       "audioLink": "Thales' theorem.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Una superficie con forma de rosquilla generada por rotar un círculo en el espacio tridimensional.",
       "example": "El ingeniero diseñó un túnel con forma de toro para reducir la resistencia del viento. El toro ha sido una forma popular en arquitectura durante siglos. Para el año 2100, los científicos esperan crear un hábitat en el espacio con forma de toro.",
       "example_translation": "El ingeniero diseñó un túnel con forma de rosquilla para reducir la resistencia del viento. La rosquilla ha sido una forma popular en arquitectura durante siglos. Para el año 2100, los científicos esperan crear un hábitat en forma de rosquilla en el espacio.",
-      "imageLink": "torus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "torus.jpg",
       "audioLink": "torus.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Un cuadrilátero con dos pares de lados opuestos, donde un par es paralelo y el otro par no es paralelo.",
       "example": "El artista dibujó una forma de trapecio para crear una sensación de profundidad en su pintura. El trapecio es un concepto fundamental en la geometría. Para el año próximo, habré dominado el arte de dibujar trapecios.",
       "example_translation": "La artista dibujó una forma de trapecio para crear una sensación de profundidad en su pintura. El trapecio es un concepto fundamental en geometría. Para el próximo año, habré dominado el arte de dibujar trapecios.",
-      "imageLink": "trapezoid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trapezoid.jpg",
       "audioLink": "trapezoid.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Una cantidad con magnitud y dirección, a menudo representada gráficamente por una flecha en un diagrama. En física, los vectores se utilizan para describir cantidades como desplazamiento, velocidad y aceleración.",
       "example": "El vector de velocidad del coche cambió cuando dobló la esquina. El profesor dibujó un diagrama para ilustrar la fuerza vectorial que actúa sobre el objeto. Para 2050, los científicos predicen que habremos desarrollado un método para aprovechar la energía vectorial del sol.",
       "example_translation": "El vector de velocidad del coche cambió cuando dobló la esquina. El profesor dibujó un diagrama para ilustrar la fuerza vectorial que actúa sobre el objeto. Para el año 2050, los científicos predicen que habremos desarrollado un método para aprovechar el vector de energía del sol.",
-      "imageLink": "vector.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vector.jpg",
       "audioLink": "vector.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Un ángulo cuya medida es cero grados, formado por dos líneas o planos que coinciden.",
       "example": "El ángulo cero entre las dos líneas las hizo indistinguibles. En geometría, un ángulo cero se forma cuando dos líneas coinciden. Al establecer el ángulo en cero, podemos alinear las dos superficies perfectamente.",
       "example_translation": "El ángulo cero entre las dos líneas las hizo indistinguibles. En geometría, un ángulo cero se forma cuando dos líneas coinciden. Al establecer el ángulo en cero, podemos alinear las dos superficies perfectamente.",
-      "imageLink": "zero-angle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "zero-angle.jpg",
       "audioLink": "zero angle.mp3"
     }
   ]

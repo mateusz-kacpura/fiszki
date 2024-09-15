@@ -9,7 +9,7 @@
       "definition_translation": "mający niezbędne cechy lub umiejętności do zrobienia czegoś",
       "example": "She is able to speak five languages fluently.",
       "example_translation": "Ona potrafi mówić płynnie pięcioma językami.",
-      "imageLink": "image_files\\English\\able.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "able.jpg",
       "audioLink": "audio_files\\English\\able.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "mający lub pokazujący skłonność do bycia niedbałym lub zapominalskim",
       "example": "She was an absent-minded professor, always forgetting her notes.",
       "example_translation": "Była roztargnioną profesorką, zawsze zapominającą swoje notatki.",
-      "imageLink": "image_files\\English\\absent-minded.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "absent-minded.jpg",
       "audioLink": "audio_files\\English\\absent-minded.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "niefortunny incydent wynikający specjalnie z niedbalstwa lub ignorancji",
       "example": "He was involved in a car accident on his way home.",
       "example_translation": "Był uczestnikiem wypadku samochodowego w drodze do domu.",
-      "imageLink": "image_files\\English\\accident.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "accident.jpg",
       "audioLink": "audio_files\\English\\accident.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "z jednej strony na drugą",
       "example": "The bridge goes across the river.",
       "example_translation": "Most przechodzi przez rzekę.",
-      "imageLink": "image_files\\English\\across.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "across.jpg",
       "audioLink": "audio_files\\English\\across.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Stan, w którym ktoś jest zaangażowany w zadanie lub zajęcie.",
       "example": "The school offers a range of extracurricular activities for students.",
       "example_translation": "Szkoła oferuje różnorodne aktywności pozalekcyjne dla uczniów.",
-      "imageLink": "image_files\\English\\activity.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "activity.jpg",
       "audioLink": "audio_files\\English\\activity.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Osoba, która gra w sztuce, filmie lub programie telewizyjnym.",
       "example": "The actor played the role of Hamlet.",
       "example_translation": "Aktor zagrał rolę Hamleta.",
-      "imageLink": "image_files\\English\\actor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "actor.jpg",
       "audioLink": "audio_files\\English\\actor.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "kobieta, która gra w sztuce, filmie lub produkcji telewizyjnej",
       "example": "The actress won an award for her outstanding performance.",
       "example_translation": "Aktorka zdobyła nagrodę za swoją wybitną rolę.",
-      "imageLink": "image_files\\English\\actress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "actress.jpg",
       "audioLink": "audio_files\\English\\actress.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "używany do pokazania, że coś jest prawdziwe, nawet jeśli jest to zaskakujące lub nieoczekiwane",
       "example": "I'm actually going to the gym today.",
       "example_translation": "Faktycznie idę do siłowni dzisiaj.",
-      "imageLink": "image_files\\English\\actually.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "actually.jpg",
       "audioLink": "audio_files\\English\\actually.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "dodać coś do czegoś innego",
       "example": "Add the numbers together.",
       "example_translation": "Dodaj liczby razem.",
-      "imageLink": "image_files\\English\\add.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "add.jpg",
       "audioLink": "audio_files\\English\\add.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "bardzo rozwinięty lub złożony",
       "example": "The company uses advanced technology to improve their products.",
       "example_translation": "Firma wykorzystuje zaawansowaną technologię, aby ulepszyć swoje produkty.",
-      "imageLink": "image_files\\English\\advanced.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "advanced.jpg",
       "audioLink": "audio_files\\English\\advanced.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "niezwykłe i emocjonujące doświadczenie",
       "example": "I'm going on an adventure to the mountains.",
       "example_translation": "Idę na przygodę w góry.",
-      "imageLink": "image_files\\English\\adventure.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "adventure.jpg",
       "audioLink": "audio_files\\English\\adventure.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "ogłoszenie lub komunikat w mediach promujący produkt, usługę lub ideę.",
       "example": "The company spent millions of dollars on advertisement for their new product.",
       "example_translation": "Firma wydała miliony dolarów na reklamę swojego nowego produktu.",
-      "imageLink": "image_files\\English\\advertisement.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "advertisement.jpg",
       "audioLink": "audio_files\\English\\advertisement.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "opinia lub rekomendacja oferowana jako przewodnik do działania",
       "example": "She sought his advice on how to invest her money.",
       "example_translation": "Zażądała jego rady, jak zainwestować pieniądze.",
-      "imageLink": "image_files\\English\\advice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "advice.jpg",
       "audioLink": "audio_files\\English\\advice.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Samolot o stałym skrzydle, napędzany silnikiem, używany do latania",
       "example": "I'm flying to Paris on an aeroplane tomorrow",
       "example_translation": "Jutro lecę do Paryża samolotem",
-      "imageLink": "image_files\\English\\aeroplane.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aeroplane.jpg",
       "audioLink": "audio_files\\English\\aeroplane.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "bojący się lub doświadczający strachu",
       "example": "I'm afraid of spiders.",
       "example_translation": "Boję się pająków.",
-      "imageLink": "image_files\\English\\afraid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "afraid.jpg",
       "audioLink": "audio_files\\English\\afraid.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "w późniejszym czasie; później niż konkretny czas lub wydarzenie",
       "example": "I'll see you after the party.",
       "example_translation": "Zobaczę się z tobą po imprezie.",
-      "imageLink": "image_files\\English\\after-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "after-1.jpg",
       "audioLink": "audio_files\\English\\after.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "w późniejszym czasie; następnie po pewnym wydarzeniu lub czasie",
       "example": "I'll meet you afterwards at the park.",
       "example_translation": "Spotkam się z tobą później w parku.",
-      "imageLink": "image_files\\English\\afterwards.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "afterwards.jpg",
       "audioLink": "audio_files\\English\\afterwards.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "w opozycji do czegoś lub kogoś",
       "example": "She spoke against the proposal.",
       "example_translation": "Ona przemawiała przeciwko tej propozycji.",
-      "imageLink": "image_files\\English\\against.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "against.jpg",
       "audioLink": "audio_files\\English\\against.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "mający długi czas życia lub istnienia",
       "example": "The aged professor had a wealth of knowledge.",
       "example_translation": "Starzający się profesor miał bogactwo wiedzy.",
-      "imageLink": "image_files\\English\\aged.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aged.jpg",
       "audioLink": "audio_files\\English\\aged.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "w przeszłości, w określonym czasie przed teraźniejszością",
       "example": "I met her five years ago.",
       "example_translation": "Spotkałem się z nią pięć lat temu.",
-      "imageLink": "image_files\\English\\ago.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ago.jpg",
       "audioLink": "audio_files\\English\\ago.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "mieć tę samą opinię lub pogląd",
       "example": "I agree with your decision.",
       "example_translation": "Zgadzam się z twoją decyzją.",
-      "imageLink": "image_files\\English\\agree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "agree.jpg",
       "audioLink": "audio_files\\English\\agree.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "mieszanka gazów, która otacza Ziemię",
       "example": "The air was fresh and clean.",
       "example_translation": "Powietrze było świeże i czyste.",
-      "imageLink": "image_files\\English\\air-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "air-1.jpg",
       "audioLink": "audio_files\\English\\air.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "mieszanka gazów otaczających Ziemię",
       "example": "I love to breathe fresh air in the mountains.",
       "example_translation": "Uwielbiam wdychać świeże powietrze w górach.",
-      "imageLink": "image_files\\English\\air.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "air.jpg",
       "audioLink": "audio_files\\English\\air.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "miejsce, w którym samoloty startują i lądują",
       "example": "I'm heading to the airport to catch my flight.",
       "example_translation": "Udaję się na lotnisko, aby złapać mój lot.",
-      "imageLink": "image_files\\English\\airport.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "airport.jpg",
       "audioLink": "audio_files\\English\\airport.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "urządzenie, które wydaje głośny dźwięk, aby obudzić kogoś o konkretnej porze",
       "example": "I set my alarm clock for 7:00 AM.",
       "example_translation": "Ustawiłem budzik na 7:00 rano.",
-      "imageLink": "image_files\\English\\alarm-clock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alarm-clock.jpg",
       "audioLink": "audio_files\\English\\alarm clock.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "księga zdjęć lub innych przedmiotów, szczególnie taka, która jest przechowywana jako kolekcja",
       "example": "She showed me her album from her vacation.",
       "example_translation": "Pokażła mi jej album z wakacji.",
-      "imageLink": "image_files\\English\\album.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "album.jpg",
       "audioLink": "audio_files\\English\\album.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "bezbarwna, lotna, palna ciecz",
       "example": "He drank too much alcohol at the party.",
       "example_translation": "On wypił zbyt dużo alkoholu na imprezie.",
-      "imageLink": "image_files\\English\\alcohol.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alcohol.jpg",
       "audioLink": "audio_files\\English\\alcohol.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "używany do powiedzenia, że coś jest zadowalające lub akceptowalne",
       "example": "I'm all right, thank you.",
       "example_translation": "Dziękuję, czuję się w porządku.",
-      "imageLink": "image_files\\English\\alright.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alright.jpg",
       "audioLink": "audio_files\\English\\all right.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "bardzo blisko, ale nie całkiem",
       "example": "I'm almost finished with my homework.",
       "example_translation": "Prawie skończyłem swoją pracę domową.",
-      "imageLink": "image_files\\English\\almost.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "almost.jpg",
       "audioLink": "audio_files\\English\\almost.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "nie mając nikogo innego obecnie; samotny",
       "example": "I felt alone in the crowded room.",
       "example_translation": "Czułem się samotny w zatłoczonej sali.",
-      "imageLink": "image_files\\English\\alone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alone.jpg",
       "audioLink": "audio_files\\English\\alone.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "poruszający się lub rozciągający się w określonym kierunku, szczególnie do przodu",
       "example": "We walked along the river.",
       "example_translation": "Szliśmy wzdłuż rzeki.",
-      "imageLink": "image_files\\English\\along.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "along.jpg",
       "audioLink": "audio_files\\English\\along.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "używany do wskazania, że coś się stało przed określonym czasem lub wydarzeniem",
       "example": "I've already eaten lunch.",
       "example_translation": "Już zjadłem lunch.",
-      "imageLink": "image_files\\English\\already.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "already.jpg",
       "audioLink": "audio_files\\English\\already.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "pojazd używany do transportowania chorych lub rannych osób do szpitala",
       "example": "The ambulance arrived quickly and took the injured man to hospital.",
       "example_translation": "Karetka przyjechała szybko i zabrała rannego mężczyznę do szpitala.",
-      "imageLink": "image_files\\English\\ambulance.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ambulance.jpg",
       "audioLink": "audio_files\\English\\ambulance.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "znajdujący się w środku czegoś lub otoczony przez coś",
       "example": "The book is among the best sellers of the year.",
       "example_translation": "Książka jest wśród najlepszych bestsellerów roku.",
-      "imageLink": "image_files\\English\\among.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "among.jpg",
       "audioLink": "audio_files\\English\\among.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "odczuwający lub pokazujący silne zniesmaczenie lub niezadowolenie",
       "example": "I was angry with my brother for breaking my toy.",
       "example_translation": "Byłem zły na brata, że złamał moją zabawkę.",
-      "imageLink": "image_files\\English\\angry.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "angry.jpg",
       "audioLink": "audio_files\\English\\angry.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "używany do wskazania, że coś lub ktoś jest inny niż jeden lub jeden wcześniej wymieniony lub znany",
       "example": "I'd like another cup of coffee.",
       "example_translation": "Chciałbym kolejną filiżankę kawy.",
-      "imageLink": "image_files\\English\\another.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "another.jpg",
       "audioLink": "audio_files\\English\\another.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "mieszkanie lub zestaw pokoi, zwykle na jednym poziomie, w budynku",
       "example": "I'm moving into a new apartment next month.",
       "example_translation": "Przenoszę się do nowego mieszkania następnego miesiąca.",
-      "imageLink": "image_files\\English\\apartment.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apartment.jpg",
       "audioLink": "audio_files\\English\\apartment.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "słodki napój wytworzony z jabłek",
       "example": "I love drinking apple juice in the morning.",
       "example_translation": "Lubię pić sok jabłkowy rano.",
-      "imageLink": "image_files\\English\\apple-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apple-juice.jpg",
       "audioLink": "audio_files\\English\\apple juice.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "drzewo, które produkuje jabłka",
       "example": "The apple tree in our backyard is blooming.",
       "example_translation": "Drzewo jabłoni w naszym ogródku kwitnie.",
-      "imageLink": "image_files\\English\\apple-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apple-tree.jpg",
       "audioLink": "audio_files\\English\\apple tree.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "spotkanie lub zgromadzenie o konkretnej godzinie i miejscu",
       "example": "I have an appointment with my doctor at 2 PM.",
       "example_translation": "Mam umówienie z lekarzem o 14:00.",
-      "imageLink": "image_files\\English\\appointment.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "appointment.jpg",
       "audioLink": "audio_files\\English\\appointment.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "miara wielkości powierzchni,typowo w przestrzeni dwuwymiarowej",
       "example": "The area of the room was quite small.",
       "example_translation": "Obszar pokoju był dość mały.",
-      "imageLink": "image_files\\English\\area.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "area.jpg",
       "audioLink": "audio_files\\English\\area.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Krzesło z rękami, zwykle obite i zaprojektowane z myślą o komforcie.",
       "example": "She sat in her favorite armchair to read a book.",
       "example_translation": "Usiadła w swoim ulubionym fotelu, aby przeczytać książkę.",
-      "imageLink": "image_files\\English\\armchair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "armchair.jpg",
       "audioLink": "audio_files\\English\\armchair.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "w koło lub krzywej; we wszystkich kierunkach; po wszystkich stronach",
       "example": "I walked around the park.",
       "example_translation": "Chodziłem wokół parku.",
-      "imageLink": "image_files\\English\\around.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "around.jpg",
       "audioLink": "audio_files\\English\\around.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "przybyć do miejsca lub osoby, zwłaszcza na końcu podróży",
       "example": "The train is expected to arrive at 5pm.",
       "example_translation": "Pociąg powinien przybyć o 17:00.",
-      "imageLink": "image_files\\English\\arrive.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "arrive.jpg",
       "audioLink": "audio_files\\English\\arrive.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "wyraz lub zastosowanie ludzkiej zdolności twórczej i wyobraźni, często w formie wizualnej, takiej jak malarstwo, rysunek lub rzeźba",
       "example": "The museum has a vast collection of modern art.",
       "example_translation": "Muzeum posiada obszerną kolekcję sztuki nowoczesnej.",
-      "imageLink": "image_files\\English\\art.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "art.jpg",
       "audioLink": "audio_files\\English\\art.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "osoba, która tworzy obrazy, rysunki lub rzeźby",
       "example": "The artist's use of color was inspiring.",
       "example_translation": "Użycie koloru przez artystę było inspirujące.",
-      "imageLink": "image_files\\English\\artist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "artist.jpg",
       "audioLink": "audio_files\\English\\artist.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "przyjemny dla oka lub umysłu",
       "example": "The attractive garden was full of beautiful flowers.",
       "example_translation": "Atrakcyjny ogród był pełen pięknych kwiatów.",
-      "imageLink": "image_files\\English\\attractive.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "attractive.jpg",
       "audioLink": "audio_files\\English\\attractive.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Siostra matki lub ojca.",
       "example": "My aunt is coming to visit.",
       "example_translation": "Moja ciotka przyjeżdża do nas.",
-      "imageLink": "image_files\\English\\aunt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aunt.jpg",
       "audioLink": "audio_files\\English\\aunt.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Sezon roku między latem a zimą, charakteryzujący się zbieraniem plonów i zamieraniem liści.",
       "example": "The autumn landscape was breathtakingly beautiful.",
       "example_translation": "Krajobraz jesienny był zapierająco piękny.",
-      "imageLink": "image_files\\English\\autumn.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "autumn.jpg",
       "audioLink": "audio_files\\English\\autumn.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "może być używany lub uzyskany",
       "example": "The hotel room was available for booking.",
       "example_translation": "Pokój hotelowy był dostępny do rezerwacji.",
-      "imageLink": "image_files\\English\\available.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "available.jpg",
       "audioLink": "audio_files\\English\\available.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "na odległość, czy to fizycznie, czy też figuratywnie",
       "example": "She walked away from the crowd.",
       "example_translation": "Odeszła od tłumu.",
-      "imageLink": "image_files\\English\\away.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "away.jpg",
       "audioLink": "audio_files\\English\\away.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "bardzo młody człowiek, zwłaszcza nowo narodzony lub niedawno urodzony",
       "example": "The baby laughed at the clown.",
       "example_translation": "Dziecko śmiał się z klaunem.",
-      "imageLink": "image_files\\English\\baby-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baby-1.jpg",
       "audioLink": "audio_files\\English\\baby.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "część ciała ludzkiego, sięgająca od szyi do niższej części kręgosłupa i kości biodrowej",
       "example": "I'm going back home after the party.",
       "example_translation": "Wrócę do domu po imprezie.",
-      "imageLink": "image_files\\English\\back.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "back.jpg",
       "audioLink": "audio_files\\English\\back.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "w sposób niezdolny lub nieefektywny",
       "example": "She sang badly at the karaoke night.",
       "example_translation": "Ona śpiewała źle w karaoke tej nocy.",
-      "imageLink": "image_files\\English\\badly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "badly.jpg",
       "audioLink": "audio_files\\English\\badly.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "gra rozgrywana na prostokątnym boisku z siatką, w której gracze uderzają w lotkę z powrotem, używając rakiet",
       "example": "I'm going to play badminton with my friends this weekend.",
       "example_translation": "Będę grał w badminton z przyjaciółmi w ten weekend.",
-      "imageLink": "image_files\\English\\badminton.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "badminton.jpg",
       "audioLink": "audio_files\\English\\badminton.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "gotować żywność w piecu lub na gorącej powierzchni",
       "example": "I need to bake a cake for my sister's birthday.",
       "example_translation": "Muszę upiec tort dla urodzin siostry.",
-      "imageLink": "image_files\\English\\bake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bake.jpg",
       "audioLink": "audio_files\\English\\bake.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "pusta torba wypełniona powietrzem lub gazem, używana do dekoracji lub rozrywki",
       "example": "The child held a red balloon in his hand.",
       "example_translation": "Dziecko trzymało czerwony balon w ręku.",
-      "imageLink": "image_files\\English\\balloon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "balloon.jpg",
       "audioLink": "audio_files\\English\\balloon.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "obiad typowo jadany na zewnątrz, przy którym mięso, ryby i warzywa są gotowane nad otwartym ogniem",
       "example": "We're going to have a barbecue in the park on Saturday.",
       "example_translation": "Będziemy mieli grill w parku w sobotę.",
-      "imageLink": "image_files\\English\\barbecue.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "barbecue.jpg",
       "audioLink": "audio_files\\English\\barbecue.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": " gra w piłkę między dwiema drużynami po dziewięć graczy każdej, w której piłkę uderza się kijem i gracze biegną wokół czterech baz na boisku",
       "example": "He loves playing baseball with his friends.",
       "example_translation": "On uwielbia grać w baseball z przyjaciółmi.",
-      "imageLink": "image_files\\English\\baseball.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baseball.jpg",
       "audioLink": "audio_files\\English\\baseball.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "drewniany lub metalowy kij używany do uderzania piłki w sportach takich jak baseball i krykiet",
       "example": "The baseball player swung the bat and hit a home run.",
       "example_translation": "Gracz baseballowy zamachnął kijem i zdobył home run.",
-      "imageLink": "image_files\\English\\bat-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bat-1.jpg",
       "audioLink": "audio_files\\English\\bat.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "ubranie noszone do pływania lub kąpieli",
       "example": "She put on her bathing suit and went to the beach.",
       "example_translation": "Ona włożyła strój kąpielowy i poszła na plażę.",
-      "imageLink": "image_files\\English\\bathing-suit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bathing-suit.jpg",
       "audioLink": "audio_files\\English\\bathing suit.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Wysoka, wąska szafka diseñowana do przechowywania przedmiotów higieny osobistej w łazience.",
       "example": "She opened the bathroom cabinet to grab her toothbrush.",
       "example_translation": "Otworzyła szafkę łazienkową, aby wziąć szczoteczkę do zębów.",
-      "imageLink": "image_files\\English\\bathroom-cabinet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bathroom-cabinet.jpg",
       "audioLink": "audio_files\\English\\bathroom cabinet.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "duża pojemność wody do mycia ciała",
       "example": "I need to clean the bathtub before the guests arrive.",
       "example_translation": "Muszę wymyć wannę przed przybyciem gości.",
-      "imageLink": "image_files\\English\\bathtub.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bathtub.jpg",
       "audioLink": "audio_files\\English\\bathtub.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "urządzenie wytwarzające prąd elektryczny, składające się z pojemnika wypełnionego substancją chemiczną",
       "example": "The car needs a new battery.",
       "example_translation": "Samochód potrzebuje nowej baterii.",
-      "imageLink": "image_files\\English\\battery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "battery.jpg",
       "audioLink": "audio_files\\English\\battery.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "urządzenie, które produkuje energię elektryczną, typowo składające się z jednej lub więcej komórek, które przechowują energię w postaci energii chemicznej",
       "example": "I need to charge my phone's battery.",
       "example_translation": "Muszę naładować baterię telefonu.",
-      "imageLink": "image_files\\English\\battery-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "battery-1.jpg",
       "audioLink": "audio_files\\English\\battery.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "przyjść na świat",
       "example": "I was born in 1990.",
       "example_translation": "Urodziłem się w 1990 roku.",
-      "imageLink": "image_files\\English\\be-born.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "be-born.jpg",
       "audioLink": "audio_files\\English\\be born.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "piłka zaprojektowana do gry na plaży",
       "example": "The children played with a beach ball in the surf.",
       "example_translation": "Dzieci bawiły się piłką plażową w falach.",
-      "imageLink": "image_files\\English\\beach-ball.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beach-ball.jpg",
       "audioLink": "audio_files\\English\\beach ball.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "urządzenie zapewniające cień na plaży, składające się z tkaniny baldachimu wspieranego przez metalowy lub drewniany słup",
       "example": "We brought a beach umbrella to protect ourselves from the sun.",
       "example_translation": "Przynieśliśmy parasol plażowy, aby chronić się przed słońcem.",
-      "imageLink": "image_files\\English\\beach-umbrella.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beach-umbrella.jpg",
       "audioLink": "audio_files\\English\\beach umbrella.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "mały, zwykle kształtu nerkowego nasiono, bogate w białko, spożywane jako warzywo",
       "example": "The farmer grew beans in his field.",
       "example_translation": "Rolnik uprawiał fasolę w swoim polu.",
-      "imageLink": "image_files\\English\\bean.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bean.jpg",
       "audioLink": "audio_files\\English\\bean.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "duży, mięsożerny ssak z szorstkim futrem, żyjący w lasach i górach",
       "example": "The bear climbed up the tree.",
       "example_translation": "Niedźwiedź wspiął się na drzewo.",
-      "imageLink": "image_files\\English\\bear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bear.jpg",
       "audioLink": "audio_files\\English\\bear.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "zaczynać być czymś lub posiadać określoną jakość",
       "example": "She will become a doctor next year.",
       "example_translation": "Ona zostanie lekarzem w przyszłym roku.",
-      "imageLink": "image_files\\English\\become.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "become.jpg",
       "audioLink": "audio_files\\English\\become.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "rozpoczynać coś lub sprawić, że coś się rozpocznie",
       "example": "I will begin to study for the exam tomorrow.",
       "example_translation": "Zacznę studiować do egzaminu jutro.",
-      "imageLink": "image_files\\English\\begin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "begin.jpg",
       "audioLink": "audio_files\\English\\begin.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "osoba, która jest nowa w danym zabiegu lub przedmiocie",
       "example": "She's a beginner at playing the guitar.",
       "example_translation": "Ona jest początkującą w grze na gitarze.",
-      "imageLink": "image_files\\English\\beginner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beginner.jpg",
       "audioLink": "audio_files\\English\\beginner.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Punkt w czasie lub przestrzeni, w której coś się zaczyna",
       "example": "The beginning of the movie was really interesting.",
       "example_translation": "Początek filmu był vraiment interesujący.",
-      "imageLink": "image_files\\English\\beginning.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beginning.jpg",
       "audioLink": "audio_files\\English\\beginning.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "przyjąć, że coś jest prawdziwe lub mieć zaufanie do czegoś",
       "example": "I believe you will succeed in your new job.",
       "example_translation": "Wierzę, że zdobędziesz się w nowej pracy.",
-      "imageLink": "image_files\\English\\believe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "believe.jpg",
       "audioLink": "audio_files\\English\\believe.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "być częścią grupy lub miejsca",
       "example": "I belong to a book club.",
       "example_translation": "Należę do klubu książki.",
-      "imageLink": "image_files\\English\\belong.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "belong.jpg",
       "audioLink": "audio_files\\English\\belong.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "elastyczna taśma lub pasek, zwykle wykonany z czarna skóry lub materiałów syntetycznych, noszony wokół talii, aby trzymać spodnie lub inne ubrania",
       "example": "She wore a wide leather belt around her waist.",
       "example_translation": "Ona nosiła szeroki pasek skórzany wokół swojej talii.",
-      "imageLink": "image_files\\English\\belt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "belt.jpg",
       "audioLink": "audio_files\\English\\belt.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "pojazd z dwoma kołami, napędzany pedałami",
       "example": "I love riding my bicycle in the park.",
       "example_translation": "Uwielbiam jeździć moim rowerem w parku.",
-      "imageLink": "image_files\\English\\bicycle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bicycle.jpg",
       "audioLink": "audio_files\\English\\bicycle.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "starszy brat lub osoba, która opiekuje się kimś młodszym",
       "example": "My big brother always looked out for me when I was a kid.",
       "example_translation": "Mój wielki brat zawsze się mną opiekował, kiedy byłam dzieckiem.",
-      "imageLink": "image_files\\English\\big-brothersister.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "big-brothersister.jpg",
       "audioLink": "audio_files\\English\\big brother.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "siostra, która jest od ciebie starsza",
       "example": "My big sister is very kind to me.",
       "example_translation": "Moja starsza siostra jest bardzo miła dla mnie.",
-      "imageLink": "image_files\\English\\big-sister.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "big-sister.jpg",
       "audioLink": "audio_files\\English\\big sister.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "pojazd z dwoma kołami, napędzany pedałami",
       "example": "I love riding my bike in the park.",
       "example_translation": "Lubię jeździć na swoim rowerze w parku.",
-      "imageLink": "image_files\\English\\bike.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bike.jpg",
       "audioLink": "audio_files\\English\\bike.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "dokument wzywający do zapłaty za dostarczone towary lub usługi",
       "example": "I need to pay the bill for my dinner.",
       "example_translation": "Muszę zapłacić rachunek za swoją kolację.",
-      "imageLink": "image_files\\English\\bill.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bill.jpg",
       "audioLink": "audio_files\\English\\bill.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Nauka o żywych organizmach, w tym ich strukturze, wzroście, ewolucji i taksonomii.",
       "example": "She studied biology in college and became a scientist.",
       "example_translation": " Studiowała biologię w college'u i została naukowczynią.",
-      "imageLink": "image_files\\English\\biology.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "biology.jpg",
       "audioLink": "audio_files\\English\\biology.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "mały fragment informacji",
       "example": "The computer processes bits of data.",
       "example_translation": "Komputer przetwarza bity danych.",
-      "imageLink": "image_files\\English\\bit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bit.jpg",
       "audioLink": "audio_files\\English\\bit.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "tablica, zwykle zielona lub czarna, używana w szkołach do pisania lub rysowania",
       "example": "The teacher wrote some notes on the blackboard.",
       "example_translation": "Nauczyciel napisał kilka notatek na tablicy.",
-      "imageLink": "image_files\\English\\blackboard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blackboard.jpg",
       "audioLink": "audio_files\\English\\blackboard.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "pokrycie łóżka wykonane z tkaniny, zwykle wełny lub bawełny",
       "example": "She wrapped herself in a blanket to keep warm.",
       "example_translation": "Owiła się kołdrą, aby się ogrzać.",
-      "imageLink": "image_files\\English\\blanket.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blanket.jpg",
       "audioLink": "audio_files\\English\\blanket.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "osoba z jasnymi włosami, szczególnie kobieta",
       "example": "She was a stunning blonde with piercing blue eyes.",
       "example_translation": "Była oszałamiającą blondynką z przeszczepnymi oczami niebieskimi.",
-      "imageLink": "image_files\\English\\blonde.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blonde.jpg",
       "audioLink": "audio_files\\English\\blonde.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "płyn życiowy w układzie krążenia zwierząt",
       "example": "The doctor took a sample of blood from the patient.",
       "example_translation": "Lekarz pobrał próbkę krwi od pacjenta.",
-      "imageLink": "image_files\\English\\blood.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blood.jpg",
       "audioLink": "audio_files\\English\\blood.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Płaska część materiału, takiego jak drewno lub plastik, używana do określonego celu.",
       "example": "The teacher wrote on the blackboard.",
       "example_translation": "Nauczyciel napisał na tablicy.",
-      "imageLink": "image_files\\English\\board.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "board.jpg",
       "audioLink": "audio_files\\English\\board.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "płaska część materiału, takiego jak drewno lub plastik, używana do konkretnego celu",
       "example": "She wrote on the blackboard with a piece of chalk.",
       "example_translation": "Ona pisała na tablicy kredą.",
-      "imageLink": "image_files\\English\\board-3.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "board-3.jpg",
       "audioLink": "audio_files\\English\\board.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "gra, która polega na przesuwaniu elementów na planszy, takich jak szachy lub Scrabble",
       "example": "She loves playing board games with her friends on Friday evenings.",
       "example_translation": "Ona uwielbia grać w gry planszowe ze swoimi przyjaciółmi w piątkowe wieczory.",
-      "imageLink": "image_files\\English\\board-game.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "board-game.jpg",
       "audioLink": "audio_files\\English\\board game.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "zmieniać się z cieczy w gaz w wyniku ogrzewania",
       "example": "The water will boil in a few minutes.",
       "example_translation": "Woda będzie gotować za kilka minut.",
-      "imageLink": "image_files\\English\\boil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boil.jpg",
       "audioLink": "audio_files\\English\\boil.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "ugotowany w wodzie lub parze",
       "example": "The potatoes were boiled for 10 minutes.",
       "example_translation": "Ziemniaki były gotowane przez 10 minut.",
-      "imageLink": "image_files\\English\\boiled.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boiled.jpg",
       "audioLink": "audio_files\\English\\boiled.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "utwór pisany lub drukowany składający się ze stron sklejonych lub zszytych razem",
       "example": "I'm reading a book about history.",
       "example_translation": "Czytam książkę o historii.",
-      "imageLink": "image_files\\English\\book.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "book.jpg",
       "audioLink": "audio_files\\English\\book.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "mebel z półkami do przechowywania książek",
       "example": "She put the book on the bookcase.",
       "example_translation": "Położyła książkę na biblioteczce.",
-      "imageLink": "image_files\\English\\bookcase.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bookcase.jpg",
       "audioLink": "audio_files\\English\\bookcase.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "mebel z półkami, używany do przechowywania książek",
       "example": "She went to the library and put the book on the bookshelf.",
       "example_translation": "Udała się do biblioteki i położyła książkę na półce z książkami.",
-      "imageLink": "image_files\\English\\bookshelf.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bookshelf.jpg",
       "audioLink": "audio_files\\English\\bookshelf.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "budynek lub pokój, gdzie są sprzedawane książki",
       "example": "I'm going to the bookshop to buy a new novel.",
       "example_translation": "Idę do księgarni, aby kupić nową powieść.",
-      "imageLink": "image_files\\English\\bookshop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bookshop.jpg",
       "audioLink": "audio_files\\English\\bookshop.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Budynek lub pomieszczenie zawierające kolekcję książek do sprzedaży lub pożyczki.",
       "example": "I went to the bookstore to buy a new novel.",
       "example_translation": "Poszedłem do księgarni, aby kupić nową powieść.",
-      "imageLink": "image_files\\English\\bookstore.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bookstore.jpg",
       "audioLink": "audio_files\\English\\bookstore.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "okrycie na nogę, zwykle wykonane z skóry lub plastiku, noszone nad butem, aby go chronić",
       "example": "She wore boots to the hiking trip.",
       "example_translation": "Ona założyła buty na wycieczkę górską.",
-      "imageLink": "image_files\\English\\boot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boot.jpg",
       "audioLink": "audio_files\\English\\boot.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "mający miejsce w istnieniu lub powstanie",
       "example": "I was born in 1990.",
       "example_translation": "Urodziłem się w 1990 roku.",
-      "imageLink": "image_files\\English\\born.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "born.jpg",
       "audioLink": "audio_files\\English\\born.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "wziąć i użyć czegoś, co należy do kogoś innego, z zamiarem zwrotu",
       "example": "Can I borrow your car for the weekend?",
       "example_translation": "Czy mogę pożyczyć twoje auto na weekend?",
-      "imageLink": "image_files\\English\\borrow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "borrow.jpg",
       "audioLink": "audio_files\\English\\borrow.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "osoba, która zatrudnia ludzi do pracy dla siebie",
       "example": "My boss is very demanding.",
       "example_translation": "Mój szef jest bardzo wymagający.",
-      "imageLink": "image_files\\English\\boss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boss.jpg",
       "audioLink": "audio_files\\English\\boss.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "przeszkadzać lub niepokoić kogoś",
       "example": "The noise was bothering me, so I turned it off.",
       "example_translation": "Hałas przeszkadzał mi, więc wyłączyłem go.",
-      "imageLink": "image_files\\English\\bother.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bother.jpg",
       "audioLink": "audio_files\\English\\bother.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "pojemnik wykonany ze szkła, plastiku lub metalu, używany do przechowywania napojów lub innych cieczy",
       "example": "Can you pass me a bottle of water?",
       "example_translation": "Czy mogesz mi przynieść butelkę wody?",
-      "imageLink": "image_files\\English\\bottle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bottle.jpg",
       "audioLink": "audio_files\\English\\bottle.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "okrągłe, otwarte naczynie używane do przechowywania lub serwowania żywności lub płynów",
       "example": "She picked up the bowl and began to wash it.",
       "example_translation": "Ona podniosła misę i zaczęła ją myć.",
-      "imageLink": "image_files\\English\\bowl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bowl.jpg",
       "audioLink": "audio_files\\English\\bowl.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "męski partner w relacji romantycznej",
       "example": "My sister is going out with her new boyfriend tonight.",
       "example_translation": "Moja siostra idzie na randkę z nowym chłopakiem dzisiaj wieczorem.",
-      "imageLink": "image_files\\English\\boyfriend.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boyfriend.jpg",
       "audioLink": "audio_files\\English\\boyfriend.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Organ ciała, który kontroluje ruch, wrażliwość i poznawanie.",
       "example": "The brain is a complex and mysterious organ.",
       "example_translation": "Mózg jest złożonym i tajemniczym organem.",
-      "imageLink": "image_files\\English\\brain.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brain.jpg",
       "audioLink": "audio_files\\English\\brain.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "rozdzielać lub dzielić coś na części, lub stawać się rozdzielenie lub podzielonym",
       "example": "I need to break this stick into smaller pieces.",
       "example_translation": "Muszę złamać tę kijankę na mniejsze części.",
-      "imageLink": "image_files\\English\\break.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "break.jpg",
       "audioLink": "audio_files\\English\\break.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "konstrukcja zbudowana nad rzeką, drogą lub inną przeszkodą, aby pozwolić ludziom lub pojazdom na przejście",
       "example": "The bridge collapsed during the storm.",
       "example_translation": "Most zawalił się podczas burzy.",
-      "imageLink": "image_files\\English\\bridge.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bridge.jpg",
       "audioLink": "audio_files\\English\\bridge.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Wydający lub odbijający dużo światła; świeci intensywnie.",
       "example": "The bright sunlight filled the room.",
       "example_translation": "Jasne światło słoneczne wypełniło pokój.",
-      "imageLink": "image_files\\English\\bright-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bright-1.jpg",
       "audioLink": "audio_files\\English\\bright.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "przenieść coś w stronę osoby mówiącej",
       "example": "Can you bring me a glass of water?",
       "example_translation": "Czy mogłbyś przynieść mi szklankę wody?",
-      "imageLink": "image_files\\English\\bring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bring.jpg",
       "audioLink": "audio_files\\English\\bring.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "wrócić coś lub kogoś do miejsca lub osoby",
       "example": "She brought back a souvenir from her trip.",
       "example_translation": "Przyniosła pamiątkę z podróży.",
-      "imageLink": "image_files\\English\\bring-back.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bring-back.jpg",
       "audioLink": "audio_files\\English\\bring back.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "nie działający; niezdolny do użytku",
       "example": "The broken computer was thrown away.",
       "example_translation": "Złamany komputer został wyrzucony.",
-      "imageLink": "image_files\\English\\broken.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "broken.jpg",
       "audioLink": "audio_files\\English\\broken.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "uszkodzony lub niepracujący prawidłowo",
       "example": "The broken toy lay on the floor.",
       "example_translation": "Złamana zabawka leżała na podłodze.",
-      "imageLink": "image_files\\English\\broken-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "broken-1.jpg",
       "audioLink": "audio_files\\English\\broken.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "przedmiot z włoskami lub drutami używany do czyszczenia lub gładzenia",
       "example": "I used a brush to clean the floor.",
       "example_translation": "Użyłem szczotki, aby wyczyścić podłogę.",
-      "imageLink": "image_files\\English\\brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brush.jpg",
       "audioLink": "audio_files\\English\\brush.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "konstruować lub tworzyć coś poprzez łączenie części lub materiałów",
       "example": "I want to build a house in the countryside.",
       "example_translation": "Chcę zbudować dom na wsi.",
-      "imageLink": "image_files\\English\\build.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "build.jpg",
       "audioLink": "audio_files\\English\\build.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Struktura z dachem i ścianami, taka jak dom lub fabryka.",
       "example": "The new building on the corner is very modern.",
       "example_translation": "Nowy budynek na rogu jest bardzo nowoczesny.",
-      "imageLink": "image_files\\English\\building.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "building.jpg",
       "audioLink": "audio_files\\English\\building.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "kanapka składająca się z ugotowanego placka z mielonego mięsa wołowego, serwowana na okrągłej bułce z różnymi dodatkami, takimi jak ser, sałata, pomidor i przypusty",
       "example": "I'd like to order a burger with fries.",
       "example_translation": "Chciałbym zamówić burgera z frytkami.",
-      "imageLink": "image_files\\English\\burger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "burger.jpg",
       "audioLink": "audio_files\\English\\burger.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Miejsce, w którym autobusy zatrzymują się, aby wysiąść lub wsiąść ludzi.",
       "example": "I'm going to meet my friend at the bus station.",
       "example_translation": "Spotkam się ze swoim przyjacielem na dworcu autobusowym.",
-      "imageLink": "image_files\\English\\bus-station.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bus-station.jpg",
       "audioLink": "audio_files\\English\\bus station.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "miejsce, w którym autobusy zatrzymują się, aby zabrać i wysadzić pasażerów",
       "example": "I'm waiting at the bus stop.",
       "example_translation": "Czekam przy przystanku autobusowym.",
-      "imageLink": "image_files\\English\\bus-stop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bus-stop.jpg",
       "audioLink": "audio_files\\English\\bus stop.mp3"
     },
     {
@@ -1569,7 +1569,7 @@
       "definition_translation": "Działalność polegająca na produkcji, kupnie lub sprzedaży towarów lub usług z zamiarem osiągnięcia zysku.",
       "example": "She started her own business last year.",
       "example_translation": "Założyła własny biznes w zeszłym roku.",
-      "imageLink": "image_files\\English\\business.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "business.jpg",
       "audioLink": "audio_files\\English\\business.mp3"
     },
     {
@@ -1582,7 +1582,7 @@
       "definition_translation": "działalność polegająca na wytwarzaniu, kupowaniu lub sprzedaży towarów lub usług",
       "example": "She started her own business last year.",
       "example_translation": "Zaczęła ona własny biznes rok temu.",
-      "imageLink": "image_files\\English\\business-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "business-1.jpg",
       "audioLink": "audio_files\\English\\business.mp3"
     },
     {
@@ -1595,7 +1595,7 @@
       "definition_translation": "osoba zajmująca się działalnością handlową lub przemysłową",
       "example": "He is a successful businessman and investor.",
       "example_translation": "On jest sukcesywnym biznesmenem i inwestorem.",
-      "imageLink": "image_files\\English\\businessman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "businessman.jpg",
       "audioLink": "audio_files\\English\\businessman.mp3"
     },
     {
@@ -1608,7 +1608,7 @@
       "definition_translation": "kobieta, która pracuje w biznesie lub ma własny biznes",
       "example": "She is a successful businesswoman and entrepreneur.",
       "example_translation": "Jest ona udaną bizneswoman i przedsiębiorcą.",
-      "imageLink": "image_files\\English\\businesswoman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "businesswoman.jpg",
       "audioLink": "audio_files\\English\\businesswoman.mp3"
     },
     {
@@ -1621,7 +1621,7 @@
       "definition_translation": "mający wiele do zrobienia",
       "example": "I'm busy this week, so I won't be able to meet up.",
       "example_translation": "Jestem zajęty tej tygodni, więc nie będę mógł się spotkać.",
-      "imageLink": "image_files\\English\\busy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "busy.jpg",
       "audioLink": "audio_files\\English\\busy.mp3"
     },
     {
@@ -1634,7 +1634,7 @@
       "definition_translation": "aktywnie zaangażowany w pracy lub konkretnej aktywności",
       "example": "I'm busy with a project right now.",
       "example_translation": "Teraz jestem zajęty projektem.",
-      "imageLink": "image_files\\English\\busy-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "busy-1.jpg",
       "audioLink": "audio_files\\English\\busy.mp3"
     },
     {
@@ -1647,7 +1647,7 @@
       "definition_translation": "mebel z drzwiami i półkami, służący do przechowywania rzeczy",
       "example": "She kept her jewelry in a cabinet in her bedroom.",
       "example_translation": "Ona trzymała swoje biżuterię w szafie w swojej sypialni.",
-      "imageLink": "image_files\\English\\cabinet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cabinet.jpg",
       "audioLink": "audio_files\\English\\cabinet.mp3"
     },
     {
@@ -1660,7 +1660,7 @@
       "definition_translation": "restauracja samoobsługowa, Typically in szkole, fabryce lub budynku biurowym",
       "example": "The students gathered in the cafeteria for lunch.",
       "example_translation": "Studenci zebrali się w kantynie na lunch.",
-      "imageLink": "image_files\\English\\cafeteria.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cafeteria.jpg",
       "audioLink": "audio_files\\English\\cafeteria.mp3"
     },
     {
@@ -1673,7 +1673,7 @@
       "definition_translation": "system organizacji dni w roku, podzielony na 12 miesięcy",
       "example": "I need to check my calendar to see if I'm free tomorrow.",
       "example_translation": "Muszę sprawdzić swój kalendarz, aby zobaczyć, czy jestem wolny jutro.",
-      "imageLink": "image_files\\English\\calendar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "calendar.jpg",
       "audioLink": "audio_files\\English\\calendar.mp3"
     },
     {
@@ -1686,7 +1686,7 @@
       "definition_translation": "być głośnym i klarownym dźwiękiem, aby zwrócić uwagę kogoś",
       "example": "Can you call me when you arrive?",
       "example_translation": "Czy mogę zadzwonić, kiedy przyjdziesz?",
-      "imageLink": "image_files\\English\\call.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "call.jpg",
       "audioLink": "audio_files\\English\\call.mp3"
     },
     {
@@ -1699,7 +1699,7 @@
       "definition_translation": "nawiązać kontakt z kimś za pomocą telefonu lub innego urządzenia",
       "example": "I'll call you tomorrow to confirm the meeting.",
       "example_translation": "Zadzwonię do ciebie jutro, aby potwierdzić spotkanie.",
-      "imageLink": "image_files\\English\\call-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "call-1.jpg",
       "audioLink": "audio_files\\English\\call.mp3"
     },
     {
@@ -1712,7 +1712,7 @@
       "definition_translation": "miejsce, w którym ludzie mieszkają w namiotach, często na wakacjach lub na specjalne wydarzenie",
       "example": "We're going to camp in the mountains next weekend.",
       "example_translation": "Będziemy biwakować w górach następnego weekendu.",
-      "imageLink": "image_files\\English\\camp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "camp.jpg",
       "audioLink": "audio_files\\English\\camp.mp3"
     },
     {
@@ -1725,7 +1725,7 @@
       "definition_translation": "aktywność polegająca na przebywaniu w obozie, szczególnie w namiocie, dla celów rekreacyjnych lub wczasowych",
       "example": "I love camping in the mountains during the summer.",
       "example_translation": "Uwielbiam kemping w górach latem.",
-      "imageLink": "image_files\\English\\camping.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "camping.jpg",
       "audioLink": "audio_files\\English\\camping.mp3"
     },
     {
@@ -1738,7 +1738,7 @@
       "definition_translation": "może wykonać coś",
       "example": "I can speak English fluently.",
       "example_translation": "Mogę płynnie mówić po angielsku.",
-      "imageLink": "image_files\\English\\can-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "can-1.jpg",
       "audioLink": "audio_files\\English\\can.mp3"
     },
     {
@@ -1751,7 +1751,7 @@
       "definition_translation": "słodkie jedzenie wykonane z cukru, często aromatyzowane i barwione",
       "example": "The child was excited to eat the candy at the party.",
       "example_translation": "Dziecko było podekscytowane, że będzie jeść cukierek na przyjęciu.",
-      "imageLink": "image_files\\English\\candy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "candy.jpg",
       "audioLink": "audio_files\\English\\candy.mp3"
     },
     {
@@ -1764,7 +1764,7 @@
       "definition_translation": "okrycie dla góry głowy",
       "example": "I wear a cap to protect my face from the sun.",
       "example_translation": "Noszę czapkę, aby chronić twarz przed słońcem.",
-      "imageLink": "image_files\\English\\cap.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cap.jpg",
       "audioLink": "audio_files\\English\\cap.mp3"
     },
     {
@@ -1777,7 +1777,7 @@
       "definition_translation": "Stolica kraju to miasto, w którym znajduje się rząd.",
       "example": "The capital of France is Paris.",
       "example_translation": "Stolica Francji to Paryż.",
-      "imageLink": "image_files\\English\\capital.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "capital.jpg",
       "audioLink": "audio_files\\English\\capital.mp3"
     },
     {
@@ -1790,7 +1790,7 @@
       "definition_translation": "obszar ziemi lub budynek, gdzie ludzie mogą pozostawić swoje samochody",
       "example": "The hotel has a large car park for its guests.",
       "example_translation": "Hotel ma duży parking dla swoich gości.",
-      "imageLink": "image_files\\English\\car-park.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "car-park.jpg",
       "audioLink": "audio_files\\English\\car park.mp3"
     },
     {
@@ -1803,7 +1803,7 @@
       "definition_translation": "mała, sztywna część papieru lub cienkiej kartonu, używana do pisania lub drukowania",
       "example": "I need a new card for my birthday.",
       "example_translation": "Potrzebuję nowej karty na moje urodziny.",
-      "imageLink": "image_files\\English\\card-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "card-1.jpg",
       "audioLink": "audio_files\\English\\card.mp3"
     },
     {
@@ -1816,7 +1816,7 @@
       "definition_translation": "Gra rozgrywana z kartami, często dla rozrywki lub hazardu.",
       "example": "We played a card game until midnight.",
       "example_translation": "Graliśmy w grę karcianą do północy.",
-      "imageLink": "image_files\\English\\card-game.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "card-game.jpg",
       "audioLink": "audio_files\\English\\card game.mp3"
     },
     {
@@ -1829,7 +1829,7 @@
       "definition_translation": "Posiadający lub pokazujący dużo uwagi lub troski o kogoś lub coś.",
       "example": "You should be careful when crossing the road.",
       "example_translation": "Powinieneś być ostrożny, gdy przechodzisz przez drogę.",
-      "imageLink": "image_files\\English\\careful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "careful.jpg",
       "audioLink": "audio_files\\English\\careful.mp3"
     },
     {
@@ -1842,7 +1842,7 @@
       "definition_translation": "w sposób ostrożny i szczegółowy, przykładając uwagę do szczegółów",
       "example": "She carefully examined the document before signing it.",
       "example_translation": "Ona dokładnie przeczytała dokument przed podpisaniem go.",
-      "imageLink": "image_files\\English\\carefully.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carefully.jpg",
       "audioLink": "audio_files\\English\\carefully.mp3"
     },
     {
@@ -1855,7 +1855,7 @@
       "definition_translation": "pokrycie podłogowe wykonane z warstwy czesankowej przytwierdzonej do podłoża",
       "example": "The hotel room had a beautiful carpet.",
       "example_translation": "Pokój hotelu miał piękny dywan.",
-      "imageLink": "image_files\\English\\carpet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carpet.jpg",
       "audioLink": "audio_files\\English\\carpet.mp3"
     },
     {
@@ -1868,7 +1868,7 @@
       "definition_translation": "długi, smukły, pomarańczowy korzeń spożywany jako warzywo",
       "example": "I love eating carrots in salads.",
       "example_translation": "Uwielbiam jeść marchew w sałatkach.",
-      "imageLink": "image_files\\English\\carrot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carrot.jpg",
       "audioLink": "audio_files\\English\\carrot.mp3"
     },
     {
@@ -1881,7 +1881,7 @@
       "definition_translation": "film lub program telewizyjny wykonany technikami animacji",
       "example": "I loved watching cartoons as a child.",
       "example_translation": "Uwielbiałem oglądać kreskówki jako dziecko.",
-      "imageLink": "image_files\\English\\cartoon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cartoon.jpg",
       "audioLink": "audio_files\\English\\cartoon.mp3"
     },
     {
@@ -1894,7 +1894,7 @@
       "definition_translation": "duży budynek lub struktura, typowo z wieżami i basztami, używany w przeszłości jako rezydencja przez royalty lub szlachtę",
       "example": "The king and queen lived in a beautiful castle.",
       "example_translation": "Król i królowa mieszkali w pięknym zamku.",
-      "imageLink": "image_files\\English\\castle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "castle.jpg",
       "audioLink": "audio_files\\English\\castle.mp3"
     },
     {
@@ -1907,7 +1907,7 @@
       "definition_translation": "Duży, imponujący kościół, szczególnie ten, który jest głównym kościołem biskupa lub diecezji.",
       "example": "The cathedral in the city center is a popular tourist attraction.",
       "example_translation": "Katedra w centrum miasta jest popularną atrakcją turystyczną.",
-      "imageLink": "image_files\\English\\cathedral.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cathedral.jpg",
       "audioLink": "audio_files\\English\\cathedral.mp3"
     },
     {
@@ -1920,7 +1920,7 @@
       "definition_translation": "wewnętrzna powierzchnia pokoju, zwłaszcza górna powierzchnia wewnętrzna",
       "example": "The ceiling was painted a lovely shade of blue.",
       "example_translation": "Sufit został pomalowany ładnym odcieniem niebieskiego.",
-      "imageLink": "image_files\\English\\ceiling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ceiling.jpg",
       "audioLink": "audio_files\\English\\ceiling.mp3"
     },
     {
@@ -1933,7 +1933,7 @@
       "definition_translation": "jednostka walutowa równa setnej części jednostki podstawowej",
       "example": "The price of the book is 50 cents.",
       "example_translation": "Cena książki wynosi 50 centów.",
-      "imageLink": "image_files\\English\\cent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cent.jpg",
       "audioLink": "audio_files\\English\\cent.mp3"
     },
     {
@@ -1946,7 +1946,7 @@
       "definition_translation": "jednostka długości, równa setnej części metra",
       "example": "The height of the book is 20 centimetres.",
       "example_translation": "Wysokość książki to 20 centymetrów.",
-      "imageLink": "image_files\\English\\centimetre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "centimetre.jpg",
       "audioLink": "audio_files\\English\\centimetre.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "poruszać swoim ciałem w rytmiczny sposób, zwykle do muzyki",
       "example": "She loves to dance in the disco.",
       "example_translation": "Ona uwielbia tańczyć w dyskotece.",
-      "imageLink": "image_files\\English\\dance-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dance-1.jpg",
       "audioLink": "audio_files\\English\\dance.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "akt kupowania rzeczy, szczególnie w sklepie",
       "example": "I'm going shopping with my friends this weekend.",
       "example_translation": "Zakupię się z przyjaciółmi tego weekendu.",
-      "imageLink": "image_files\\English\\shopping.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shopping.jpg",
       "audioLink": "audio_files\\English\\shopping.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "akt palenia tytoniu lub innych substancji",
       "example": "Smoking is bad for your health.",
       "example_translation": "Palenie jest szkodliwe dla zdrowia.",
-      "imageLink": "image_files\\English\\smoking.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "smoking.jpg",
       "audioLink": "audio_files\\English\\smoking.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "czynność wymagająca wysiłku fizycznego lub umysłowego, wykonana w celu osiągnięcia celu lub zarobienia na życie",
       "example": "I have to work late tonight to meet the deadline.",
       "example_translation": "Muszę pracować późno dzisiaj, aby dotrzymać terminu.",
-      "imageLink": "image_files\\English\\work-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "work-1.jpg",
       "audioLink": "audio_files\\English\\work.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "stan bycia aktywnym lub zaangażowanym w szczególnym zadaniu lub sytuacji",
       "example": "She was involved in various activities at the camp.",
       "example_translation": "Brała udział w różnych aktywnościach w obozie.",
-      "imageLink": "image_files\\English\\activity.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "activity.jpg",
       "audioLink": "audio_files\\English\\activity.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "krótki, ostry dźwięk, podobny do dźwięku przycisku zostającego wciśniętego",
       "example": "Can you click the mouse to open the file?",
       "example_translation": "Czy możesz kliknąć mysz, aby otworzyć plik?",
-      "imageLink": "image_files\\English\\click.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "click.jpg",
       "audioLink": "audio_files\\English\\click.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "akt wspinania się na górę lub skałę",
       "example": "He loves climbing mountains in his free time.",
       "example_translation": "On uwielbia wspinać się na góry w wolnym czasie.",
-      "imageLink": "image_files\\English\\climbing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "climbing.jpg",
       "audioLink": "audio_files\\English\\climbing.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "akt przygotowywania i ogrzewania żywności",
       "example": "She loves cooking dinner for her family.",
       "example_translation": "Ona uwielbia gotować obiad dla swojej rodziny.",
-      "imageLink": "image_files\\English\\cooking.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cooking.jpg",
       "audioLink": "audio_files\\English\\cooking.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "czynność jazdy na rowerze, szczególnie jako sport lub forma ćwiczeń fizycznych",
       "example": "I love cycling in the countryside",
       "example_translation": "Uwielbiam jeździć na rowerze po wzgórzach",
-      "imageLink": "image_files\\English\\cycling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cycling.jpg",
       "audioLink": "audio_files\\English\\cycling.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "akt tworzenia obrazu lub diagramu za pomocą linii i kształtów",
       "example": "She is very good at drawing animals.",
       "example_translation": "Ona jest bardzo dobrą w rzeźbie zwierząt.",
-      "imageLink": "image_files\\English\\drawing-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drawing-1.jpg",
       "audioLink": "audio_files\\English\\drawing.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Aktywność lub ćwiczenie, które wymaga wysiłku fizycznego lub mentalnego, zwłaszcza wykonywane w celu poprawy zdrowia lub kondycji.",
       "example": "I need to exercise more often to stay healthy.",
       "example_translation": "Muszę ćwiczyć częściej, aby zachować zdrowie.",
-      "imageLink": "image_files\\English\\exercise-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exercise-1.jpg",
       "audioLink": "audio_files\\English\\exercise.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "pomagać lub wspierać kogoś lub coś",
       "example": "Can you help me with my homework?",
       "example_translation": "Czy możesz mi pomóc z zadaniem domowym?",
-      "imageLink": "image_files\\English\\help-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "help-1.jpg",
       "audioLink": "audio_files\\English\\help.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "uderzyć nogą lub nogą",
       "example": "I kicked the ball into the goal.",
       "example_translation": "Kopnąłem piłkę do bramki.",
-      "imageLink": "image_files\\English\\kick-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kick-1.jpg",
       "audioLink": "audio_files\\English\\kick.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "nacisnąć usta do ust lub policzka kogoś jako znak miłości, sympatii lub pozdrowienia",
       "example": "She gave him a gentle kiss on the cheek.",
       "example_translation": "Ona dała mu delikatny pocałunek w policzek.",
-      "imageLink": "image_files\\English\\kiss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kiss.jpg",
       "audioLink": "audio_files\\English\\kiss.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "akt wykonywania zawodu lub zajęcia",
       "example": "She needs to practice her speech before the presentation.",
       "example_translation": "Ona musi ćwiczyć swój występ przed prezentacją.",
-      "imageLink": "image_files\\English\\practice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "practice.jpg",
       "audioLink": "audio_files\\English\\practice.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "produkcja dźwięków muzycznych za pomocą głosu",
       "example": "She loves singing in the shower.",
       "example_translation": "Ona uwielbia śpiewać w wannie.",
-      "imageLink": "image_files\\English\\singing-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "singing-1.jpg",
       "audioLink": "audio_files\\English\\singing.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "sport jazdy i prowadzenia deskorolki",
       "example": "He's been skateboarding since he was a teenager.",
       "example_translation": "On jeździł na deskorolce od czasów nastoletnich.",
-      "imageLink": "image_files\\English\\skateboarding-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "skateboarding-1.jpg",
       "audioLink": "audio_files\\English\\skateboarding.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "akt ślizgania się na lodzie lub powierzchni zamarzniętej, zwykle na łyżwach",
       "example": "She loves skating on the frozen lake in winter.",
       "example_translation": "Ona kocha łyżwiarstwo na zamarzniętym jeziorze zimą.",
-      "imageLink": "image_files\\English\\skating.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "skating.jpg",
       "audioLink": "audio_files\\English\\skating.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "zimowy sport, w którym osoba jeździ na desce po pokrytej śniegiem zboczu",
       "example": "I love snowboarding in the Swiss Alps.",
       "example_translation": "Kocham narciarstwo snowboardowe w Alpach Szwajcarskich.",
-      "imageLink": "image_files\\English\\snowboarding.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snowboarding.jpg",
       "audioLink": "audio_files\\English\\snowboarding.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "sport polegający na jeździe na falach w kierunku brzegu, stojąc na desce surfingowej",
       "example": "I love surfing in Hawaii",
       "example_translation": "Uwielbiam surfowanie na Hawajach",
-      "imageLink": "image_files\\English\\surfing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "surfing.jpg",
       "audioLink": "audio_files\\English\\surfing.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "akt poruszania się przez wodę za pomocą kończyn",
       "example": "I love swimming in the summer.",
       "example_translation": "Uwielbiam pływać latem.",
-      "imageLink": "image_files\\English\\swimming.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimming.jpg",
       "audioLink": "audio_files\\English\\swimming.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "wykorzystać do określonego celu",
       "example": "Can I use your phone?",
       "example_translation": "Czy mogę użyć twojego telefonu?",
-      "imageLink": "image_files\\English\\use-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "use-1.jpg",
       "audioLink": "audio_files\\English\\use.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "przenieść się o regularnym tempie, lifting and setting down każdego stopy, nigdy nie mając obu stóp w powietrzu jednocześnie",
       "example": "I like to walk in the park on Sundays.",
       "example_translation": "Lubię chodzić w parku w niedziele.",
-      "imageLink": "image_files\\English\\walk-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "walk-1.jpg",
       "audioLink": "audio_files\\English\\walk.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "czynność chodzenia, szczególnie w sposób relaksacyjny lub rekreacyjny",
       "example": "I love walking in the countryside on Sunday afternoons.",
       "example_translation": "Uwielbiam chodzenie po polach na weekendowe popołudnia.",
-      "imageLink": "image_files\\English\\walking.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "walking.jpg",
       "audioLink": "audio_files\\English\\walking.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "czynność czyszczenia czegoś, szczególnie ubrań, przez pocieranie i spłukiwanie w wodzie",
       "example": "I need to do some washing this weekend.",
       "example_translation": "Muszę zrobić trochę prania w tym weekendzie.",
-      "imageLink": "image_files\\English\\wash-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wash-2.jpg",
       "audioLink": "audio_files\\English\\washing.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "czynność mycia naczyń, sztućców i innych przedmiotów kuchennych po posiłku",
       "example": "After dinner, she started doing the washing-up.",
       "example_translation": "Po kolacji, zaczęła myć naczynia.",
-      "imageLink": "image_files\\English\\washing-up.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "washing-up.jpg",
       "audioLink": "audio_files\\English\\washing-up.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "rzecz uczyniona pomyślnie, zazwyczaj dzięki wysiłkowi, odwadze lub umiejętności",
       "example": "Her greatest achievement was winning the marathon.",
       "example_translation": "Jej największym osiągnięciem było wygranie maratonu.",
-      "imageLink": "image_files\\English\\achievement.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "achievement.jpg",
       "audioLink": "audio_files\\English\\achievement.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Akt ułożenia lub uporządkowania; plan lub przygotowanie do czegoś",
       "example": "The flowers were arranged beautifully in the vase.",
       "example_translation": "Kwiaty były ułożone pięknie w wazonie.",
-      "imageLink": "image_files\\English\\arrangement.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "arrangement.jpg",
       "audioLink": "audio_files\\English\\arrangement.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Akt przybycia lub przyjazdu do miejsca.",
       "example": "The arrival of the new employee was delayed due to traffic.",
       "example_translation": "Przyjazd nowego pracownika został opóźniony z powodu korków.",
-      "imageLink": "image_files\\English\\arrival.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "arrival.jpg",
       "audioLink": "audio_files\\English\\arrival.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "zrobić silny i nagły ruch w stronę kogoś lub czegoś, aby ich zranić lub pokonać",
       "example": "The band will attack the city at dawn.",
       "example_translation": "Zespół zaatakuje miasto o świcie.",
-      "imageLink": "image_files\\English\\attack-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "attack-2.jpg",
       "audioLink": "audio_files\\English\\attack.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "sprawdzanie lub badanie czegoś w celu określenia jego dokładności, jakości lub stanu",
       "example": "Can you check the oil in the car?",
       "example_translation": "Czy możesz sprawdzić olej w samochodzie?",
-      "imageLink": "image_files\\English\\check-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "check-1.jpg",
       "audioLink": "audio_files\\English\\check.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "akt wyboru lub podejmowania decyzji, gdy stoi przed dwoma lub więcej możliwościami",
       "example": "I had a difficult choice to make between two job offers.",
       "example_translation": "Miałem trudny wybór do podejmowania między dwoma ofertami pracy",
-      "imageLink": "image_files\\English\\choice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "choice.jpg",
       "audioLink": "audio_files\\English\\choice.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "wniosek lub rozwiązanie osiągnięte po rozważeniu",
       "example": "The decision to quit my job was not easy.",
       "example_translation": "Decyzja o rezygnacji z pracy nie była łatwa.",
-      "imageLink": "image_files\\English\\decision.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "decision.jpg",
       "audioLink": "audio_files\\English\\decision.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Akt doręczenia lub stan dostarczenia; przesyłka towarów lub wiadomości",
       "example": "The delivery of the package was delayed due to bad weather.",
       "example_translation": "Dostawa paczki została opóźniona z powodu złej pogody.",
-      "imageLink": "image_files\\English\\delivery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "delivery.jpg",
       "audioLink": "audio_files\\English\\delivery.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "proces rozwijania lub wzrostu czegoś",
       "example": "The company is investing in the development of new technologies.",
       "example_translation": "Firma inwestuje w rozwój nowych technologii.",
-      "imageLink": "image_files\\English\\development.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "development.jpg",
       "audioLink": "audio_files\\English\\development.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "akt skoku do wody, zwykle z zamiarem pływania",
       "example": "I love diving in the ocean during summer.",
       "example_translation": "Uwielbiam nurkowanie w oceanie latem.",
-      "imageLink": "image_files\\English\\diving.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "diving.jpg",
       "audioLink": "audio_files\\English\\diving.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "operować pojazdem",
       "example": "I will drive to work tomorrow.",
       "example_translation": "Jechałem do pracy jutro.",
-      "imageLink": "image_files\\English\\drive-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drive-2.jpg",
       "audioLink": "audio_files\\English\\drive.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "energiczny lub zdeterminowany prób",
       "example": "She made an effort to finish the project on time.",
       "example_translation": "Zrobiła wysiłek, aby ukończyć projekt na czas.",
-      "imageLink": "image_files\\English\\effort.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "effort.jpg",
       "audioLink": "audio_files\\English\\effort.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "akt wymiany czegoś za coś innego",
       "example": "I want to exchange this shirt for a larger size.",
       "example_translation": "Chcę wymienić tę koszulę na większy rozmiar.",
-      "imageLink": "image_files\\English\\exchange-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exchange-1.jpg",
       "audioLink": "audio_files\\English\\exchange.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "naukowe badanie mające na celu udowodnić lub obalić hipotezę",
       "example": "The scientist conducted an experiment to measure the effects of gravity.",
       "example_translation": "Naukowiec przeprowadził eksperyment, aby zmierzyć efekty grawitacji.",
-      "imageLink": "image_files\\English\\experiment.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "experiment.jpg",
       "audioLink": "audio_files\\English\\experiment.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "uczestniczyć w walce fizycznej lub werbalnej",
       "example": "I'm going to fight for my rights.",
       "example_translation": "Walczyć będę o swoje prawa.",
-      "imageLink": "image_files\\English\\fight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fight.jpg",
       "audioLink": "audio_files\\English\\fight.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "przenieść się z jednego miejsca do innego",
       "example": "I'll go to the store.",
       "example_translation": "Pójdę do sklepu.",
-      "imageLink": "image_files\\English\\go-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "go-1.jpg",
       "audioLink": "audio_files\\English\\go.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "zwyczajna lub powtarzalna praktyka lub zachowanie",
       "example": "She has a habit of waking up early.",
       "example_translation": "Ona ma zwyczaj wstawania wcześnie.",
-      "imageLink": "image_files\\English\\habit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "habit.jpg",
       "audioLink": "audio_files\\English\\habit.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "zadania takie jak czyszczenie, gotowanie i inne obowiązki domowe",
       "example": "She spends most of her free time doing housework.",
       "example_translation": "Spędza większość wolnego czasu wykonując pracę domową.",
-      "imageLink": "image_files\\English\\housework.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "housework.jpg",
       "audioLink": "audio_files\\English\\housework.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "trzymać kogoś ściśle w ramionach, szczególnie aby pokazać miłość lub przyjaźń",
       "example": "She gave her friend a big hug to congratulate her on her wedding day.",
       "example_translation": "Uściskała swoją przyjaciółkę, aby pogratulować jej w dniu ślubu.",
-      "imageLink": "image_files\\English\\hug.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hug.jpg",
       "audioLink": "audio_files\\English\\hug.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "proces wygładzania zmarszczek w tkaninie przy użyciu ciepła i ciśnienia",
       "example": "I hate doing the ironing, it's so boring.",
       "example_translation": "Nienawidzę prasowania, to tak nudne.",
-      "imageLink": "image_files\\English\\ironing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ironing.jpg",
       "audioLink": "audio_files\\English\\ironing.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "przenieść się do góry lub do przodu, zginając kolana, a następnie prostując je",
       "example": "She likes to jump rope in her free time.",
       "example_translation": "Lubi skakać sznurkiem w czasie wolnym.",
-      "imageLink": "image_files\\English\\jump.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jump.jpg",
       "audioLink": "audio_files\\English\\jump.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "skierować swoją uwagę lub spojrzenie w określonym kierunku",
       "example": "Can you look at this picture?",
       "example_translation": "Czy możesz spojrzeć na ten obraz?",
-      "imageLink": "image_files\\English\\look-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "look-1.jpg",
       "audioLink": "audio_files\\English\\look.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Akt przygotowania czegoś lub sprawiania, że jest gotowe.",
       "example": "The chef began the preparation of the meal hours before serving.",
       "example_translation": "Szef kuchni rozpoczął przygotowanie posiłku godzinę przed podaniem.",
-      "imageLink": "image_files\\English\\preparation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "preparation.jpg",
       "audioLink": "audio_files\\English\\preparation.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Proces zbierania i przetwarzania używanych materiałów w celu produkcji nowych produktów.",
       "example": "The city has implemented a recycling program to reduce waste.",
       "example_translation": "Miasto wdraża program recyklingu, aby zmniejszyć ilość odpadów.",
-      "imageLink": "image_files\\English\\recycling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "recycling.jpg",
       "audioLink": "audio_files\\English\\recycling.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "uratować kogoś lub coś z niebezpiecznej lub trudnej sytuacji",
       "example": "The fire brigade came to rescue the people trapped in the burning building.",
       "example_translation": " Straż pożarna przybyła, aby uratować ludzi uwięzionych w płonącym budynku.",
-      "imageLink": "image_files\\English\\rescue-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rescue-1.jpg",
       "audioLink": "audio_files\\English\\rescue.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "powrócić do miejsca lub osoby",
       "example": "Can you return this book to the library?",
       "example_translation": "Czy możesz zwrócić tę książkę do biblioteki?",
-      "imageLink": "image_files\\English\\return-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "return-2.jpg",
       "audioLink": "audio_files\\English\\return.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "przenieść się szybko nogami, typowo w stałym i szybkim tempie",
       "example": "I will run to the store to buy some milk.",
       "example_translation": "Pobiegę do sklepu, aby kupić mleko.",
-      "imageLink": "image_files\\English\\run-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "run-1.jpg",
       "audioLink": "audio_files\\English\\run.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "szukać coś lub kogoś uważnie",
       "example": "I've been searching for my keys all morning.",
       "example_translation": "Szukam swoich kluczy od rana.",
-      "imageLink": "image_files\\English\\search.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "search.jpg",
       "audioLink": "audio_files\\English\\search.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "którakolwiek z dwóch głównych kategorii (męskiej lub żeńskiej), do których ludzie i wiele innych żywych istot są podzielone",
       "example": "The form asked for my sex and age.",
       "example_translation": "Formularz zapytał o moją płeć i wiek.",
-      "imageLink": "image_files\\English\\sex-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sex-1.jpg",
       "audioLink": "audio_files\\English\\sex.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "ruch wykonany przez unoszenie jednej nogi i postawienie jej w innym miejscu",
       "example": "She took a step back to get a better view.",
       "example_translation": "Ona zrobiła krok w tył, aby zobaczyć lepiej.",
-      "imageLink": "image_files\\English\\step-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "step-1.jpg",
       "audioLink": "audio_files\\English\\step.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "udzielić wsparcia lub zachęty komuś lub czemuś",
       "example": "The company will provide technical support to its customers.",
       "example_translation": "Firma będzie udzielać wsparcia technicznego swoim klientom.",
-      "imageLink": "image_files\\English\\support.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "support.jpg",
       "audioLink": "audio_files\\English\\support.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "odwiedzić kogoś lub coś, szczególnie w celu sprawdzenia lub zbadania",
       "example": "I'm going to visit my parents this weekend.",
       "example_translation": "Odświężę moich rodziców w ten weekend.",
-      "imageLink": "image_files\\English\\visit-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "visit-2.jpg",
       "audioLink": "audio_files\\English\\visit.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "zmniejszenie wartości lub użyteczności czegoś",
       "example": "The company tries to reduce waste by recycling paper.",
       "example_translation": "Firma próbuje zmniejszyć marnotrawstwo, recyklingując papier.",
-      "imageLink": "image_files\\English\\waste-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "waste-1.jpg",
       "audioLink": "audio_files\\English\\waste.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "sesja ćwiczeń fizycznych lub treningu, szczególnie jedna, która jest zaplanowana i strukturalna",
       "example": "I need to do a workout to stay in shape for the marathon.",
       "example_translation": "Muszę wykonać trening, aby utrzymać formę przed maratonem.",
-      "imageLink": "image_files\\English\\workout.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "workout.jpg",
       "audioLink": "audio_files\\English\\workout.mp3"
     }
   ]

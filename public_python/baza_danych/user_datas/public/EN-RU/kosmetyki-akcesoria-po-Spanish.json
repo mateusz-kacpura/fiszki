@@ -9,7 +9,7 @@
       "definition_translation": "Расчёска - это инструмент, используемый для устройства, чистки или украшения волос.",
       "example": "I combed my hair this morning. I will comb my hair tomorrow. I combed my hair yesterday.",
       "example_translation": "Я расчесал свои волосы сегодня утром. Я расчесаю свои волосы завтра. Я расчесал свои волосы вчера.",
-      "imageLink": "comb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "comb.jpg",
       "audioLink": "comb.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Шампунь - это жидкость или порошок, используемый для мытья волос.",
       "example": "I shampoo my hair every morning. I will shampoo my hair after exercise. I shampooed my hair last night.",
       "example_translation": "Я мою волосы шампунем каждый утром. Я умою волосы шампунем после тренировки. Я помыл волосы шампунем прошлой ночью.",
-      "imageLink": "shampoo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shampoo.jpg",
       "audioLink": "shampoo.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Крем - это густая жидкость или полутвердая пища, сделанная из молока или крема.",
       "example": "I spread cream on my toast this morning. I will spread cream on my cake tomorrow. I spread cream on my waffles yesterday.",
       "example_translation": "Я намазал крем на мой тостик сегодня утром. Я намажу крем на мой торт завтра. Я намазал крем на мои вафли вчера.",
-      "imageLink": "cream-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cream-1.jpg",
       "audioLink": "cream.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Дезодорант - это вещество или продукт, используемый для предотвращения тела неприятного запаха.",
       "example": "I applied deodorant this morning. I will apply deodorant after exercise. I applied deodorant last night.",
       "example_translation": "Я нанес дезодорант сегодня утром. Я нанесу дезодорант после тренировки. Я нанес дезодорант прошлой ночью.",
-      "imageLink": "deodorant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "deodorant.jpg",
       "audioLink": "deodorant.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Косметический продукт, используемый для увлажнения и смягчения кожи на руках.",
       "example": "She applied hand cream after washing her hands, I will apply hand cream after this winter, She had applied hand cream before going to bed.",
       "example_translation": "Она нанесла крем для рук после мытья рук, Я нанесу крем для рук после этой зимы, Она нанесла крем для рук перед тем, как лечь спать.",
-      "imageLink": "hand-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hand-cream.jpg",
       "audioLink": "hand cream.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Косметический продукт, используемый для окрашивания и увлажнения губ.",
       "example": "She wore a bold lipstick to the party, I will wear a bold lipstick to the wedding, She had worn a bold lipstick to the prom.",
       "example_translation": "Она надела яркую помаду на вечеринку, Я надену яркую помаду на свадьбу, Она надела яркую помаду на выпускной вечер.",
-      "imageLink": "lipstick.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lipstick.jpg",
       "audioLink": "lipstick.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Косметический продукт, используемый для осветления, удлинения и укрепления ресниц.",
       "example": "She applied mascara to her eyelashes, I will apply mascara to my eyelashes before the photo shoot, She had applied mascara to her eyelashes at the party.",
       "example_translation": "Она нанесла маскару на ресницы, Я нанесу маскару на ресницы перед фотосессией, Она нанесла маскару на ресницы на вечеринке.",
-      "imageLink": "mascara.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mascara.jpg",
       "audioLink": "mascara.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Косметический продукт или устройство, используемое для покрытия лица или части лица.",
       "example": "She wore a face mask to protect her skin, I will wear a face mask before going to the salon, She had worn a face mask at the spa.",
       "example_translation": "Она надела маску для лица, чтобы защитить кожу, Я надену маску для лица перед тем, как пойти в салон, Она надела маску для лица в спа.",
-      "imageLink": "facial-mask.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "facial-mask.jpg",
       "audioLink": "mask.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Тип жидкого мыла, используемого для очищения тела при душе.",
       "example": "I used too much shower gel and it stung my eyes. I use shower gel every morning. I will buy a new shower gel tomorrow.",
       "example_translation": "Я использовал слишком много геля для душа и он ожег мои глаза. Я использую гель для душа каждое утро. Я куплю новый гель для душа завтра.",
-      "imageLink": "shower-gel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shower-gel.jpg",
       "audioLink": "shower gel.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Увлажняющий крем или лосьон, используемый для смягчения и успокоения кожи.",
       "example": "I applied body balm after my shower to keep my skin hydrated. She uses body balm to soothe her dry skin. They will launch a new body balm product next month.",
       "example_translation": "Я наносил тело бальзам после душа, чтобы保持 мою кожу гидратированной. Она использует тело бальзам, чтобы успокоить свою сухую кожу. Они запустят новый продукт тело бальзам в следующем месяце.",
-      "imageLink": "body-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "body-balm.jpg",
       "audioLink": "body balm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Маленький, круглый диск из хлопка, используемый для нанесения или удаления косметики.",
       "example": "I used a cotton pad to apply the eye cream. She uses cotton pads to remove her nail polish. They will buy cotton pads in bulk for the beauty salon.",
       "example_translation": "Я использовал ватный диск, чтобы нанести крем для глаз. Она использует ватные диски, чтобы удалить свой лак для ногтей. Они купят ватные диски в больших количествах для салона красоты.",
-      "imageLink": "make-up-cotton-pad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "make-up-cotton-pad.jpg",
       "audioLink": "cotton pad.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Устройство, используемое для бритья, которое использует электрическую мощность для вращения лезвия или другого механизма разрезания.",
       "example": "I prefer using an electric razor for shaving my face. He used an electric razor to shave his beard. They will release a new electric razor model next year.",
       "example_translation": "Я предпочитаю использовать электрический бритвенный аппарат для бритья моего лица. Он использовал электрический бритвенный аппарат, чтобы сбрить свою бороду. Они выпустят новую модель электрического бритвенного аппарата в следующем году.",
-      "imageLink": "electric-razor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "electric-razor.jpg",
       "audioLink": "electric razor.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Концентрированный экстракт растения, используемый в ароматерапии, парфюмерии и ароматизации.",
       "example": "She used essential oil to relax after a long day, then she will add it to her diffuser and finally, she added it to her bath water last night.",
       "example_translation": "Она использовала эссенциальное масло, чтобы расслабиться после долгого дня, потом она добавит его в свой диффузор и, наконец, она добавила его в воду для ванной ночью.",
-      "imageLink": "essential-oil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "essential-oil.jpg",
       "audioLink": "essential oil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Инструмент для красоты, используемый для завивания и формирования ресниц.",
       "example": "She had used an eyelash curler every morning to get ready for work, then she will use it before the party and finally, she used it at the beauty salon yesterday.",
       "example_translation": "Она использовала кулаки для ресниц каждое утро, чтобы готовиться к работе, потом она будет использовать его перед вечеринкой и, наконец, она использовала его в салоне красоты вчера.",
-      "imageLink": "eyelash-curler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyelash-curler.jpg",
       "audioLink": "eyelash curler.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Химическое вещество, используемое для изменения цвета волос.",
       "example": "She always used hair dye to cover her gray hair, then she will use it to get a new look for the summer and finally, she used it to get back to her natural color last month.",
       "example_translation": "Она всегда использовала краску для волос, чтобы скрыть серые волосы, потом она будет использовать ее, чтобы получить новый look на лето и, наконец, она использовала ее, чтобы вернуться к естественному цвету волос minul month.",
-      "imageLink": "hair-dye.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-dye.jpg",
       "audioLink": "hair dye.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Инструмент для красоты, используемый для формирования и сглаживания поверхности ногтей.",
       "example": "She used a nail buffer to shape her nails before the wedding, then she will use it to fix a broken nail and finally, she used it to smooth out the ridges last week.",
       "example_translation": "Она использовала пилку для ногтей, чтобы отшлифовать ногти перед свадьбой, потом она будет использовать ее, чтобы отремонтировать сломанный ноготь и, наконец, она использовала ее, чтобы сгладить ребра на прошлой неделе.",
-      "imageLink": "nail-buffer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-buffer.jpg",
       "audioLink": "nail buffer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Крипс для ногтей - это ручное устройство, используемое для подстригания и формирования ногтей на руках и ногах.",
       "example": "I used a nail clipper to trim my fingernails yesterday, and I will use it again tomorrow. She has been using a nail clipper for years to shape her toenails.",
       "example_translation": "Я использовал крипс для ногтей, чтобы подстричь ногти на руках вчера, и я использую его снова завтра. Она использовала крипс для ногтей на протяжении многих лет, чтобы формировать ногти на ногах.",
-      "imageLink": "nail-clipper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-clipper.jpg",
       "audioLink": "nail clipper.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Наждак для ногтей - это инструмент, используемый для формирования и сглаживания краев ногтей на руках и ногах.",
       "example": "I filed my nails with a nail file last week, and I will file them again next month. She has been filing her nails with a nail file every day for a year.",
       "example_translation": "Я запилил ногти наждаком для ногтей на прошлой неделе, и я запилию их снова nächsten месяца. Она запиливает ногти наждаком для ногтей каждый день в течение года.",
-      "imageLink": "nail-file.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-file.jpg",
       "audioLink": "nail file.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Лопаточка - это прибор, используемый для соскребания, переворачивания и служения еды при приготовлении и выпечке.",
       "example": "I used a spatula to flip the pancakes yesterday, and I will use it again tomorrow to serve the cake. She has been using a spatula for years to scrape the sides of the bowl.",
       "example_translation": "Я использовал лопаточку, чтобы перевернуть блинчики вчера, и я использую ее снова завтра, чтобы подать торт. Она использовала лопаточку на протяжении многих лет, чтобы соскребать стороны миски.",
-      "imageLink": "spatula.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spatula.jpg",
       "audioLink": "spatula.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Тонированный увлажнитель - это косметический продукт, который обеспечивает легкую до средней степени покрытия, одновременно увлажняя кожу.",
       "example": "I applied a tinted moisturiser to my face yesterday, and I will apply it again tomorrow to give my skin a natural glow. She has been using a tinted moisturiser for years to even out her skin tone.",
       "example_translation": "Я нанесла тонированный увлажнитель на лицо вчера, и я нанесу его снова завтра, чтобы дать своей коже естественный загар. Она использовала тонированный увлажнитель на протяжении многих лет, чтобы выровнять тон кожи.",
-      "imageLink": "tinted-moisturiser.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tinted-moisturiser.jpg",
       "audioLink": "tinted moisturiser.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Маленькое устройство или полоса материала, помещаемая между пальцами, чтобы разделять их, обычно используется для предотвращения трения или соприкосновения.",
       "example": "I used a toe separator to avoid blisters during my hike yesterday, and I will use it again tomorrow.",
       "example_translation": "Я использовал разделитель пальцев, чтобы избежать волдырей во время моей ходьбы вчера, и я использую его 다시 завтра.",
-      "imageLink": "toe-separator.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toe-separator.jpg",
       "audioLink": "toe separator.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Жидкость или крем, наносимый на кожу после бритья, чтобы утихомирить и увлажнить ее.",
       "example": "He applied aftershave to his skin after shaving, and he will do the same after his shower tomorrow.",
       "example_translation": "Он наносил aftershave на кожу после бритья, и он сделает то же самое после своей души завтра.",
-      "imageLink": "aftershave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aftershave.jpg",
       "audioLink": "aftershave.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Косметическая пудра или крем, используемый для придания здорового, розового сияния щекам.",
       "example": "She applied blusher to her cheeks to look more vibrant during the party last night, and she will wear it again at the wedding tomorrow.",
       "example_translation": "Она наносила румяна на щеки, чтобы выглядеть более живой на вечеринке прошлой ночью, и она наденет ее снова на свадьбе завтра.",
-      "imageLink": "blusher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blusher.jpg",
       "audioLink": "blusher.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Косметический продукт, используемый для отшелушивания и удаления мертвых кожных клеток с тела.",
       "example": "I used a body scrub to smooth out my skin before the beach vacation, and I will use it again before the summer festival next week.",
       "example_translation": "Я использовал скраб для тела, чтобы разгладить кожу перед морским отдыхом, и я использую его снова перед летним фестивалем на следующей неделе.",
-      "imageLink": "scrub.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scrub.jpg",
       "audioLink": "body scrub.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Ванна с поверхностным слоем пеноподобных мыльных пены, обычно используемая для релаксации.",
       "example": "I loved taking a long bubble bath to unwind after a stressful day. I take a bubble bath every Sunday to pamper myself. By the time I finish my bubble bath, I'll be relaxed and ready for bed.",
       "example_translation": "Я любил принимать длинную ванну с пеной, чтобы расслабиться после напряженного дня. Я принимаю ванну с пеной каждое воскресенье, чтобы побаловать себя. К тому времени, как я закончу свою ванну с пеной, я буду расслаблен и готов спать.",
-      "imageLink": "bubble-bath.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bubble-bath.jpg",
       "audioLink": "bubble bath.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Тесно и аккуратно упакованный вместе; плотный.",
       "example": "The new compact camera was perfect for traveling. The company's compact design made it a hit with customers. By next year, the city will have more compact living spaces.",
       "example_translation": "Новый компактный фотоаппарат был идеальным для путешествий. Компактный дизайн компании сделал его хитом с клиентами. К следующему году город будет иметь больше компактных жилых пространств.",
-      "imageLink": "compact.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "compact.jpg",
       "audioLink": "compact.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Косметическое средство, используемое для покрытия или маскировки nedokonallonostej на коже.",
       "example": "I use a concealer to cover up dark circles under my eyes. She applied a concealer to her blemish before going out. By using a concealer, I can hide my acne scars.",
       "example_translation": "Я использую консилер, чтобы скрыть темные круги под глазами. Она нанесла консилер на свой дефект перед выходом. Используя консилер, я могу спрятать свои рубцы акне.",
-      "imageLink": "concealer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "concealer.jpg",
       "audioLink": "concealer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Маленькие стержни из ваты, используемые для нанесения или снятия косметики или для чистки ушей.",
       "example": "I use cotton buds to apply my eyeshadow. She used a cotton bud to clean her earwax. By the time I finish cleaning my ears with cotton buds, I'll be ready for bed.",
       "example_translation": "Я использую ватные палочки, чтобы наносить тени для век. Она использовала ватную палочку, чтобы очистить серу из уха. К тому времени, как я закончу чистку ушей ватными палочками, я буду готов спать.",
-      "imageLink": "cotton-buds.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cotton-buds.jpg",
       "audioLink": "cotton buds.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Кулер - это инструмент, используемый для формирования и фиксации волос, обычно используемый для стилизации и завивки волос.",
       "example": "I used a curler to achieve the perfect curls for my wedding day. I will use a curler to style my hair for the party tonight. I used a curler to add volume to my hair last week.",
       "example_translation": "Я использовал кулер, чтобы достичь идеальных крутых волос для моего дня рождения. Я использую кулер, чтобы стилизовать мою причёску для вечеринки сегодня ночью. Я использовал кулер, чтобы добавить объём моим волосам на прошлой неделе.",
-      "imageLink": "curler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curler.jpg",
       "audioLink": "curler.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Железо для завивки - это устройство, используемое для стилизации и завивки волос, обычно нагреваемое для достижения desired формы.",
       "example": "She always uses a curling iron to get perfect beach waves. I will try a curling iron to add some curl to my hair. He used a curling iron to style his hair for the fashion show.",
       "example_translation": "Она всегда использует железо для завивки, чтобы получить идеальные волны на пляже. Я попробую железо для завивки, чтобы добавить крутые волосы. Он использовал железо для завивки, чтобы стилизовать свой волос для модного шоу.",
-      "imageLink": "curling-iron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curling-iron.jpg",
       "audioLink": "curling iron.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Кюретаж для кутикулы - это маленькие инструменты, похожие на щипцы, используемые для подрезки и формирования кутикул вокруг пальцев и ног.",
       "example": "I use cuticle nippers to keep my nails looking neat. She will use cuticle nippers to trim her cuticles for the pedicure. He used cuticle nippers to shape his cuticles last week.",
       "example_translation": "Я использую кюретаж для кутикулы, чтобы我的 ногти выглядели опрятно. Она воспользуется кюретажем для кутикулы, чтобы подрезать кутикулы для педикюра. Он использовал кюретаж для кутикулы, чтобы сформировать кутикулы на прошлой неделе.",
-      "imageLink": "cuticle-nippers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-nippers.jpg",
       "audioLink": "cuticle nippers.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Продаватель кутикулы - это инструмент, используемый для осторожного отодвигания кутикул и очистки ногтя.",
       "example": "The beautician used a cuticle pusher to prepare my nails for the manicure. I will use a cuticle pusher to clean my nail bed. She used a cuticle pusher to push back her cuticles last month.",
       "example_translation": "Косметолог использовал продаватель кутикулы, чтобы подготовить мои ногти для маникюра. Я воспользуюсь продавателем кутикулы, чтобы очистить мой ноготь. Она использовала продаватель кутикулы, чтобы отодвинуть кутикулы в прошлом месяце.",
-      "imageLink": "cuticle-pusher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-pusher.jpg",
       "audioLink": "cuticle pusher.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Косметическое средство, используемое для растворения и удаления мертвых клеток кожи с кутикулы, обычноApplied перед маникюром.",
       "example": "She used a cuticle remover to soften her cuticles before pushing them back. She had used a cuticle remover yesterday and her hands looked great. She will use a cuticle remover tomorrow to prepare for her nail appointment.",
       "example_translation": "Она использовала удалитель кутикулы, чтобы смягчить свои кутикулы, прежде чем отодвинуть их назад. Она использовала удалитель кутикулы вчера, и ее руки выгляделиgreat. Она будет использовать удалитель кутикулы завтра, чтобы подготовиться к своей записи на маникюр.",
-      "imageLink": "cuticle-remover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-remover.jpg",
       "audioLink": "cuticle remover.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Косметическое средство, используемое для удаления нежелательных волос с кожи, обычно наносимое на область и затем стирающееся или смываемое.",
       "example": "She applied a depilatory cream to her legs to remove unwanted hair. She had used a depilatory cream last week and her skin looked smooth. She will use a depilatory cream next month to prepare for her vacation.",
       "example_translation": "Она нанесла депиляторный крем на ноги, чтобы удалить нежелательные волосы. Она использовала депиляторный крем на прошлой неделе, и ее кожа выглядела гладкой. Она будет использовать депиляторный крем в следующем месяце, чтобы подготовиться к своему отпуску.",
-      "imageLink": "depilatory-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "depilatory-cream.jpg",
       "audioLink": "depilatory cream.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Косметическое средство, используемое для формирования и определения формы бровей, обычно карандашоподобное инструмент с мягким, воскоподобным грифелем.",
       "example": "She used an eyebrow pencil to fill in her sparse eyebrows. She had used an eyebrow pencil every morning to define her eyebrows. She will use an eyebrow pencil tonight to get ready for the party.",
       "example_translation": "Она использовала карандаш для бровей, чтобы заполнить свои редкие брови. Она использовала карандаш для бровей каждый morning, чтобы определить форму своих бровей. Она будет использовать карандаш для бровей今 вечером, чтобы подготовиться к вечеринке.",
-      "imageLink": "eyebrow-pencil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyebrow-pencil.jpg",
       "audioLink": "eyebrow pencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Косметическое средство, используемое для определения и улучшения формы глаз, обычно жидкое, гель или карандашоподобное средство, наносимое на верхнюю линию ресниц.",
       "example": "She applied an eyeliner to her upper lash line to create a cat eye effect. She had used an eyeliner yesterday to go out with her friends. She will use an eyeliner tomorrow to attend a wedding.",
       "example_translation": "Она нанесла подводку для глаз на верхнюю линию ресниц, чтобы создать эффект кошачьего глаза. Она использовала подводку для глаз вчера, чтобы выйти с друзьями. Она будет использовать подводку для глаз завтра, чтобы присутствовать на свадебной церемонии.",
-      "imageLink": "eyeliner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyeliner.jpg",
       "audioLink": "eyeliner.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Косметическая продукция, используемая для окрашивания и оттенка век, часто доступная в виде порошка или крема.",
       "example": "She applied a thick layer of eyeshadow to her eyelids for a dramatic effect. Yesterday, she had bought a new eyeshadow palette. She will put on eyeshadow tomorrow before the party.",
       "example_translation": "Она нанесла густой слой тени для глаз на веки для драматического эффекта. Вчера она купила новую палетку теней для глаз. Она наденет тени для глаз завтра перед вечеринкой.",
-      "imageLink": "eyeshadow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyeshadow.jpg",
       "audioLink": "eyeshadow.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Электрическое устройство, используемое для выпрямления или стилизации волос, обычно состоящее из плоской пластины, которая нагревается и движется вдоль волос для их гладкости.",
       "example": "She used a flat iron to straighten her curly hair. Yesterday, she had bought a new flat iron for her birthday. She will use a flat iron tomorrow before the wedding.",
       "example_translation": "Она использовала плоский утюжок, чтобы выпрямить свои кудрявые волосы. Вчера она купила новый плоский утюжок к своему дню рождения. Она будет использовать плоский утюжок завтра перед свадьбой.",
-      "imageLink": "flat-iron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flat-iron.jpg",
       "audioLink": "flat iron.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Косметическая продукция, используемая для улучшения текстуры и управляемости волос, часто наносимая после мытья головы для удержания влаги и уменьшения заделов.",
       "example": "She applied a hair conditioner to her hair after shampooing. Yesterday, she had bought a new hair conditioner for her dry hair. She will use a hair conditioner tomorrow before styling her hair.",
       "example_translation": "Она нанесла кондиционер для волос на волосы после мытья головы. Вчера она купила новый кондиционер для волос для своих сухих волос. Она будет использовать кондиционер для волос завтра перед стилеванием волос.",
-      "imageLink": "hair-conditioner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-conditioner.jpg",
       "audioLink": "hair conditioner.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Легкий, пенистый продукт для волос, используемый для добавления объема, текстуры и фиксации волос, часто наносимый на влажные волосы перед стилеванием.",
       "example": "She applied a hair mousse to her hair before blow-drying. Yesterday, she had bought a new hair mousse for her fine hair. She will use a hair mousse tomorrow before curling her hair.",
       "example_translation": "Она нанесла мусс для волос на волосы перед сушкой феном. Вчера она купила новый мусс для волос для своих тонких волос. Она будет использовать мусс для волос завтра перед крученнием волос.",
-      "imageLink": "hair-mousse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-mousse.jpg",
       "audioLink": "hair mousse.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Косметическое средство, используемое для стилизации и фиксации волос.",
       "example": "She used hair spray to keep her hair styled all day. She has been using hair spray every morning. She will use hair spray for her wedding.",
       "example_translation": "Она использовала лак для волос, чтобы giữ свою причёску целый день. Она использовала лак для волос каждый утренний день. Она будет использовать лак для волос на свой свадьбе.",
-      "imageLink": "hair-spray.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-spray.jpg",
       "audioLink": "hair spray.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Топическое средство, используемое для увлажнения и смягчения губ.",
       "example": "He applied lip balm to soothe his chapped lips. She has been using lip balm all winter. They will use lip balm for their hiking trip.",
       "example_translation": "Он наносил бальзам для губ, чтобы успокоить его обветренные губы. Она использовала бальзам для губ всю зиму. Они будут использовать бальзам для губ для своей походки.",
-      "imageLink": "lip-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-balm.jpg",
       "audioLink": "lip balm.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Косметическое средство, используемое для добавления блеска и цвета губам.",
       "example": "She applied lip gloss to complete her look. They have been using lip gloss for their fashion show. He will use lip gloss for his costume party.",
       "example_translation": "Она наносила губную помаду, чтобы завершить свой образ. Они использовали губную помаду для своей модной выставки. Он будет использовать губную помаду для своей костюмной вечеринки.",
-      "imageLink": "lip-gloss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-gloss.jpg",
       "audioLink": "lip gloss.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Косметическое средство, используемое для определения и формирования губ.",
       "example": "She used lip liner to create a precise shape. They have been using lip liner for their makeup tutorials. He will use lip liner for his Halloween costume.",
       "example_translation": "Она использовала контур для губ, чтобы создать правильную форму. Они использовали контур для губ для своих уроков макияжа. Он будет использовать контур для губ для своей Хэллоуинской костюма.",
-      "imageLink": "lip-liner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-liner.jpg",
       "audioLink": "lip liner.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Тип косметической основы, который имеет жидкую консистенцию, часто используемый для обеспечения легкого до среднего покрытия и естественного финиша.",
       "example": "I used a liquid foundation to even out my skin tone. I will use a liquid foundation to cover up my blemishes. I used a liquid foundation to get a flawless look.",
       "example_translation": "Я использовала жидкую основу, чтобы выровнять тон кожи. Я dùng жидкую основу, чтобы скрыть свои недостатки. Я использовала жидкую основу, чтобы достичь идеального вида.",
-      "imageLink": "liquid-foundation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "liquid-foundation.jpg",
       "audioLink": "liquid foundation.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Тип косметической пудры, который имеет рыхлую и тонкую текстуру, часто используемый для фиксации макияжа и контроля блеска.",
       "example": "I applied a loose powder to set my foundation. She will apply a loose powder to reduce shine. He applied a loose powder to achieve a smooth finish.",
       "example_translation": "Я нанесла рыхлую пудру, чтобы зафиксировать основу. Она dùng рыхлую пудру, чтобы уменьшить блеск. Он нанес рыхлую пудру, чтобы достичь гладкого финиша.",
-      "imageLink": "loose-powder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "loose-powder.jpg",
       "audioLink": "loose powder.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Маленькая кисточка, используемая для нанесения лака для ногтей или других продуктов ухода за ногтями на ногти.",
       "example": "I used a nail brush to paint my toenails. She will use a nail brush to apply a nail strengthener. He used a nail brush to create a nail art design.",
       "example_translation": "Я использовала кисточку для ногтей, чтобы раскрасить ногти на ногах. Она будет использовать кисточку для ногтей, чтобы нанести укрепитель для ногтей. Он использовал кисточку для ногтей, чтобы создать дизайн ногтевой артистки.",
-      "imageLink": "nail-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-brush.jpg",
       "audioLink": "nail brush.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Косметический продукт, используемый для окрашивания и украшения ногтей.",
       "example": "I applied a nail polish to my fingernails. She will apply a nail polish to her toenails. He applied a nail polish to get a glossy finish.",
       "example_translation": "Я нанесла лак для ногтей на ногти пальцев. Она будет наносить лак для ногтей на ногти ног. Он нанес лак для ногтей, чтобы достичь глянцевого финиша.",
-      "imageLink": "nail-polish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-polish.jpg",
       "audioLink": "nail polish.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Жидкость или крем, используемые для растворения и удаления лака с ногтей.",
       "example": "I need to buy a nail polish remover to take off the old color. Yesterday, I used a nail polish remover to clean my nails. By next week, I will have bought a nail polish remover to start fresh.",
       "example_translation": "Мне нужно купить средство для снятия лака, чтобы убрать старый цвет. Вчера я использовал средство для снятия лака, чтобы очистить мои ногти. К следующей неделе я куплю средство для снятия лака, чтобы начать с чистого листа.",
-      "imageLink": "nail-polish-remover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-polish-remover.jpg",
       "audioLink": "nail polish remover.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Инструмент, используемый для нанесения или снятия пудровой косметики, обычно сделанный из мягкойround pads with a handle.",
       "example": "She applied the finishing touches with a powder puff. He accidentally knocked over the powder puff container. By the time I get home, I will have washed the powder puff.",
       "example_translation": "Она додала последние штрихи с помощью пудровой пошиповой. Он случайноPerPixel контейнер с пудровой пошиповой. К тому времени, когда я вернусь домой, я смою пудровую пошиповую.",
-      "imageLink": "powder-puff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "powder-puff.jpg",
       "audioLink": "powder puff.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Тип косметической пудры, которая прессуется в компактной форме, часто используемой для фиксации лица и уменьшения блеска.",
       "example": "I always carry a pressed powder in my purse. She applied the pressed powder to her T-zone. By next week, I will have bought a new pressed powder compact.",
       "example_translation": "Я всегда ношу прессованный пудр в своей сумочке. Она нанесла прессованный пудр на свою Т-зону. К следующей неделе я куплю новый компакт с прессованным пудром.",
-      "imageLink": "pressed-powder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pressed-powder.jpg",
       "audioLink": "pressed powder.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Косметический продукт, наносимый на лицо перед нанесением тонального средства или другой косметики для создания гладкой и ровной поверхности.",
       "example": "The makeup artist applied a primer to the model's face. I need to buy a new primer for my dry skin. By tomorrow, I will have applied a primer before my makeup.",
       "example_translation": "Визажист нанес праймер на лицо модели. Мне нужно купить новый праймер для моей сухой кожи. К завтрашнему дню я нанесу праймер перед макияжем.",
-      "imageLink": "primer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "primer.jpg",
       "audioLink": "primer.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Пемза - это натуральный эксфолиант, используемый для удаления мертвых клеток кожи и сглаживания шероховатой кожи, часто используемый в косметических и beauty-услугах.",
       "example": "I used a pumice stone to remove dead skin cells from my heels. I will use a pumice stone to exfoliate my skin. I have used a pumice stone to smooth out my rough skin.",
       "example_translation": "Я использовал пемзу, чтобы удалить мертвые клетки кожи с моих пяток. Я буду использовать пемзу, чтобы эксфолировать свою кожу. Я использовал пемзу, чтобы сгладить свою шероховатую кожу.",
-      "imageLink": "pumice-stone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pumice-stone.jpg",
       "audioLink": "pumice stone.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Бритьевой кисть - это маленькая кисть, используемая для вспенивания и нанесения бритьевого крема на кожу, обычно используемая в традиционном влажном бритье.",
       "example": "My grandfather used a shaving brush to lather his face. I will use a shaving brush to apply shaving cream. He had used a shaving brush to shave his beard.",
       "example_translation": "Мой дедушка использовал бритьевую кисть, чтобы вспенить свое лицо. Я буду использовать бритьевую кисть, чтобы нанести бритьевой крем. Он использовал бритьевую кисть, чтобы побрить свою бороду.",
-      "imageLink": "shaving-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-brush.jpg",
       "audioLink": "shaving brush.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Бритьевой крем - это тип косметического крема или пены, используемого для помощи при бритье, обычно наносимого на кожу, чтобы помочь бритве скользить плавно и уменьшить трение.",
       "example": "I applied shaving cream to my face. She will use shaving cream to shave her legs. They had used shaving cream to shave their beards.",
       "example_translation": "Я нанес бритьевой крем на свое лицо. Она будет использовать бритьевой крем, чтобы побрить свои ноги. Они использовали бритьевой крем, чтобы побрить свои бороды.",
-      "imageLink": "shaving-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-cream.jpg",
       "audioLink": "shaving cream.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Шейвинг пена - это тип косметической пены, используемой для помощи при бритье, обычно наносимой на кожу, чтобы помочь бритве скользить плавно и уменьшить трение.",
       "example": "I used shaving foam to shave my face. She will use shaving foam to shave her underarms. They had used shaving foam to shave their heads.",
       "example_translation": "Я использовал шейвинг пену, чтобы побрить свое лицо. Она будет использовать шейвинг пену, чтобы побрить свои подмышки. Они использовали шейвинг пену, чтобы побрить свои головы.",
-      "imageLink": "shaving-foam.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-foam.jpg",
       "audioLink": "shaving foam.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Лосьон, спрей или гель, наносимый на кожу для защиты от ультрафиолетовых лучей солнца, часто с určitым рейтингом фактора защиты от солнца (SPF).",
       "example": "I applied sunscreen to my skin before going to the beach. I have been using sunscreen every day for a week. I will use sunscreen again tomorrow.",
       "example_translation": "Я нанес солнцезащитный крем на кожу перед тем, как пойти на пляж. Я использую солнцезащитный крем каждый день в течение недели. Завтра я снова использовать солнцезащитный крем.",
-      "imageLink": "sunscreen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunscreen.jpg",
       "audioLink": "sunscreen.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Маленький инструмент, используемый для ощипывания или захвата μικрок предметов, обычно имеющий две шарнирные руки, которые сжимаются вместе, чтобы захватить предмет.",
       "example": "I used tweezers to pick up a small bead. She has been using tweezers to pluck her eyebrows for years. They will use tweezers to examine the specimen tomorrow.",
       "example_translation": "Я использовал пинцет, чтобы поднять маленькую бусину. Она использует пинцет, чтобы ощипывать свои брови в течение лет. Завтра они будут использовать пинцет, чтобы изучить образец.",
-      "imageLink": "tweezers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tweezers.jpg",
       "audioLink": "tweezers.mp3"
     }
   ]

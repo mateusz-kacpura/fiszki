@@ -9,7 +9,7 @@
       "definition_translation": "Un vegetal almidonoso que se come con frecuencia, a menudo se utiliza en la cocina y la repostería.",
       "example": "Me comí una papa ayer, estoy comiendo una papa ahora, y comeré una papa mañana.",
       "example_translation": "Comí una papa ayer, estoy comiendo una papa ahora, y comeré una papa mañana.",
-      "imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "potato.jpg",
       "audioLink": "potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Una fruta jugosa roja o amarilla que crece en una vid, a menudo se utiliza en ensaladas y sandwiches.",
       "example": "Recogí un tomate del jardín ayer, estoy comiendo un tomate en mi ensalada ahora, y utilizaré un tomate en mi sandwich mañana.",
       "example_translation": "Cogí un tomate del jardín ayer, estoy comiendo un tomate en mi ensalada ahora, y utilizaré un tomate en mi sandwich mañana.",
-      "imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tomato.jpg",
       "audioLink": "tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Cualquier planta que se cultiva o se cosecha para alimentarse, incluyendo hojas, tallos, raíces, tubérculos y fruta.",
       "example": "Planté un jardín de verduras el año pasado, estoy regando mi jardín de verduras ahora, y cosecharé mi jardín de verduras el próximo mes.",
       "example_translation": "Planté un jardín de vegetales el año pasado, estoy regando mi jardín de vegetales ahora, y cosecharé mi jardín de vegetales el próximo mes.",
-      "imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vegetable.jpg",
       "audioLink": "vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Una semilla pequeña, generalmente ovalada o redonda, típicamente blanca, negra o marrón, utilizada como alimento.",
       "example": "Me comí una ensalada de frijoles para almorzar. Me comeré una sopa de frijoles para cenar. Me había comido una burrita de frijoles para desayunar.",
       "example_translation": "Me comí una ensalada de frijoles para el almuerzo. Voy a comer una sopa de frijoles para la cena. Había comido un burrito de frijoles para el desayuno.",
-      "imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bean.jpg",
       "audioLink": "bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Una raíz vegetal larga y delgada, que se estrecha hacia el final, típicamente de color naranja, utilizada en ensaladas, estofados y sopas.",
       "example": "Me comí un palito de zanahoria para merendar. Me comeré un pastel de zanahoria para postre. Me había comido jugo de zanahoria para desayunar.",
       "example_translation": "Me comí una zanahoria para snack. Voy a comer pastel de zanahoria para postre. Había bebido jugo de zanahoria para el desayuno.",
-      "imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carrot.jpg",
       "audioLink": "carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un pimiento picante, a menudo utilizado para agregar sabor a la comida.",
       "example": "Me comí un pimiento chili por un desafío. Me comeré chili con carne para cenar. Me había comido escamas de chili en mi pizza.",
       "example_translation": "Me comí un chile para un desafío. Voy a comer chile con carne para la cena. Había comido polvo de chile en mi pizza.",
-      "imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chilli.jpg",
       "audioLink": "chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Una planta bulosa con un sabor fuerte y picante, comúnmente utilizada en la cocina.",
       "example": "Picaré el ajo para la salsa, picé el ajo para la salsa, había picado el ajo para la salsa.",
       "example_translation": "Cortaré el ajo para la salsa, corté el ajo para la salsa, había cortado el ajo para la salsa.",
-      "imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garlic.jpg",
       "audioLink": "garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un vegetal bulboso raíz, comúnmente utilizado en la cocina, con un sabor fuerte y dulce.",
       "example": "Sofrí la cebolla para el estofado, sofrí la cebolla para el estofado, había sofrí la cebolla para el estofado.",
       "example_translation": "Salteé la cebolla para el estofado, saltearé la cebolla para el estofado, había salteado la cebolla para el estofado.",
-      "imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "onion.jpg",
       "audioLink": "onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un vegetal verde, perteneciente a la familia de la col, con una gran cabeza de flor comestible.",
       "example": "Me cocí el brócoli para cenar, me cocinaré el brócoli para cenar, había cocido el brócoli para cenar.",
       "example_translation": "Al vapor el brócoli para la cena, al vapor el brócoli para la cena, había al vapor el brócoli para la cena.",
-      "imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "broccoli.jpg",
       "audioLink": "broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Una verdura comestible redonda, verde, roja o blanca, con hojas que crecen desde el suelo, a menudo utilizada en la cocina.",
       "example": "Me comí una sopa de col ayer, estoy comiendo col para almorzar hoy, y comeré col para cenar mañana.",
       "example_translation": "Comí sopa de col repollo ayer, estoy comiéndolo para almorzar hoy y lo comeré para cenar mañana.",
-      "imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cabbage.jpg",
       "audioLink": "cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un tipo de calabacín de verano, comúnmente utilizado en la cocina, a menudo asado, salteado o cocido al vapor.",
       "example": "Asé calabacines anoche, estoy salteando ellos para el almuerzo hoy y cocinaré al vapor mañana.",
       "example_translation": "Asé calabacines anoche, estoy salteándolos para almorzar hoy y los cocinaré al vapor para cenar mañana.",
-      "imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "courgette.jpg",
       "audioLink": "courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un vegetal verde, delgado y largo, a menudo utilizado en ensaladas, sandwiches y como snack.",
       "example": "Corté pepinos para una ensalada ayer, estoy comiendo ellos en un sandwich hoy y picaré mañana.",
       "example_translation": "Corté pepinos para una ensalada ayer, estoy comiéndolos en un sandwich hoy y los picaré mañana.",
-      "imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cucumber.jpg",
       "audioLink": "cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "La lechuga es un tipo de verdura verde comúnmente utilizada en ensaladas y sandwiches.",
       "example": "Comí una ensalada con lechuga para el almuerzo ayer, estoy comiendo una envoltura de lechuga para el almuerzo hoy y comeré una ensalada de lechuga para la cena mañana.",
       "example_translation": "Me comí una ensalada con lechuga para almuerzo ayer, estoy comiendo una envoltura de lechuga para almuerzo hoy, y comeré una ensalada de lechuga para cenar mañana.",
-      "imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lettuce.jpg",
       "audioLink": "lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un guisante es una semilla pequeña y esférica rica en proteínas y comúnmente utilizada en la cocina.",
       "example": "Planté guisantes en mi jardín la semana pasada, estoy cosechando guisantes hoy y cocinaré guisantes para la cena la próxima semana.",
       "example_translation": "Planté guisantes en mi jardín la semana pasada, estoy cosechando guisantes hoy, y cocinaré guisantes para cenar la próxima semana.",
-      "imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pea.jpg",
       "audioLink": "pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "La pimienta es una especia comúnmente utilizada para agregar sabor y calor a los alimentos.",
       "example": "Añadí pimienta a mi sopa ayer, estoy agregando pimienta a mi ensalada hoy y agregaré pimienta a mi bistec mañana.",
       "example_translation": "Añadí pimienta a mi sopa ayer, estoy agregando pimienta a mi ensalada hoy, y agregaré pimienta a mi bistec mañana.",
-      "imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pepper.jpg",
       "audioLink": "pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Una calabaza es un tipo de calabacín, una planta que crece en una vid, a menudo utilizada para cocinar y decoraciones, especialmente durante la temporada de otoño.",
       "example": "Grabé una calabaza para Halloween. Grabaré una calabaza para Halloween el próximo año. Había grabado una calabaza para Halloween el año pasado.",
       "example_translation": "Grabé una calabaza para Halloween. Grabaré una calabaza para Halloween el año que viene. Había grabado una calabaza para Halloween el año pasado.",
-      "imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pumpkin.jpg",
       "audioLink": "pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un verdura verde rica en hierro y nutrientes, a menudo utilizada en ensaladas, batidos y platos cocidos.",
       "example": "Agregaré espinacas a mi smoothie mañana. Agregué espinacas a mi smoothie ayer. Agrego espinacas a mi smoothie todos los días.",
       "example_translation": "Agregaré espinaca a mi batido mañana. Agregué espinaca a mi batido ayer. Agrego espinaca a mi batido todos los días.",
-      "imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spinach.jpg",
       "audioLink": "spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un tipo de maíz que es alto en contenido de azúcar, a menudo comido hervido o asado, y comúnmente utilizado en la cocina mexicana y americana.",
       "example": "Asaré maíz dulce para la barbacoa. Asé maíz dulce para la barbacoa el verano pasado. Asaré maíz dulce para la barbacoa todos los años.",
       "example_translation": "Asaré maíz dulce para la barbacoa. Asé maíz dulce para la barbacoa el verano pasado. Asó maíz dulce para la barbacoa todos los años.",
-      "imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corn.jpg",
       "audioLink": "sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Una verdura morada, típicamente ovalada o con forma de huevo, utilizada en la cocina.",
       "example": "Asé una berenjena y algunos pollos para la cena anoche. Asaré una berenjena para el almuerzo hoy. Había salteado una berenjena con ajo ayer.",
       "example_translation": "Asé una berenjena y algo de pollo para cenar anoche. Asaré una berenjena para almorzar hoy. Salteé una berenjena con ajo ayer.",
-      "imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aubergine.jpg",
       "audioLink": "aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un vegetal blanco o blanco-verdoso, compuesto por una cabeza densa de flores, utilizado en la cocina.",
       "example": "Cocí una coliflor al vapor y la serví con salsa de queso ayer. Asaré una coliflor con ajo para la cena hoy. Había hervido una coliflor y la mezclé con arroz la semana pasada.",
       "example_translation": "Al vapor una coliflor y la serví con salsa de queso ayer. Asaré una coliflor con ajo para cenar hoy. Herví una coliflor y la mezclé con arroz la semana pasada.",
-      "imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cauliflower.jpg",
       "audioLink": "cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un vegetal, relacionado con la cebolla, con un tallo largo, delgado, blanco y verde, utilizado en la cocina.",
       "example": "Salteé un puerro y algunos champiñones para cenar anoche. Cocinaré un puerro y lo serviré con sopa hoy. Hice hervir un puerro y lo mezclé con papas ayer.",
       "example_translation": "Salteé un puerro y algunos champiñones para cenar anoche. Asaré un puerro y lo serviré con sopa hoy. Herví un puerro y lo mezclé con patatas ayer.",
-      "imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leek.jpg",
       "audioLink": "leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "El perejil es una hierba popular utilizada para agregar sabor fresco a various platos, incluyendo ensaladas, sopas y salsas.",
       "example": "Añadí perejil a la sopa para darle un sabor fresco. Añadiré perejil a la ensalada mañana. Ella añadió perejil a la salsa ayer.",
       "example_translation": "Añadí algo de perejil a la sopa para darle un sabor fresco. Añadiré perejil a la ensalada mañana. Ella añadió perejil a la salsa ayer.",
-      "imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parsley.jpg",
       "audioLink": "parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un rábano es una verdura de raíz que a menudo se come cruda o cocida en ensaladas, sopas y stir-fries.",
       "example": "Me encanta comer rábano en la ensalada con aderezo de vinagreta. Ella cocinará rábano en la sopa mañana. Ellos comieron rábano con mantequilla ayer.",
       "example_translation": "Me encanta comer rábano en la ensalada con un aderezo de vinaigreta. Ella cocinará rábano en la sopa mañana. Comieron rábano con mantequilla ayer.",
-      "imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "radish.jpg",
       "audioLink": "radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "La col roja es un tipo de col que obtiene su color rojo profundo de su alta concentración de antocianinas.",
       "example": "Compraré col roja para la ensalada mañana. Ella comió col roja con zanahorias ayer. Ellos cocinarán col roja en la estofada la semana que viene.",
       "example_translation": "Compraré col roja para la ensalada mañana. Ella comió col roja con zanahorias ayer. Cocinarán col roja en el estofado la próxima semana.",
-      "imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red-cabbage.jpg",
       "audioLink": "red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una cebolla joven cosechada antes de que se forme el bulbo, utilizada como verdura.",
       "example": "Usé cebolla de primavera en la ensalada, pero la había utilizado en la sopa ayer y la usaré en el stir-fry mañana.",
       "example_translation": "Usé cebolla de verdeo en la ensalada, pero las había usado en la sopa ayer y las usaré en el salteado mañana.",
-      "imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spring-onion.jpg",
       "audioLink": "spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Una raíz vegetal dulce y nutritiva, típicamente de color rojo o dorado.",
       "example": "Tomé jugo de remolacha para desayunar, asaré remolacha para cenar esta noche y asé remolacha para cenar anoche.",
       "example_translation": "Tuve jugo de raíz de remolacha para desayunar, asaré raíz de remolacha para cena esta noche y asé raíz de remolacha para cena anoche.",
-      "imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beetroot.jpg",
       "audioLink": "beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Una planta leguminosa, nativa de Asia, cuyos frijoles se utilizan como fuente de alimentos.",
       "example": "He estado comiendo salsa de soja durante años, probaré leche de soja mañana y probé proteína de soja en polvo ayer.",
       "example_translation": "He estado comiendo salsa de soja durante años, probaré leche de soja mañana y probé polvo de proteína de soja ayer.",
-      "imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "soya-soy.jpg",
       "audioLink": "soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una legumbre de vaina, Vicia faba, ampliamente cultivada por sus semillas y vainas comestibles, que se utilizan a menudo en la cocina.",
       "example": "Comí habas en mi ensalada ayer, las comeré de nuevo mañana, y las comí la semana pasada.",
       "example_translation": "Yo tenía habas en mi ensalada ayer, voy a comerlas de nuevo mañana, y comí ellas la semana pasada.",
-      "imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "broad-bean.jpg",
       "audioLink": "broad bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un vegetal pequeño, verde, tipo de brote, Brassica oleracea var. gemmifera, que crece en un tallo y se come a menudo hervido o al vapor.",
       "example": "Cocinaré brócoli de Bruselas para cenar esta noche, mi madre los cocinó anoche, y cociné ellos ayer por la mañana.",
       "example_translation": "Voy a cocinar brócoli de Bruselas para la cena esta noche, mi madre los cocinó anoche, y yo los cociné esta mañana.",
-      "imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brussels-sprout.jpg",
       "audioLink": "brussels sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Una planta con hojas espinosas, Cynara scolymus, con brotes de flor comestibles que se comen a menudo hervidos o asados.",
       "example": "Comí alcachofas en el restaurante la semana pasada, mi hermana las comerá en el almuerzo hoy, y mi hermano las comió ayer por la noche.",
       "example_translation": "Yo comí alcachofas en el restaurante la semana pasada, mi hermana las comerá en el almuerzo hoy, y mi hermano las comió ayer por la noche.",
-      "imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "artichoke.jpg",
       "audioLink": "artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "El espárrago es una verdura perenne que se cultiva por sus brotes comestibles, que se cosechan en la primavera.",
       "example": "Preparé espárragos para cenar anoche, estoy cocinando espárragos para almorzar hoy y cocinaré espárragos para desayunar mañana.",
       "example_translation": "Cociné espárrago para cenar anoche, estoy cocinando espárrago para almuerzo hoy, y cocinaré espárrago para desayunar mañana.",
-      "imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "asparagus.jpg",
       "audioLink": "asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "El apio es una verdura crujiente y dulce que se utiliza comúnmente en ensaladas y como crudités para dips.",
       "example": "Masticé palitos de apio mientras veía TV anoche, estoy mordisqueando palitos de apio ahora y mastico palitos de apio en la fiesta de mañana.",
       "example_translation": "Masticaba palos de apio mientras veía TV anoche, estoy mordisqueando palos de apio en este momento, y masticaré palos de apio en la fiesta mañana.",
-      "imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "celery.jpg",
       "audioLink": "celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "La achicoria es una hierba perenne que se utiliza como sustituto de café, y sus raíces también se utilizan como verdura.",
       "example": "Usé achicoria en mi café esta mañana, estoy preparando té de achicoria ahora y asaré raíces de achicoria para cenar esta noche.",
       "example_translation": "Utilicé achicoria en mi café esta mañana, estoy preparando té de achicoria en este momento, y asaré raíces de achicoria para cenar esta noche.",
-      "imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chicory.jpg",
       "audioLink": "chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Las ciboulettes son un tipo de hierba que se utiliza comúnmente en la cocina para agregar sabor y textura a los platos. Tienen un sabor suave a cebolla y se utilizan a menudo para decorar sopas, ensaladas y otros platos.",
       "example": "Voy a picar los cebollinos y agregarlos a la sopa para darle más sabor. Piqué los cebollinos y los agregué a la sopa para darle más sabor. Pico los cebollinos y los agrego a la sopa para darle más sabor.",
       "example_translation": "Cortaré las ciboulettes y las agregaré a la sopa para darle más sabor. Corté las ciboulettes y las agregué a la sopa para darle más sabor. Corto las ciboulettes y las agrego a la sopa para darle más sabor.",
-      "imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chives.jpg",
       "audioLink": "chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "La mostaza es un tipo de hierba verde picante que se utiliza comúnmente en ensaladas y como adorno. Tiene un sabor picante y es rica en vitaminas y antioxidantes.",
       "example": "Voy a agregar algo de berro a la ensalada para darle un toque de sabor. Agregué algo de berro a la ensalada para darle un toque de sabor. Agrego algo de berro a la ensalada para darle un toque de sabor.",
       "example_translation": "Agregaré algunas mostazas a la ensalada para un estallido de sabor. Agregué algunas mostazas a la ensalada para un estallido de sabor. Agrego algunas mostazas a la ensalada para un estallido de sabor.",
-      "imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cress.jpg",
       "audioLink": "cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "El eneldo es un tipo de hierba que se utiliza comúnmente en la cocina para agregar sabor a platos como pepinillos y ensaladas. Tiene un sabor fresco y luminoso y es rico en vitaminas y antioxidantes.",
       "example": "Voy a utilizar eneldo para hacer una receta de pepino delicioso. Utilicé eneldo para hacer una receta de pepino delicioso. Utilizo eneldo para hacer una receta de pepino delicioso.",
       "example_translation": "Usaré eneldo para hacer una receta de pepinillos deliciosa. Usé eneldo para hacer una receta de pepinillos deliciosa. Uso eneldo para hacer una receta de pepinillos deliciosa.",
-      "imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dill.jpg",
       "audioLink": "dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "El hinojo es una hierba perenne con hojas plumosas y flores amarillentas-marrones. Es originario de la región del Mediterráneo y se cultiva ampliamente por sus frutos y hojas con sabor a anís, que se utilizan en cocina y medicina.",
       "example": "Añadí algo de hinojo a la ensalada ayer, pero voy a agregar más hoy, y habré agregado aún más para mañana.",
       "example_translation": "Añadí algo de hinojo a la ensalada ayer, pero agregaré más hoy, y habré agregado aún más para mañana.",
-      "imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fennel.jpg",
       "audioLink": "fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "El rábano picante es una planta perenne con un sabor picante y amargo. Es originario de Europa y Asia y se utiliza comúnmente como condimento o ingrediente en salsas, sopas y marinados.",
       "example": "Ella ralló algo de rábano picante para agregarlo a la salsa, pero rallará más para la próxima comida, y había rallado aún más para la fiesta la semana pasada.",
       "example_translation": "Ella ralló algo de rábano picante para agregar a la salsa, pero rallará más para la próxima comida, y había rallado aún más para la fiesta la semana pasada.",
-      "imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horseradish.jpg",
       "audioLink": "horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "La col rizada es un tipo de verdura verde de hoja que es alta en vitaminas y minerales. Se utiliza comúnmente en ensaladas, sopas y salteada como guarnición.",
       "example": "Voy a agregar col rizada alBATIDO mañana, pero agregué col rizada a la ensalada ayer, y había agregado col rizada a la sopa la semana pasada.",
       "example_translation": "Voy a agregar col rizada al smoothie mañana, pero agregué col rizada a la ensalada ayer, y había agregado col rizada a la sopa la semana pasada.",
-      "imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kale.jpg",
       "audioLink": "kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "La lenteja es un tipo de legumbre que se utiliza comúnmente en sopas, estofados y curris. Es alta en proteínas y fibra y es una buena fuente de nutrientes esenciales como hierro y potasio.",
       "example": "Cociné lentejas para cenar anoche, estoy cocinando lentejas para almorzar hoy y cocinaré lentejas para desayunar mañana.",
       "example_translation": "Yo cociné lentejas para la cena anoche, estoy cocinando lentejas para el almuerzo hoy y cocinaré lentejas para el desayuno mañana.",
-      "imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lentil.jpg",
       "audioLink": "lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "El tuétano es el tejido esponjoso dentro de algunos huesos, como las caderas y los huesos del muslo, que produce células sanguíneas. También se puede referir al tejido blando y graso que llena las cavernas de los huesos.",
       "example": "El doctor tuvo que extraer una muestra de médula de mi hueso para examinarla, tendré que someterme a un trasplante de médula el próximo mes, y el paciente necesita recibir una donación de médula.",
       "example_translation": "El médico tuvo que extraer una muestra de tuétano de mi hueso para examinarlo, tendré que someterme a un trasplante de tuétano el próximo mes y el paciente necesita recibir una donación de tuétano.",
-      "imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marrow.jpg",
       "audioLink": "marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Una chirivía es un tipo de vegetal de raíz que es similar a una zanahoria, pero tiene un sabor más dulce y nuez. A menudo se utiliza en sopas, estofados y asado como un plato lateral.",
       "example": "Comí chirivías para cenar anoche, estoy comiendo chirivías para almuerzo hoy, y comeré chirivías para desayunar mañana.",
       "example_translation": "Yo comí chirivías para la cena anoche, estoy comiendo chirivías para el almuerzo hoy y comeré chirivías para el desayuno mañana.",
-      "imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parsnip.jpg",
       "audioLink": "parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Una planta perenne con hojas triangulares grandes y tallos carnosos largos, a menudo utilizada en tartas y pasteles.",
       "example": "Solía comer tarta de ruibarbo cuando era niño, ahora cultivo mi propio ruibarbo en el jardín, y mañana hornearé un pastel de ruibarbo.",
       "example_translation": "Solía comer tarta de ruibarbo cuando era niño, ahora cultivo mi propio ruibarbo en el jardín, y mañana hornearé un pastel de ruibarbo.",
-      "imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rhubarb.jpg",
       "audioLink": "rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un tipo de verdura de raíz, similar a una zanahoria, pero más grande y dulce.",
       "example": "Compré un nabo sueco en el mercado ayer, lo estoy comiendo hervido hoy, y lo asaré la próxima semana.",
       "example_translation": "Compré un nabo en el mercado ayer, estoy comiéndolo hervido hoy, y lo asaré la próxima semana.",
-      "imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swede.jpg",
       "audioLink": "swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Una verdura de raíz almidonosa, a menudo consumida como guarnición, especialmente durante las fiestas.",
       "example": "Asé una batata para cenar anoche, la aplastaré para almuerzo hoy, y haré patatas fritas de batata mañana.",
       "example_translation": "Horneé un boniato para cenar anoche, lo machacaré para almorzar hoy, y haré papas fritas de boniato mañana.",
-      "imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweet-potato.jpg",
       "audioLink": "sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un nabo es una verdura de raíz comunmente cultivada en climas templados en todo el mundo por su sabor dulce y picante y su textura crujiente. Es un cultivo de temporada fría, lo que significa que crece mejor en las temperaturas más frías de la primavera o el otoño.",
       "example": "Comí una sopa de nabiza ayer, comeré una ensalada de nabiza hoy, y comeré un estofado de nabiza mañana. La semana pasada, compré una nabiza en el mercado de productores, y la semana anterior, planté una nabiza en mi jardín.",
       "example_translation": "Comí una sopa de nabo ayer, comeré una ensalada de nabo hoy y comeré un estofado de nabo mañana. La semana pasada, compré un nabo en el mercado de productores, y la semana anterior, planté un nabo en mi jardín.",
-      "imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turnip.jpg",
       "audioLink": "turnip.mp3"
     }
   ]

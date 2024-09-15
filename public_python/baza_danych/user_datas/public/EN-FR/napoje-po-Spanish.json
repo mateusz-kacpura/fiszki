@@ -9,7 +9,7 @@
       "definition_translation": "boisson fermentée faite à partir d'orge, de houblon et d'eau, brassée et conditionnée pour créer un goût et un arôme uniques",
       "example": "I drank a cold beer after finishing my project yesterday. I drink beer every Friday evening. I will drink a beer at the party tonight.",
       "example_translation": "J'ai bu une bière froide après avoir fini mon projet hier. Je bois de la bière tous les vendredis soir. Je boirai une bière à la soirée ce soir.",
-      "imageLink": "beer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beer.jpg",
       "audioLink": "beer.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "boisson faite à partir des graines torréfiées de la plante de café, souvent servie chaude et sucrée avec du sucre ou de la crème",
       "example": "I drank a cup of coffee this morning. She drinks coffee every morning. They will drink coffee at the meeting tomorrow.",
       "example_translation": "J'ai bu une tasse de café ce matin. Elle boit du café tous les matins. Ils boiront du café à la réunion demain.",
-      "imageLink": "coffee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coffee.jpg",
       "audioLink": "coffee.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "boisson sucrée et gazeuse faite à partir de feuilles de coca et d'autres ingrédients, souvent consommée comme boisson rafraîchissante",
       "example": "I drank a Coke at the party last night. She drinks Coke with her meals. They will drink Coke at the concert tomorrow.",
       "example_translation": "J'ai bu un Coca à la soirée hier soir. Elle boit du Coca avec ses repas. Ils boiront du Coca au concert demain.",
-      "imageLink": "coke.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coke.jpg",
       "audioLink": "Coke.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "ingérer une substance liquide, souvent pour se rafraîchir, se nourrir ou prendre du plaisir",
       "example": "I drank water after exercising. She will drink juice at the breakfast. They drank tea at the meeting.",
       "example_translation": "J'ai bu de l'eau après avoir fait de l'exercice. Elle boira du jus au petit déjeuner. Ils ont bu du thé à la réunion.",
-      "imageLink": "drink-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drink-1.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Une substance liquide extraite de plantes, de fruits ou de viande, utilisée comme boisson ou comme base pour d'autres boissons.",
       "example": "I drank a glass of juice yesterday, I am drinking juice now, and I will drink juice tomorrow.",
       "example_translation": "J'ai bu un verre de jus hier, je bois du jus maintenant, et je boirai du jus demain.",
-      "imageLink": "juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "juice.jpg",
       "audioLink": "juice.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un liquide produit par les glandes mammaires des femelles mammifères, utilisé comme nutriment pour les jeunes mammifères et comme produit alimentaire pour les humains.",
       "example": "My mother bought milk yesterday, she is buying milk now, and she will buy milk tomorrow.",
       "example_translation": "Ma mère a acheté du lait hier, elle achète du lait maintenant, et elle achètera du lait demain.",
-      "imageLink": "milk.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "milk.jpg",
       "audioLink": "milk.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un liquide extrait des oranges, utilisé comme boisson.",
       "example": "I drank a glass of orange juice yesterday, I am drinking orange juice now, and I will drink orange juice tomorrow.",
       "example_translation": "J'ai bu un verre de jus d'orange hier, je bois du jus d'orange maintenant, et je boirai du jus d'orange demain.",
-      "imageLink": "orange-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "orange-juice.jpg",
       "audioLink": "orange juice.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Une boisson faite à partir des feuilles, des bourgeons ou des tiges de la plante de thé, consommée chaude ou froide.",
       "example": "My grandmother drank tea yesterday, she is drinking tea now, and she will drink tea tomorrow.",
       "example_translation": "Ma grand-mère a bu du thé hier, elle boit du thé maintenant, et elle boira du thé demain.",
-      "imageLink": "tea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tea.jpg",
       "audioLink": "tea.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un extrait liquide de tomates, souvent consommé comme boisson.",
       "example": "I drank tomato juice for breakfast, I drink it for lunch, and I will drink it for dinner.",
       "example_translation": "J'ai bu du jus de tomate pour le petit déjeuner, je le bois pour le déjeuner, et je le boirai pour le dîner.",
-      "imageLink": "tomato-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tomato-juice.jpg",
       "audioLink": "tomato juice.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Une substance liquide claire, incolore et inodore qui forme les mers, les lacs, les rivières et la pluie et est la base des fluides des organismes vivants.",
       "example": "I will water the plants tomorrow, I watered them yesterday, and I water them every day.",
       "example_translation": "Je vais arroser les plantes demain, j'ai arrosé hier, et j'arrose tous les jours.",
-      "imageLink": "water.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "water.jpg",
       "audioLink": "water.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Une boisson fermentée fabriquée à partir de raisins, contenant généralement de 10 à 20 pour cent d'alcool.",
       "example": "I will drink wine at the party, I drank wine last night, and I drink wine every weekend.",
       "example_translation": "Je vais boire du vin à la fête, j'ai bu du vin hier soir, et je bois du vin tous les week-ends.",
-      "imageLink": "wine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wine.jpg",
       "audioLink": "wine.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un composé organique liquide incolore, volatil et inflammable qui est l'agent intoxicant dans les spiritueux fermentés et distillés.",
       "example": "I will buy alcohol at the store, I bought alcohol yesterday, and I buy alcohol every month.",
       "example_translation": "Je vais acheter de l'alcool au magasin, j'ai acheté de l'alcool hier, et j'achète de l'alcool tous les mois.",
-      "imageLink": "alcohol.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alcohol.jpg",
       "audioLink": "alcohol.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Boisson douce et trouble faite à partir de pommes, souvent servie fraîche.",
       "example": "I drank apple juice yesterday, I'm drinking it now, and I will drink it tomorrow.",
       "example_translation": "J'ai bu du jus de pomme hier, je le bois maintenant, et je le boirai demain.",
-      "imageLink": "apple-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apple-juice.jpg",
       "audioLink": "apple juice.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Type de vin effervescent produit à partir de raisins cultivés dans la région de Champagne en France.",
       "example": "We opened a bottle of champagne at the wedding, we're opening one now, and we will open one at the anniversary.",
       "example_translation": "Nous avons ouvert une bouteille de champagne au mariage, nous en ouvrons une maintenant, et nous en ouvrirons une à l'anniversaire.",
-      "imageLink": "champagne.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "champagne.jpg",
       "audioLink": "champagne.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Boisson sucrée et gazeuse parfumée au vanille et cannelle, originellement faite à partir du noix de kola.",
       "example": "I drank a cola yesterday, I'm drinking one now, and I will drink one tomorrow.",
       "example_translation": "J'ai bu une cola hier, j'en bois une maintenant, et j'en boirai une demain.",
-      "imageLink": "cola.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cola.jpg",
       "audioLink": "cola.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "D'avaler un liquide, tel que de l'eau ou du jus, par la bouche.",
       "example": "I drank water yesterday, I'm drinking juice now, and I will drink tea tomorrow.",
       "example_translation": "J'ai bu de l'eau hier, je bois du jus maintenant, et je boirai du thé demain.",
-      "imageLink": "drink-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drink-2.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "boisson sucrée faite à partir de chocolat fondu et de lait, souvent servie chaude",
       "example": "Yesterday, I drank hot chocolate at home. Today, I am drinking hot chocolate in a cafe. Tomorrow, I will drink hot chocolate with my friends.",
       "example_translation": "Hier, j'ai bu du chocolat chaud à la maison. Aujourd'hui, je bois du chocolat chaud dans un café. Demain, je boirai du chocolat chaud avec mes amis.",
-      "imageLink": "hot-chocolate.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hot-chocolate.jpg",
       "audioLink": "hot chocolate.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "boisson sucrée faite avec du jus de citron, de l'eau et du sucre",
       "example": "I sold lemonade at the school fair last year. Now, I am making lemonade for my family. Next summer, I will sell lemonade at the beach.",
       "example_translation": "J'ai vendu de la limonade à la foire de l'école l'année dernière. Maintenant, je fais de la limonade pour ma famille. L'été prochain, je vendrai de la limonade à la plage.",
-      "imageLink": "lemonade.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lemonade.jpg",
       "audioLink": "lemonade.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "boisson sucrée et crémeuse faite avec du lait, de la glace et des arômes",
       "example": "I ordered a milkshake at the diner yesterday. Today, I am enjoying a milkshake at the movies. Tomorrow, I will make a milkshake at home.",
       "example_translation": "J'ai commandé un milk-shake au diner hier. Aujourd'hui, je profite d'un milk-shake au cinéma. Demain, je ferai un milk-shake à la maison.",
-      "imageLink": "milkshake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "milkshake.jpg",
       "audioLink": "milkshake.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "eau qui provient d'une source souterraine naturelle et contient des minéraux",
       "example": "I drank mineral water after my workout yesterday. Now, I am drinking mineral water at the office. Tomorrow, I will bring mineral water to the gym.",
       "example_translation": "J'ai bu de l'eau minérale après mon entraînement hier. Maintenant, je bois de l'eau minérale au bureau. Demain, je vais apporter de l'eau minérale au gym.",
-      "imageLink": "mineral-water.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mineral-water.jpg",
       "audioLink": "mineral water.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Boisson douce, carbonatée, généralement aromatisée avec des saveurs naturelles ou artificielles, serviée généralement fraîche.",
       "example": "I drank a soft drink at the party. I will drink a soft drink at the beach. I have drunk many soft drinks in my life.",
       "example_translation": "J'ai bu une boisson gazeuse à la fête. Je boirai une boisson gazeuse à la plage. J'ai bu beaucoup de boissons gazeuses dans ma vie.",
-      "imageLink": "soft-drink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "soft-drink.jpg",
       "audioLink": "soft drink.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Boisson mélangée contenant de l'alcool, généralement préparée avec une combinaison d'esprits, de jus de fruit et d'autres ingrédients, souvent servie dans un verre spécifique.",
       "example": "I ordered a cocktail at the bar. She will order a cocktail at the restaurant. They have ordered many cocktails at the party.",
       "example_translation": "J'ai commandé un cocktail au bar. Elle commandera un cocktail au restaurant. Ils ont commandé beaucoup de cocktails à la fête.",
-      "imageLink": "cocktail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cocktail.jpg",
       "audioLink": "cocktail.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Poudre faite à partir de fèves de cacao grillées, utilisée pour faire du chocolat ou comme ingrédient aromatique dans diverses recettes.",
       "example": "I drank a cup of hot cocoa. She will eat a piece of cocoa cake. They have planted many cocoa trees.",
       "example_translation": "J'ai bu une tasse de cacao chaud. Elle mangera un morceau de gâteau au cacao. Ils ont planté beaucoup d'arbres de cacao.",
-      "imageLink": "cocoa.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cocoa.jpg",
       "audioLink": "cocoa.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Boisson carbonatée qui est généralement sucrée et aromatisée, souvent servie fraîche et caractérisée par une qualité pétillante ou mousseuse.",
       "example": "I opened a fizzy drink at the party. She will open a fizzy drink at the beach. They have opened many fizzy drinks in their lifetime.",
       "example_translation": "J'ai ouvert une boisson pétillante à la fête. Elle ouvrira une boisson pétillante à la plage. Ils ont ouvert beaucoup de boissons pétillantes dans leur vie.",
-      "imageLink": "fizzy-drink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fizzy-drink.jpg",
       "audioLink": "fizzy drink.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un type de café qui peut être préparé rapidement en ajoutant de l'eau chaude à une substance en poudre ou en granulés.",
       "example": "I drank an instant coffee to wake myself up, I drink an instant coffee every morning, I will drink an instant coffee after my lunch.",
       "example_translation": "J'ai bu un café instantané pour me réveiller, je bois un café instantané chaque matin, je boirai un café instantané après mon déjeuner.",
-      "imageLink": "instant-coffee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "instant-coffee.jpg",
       "audioLink": "instant coffee.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Une boisson claire, incolore et très alcoolisée fabriquée à partir de grain ou de pommes de terre.",
       "example": "I drink vodka with my friends, I drank vodka at the party last night, I will drink vodka at my birthday party.",
       "example_translation": "Je bois de la vodka avec mes amis, j'ai bu de la vodka au party hier soir, je boirai de la vodka à ma fête d'anniversaire.",
-      "imageLink": "vodka.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vodka.jpg",
       "audioLink": "vodka.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un type de liqueur spiritueuse fabriquée à partir d'un mélange de grain fermenté, vieilli dans des barriques de bois.",
       "example": "I like to drink whisky with my father, I drank whisky at the bar last weekend, I will drink whisky at my wedding.",
       "example_translation": "J'aime boire du whisky avec mon père, j'ai bu du whisky au bar le week-end dernier, je boirai du whisky à mon mariage.",
-      "imageLink": "whisky.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "whisky.jpg",
       "audioLink": "whisky.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un type de plat sucré ou salé fait de fruits ou de légumes cuits lentement dans un liquide.",
       "example": "I made a compote with apples and berries, I ate a compote at the restaurant last month, I will make a compote with peaches for my family.",
       "example_translation": "J'ai fait une compotée avec des pommes et des baies, j'ai mangé une compotée au restaurant le mois dernier, je ferai une compotée avec des pêches pour ma famille.",
-      "imageLink": "compote.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "compote.jpg",
       "audioLink": "compote.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Café qui a eu la plupart de son caféine retirée, ce qui la rend convenable pour ceux qui veulent éviter les effets stimulants de la caféine.",
       "example": "I prefer drinking decaffeinated coffee in the evening to avoid insomnia. Yesterday, I drank two cups of decaffeinated coffee. If I don't drink decaffeinated coffee, I will not be able to sleep tonight.",
       "example_translation": "Je préfère boire du café décaféiné le soir pour éviter l'insomnie. Hier, j'ai bu deux tasses de café décaféiné. Si je ne bois pas de café décaféiné, je ne pourrai pas dormir ce soir.",
-      "imageLink": "decaffeinated-coffee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "decaffeinated-coffee.jpg",
       "audioLink": "decaffeinated coffee.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Boisson faite avec de la bière et d'une boisson non alcoolisée, généralement du citronade ou du jus de fruit.",
       "example": "I like drinking shandy on a hot summer day. Yesterday, I ordered a shandy at the bar. If I don't drink shandy, I will get drunk quickly.",
       "example_translation": "J'aime boire du panaché lors d'une journée d'été chaude. Hier, j'ai commandé un panaché au bar. Si je ne bois pas de panaché, je vais vite être ivre.",
-      "imageLink": "shandy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shandy.jpg",
       "audioLink": "shandy.mp3"
     }
   ]

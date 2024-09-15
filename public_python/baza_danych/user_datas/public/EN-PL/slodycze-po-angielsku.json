@@ -9,7 +9,7 @@
       "definition_translation": "mały, zwykle słodki, pieczony produkt",
       "example": "I love to dunk my biscuit in tea.",
       "example_translation": "Uwielbiam maczać swój herbatnik w herbacie.",
-      "imageLink": "image_files\\English\\biscuit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "biscuit.jpg",
       "audioLink": "audio_files\\English\\biscuit.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "słodkie pieczywo wypiekane z mąki, cukru i jaj",
       "example": "I love to eat cake on my birthday",
       "example_translation": "Lubię jeść tort w dniu urodzin",
-      "imageLink": "image_files\\English\\cake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cake.jpg",
       "audioLink": "audio_files\\English\\cake.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "słodkie jedzenie sporządzone z ziaren kakaowych, często spożywane jako przekąska lub deser",
       "example": "She loves to eat chocolate cake on her birthday.",
       "example_translation": "Ona uwielbia jeść tort czekoladowy w swoje urodziny.",
-      "imageLink": "image_files\\English\\chocolate.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chocolate.jpg",
       "audioLink": "audio_files\\English\\chocolate.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "słodkie jedzenie zrobione z kremu i cukru, zwykle o smaku waniliowym lub innym",
       "example": "I love eating ice cream on a hot summer day.",
       "example_translation": "Uwielbiam jeść lody w gorący letni dzień.",
-      "imageLink": "image_files\\English\\ice-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ice-cream.jpg",
       "audioLink": "audio_files\\English\\ice cream.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "słodkie jedzenie zrobione z cukru",
       "example": "I love to eat candy on Halloween.",
       "example_translation": "Lubię jeść cukierki w Halloween.",
-      "imageLink": "image_files\\English\\candy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "candy.jpg",
       "audioLink": "audio_files\\English\\candy.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "słodki kurs spożywany na koniec posiłku",
       "example": "I'll have a dessert after dinner.",
       "example_translation": "Będę miał deser po obiedzie.",
-      "imageLink": "image_files\\English\\dessert.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dessert.jpg",
       "audioLink": "audio_files\\English\\dessert.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "twarda cukierek zamontowany na patyku, zazwyczaj aromatyzowany i zabarwiony",
       "example": "She sucked on a lollipop during the movie.",
       "example_translation": "Ssała lody podczas filmu.",
-      "imageLink": "image_files\\English\\lollipop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lollipop.jpg",
       "audioLink": "audio_files\\English\\lollipop.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "mający słodki smak lub zapach",
       "example": "The cake was sweet and delicious.",
       "example_translation": "Ciasto było słodkie i delikatne.",
-      "imageLink": "image_files\\English\\sweet-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweet-2.jpg",
       "audioLink": "audio_files\\English\\sweet.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Przekąski bogate w cukier, często serwowane jako deser lub przekąska.",
       "example": "She loves to eat sweets after dinner.",
       "example_translation": "Ona uwielbia jeść cukierki po obiedzie.",
-      "imageLink": "image_files\\English\\sweets.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweets.jpg",
       "audioLink": "audio_files\\English\\sweets.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Słodkie jedzenie zrobione z czekolady, zwykle prostokątne w kształcie, i często opakowane w papier lub folię",
       "example": "She unwrapped the chocolate bar and took a bite.",
       "example_translation": "Ona odepchnęła opakowanie tablicy czekoladowej i zrobiła kęs.",
-      "imageLink": "image_files\\English\\chocolate-bar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chocolate-bar.jpg",
       "audioLink": "audio_files\\English\\chocolate bar.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "słodkie danie robione z soku owocowego i cukru, często podawane jako deser",
       "example": "The children loved eating jelly at the party.",
       "example_translation": "Dzieci uwielbiały jeść galaretkę na przyjęciu.",
-      "imageLink": "image_files\\English\\jelly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jelly.jpg",
       "audioLink": "audio_files\\English\\jelly.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "słodycze wykonane z cukru, które są przetwarzane w cienkie nitki i często są serwowane na targach i cyrkach",
       "example": "The children loved eating candyfloss at the fair.",
       "example_translation": "Dzieci uwielbiały jeść watę cukrową na targach.",
-      "imageLink": "image_files\\English\\candyfloss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "candyfloss.jpg",
       "audioLink": "audio_files\\English\\candyfloss.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "małe, chrupkie cukierki, często w kształcie zwierząt lub innych zabawnych kształtów",
       "example": "The kids loved eating gummies at the party.",
       "example_translation": "Dzieci uwielbiały jeść żelki na przyjęciu.",
-      "imageLink": "image_files\\English\\gummies.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gummies.jpg",
       "audioLink": "audio_files\\English\\gummies.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "typ cukru, który jest twardy i często aromatyzowany",
       "example": "She loved to suck on a piece of hard candy during the movie.",
       "example_translation": "Lubiła ssąć kawałek cukru twardy podczas filmu.",
-      "imageLink": "image_files\\English\\hard-candy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hard-candy.jpg",
       "audioLink": "audio_files\\English\\hard candy.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "słodka pasta cukrowa z orzechów migdałowych",
       "example": "The cake was decorated with marzipan fruits and flowers.",
       "example_translation": "Ciastko było ozdobione owocami i kwiatami z marcepanu.",
-      "imageLink": "image_files\\English\\marzipan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marzipan.jpg",
       "audioLink": "audio_files\\English\\marzipan.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "rodzaj słodyczy, która jest gotowana, aby stworzyć twardą, lepki cukierek",
       "example": "She bought a bag of boiled sweets at the store.",
       "example_translation": "Kupiła worek gotowych cukierków w sklepie.",
-      "imageLink": "image_files\\English\\boiled-sweet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boiled-sweet.jpg",
       "audioLink": "audio_files\\English\\boiled sweet.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "sklep, który sprzedaje słodycze, takie jak ciasta, czekolady i słodycze",
       "example": "The confectionery on the high street is famous for its delicious sweets.",
       "example_translation": "Cukiernia na głównej ulicy słynie z swoich pysznych słodyczy.",
-      "imageLink": "image_files\\English\\confectionery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "confectionery.jpg",
       "audioLink": "audio_files\\English\\confectionery.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "miękka słodka potrawa robiona z cukru, kremu i masła",
       "example": "She loves to eat fudge on holidays.",
       "example_translation": "Ona uwielbia jeść fasolę w święta.",
-      "imageLink": "image_files\\English\\fudge.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fudge.jpg",
       "audioLink": "audio_files\\English\\fudge.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Małe, miękkie i żujące słodycze wykonane z żelatyny i cukru.",
       "example": "I love eating jelly sweets at the cinema.",
       "example_translation": "Uwielbiam jeść galaretki w kinie.",
-      "imageLink": "image_files\\English\\jelly-sweets.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jelly-sweets.jpg",
       "audioLink": "audio_files\\English\\jelly sweets.mp3"
     }
   ]

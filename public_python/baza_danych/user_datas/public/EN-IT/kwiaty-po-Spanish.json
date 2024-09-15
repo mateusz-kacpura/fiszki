@@ -9,7 +9,7 @@
       "definition_translation": "Una pianta fiorita, in particolare una che viene coltivata in un giardino per la sua bellezza o fragranza.",
       "example": "I planted a flower in my garden last week, it is blooming now, and I will give it to my sister next week.",
       "example_translation": "Ho piantato un fiore nel mio giardino la settimana scorsa, ora sta fiorendo, e lo darò a mia sorella la settimana prossima.",
-      "imageLink": "flower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flower.jpg",
       "audioLink": "flower.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un tipo di arbusto fiorito, in particolare uno con fiori vistosi, spesso usato come simbolo d'amore o apprezzamento.",
       "example": "I gave a rose to my wife on our anniversary, she was very happy, and we will celebrate again next year.",
       "example_translation": "Ho dato una rosa a mia moglie per il nostro anniversario, lei era molto felice, e celebreremo di nuovo l'anno prossimo.",
-      "imageLink": "rose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rose.jpg",
       "audioLink": "rose.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un tipo di pianta fiorita con un centro giallo e petali bianchi, spesso associata a innocenza e purezza.",
       "example": "The daisy was my favorite flower when I was a child, I used to pick them in the field, and I will take my daughter there next summer.",
       "example_translation": "La margherita era il mio fiore preferito quando ero bambino, usavo a raccoglierle nel campo, e porterò mia figlia lì la prossima estate.",
-      "imageLink": "daisy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daisy.jpg",
       "audioLink": "daisy.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un girasole è una pianta annuale o perenne alta originaria dell'America del Nord, caratterizzata dai suoi grandi fiori gialli brillanti e dallo stelo spesso alto.",
       "example": "I planted a sunflower in my garden last year, it bloomed beautifully this year, and I will plant another one next year.",
       "example_translation": "Ho piantato un girasole nel mio giardino l'anno scorso, è fiorito bellamente quest'anno e pianterò un altro il prossimo anno.",
-      "imageLink": "sunflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunflower.jpg",
       "audioLink": "sunflower.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un tulipano è una pianta perenne con fiori a forma di coppa appariscenti e foglie sottili, originaria dell'Asia centrale e della Turchia, spesso coltivata nei giardini per la sua bellezza.",
       "example": "I saw a tulip blooming in the park yesterday, its beauty inspired me to plant tulips in my garden this year, and I will visit the park again next year to see them bloom again.",
       "example_translation": "Ho visto un tulipano fiorire nel parco ieri, la sua bellezza mi ha ispirato a piantare tulipani nel mio giardino quest'anno e visiterò il parco di nuovo il prossimo anno per vederli fiorire di nuovo.",
-      "imageLink": "tulip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tulip.jpg",
       "audioLink": "tulip.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un astro è un tipo di pianta fiorita originaria dell'Europa e dell'Asia, caratterizzata dai suoi piccoli fiori bianchi, rosa o viola e dal suo uso come simbolo d'amore e sapienza.",
       "example": "My grandmother used to grow asters in her garden when I was a child, she taught me how to plant them this year, and I will bring her some asters next year as a gift.",
       "example_translation": "Mia nonna coltivava astri nel suo giardino quando ero bambino, mi ha insegnato come piantarli quest'anno e le porterò alcuni astri il prossimo anno come regalo.",
-      "imageLink": "aster.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aster.jpg",
       "audioLink": "aster.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un arbusto fiorito originario dell'Asia orientale e del Nord America, con fiori a forma di imbuto sbocciati in rosa, porpora e bianco.",
       "example": "I planted an azalea in my garden last year, and it bloomed beautifully this spring. I will water it regularly to keep it healthy. I had azaleas in my backyard when I was a child.",
       "example_translation": "Ho piantato un'azalea nel mio giardino l'anno scorso, e ha fiorito bellamente questa primavera. Bagherò regolarmente per mantenerla in salute. Avevo azalee nel mio cortile quando ero bambino.",
-      "imageLink": "azalea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "azalea.jpg",
       "audioLink": "azalea.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Una pianta succulenta con un fusto spesso e ceroso che può immagazzinare acqua, spesso trovata in aree aride e desertiche.",
       "example": "I have a cactus on my windowsill, and it has grown significantly over the past year. I water it sparingly, as it's adapted to dry conditions. I saw a large cactus in the desert when I visited Arizona last year.",
       "example_translation": "Ho un cacto sulla mia finestra, e ha cresciuto notevolmente nell'ultimo anno. Lo baghero parsimoniosamente, poiché è adattato a condizioni aride. Ho visto un grande cacto nel deserto quando ho visitato l'Arizona l'anno scorso.",
-      "imageLink": "cactus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cactus.jpg",
       "audioLink": "cactus.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Una pianta fiorita con fiori profumati, rosa, rossi o bianchi, spesso usata in mazzi e composizioni.",
       "example": "I gave my mother a bouquet of carnations on her birthday, and she loved them. The florist will arrange the carnations with some greenery to create a beautiful centerpiece. I had a carnation in my buttonhole at my wedding.",
       "example_translation": "Ho dato a mia madre un mazzo di garofani nel suo compleanno, e le sono piaciuti. Il fiorista disporrà i garofani con un po' di vegetazione per creare un bellissimo centerpiece. Avevo un garofano sulla mia giacca a mio matrimonio.",
-      "imageLink": "carnation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carnation.jpg",
       "audioLink": "carnation.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "una pianta fiorita della famiglia delle margherite, originaria dell'Asia e comunemente coltivata nei giardini per i suoi fiori vistosi e spesso profumati",
       "example": "The chrysanthemum is a popular flower in many Asian cultures, where it is often given as a gift to express gratitude. Yesterday, I planted a chrysanthemum in my garden and it will bloom beautifully next spring.",
       "example_translation": "Il crisantemo è un fiore popolare in molte culture asiatiche, dove viene spesso regalato come espressione di gratitudine. Ieri, ho piantato un crisantemo nel mio giardino e fioreerà bellamente la prossima primavera.",
-      "imageLink": "chrysanthemum.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chrysanthemum.jpg",
       "audioLink": "chrysanthemum.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "una piccola pianta annuale erbacea della famiglia delle margherite, con fiori blu, rosa o bianchi, comunemente trovata nei campi e nei prati",
       "example": "The cornflower is a delicate flower that is often used in bouquets and arrangements. Last year, I saw a beautiful cornflower growing in the field, and I picked it to give to my mother. Next summer, I will plant cornflowers in my garden.",
       "example_translation": "Il fiordaliso è un fiore delicato che viene spesso usato in bouquet e composizioni. L'anno scorso, ho visto un bel fiordaliso crescere nel campo e l'ho raccolto per dare alla mia madre. La prossima estate, pianterò fiordalisi nel mio giardino.",
-      "imageLink": "cornflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cornflower.jpg",
       "audioLink": "cornflower.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "una piccola pianta perenne bulbosa della famiglia delle iridi, con fiori vistosi e a forma di coppa in vari colori, spesso usata come simbolo di primavera e speranza",
       "example": "The crocus is one of the first flowers to bloom in spring, often through the snow. Last winter, I planted crocus bulbs in my garden and they bloomed beautifully this spring. Next autumn, I will plant more crocus in my garden.",
       "example_translation": "Il crocus è uno dei primi fiori a fiorire in primavera, spesso attraverso la neve. L'inverno scorso, ho piantato bulbi di crocus nel mio giardino e hanno fiorito bellamente questa primavera. La prossima autunno, pianterò più crocus nel mio giardino.",
-      "imageLink": "crocus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crocus.jpg",
       "audioLink": "crocus.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un asfodilo è un tipo di pianta fiorita originaria dell'Europa occidentale e spesso associata alla primavera. Ha un centro a forma di tromba giallo brillante circondato da un anello di petali.",
       "example": "I planted daffodils in my garden last spring, and they bloomed beautifully this year. I will plant more daffodils next spring. I planted daffodils in my garden last year.",
       "example_translation": "Ho piantato asfodili nel mio giardino la scorsa primavera, e hanno fiorito bellamente quest'anno. Pianterò più asfodili la prossima primavera. Avevo piantato asfodili nel mio giardino l'anno scorso.",
-      "imageLink": "daffodil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daffodil.jpg",
       "audioLink": "daffodil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Una dalia è un tipo di pianta fiorita originaria del Messico e dell'America Centrale. Ha fiori vistosi che vengono in una varietà di colori e dimensioni.",
       "example": "I grew dahlias in my garden last summer, and they were very popular at the farmer's market. I will grow dahlias again next summer. I had grown dahlias in my garden the previous summer.",
       "example_translation": "Ho coltivato dalie nel mio giardino l'estate scorsa, e sono state molto popolari al mercato dei contadini. Coltiverò di nuovo dalie la prossima estate. Avevo coltivato dalie nel mio giardino l'estate precedente.",
-      "imageLink": "dahlia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dahlia.jpg",
       "audioLink": "dahlia.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "La stella alpina è un tipo di pianta fiorita originaria delle Alpi europee. Ha piccoli fiori bianchi a forma di stella e spesso è associata alla cultura svizzera e austriaca.",
       "example": "I saw edelweiss flowers blooming in the Austrian Alps last summer. I will see edelweiss flowers blooming in the Swiss Alps next summer. I had seen edelweiss flowers blooming in the Italian Alps the previous summer.",
       "example_translation": "Ho visto fiorire le stelle alpine nelle Alpi austriache l'estate scorsa. Vedrò fiorire le stelle alpine nelle Alpi svizzere la prossima estate. Avevo visto fiorire le stelle alpine nelle Alpi italiane l'estate precedente.",
-      "imageLink": "edelweiss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "edelweiss.jpg",
       "audioLink": "edelweiss.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "una piccola erba annuale con fiori blu, coltivata per la sua bellezza e come simbolo di amore e ricordo",
       "example": "She wore a forget-me-not brooch to remember her grandmother. She had worn it yesterday, and she will wear it tomorrow.",
       "example_translation": "Indossava un brochetto di non ti scordar di me per ricordare sua nonna. L'aveva indossato ieri, e lo indosserà domani.",
-      "imageLink": "forget-me-not.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forget-me-not.jpg",
       "audioLink": "forget-me-not.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "un tipo di pianta fiorita con fiori bianchi, gialli o rossi, spesso utilizzata in profumi e composizioni",
       "example": "The freesia bouquet was her favorite, and she had always used it in her wedding decor. She is still using it today.",
       "example_translation": "Il bouquet di fresia era il suo preferito, e l'aveva sempre utilizzato nella decorazione del suo matrimonio. Sta ancora utilizzandolo oggi.",
-      "imageLink": "freesia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "freesia.jpg",
       "audioLink": "freesia.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "un tipo di arbusto fiorito con fiori viola, rosa o bianchi, spesso cresciuto nei giardini",
       "example": "She planted a fuchsia shrub in her backyard, and it had bloomed yesterday. It will bloom again next summer.",
       "example_translation": "Ha piantato un arbusto di fucsia nel suo cortile, e era fiorito ieri. Fiorirà di nuovo la prossima estate.",
-      "imageLink": "fuchsia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fuchsia.jpg",
       "audioLink": "fuchsia.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un tipo di pianta fiorita conosciuta per i suoi fiori di colore vivace e comunemente utilizzata come simbolo di innocenza e purezza.",
       "example": "She received a bouquet of gerbera daisies from her secret admirer. Last week, she had planted gerbera daisies in her garden. She will give her sister a gerbera daisy as a gift.",
       "example_translation": "Ha ricevuto un bouquet di margherite africane dal suo ammiratore segreto. La settimana scorsa, aveva piantato margherite africane nel suo giardino. Darà a sua sorella una margherita africana come regalo.",
-      "imageLink": "gerbera-daisy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gerbera-daisy.jpg",
       "audioLink": "gerbera daisy.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Una pianta alta e statura con fiori grandi e appariscenti, spesso coltivata nei giardini per il suo valore ornamentale.",
       "example": "The hollyhock grew rapidly in the warm summer weather. She planted hollyhocks in her garden last year. She will harvest the hollyhocks in the fall.",
       "example_translation": "Il malvone cresceva rapidamente nel clima estivo caldo. Ha piantato malvoni nel suo giardino l'anno scorso. Raccoglierà i malvoni in autunno.",
-      "imageLink": "hollyhock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hollyhock.jpg",
       "audioLink": "hollyhock.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Una pianta perenne bulbosa con infiorescenze a forma di campana, spesso coltivata indoor per le sue fioriture profumate.",
       "example": "The hyacinth bloomed beautifully in her vase. She planted hyacinths in her garden last spring. She will give her friend a pot of hyacinths as a gift.",
       "example_translation": "Il giacinto fiorì bellamente nel suo vaso. Ha piantato giacinti nel suo giardino la scorsa primavera. Darà alla sua amica un vaso di giacinti come regalo.",
-      "imageLink": "hyacinth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hyacinth.jpg",
       "audioLink": "hyacinth.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un genere di piante floreali nella famiglia Iridaceae, composto da quasi 300 specie, ampiamente distribuite nelle regioni temperate del mondo.",
       "example": "The doctor examined the iris of her eye to check for any signs of disease. She had irises in her garden that bloomed beautifully in the spring. By next year, she will have planted even more irises.",
       "example_translation": "Il dottore ha esaminato l'iride del suo occhio per verificare eventuali segni di malattia. Aveva iris nel suo giardino che fiorivano bellamente in primavera. L'anno prossimo, avrà piantato ancora più iris.",
-      "imageLink": "iris.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "iris.jpg",
       "audioLink": "iris.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un tipo di arbusto fiorito o piccolo albero, nativo dell'Europa sudorientale e dell'Asia, con fiori viola, rosa o bianchi e un profumo dolce.",
       "example": "The lilac bushes in the park were in full bloom, filling the air with their sweet scent. She planted a lilac tree in her backyard last year, and now it's growing rapidly. By next spring, the lilacs will be blooming again.",
       "example_translation": "I cespugli di lillà nel parco erano in piena fioritura, riempiendo l'aria con il loro profumo dolce. Aveva piantato un albero di lillà nel suo cortile l'anno scorso, e ora sta crescendo rapidamente. La prossima primavera, i lillà saranno di nuovo in fiore.",
-      "imageLink": "lilac.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lilac.jpg",
       "audioLink": "lilac.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un tipo di pianta fiorita, tipicamente con grandi fiori appariscenti e un profumo dolce, spesso associato con purezza e innocenza.",
       "example": "The bride carried a bouquet of white lilies down the aisle, symbolizing her purity and innocence. Lilies are often used in perfumes and fragrances due to their unique scent. By next summer, the lilies in the garden will be blooming again.",
       "example_translation": "La sposa portava un bouquet di gigli bianchi giù per la navata, simbolizzando la sua purezza e innocenza. I gigli sono spesso utilizzati in profumi e fragranze a causa del loro profumo unico. La prossima estate, i gigli nel giardino saranno di nuovo in fiore.",
-      "imageLink": "lily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lily.jpg",
       "audioLink": "lily.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un fiore a forma di campana di solito bianco o giallastro, spesso utilizzato in bouquet e composizioni.",
       "example": "I remember picking lily of the valley in the woods as a child, and using them to make a bouquet for my mother. Now, I choose them for my wedding bouquet. In the future, I will plant them in my garden.",
       "example_translation": "Ricordo di aver raccolto il mughetto nel bosco da bambino e usarli per fare un bouquet per mia madre. Ora, li scelgo per il mio bouquet di nozze. In futuro, li pianterò nel mio giardino.",
-      "imageLink": "lily-of-the-valley.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lily-of-the-valley.jpg",
       "audioLink": "lily of the valley.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Pianta perenne bullosa con fiori a forma di coppa vistosi, solitamente gialli o bianchi, e spesso associate alla vanità e all'autoammirazione.",
       "example": "The ancient Greeks believed that Narcissus fell in love with his own reflection in a pool of water, and that's why we call the flower by his name. Now, I grow narcissus in my garden, and every spring I admire their beauty. In the future, I will give them as a gift to my friends.",
       "example_translation": "Gli antichi greci credevano che Narciso si fosse innamorato della propria riflessione in una pozza d'acqua, e questo è il motivo per cui chiamiamo il fiore con il suo nome. Ora, coltivo narcisi nel mio giardino, e ogni primavera ammiro la loro bellezza. In futuro, li regalerò ai miei amici.",
-      "imageLink": "narcissus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "narcissus.jpg",
       "audioLink": "narcissus.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Pianta fiorita con fiori esotici vistosi, spesso coltivati in serra o giardini indoor, e apprezzati per la loro bellezza e rarità.",
       "example": "I have always been fascinated by orchids, and I try to grow them in my greenhouse. Last year, I successfully cultivated a new species of orchid, and now I am planning to exhibit them at a flower show. In the future, I will open an orchid nursery.",
       "example_translation": "Sono sempre stato affascinato dalle orchidee, e ho provato a coltivarle nella mia serra. L'anno scorso, ho coltivato con successo una nuova specie di orchidea, e ora sto pianificando di esibirla a una mostra di fiori. In futuro, aprirò una nursery di orchidee.",
-      "imageLink": "orchid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "orchid.jpg",
       "audioLink": "orchid.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una viola del pensiero è un fiore delicato e colorato con petali a forma di cuore, spesso associato all'amore e alla nostalgia.",
       "example": "I planted pansies in my garden last year, and they bloomed beautifully this spring. I will plant more pansies next year, and I hope they will attract bees.",
       "example_translation": "Ho piantato viole del pensiero nel mio giardino l'anno scorso, e sono fiorite meravigliosamente questa primavera. Pianterò altre viole del pensiero l'anno prossimo, e spero che attireranno le api.",
-      "imageLink": "pansy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pansy.jpg",
       "audioLink": "pansy.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Una peonia è un fiore lussuoso e vistoso con grandi fiori profumati, spesso usato in bouquet e composizioni floreali per matrimoni.",
       "example": "My grandmother loved peonies, and I still remember her beautiful peony garden. I had a peony bouquet at my wedding, and I will plant peonies in my garden next summer.",
       "example_translation": "La mia nonna amava lepeonie, e ancora ricordo il suo bellissimo giardino di peonie. Avevo un bouquet di peonie al mio matrimonio, e pianterò peonie nel mio giardino la prossima estate.",
-      "imageLink": "peony.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "peony.jpg",
       "audioLink": "peony.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un papavero è un fiore delicato a forma di coppa con petali cartacei, spesso associato al sonno e ai sogni.",
       "example": "I saw a field of poppies on my way to work yesterday, and it was breathtaking. I will plant poppies in my garden this fall, and I hope they will bloom next spring.",
       "example_translation": "Ho visto un campo di papaveri sulla strada per il lavoro ieri, e era mozzafiato. Pianterò papaveri nel mio giardino questa volta, e spero che fioriranno la prossima primavera.",
-      "imageLink": "poppy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "poppy.jpg",
       "audioLink": "poppy.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Una pianta erbacea perenne con fiori gialli pallidi profumati, originaria dell'Europa e dell'Asia occidentale, e spesso coltivata nei giardini.",
       "example": "She had planted primroses in her garden, and they bloomed beautifully in the spring. Last year, she had planted them in the fall, but they didn't bloom until the following spring. Next year, she will plant them in the summer.",
       "example_translation": "Aveva piantato le primule nel suo giardino, e fiorivano splendidamente in primavera. L'anno scorso, le aveva piantate in autunno, ma non fiorirono fino alla primavera successiva. L'anno prossimo, le pianterà in estate.",
-      "imageLink": "primrose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "primrose.jpg",
       "audioLink": "primrose.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Una pianta fiorente alta con fiori tubolari di colori vivaci, originaria della regione del Mediterraneo.",
       "example": "The snapdragon in the garden was in full bloom, and the children loved to play with its flowers. Last week, they had planted the snapdragon seeds, and now the plants were growing rapidly. Next month, they will harvest the snapdragon flowers.",
       "example_translation": "L'antirrhino nel giardino era in piena fioritura, e i bambini amavano giocare con i suoi fiori. La settimana scorsa, avevano piantato i semi di antirrhino, e ora le piante stavano crescendo rapidamente. Il prossimo mese, raccoglieranno i fiori di antirrhino.",
-      "imageLink": "snapdragon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snapdragon.jpg",
       "audioLink": "snapdragon.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Una piccola pianta perenne bulbosa con fiori bianchi pendenti, originaria dell'Europa e dell'Asia occidentale.",
       "example": "She loved to walk through the garden in winter, admiring the snowdrops that bloomed early. Last winter, she had planted the snowdrop bulbs, and now they were blooming beautifully. Next winter, she will plant more snowdrops.",
       "example_translation": "Le piaceva passegiare nel giardino in inverno, ammirando le bucaneve che fiorivano presto. L'inverno scorso, aveva piantato i bulbi di bucaneve, e ora stavano fiorendo bellamente. Il prossimo inverno, pianterà più bucaneve.",
-      "imageLink": "snowdrop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snowdrop.jpg",
       "audioLink": "snowdrop.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un genere di piante della famiglia delle margherite, native delle Americhe, con fiori gialli o arancioni brillanti.",
       "example": "The garden was filled with marigolds and tagetes, which repelled pests and attracted beneficial insects.",
       "example_translation": "Il giardino era pieno di calendule e tageti, che respingevano i parassiti e attiravano insetti benefici.",
-      "imageLink": "tagetes.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tagetes.jpg",
       "audioLink": "tagetes.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Una pianta piccola e delicata con fiori viola, comunemente trovata nei boschi e prati.",
       "example": "She picked a handful of violets and pressed them into her journal, remembering the sunny day she found them.",
       "example_translation": "Ha raccolto un pugno di viole e le ha schiacciate nel suo giornale, ricordando la giornata di sole in cui le aveva trovate.",
-      "imageLink": "violet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "violet.jpg",
       "audioLink": "violet.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Una pianta acquatica con foglie larghe e piatte e fiori profumati e vistosi, spesso trovata nei laghi e stagni.",
       "example": "The water lily pads provided a habitat for the fish and frogs, which thrived in the calm waters.",
       "example_translation": "I rizomi di nenufar hanno fornito un habitat per i pesci e le rane, che si sono sviluppati nelle acque calme.",
-      "imageLink": "water-lily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "water-lily.jpg",
       "audioLink": "water lily.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un fiordaliso è un tipo di pianta fiorita che si muove dolcemente nella brezza, solitamente avendo strutture delicate, simili a petali.",
       "example": "I saw a windflower blooming in the garden yesterday, it will bloom again next year, and had bloomed for the first time last week.",
       "example_translation": "Ho visto un fiordaliso che fioriva in giardino ieri, fiorirà di nuovo l'anno prossimo, e aveva fiorito per la prima volta la settimana scorsa.",
-      "imageLink": "windflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "windflower.jpg",
       "audioLink": "windflower.mp3"
     }
   ]

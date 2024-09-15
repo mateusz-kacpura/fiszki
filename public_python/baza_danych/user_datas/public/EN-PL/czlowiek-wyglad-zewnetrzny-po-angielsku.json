@@ -9,7 +9,7 @@
       "definition_translation": "osoba, która jest w pełni urośnięta lub rozwinięta",
       "example": "The adult children moved out of their parents' house.",
       "example_translation": "Dorosłe dzieci opuściły dom swoich rodziców.",
-      "imageLink": "image_files\\English\\adult.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "adult.jpg",
       "audioLink": "audio_files\\English\\adult.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "bardzo młody człowiek, szczególnie nowo lub niedawno urodzony",
       "example": "The baby laughed at the silly clown.",
       "example_translation": "Dziecko śmiało się z głupiego klauna.",
-      "imageLink": "image_files\\English\\baby.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baby.jpg",
       "audioLink": "audio_files\\English\\baby.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "mieć określony wiek",
       "example": "She will be 25 years old tomorrow.",
       "example_translation": "Jutro będzie mieć 25 lat.",
-      "imageLink": "image_files\\English\\be-years-old.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "be-years-old.jpg",
       "audioLink": "audio_files\\English\\be...(years old).mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "włosy, które rosną na brodzie i szczęce osoby",
       "example": "He had a long, bushy beard.",
       "example_translation": "Miał długą, gęstą brodę.",
-      "imageLink": "image_files\\English\\beard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beard.jpg",
       "audioLink": "audio_files\\English\\beard.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "przyjemny dla zmysłów lub umysłu estetycznie",
       "example": "The beautiful sunset on the beach was breathtaking.",
       "example_translation": "Piękny zachód słońca na plaży był zapierający dech.",
-      "imageLink": "image_files\\English\\beautiful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beautiful.jpg",
       "audioLink": "audio_files\\English\\beautiful.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "chłopiec, młody mężczyzna",
       "example": "The boy is playing with his friends.",
       "example_translation": "Chłopiec bawi się z przyjaciółmi.",
-      "imageLink": "image_files\\English\\boy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boy.jpg",
       "audioLink": "audio_files\\English\\boy.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "narząd widzenia; część twarzy",
       "example": "She has beautiful eyes.",
       "example_translation": "Ona ma piękne oczy.",
-      "imageLink": "image_files\\English\\eye.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eye.jpg",
       "audioLink": "audio_files\\English\\eye.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Przód głowy, od czoła do brody.",
       "example": "She has a beautiful face.",
       "example_translation": "Ona ma piękną twarz.",
-      "imageLink": "image_files\\English\\face.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "face.jpg",
       "audioLink": "audio_files\\English\\face.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "mający dużo tłuszczu; nie chudy",
       "example": "He's been trying to lose weight, but he's still quite fat.",
       "example_translation": "On próbuje schudnąć, ale jest jeszcze dość tłustym.",
-      "imageLink": "image_files\\English\\fat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fat.jpg",
       "audioLink": "audio_files\\English\\fat.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "dolne kończyny nóg",
       "example": "I have small feet.",
       "example_translation": "Mam małe stopy.",
-      "imageLink": "image_files\\English\\feet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "feet.jpg",
       "audioLink": "audio_files\\English\\feet.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "dolna część nogi poniżej kostki",
       "example": "I hurt my foot while playing soccer.",
       "example_translation": "Uderzyłem stopę podczas gry w piłkę nożną.",
-      "imageLink": "image_files\\English\\foot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "foot.jpg",
       "audioLink": "audio_files\\English\\foot.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "dziecko płci żeńskiej lub młoda kobieta",
       "example": "The little girl was playing with her doll.",
       "example_translation": "Mała dziewczyna bawiła się z lalką.",
-      "imageLink": "image_files\\English\\girl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "girl.jpg",
       "audioLink": "audio_files\\English\\girl.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "roślina na głowie ludzkiej lub ciele zwierzęcia",
       "example": "She brushed her hair before going out.",
       "example_translation": "Ona wybrała włosy przed wyjściem.",
-      "imageLink": "image_files\\English\\hair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair.jpg",
       "audioLink": "audio_files\\English\\hair.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "końcowa część ludzkiej ręki, poniżej nadgarstka",
       "example": "She held my hand tightly.",
       "example_translation": "Trzymała mocno moją rękę.",
-      "imageLink": "image_files\\English\\hand.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hand.jpg",
       "audioLink": "audio_files\\English\\hand.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "część ciała ludzkiego, biegnąca od pachwiny do kostki",
       "example": "I broke my leg while skiing.",
       "example_translation": "Złamałem nogę podczas jazdy na nartach.",
-      "imageLink": "image_files\\English\\leg.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leg.jpg",
       "audioLink": "audio_files\\English\\leg.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "mały pod względem rozmiaru lub ilości",
       "example": "She has a little dog.",
       "example_translation": "Ona ma małego psa.",
-      "imageLink": "image_files\\English\\little.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "little.jpg",
       "audioLink": "audio_files\\English\\little.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": " Rozciągający się na wielką odległość; nie krótki w długości lub czasie trwania.",
       "example": "The long road to the mountains was tiring.",
       "example_translation": "Długa droga do gór była męcząca.",
-      "imageLink": "image_files\\English\\long.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "long.jpg",
       "audioLink": "audio_files\\English\\long.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "dorosły człowiek płci męskiej",
       "example": "The man walked down the street.",
       "example_translation": "Mężczyzna szedł ulicą.",
-      "imageLink": "image_files\\English\\man.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "man.jpg",
       "audioLink": "audio_files\\English\\man.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "otwór, przez który zwierzę przyjmuje pokarm",
       "example": "She put her hand in front of her mouth to stifle a giggle.",
       "example_translation": "Położyła rękę przed ustami, aby stłumić śmiech.",
-      "imageLink": "image_files\\English\\mouth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mouth.jpg",
       "audioLink": "audio_files\\English\\mouth.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Nos jest częścią twarzy, którą wącha się.",
       "example": "She blew her nose with a tissue.",
       "example_translation": "Ona wydmuchała nos chusteczką.",
-      "imageLink": "image_files\\English\\nose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nose.jpg",
       "audioLink": "audio_files\\English\\nose.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "mający długi czas życia lub istnienia, lub pokazujący oznaki starości",
       "example": "The old man walked slowly down the street.",
       "example_translation": "Stary mężczyzna szedł wolno w dół ulicy.",
-      "imageLink": "image_files\\English\\old.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "old.jpg",
       "audioLink": "audio_files\\English\\old.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "nie długi w längści lub czasie trwania",
       "example": "The short man stood on a box to reach the top shelf.",
       "example_translation": "Krótki mężczyzna stanął na pudle, aby dotknąć najwyższej półki.",
-      "imageLink": "image_files\\English\\short.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "short.jpg",
       "audioLink": "audio_files\\English\\short.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "mający smukłą lub szczupłą budowę; nie będący tłustym",
       "example": "She's been working out to get slim for the summer.",
       "example_translation": "Ona ćwiczyła, aby zostać smukłą na lato.",
-      "imageLink": "image_files\\English\\slim.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "slim.jpg",
       "audioLink": "audio_files\\English\\slim.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "mający wielką wysokość; wzniosły",
       "example": "He is tall and handsome.",
       "example_translation": "On jest wysoki i przystojny.",
-      "imageLink": "image_files\\English\\tall.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tall.jpg",
       "audioLink": "audio_files\\English\\tall.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "dorosła kobieta ludzka",
       "example": "The woman walked into the room.",
       "example_translation": "Kobieta weszła do pokoju.",
-      "imageLink": "image_files\\English\\woman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "woman.jpg",
       "audioLink": "audio_files\\English\\woman.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "mający świeżą i młodzieńczą jakość",
       "example": "She looks very young for her age.",
       "example_translation": "Ona wygląda bardzo młodo biorąc pod uwagę jej wiek.",
-      "imageLink": "image_files\\English\\young.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "young.jpg",
       "audioLink": "audio_files\\English\\young.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "mający długi okres życia lub istnienia; mający określony wiek",
       "example": "The aged professor had a wealth of knowledge to share.",
       "example_translation": "Postały profesor miał bogactwo wiedzy do podzielenia się.",
-      "imageLink": "image_files\\English\\aged.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aged.jpg",
       "audioLink": "audio_files\\English\\aged.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "przyjemny dla zmysłów lub umysłu estetycznie",
       "example": "She was an attractive woman with a bright smile.",
       "example_translation": "Była atrakcyjną kobietą z ładnym uśmiechem.",
-      "imageLink": "image_files\\English\\attractive.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "attractive.jpg",
       "audioLink": "audio_files\\English\\attractive.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "osoba o jasnych włosach",
       "example": "She's a blonde and very pretty.",
       "example_translation": "Ona jest blondynką i bardzo ładną.",
-      "imageLink": "image_files\\English\\blonde.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blonde.jpg",
       "audioLink": "audio_files\\English\\blonde.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "nosiąc ubrania, szczególnie formalne lub przystrojne",
       "example": "She got dressed up for the party.",
       "example_translation": "Ubrała się elegancko na imprezę.",
-      "imageLink": "image_files\\English\\dressed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dressed.jpg",
       "audioLink": "audio_files\\English\\dressed.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "sprawiedliwy i uczciwy",
       "example": "The judge tried to be fair in her decision.",
       "example_translation": "Sędzia próbował być uczciwy w swojej decyzji.",
-      "imageLink": "image_files\\English\\fair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fair.jpg",
       "audioLink": "audio_files\\English\\fair.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "popularny lub najnowszy styl ubioru, fryzury, itp.",
       "example": "She is always up to date with the latest fashion trends.",
       "example_translation": "Ona zawsze jest na bieżąco z najnowszymi trendami modowymi.",
-      "imageLink": "image_files\\English\\fashion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fashion.jpg",
       "audioLink": "audio_files\\English\\fashion.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "część ciała ludzkiego, szczególnie jedna z pięciu końcowych części dłoni",
       "example": "She pointed her finger at the dog.",
       "example_translation": "Wskazała palcem na psa.",
-      "imageLink": "image_files\\English\\finger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "finger.jpg",
       "audioLink": "audio_files\\English\\finger.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "przyjemny dla oka lub atrakcyjny",
       "example": "He's a good-looking guy, isn't he?",
       "example_translation": "On jest przystojnym facetem, czy nie?",
-      "imageLink": "image_files\\English\\good-looking.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "good-looking.jpg",
       "audioLink": "audio_files\\English\\good-looking.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "mężczyzna lub chłopiec",
       "example": "The guy standing over there is my friend.",
       "example_translation": "Chłopak stojący tam jest moim przyjacielem.",
-      "imageLink": "image_files\\English\\guy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guy.jpg",
       "audioLink": "audio_files\\English\\guy.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "materiał kosmetyczny lub proces aplikacji takiego materiału w celu poprawy wyglądu",
       "example": "She spent hours on her make-up before the party.",
       "example_translation": "Spędziła godziny na swoim makijażu przed imprezą.",
-      "imageLink": "image_files\\English\\make-up.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "make-up.jpg",
       "audioLink": "audio_files\\English\\make-up.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "atrakcyjny w delikatny sposób",
       "example": "She looked pretty in her new dress.",
       "example_translation": "Wyglądała ładnie w swojej nowej sukni.",
-      "imageLink": "image_files\\English\\pretty.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pretty.jpg",
       "audioLink": "audio_files\\English\\pretty.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Włosy, które są czerwone w kolorze",
       "example": "She has beautiful red hair.",
       "example_translation": "Ona ma piękne czerwone włosy.",
-      "imageLink": "image_files\\English\\red-hair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red-hair.jpg",
       "audioLink": "audio_files\\English\\red hair.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "posiadający dużą ilość mocy, siły lub intensywności",
       "example": "He is a strong athlete.",
       "example_translation": "On jest silnym sportowcem.",
-      "imageLink": "image_files\\English\\strong-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "strong-1.jpg",
       "audioLink": "audio_files\\English\\strong.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "młoda osoba, zwykle między 13 a 19 rokiem życia",
       "example": "The teenager was very excited about his first concert.",
       "example_translation": "Nastolatek był bardzo ekscytowany swoim pierwszym koncertem.",
-      "imageLink": "image_files\\English\\teenager.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "teenager.jpg",
       "audioLink": "audio_files\\English\\teenager.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "mający małą ilość tłuszczu lub mięsa",
       "example": "She looked thin and tired after her illness.",
       "example_translation": "Wyglądała chuda i zmęczona po chorobie.",
-      "imageLink": "image_files\\English\\thin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thin.jpg",
       "audioLink": "audio_files\\English\\thin.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "jeden z pięciu małych części na końcu stopy",
       "example": "She hurt her toe while walking.",
       "example_translation": "Ona uderzyła się w palec, kiedy chodziła.",
-      "imageLink": "image_files\\English\\toe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toe.jpg",
       "audioLink": "audio_files\\English\\toe.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "sposób, w jaki ktoś lub coś wygląda",
       "example": "Her appearance on the red carpet was stunning.",
       "example_translation": "Jej wygląd na czerwonym dywanie był oszałamiający.",
-      "imageLink": "image_files\\English\\appearance.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "appearance.jpg",
       "audioLink": "audio_files\\English\\appearance.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "nie mający włosów na głowie",
       "example": "He started to go bald at the age of 30.",
       "example_translation": "Zaczął łysieć w wieku 30 lat.",
-      "imageLink": "image_files\\English\\bald.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bald.jpg",
       "audioLink": "audio_files\\English\\bald.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "w piękny sposób",
       "example": "She sings beautifully in the choir.",
       "example_translation": "Ona śpiewa pięknie w chórze.",
-      "imageLink": "image_files\\English\\beautifully.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beautifully.jpg",
       "audioLink": "audio_files\\English\\beautifully.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "jakość będąca przyjemna dla oka lub ucha",
       "example": "The beauty of the landscape took my breath away.",
       "example_translation": "Piękno krajobrazu odebrało mi oddech.",
-      "imageLink": "image_files\\English\\beauty.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beauty.jpg",
       "audioLink": "audio_files\\English\\beauty.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "każda strona twarzy poniżej oka",
       "example": "She gave him a gentle pat on the cheek.",
       "example_translation": "Dała mu delikatny klaps na policzek.",
-      "imageLink": "image_files\\English\\cheek.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cheek.jpg",
       "audioLink": "audio_files\\English\\cheek.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Okres życia, kiedy jest się dzieckiem",
       "example": "She cherished the memories of her childhood.",
       "example_translation": "Ona pielęgnowała wspomnienia z dzieciństwa.",
-      "imageLink": "image_files\\English\\childhood.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "childhood.jpg",
       "audioLink": "audio_files\\English\\childhood.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "dolna przednia część twarzy poniżej ust",
       "example": "He stroked his chin thoughtfully.",
       "example_translation": "On zamyślił się, ściskając brodę.",
-      "imageLink": "image_files\\English\\chin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chin.jpg",
       "audioLink": "audio_files\\English\\chin.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Mający krzywą lub skręconą formę; nie prostą",
       "example": "Her curly hair was beautiful.",
       "example_translation": "Jej kędzierzawe włosy były piękne.",
-      "imageLink": "image_files\\English\\curly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curly.jpg",
       "audioLink": "audio_files\\English\\curly.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "osoba starsza, szczególnie taka, która jest szanowana i ma dużo doświadczenia",
       "example": "The elder statesman was known for his wisdom.",
       "example_translation": "Starszy mąż stanu był znany ze swojej mądrości.",
-      "imageLink": "image_files\\English\\elder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elder.jpg",
       "audioLink": "audio_files\\English\\elder.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "dotyczący lub charakterystyczny dla osób starszych",
       "example": "The elderly couple walked slowly down the street.",
       "example_translation": "Starsza para szła wolno w dół ulicy.",
-      "imageLink": "image_files\\English\\elderly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elderly.jpg",
       "audioLink": "audio_files\\English\\elderly.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "będący najstarszym w grupie ludzi lub rzeczy",
       "example": "She's the eldest child in the family.",
       "example_translation": "Ona jest najstarszym dzieckiem w rodzinie.",
-      "imageLink": "image_files\\English\\eldest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eldest.jpg",
       "audioLink": "audio_files\\English\\eldest.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Zgodny z obecnym stylem lub zwyczajem",
       "example": "The fashionable clothes in the store were very expensive.",
       "example_translation": "Modne suknie w sklepie były bardzo drogie.",
-      "imageLink": "image_files\\English\\fashionable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fashionable.jpg",
       "audioLink": "audio_files\\English\\fashionable.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "osoba płci, która może mieć dzieci",
       "example": "The female teacher was very kind.",
       "example_translation": "Nauczycielka kobieta była bardzo miła.",
-      "imageLink": "image_files\\English\\female.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "female.jpg",
       "audioLink": "audio_files\\English\\female.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "wygląd fizyczny osoby, szczególnie jej kształt",
       "example": "She has a lovely figure.",
       "example_translation": "Ma ona ładną postać.",
-      "imageLink": "image_files\\English\\figure.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "figure.jpg",
       "audioLink": "audio_files\\English\\figure.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "w dobrej kondycji fizycznej; odpowiedni dla określonego celu",
       "example": "She's going to the gym to get fit for the summer.",
       "example_translation": "Ona idzie do siłowni, aby przygotować się na lato.",
-      "imageLink": "image_files\\English\\fit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fit.jpg",
       "audioLink": "audio_files\\English\\fit.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "górna część twarzy, powyżej brwi i między linią włosów a brwiami",
       "example": "She had a big red spot on her forehead.",
       "example_translation": "Miała dużą, czerwoną plamę na czole.",
-      "imageLink": "image_files\\English\\forehead.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forehead.jpg",
       "audioLink": "audio_files\\English\\forehead.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "zwiększyć się w rozmiarze, ilości lub stopniu",
       "example": "The business will grow rapidly in the next few years.",
       "example_translation": "Firma będzie rosła szybko w następnych kilku latach.",
-      "imageLink": "image_files\\English\\grow-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grow-1.jpg",
       "audioLink": "audio_files\\English\\grow.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "przycięcie lub styl włosów",
       "example": "I need to get a haircut before the party.",
       "example_translation": "Muszę się ostrzyc przed przyjęciem.",
-      "imageLink": "image_files\\English\\haircut.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "haircut.jpg",
       "audioLink": "audio_files\\English\\haircut.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "osoba, której pracą jest strzyżenie, stylizacja i pielęgnacja włosów ludzi",
       "example": "She went to the hairdresser to get a new hairstyle.",
       "example_translation": "Poszła do fryzjera, aby dostać nowy styl fryzury.",
-      "imageLink": "image_files\\English\\hairdresser.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hairdresser.jpg",
       "audioLink": "audio_files\\English\\hairdresser.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "przyjemny dla oka lub umysłu; atrakcyjny",
       "example": "He's a handsome young man.",
       "example_translation": "On jest przystojnym młodym człowiekiem.",
-      "imageLink": "image_files\\English\\handsome.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "handsome.jpg",
       "audioLink": "audio_files\\English\\handsome.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Miara wysokości lub wysokości czegoś.",
       "example": "The height of the mountain was breathtaking.",
       "example_translation": "Wysokość góry była zapierająca dech.",
-      "imageLink": "image_files\\English\\height.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "height.jpg",
       "audioLink": "audio_files\\English\\height.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "dziecko lub młoda osoba",
       "example": "The kid ran quickly across the playground.",
       "example_translation": "Dziecko szybko pobiegło przez plac zabaw.",
-      "imageLink": "image_files\\English\\kid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kid.jpg",
       "audioLink": "audio_files\\English\\kid.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Staw, który łączy kość udową z kością piszczelową.",
       "example": "She fell on her knee during the soccer game.",
       "example_translation": "Upadła na kolano podczas meczu piłki nożnej.",
-      "imageLink": "image_files\\English\\knee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knee.jpg",
       "audioLink": "audio_files\\English\\knee.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "kobieta wywodząca się z wysokiej klasy społecznej, zwłaszcza urodzona w rodzinie szlacheckiej",
       "example": "The lady of the house welcomed us warmly.",
       "example_translation": "Dama domu powitała nas ciepło.",
-      "imageLink": "image_files\\English\\lady.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lady.jpg",
       "audioLink": "audio_files\\English\\lady.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "jedna z dwóch miękkich fałdów otaczających usta",
       "example": "She licked her lip nervously.",
       "example_translation": "Obrzuciła wargę nerwowo.",
-      "imageLink": "image_files\\English\\lip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip.jpg",
       "audioLink": "audio_files\\English\\lip.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "mężczyzna lub chłopiec",
       "example": "He is a male teacher.",
       "example_translation": "On jest nauczycielem mężczyzną.",
-      "imageLink": "image_files\\English\\male.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "male.jpg",
       "audioLink": "audio_files\\English\\male.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "w wieku między 40 a 60, uważany za nie będący ani młodym, ani starym",
       "example": "She's a middle-aged woman with two children.",
       "example_translation": "Ona jest kobietą w średnim wieku z dwójką dzieci.",
-      "imageLink": "image_files\\English\\middle-aged.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "middle-aged.jpg",
       "audioLink": "audio_files\\English\\middle-aged.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "wzrost włosów na górnej wardze",
       "example": "He had a impressive moustache that made him look dignified.",
       "example_translation": "Miał imponujący wąsik, który sprawiał, że wyglądał godnie.",
-      "imageLink": "image_files\\English\\moustache.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "moustache.jpg",
       "audioLink": "audio_files\\English\\moustache.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "zwiększyć wagę lub masę ciała",
       "example": "After a few months of eating junk food, I started to put on weight.",
       "example_translation": "Po kilku miesiącach jedzenia fast food zacząłem przybierać na wadze.",
-      "imageLink": "image_files\\English\\put-on-weight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "put-on-weight.jpg",
       "audioLink": "audio_files\\English\\put on weight.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Biologiczne cechy, które definiują mężczyzn i kobiety.",
       "example": "The sex of the baby was unknown until the ultrasound.",
       "example_translation": "Płeć dziecka była nieznana aż do badania ultrasonograficznego.",
-      "imageLink": "image_files\\English\\sex.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sex.jpg",
       "audioLink": "audio_files\\English\\sex.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "odcinać lub usuwać włosy z ciała za pomocą brzytwy lub innego ostryego narzędzia",
       "example": "I need to shave before the party.",
       "example_translation": "Muszę się ogolić przed imprezą.",
-      "imageLink": "image_files\\English\\shave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shave.jpg",
       "audioLink": "audio_files\\English\\shave.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Posiadający lub pokazujący szybką i inteligentną umysł.",
       "example": "She's a smart girl, she solves the puzzle quickly.",
       "example_translation": "Ona jest inteligentną dziewczyną, ona szybko rozwiązuje puzzle.",
-      "imageLink": "image_files\\English\\smart-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "smart-2.jpg",
       "audioLink": "audio_files\\English\\smart.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "dotyczący lub charakterystyczny dla nastolatków",
       "example": "She was teenage when she started learning English.",
       "example_translation": "Była nastolatką, kiedy zaczęła uczyć się angielskiego.",
-      "imageLink": "image_files\\English\\teenage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "teenage.jpg",
       "audioLink": "audio_files\\English\\teenage.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "krótki, gruby palec na ręce, przeciwny innym palcom",
       "example": "She hurt her thumb while opening the jar.",
       "example_translation": "Ona zraniła kciuk, otwierając słoik.",
-      "imageLink": "image_files\\English\\thumb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thumb.jpg",
       "audioLink": "audio_files\\English\\thumb.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Brakujący siły lub mocy; niezdolny do łatwego wykonywania rzeczy.",
       "example": "He felt weak after the illness.",
       "example_translation": "Czuł się słaby po chorobie.",
-      "imageLink": "image_files\\English\\weak-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "weak-1.jpg",
       "audioLink": "audio_files\\English\\weak.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "zmierzyć wagę czegoś",
       "example": "She had to weigh the ingredients carefully.",
       "example_translation": "Musiała dokładnie zważyć składniki.",
-      "imageLink": "image_files\\English\\weigh.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "weigh.jpg",
       "audioLink": "audio_files\\English\\weigh.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Ilość lub cantidad ciężaru lub masy",
       "example": "I need to lose some weight before summer",
       "example_translation": "Muszę schudnąć przed latem",
-      "imageLink": "image_files\\English\\weight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "weight.jpg",
       "audioLink": "audio_files\\English\\weight.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "nosiący ładne i stylowe ubrania",
       "example": "She was very well-dressed for the occasion.",
       "example_translation": "Była ona bardzo elegancka na tę okazję.",
-      "imageLink": "image_files\\English\\well-dressed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "well-dressed.jpg",
       "audioLink": "audio_files\\English\\well-dressed.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "okres między dzieciństwem a dorosłością",
       "example": "The youth of today are more tech-savvy than ever.",
       "example_translation": "Młodzież dzisiaj jest bardziej sprawna w technologiach niż kiedykolwiek.",
-      "imageLink": "image_files\\English\\youth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "youth.jpg",
       "audioLink": "audio_files\\English\\youth.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "bez okrycia lub ubrania",
       "example": "The tree was bare of leaves.",
       "example_translation": "Drzewo było nagie, nie miało liści.",
-      "imageLink": "image_files\\English\\bare.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bare.jpg",
       "audioLink": "audio_files\\English\\bare.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "strój lub kostium noszony, aby zataić swoją tożsamość",
       "example": "The spy wore a disguise to blend in with the crowd.",
       "example_translation": "Szpieg nosił przebranie, aby się nie wyróżniać w tłumie.",
-      "imageLink": "image_files\\English\\disguise-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disguise-1.jpg",
       "audioLink": "audio_files\\English\\disguise.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "zmienić swój wygląd, aby ukryć swoją tożsamość lub udawać, że jest się kimś innym",
       "example": "The thief tried to disguise himself as a policeman.",
       "example_translation": "Złodziej próbował się przebrać za policjanta.",
-      "imageLink": "image_files\\English\\disguise.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disguise.jpg",
       "audioLink": "audio_files\\English\\disguise.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "przyjemnie elegancki lub stylowy w wyglądzie lub sposobie zachowania",
       "example": "She looked elegant in her new dress.",
       "example_translation": "Wyglądała elegancko w swojej nowej sukni.",
-      "imageLink": "image_files\\English\\elegant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elegant.jpg",
       "audioLink": "audio_files\\English\\elegant.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "w sposób wyrafinowany i kulturalny",
       "example": "She elegantly solved the complex math problem.",
       "example_translation": "Ona elegancko rozwiązała złożony problem matematyczny.",
-      "imageLink": "image_files\\English\\elegantly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elegantly.jpg",
       "audioLink": "audio_files\\English\\elegantly.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "włosy rosnące nad oczami",
       "example": "She plucked her eyebrows to shape them.",
       "example_translation": "Ona wydepilowała brwi, aby nadać im kształt.",
-      "imageLink": "image_files\\English\\eyebrow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyebrow.jpg",
       "audioLink": "audio_files\\English\\eyebrows.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Włosy rosnące na krawędziach powiek.",
       "example": "She had long and beautiful eyelashes.",
       "example_translation": "Miała długie i piękne rzęsy.",
-      "imageLink": "image_files\\English\\eyelashes.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyelashes.jpg",
       "audioLink": "audio_files\\English\\eyelashes.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "wybitna lub charakterystyczna cecha",
       "example": "The new smartphone has many exciting features.",
       "example_translation": "Nowy smartphone ma wiele emocjonujących cech.",
-      "imageLink": "image_files\\English\\feature.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "feature.jpg",
       "audioLink": "audio_files\\English\\feature.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "osoba, która jest biologicznie lub psychicznie żeńska",
       "example": "She is a female doctor.",
       "example_translation": "Ona jest lekarką.",
-      "imageLink": "image_files\\English\\female-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "female-2.jpg",
       "audioLink": "audio_files\\English\\female.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "małe brązowe plamki na skórze, szczególnie na twarzy, które często występują u osób z jasną cerą",
       "example": "She had a face full of freckles from spending too much time in the sun.",
       "example_translation": "Miała twarz pełną piegów ze względu na zbyt długie przebywanie na słońcu.",
-      "imageLink": "image_files\\English\\freckles.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "freckles.jpg",
       "audioLink": "audio_files\\English\\freckles.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Brzeg to dekoracyjny brzeg z nitek lub pasków materiału, szczególnie na kawałku tkaniny.",
       "example": "The fringe on the scarf added a touch of elegance.",
       "example_translation": "Brzeg na szaliku dodał odrobinę elegancji.",
-      "imageLink": "image_files\\English\\fringe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fringe.jpg",
       "audioLink": "audio_files\\English\\fringe.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Stan bycia mężczyzną lub kobietą.",
       "example": "The form asks for your gender and date of birth.",
       "example_translation": "Formularz pyta o twoją płeć i datę urodzenia.",
-      "imageLink": "image_files\\English\\gender.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gender.jpg",
       "audioLink": "audio_files\\English\\gender.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "osoba dojrzała lub dorosła",
       "example": "She's a grown-up now, she can make her own decisions.",
       "example_translation": "Teraz jest dorosła, może podejmować własne decyzje.",
-      "imageLink": "image_files\\English\\grown-up.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grown-up.jpg",
       "audioLink": "audio_files\\English\\grown-up.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "wzrost na głowie człowieka lub ciele zwierzęcia",
       "example": "She brushed her hair before going out.",
       "example_translation": "Ona uczesała swoje włosy przed wyjściem.",
-      "imageLink": "image_files\\English\\hair-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-1.jpg",
       "audioLink": "audio_files\\English\\hair.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "reprezentacja zewnętrznej formy osoby, zwierzęcia lub rzeczy",
       "example": "The image on the screen was blurry.",
       "example_translation": "Obraz na ekranie był nieostry.",
-      "imageLink": "image_files\\English\\image-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "image-1.jpg",
       "audioLink": "audio_files\\English\\image.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "dorosły człowiek, który jest męski",
       "example": "He is a male nurse.",
       "example_translation": "On jest pielęgniarzem mężczyzną.",
-      "imageLink": "image_files\\English\\male-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "male-2.jpg",
       "audioLink": "audio_files\\English\\male.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "mała, cienka część metalu z ostrym końcem, używana do łączenia rzeczy",
       "example": "Can you pass me a nail so I can fix this shelves?",
       "example_translation": "Czy mogłeśby mi przekazać paznokieć, żebym mogł naprawić te półki?",
-      "imageLink": "image_files\\English\\nail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail.jpg",
       "audioLink": "audio_files\\English\\nail.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "nie noszący żadnych ubrań",
       "example": "The naked child ran around the backyard.",
       "example_translation": "Nagi dzieciak biegał dookoła ogródka.",
-      "imageLink": "image_files\\English\\naked.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "naked.jpg",
       "audioLink": "audio_files\\English\\naked.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "mający jasny kolor lub wyblakłe wygląd",
       "example": "The pale moon was visible in the night sky.",
       "example_translation": "Blada księżycowa była widoczna w nocnym niebie.",
-      "imageLink": "image_files\\English\\pale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pale.jpg",
       "audioLink": "audio_files\\English\\pale.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "styl fryzury, w którym włosy są szczotkowane do tyłu i zatrzymywane za pomocą opaski lub wstążki z tyłu głowy",
       "example": "She wore her hair in a ponytail to keep it out of her face.",
       "example_translation": "Ona wore włosy w ogonie, aby je nie czepiały jej twarzy.",
-      "imageLink": "image_files\\English\\ponytail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ponytail.jpg",
       "audioLink": "audio_files\\English\\ponytail.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "związany z lub charakterystyczny dla rasy",
       "example": "The racial diversity of the city is one of its strengths.",
       "example_translation": "Różnorodność rasowa miasta jest jedną z jego zalet.",
-      "imageLink": "image_files\\English\\racial.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "racial.jpg",
       "audioLink": "audio_files\\English\\racial.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "dotyczy fizycznej atrakcji lub miłości między ludźmi",
       "example": "The sexual tension between the two characters was palpable.",
       "example_translation": "Napięcie seksualne między dwiema postaciami było odczuwalne.",
-      "imageLink": "image_files\\English\\sexual.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sexual.jpg",
       "audioLink": "audio_files\\English\\sexual.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "mała, okrągła znaczkę lub plamę na czymś",
       "example": "The spot on the wall was difficult to remove.",
       "example_translation": "Plama na ścianie była trudna do usunięcia.",
-      "imageLink": "image_files\\English\\spot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spot.jpg",
       "audioLink": "audio_files\\English\\spot.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "jakość lub stan siły",
       "example": "She showed great strength in her speech.",
       "example_translation": "Pokazała wielką siłę w swojej przemowie.",
-      "imageLink": "image_files\\English\\strength.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "strength.jpg",
       "audioLink": "audio_files\\English\\strength.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "zmniejszyć coś mocniejszym lub skuteczniejszym",
       "example": "The company will strengthen its marketing strategy to increase sales.",
       "example_translation": "Firma wzmocni swoją strategię marketingową, aby zwiększyć sprzedaż.",
-      "imageLink": "image_files\\English\\strengthen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "strengthen.jpg",
       "audioLink": "audio_files\\English\\strengthen.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "kolor żółto-brązowy",
       "example": "She got a tan after her vacation in Hawaii.",
       "example_translation": "Opalenizna pozostała jej po wakacjach na Hawajach.",
-      "imageLink": "image_files\\English\\tan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tan.jpg",
       "audioLink": "audio_files\\English\\tan.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "część ludzkiej nogi między kolanem a biodrem",
       "example": "She massaged her thigh to relieve the muscle cramp.",
       "example_translation": "Ona masowała swoją udę, aby ulżyć skurczowi mięśni.",
-      "imageLink": "image_files\\English\\thigh.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thigh.jpg",
       "audioLink": "audio_files\\English\\thigh.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "mający falisty kształt lub ruch",
       "example": "The wavy hair of the surfer caught my attention.",
       "example_translation": "Falachowe włosy surfera zwróciły moją uwagę.",
-      "imageLink": "image_files\\English\\wavy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wavy.jpg",
       "audioLink": "audio_files\\English\\wavy.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Mający silną i krzepką budowę fizyczną.",
       "example": "He's a well-built athlete.",
       "example_translation": "On jest dobrze zbudowanym sportowcem.",
-      "imageLink": "image_files\\English\\well-built.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "well-built.jpg",
       "audioLink": "audio_files\\English\\well-built.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "linie lub fałdy na skórze, szczególnie na twarzy, które pojawiają się w wyniku starzenia się lub powtarzających się wyrazów twarzy",
       "example": "The old woman's face was covered in wrinkles from years of smiling.",
       "example_translation": "Twarz starej kobiety była pokryta zmarszczkami z lat uśmiechu.",
-      "imageLink": "image_files\\English\\wrinkles.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wrinkles.jpg",
       "audioLink": "audio_files\\English\\wrinkles.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "staw lub region ludzkiego ciała, gdzie łączy się ręka i przedramię",
       "example": "She wore a beautiful watch on her wrist.",
       "example_translation": "Ona nosiła piękną zegarek na swoim nadgarstku.",
-      "imageLink": "image_files\\English\\wrist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wrist.jpg",
       "audioLink": "audio_files\\English\\wrist.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "okres między dzieciństwem a dorosłością",
       "example": "The youth of the country are eager to make a change.",
       "example_translation": "Młodzież kraju jest gotowa wprowadzić zmianę.",
-      "imageLink": "image_files\\English\\youth-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "youth-1.jpg",
       "audioLink": "audio_files\\English\\youth.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "młody byk lub cielę",
       "example": "The calf was born last week.",
       "example_translation": "Cielę urodziło się w zeszłym tygodniu.",
-      "imageLink": "image_files\\English\\calf-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "calf-1.jpg",
       "audioLink": "audio_files\\English\\calf.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "jakość bycia eleganckim i wyrafinowanym w wyglądzie, sposobie lub stylu",
       "example": "Her elegance and poise on the stage was captivating.",
       "example_translation": "Jej elegancja i powaga na scenie była zachwycająca.",
-      "imageLink": "image_files\\English\\elegance.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elegance.jpg",
       "audioLink": "audio_files\\English\\elegance.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "najmniejszy palec dłoni ludzkiej",
       "example": "She hurt her little finger while cooking.",
       "example_translation": "Ona zraniła swój mały palec, gdy gotowała.",
-      "imageLink": "image_files\\English\\little-finger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "little-finger.jpg",
       "audioLink": "audio_files\\English\\little finger.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "palec między drugim a czwartym palcem",
       "example": "He gave me the middle finger when I cut him off in traffic.",
       "example_translation": "Dał mi środkowy palec, gdy wyprzedziłem go na drodze.",
-      "imageLink": "image_files\\English\\middle-finger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "middle-finger.jpg",
       "audioLink": "audio_files\\English\\middle finger.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "bardzo gruby: mając dużo tłuszczu w ciele",
       "example": "The doctor warned him that being obese could lead to serious health problems.",
       "example_translation": "Lekarz ostrzegł go, że być otyłym mogłoby prowadzić do poważnych problemów zdrowotnych.",
-      "imageLink": "image_files\\English\\obese.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "obese.jpg",
       "audioLink": "audio_files\\English\\obese.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "mieć podobny wygląd lub charakter",
       "example": "She resembles her mother.",
       "example_translation": "Ona przypomina swoją matkę.",
-      "imageLink": "image_files\\English\\resemble.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "resemble.jpg",
       "audioLink": "audio_files\\English\\resemble.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "osoba w procesie rozwoju z dziecka w dorosłego",
       "example": "The adolescent years can be difficult for many people.",
       "example_translation": "Lata nastoletnie mogą być trudne dla wielu osób.",
-      "imageLink": "image_files\\English\\adolescent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "adolescent.jpg",
       "audioLink": "audio_files\\English\\adolescent.mp3"
     },
     {
@@ -1569,7 +1569,7 @@
       "definition_translation": "kości, które tworzą kształt twarzy poniżej oczu",
       "example": "Her cheekbones were high and prominent, giving her a striking appearance.",
       "example_translation": "Jej kości policzkowe były wysokie i wyraziste, dając jej wyrazisty wygląd.",
-      "imageLink": "image_files\\English\\cheekbones.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cheekbones.jpg",
       "audioLink": "audio_files\\English\\cheekbones.mp3"
     },
     {
@@ -1582,7 +1582,7 @@
       "definition_translation": "Naturalny kolor, tekstura i wygląd skóry kogoś.",
       "example": "Her fair complexion made her look like a porcelain doll.",
       "example_translation": "Jej jasna karnacja sprawiała, że wyglądała jak porcelanowa lalka.",
-      "imageLink": "image_files\\English\\complexion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "complexion.jpg",
       "audioLink": "audio_files\\English\\complexion.mp3"
     },
     {
@@ -1595,7 +1595,7 @@
       "definition_translation": "cienka warstwa martwej skóry u podstawy paznokcia lub pazurka",
       "example": "The beautician gently pushed back my cuticles.",
       "example_translation": "Bezperzysta delikatnie cofnęła moje naczynka.",
-      "imageLink": "image_files\\English\\cuticle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle.jpg",
       "audioLink": "audio_files\\English\\cuticle.mp3"
     },
     {
@@ -1608,7 +1608,7 @@
       "definition_translation": "wewnętrzna powierzchnia dłoni od nadgarstka do nasady palców",
       "example": "She placed her palm on the table.",
       "example_translation": "Położyła dłoń na stole.",
-      "imageLink": "image_files\\English\\palm-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "palm-1.jpg",
       "audioLink": "audio_files\\English\\palm.mp3"
     },
     {
@@ -1621,7 +1621,7 @@
       "definition_translation": "czwarty palec dłoni osoby, gdzie zwykle nosi się pierścionek ślubny",
       "example": "She wore her engagement ring on her ring finger.",
       "example_translation": "Ona nosiła pierścionek zaręczynowy na palcu serdecznym.",
-      "imageLink": "image_files\\English\\ring-finger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ring-finger.jpg",
       "audioLink": "audio_files\\English\\ring finger.mp3"
     },
     {
@@ -1634,7 +1634,7 @@
       "definition_translation": "Przednia część nogi poniżej kolana.",
       "example": "She fell and bruised her shin.",
       "example_translation": "Upadła i obtłukała sobie goleń.",
-      "imageLink": "image_files\\English\\shin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shin.jpg",
       "audioLink": "audio_files\\English\\shin.mp3"
     },
     {
@@ -1647,7 +1647,7 @@
       "definition_translation": "rost włosów na bokach twarzy mężczyzny, zwykle rozciągający się od linii włosów do żuchwy",
       "example": "He has a thick pair of sideburns that make him look like a rockstar.",
       "example_translation": "Ma grube boki, które sprawiają, że wygląda jak gwiazda rocka.",
-      "imageLink": "image_files\\English\\sideburns.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sideburns.jpg",
       "audioLink": "audio_files\\English\\sideburns.mp3"
     },
     {
@@ -1660,7 +1660,7 @@
       "definition_translation": "mający kształt punktowy lub ostry; ukształtowany jak szpik",
       "example": "The spiky haircut was very trendy last season.",
       "example_translation": "Strzyżenie kolczaste było bardzo modne w zeszłym sezonie.",
-      "imageLink": "image_files\\English\\spiky.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spiky.jpg",
       "audioLink": "audio_files\\English\\spiky.mp3"
     },
     {
@@ -1673,7 +1673,7 @@
       "definition_translation": "mały wzrost trawy, chwastów itp. pozostawiony na ziemi po żniwach",
       "example": "The farmer had to plough the field to get rid of the stubble.",
       "example_translation": "Rolnik musiał orać pole, aby pozbyć się zarośli.",
-      "imageLink": "image_files\\English\\stubble.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stubble.jpg",
       "audioLink": "audio_files\\English\\stubble.mp3"
     },
     {
@@ -1686,7 +1686,7 @@
       "definition_translation": "małe dziecko, typowo w wieku między jednym a trzema lat, które właśnie uczy się chodzić lub chodzi niepewnie",
       "example": "At the playground, I saw a toddler taking his first steps.",
       "example_translation": "Na placu zabaw, zobaczyłem dziecko w wieku przedszkolnym, które robiło swoje pierwsze kroki.",
-      "imageLink": "image_files\\English\\toddler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toddler.jpg",
       "audioLink": "audio_files\\English\\toddler.mp3"
     },
     {
@@ -1699,7 +1699,7 @@
       "definition_translation": "Brzuch to część ciała między klatką piersiową a biodrami, zawierająca żołądek, jelita i inne narządy.",
       "example": "The doctor examined the patient's abdomen to check for any abnormalities.",
       "example_translation": "Lekarz zbadał brzuch pacjenta, aby sprawdzić, czy nie ma żadnych nieprawidłowości.",
-      "imageLink": "image_files\\English\\abdomen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "abdomen.jpg",
       "audioLink": "audio_files\\English\\abdomen.mp3"
     },
     {
@@ -1712,7 +1712,7 @@
       "definition_translation": "słodki bułeczek, często podawany z herbatą lub kawą",
       "example": "She ate a bun with her coffee.",
       "example_translation": "Zjadła bułkę z kawą.",
-      "imageLink": "image_files\\English\\bun.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bun.jpg",
       "audioLink": "audio_files\\English\\bun.mp3"
     },
     {
@@ -1725,7 +1725,7 @@
       "definition_translation": "palec obok kciuka",
       "example": "She pointed to the picture with her forefinger.",
       "example_translation": "Wskazała na obraz swoim wskazicielem.",
-      "imageLink": "image_files\\English\\forefinger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forefinger.jpg",
       "audioLink": "audio_files\\English\\forefinger.mp3"
     },
     {
@@ -1738,7 +1738,7 @@
       "definition_translation": "mała broda, typowo rozciągająca się od spodniej wargi do brody",
       "example": "He had a well-groomed goatee that made him look quite dignified.",
       "example_translation": "Miał starannie pielęgnowaną brodę, która sprawiała, że wyglądał bardzo poważnie.",
-      "imageLink": "image_files\\English\\goatee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goatee.jpg",
       "audioLink": "audio_files\\English\\goatee.mp3"
     },
     {
@@ -1751,7 +1751,7 @@
       "definition_translation": "trakment chemiczny włosów lub proces, który zmienia kształt włosów",
       "example": "She got a perm to add some curl to her hair.",
       "example_translation": "Ona zastosowała traktment falach, aby dodać krętości swoim włosom.",
-      "imageLink": "image_files\\English\\perm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "perm.jpg",
       "audioLink": "audio_files\\English\\perm.mp3"
     }
   ]

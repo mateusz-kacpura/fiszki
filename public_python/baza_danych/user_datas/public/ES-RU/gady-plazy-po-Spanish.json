@@ -9,7 +9,7 @@
       "definition_translation": "Длинное, тонкое, безногое животное, которое не имеет век или внешних ушей, иmoves на земле, сокращая и расслабляя свои мышцы.",
       "example": "La serpiente se deslizó silenciosamente a través de la hierba. Había entrado en el jardín ayer. Entrará fuera del hoyo mañana.",
       "example_translation": "Змея тихо скользила через траву. Она проскользила в сад вчера. Она будет скользить из дыры завтра.",
-      "imageLink": "snake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snake.jpg",
       "audioLink": "snake.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Маленькое, обычно зеленое, прыгающее земноводное, которое живет в воде и на земле.",
       "example": "El rano saltó al estanque. Había saltado sobre la roca ayer. Saltará fuera del camino mañana.",
       "example_translation": "Жаба прыгнула в пруд. Она перепрыгнула через камень вчера. Она будет прыгать из виду завтра.",
-      "imageLink": "frog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "frog.jpg",
       "audioLink": "frog.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Медленное пресмыкающееся с панцирем, который защищает его тело, Found в теплых климатах.",
       "example": "La tortuga caminó lentamente a través del desierto. Había caminado a través del bosque ayer. Caminará alrededor del lago mañana.",
       "example_translation": "Черепаха медленно шла через пустыню. Она yürüyла через лес вчера. Она будет ходить вокруг озера завтра.",
-      "imageLink": "tortoise.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tortoise.jpg",
       "audioLink": "tortoise.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Медленное пресмыкающееся с панцирем, который защищает его тело, Found в океанах и морях.",
       "example": "La tortuga marina nadó rápidamente a través del océano. Había nadado a través del arrecife de coral ayer. Nadará alrededor de la isla mañana.",
       "example_translation": "Черепаха быстро плавала через океан. Она плавала через коралловый риф вчера. Она будет плавать вокруг острова завтра.",
-      "imageLink": "turtle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turtle.jpg",
       "audioLink": "turtle.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "рептилия, имеющая длинное тело, четыре ноги и хвост, и чаще всего встречается в теплых местах",
       "example": "Vi un lagarto tomando el sol ayer, estará escondido en su madriguera esta noche, y mañana estará arrastrándose por el árbol.",
       "example_translation": "Вчера я видел ящерицу, греющуюся на солнце, сегодня она будет прятаться в своей норе, а завтра будет ползти по дереву.",
-      "imageLink": "lizard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lizard.jpg",
       "audioLink": "lizard.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "твердая внешняя оболочка, защищающая мягкое тело животного, такого как черепаха или улитка",
       "example": "La tortuga se retiró a su concha por protección, el caracol llevará su concha con él mañana, y el cangrejo ermitaño ha vivido en una concha nueva desde la semana pasada.",
       "example_translation": "Черепаха отступила в свою раковину для защиты, улитка будет носить свою раковину с собой завтра, а рак-отшельник жил в новой раковине с прошлой недели.",
-      "imageLink": "shell.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shell.jpg",
       "audioLink": "shell.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "тип ядовитой змеи, у которой на конце хвоста есть звук, похожий на треск, используемый в качестве предупреждения",
       "example": "El senderista oyó la serpiente de cascabel sacudiendo su cola ayer, estará escondido en los arbustos esta noche, y mañana estará deslizándose a través de la hierba.",
       "example_translation": "Турист услышал гремучую змею, треснувшую своим хвостом вчера, сегодня она будет прятаться в кустах, а завтра будет ползти через траву.",
-      "imageLink": "rattlesnake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rattlesnake.jpg",
       "audioLink": "rattlesnake.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "животное, имеющее чешуйчатую кожу,laying яиц и быть холоднокровным, такому как змея, ящерица или черепаха",
       "example": "El exhibidor de reptiles en el zoológico presentaba una serpiente, un lagarto y una tortuga, todos los cuales estarán hibernando durante el invierno, fueron activos en la primavera, y ahora están tomando el sol.",
       "example_translation": "Экспозиция рептилий в зоопарке фtured змея, ящерицу и черепаху, все из которых будут зимовать в это время года, были активными весной, и сейчас греются на солнце.",
-      "imageLink": "reptile.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "reptile.jpg",
       "audioLink": "reptile.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Саламандра - это тип амфибии, который имеет стройное тело, длинный хвост и обычно четыре ноги.",
       "example": "Vi una salamandra arrastrándose en la ribera del río ayer, y ahora está nadando en el agua, pero el próximo año estará viviendo en tierra.",
       "example_translation": "Вчера я видел саламандру ползущей по речному берегу, а теперь она плавает в воде, но в следующем году она будет жить на суше.",
-      "imageLink": "salamander-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "salamander-1.jpg",
       "audioLink": "salamander.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Головастик - это личиночная стадия лягушек и жаб, характеризуется круглым телом и длинным хвостом.",
       "example": "Los renacuajos estaban nadando en el acuario hoy, pero pronto crecerán patas y se convertirán en ranas adultas, y el próximo mes estarán saltando en el jardín.",
       "example_translation": "Головастики плыли в аквариуме сегодня, но скоро они вырастут ноги и станут взрослыми лягушками, а следующем месяце они будут прыгать в саду.",
-      "imageLink": "tadpole.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tadpole.jpg",
       "audioLink": "tadpole.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Жаба - это тип амфибии, который имеет сухую, бугорчатую кожу и обычно короткие ноги.",
       "example": "El sapo estaba sentado en una roca ayer, y ahora está saltando por el jardín, pero el año que viene vivirá en el bosque.",
       "example_translation": "Жаба сидела на камне вчера, а теперь она прыгает через сад, но в следующем году она будет жить в лесу.",
-      "imageLink": "toad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toad.jpg",
       "audioLink": "toad.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Амфибии - это группа животных, которые имеют цикл жизни, который включает cả водные и сухопутные среды.",
       "example": "Los anfibios han estado en la Tierra durante millones de años, y hoy en día todavía viven en estanques, lagos y ríos, pero en el futuro pueden enfrentar la extinción.",
       "example_translation": "Амфибии жили на Земле миллионы лет, и сегодня они еще живут в прудах, озерах и реках, но в будущем они могут столкнуться с вымиранием.",
-      "imageLink": "amphibians.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amphibians.jpg",
       "audioLink": "amphibians.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Бесногий ящерицеподобный рептилий, роющий подземные норы, найденный в Европе и Азии.",
       "example": "En el bosque, vi una culebra ciega excavando su camino a través de la maleza. Habrá excavado una madriguera para mañana. Para la próxima semana, habrá excavado muchas más.",
       "example_translation": "В лесу я видел слепуху, роящуюся через подлесок. К завтрашнему дню оно прорыло бы норы. К следующей неделе оно прорыло бы много больше.",
-      "imageLink": "blindworm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blindworm.jpg",
       "audioLink": "blindworm.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Вид ящерицы, который может менять свой цвет, чтобы слиться с окружающей средой, найденный в Африке, Азии и Европе.",
       "example": "El camaleón cambió su color para igualar la hoja en la que estaba sentado. Cambiará su color de nuevo cuando se mueva al ramo. Para el próximo mes, habrá cambiado su color muchas veces.",
       "example_translation": "Хамелеон изменил свой цвет, чтобы соответствовать листу, на котором он сидел. Оно изменит свой цвет снова, когда оно переедет на ветку. К следующему месяцу оно изменит свой цвет много раз.",
-      "imageLink": "chameleon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chameleon.jpg",
       "audioLink": "chameleon.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Ядовитая змея, найденная в Африке и Азии, reconocida по своему похожему на капюшон лицу.",
       "example": "La cobra levantó su capucha mientras amenazaba a su depredador. Atacará si se siente amenazada de nuevo. Para el próximo año, habrá crecido mucho más.",
       "example_translation": "Кобра подняла свой капюшон, когда угрожала своему хищнику. Оно ударит, если будет чувствовать угрозу снова. К следующему году оно вырастет намного больше.",
-      "imageLink": "cobra.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cobra.jpg",
       "audioLink": "cobra.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Незаразная змея, найденная в Европе и Азии, часто принимаемая за гадюку.",
       "example": "La culebra de hierba se deslizó a través de la hierba alta, buscando su presa. Habrá comido lo suficiente para esta noche. Para el próximo verano, habrá crecido mucho más larga.",
       "example_translation": "Зеленая змея проползла через высокую траву, ища свою добычу. Оно будет наедаться к сегодняшнему вечеру. К следующему лету оно вырастет намного длиннее.",
-      "imageLink": "grass-snake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grass-snake.jpg",
       "audioLink": "grass snake.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Маленькая полуакватическая саламандра, обычно имеющая стройное тело и длинный хвост.",
       "example": "Vi un tritón nadando en el estanque el verano pasado. Nada rápidamente ahora, pero se desacelerará en invierno. Había visto tritones allí antes.",
       "example_translation": "Я видел тритона, плывущего в пруду прошлым летом. Теперь он плывет быстро, но зимой он замедлится. Я видел тритонов там раньше.",
-      "imageLink": "newt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "newt.jpg",
       "audioLink": "newt.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Большая змея, убивающая свою добычу сжатием, встречается в Африке, Азии и Австралии.",
       "example": "Intentaré atrapar una pitón en la jungla la próxima semana. Intenté atrapar una el año pasado, pero escapó rápidamente. Nunca había visto una pitón antes.",
       "example_translation": "Я постараюсь поймать питона в джунглях на следующей неделе. Я пытался поймать одного прошлым годом, но он быстро сбежал. Я никогда не видел питона раньше.",
-      "imageLink": "python.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "python.jpg",
       "audioLink": "python.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Вид саламандры, имеющий желтые или оранжевые пятна на спине, встречается в Северной Америке.",
       "example": "La salamandra manchada vivió en el suelo húmedo cerca del lago. Vivirá allí el próximo verano, pero vivió en el bosque el año pasado. Había visto una salamandra manchada antes.",
       "example_translation": "Пятнистая саламандра жила в влажной почве near озера. Она будет жить там летом, но она жила в лесу прошлым годом. Я видел пятнистую саламандру раньше.",
-      "imageLink": "salamander.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "salamander.jpg",
       "audioLink": "spotted salamander.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Вид лягушки, живущей на деревьях, обычно встречается в теплых и влажных климатах.",
       "example": "La rana arbórea saltó de una rama a otra anoche. Salta rápidamente ahora, pero saltará más lentamente en invierno. Había visto una rana arbórea antes.",
       "example_translation": "Деревенская лягушка прыгала с одной ветки на другую прошлой ночью. Теперь она прыгает быстро, но зимой она прыгнет медленнее. Я видел деревенскую лягушку раньше.",
-      "imageLink": "tree-frog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tree-frog.jpg",
       "audioLink": "tree frog.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "ядовитая змея, обычно встречающаяся в теплых климатах, с треугольной головой и раздвоенным языком.",
       "example": "La víbora se deslizó silenciosamente por la hierba. Morderá a su presa esta noche. Había herido a su víctima ayer.",
       "example_translation": "Гадюка тихонько ползла через траву. Она укусит свою добычу сегодня ночью. Она ударила свою жертву вчера.",
-      "imageLink": "viper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "viper.jpg",
       "audioLink": "viper.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "мифологическое существо, изображенное как змееподобное существо с способностью жить в воде, часто связанное с аквтомифологией.",
       "example": "La leyenda de la serpiente de agua ha sido transmitida a través de generaciones en nuestro pueblo. Se dice que aparecerá en el lago esta noche. Había hipnotizado a los pescadores ayer.",
       "example_translation": "Легенда о водяном змее передавалась из поколения в поколение в нашем селе. Согласно сообщениям, она появится в озере сегодня ночью. Она гипнотизировала рыбаков вчера.",
-      "imageLink": "water-serpent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "water-serpent.jpg",
       "audioLink": "water serpent.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "रंगीन पेंसिलें आर्ट सप्लाई हैं जिनका उपयोग रंग भरने और ड्राइंग के लिए किया जाता है. वे आमतौर पर पिग्मेंट, बाइंडर और अन्य सामग्रियों के मिश्रण से बनाए जाते हैं, और विभिन्न रंगों में उपलब्ध हैं.",
       "example": "Użyłem ołówków kolorowych, aby stworzyć żywy portret mojej rodziny. Użyję ich jutro, aby pokolorować książkę. Ona użyła ołówków kolorowych, aby narysować piękną krajobraz.",
       "example_translation": "मैंने अपने परिवार का एक जीवंत चित्र बनाने के लिए रंगीन पेंसिलें इस्तेमाल की. मैं कल अपनी किताब को रंगने के लिए इन्हें इस्तेमाल करूँगा. उसने एक सुंदर लैंडस्केप ड्रा करने के लिए रंगीन पेंसिलें इस्तेमाल की थीं.",
-      "imageLink": "crayons.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crayons.jpg",
       "audioLink": "coloured pencils.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "पेंसिल एक लेखन साधन है जिसका उपयोग लिखने, ड्राइंग और स्केचिंग के लिए किया जाता है. यह आमतौर पर संकीर्ण, ठोस ग्रेफाइट नाभिक से बना है, जिसके चारों ओर लकड़ी या प्लास्टिक केसिंग होती है.",
       "example": "Zawsze noszę ze sobą ołówek, aby robić notatki. Ona użyła ołówka, aby narysować swój projekt. On będzie używał ołówka, aby napisać swój egzamin jutro.",
       "example_translation": "मैं हमेशा नोट्स लेने के लिए पेंसिल अपने साथ रखता हूँ. उसने अपने डिज़ाइन का स्केच बनाने के लिए पेंसिल इस्तेमाल की थी. वह कल अपना परीक्षा लिखने के लिए पेंसिल इस्तेमाल करेगा.",
-      "imageLink": "pencil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pencil.jpg",
       "audioLink": "pencil.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "ब्रश एक टूल है जिसका उपयोग सतह पर पेंट, स्याही या अन्य पदार्थों को लगाने के लिए किया जाता है. यह आमतौर पर एक हैंडल और एक हेड से बना है, जिसका निर्माण ब्रिसल, बाल या अन्य सामग्रियों से होता है.",
       "example": "Użyłem pędzla, aby namalować swój pokój. Ona użyła pędzla, aby nałożyć klej na swój projekt. On będzie używał pędzla, aby oczyścić swe buty jutro.",
       "example_translation": "मैंने अपने कमरे को पेंट करने के लिए ब्रश इस्तेमाल किया. उसने अपने प्रोजेक्ट पर ग्लू लगाने के लिए ब्रश इस्तेमाल की थी. वह कल अपने जूतों की सफ़ाई के लिए ब्रश इस्तेमाल करेगा.",
-      "imageLink": "brush-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brush-1.jpg",
       "audioLink": "brush.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "रुलर एक सीधी किनारा टूल है जिसका उपयोग मापने, सीधी रेखा खींचने और काटने या ड्राइंग के लिए गाइड के रूप में किया जाता है.",
       "example": "Użyłem linijki, aby zmierzyć długość swego pokoju. Ona użyła linijki, aby narysować prostą linię na swym papierze. On będzie używał linijki, aby przyciąć swój materiał jutro.",
       "example_translation": "मैं अपने कमरे की लंबाई मापने के लिए रुलर इस्तेमाल करता हूँ. उसने अपने पेपर पर सीधी रेखा खींचने के लिए रुलर इस्तेमाल की थी. वह कल अपने कपड़े को काटने के लिए रुलर इस्तेमाल करेगा.",
-      "imageLink": "ruler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ruler.jpg",
       "audioLink": "ruler.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "कागज, कपड़े या अन्य सामग्रियों को काटने के लिए प्रयोग किया जाने वाला एक उपकरण, जिसमें दो ब्लेड होते हैं जो हैंडल से जुड़े होते हैं",
       "example": "Ona użyła nożyczek, aby przyciąć tkaninę. Ona będzie używała nożyczek, aby przyciąć tkaninę. Ona użyła nożyczek, aby przyciąć tkaninę.",
       "example_translation": "उसने कपड़े काटने के लिए कैंची का उपयोग किया. वह कपड़े काटने के लिए कैंची का उपयोग करेगी. उसने कपड़े काटने के लिए कैंची का उपयोग किया था.",
-      "imageLink": "scissors.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scissors.jpg",
       "audioLink": "scissors.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "कुछ खोलने या बंद करने के लिए प्रयोग किया जाने वाला एक छोटा डिस्क या नॉब, ज्यादातर प्लास्टिक या मेटल से बना होता है, विशेष रूप से कपड़े पर",
       "example": "Ona zapięła guzik na swetrze. Ona będzie zapięła guzik na swetrze. Ona zapięła guzik na swetrze.",
       "example_translation": "उसने अपनी शर्ट पर बटन लगाया. वह अपनी शर्ट पर बटन लगाएगी. उसने अपनी शर्ट पर बटन लगाया था.",
-      "imageLink": "button-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "button-1.jpg",
       "audioLink": "button.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "एक छोटा पिन जिसका सिरा चपटा होता है, कागज, नोट या चित्र को एक सतह पर, विशेष रूप से एक बोर्ड या दीवार पर लगाने के लिए प्रयोग किया जाता है",
       "example": "Ona użyła pina do szkiców, aby przywiązać ogłoszenie. Ona będzie używała pina do szkiców, aby przywiązać ogłoszenie. Ona użyła pina do szkiców, aby przywiązać ogłoszenie.",
       "example_translation": "उसने नोटिस लगाने के लिए ड्राइंग पिन का उपयोग किया. वह नोटिस लगाने के लिए ड्राइंग पिन का उपयोग करेगी. उसने नोटिस लगाने के लिए ड्राइング पिन का उपयोग किया था.",
-      "imageLink": "drawing-pin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drawing-pin.jpg",
       "audioLink": "drawing pin.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "लिखने या प्रिंटिंग के लिए प्रयोग किया जाने वाला एक द्रव्य या जेल जैसा पदार्थ, ज्यादातर काला या नीला रंग का होता है",
       "example": "Ona napisała list z czarnym atramentem. Ona będzie pisała list z niebieskim atramentem. Ona napisała list z czerwonym atramentem.",
       "example_translation": "उसने काली स्याही से पत्र लिखा. वह नीली स्याही से पत्र लिखेगी. उसने लाल स्याही से पत्र लिखा था.",
-      "imageLink": "ink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ink.jpg",
       "audioLink": "ink.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "किसी सतह पर उपयोग किया जाने वाला दोहराया डिज़ाइन या दृश्य, विशेष रूप से वस्त्र, वॉलपेपर या अन्य सतहों पर。",
       "example": "Lubię wzór na tej szarawce. Wczoraj kupiłem koszulę z podobnym wzorem. Jutro będę nosił sukienkę z pięknym wzorem.",
       "example_translation": "मुझे इस स्कार्फ पर पैटर्न पसंद है। कल, मैंने एक समान पैटर्न वाला शर्ट खरीदा। कल, मैं एक सुंदर पैटर्न वाला ड्रेस पहनूँगा.",
-      "imageLink": "pattern.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pattern.jpg",
       "audioLink": "pattern.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "एक छोटा, पतला धातु का टुकड़ा, जिसके एक सिरे पर एक 点 है और दूसरे सिरे पर एक सिर है, चीजें साथ में扎ने के लिए उपयोग किया जाता है।",
       "example": "Użyłem szpili, aby naprawić swój ubiór. Ona przypięła ogłoszenie szpilą. Oni będą przypinali medale do mundurów.",
       "example_translation": "मैंने अपनी ड्रेस को ठीक करने के लिए एक पिन का उपयोग किया। उसने नोटिस बोर्ड पर पिन किया। वे अपने वर्दी पर मेडल पिन करेंगे.",
-      "imageLink": "pin-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pin-1.jpg",
       "audioLink": "pin.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "एक छोटा गद्दा या पैड, आम तौर पर एक नरम सामग्री से भरा होता है, पिन्स रखने के लिए उपयोग किया जाता है।",
       "example": "Trzymałam swoją poduszeczkę szpilkową na stole. Ona zrobiła piękną poduszeczkę szpilkową do swojego zestawu szycia. Poduszeczka szpilkowa była pełna szpilek.",
       "example_translation": "मैंने अपना पिन कुशन टेबल पर रखा। उसने अपने सिलाई किट के लिए एक सुंदर पिन कुशन बनाया। पिन कुशन पिन्स से भरा हुआ था।",
-      "imageLink": "pincushion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pincushion.jpg",
       "audioLink": "pincushion.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "एक सख्त, मोटा पेपरबोर्ड, बक्सों, कार्टनों, और अन्य कंटेनर बनाने के लिए उपयोग किया जाता है।",
       "example": "Owinęłam prezent w tekturę. Firma używa tektury do wysyłki. Zrobili model budynku z tektury.",
       "example_translation": "मैंने उपहार को कार्डबोर्ड में लपेटा। कंपनी शिपिंग के लिए कार्डबोर्ड बक्सользовोग करती है। उन्होंने इमारत का कार्डबोर्ड मॉडल बनाया।",
-      "imageLink": "cardboard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cardboard.jpg",
       "audioLink": "cardboard.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "एक नरम, चिपचिपा पृथ्वी सामग्री, जिसका रंग टाइपकली पीला या भूरा होता है, जिसका उपयोग मिट्टी के बर्तन, सिरेमिक और अन्य वस्तुओं को बनाने के लिए किया जाता है।",
       "example": "Artystka pracowała z gliną, aby stworzyć piękny wazon. Miała już wcześniej pracować z gliną, ale to była jej pierwsza próba stworzenia wazonu. Będzie ponownie pracować z gliną, aby stworzyć więcej pięknych dzieł.",
       "example_translation": "कलाकार ने एक सुंदर वास को बनाने के लिए मिट्टी से काम किया। उसने पहले मिट्टी से काम किया था, लेकिन यह उसका पहला वक्त था एक वास को बनाने का। वह फिर से मिट्टी से काम करेगा और अधिक सुंदर टुकड़े बनाएगा।",
-      "imageLink": "clay.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clay.jpg",
       "audioLink": "clay.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "ड्राइंग या रंगीन करने के लिए वैक्स-आधारित स्टिक्स, टाइपकली उज्ज्वल रंगीन होते हैं।",
       "example": "Dzieci były podekscytowane, używając nowych kredtek, aby pokolorować obraz. Miały już wcześniej używać kredtek, ale te były ich ulubionymi kolorami. Będą ponownie używać kredtek, aby stworzyć więcej pięknych dzieł sztuki.",
       "example_translation": "बच्चे अपने नए क्रेयॉन को चित्र को रंगीन करने के लिए उपयोग करने के लिए उत्साहित थे। वे पहले क्रेयॉन का उपयोग कर चुके थे, लेकिन ये उनके पसंदीदा रंग थे। वे फिर से क्रेयॉन का उपयोग करेंगे और अधिक सुंदर कलाकृति बनाएंगे।",
-      "imageLink": "crayons-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crayons-1.jpg",
       "audioLink": "crayons.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "एक प्रकार का अदहेसिव सामग्री जिसका उपयोग सामग्रियों को एक साथ जोड़ने के लिए किया जाता है, जैसे कागज, लकड़ी, या प्लास्टिक।",
       "example": "Użyła kleju, aby przykleić zdjęcie do albumu. Miała już wcześniej używać kleju, ale to był nowy rodzaj kleju. Będzie ponownie używać kleju, aby naprawić złamany zabawek.",
       "example_translation": "उसने एल्बम में फोटो को चिपकाने के लिए ग्लू का उपयोग किया। उसने पहले ग्लू का उपयोग किया था, लेकिन यह एक नई प्रकार का ग्लू था। वह फिर से टूटे हुए खिलौने को ठीक करने के लिए ग्लू का उपयोग करेगी।",
-      "imageLink": "glue-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "glue-1.jpg",
       "audioLink": "glue.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "एक छोटा, नुकीला टूल जिसका उपयोग सिलाई या छेदने के लिए किया जाता है, टाइपकली एक अंत में एक आंख होती है।",
       "example": "Użyła igły, aby zszyć rozdarty materiał. Miała już wcześniej używać igły, ale to był nowy rodzaj igły. Będzie ponownie używać igły, aby naprawić złamany zamek.",
       "example_translation": "उसने फटे हुए फेब्रिक को सिलने के लिए सुई का उपयोग किया। उसने पहले सुई का उपयोग किया था, लेकिन यह एक नई प्रकार की सुई थी। वह फिर से टूटे हुए ज़िप को ठीक करने के लिए सुई का उपयोग करेगी।",
-      "imageLink": "needle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "needle.jpg",
       "audioLink": "needle.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "एक छोटा सा कागज़ का टुकड़ा जिसका उपयोग हाथ और चेहरा साफ करने के लिए किया जाता है, आमतौर पर एक भोजन के दौरान.",
       "example": "Użyłam papierowej chusteczki, aby wytrzeć usta po zjedzeniu sandwicha. Będę używać papierowej chusteczki, aby oczyścić ręce po posiłku. Ona użyła papierowej chusteczki, aby wytrzeć łzy.",
       "example_translation": "मैंने सैंडविच खाने के बाद अपने मुंह पर कागज़ नैपकिन का उपयोग किया. मैं भोजन के बाद अपने हाथ साफ करने के लिए कागज़ नắpकिन का उपयोग करूँगा. उसने अपने आंसू सुखाने के लिए कागज़ नैपकिन का उपयोग किया था.",
-      "imageLink": "paper-napkin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "paper-napkin.jpg",
       "audioLink": "paper napkin.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "एक छोटा पिन जिसका उपयोग कपड़े को जोड़ने के लिए किया जाता है, szczególnie dla dzieci.",
       "example": "Użyła zastępczej szpilki, aby zapiąć pieluchę niemowlęcia. Pielęgniarka będzie używać zastępczej szpilki, aby przyłączyć identyfikacyjny znaczek do nadgarstka pacjenta. On użył zastępczej szpilki, aby naprawić rozdarty koszulę.",
       "example_translation": "उसने बच्चे की डायपर को जोड़ने के लिए सुरक्षा पिन का उपयोग किया. नर्स मरीज़ की कलाई से पहचान टैग को जोड़ने के लिए सुरक्षा पिन का उपयोग करेगी. उसने अपनी फटी हुई शर्ट की मरम्मत के लिए सुरक्षा पिन का उपयोग किया था.",
-      "imageLink": "safety-pin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "safety-pin.jpg",
       "audioLink": "safety pin.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "एक मशीन जिसका उपयोग सिलाई के लिए किया जाता है, आमतौर पर एक ऑटोमैटिक सुई और धागे के साथ.",
       "example": "Nauczyła się używać maszyny do szycia w dzieciństwie. Krawiec będzie używać maszyny do szycia, aby uszyć suknię. Oni już wcześniej używali maszyny do szycia, aby zrobić zasłony.",
       "example_translation": "उसने अपने बचपन में सिलाई मशीन का उपयोग सीखा. दर्जी Dresses की सिलाई के लिए सिलाई मशीन का उपयोग करेगा. वे पर्दे बनाने के लिए सिलाई मशीन का उपयोग कर चुके थे.",
-      "imageLink": "sewing-machine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sewing-machine.jpg",
       "audioLink": "sewing machine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "एक छोटा सा चिपकने वाला लेबल या चित्र, सजावट या पहचान के लिए उपयोग किया जाता है.",
       "example": "Wkleiła naklejkę na swój notes. Dzieci będą używać naklejek, aby z Dekorować swój obraz. On użył naklejki, aby oznaczyć swój bagaż.",
       "example_translation": "उसने अपने नोटबुक पर एक चिपकने वाला लेबल लगाया. बच्चे अपने चित्र को सजाने के लिए चिपकने वाला लेबल का उपयोग करेंगे. उसने अपने सामान को लेबल करने के लिए एक चिपकने वाला लेबल का उपयोग किया था.",
-      "imageLink": "sticker.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sticker.jpg",
       "audioLink": "sticker.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "बांधने या सिलने के लिए उपयोग किए जाने वाला एक रेशमी या धागा",
       "example": "Użyła sznura, aby związać włosy. Wczoraj, ona miała naszykować gitarę. Jutro, ona będzie naszywać korale.",
       "example_translation": "वह अपने बालों को बांधने के लिए एक डोरी का उपयोग करती है. कल, उसने अपने गिटार के तार किया था. कल, वह मोतियों की डोरी करेगी.",
-      "imageLink": "string-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "string-1.jpg",
       "audioLink": "string.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "विद्युत या संदेश भेजने के लिए उपयोग किए जाने वाला एक पतला, लचीला धागा या धातु की पट्टी",
       "example": "Elektryk podłączył druty. Wczoraj, ona miała podłączyć dom. Jutro, oni będą podłączać ogrodzenie.",
       "example_translation": "بिजलीकर्मी ने तारों को जोड़ा. कल, उसने घर को तार दिया था. कल, वे बाड़ को तार करेंगे.",
-      "imageLink": "wire.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wire.jpg",
       "audioLink": "wire.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "विशेष रूप से कपड़े पर खुलने या बंद होने के लिए एक उपकरण",
       "example": "Ona zaczęła swoją kurtkę. Wczoraj, on miała zamknąć torbę. Jutro, oni będą zamykać folder.",
       "example_translation": "उसने अपने जैकेट को जिप कर दिया. कल, उसने बैग को जिप कर दिया था. कल, वे फोल्डर को जिप करेंगे.",
-      "imageLink": "zip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "zip.jpg",
       "audioLink": "zip.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "रंगीन मोम का एक स्टिक, ड्राइंग या रंग करने के लिए उपयोग किया जाता है",
       "example": "Dziecko kolorowało kredkami. Wczoraj, ona miała kolorować obrazek kredkami woskowymi. Jutro, oni będą kolorować papier kredkami.",
       "example_translation": "बच्चे ने क्रेयन से रंग किया. कल, उसने मोम क्रेयन से चित्र को रंगा था. कल, वे कागज को क्रेयन से रंगेंगे.",
-      "imageLink": "wax-crayons.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wax-crayons.jpg",
       "audioLink": "(wax) crayons.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "धागों, सूत्रों या यार्न से बना एक सामग्री, जिसका उपयोग कपड़े, असबाब और अन्य टेक्सटाइल उत्पादों को बनाने के लिए किया जाता है",
       "example": "Wybrała piękną tkaninę na nową suknię. Ona miała wybrać piękną tkaninę na nową suknię. Ona będzie wybierać piękną tkaninę na nową suknię.",
       "example_translation": "वह अपने नए कपड़े के लिए सुंदर कपड़ा चुनती थी। वह अपने नए कपड़े के लिए सुंदर कपड़ा चुनती थी। वह अपने नए कपड़े के लिए सुंदर कपड़ा चुनेगी",
-      "imageLink": "fabric.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fabric.jpg",
       "audioLink": "fabric.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "एक उपकरण जिसका उपयोग सतह पर डिज़ाइन या निशान लगाने के लिए किया जाता है, आम तौर पर रबर या समान सामग्री से बना होता है",
       "example": "Pracownik biurowy używał pieczątki gumowej, aby podpisać dokumenty. Ona miała używać pieczątki gumowej, aby podpisać dokumenty. Ona będzie używać pieczątki gumowej, aby podpisać dokumenty.",
       "example_translation": "कार्यालय कार्यकर्ता ने दस्तावेजों पर हस्ताक्षर करने के लिए एक रबर मोहर का उपयोग किया। उसने दस्तावेजों पर हस्ताक्षर करने के लिए एक रबर मोहर का उपयोग किया था। वह दस्तावेजों पर हस्ताक्षर करने के लिए एक रबर मोहर का उपयोग करेगी",
-      "imageLink": "rubber-stamp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rubber-stamp.jpg",
       "audioLink": "rubber stamp.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "वूल या अन्य फाइबर से बना एक मोटा, घना कपड़ा, जिसका निर्माण मैटिंग, कंडेंसिंग और प्रेसिंग से होता है",
       "example": "Ona nosiła kapelusz wykonany z filcu. Ona miała nosić kapelusz wykonany z filcu. Ona będzie nosić kapelusz wykonany z filcu.",
       "example_translation": "वह एक मोटे कपड़े से बना टोपी पहनती थी। उसने एक मोटे कपड़े से बना टोपी पहनी थी। वह एक मोटे कपड़े से बना टोपी पहनेगी",
-      "imageLink": "felt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "felt.jpg",
       "audioLink": "felt.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "एक हाथ में पकड़े जाने वाला उपकरण जिसका उपयोग वस्तुओं को पकड़ने, मोड़ने या काटने के लिए किया जाता है, आम तौर पर एक जोड़ी जबड़े और एक हैंडल से बना होता है",
       "example": "Mechanik używał kleszczy, aby zatrzec śruba. On miała używać kleszczy, aby zatrzec śruba. On będzie używać kleszczy, aby zatrzec śruba.",
       "example_translation": "मेकैनिक ने बोल्ट को कसने के लिए प्लायर्स का उपयोग किया। उसने बोल्ट को कसने के लिए प्लायर्स का उपयोग किया था। वह बोल्ट को कसने के लिए प्लायर्स का उपयोग करेगा",
-      "imageLink": "pliers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pliers.jpg",
       "audioLink": "pliers.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "एक छोटा डिवाइस जिसका उपयोग कपड़े को बंद करने या खोलने के लिए किया जाता है, आमतौर पर एक छोटे मेटल या प्लास्टिक स्टड से बना होता है जो एक टुकड़े में छेद में से गुजरता है और दूसरे टुकड़े पर संबंधित स्टड से सुरक्षित होता है.",
       "example": "Nacisnąłem guzik, aby zapinać koszulę. Nacisnę guzik, aby zapinać koszulę jutro. Nacisnąłem guzik, aby zapinać koszulę wczoraj.",
       "example_translation": "मैंने अपनी शर्ट को बंद करने के लिए स्टड को दबाया. मैं कल अपनी शर्ट को बंद करने के लिए स्टड को दबाऊंगा. मैंने कल अपनी शर्ट को बंद करने के लिए स्टड को दबाया था.",
-      "imageLink": "press-stud.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "press-stud.jpg",
       "audioLink": "press stud.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "एक तेज, अचानक मुक्का, विशेष रूप से मुट्ठी से, या सामग्री में छेद करने के लिए उपयोग किए जाने वाला उपकरण.",
       "example": "Uderzyłem w ścianę z wściekłości. Ona będzie wpisywać wiadomość na klawiaturze. On miała uderzyć worek, aby ćwiczyć boks.",
       "example_translation": "मैंने गुस्से में दीवार पर मुक्का मारा. वह संदेश टिप्पणी करने के लिए कीबोर्ड पर मुक्का मारेगी. उसने बॉक्सिंग प्रैक्टिस करने के लिए बैग पर मुक्का मारा था.",
-      "imageLink": "punch-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "punch-2.jpg",
       "audioLink": "punch.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "एक लंबा, संकीर्ण फैबरिक या अन्य सामग्री की पट्टी, अलंकरण के लिए या चीजों को बांधने के लिए उपयोग की जाती है.",
       "example": "Uwiązłem wstążkę wokół prezentu. Ona będzie wiązała wstążkę wokół włosów. On uwiązał wstążkę wokół bukietu.",
       "example_translation": "मैंने उपहार के चारो ओर रिबन बांधा. वह अपने बाल के चारो ओर रिबन बांधेगी. उसने बुके के चारो ओर रिबन बांधा था.",
-      "imageLink": "ribbon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ribbon.jpg",
       "audioLink": "ribbon.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "एक डिवाइस या उपकरण जो एक स्थिर अक्ष के चारो ओर घूमता है या स्थानांतरित होता है, विभिन्न कार्यों जैसे पेंटिंग या भारी वस्तुओं को स्थानांतरित करने के लिए उपयोग किया जाता है.",
       "example": "Użyłem walca do pomalowania ściany. Ona będzie używała walca do przesunięcia ciężkiej skrzyni. On użył walca do wyrównania nierównego powierzchni.",
       "example_translation": "मैंने दीवार के लिए पेंट करने के लिए रोलर का उपयोग किया. वह भारी बॉक्स को स्थानांतरित करने के लिए रोलर का उपयोग करेगी. उसने rough सतह को सMOOTH करने के लिए रोलर का उपयोग किया था.",
-      "imageLink": "roller-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "roller-1.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "लकड़ी, धातु, इत्यादि की सतह को चिकना करने या पॉलिश करने के लिए उपयोग किया जाने वाला एक कागज के साथ एक रफ़ सतह",
       "example": "Ona użyła papieru ściernego, aby wygładzić ostre krawędzie stołu drewnianego. Ona będzie używała papieru ściernego, aby wygładzić metalową klamkę. On użył papieru ściernego, aby zeszlifować stary lakier.",
       "example_translation": "उसने लकड़ी की टेबल के कठिन कड़ों को चिकना करने के लिए सैंडपेपर का उपयोग किया। वह धातु के दरवाज़े के हैंडल को पॉलिश करने के लिए सैंडपेपर का उपयोग करेगी। उसने पुराने पेंट को सैंड डाउन करने के लिए सैंडपेपर का उपयोग किया।",
-      "imageLink": "sandpaper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sandpaper.jpg",
       "audioLink": "sandpaper.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "आभूषण के लिए उपयोग किए जाने वाले छोटे चमकदार डिस्क या लोहा, प्लास्टिक, या अन्य सामग्रियों के टुकड़े",
       "example": "Ona przyszyła kostki do swojej sukni na imprezę. Projektant kostiumu użył kostek, aby stworzyć efekt błyskotu na stroju. Sklep z materiałami użytkuje kostki w różnych kształtach i rozmiarach.",
       "example_translation": "उसने पार्टी के लिए अपने ड्रेस पर सिक्विन्स को सिल दिया। कॉस्ट्यूम डिज़ाइनर ने Кост्यüm पर एक चमकदार प्रभाव पैदा करने के लिए सिक्विन्स का उपयोग किया। हस्तकला स्टोर विभिन्न आकार और आकारों में सिक्विन्स बेचता है।",
-      "imageLink": "sequins.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sequins.jpg",
       "audioLink": "sequins.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "एक विशिष्ट डिज़ाइन या आकार को खींचने या पेंट करने के लिए उपयोग किया जाने वाला एक टेम्प्लेट या पैटर्न",
       "example": "Ona użyła szablonu, aby namalować koło. On zaprojektował szablon, aby stworzyć intratny wzór na tkaninie. Artysta użył szablonu, aby stworzyć mural na ścianie.",
       "example_translation": "उसने एक सटीक परिपत्र पेंट करने के लिए एक स्टेंसिल का उपयोग किया। उसने फैब्रिक पर एक जटिल पैटर्न बनाने के लिए एक स्टेंसिल का डिज़ाइन किया। कलाकार ने दीवार पर एक म्यूरल बनाने के लिए एक स्टेंसिल का उपयोग किया।",
-      "imageLink": "stencil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stencil.jpg",
       "audioLink": "stencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "सिलाई या एम्ब्रॉयडरी में especially विशेष रूप से एक फैब्रिक के माध्यम से एक सुई और धागे की एकल पास",
       "example": "Ona wzięła szew, aby naprawić rozdarty szew. On nauczył się szewu prostego w swojej klasie szycia. Krawiec wziął kilka szwów, aby naprawić złamany zapinek.",
       "example_translation": "उसने फटी सीम की मरम्मत के लिए एक सिलाई ली। उसने अपनी सिलाई कक्षा में एक सीधी रेखा सिलाई सीखी। दर्जी ने टूटे हुए ज़िपέρ को ठीक करने के लिए कई सिलाइयां लीं।",
-      "imageLink": "stitch-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stitch-1.jpg",
       "audioLink": "stitch.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "एक प्रकार का हल्का और टूटने वाला फोम जिसका उपयोग कप, प्लेट और पैकेजिंग सामग्री बनाने के लिए किया जाता है。",
       "example": "Firma zaprzestała używania styropianu w swoich opakowaniach, aby zmniejszyć odpad. Styropianowa płyta była zbyt krucha i łatwo się łamała. Do przyszłego roku, kompletnie wyeliminujemy styropian z naszych produktów.",
       "example_translation": "कंपनी ने अपने पैकेजिंग में styrofoam का उपयोग बंद कर दिया है ताकि कचरा कम हो। styrofoam प्लेट बहुत टूटने वाला था और आसानी से टूट गया। अगले साल तक, हम अपने उत्पादों से styrofoam पूरी तरह से हटा देंगे।",
-      "imageLink": "styrofoam.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "styrofoam.jpg",
       "audioLink": "styrofoam.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "सewing करते समय उंगली की रक्षा के लिए उंगली के अंत में पहनने के लिए धातु या प्लास्टिक का एक छोटा कप आकार का कवर。",
       "example": "Ona ostrożnie zszyła guzik, używając paliczka, aby chronić palec. Paliczek był zbyt mały dla jego palca, więc musiał użyć prowizorycznego. Do czasu, gdy skończyła szycie, jej paliczek był już zły.",
       "example_translation": "उसने सावधानीपूर्वक बटन सिल दिया, अपनी उंगली की रक्षा के लिए ठिमला का उपयोग किया। ठिमला उसके लिए बहुत छोटा था, इसलिए उसे अस्थायी ठिमला का उपयोग करना पड़ा। जब उसने सिलाई समाप्त कर ली, तब तक उसका ठिमला खराब हो गया था।",
-      "imageLink": "thimble.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thimble.jpg",
       "audioLink": "thimble.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "सिलाई या बुनाई के लिए उपयोग किए जाने वाले ट्विस्टेड फाइबर की लंबी पतली स्ट्रिंग。",
       "example": "Ona ostrożnie przeciągnęła nić przez igłę, aby zszyć stronę. Nić była zbyt cienka i łatwo się łamała. Do przyszłego miesiąca, importujemy nowe nici dla naszej branży tekstylnej.",
       "example_translation": "उसने सावधानीपूर्वक सुई में धागा डाला ताकि टorn पेज की सिलाई कर सकें। धागा बहुत पतला था और आसानी से टूट गया। अगले महीने तक, हमारे टेक्सटाइल उद्योग के लिए नए धागे आयात कर लेंगे।",
-      "imageLink": "thread.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thread.jpg",
       "audioLink": "thread.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "लकड़ी, धातु या अन्य सामग्रियों की रक्षा और चमकदार स्वरूप देने के लिए उपयोग किया जाने वाला तरल पदार्थ。",
       "example": "Stolarz lakierował stół drewniany, aby go chronić przed wilgocią. Lakier był zbyt lepki i trudny do aplikacji. Do przyszłego roku, rozwinęliśmy nowy lakier, który jest bardziej trwały.",
       "example_translation": "कारपेंटर ने लकड़ी की टेबल की रक्षा के लिए नमी से वर्निश किया। वर्निश बहुत चिपचिपा था और लागू करने में मुश्किल था। अगले साल तक, हमने एक नई वर्निश विकसित कर ली होगी जो अधिक टिकाऊ होगी।",
-      "imageLink": "varnish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "varnish.jpg",
       "audioLink": "varnish.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "विकर में आमतौर पर बाहरी या सजावटी उद्देश्यों के लिए लचीले शाखाओं या रीड्स से बनेurniture या अन्य वस्तुओं का एक प्रकार है.",
       "example": "Ławka w ogrodzie była wykonana z solidnej wikliny i wytrzymała niekorzystne warunki pogody. W przeszłości meble wiklinowe były bardzo popularne w domach letniskowych. Obecnie wiklina jest również stosowana w designie wnętrz, aby stworzyć przytulną atmosferę.",
       "example_translation": "बगीचे की बेंच विकर से बनी थी, और यह कठोर मौसम की स्थितियों का सामना कर रही थी। पिछले समय में, विकर फर्नीचर गर्मियों में घरों में बहुत लोकप्रिय था। आजकल, विकर इन्टरियर डिजाइन में इस्तेमाल किया जा रहा है ताकि एक आरामदायक वातावरण बनाया जा सके।",
-      "imageLink": "wicker.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wicker.jpg",
       "audioLink": "wicker.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "एक्रिलिक पेंट जल्दी सूखने वाला पेंट है जो पानी, पिगमेंट, बाइंडर और अन्य एडिटिव्स के मिश्रण से बनता है, जिसका इस्तेमाल अक्सर कलात्मक और सजावटी उद्देश्यों के लिए किया जाता है।",
       "example": "Użyła farby akrylowej, aby stworzyć żywy mural na szkolnej ścianie. Artystka mieszała farbę akrylową z wodą, aby osiągnąć pożądany efekt tekstury. Do następnego dnia farba akrylowa wyschła całkowicie.",
       "example_translation": "उसने स्कूल की दीवार पर एक जीवंत म्यूरल बनाने के लिए एक्रिलिक पेंट का इस्तेमाल किया। कलाकार ने वांछित टेक्सचर प्राप्त करने के लिए एक्रिलिक पेंट को पानी के साथ मिक्स किया। अगले दिन तक, एक्रिलिक पेंट पूरी तरह से सूख गया था।",
-      "imageLink": "acrylic-paint.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "acrylic-paint.jpg",
       "audioLink": "acrylic paint.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "चिपकाने वाला सीमा एक सजावटी पट्टी या किनारा है जिसे एक एडहेसिव का इस्तेमाल करके सतहों पर लागू किया जा सकता है, अक्सर स्क्रैपबुकिंग, Крафтिंग और अन्य सृजनात्मक परियोजनाओं में इस्तेमाल किया जाता है।",
       "example": "Dodała brzeg samoprzylepny do swojego albumu zdjęć, aby nadać mu osobisty charakter. Brzeg samoprzylepny był łatwy do zastosowania i został usunięty czysto, nie pozostawiając żadnego śladu. Dzięki brzegom samoprzylepnym stworzyła piękny i unikatowy prezent.",
       "example_translation": "उसने अपने फोटो एल्बम में एक चिपकाने वाला सीमा जोड़ा ताकि उसे एक व्यक्तिगत स्पर्श मिल सके। चिपकाने वाला सीमा लागू करना आसान था और बिना किसी अवशेष के साफ हटाया गया। चिपकाने वाले सीमा का इस्तेमाल करके, वह एक सुंदर और अनोखा उपहार बनाने में सक्षम थी।",
-      "imageLink": "adhesive-border.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "adhesive-border.jpg",
       "audioLink": "adhesive border.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "मोती उन छोटे वस्तुओं को कहते हैं जिनमें एक छेद होता है, अक्सर आभूषण, सामान या अन्य सजावटी वस्तुओं के लिए इस्तेमाल किया जाता है।",
       "example": "Nasunęła koraliki na sznurek, aby stworzyć piękny naszyjnik. Koraliki były kolorowe i błyszczące, a当 wędrówce miały miejsce w świetle. W przeszłości koraliki były używane jako forma pieniądza w niektórych kulturach.",
       "example_translation": "उसने एक सुंदर हार बनाने के लिए मोतियों को एक डोरी पर थ्रेड किया। मोती रंगीन और चमकीले थे, और वेجب प्रकाश में आते थे जब वह चलती थी। पिछले समय में, कुछ संस्कृतियों में मोती मुद्रा के रूप में इस्तेमाल किया जाता था।",
-      "imageLink": "beads.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beads.jpg",
       "audioLink": "beads.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "कागज या कार्ड पर tròn कोना बनाने के लिए इस्तेमाल होने वाला एक टूल, आमतौर पर क्राफ्टिंग और DIY परियोजनाओं में इस्तेमाल किया जाता है",
       "example": "Użyłem zaginacza narożnika, aby stworzyć piękny obramowanie na stronie mojego albumu. Wczoraj kupiłem nowy zaginacz narożnika online. Do przyszłego tygodnia opanuję sztukę użycia zaginacza narożnika.",
       "example_translation": "मैंने स्क्रैपबुक पेज पर सुंदर एडज कोना पंच का इस्तेमाल किया. कल, मैंने ऑनलाइन एक नया कोना पंच खरीदा. अगले हफ्ते तक, मैं कोना पंच का इस्तेमाल करने की कला में महारत हासिल कर लूंगा.",
-      "imageLink": "corner-punch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corner-punch.jpg",
       "audioLink": "corner punch.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "एक प्रकार का पतला, नाजुक पेपर जिसका इस्तेमाल अक्सर पार्टियों और विशेष अवसरों के लिए सजावट, जैसे स्ट्रीमर्स और फूल, बनाने के लिए किया जाता है",
       "example": "Owinęłam prezent w papier kredowy, aby nadać mu świąteczny wygląd. Moja siostra lubi robić kwiaty z papieru kredowego. Do końca imprezy sala była wypełniona dekoracjami z papieru kredowego.",
       "example_translation": "मैंने उपहार को त्योहारी रूप देने के लिए क्रेप पेपर में लपेटा था. मेरी बहन क्रेप पेपर से फूल बनाना पसंद करती है. पार्टी के अंत तक, कमरा क्रेप पेपर सजावट से भर गया था.",
-      "imageLink": "crepe-paper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crepe-paper.jpg",
       "audioLink": "crepe paper.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "यार्न या थ्रेड में लूप्स बनाने के लिए एक टूल, आमतौर पर निटिंग या क्रोचेटिंग के लिए इस्तेमाल किया जाता है",
       "example": "Zgubiłem haczyk do haftowania i muszę kupić nowy. Moja babcia nauczyła mnie, jak używać haczyka do haftowania, gdy byłem dzieckiem. Do następnego miesiąca ukończę swój projekt haftowania przy użyciu tego haczyka.",
       "example_translation": "मैंने अपना क्रोचेट हुक खो दिया और एक नया खरीदना पड़ा. मेरी दादी ने मुझे बच्चे के रूप में क्रोचेट हुक का इस्तेमाल करना सिखाया था. अगले महीने तक, मैं इस हुक का इस्तेमाल करके अपनी क्रोचेट परियोजना पूरी कर लूंगा.",
-      "imageLink": "crochet-hook.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crochet-hook.jpg",
       "audioLink": "crochet hook.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "एक प्रकार कीovenry जिसमें x-आकार के सिलाई का इस्तेमाल करके फैबरिक पर पैटर्न बनाया जाता है",
       "example": "Kocham robić haft wysoki w wolnym czasie. Moja ciocia nauczyła mnie, jak robić haft wysoki, gdy byłem nastolatkiem. Do końca roku ukończę swój projekt haftu wysokiego.",
       "example_translation": "मैं अपने свобод समय में क्रॉस सिलाई करना पसंद करता हूँ. मेरी चाची ने मुझे किशोर_when में क्रॉस सिलाई करना सिखाया था. साल के अंत तक, मैं अपनी क्रॉस सिलाई परियोजना पूरी कर लूंगा.",
-      "imageLink": "cross-stitch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cross-stitch.jpg",
       "audioLink": "cross stitch.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "एक तारीख स्टाम्प एक उपकरण है जिसका उपयोग दस्तावेज या पैकेज को प्राप्त, भेजे या संसाधित करने की तारीख標 के लिए किया जाता है。",
       "example": "Urzędnik ostrożnie nałożył stempel daty na kwite, aby upewnić się, że został przetworzony tego samego dnia. Menedżer będzie sprawdzał dokumenty i stempel daty jutro. Do następnego tygodnia cała dostawa będzie opatrzona stemplem daty i będzie gotowa do wysyłki.",
       "example_translation": "क्लर्क ने रसीद पर ध्यान से तारीख स्टाम्प लगाया, सुनिश्चित कर रहा था कि यह उसी दिन संसाधित किया गया था। प्रबंधक कल दस्तावेजों की समीक्षा करेंगे और उनका तारीख स्टाम्प लगाएँगे। अगले हफ्ते तक, पूरी शिपमेंट तारीख स्टाम्प्ड हो जाएगी और डिलीवरी के लिए तैयार हो जाएगी।",
-      "imageLink": "date-stamp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "date-stamp.jpg",
       "audioLink": "date stamp.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "डेकोपाज पेपर एक प्रकार का पेपर है जिसका उपयोग कॉलेज और क्राफ्ट प्रोजेक्ट्स के लिए किया जाता है, जिसमें प्रिंटेड डिजाइन और पैटर्न शामिल हैं।",
       "example": "Wycięła intratne wzory z papieru dekolacyjnego i przykleiła je do vazy. Dzieci będą używać papieru dekolacyjnego, aby stworzyć własne unikatowe kolaże. Do końca semestru ukończymy piękny obraz z papieru dekolacyjnego.",
       "example_translation": "उसने डेकोपाज पेपर से जटिल डिजाइन काटे और उन्हें वаза पर चिपका दिया। बच्चे अपने स्वयं के अनूठे कॉलेज बनाने के लिए डेकोपाज पेपर का उपयोग करेंगे। सेमेस्टर के अंत तक, हमने एक शानदार डेकोपाज पेपर आर्ट पीस तैयार कर लिया होगा।",
-      "imageLink": "decoupage-paper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "decoupage-paper.jpg",
       "audioLink": "decoupage paper.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "कढ़ाई डोरी एक प्रकार की धागा है जिसका उपयोग कढ़ाई और अन्य प्रकार के सुई कार्य के लिए किया जाता है, जिसके नर्म, रेशमी बनावट और चमचमाते रंग हैं।",
       "example": "Ona ostrożnie przeciągnęła przędzę haftową przez igłę i zaczęła haftować intratny wzór. Przędza haftowa była zbyt gruba, więc musiała użyć większej igły. Gdy skończyła, jej przędza haftowa stała się jej znakiem rozpoznawczym.",
       "example_translation": "उसने सावधानी से सुई में कढ़ाई डोरी को धागा दिया और जटिल डिजाइन सिलना शुरू कर दिया। कढ़ाई डोरी बहुत मोटी थी, इसलिए उसे बड़े सुई का उपयोग करना पड़ा। जब वह समाप्त हो गई, तो उसका कढ़ाई डोरी उसका ट्रेडमार्क बन गया था।",
-      "imageLink": "embroidery-floss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embroidery-floss.jpg",
       "audioLink": "embroidery floss.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "कढ़ाई लूप एक圆 फ्रेम है जिसका उपयोग फैबरिक को टाइट रखने के लिए किया जाता है, जिससे कढ़ाई या सिलना आसान हो जाता है।",
       "example": "Umieściła tkaninę w kole hafciarskim i zaczęła haftować intratny wzór. Koło hafciarskie było zbyt małe, więc musiała użyć większego. Na końcu projektu, jej koło hafciarskie stało się jej stałym towarzyszem.",
       "example_translation": "उसने फैबरिक को कढ़ाई लूप में रखा और जटिल डिजाइन सिलना शुरू कर दिया। कढ़ाई लूप बहुत छोटा था, इसलिए उसे बड़े लूप का उपयोग करना पड़ा। परियोजना के अंत तक, उसका कढ़ाई लूप उसका स्थायी साथी बन गया था।",
-      "imageLink": "embroidery-hoop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embroidery-hoop.jpg",
       "audioLink": "embroidery hoop.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "एक फोम ब्रश एक प्रकार का ब्रश है जिसका उपयोग एडहेसिव, पेंट या अन्य सामग्रियों को लगाने के लिए किया जाता है. यह आमतौर पर फोम से बना होता है और इसमें नरम ब्रिसल होते हैं जो तरल की बहुत अधिक मात्रा को吸 और धारण करते हैं.",
       "example": "Użyłem pędzla piankowego do aplikacji kleju na drewnie. Wczoraj, zastosowałem farbę z pędzlem piankowym. Jutro, będę używał pędzla piankowego do lakierowania stołu.",
       "example_translation": "मैंने लकड़ी पर ग्लू लगाने के लिए एक फोम ब्रश का उपयोग किया. कल, मैंने फोम ब्रश से पेंट लगाया. कल, मैं टेबल पर वार्निश लगाने के लिए एक फोम ब्रश का उपयोग करूँगा.",
-      "imageLink": "foam-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "foam-brush.jpg",
       "audioLink": "foam brush.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "एक चिपकने वाला गन एक हाथ से पकड़ने वाला उपकरण है जिसका उपयोग सामग्रियों पर गरम पिघला हुआ चिपकने वाला लगाने के लिए किया जाता है. यह आम तौर पर क्राफ्टिंग, डीआईवाई प्रोजेक्ट्स और वस्तुओं की मरम्मत के लिए उपयोग किया जाता है.",
       "example": "Użyłem pistola do kleju do przyklejenia tkaniny do ramy. Wczoraj, naprawiłem złamaną wazę z pistolem do kleju. Jutro, będę używał pistola do kleju do wykonania kolażu.",
       "example_translation": "मैंने फ्रेम पर फैबरिक लगाने के लिए एक चिपकने वाला गन का उपयोग किया. कल, मैंने टूटे हुए वेसे की मरम्मत के लिए एक चिपकने वाला गन का उपयोग किया. कल, मैं एक कॉलेज machen के लिए एक चिपकने वाला गन का उपयोग करूँगा.",
-      "imageLink": "glue-gun.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "glue-gun.jpg",
       "audioLink": "glue gun.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "एक हुक और आंख एक प्रकार का फास्टनिंग उपकरण है जिसका उपयोग दो हिस्सों को जोड़ने के लिए किया जाता है. यह एक हुक और उसके साथ में आने वाले आंख या लूप से मिलकर बना होता है जो हुक पर फिट होता है.",
       "example": "Użyłem haka i oka do zapięcia zamka. Wczoraj, przykleiłem hak i oko do sukni. Jutro, będę używał haka i oka do naprawy torebki.",
       "example_translation": "मैंने जिपर को जोड़ने के लिए एक हुक और आंख का उपयोग किया. कल, मैंने ड्रेस पर हुक और आंख लगाया. कल, मैं बैग की मरम्मत के लिए एक हुक और आंख का उपयोग करूँगा.",
-      "imageLink": "hook-and-eye.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hook-and-eye.jpg",
       "audioLink": "hook and eye.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "एक स्याही पैड एक छोटा पैड है जिसका उपयोग किसी सतह पर स्याही लगाने के लिए किया जाता है. यह आम तौर पर स्टैम्पिंग, प्रिंटिंग और लिखने के लिए उपयोग किया जाता है.",
       "example": "Zanurzyłem stemple w płytce stempla, aby wydrukować projekt. Wczoraj, użyłem płytki stempla do napisania listu. Jutro, będę uzupełniał płytę stempla do przyszłego użycia.",
       "example_translation": "मैंने डिज़ाइन प्रिंट करने के लिए स्टैम्प को स्याही पैड में डुबाया. कल, मैंने एक पत्र लिखने के लिए स्याही पैड का उपयोग किया. कल, मैं भविष्य के उपयोग के लिए स्याही पैड को रिफिल करूँगा.",
-      "imageLink": "ink-pad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ink-pad.jpg",
       "audioLink": "ink pad.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "वस्त्र में यार्न बुनने के लिए उपयोग किए जाने वाले लंबे, पतले और नुकीले उपकरण.",
       "example": "Ostrożnie wybrała szydy, aby rozpocząć nowy projekt. Wczoraj, użyła ich do robienia szalika. Jutro, użyje ich do zrobienia czapki.",
       "example_translation": "उसने अपने नए प्रोजेक्ट को शुरू करने के लिए सावधानीपूर्वक अपनी बुनाई की सुईयां चुनीं। कल, उसने एक स्कार्फ बुनने के लिए उनका इस्तेमाल किया था। कल, वह एक टोपी बनाने के लिए उनका उपयोग करेगी।",
-      "imageLink": "knitting-needles.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knitting-needles.jpg",
       "audioLink": "knitting needles.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "तीन आयामी मॉडल या मूर्तियां बनाने के लिए उपयोग किया जाने वाला एक सoft, लचीला सामग्री।",
       "example": "Dzieci uwielbiały bawić się modeliną, tworząc swoje własne zwierzęta. Wczoraj, stworzyli ptaka. Dziś, robią kota. Jutro, będą robić psa.",
       "example_translation": "बच्चे अपने स्वयं के जानवर बनाने के लिए मОдेलिंग क्ले के साथ खेलने से प्यार करते थे। कल, वे एक पक्षी बना रहे थे। आज, वे एक बिल्ली बना रहे हैं। कल, वे एक कुत्ता बना रहे होंगे।",
-      "imageLink": "modelling-clay.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "modelling-clay.jpg",
       "audioLink": "modelling clay.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "एक सुई के आंख में धागा गुजारने में मदद करने के लिए उपयोग किया जाने वाला एक छोटा उपकरण。",
       "example": "Użyła pomocnika do nitki, aby zszyć guzik na koszuli. Wczoraj, użyła go do naprawy rozdartej szwy. Jutro, użyje go do wykonania nowej sukni.",
       "example_translation": "उसने अपने शर्ट पर बटन सीवन करने के लिए एक सुई धागा करने वाले का इस्तेमाल किया। कल, उसने एक फटा सीवन ठीक करने के लिए उसका इस्तेमाल किया था। कल, वह एक नई पोशाक बनाने के लिए उसका उपयोग करेगी।",
-      "imageLink": "needle-threader.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "needle-threader.jpg",
       "audioLink": "needle threader.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "दस्तावेज या अन्य सामग्रियों पर संख्या या तिथि लगाने के लिए उपयोग किया जाने वाला एक उपकरण。",
       "example": "Biuro używało stempla numerowego do organizacji swoich plików. Wczoraj, użyli go do oznakowania nowego dokumentu. Dziś, używają go do datowania listu. Jutro, będą używać go do numeracji raportu.",
       "example_translation": "कार्यालय ने अपने फाइल्स के आयोजन के लिए एक नंबरिंग स्टांप का इस्तेमाल किया। कल, वे एक नए दस्तावेज़ को लेबल करने के लिए उसका इस्तेमाल किया था। आज, वे एक पत्र को दिनांक करने के लिए उसका इस्तेमाल कर रहे हैं। कल, वे एक रिपोर्ट को संख्या करने के लिए उसका उपयोग करेंगे।",
-      "imageLink": "numbering-stamp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "numbering-stamp.jpg",
       "audioLink": "numbering stamp.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "एक उपकरण जिसका उपयोग कागज काटने के लिए किया जाता है, जिसमें एक फ्लैट, आयताकार ब्लेड होता है जिसमें एक हैंडल संलग्न होता है।",
       "example": "Użyłem nożyczek do papieru, aby wyciąć intratny wzór. Użyję nożyczek do papieru, aby wyciąć papier jutro. Ona użyła nożyczek do papieru, aby wyciąć papier wczoraj.",
       "example_translation": "मैंने एक कागज काटने वाले डिवाइस का उपयोग करके जटिल डिजाइन काटा। मैं कल कागज काटने के लिए कागज काटने वाले डिवाइस का उपयोग करुँगा। उसने कल कागज काटने वाले डिवाइस का उपयोग करके कागज काटा था।",
-      "imageLink": "paper-cutter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "paper-cutter.jpg",
       "audioLink": "paper cutter.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "एक प्रकार की मॉडलिंग क्ले जिसे मिट्टी, पानी और तेल के मिश्रण से बनाया जाता है, जिसका उपयोग कलात्मक और चिकित्सा उद्देश्यों के लिए किया जाता है।",
       "example": "Dziecko bawiło się plasteliną przez cały dzień. Ona będzie bawić się plasteliną jutro. On bawił się plasteliną wczoraj.",
       "example_translation": "बच्चा पूरे दिन प्लास्टीसिन से खेला। वह कल प्लास्टीसिन से खेलेगी। उसने कल प्लास्टीसिन से खेला था।",
-      "imageLink": "play-dough-plasticine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "play-dough-plasticine.jpg",
       "audioLink": "plasticine.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "पोस्टर, बैनर और अन्य बड़े पैमाने के कला कार्यों पर उपयोग के लिए विशेष रूप से डिज़ाइन किए गए पेंट का प्रकार।",
       "example": "Artysta użył farby plakatowej, aby stworzyć żywą mozaikę. Ona będzie używać farby plakatowej, aby stworzyć baner jutro. On użył farby plakatowej, aby namalować plakat wczoraj.",
       "example_translation": "कलाकार ने एक जीवंत म्यूरल बनाने के लिए पोस्टर पेंट का उपयोग किया। वह कल एक बैनर बनाने के लिए पोस्टर पेंट का उपयोग करेगी। उसने कल एक पोस्टर बनाने के लिए पोस्टर पेंट का उपयोग किया था।",
-      "imageLink": "poster-paint.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "poster-paint.jpg",
       "audioLink": "poster paint.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "एक प्रकार का सजावटी पत्थर या क्रिस्टल, अक्सर आभूषण और कपड़ों में उपयोग किया जाता है।",
       "example": "Sukienka była ozdobiona ryżowcami. Ona będzie nosić naszyjnik z ryżowcem jutro. On nosił broszkę z ryżowcem wczoraj.",
       "example_translation": "ड्रेस राइनस्टोन से सजाया गया था। वह कल एक राइनस्टोन नेकलेस पहनेगी। उसने कल एक राइनस्टोन ब्रोच पहना था।",
-      "imageLink": "rhinestone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rhinestone.jpg",
       "audioLink": "rhinestone.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "चावल के पौधे के पिथ से बना एक पतला, पारदर्शी कागज, शिल्प, लपेटने और अन्य उद्देश्यों के लिए प्रयोग किया जाता है.",
       "example": "Użyłem papieru ryżowego, aby stworzyć piękny lampion. Użyję papieru ryżowego, aby stworzyć świecznik jutro. Stworzyłem kolaż za pomocą papieru ryżowego wczoraj.",
       "example_translation": "मैंने एक सुंदर लालटेन बनाने के लिए चावल का कागज इस्तेमाल किया. मैं एक मोमबत्ती धारक बनाने के लिए चावल का कागज इस्तेमाल करूँगा. मैंने कल चावल के कागज से एक कॉलेज तैयार किया.",
-      "imageLink": "rice-paper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rice-paper.jpg",
       "audioLink": "rice paper.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "हाथ से सिलाई में सबसे बुनियादी सिलाई, कपड़े के माध्यम से सीधी रेखा में सुई लाकर और नीचे लाकर बनाई जाती है.",
       "example": "Użyłem szewu prostego, aby naprawić moją rozdartą koszulę. Ona będzie używać szewu prostego, aby przyszyć guzik. Oni stworzyli piękny haft, używając szewu prostego w zeszłym tygodniu.",
       "example_translation": "मैंने अपनी फटी हुई शर्ट की मरम्मत के लिए चालू सिलाई का इस्तेमाल किया. वह एक बटन सिलने के लिए चालू सिलाई का इस्तेमाल करेगी. उन्होंने पिछले सप्ताह एक सुंदर कढ़ाई चालू सिलाई से तैयार की.",
-      "imageLink": "running-stitch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "running-stitch.jpg",
       "audioLink": "running stitch.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "सिलाई की आपूर्ति जैसे धागे, सुई और कैंची को संग्रहीत और आयोजित करने के लिए प्रयोग किया जाने वाला एक पेटी या मामला.",
       "example": "Trzymam swoją skrzynkę szewską na strychu. Ona będzie otwierać swoją skrzynkę szewską, aby znaleźć nici. Prezentowali jej piękną skrzynkę szewską jako prezent.",
       "example_translation": "मैं अपनी सिलाई पेटी को छत में रखता हूँ. वह अपनी सिलाई पेटी में कुछ धागे ढूँढने के लिए उसे खोलेगी. उन्होंने उसे एक सुंदर सिलाई पेटी उपहार में प्रस्तुत की.",
-      "imageLink": "sewing-box.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sewing-box.jpg",
       "audioLink": "sewing box.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "एक वस्त्र या कपड़े का निर्माण करने के लिए कपड़े के कटाई और सिलाई के लिए एक मार्गदर्शक के रूप में प्रयोग किया जाने वाला एक टेम्पलेट या डिजाइन.",
       "example": "Użyłem wzoru szewskiego, aby stworzyć sukienkę. Ona będzie używać wzoru szewskiego, aby stworzyć bluzkę. Oni zaprojektowali piękny wzór szewski dla sukni ślubnej.",
       "example_translation": "मैंने एक ड्रेस बनाने के लिए एक सिलाई पैटर्न का इस्तेमाल किया. वह एक ब्लाउज़ बनाने के लिए एक सिलाई पैटर्न का इस्तेमाल करेगी. उन्होंने एक शादी के गाउन के लिए एक सुंदर सिलाई पैटर्न डिजाइन किया.",
-      "imageLink": "sewing-pattern.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sewing-pattern.jpg",
       "audioLink": "sewing pattern.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "एक मॉडल जिसका इस्तेमाल टेलर्स द्वारा कपड़े फिट और प्रदर्शित करने के लिए किया जाता है",
       "example": "Manekin krawiecki w sklepowym oknie był ubrany w najnowszą modę. Krawiec użył manekina, aby dopasować klientowi ubranie w zeszłym tygodniu. Krawiec będzie używać manekina, aby zaprezentować nową kolekcję następnym miesiącem.",
       "example_translation": "शॉप विंडो में टेलर का मॉडल नवीनतम फैशन में तैयार था. टेलर ने पिछले हफ्ते ग्राहक के कपड़े फिट करने के लिए मॉडल का इस्तेमाल किया था. टेलर अगले महीने नई कॉलेक्शन प्रदर्शित करने के लिए मॉडल का इस्तेमाल करेगा.",
-      "imageLink": "tailors-dummy-mannequin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tailors-dummy-mannequin.jpg",
       "audioLink": "tailor's dummy.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "लंबाई या दूरी मापने के लिए इस्तेमाल की जाने वाली एक लचीली पट्टी जिसके ऊपर माप की इकाइयाँ अंकित हैं",
       "example": "Cieśla użył miary szczytowej, aby zmierzyć długość deski. Użyję miary szczytowej, aby zmierzyć szerokość pokoju jutro. Ona zmierzyła odległość między dwoma ścianami, używając miary szczytowej w zeszłym roku.",
       "example_translation": "कारपेंटर ने लकड़ी के प्लैंक की लंबाई मापने के लिए टेप माप का इस्तेमाल किया. मैं कल कमरे की चौड़ाई मापने के लिए टेप माप का इस्तेमाल करूँगा. उसने पिछले साल दो दीवारों के बीच की दूरी टेप माप से मापी थी.",
-      "imageLink": "tape-measure.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tape-measure.jpg",
       "audioLink": "tape measure.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "एक نرم,Absent पेपर प्रोडक्ट जिसका इस्तेमाल पैकिंग, साफ़-सफ़ाई और दूसरे उद्देश्यों के लिए किया जाता है",
       "example": "Prezent został zapakowany w kolorowy papier toaletowy. Użyłem papieru toaletowego do czyszczenia okularów. Ona będzie używać papieru toaletowego do wycierania nosa jutro.",
       "example_translation": "उपहार को रंगबिरंगे रुई के कागज़ में लपेटा गया था. मैंने अपने चश्मे साफ़ करने के लिए रुई के कागज़ का इस्तेमाल किया. वह कल अपनी नाक साफ़ करने के लिए रुई के कागज़ का इस्तेमाल करेगी.",
-      "imageLink": "tissue-paper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tissue-paper.jpg",
       "audioLink": "tissue paper.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "एक प्रकार का रंग जिसका निर्माण जल-आधारित समाधान में निलंबित पिगमेंट से होता है",
       "example": "Artysta stworzył piękną akwarelę pejzażu. Użyję akwareli, aby pomalować kwiaty jutro. Ona użyła akwareli, aby stworzyć portret swojej babci w zeszłym roku.",
       "example_translation": "कलाकार ने जल रंग से परिदृश्य का सундार चित्र बनाया था. मैं कल फूलों को जल रंग से रंगूँगा. उसने पिछले साल अपनी दादी का पोर्ट्रेट जल रंग से बनाया था.",
-      "imageLink": "watercolour.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "watercolour.jpg",
       "audioLink": "watercolour.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "लकड़ी की मोहर एक उपकरण है जिसका उपयोग सतह पर डिजाइन या पैटर्न दबाने के लिए किया जाता है, आमतौर पर लकड़ी से बना होता है और हस्तशिल्प और कला परियोजनाओं के लिए उपयोग किया जाता है।",
       "example": "Ona użyła drewnianej stempli, aby stworzyć intratny wzór na ceramicznym naczyniu. Ona będzie używać drewnianej stempli, aby stworzyć piękny wzór na tkaninie. Ona użyła drewnianej stempli, aby stworzyć dekoracyjny brzeg na papierze.",
       "example_translation": "उसने मिट्टी के बर्तन पर एक जटिल डिजाइनを作ाने के लिए लकड़ी की मोहर का उपयोग किया. वह कपड़े पर एक सुंदर पैटर्न बनाने के लिए लकड़ी की मोहर का उपयोग करेगी. उसने कागज पर एक सजावटी सीमा बनाने के लिए लकड़ी की मोहर का उपयोग किया था.",
-      "imageLink": "wooden-stamp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wooden-stamp.jpg",
       "audioLink": "wooden stamp.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "लिखने की ब्रुश一个 उपकरण है जिसका उपयोग सतह पर स्याही या अन्य लेखन सामग्री लगाने के लिए किया जाता है, आमतौर पर प्राकृतिक या संश्लेषण सutex के बना होता है और कालिग्राफी और कलात्मक लेखन के लिए उपयोग किया जाता है।",
       "example": "Artysta użył pędzla pisarskiego, aby stworzyć piękne dzieło kaligraficzne. Ona będzie używać pędzla pisarskiego, aby napisać wiersz na kanwie. On użył pędzla pisarskiego, aby podpisać dokument swoim nazwiskiem.",
       "example_translation": "कलाकार ने एक खूबसूरत कालिग्राफी टुकड़ा बनाने के लिए लिखने की ब्रुश का उपयोग किया. वह कनवास पर एक कविता लिखने के लिए लिखने की ब्रुश का उपयोग करेगी. उसने दस्तावेज पर अपना नाम लिखने के लिए लिखने की ब्रुश का उपयोग किया था.",
-      "imageLink": "writing-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "writing-brush.jpg",
       "audioLink": "writing brush.mp3"
     }
   ]

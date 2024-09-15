@@ -7,7 +7,7 @@
     "definition": "The act of showing or displaying data in a structured format.",
     "example": "Presenting data clearly is crucial for analysis.",
     "example_translation": "Prezentowanie danych w sposób przejrzysty jest kluczowe dla analizy.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -18,7 +18,7 @@
     "definition": "In a way that is brief and to the point.",
     "example": "He explained the results concisely.",
     "example_translation": "Wyjaśnił wyniki stożkowo.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -29,7 +29,7 @@
     "definition": "Visual representations of data or information.",
     "example": "The figures and diagrams helped clarify the report.",
     "example_translation": "Rysunki i diagramy pomogły wyjaśnić raport.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -40,7 +40,7 @@
     "definition": "A written work published in a scholarly journal.",
     "example": "She published an academic article on data analysis.",
     "example_translation": "Opublikowała artykuł naukowy na temat analizy danych.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -51,7 +51,7 @@
     "definition": "Marked with a label or tag.",
     "example": "The axes were clearly labelled.",
     "example_translation": "Oś była wyraźnie oznaczona.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -62,7 +62,7 @@
     "definition": "A circular chart divided into segments, each representing a proportion of the whole.",
     "example": "The pie chart illustrated the market share of each company.",
     "example_translation": "Wykres kołowy przedstawił udział rynkowy każdej firmy.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\pie-chart.mp3"
   },
   {
@@ -73,7 +73,7 @@
     "definition": "Separated into parts or sections.",
     "example": "The data was divided up into several categories.",
     "example_translation": "Dane zostały podzielone na kilka kategorii.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -84,7 +84,7 @@
     "definition": "A guide that explains the symbols or colors used in a chart.",
     "example": "The key was essential for understanding the chart.",
     "example_translation": "Legenda była niezbędna do zrozumienia wykresu.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -95,7 +95,7 @@
     "definition": "A chart that uses bars to represent different quantities.",
     "example": "The bar chart showed the sales figures for the year.",
     "example_translation": "Wykres słupkowy przedstawiał wyniki sprzedaży za rok.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\bar-chart.mp3"
   },
   {
@@ -106,7 +106,7 @@
     "definition": "The quantities or sums of money, numbers, etc.",
     "example": "The amounts were listed in the table.",
     "example_translation": "Kwoty były wymienione w tabeli.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -117,7 +117,7 @@
     "definition": "Narrow bars that are oriented vertically or horizontally on a chart.",
     "example": "The thin vertical bars showed the monthly data.",
     "example_translation": "Cienkie pionowe słupki przedstawiały dane miesięczne.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -128,7 +128,7 @@
     "definition": "Having equal width.",
     "example": "All the bars on the chart had the same width.",
     "example_translation": "Wszystkie słupki na wykresie miały tę samą szerokość.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -139,7 +139,7 @@
     "definition": "Differ in their extent vertically or horizontally.",
     "example": "The bars vary in height to represent different values.",
     "example_translation": "Słupki różnią się wysokością, aby reprezentować różne wartości.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -150,7 +150,7 @@
     "definition": "A type of bar chart that shows the frequency of data within certain intervals.",
     "example": "The histogram displayed the distribution of ages in the sample.",
     "example_translation": "Histogram przedstawiał rozkład wiekowy w próbie.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\histogram.mp3"
   },
   {
@@ -161,7 +161,7 @@
     "definition": "The width of the bars changes to reflect different quantities or categories.",
     "example": "In this histogram, the bar width also varies to indicate different values.",
     "example_translation": "W tym histogramie szerokość słupków również różni się, aby wskazać różne wartości.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -172,7 +172,7 @@
     "definition": "A grid of rows and columns used to organize data.",
     "example": "The table summarized the survey results.",
     "example_translation": "Tabela podsumowywała wyniki ankiety.",
-    "imageLink": "image_files\\English\\table.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "table.jpg",
     "audioLink": "audio_files\\English\\table.mp3"
   },
   {
@@ -183,7 +183,7 @@
     "definition": "A structured arrangement of numbers in rows and columns.",
     "example": "The data was organized in a grid with columns and rows of numbers.",
     "example_translation": "Dane zostały zorganizowane w siatkę z kolumnami i rzędami liczb.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -194,7 +194,7 @@
     "definition": "A cut or section through an object or structure to show its internal features.",
     "example": "The cross-section of the tree showed its age rings.",
     "example_translation": "Przekrój drzewa pokazywał jego pierścienie wiekowe.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\cross-section.mp3"
   },
   {
@@ -205,7 +205,7 @@
     "definition": "The outer layer of a planet, especially the earth.",
     "example": "The earth's crust is made up of different layers.",
     "example_translation": "Skorupa ziemska składa się z różnych warstw.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\crust.mp3"
   },
   {
@@ -216,7 +216,7 @@
     "definition": "Various levels or components that constitute a whole.",
     "example": "The cross-section revealed the different layers that make it up.",
     "example_translation": "Przekrój ujawnił różne warstwy, które go tworzą.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -227,7 +227,7 @@
     "definition": "A tag or descriptor attached to an item to identify or describe it.",
     "example": "Each axis on the graph has a label.",
     "example_translation": "Każda oś na wykresie ma etykietę.",
-    "imageLink": "image_files\\English\\label.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "label.jpg",
     "audioLink": "audio_files\\English\\label.mp3"
   },
   {
@@ -238,7 +238,7 @@
     "definition": "A diagram that depicts the stages of a process.",
     "example": "The flowchart illustrated the steps in the manufacturing process.",
     "example_translation": "Schemat blokowy ilustrował etapy procesu produkcji.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\flowchart.mp3"
   },
   {
@@ -249,7 +249,7 @@
     "definition": "A visual representation of data showing trends or relationships.",
     "example": "The graph presents the sales data over five years.",
     "example_translation": "Wykres przedstawia dane dotyczące sprzedaży na przestrzeni pięciu lat.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -260,7 +260,7 @@
     "definition": "Information connected to a specific topic or subject.",
     "example": "The report included data relating to the company's financial performance.",
     "example_translation": "Raport zawierał dane dotyczące wyników finansowych firmy.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -271,7 +271,7 @@
     "definition": "A subset of a statistical population in which each member has an equal chance of being chosen.",
     "example": "The study used a random sample of 1,000 participants.",
     "example_translation": "Badanie wykorzystało próbę losową 1000 uczestników.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\random-sample.mp3"
   },
   {
@@ -282,7 +282,7 @@
     "definition": "The result obtained by adding several quantities together and then dividing this total by the number of quantities.",
     "example": "The average temperature for July is 25°C.",
     "example_translation": "Średnia temperatura w lipcu wynosi 25°C.",
-    "imageLink": "image_files\\English\\average.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "average.jpg",
     "audioLink": "audio_files\\English\\average.mp3"
   },
   {
@@ -293,7 +293,7 @@
     "definition": "The horizontal axis in a coordinate system.",
     "example": "The x axis shows the months of the year.",
     "example_translation": "Oś X pokazuje miesiące roku.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -304,7 +304,7 @@
     "definition": "The x axis represents specific variables in a chart or graph.",
     "example": "The horizontal axis indicates the time period.",
     "example_translation": "Oś pozioma wskazuje okres czasu.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -315,7 +315,7 @@
     "definition": "The vertical axis in a coordinate system.",
     "example": "The y axis represents the number of sales.",
     "example_translation": "Oś Y reprezentuje liczbę sprzedaży.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -326,7 +326,7 @@
     "definition": "The y axis represents specific variables in a chart or graph.",
     "example": "The vertical axis shows the revenue in dollars.",
     "example_translation": "Oś pionowa wskazuje przychody w dolarach.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -337,7 +337,7 @@
     "definition": "A visual representation that illustrates data trends or relationships.",
     "example": "The graph shows the population growth over the last decade.",
     "example_translation": "Wykres pokazuje wzrost populacji w ciągu ostatniej dekady.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -348,7 +348,7 @@
     "definition": "The quantity or number of something.",
     "example": "The graph displays the amount of rainfall each month.",
     "example_translation": "Wykres przedstawia ilość opadów w każdym miesiącu.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -359,7 +359,7 @@
     "definition": "Based on the data presented in the graph.",
     "example": "From the graph, we can see the trend in sales.",
     "example_translation": "Z wykresu możemy zobaczyć trend w sprzedaży.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -370,7 +370,7 @@
     "definition": "We are able to observe or identify.",
     "example": "We can see a significant increase in the last quarter.",
     "example_translation": "Możemy zobaczyć znaczący wzrost w ostatnim kwartale.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -381,7 +381,7 @@
     "definition": "Attains the highest point or maximum value.",
     "example": "The graph reaches a peak in December.",
     "example_translation": "Wykres osiąga szczyt w grudniu.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -392,7 +392,7 @@
     "definition": "A decrease or reduction in something.",
     "example": "There was a decline in sales last year.",
     "example_translation": "W ubiegłym roku nastąpił spadek sprzedaży.",
-    "imageLink": "image_files\\English\\decline.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "decline.jpg",
     "audioLink": "audio_files\\English\\decline.mp3"
   },
   {
@@ -403,7 +403,7 @@
     "definition": "Can be understood or justified because of a certain reason.",
     "example": "The drop in revenue can be explained by the fact that the market was saturated.",
     "example_translation": "Spadek przychodów można wyjaśnić faktem, że rynek był nasycony.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -414,7 +414,7 @@
     "definition": "A small amount of money given regularly to children by their parents.",
     "example": "She saves a portion of her pocket money every week.",
     "example_translation": "Oszczędza część swojego kieszonkowego każdego tygodnia.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\pocket-money.mp3"
   },
   {
@@ -425,7 +425,7 @@
     "definition": "Created by marking specific points on a graph.",
     "example": "The line graph was drawn by plotting points on the chart.",
     "example_translation": "Wykres liniowy został narysowany przez wykreślenie punktów na wykresie.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -436,7 +436,7 @@
     "definition": "Creating a continuous line connecting neighboring points on a graph.",
     "example": "He completed the graph by drawing a line to join adjacent points.",
     "example_translation": "Ukończył wykres, rysując linię łączącą sąsiadujące punkty.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -447,7 +447,7 @@
     "definition": "The lines on a graph can overlap or meet at different locations.",
     "example": "In complex graphs, the lines can cross or intersect at various points.",
     "example_translation": "W złożonych wykresach linie mogą się przecinać lub przecinać w różnych punktach.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -458,7 +458,7 @@
     "definition": "Lines that are equidistant and do not meet.",
     "example": "The lines on this graph run parallel to one another and never intersect.",
     "example_translation": "Linie na tym wykresie biegną równolegle do siebie i nigdy się nie przecinają.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -469,7 +469,7 @@
     "definition": "A rise in quantity, size, or amount.",
     "example": "There was an increase in demand for the product.",
     "example_translation": "Nastąpił wzrost popytu na produkt.",
-    "imageLink": "image_files\\English\\increase.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "increase.jpg",
     "audioLink": "audio_files\\English\\increase.mp3"
   },
   {
@@ -480,7 +480,7 @@
     "definition": "A reduction in quantity, size, or amount.",
     "example": "The decrease in temperature was noticeable.",
     "example_translation": "Spadek temperatury był zauważalny.",
-    "imageLink": "image_files\\English\\decrease.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "decrease.jpg",
     "audioLink": "audio_files\\English\\decrease.mp3"
   },
   {
@@ -491,7 +491,7 @@
     "definition": "To move upward or increase in amount.",
     "example": "Prices are expected to rise next year.",
     "example_translation": "Ceny mają wzrosnąć w przyszłym roku.",
-    "imageLink": "image_files\\English\\rise.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "rise.jpg",
     "audioLink": "audio_files\\English\\rise.mp3"
   },
   {
@@ -502,7 +502,7 @@
     "definition": "To increase in size, number, or significance.",
     "example": "The company's profits continue to grow.",
     "example_translation": "Zyski firmy nadal rosną.",
-    "imageLink": "image_files\\English\\grow.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "grow.jpg",
     "audioLink": "audio_files\\English\\grow.mp3"
   },
   {
@@ -513,7 +513,7 @@
     "definition": "An increase in size, amount, or degree.",
     "example": "The company has experienced rapid growth over the past year.",
     "example_translation": "Firma doświadczyła szybkiego wzrostu w ciągu ostatniego roku.",
-    "imageLink": "image_files\\English\\growth.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "growth.jpg",
     "audioLink": "audio_files\\English\\growth.mp3"
   },
   {
@@ -524,7 +524,7 @@
     "definition": "A decrease in size, amount, or degree.",
     "example": "There was a significant fall in sales last quarter.",
     "example_translation": "W ostatnim kwartale nastąpił znaczny spadek sprzedaży.",
-    "imageLink": "image_files\\English\\fall.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "fall.jpg",
     "audioLink": "audio_files\\English\\fall.mp3"
   },
   {
@@ -535,7 +535,7 @@
     "definition": "A reduction or decline in level, amount, or value.",
     "example": "The drop in temperature was sudden and unexpected.",
     "example_translation": "Spadek temperatury był nagły i niespodziewany.",
-    "imageLink": "image_files\\English\\drop.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "drop.jpg",
     "audioLink": "audio_files\\English\\drop.mp3"
   },
   {
@@ -546,7 +546,7 @@
     "definition": "A gradual decrease in size, amount, or quality.",
     "example": "The company has seen a steady decline in profits.",
     "example_translation": "Firma odnotowała stały spadek zysków.",
-    "imageLink": "image_files\\English\\decline.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "decline.jpg",
     "audioLink": "audio_files\\English\\decline.mp3"
   },
   {
@@ -557,7 +557,7 @@
     "definition": "Increase to twice the number or amount.",
     "example": "The company's profits doubled in one year.",
     "example_translation": "Zyski firmy podwoiły się w ciągu roku.",
-    "imageLink": "image_files\\English\\double.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "double.jpg",
     "audioLink": "audio_files\\English\\double.mp3"
   },
   {
@@ -568,7 +568,7 @@
     "definition": "Increase very quickly and by a large amount.",
     "example": "Housing prices have soared in the past year.",
     "example_translation": "Ceny mieszkań gwałtownie wzrosły w ciągu ostatniego roku.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\soar.mp3"
   },
   {
@@ -579,7 +579,7 @@
     "definition": "Increase to a very large number.",
     "example": "The bacteria can multiply rapidly under the right conditions.",
     "example_translation": "Bakterie mogą się szybko mnożyć w odpowiednich warunkach.",
-    "imageLink": "image_files\\English\\multiply.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "multiply.jpg",
     "audioLink": "audio_files\\English\\multiply.mp3"
   },
   {
@@ -590,7 +590,7 @@
     "definition": "Increase in value.",
     "example": "The value of the property has appreciated over time.",
     "example_translation": "Wartość nieruchomości wzrosła z czasem.",
-    "imageLink": "image_files\\English\\appreciate.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "appreciate.jpg",
     "audioLink": "audio_files\\English\\appreciate.mp3"
   },
   {
@@ -601,7 +601,7 @@
     "definition": "Increase to greater than a particular number or amount.",
     "example": "Sales have exceeded expectations this quarter.",
     "example_translation": "Sprzedaż przekroczyła oczekiwania w tym kwartale.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\exceed.mp3"
   },
   {
@@ -612,7 +612,7 @@
     "definition": "An increase by a factor or percentage of 10%.",
     "example": "The company's revenue increased by 10% this year.",
     "example_translation": "Przychody firmy wzrosły w tym roku o 10%.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -623,7 +623,7 @@
     "definition": "An increase in the quantity or amount by 15%.",
     "example": "There was an increase of 15% in the number of cars sold.",
     "example_translation": "Nastąpił wzrost liczby sprzedanych samochodów o 15%.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -634,7 +634,7 @@
     "definition": "The act of going or coming in.",
     "example": "Entering the data correctly is crucial for the analysis.",
     "example_translation": "Poprawne wprowadzenie danych jest kluczowe dla analizy.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\entering.mp3"
   },
   {
@@ -645,7 +645,7 @@
     "definition": "During the span of eight years.",
     "example": "The data was collected over an eight-year period.",
     "example_translation": "Dane zbierano w ciągu 8 lat.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -656,7 +656,7 @@
     "definition": "The overall amounts are itemized or specified.",
     "example": "The totals are listed at the end of the report.",
     "example_translation": "Sumy są wymienione na końcu raportu.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -667,7 +667,7 @@
     "definition": "Changed or fluctuated during the time span.",
     "example": "The results varied over the period studied.",
     "example_translation": "Wyniki zmieniały się w badanym okresie.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -678,7 +678,7 @@
     "definition": "The overall amount increased.",
     "example": "The total rose to 5000 units.",
     "example_translation": "Suma wzrosła do 5000 jednostek.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -689,7 +689,7 @@
     "definition": "To have an influence on or cause a change in something.",
     "example": "The weather can affect crop yields.",
     "example_translation": "Pogoda może wpływać na plony.",
-    "imageLink": "image_files\\English\\affect.jpg",
+    "imageLink": "image_files\\English\\"imageLink": "affect.jpg",
     "audioLink": "audio_files\\English\\affect.mp3"
   },
   {
@@ -700,7 +700,7 @@
     "definition": "Next to or adjoining something else.",
     "example": "The adjacent buildings were both damaged in the fire.",
     "example_translation": "Sąsiadujące budynki zostały uszkodzone w pożarze.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\adjacent.mp3"
   },
   {
@@ -711,7 +711,7 @@
     "definition": "To pass or lie across each other.",
     "example": "The two streets intersect at the park.",
     "example_translation": "Dwie ulice przecinają się przy parku.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -722,7 +722,7 @@
     "definition": "To lie parallel to each other with a consistent gap.",
     "example": "The train tracks run alongside each other with an equal interval.",
     "example_translation": "Tory kolejowe przebiegają obok siebie z równym odstępem między nimi.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -733,7 +733,7 @@
     "definition": "Smaller parts or sections of a whole.",
     "example": "The project was divided into several bits to manage it better.",
     "example_translation": "Projekt został podzielony na kilka segmentów, aby lepiej nim zarządzać.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -744,7 +744,7 @@
     "definition": "To chart or map data points on a graph.",
     "example": "The data was recorded by plotting it on a graph.",
     "example_translation": "Dane zostały zapisane przez ich wykreślenie na wykresie.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -755,7 +755,7 @@
     "definition": "The topmost point or maximum level.",
     "example": "The stock market reached its peak last month.",
     "example_translation": "Giełda osiągnęła swój szczyt w zeszłym miesiącu.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -766,7 +766,7 @@
     "definition": "To fall or drop suddenly and dramatically.",
     "example": "The stock prices crashed after the news.",
     "example_translation": "Ceny akcji spadły po wiadomościach.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -777,7 +777,7 @@
     "definition": "To go up or grow in amount or value.",
     "example": "The population has risen significantly over the last decade.",
     "example_translation": "Populacja znacznie wzrosła w ciągu ostatniej dekady.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -788,7 +788,7 @@
     "definition": "The frequency of deaths in a particular population.",
     "example": "The mortality rate decreased due to better healthcare.",
     "example_translation": "Wskaźnik śmiertelności spadł dzięki lepszej opiece zdrowotnej.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": "audio_files\\English\\mortality-rate.mp3"
   },
   {
@@ -799,7 +799,7 @@
     "definition": "To decrease to a level beneath a specified point.",
     "example": "Temperatures fell below freezing last night.",
     "example_translation": "Temperatury spadły poniżej zera wczoraj w nocy.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -810,7 +810,7 @@
     "definition": "To decrease in worth or value.",
     "example": "The currency depreciates when inflation is high.",
     "example_translation": "Waluta traci na wartości, gdy inflacja jest wysoka.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -821,7 +821,7 @@
     "definition": "To decrease to less than half its original amount.",
     "example": "The population of the species has more than halved over the past decade.",
     "example_translation": "Populacja gatunku spadła o ponad połowę w ciągu ostatniej dekady.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -832,7 +832,7 @@
     "definition": "To increase in worth or value.",
     "example": "Real estate values tend to appreciate over time.",
     "example_translation": "Wartości nieruchomości zwykle rosną z czasem.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -843,7 +843,7 @@
     "definition": "To increase quickly and significantly.",
     "example": "The demand for electric cars has soared in recent years.",
     "example_translation": "Popyt na samochody elektryczne gwałtownie wzrósł w ostatnich latach.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -854,7 +854,7 @@
     "definition": "To grow or increase substantially in quantity.",
     "example": "The number of participants has multiplied over the years.",
     "example_translation": "Liczba uczestników znacznie wzrosła na przestrzeni lat.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -865,7 +865,7 @@
     "definition": "To decrease or reduce in amount or value.",
     "example": "The price of oil has fallen recently.",
     "example_translation": "Cena ropy ostatnio spadła.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -876,7 +876,7 @@
     "definition": "To surpass or go beyond a certain level.",
     "example": "The temperature exceeded 30 degrees Celsius.",
     "example_translation": "Temperatura przekroczyła 30 stopni Celsjusza.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -887,7 +887,7 @@
     "definition": "To increase or expand in size, number, or value.",
     "example": "The company's profits went up by 20%.",
     "example_translation": "Zyski firmy wzrosły o 20%.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -898,7 +898,7 @@
     "definition": "To increase to two times the original amount.",
     "example": "The population of the city has doubled in the last decade.",
     "example_translation": "Populacja miasta podwoiła się w ciągu ostatniej dekady.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   },
   {
@@ -909,7 +909,7 @@
     "definition": "To decrease in size, amount, or quality.",
     "example": "The number of job opportunities is declining in rural areas.",
     "example_translation": "Liczba ofert pracy maleje na obszarach wiejskich.",
-    "imageLink": "",
+    "imageLink": "image_files\\English\\"imageLink": "",
     "audioLink": ""
   }
 ]

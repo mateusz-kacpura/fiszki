@@ -9,7 +9,7 @@
       "definition_translation": "una persona que prepara y cocina comida, especialmente como un trabajo o profesión",
       "example": "I cooked dinner for my family last night. I am cooking breakfast now. I will cook lunch tomorrow.",
       "example_translation": "Cociné cenar para mi familia anoche. Estoy cocinando desayuno ahora. Cocinaré almuerzo mañana.",
-      "imageLink": "cook-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cook-1.jpg",
       "audioLink": "cook.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "una persona que está entrenada para brindar atención médica y tratar enfermedades",
       "example": "I went to see a doctor yesterday. My sister is a doctor. She will be a doctor in the future.",
       "example_translation": "Fui a ver a un médico ayer. Mi hermana es médico. Será médico en el futuro.",
-      "imageLink": "doctor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "doctor.jpg",
       "audioLink": "doctor.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "una persona que opera un vehículo, especialmente un coche o camión",
       "example": "I was a driver for Uber last year. My brother is a driver now. He will be a driver in five years.",
       "example_translation": "Fui un conductor para Uber el año pasado. Mi hermano es conductor ahora. Será conductor en cinco años.",
-      "imageLink": "driver.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "driver.jpg",
       "audioLink": "driver.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "una persona que enseña, especialmente en una escuela o universidad",
       "example": "I was a teacher in high school. My sister is a teacher now. She will be a teacher in the future.",
       "example_translation": "Fui un maestro en la escuela secundaria. Mi hermana es maestra ahora. Será maestra en el futuro.",
-      "imageLink": "teacher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "teacher.jpg",
       "audioLink": "teacher.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "una persona que toma pedidos y sirve comida y bebidas en un restaurante",
       "example": "I was a waiter last summer. My brother is a waiter now. He will be a waiter next year.",
       "example_translation": "Fui un mesero el verano pasado. Mi hermano es mesero ahora. Será mesero el próximo año.",
-      "imageLink": "waiter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "waiter.jpg",
       "audioLink": "waiter.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "una persona femenina que toma pedidos y sirve comida y bebidas en un restaurante",
       "example": "I was a waitress last year. My sister is a waitress now. She will be a waitress in five years.",
       "example_translation": "Fui una mesera el año pasado. Mi hermana es mesera ahora. Será mesera en cinco años.",
-      "imageLink": "waitress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "waitress.jpg",
       "audioLink": "waitress.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "una persona que actúa en una obra de teatro, película o programa de televisión",
       "example": "I was an actor in a movie last year. My brother is an actor now. He will be an actor in the future.",
       "example_translation": "Fui un actor en una película el año pasado. Mi hermano es actor ahora. Será actor en el futuro.",
-      "imageLink": "actor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "actor.jpg",
       "audioLink": "actor.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "una persona femenina que actúa en una obra de teatro, película o programa de televisión",
       "example": "I was an actress in a play last year. My sister is an actress now. She will be an actress in five years.",
       "example_translation": "Fui una actriz en una obra de teatro el año pasado. Mi hermana es actriz ahora. Será actriz en cinco años.",
-      "imageLink": "actress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "actress.jpg",
       "audioLink": "actress.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "una persona que crea pinturas, dibujos o esculturas",
       "example": "I was an artist last year. My brother is an artist now. He will be an artist in the future.",
       "example_translation": "Fui un artista el año pasado. Mi hermano es artista ahora. Será artista en el futuro.",
-      "imageLink": "artist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "artist.jpg",
       "audioLink": "artist.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "una persona que trabaja o ha trabajado en negocios, especialmente en una posición de alta nivel",
       "example": "I was a businessman last year. My brother is a businessman now. He will be a businessman in five years.",
       "example_translation": "Fui un hombre de negocios el año pasado. Mi hermano es hombre de negocios ahora. Será hombre de negocios en cinco años.",
-      "imageLink": "businessman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "businessman.jpg",
       "audioLink": "businessman.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "una persona femenina que trabaja o ha trabajado en negocios, especialmente en una posición de alta nivel",
       "example": "I was a businesswoman last year. My sister is a businesswoman now. She will be a businesswoman in the future.",
       "example_translation": "Fui una mujer de negocios el año pasado. Mi hermana es mujer de negocios ahora. Será mujer de negocios en el futuro.",
-      "imageLink": "businesswoman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "businesswoman.jpg",
       "audioLink": "businesswoman.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "una persona que repara y mantiene coches",
       "example": "I was a car mechanic last year. My brother is a car mechanic now. He will be a car mechanic in the future.",
       "example_translation": "Fui un mecánico de coches el año pasado. Mi hermano es mecánico de coches ahora. Será mecánico de coches en el futuro.",
-      "imageLink": "car-mechanic.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "car-mechanic.jpg",
       "audioLink": "car mechanic.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "un cocinero habilidoso que prepara y cocina comida en un restaurante o hotel",
       "example": "I was a chef last year. My brother is a chef now. He will be a chef in five years.",
       "example_translation": "Fui un chef el año pasado. Mi hermano es chef ahora. Será chef en cinco años.",
-      "imageLink": "chef.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chef.jpg",
       "audioLink": "chef.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "una persona que está entrenada en química y trabaja en un laboratorio o industria",
       "example": "I was a chemist last year. My sister is a chemist now. She will be a chemist in the future.",
       "example_translation": "Fui un químico el año pasado. Mi hermana es química ahora. Será química en el futuro.",
-      "imageLink": "chemist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chemist.jpg",
       "audioLink": "chemist.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "una persona que limpia edificios, oficinas o hogares",
       "example": "I was a cleaner last year. My brother is a cleaner now. He will be a cleaner in five years.",
       "example_translation": "Fui una limpiadora el año pasado. Mi hermano es limpiador ahora. Será limpiador en cinco años.",
-      "imageLink": "cleaner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cleaner.jpg",
       "audioLink": "cleaner.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "una persona que realiza bailes, especialmente como una profesión",
       "example": "I was a dancer last year. My sister is a dancer now. She will be a dancer in the future.",
       "example_translation": "Fui un bailarín el año pasado. Mi hermana es bailarina ahora. Será bailarina en el futuro.",
-      "imageLink": "dancer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dancer.jpg",
       "audioLink": "dancer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "una persona que está entrenada para cuidar los dientes de las personas",
       "example": "I was a dentist last year. My brother is a dentist now. He will be a dentist in five years.",
       "example_translation": "Fui un dentista el año pasado. Mi hermano es dentista ahora. Será dentista en cinco años.",
-      "imageLink": "dentist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dentist.jpg",
       "audioLink": "dentist.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "una persona que diseña, construye y mantiene estructuras, máquinas y sistemas",
       "example": "I was an engineer last year. My brother is an engineer now. He will be an engineer in the future.",
       "example_translation": "Fui un ingeniero el año pasado. Mi hermano es ingeniero ahora. Será ingeniero en el futuro.",
-      "imageLink": "engineer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "engineer.jpg",
       "audioLink": "engineer.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "una persona que posee o trabaja en una granja, cultivando cultivos y criando animales",
       "example": "I was a farmer last year. My brother is a farmer now. He will be a farmer in five years.",
       "example_translation": "Fui un agicultor el año pasado. Mi hermano es agricultor ahora. Será agricultor en cinco años.",
-      "imageLink": "farmer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "farmer.jpg",
       "audioLink": "farmer.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "una persona que juega fútbol, especialmente como una profesión",
       "example": "I was a footballer last year. My brother is a footballer now. He will be a footballer in the future.",
       "example_translation": "Fui un futbolista el año pasado. Mi hermano es futbolista ahora. Será futbolista en el futuro.",
-      "imageLink": "footballer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "footballer.jpg",
       "audioLink": "footballer.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "una persona que muestra a turistas alrededor de un lugar o área",
       "example": "I was a guide last year. My sister is a guide now. She will be a guide in five years.",
       "example_translation": "Fui una guía el año pasado. Mi hermana es guía ahora. Será guía en cinco años.",
-      "imageLink": "guide-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guide-1.jpg",
       "audioLink": "guide.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "una persona a cargo de una escuela o departamento",
       "example": "I was a headteacher last year. My brother is a headteacher now. He will be a headteacher in the future.",
       "example_translation": "Fui un director de escuela el año pasado. Mi hermano es director de escuela ahora. Será director de escuela en el futuro.",
-      "imageLink": "headteacher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "headteacher.jpg",
       "audioLink": "headteacher.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "una persona a cargo de una empresa, departamento o equipo",
       "example": "I was a manager last year. My brother is a manager now. He will be a manager in five years.",
       "example_translation": "Fui un gerente el año pasado. Mi hermano es gerente ahora. Será gerente en cinco años.",
-      "imageLink": "manager.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "manager.jpg",
       "audioLink": "manager.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "una persona que repara y mantiene maquinaria, vehículos o equipo",
       "example": "I was a mechanic last year. My brother is a mechanic now. He will be a mechanic in the future.",
       "example_translation": "Fui un mecánico el año pasado. Mi hermano es mecánico ahora. Será mecánico en el futuro.",
-      "imageLink": "mechanic.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mechanic.jpg",
       "audioLink": "mechanic.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "una persona que cuida a personas que están enfermas o lesionadas",
       "example": "I was a nurse last year. My sister is a nurse now. She will be a nurse in five years.",
       "example_translation": "Fui una enfermera el año pasado. Mi hermana es enfermera ahora. Será enfermera en cinco años.",
-      "imageLink": "nurse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nurse.jpg",
       "audioLink": "nurse.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "una persona que pinta cuadros o decoraciones",
       "example": "I was a painter last year. My brother is a painter now. He will be a painter in the future.",
       "example_translation": "Fui un pintor el año pasado. Mi hermano es pintor ahora. Será pintor en el futuro.",
-      "imageLink": "painter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "painter.jpg",
       "audioLink": "painter.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "una persona que toma fotografías, especialmente como una profesión",
       "example": "I was a photographer last year. My sister is a photographer now. She will be a photographer in five years.",
       "example_translation": "Fui un fotógrafo el año pasado. Mi hermana es fotógrafa ahora. Será fotógrafa en cinco años.",
-      "imageLink": "photographer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "photographer.jpg",
       "audioLink": "photographer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "una persona que opera los controles de una aeronave",
       "example": "I was a pilot last year. My brother is a pilot now. He will be a pilot in the future.",
       "example_translation": "Fui un piloto el año pasado. Mi hermano es piloto ahora. Será piloto en el futuro.",
-      "imageLink": "pilot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pilot.jpg",
       "audioLink": "pilot.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "una persona que participa en un deporte o juego",
       "example": "I was a player last year. My brother is a player now. He will be a player in five years.",
       "example_translation": "Fui un jugador el año pasado. Mi hermano es jugador ahora. Será jugador en cinco años.",
-      "imageLink": "player-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "player-2.jpg",
       "audioLink": "player.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "una persona que trabaja en la fuerza policial, especialmente como oficial uniformado",
       "example": "I was a police officer last year. My brother is a police officer now. He will be a police officer in the future.",
       "example_translation": "Fui un oficial de policía el año pasado. Mi hermano es oficial de policía ahora. Será oficial de policía en el futuro.",
-      "imageLink": "police-officer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "police-officer.jpg",
       "audioLink": "police officer.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "un oficial de policía masculino",
       "example": "I was a policeman last year. My brother is a policeman now. He will be a policeman in five years.",
       "example_translation": "Fui un policía el año pasado. Mi hermano es policía ahora. Será policía en cinco años.",
-      "imageLink": "policeman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "policeman.jpg",
       "audioLink": "policeman.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "una oficial de policía femenina",
       "example": "I was a policewoman last year. My sister is a policewoman now. She will be a policewoman in five years.",
       "example_translation": "Fui una policía el año pasado. Mi hermana es policía ahora. Será policía en cinco años.",
-      "imageLink": "policewoman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "policewoman.jpg",
       "audioLink": "policewoman.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "una persona que es responsable de contestar el teléfono y saludar a los visitantes en una oficina o hotel",
       "example": "I was a receptionist last year. My sister is a receptionist now. She will be a receptionist in the future.",
       "example_translation": "Fui una recepcionista el año pasado. Mi hermana es recepcionista ahora. Será recepcionista en el futuro.",
-      "imageLink": "receptionist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "receptionist.jpg",
       "audioLink": "receptionist.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "una persona que ayuda a un vendedor a vender productos o servicios",
       "example": "I was a sales assistant last year. My brother is a sales assistant now. He will be a sales assistant in five years.",
       "example_translation": "Fui un asistente de ventas el año pasado. Mi hermano es asistente de ventas ahora. Será asistente de ventas en cinco años.",
-      "imageLink": "salesshop-assistant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "salesshop-assistant.jpg",
       "audioLink": "sales assistant.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "una persona que vende productos o servicios",
       "example": "I was a salesperson last year. My sister is a salesperson now. She will be a salesperson in the future.",
       "example_translation": "Fui un vendedor el año pasado. Mi hermana es vendedora ahora. Será vendedora en el futuro.",
-      "imageLink": "salesperson.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "salesperson.jpg",
       "audioLink": "salesperson.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "una persona que es empleada para administrar las actividades diarias de una oficina o organización",
       "example": "I was a secretary last year. My brother is a secretary now. He will be a secretary in five years.",
       "example_translation": "Fui una secretaria el año pasado. Mi hermano es secretario ahora. Será secretario en cinco años.",
-      "imageLink": "secretary.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "secretary.jpg",
       "audioLink": "secretary.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "una persona que canta, especialmente como una profesión",
       "example": "I was a singer last year. My sister is a singer now. She will be a singer in the future.",
       "example_translation": "Fui una cantante el año pasado. Mi hermana es cantante ahora. Será cantante en el futuro.",
-      "imageLink": "singer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "singer.jpg",
       "audioLink": "singer.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "una persona que conduce un taxi para ganarse la vida",
       "example": "I was a taxi driver last year. My brother is a taxi driver now. He will be a taxi driver in five years.",
       "example_translation": "Fui un chofer de taxi el año pasado. Mi hermano es chofer de taxi ahora. Será chofer de taxi en cinco años.",
-      "imageLink": "taxi-driver.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "taxi-driver.jpg",
       "audioLink": "taxi driver.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "una persona que muestra a turistas alrededor de un lugar o área",
       "example": "I was a tour guide last year. My sister is a tour guide now. She will be a tour guide in the future.",
       "example_translation": "Fui una guía de turismo el año pasado. Mi hermana es guía de turismo ahora. Será guía de turismo en el futuro.",
-      "imageLink": "tour-guide.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tour-guide.jpg",
       "audioLink": "tour guide.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "una persona que escribe libros, artículos o otras obras escritas",
       "example": "I was a writer last year. My brother is a writer now. He will be a writer in the future.",
       "example_translation": "Fui un escritor el año pasado. Mi hermano es escritor ahora. Será escritor en el futuro.",
-      "imageLink": "writer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "writer.jpg",
       "audioLink": "writer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Una persona que prepara, examina o analiza registros y declaraciones financieras, asegurándose de su precisión y cumplimiento con las leyes y regulaciones.",
       "example": "I worked as an accountant for five years before starting my own business. Now I am an accountant for a large corporation. I will be an accountant for the government in the future.",
       "example_translation": "Trabajé como contable durante cinco años antes de empezar mi propio negocio. Ahora soy contable para una gran corporación. Seré contable para el gobierno en el futuro.",
-      "imageLink": "accountant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "accountant.jpg",
       "audioLink": "accountant.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Una persona que diseña edificios, casas y otras estructuras, teniendo en cuenta la estética, la funcionalidad y la seguridad.",
       "example": "I am studying to be an architect. She was an architect for a prestigious firm. He will design a new stadium as an architect.",
       "example_translation": "Estoy estudiando para ser arquitecto. Ella fue arquitecta para una firma prestigiosa. Él diseñará un nuevo estadio como arquitecto.",
-      "imageLink": "architect.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "architect.jpg",
       "audioLink": "architect.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Una persona, usualmente joven, que se encarga de cuidar a los niños cuando sus padres están ausentes, a menudo por la noche o en la noche.",
       "example": "I babysat for my neighbor's kids last weekend. She is a babysitter for three families. They will need a babysitter for their twin babies.",
       "example_translation": "Cuidé a los niños de mi vecino el fin de semana pasado. Ella es niñera para tres familias. Necesitarán una niñera para sus bebés gemelos.",
-      "imageLink": "babysitter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "babysitter.jpg",
       "audioLink": "babysitter.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Una persona que hornea y vende pan, pasteles y pastas, a menudo en una panadería o tienda.",
       "example": "I am a baker at a local bakery. He was a baker in Paris. She will open her own bakery as a baker.",
       "example_translation": "Soy panadero en una panadería local. Él fue panadero en París. Ella abrirá su propia panadería como panadera.",
-      "imageLink": "baker.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baker.jpg",
       "audioLink": "baker.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Una persona que realiza danza clásica o moderna, a menudo en un entorno teatral, llevando zapatos y ropa especiales.",
       "example": "I take ballet classes. She was a ballet dancer in the New York City Ballet. He will perform as a ballet dancer in Swan Lake.",
       "example_translation": "Tomó clases de ballet. Ella fue bailarina de ballet en el Ballet de la Ciudad de Nueva York. Él actuará como bailarín de ballet en El Lago de los Cisnes.",
-      "imageLink": "ballet-dancer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ballet-dancer.jpg",
       "audioLink": "ballet dancer.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Una persona que corta, estilo y asea el cabello y las barbas de los hombres, a menudo en una barbería.",
       "example": "I go to the barber every week. He was a barber in the army. She will open her own barber shop as a barber.",
       "example_translation": "Voy al barbero cada semana. Él fue barbero en el ejército. Ella abrirá su propia barbería como barbero.",
-      "imageLink": "barber.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "barber.jpg",
       "audioLink": "barber.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Una persona que sirve bebidas y snacks en un bar o pub, a menudo mezclando cócteles y gestionando el área del bar.",
       "example": "I worked as a barman in a hotel. She is a barman in a trendy bar. He will be a barman at a music festival.",
       "example_translation": "Trabajé como barman en un hotel. Ella es barman en un bar trendy. Él será barman en un festival de música.",
-      "imageLink": "barman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "barman.jpg",
       "audioLink": "barman.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Una persona que construye, renueva o repara edificios, carreteras u otras estructuras, a menudo utilizando mano de obra manual y equipo.",
       "example": "I am a builder for a construction company. He was a builder in his own business. They will hire a builder to renovate their house.",
       "example_translation": "Soy constructor para una empresa de construcción. Él fue constructor en su propio negocio. Contratarán a un constructor para renovar su casa.",
-      "imageLink": "builder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "builder.jpg",
       "audioLink": "builder.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Una persona que sacrifica, prepara y vende carne, a menudo en una carnicería o supermercado.",
       "example": "I buy meat from a butcher. He was a butcher in a small town. She will open her own butcher shop as a butcher.",
       "example_translation": "Compro carne de un carnicero. Él fue carnicero en un pueblo pequeño. Ella abrirá su propia carnicería como carnicera.",
-      "imageLink": "butcher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "butcher.jpg",
       "audioLink": "butcher.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Una persona que estudia, desarrolla y aplica los principios de la química, a menudo en un laboratorio o entorno industrial.",
       "example": "I am a chemist in a pharmaceutical company. She was a chemist in a research institute. He will work as a chemist in a chemical plant.",
       "example_translation": "Soy químico en una empresa farmacéutica. Ella fue química en un instituto de investigación. Él trabajará como químico en una planta química.",
-      "imageLink": "chemist-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chemist-1.jpg",
       "audioLink": "chemist.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Una persona que entrena, instruye y guía a atletas o equipos en un deporte o actividad específica, a menudo en un entorno profesional o educativo.",
       "example": "I am a coach for a soccer team. She was a coach in the Olympics. He will be a coach for a basketball team in college.",
       "example_translation": "Soy entrenador para un equipo de fútbol. Ella fue entrenadora en los Juegos Olímpicos. Él será entrenador para un equipo de baloncesto en la universidad.",
-      "imageLink": "coach-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coach-1.jpg",
       "audioLink": "coach.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Una persona que diseña, desarrolla y prueba hardware y software de computadora, a menudo en un entorno de investigación o industria.",
       "example": "I am a computer scientist at a tech firm. She was a computer scientist in a research institute. He will work as a computer scientist in a startup.",
       "example_translation": "Soy científico de la computación en una empresa de tecnología. Ella fue científica de la computación en un instituto de investigación. Él trabajará como científico de la computación en una startup.",
-      "imageLink": "computer-scientist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "computer-scientist.jpg",
       "audioLink": "computer scientist.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Una persona que crea y desarrolla planes, dibujos y especificaciones para edificios, productos o sistemas, a menudo usando habilidades artísticas y técnicas.",
       "example": "I am a designer for a fashion brand. She was a designer in an architecture firm. He will work as a designer for a tech company.",
       "example_translation": "Soy diseñador para una marca de moda. Ella fue diseñadora en una empresa de arquitectura. Él trabajará como diseñador para una empresa de tecnología.",
-      "imageLink": "designer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "designer.jpg",
       "audioLink": "designer.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Una persona que investiga delitos, recopila evidencia y resuelve misterios, a menudo trabajando para un departamento de policía o agencia privada.",
       "example": "I am a detective in the police force. She was a detective in a private agency. He will work as a detective in a TV show.",
       "example_translation": "Soy detective en la fuerza policial. Ella fue detective en una agencia privada. Él trabajará como detective en un programa de TV.",
-      "imageLink": "detective.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "detective.jpg",
       "audioLink": "detective.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Una persona que guía, gestiona y supervisa la producción, creación o operación de una película, obra de teatro, empresa o organización.",
       "example": "I am a director of a film company. She was a director in a theater group. He will be a director of a new TV series.",
       "example_translation": "Soy director de una empresa de cine. Ella fue directora en un grupo de teatro. Él será director de una nueva serie de TV.",
-      "imageLink": "director.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "director.jpg",
       "audioLink": "director.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Una persona que reproduce y mezcla música, a menudo en un nightclub, estación de radio o en una fiesta, utilizando equipo y técnicas especializados.",
       "example": "I am a DJ at a nightclub. She was a DJ on the radio. He will be a DJ at a music festival.",
       "example_translation": "Soy DJ en un nightclub. Ella fue DJ en la radio. Él será DJ en un festival de música.",
-      "imageLink": "disc-jockey-dj.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disc-jockey-dj.jpg",
       "audioLink": "disc jockey, DJ.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Una persona que crea, produce y dirige películas, a menudo trabajando en varios roles como escritor, director y productor.",
       "example": "I am a filmmaker in Hollywood. She was a filmmaker in a film festival. He will be a filmmaker in a new movie.",
       "example_translation": "Soy cineasta en Hollywood. Ella fue cineasta en un festival de cine. Él será cineasta en una nueva película.",
-      "imageLink": "film-maker.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "film-maker.jpg",
       "audioLink": "filmmaker.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Una persona que apaga y previene incendios, a menudo trabajando en un departamento de bomberos o servicios de emergencia.",
       "example": "I am a firefighter in the city. She was a firefighter in a rural area. He will be a firefighter in a big city.",
       "example_translation": "Soy bombero en la ciudad. Ella fue bombera en una zona rural. Él será bombero en una gran ciudad.",
-      "imageLink": "firefighter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "firefighter.jpg",
       "audioLink": "firefighter.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Una persona que vigila, protege y controla el acceso a un lugar, a menudo trabajando en un papel de seguridad o aplicación de la ley.",
       "example": "I am a guard at a museum. She was a guard in a prison. He will be a guard at a concert.",
       "example_translation": "Soy guardia en un museo. Ella fue guardia en una prisión. Él será guardia en un concierto.",
-      "imageLink": "guard-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guard-1.jpg",
       "audioLink": "guard.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Una persona que toca la guitarra, a menudo actuando en una banda, orquesta o como artista solista.",
       "example": "I am a guitarist in a rock band. She was a guitarist in a jazz group. He will be a guitarist in a classical orchestra.",
       "example_translation": "Soy guitarrista en una banda de rock. Ella fue guitarrista en un grupo de jazz. Él será guitarrista en una orquesta clásica.",
-      "imageLink": "guitarist.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guitarist.jpg",
       "audioLink": "guitarist.mp3"
     }
   ]

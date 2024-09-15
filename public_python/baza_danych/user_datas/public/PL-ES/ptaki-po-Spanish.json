@@ -9,7 +9,7 @@
       "definition_translation": "Un animal de sangre caliente con huevos que se caracteriza por la presencia de plumas, pico sin dientes y esqueleto ligero.",
       "example": "Wczoraj widziałem ptaka latającego na niebie. Jutro obejrzę gniazdo ptaka. Ptaki śpiewają pięknie rano.",
       "example_translation": "Vi un pájaro volando en el cielo ayer. Veré un nido de pájaro mañana. Los pájaros cantan hermosamente en la mañana.",
-      "imageLink": "bird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bird.jpg",
       "audioLink": "bird.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un ave doméstica mantenida por sus huevos o carne, especialmente una joven.",
       "example": "Wczoraj zjadłem kanapkę z kurą na lunch. Moja mama ugotuje kurę na obiad dziś wieczorem. Kury biegają wokół farmy rano.",
       "example_translation": "Me comí un sandwich de pollo para almuerzo ayer. Mi mamá cocinará pollo para la cena esta noche. Los pollos corren alrededor de la granja en la mañana.",
-      "imageLink": "chicken.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chicken.jpg",
       "audioLink": "chicken.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un pájaro con pico ancho y romo, patas cortas y pies palmeados, encontrado en ambos agua dulce y salada.",
       "example": "Wczoraj widziałem kaczkę pływającą w jeziorze. Moja przyjaciółka karmi kaczkę w parku jutro. Kaczki krzyczą głośno rano.",
       "example_translation": "Vi un pato nadando en el lago ayer. Mi amigo alimentará a un pato en el parque mañana. Los patos chillan fuerte en la mañana.",
-      "imageLink": "duck.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "duck.jpg",
       "audioLink": "duck.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "un gran ave acuática con cuello largo y plumas, especialmente blanca o de color gris claro",
       "example": "Wczoraj widziałem gęś latającą nad moją głową, krakała głośno, gdy mnie zobaczyła. Dziś płynie w jeziorze, a jutro خواهę jej karmić.",
       "example_translation": "Vi un ganso volando sobre mi cabeza ayer, emitió un fuerte graznido cuando me vio. Hoy está nadando en el lago, y le daré de comer mañana.",
-      "imageLink": "goose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goose.jpg",
       "audioLink": "goose.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "un ave de color brillante, a menudo mantenida como mascota, que puede imitar el habla humana",
       "example": "Moja siostra miała papugę, gdy była dzieckiem, mogła powtarzać jej imię. Teraz jej papuga jest starsza, a wkrótce nauczy się nowych słów. W przyszłości będzie mogła prowadzić z nami rozmowę.",
       "example_translation": "Mi hermana tenía un loro cuando era niña, podía repetir su nombre. Ahora, su loro es mayor, y aprenderá nuevas palabras pronto. En el futuro, podrá tener una conversación con nosotros.",
-      "imageLink": "parrot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parrot.jpg",
       "audioLink": "parrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "un gran ave marina no voladora con plumas negras y blancas, encontrada en el hemisferio sur",
       "example": "W zoo widziałem pingwina pływającego szybko, zanurkował w wodzie, aby złapać rybę. W zeszłym roku pingwin się urodził, a teraz szybko rośnie. W przyszłym miesiącu pingwin będzie mógł pływać samodzielnie.",
       "example_translation": "En el zoológico, vi un pingüino nadando rápidamente, se sumergió en el agua para atrapar un pez. El año pasado, nació un pingüino, y ahora está creciendo rápidamente. El próximo mes, el pingüino podrá nadar solo.",
-      "imageLink": "penguin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "penguin.jpg",
       "audioLink": "penguin.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Una cigüeña es un ave zancuda grande con cuello y piernas largas, típicamente encontrada en humedales y praderas.",
       "example": "Wczoraj widziałem bociana gniazdującego na dachu mojego domu. Dziś latam nad moją głową. Jutro spróbuję zrobić zdjęcie go.",
       "example_translation": "Ayer, vi una cigüeña anidando en el tejado de mi casa. Hoy, está volando sobre mi cabeza. Mañana, trataré de tomar una foto de ella.",
-      "imageLink": "stork.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stork.jpg",
       "audioLink": "stork.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un pavo es un ave doméstica grande originaria de América del Norte, a menudo servida como plato principal en ocasiones especiales.",
       "example": "Mieliśmy smacznego indyka na Dzień Dziękczynienia w zeszłym roku. W tym roku planujemy ugotować większego. W przyszłym roku spróbujemynowego przepisu.",
       "example_translation": "Tuimos un delicioso pavo para la cena de Acción de Gracias el año pasado. Este año, estamos planeando cocinar uno más grande. El año que viene, probaremos una receta diferente.",
-      "imageLink": "turkey-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turkey-2.jpg",
       "audioLink": "turkey.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Una ala es una parte de un avión o cuerpo de un ave que produce sustentación para volar o planear.",
       "example": "Skrzydło samolotu zostało uszkodzone podczas startu. Wczoraj widziałem ptaka rozkładającego skrzydło, aby wysuszyć je. Jutro spróbuję nauczyć się, jak używać klapek samolotu.",
       "example_translation": "La ala del avión se dañó durante el despegue. Ayer, vi un ave extendiendo su ala para secarla. Mañana, trataré de aprender cómo usar los flaps de ala de un avión.",
-      "imageLink": "wing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wing.jpg",
       "audioLink": "wing.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un gran pájaro negro con una llamada fuerte y áspera, encontrado en bosques y campos en muchas partes del mundo.",
       "example": "Kruk siedział na gałęzi drzewa, obserwując farmera pracującego w polu. Wczoraj kruk ukradł mi kanapkę z ławki w parku. W przyszłości będę pewnym, aby przynieść pojemnik odporny na kruki.",
       "example_translation": "El cuervo se sentó en la rama del árbol, observando al granjero trabajar en el campo. Ayer, un cuervo me robó mi sándwich desde la banca del parque. En el futuro, me aseguraré de traer un contenedor a prueba de cuervos.",
-      "imageLink": "crow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crow.jpg",
       "audioLink": "crow.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un pájaro gris-marrón con una llamada característica, conocido por poner sus huevos en los nidos de otros pájaros.",
       "example": "Nawoływanie kukielki odbijało się przez las, znak nadejścia wiosny. W zeszłym roku kukielka złożyła jaja w gnieździe skalnika. W przyszłości będziemy badali unikatowe zwyczaje rozrodcze kukielki.",
       "example_translation": "La llamada del cuco resonó por el bosque, un signo de la llegada de la primavera. El año pasado, un cuco puso sus huevos en un nido de petirrojo. En el futuro, estudiaremos los hábitos de cría únicos del cuco.",
-      "imageLink": "cuckoo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuckoo.jpg",
       "audioLink": "cuckoo.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un gran ave de presa poderosa con una envergadura ancha, encontrada en montañas y otras áreas remotas.",
       "example": "Orzeł szybował przez niebo, jego skrzydła bijąc regularnie. Wczoraj orzeł został zauważony w gniazdzie w pobliskich klifach. W przyszłości będziemy pracowali nad ochroną środowiska orła przed rozwojem ludzkim.",
       "example_translation": "El águila surcó el cielo, sus alas latiendo con steadiness. Ayer, un águila fue vista anidando en los acantilados cercanos. En el futuro, trabajaremos para proteger el hábitat del águila del desarrollo humano.",
-      "imageLink": "eagle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eagle.jpg",
       "audioLink": "eagle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Una cubierta liviana, suave y a menudo blanda en el cuerpo de los pájaros, consistente en una asta central con plumas a ambos lados.",
       "example": "Pióra ptaka zostały zburzone wiatrem. Wczoraj on wygładził swoje pióra, aby wyglądać pięknie. Gdyby byłem ptakiem, kochałbym mieć jaskrawe, kolorowe pióra.",
       "example_translation": "Las plumas del pájaro estaban revueltas por el viento. Ayer, se acicaló las plumas para parecer hermosa. Si fuera un pájaro, me encantaría tener plumas brillantes y coloridas.",
-      "imageLink": "feather.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "feather.jpg",
       "audioLink": "feather.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un ave hembra, especialmente un ave de corral doméstica, criada por sus huevos.",
       "example": "Kura głośno klaśnięła w farmie. Żona farmera zabrała jaja kurze z kurnika. W przyszłości będziemy hodowali więcej kur, aby uzyskać więcej jaj.",
       "example_translation": "La gallina cloqueaba fuerte en el patio de la granja. La esposa del granjero recogió los huevos de la gallina del gallinero. En el futuro, criaremos más gallinas para producir más huevos.",
-      "imageLink": "hen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hen.jpg",
       "audioLink": "hen.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Producir huevos, especialmente como un ave o reptil hembra.",
       "example": "Kurczak będzie składał jaja w gnieździe. Kaczka już złożyła jaja w stawie. W przyszłościindyk będzie składał jaja w farmie.",
       "example_translation": "La gallina pondrá huevos en la caja de anidación. El pato ya ha puesto huevos en el estanque. En el futuro, el pavo pondrá huevos en la granja.",
-      "imageLink": "lay-eggs.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lay-eggs.jpg",
       "audioLink": "lay eggs.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un ave de presa nocturna con cabeza redonda, ojos frontales y penachos audibles, conocida por su vuelo silencioso y su llamado ululante.",
       "example": "Sowa siedziała na gałęzi, obserwując swoją ofiarę mądrymi oczami. Widziała wiele sezonów. Będzie dalej prosperować w lesie przez wiele lat.",
       "example_translation": "La lechuza se posó en una rama, observando su presa con ojos sabios. Había visto muchas temporadas llegar y partir. Continuará prosperando en el bosque durante años por venir.",
-      "imageLink": "owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "owl.jpg",
       "audioLink": "owl.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un ave de cuerpo robusto que se alimenta de semillas, con cabeza pequeña, generalmente de color gris-marrón, encontrar en ciudades y pueblos.",
       "example": "Gołąb pikował okruchy na chodniku. Oswoił się z ludzką obecnością. Będzie dalej prosperować w środowiskach miejskich.",
       "example_translation": "La paloma picoteaba migas en la acera. Había crecido acostumbrada a la presencia humana. Probablemente continuará prosperando en entornos urbanos.",
-      "imageLink": "pigeon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pigeon.jpg",
       "audioLink": "pigeon.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un gran ave marina predominantemente blanca con un grito fuerte y penetrante, a menudo encontrada en áreas costeras.",
       "example": "Mewa unosiła się w powietrzu, jej nawoływanie odbijało się od klifów. Żyła nad oceanem całe życie. Będzie dalej jeździć na wiatrach oceanu przez wiele lat.",
       "example_translation": "La gaviota volaba sobre nuestras cabezas, sus gritos resonaban en las acantilados. Había vivido junto al océano toda su vida. Continuará surcando los vientos del océano durante años por venir.",
-      "imageLink": "seagull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "seagull.jpg",
       "audioLink": "seagull.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un pequeño pájaro, generalmente marrón o gris, con un cuerpo redondeado y un pico corto y puntiagudo, encontrado en una variedad de hábitats, incluyendo jardines y tierras de cultivo.",
       "example": "Wróbel głośno ćwierkał rano, potem uciekł w południe i wrócił do gniazda wieczorem.",
       "example_translation": "El gordo chilló fuerte por la mañana, luego voló en la tarde y regresará a su nido esta noche.",
-      "imageLink": "sparrow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sparrow.jpg",
       "audioLink": "sparrow.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un gran pájaro acuático majestuoso con un cuello largo y plumaje blanco, a menudo encontrado en estanques, lagos y ríos.",
       "example": "Łabędź płynął przez jezioro latem, potem gniazdował zimą i migruje do cieplejszych klimatów następnej wiosny.",
       "example_translation": "El cisne deslizó suavemente sobre el lago en verano, luego anidó en invierno y migrará a climas más cálidos la próxima primavera.",
-      "imageLink": "swan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swan.jpg",
       "audioLink": "swan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "La parte bucal dura y puntiaguda de un pájaro, utilizada para comer, agarrar y otras funciones.",
       "example": "Papuga użyła swojego dzioba, aby rozbić orzech, a potem użyła go, aby wykłuć drewno, i będzie go używać, aby nakarmić swoje młode jutro.",
       "example_translation": "El loro utilizó su pico para abrir la nuez, luego lo utilizó para picar la madera y lo utilizará para alimentar a sus crías mañana.",
-      "imageLink": "beak.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beak.jpg",
       "audioLink": "beak.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Una paloma es un tipo de ave que a menudo se asocia con la paz y el amor. Es un símbolo de esperanza y nuevos comienzos.",
       "example": "Gołąb leciał łagodnie przez niebo. Latal wczoraj, lata dziś i będzie latał jutro.",
       "example_translation": "La paloma voló suavemente a través del cielo. Voló ayer, vuela hoy y volará mañana.",
-      "imageLink": "dove.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dove.jpg",
       "audioLink": "dove.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un depredador es un animal que caza y mata a otros animales para comer. Es una parte natural del ecosistema y es necesaria para la supervivencia de many especies.",
       "example": "Lew był drapieżnikiem na sawannie. Polował wczoraj, poluje dziś i będzie polował jutro.",
       "example_translation": "El león era un depredador en la sabana. Cazó ayer, caza hoy y cazaría mañana.",
-      "imageLink": "predator.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "predator.jpg",
       "audioLink": "predator.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un halcón es un tipo de ave de presa que se conoce por su aguda vista y agilidad. Es un símbolo de fuerza y coraje.",
       "example": "Jastrząb unosząc się w powietrze. Unosił się wczoraj, unosząc się dziś i będzie się uniósł jutro.",
       "example_translation": "El halcón surcó el cielo. Surcó ayer, surca hoy y surcará mañana.",
-      "imageLink": "hawk.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hawk.jpg",
       "audioLink": "hawk.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un pequeño pájaro cantor que se encuentra comúnmente en el campo abierto, normalmente con un dorso y alas marrones, y un canto melodioso.",
       "example": "Skowronek śpiewał słodko rano. Wczoraj skowronek śpiewał ładnie. Jutro skowronek będzie śpiewał pięknie.",
       "example_translation": "La alondra cantó dulcemente por la mañana. Ayer, la alondra había cantado con gracia. Mañana, la alondra cantará hermosamente.",
-      "imageLink": "lark.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lark.jpg",
       "audioLink": "lark.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un gran pájaro negro y blanco con una llamativa llamada chillona, encontrado en jardines y campos agrícolas.",
       "example": "Szpak machał skrzydłami. Wczoraj szpak ukraść jedzenie z ogrodu. Jutro szpak zbuduje swoje gniazdo.",
       "example_translation": "La urraca aleteó sus alas. Ayer, la urraca había robado comida del jardín. Mañana, la urraca construirá su nido.",
-      "imageLink": "magpie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "magpie.jpg",
       "audioLink": "magpie.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Una estructura construida por pájaros o insectos para poner sus huevos o albergar a sus crías.",
       "example": "Ptak zbudował swoje gniazdo ostrożnie. Królik zbudował swoje gniazdo w krzakach. Pszczoły zbudują swoje gniazdo w drzewie.",
       "example_translation": "El pájaro construyó su nido con cuidado. El conejo había hecho su nido en el arbusto. Las abejas harán su nido en el árbol.",
-      "imageLink": "nest-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nest-1.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una estructura construida por aves o insectos para colocar sus huevos o alojar a sus crías, típicamente hecha de ramas, hierba o material vegetal.",
       "example": "Ptak zbudował gniazdo w drzewie, a w zeszłym roku gniazdował w ogrodzie. Teraz gniazdował w parku, a będzie gniazdował za wiosną.",
       "example_translation": "El pájaro construyó un nido en el árbol, y el año pasado anidó en el jardín. Ahora está anidando de nuevo en el parque, y habrá anidado para la próxima primavera.",
-      "imageLink": "nest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nest.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Las plumas que cubren a un ave, especialmente cuando son de colores brillantes o ornamentales.",
       "example": "Upierzenie pawia jest oszałamiające, a będzie je pokazywał, aby przyciągnąć partnerkę. W zeszłym roku stracił część swego upierzenia, ale teraz odzyskał swoje pełne upierzenie.",
       "example_translation": "El plumaje del pavo real es impresionante, y exhibirá su plumaje para atraer a una pareja. El año pasado, había perdido algunas de sus plumas, pero ahora ha recobrado todo su plumaje.",
-      "imageLink": "plumage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "plumage.jpg",
       "audioLink": "plumage.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un gran pájaro negro con un canto distintivo, encontrado en el hemisferio norte.",
       "example": "Kruk usiadł na wieży kościoła, a będzie miał kruków gniazdujących w lasach. W zeszłym roku kruk został zauważony, lecąc nad głowami, a teraz patrzy na nas swoimi przenikliwymi oczami.",
       "example_translation": "El cuervo se posó en la torre de la iglesia, y tendrá cuervos anidando en los bosques cercanos. El año pasado, se vio un cuervo volando sobre nuestras cabezas, y ahora nos está observando con sus ojos penetrantes.",
-      "imageLink": "raven.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "raven.jpg",
       "audioLink": "raven.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un gran ave marina, especialmente una que es un símbolo de buena suerte o una carga.",
       "example": "Albatros unosł się nad naszymi głowami, jego ogromne skrzydła bijąc stale. Wczoraj zobaczyłem albatrosa siedzącego na klifie. Jeśli zobaczę albatrosa jutro, będę szczęśliwy.",
       "example_translation": "El albatros voló sobre nuestras cabezas, sus alas masivas batían con regularidad. Ayer, vi un albatros sentado en un acantilado. Si veo un albatros mañana, me emocionaré.",
-      "imageLink": "albatross.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "albatross.jpg",
       "audioLink": "albatross.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un ave de colores brillantes que atrapa y come abejas y otros insectos en vuelo.",
       "example": "Żółtodziób przemknął przez powietrze, jego ostry dziób zamykając się wokół buczącej pszczoły. Żółtodzioby są znane ze swojej zwinności w locie. Do przyszłego lata zobaczę żółtodzioba w jego naturalnym środowisku.",
       "example_translation": "El abejaruco se lanzó por el aire, su pico afilado cerrándose alrededor de una abeja zumbadora. Los abejarucos son conocidos por su agilidad en vuelo. Para el próximo verano, habré visto un abejaruco en su hábitat natural.",
-      "imageLink": "bee-eater.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bee-eater.jpg",
       "audioLink": "bee eater.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un ave grande y de color oscuro con una exhibición de cortejo distintiva, encontrada en páramos y brezales.",
       "example": "Czarny gluszec paradował przez wrzosowisko, jego czarne pióra błyszcząc w świetle słonecznym. Czarni gluszcowie są znani ze swoich dramatycznych demonstracji zalotów. W przyszłej wiosny pójdę na wycieczkę, aby zobaczyć czarnego gluszca.",
       "example_translation": "El urogallo negro caminó por el páramo, sus plumas negras reluciendo en la luz del sol. Los urogallos negros son conocidos por sus exhibiciones de cortejo dramáticas. La próxima primavera, iré de excursion para avistar un urogallo negro.",
-      "imageLink": "black-grouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black-grouse.jpg",
       "audioLink": "black grouse.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "un ave zancuda grande con plumaje negro, originaria de África y sur de Europa, conocida por su llamado característico y hábitos de alimentación",
       "example": "Czarny bocian widziano, gdy leciał nad mokradłami, jego długie nogi rozciągnięte za nim. Od lat gniazdował tam, a lokalni mieszkańcy byli do niego przywiązani. Do przyszłej wiosny ponownie wyruszy do Afryki.",
       "example_translation": "La cigüeña negra fue vista volando sobre los humedales, con sus largas patas extendidas detrás de ella. Había estado anidando allí durante años, y los lugareños se habían encariñado con ella. Para la próxima primavera, habrá migrado a África.",
-      "imageLink": "black-stork.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black-stork.jpg",
       "audioLink": "black stork.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "una gaviota de tamaño medio con cabeza negra característica y cuerpo blanco, encontrada en áreas costeras de Europa y Asia",
       "example": "Czarnogłowa mewa zakradała się do ludzi na plaży, jej ostre oczy szukające okruchów na piasku. Będzie to robić do końca lata. W przyszłym roku wróci z swoją stadą.",
       "example_translation": "La gaviota de cabeza negra se lanzaba en picado para robar comida a los bañistas, sus ojos agudos escudriñando la arena en busca de restos. Continuará haciéndolo hasta que termine el verano. El próximo año, regresará con su bandada.",
-      "imageLink": "black-headed-gull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black-headed-gull.jpg",
       "audioLink": "black-headed gull.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "un pájaro cantor común con plumaje negro brillante, encontrado en jardines y bosques de Europa y Norteamérica",
       "example": "Kos siedział na ogrodowej balustradzie, śpiewający swój melodijny śpiew. W zeszłej wiosnie zbudował tam gniazdo, a teraz jego pisklęta uczyły się latać. Do przyszłej jesieni wyjedzie do cieplejszego klimatu.",
       "example_translation": "El mirlo se posó en la valla del jardín, cantando su canción melodiosa. Había construido un nido allí la primavera pasada, y ahora sus polluelos estaban aprendiendo a volar. Para el próximo otoño, habrá migrado a un clima más cálido.",
-      "imageLink": "blackbird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blackbird.jpg",
       "audioLink": "blackbird.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "El carbonero azul es un pequeño pájaro paserino de la familia Paridae. Es un pájaro común y extendido en bosques, jardines y parques, y es conocido por su plumaje azul y amarillo brillante.",
       "example": "Sikora modulacja siedziała na gałęzi, głośno ćwierkając. Siedziała na gałęzi, głośno ćwierka, i będzie siedzieć na gałęzi ponownie w przyszłości.",
       "example_translation": "El carbonero azul estaba posado en una rama, chillando fuerte. Se posa en ramas, chillona fuerte, y se posará en ramas de nuevo en el futuro.",
-      "imageLink": "blue-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blue-tit.jpg",
       "audioLink": "blue tit.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "El ampelis bohemio es un pájaro paserino que se reproduce en las partes más septentrionales de Europa, Asia y América del Norte. Es un pájaro migratorio que pasa el invierno en las partes sur de su rango.",
       "example": "Waxwing bohemian widziano w lesie, jedząc jagody. Waxwing bohemian widziano w lesie, jedząc jagody, i będzie widziano w lesie ponownie w przyszłym roku.",
       "example_translation": "El ampelis bohemio fue visto en el bosque, comiendo bayas. Era visto en el bosque, comiendo bayas, y será visto en el bosque de nuevo el próximo año.",
-      "imageLink": "bohemian-waxwing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bohemian-waxwing.jpg",
       "audioLink": "bohemian waxwing.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "El búho boreal es un búho de tamaño medio que se reproduce en las partes septentrionales de Europa, Asia y América del Norte. Es un ave nocturna que caza pequeños mamíferos y aves.",
       "example": "Puchaczek huczał głośno w lesie. Huczał głośno w lesie, huczał głośno w lesie, i będzie huczał głośno w lesie ponownie jutro.",
       "example_translation": "El búho boreal chillaba fuerte en el bosque. Chillaba fuerte en el bosque, chilló fuerte en el bosque, y chillará fuerte en el bosque de nuevo mañana.",
-      "imageLink": "boreal-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boreal-owl.jpg",
       "audioLink": "boreal owl.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un pequeño perico de cola larga originario de Australia, popular como mascota.",
       "example": "Miałem papugę australijską jako ptaka domowego, gdy byłem dzieckiem. Teraz mam duży wolier z wieloma papugami australijskimi. Do przyszłego roku zbuduję jeszcze większy wolier dla moich papug australijskich.",
       "example_translation": "Tenía un periquito australiano como mascota cuando era niño. Ahora, tengo un aviario grande con muchos periquitos australianos. Para el próximo año, habré construido un aviario más grande para mis periquitos australianos.",
-      "imageLink": "budgerigar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "budgerigar.jpg",
       "audioLink": "budgerigar.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un pequeño pájaro cantor rechoncho con un cuerpo redondeado y un pico corto y cónico, encontrado en bosques y jardines.",
       "example": "Kaszownik śpiewał słodkie melodie w lesie. Teraz śpiewa w ogrodzie. W przyszłym roku będzie śpiewał w lasach ponownie.",
       "example_translation": "El camión cantaba melodías dulces en el bosque. Ahora, está cantando en el jardín. Para la próxima primavera, estará cantando de nuevo en los bosques.",
-      "imageLink": "bullfinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bullfinch.jpg",
       "audioLink": "bullfinch.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un ave de presa de tamaño medio, con alas anchas, típicamente de color marrón o gris, encontrada en una variedad de hábitats.",
       "example": "Myszołów unosił się wysoko w niebie. Teraz siedzi na gałęzi. W przyszłym lecie będzie latał nad górami.",
       "example_translation": "El busardo volaba alto en el cielo. Ahora, está posado en una rama de árbol. Para el próximo verano, estará volando sobre las montañas.",
-      "imageLink": "buzzard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "buzzard.jpg",
       "audioLink": "buzzard.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un canario es un pequeño pájaro cantor, típicamente amarillo o blanco, conocido por su canto melodioso.",
       "example": "Miałem kanarka jako domowego zwierzęta, kiedy byłem dzieckiem, śpiewał pięknie rano. Teraz myślę o zdobyciu kolejnego. W przyszłości będę lepiej dbał o niego.",
       "example_translation": "Tenía un canario como mascota cuando era niño, cantaba hermosamente por la mañana. Ahora, estoy pensando en conseguir otro. En el futuro, me aseguraré de cuidarlo mejor.",
-      "imageLink": "canary.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "canary.jpg",
       "audioLink": "canary.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un pinzón es un pequeño a mediano tamaño, típicamente marrón o gris, encontrado en jardines y bosques.",
       "example": "Wczoraj zobaczyłem cieszkówkę siedzącą na gałęzi w moim ogrodzie, jedzącą nasiona z karmnika. Dziś zapełnię karmnik, aby przyciągnąć więcej cieszkówek. W zimie cieszkówki będą odwiedzać mój ogród częściej.",
       "example_translation": "Vi un pinzón posado en una rama en mi patio trasero ayer, estaba comiendo semillas del comedero de pájaros. Hoy, rellenaré el comedero para atraer más pinzones. En invierno, los pinzones visitarán mi jardín con más frecuencia.",
-      "imageLink": "chaffinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chaffinch.jpg",
       "audioLink": "chaffinch.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un gallo es un pollo macho, conocido por su fuerte canto y comportamiento agresivo.",
       "example": "Kogut był bardzo dumny ze swojego terytorium, pianiał głośno każdego ranka. Wczoraj zobaczyłem koguta goniącego kaczkę wokół farmy. W przyszłości będziemy mieli więcej uwagi na separację kogutów od kaczek, aby uniknąć konfliktów.",
       "example_translation": "El gallo estaba muy orgulloso de su territorio, cantaba muy fuerte cada mañana. Ayer, vi al gallo persiguiendo una gallina alrededor del patio de la granja. En el futuro, aseguraremos de separar los gallos de las gallinas para evitar conflictos.",
-      "imageLink": "cock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cock.jpg",
       "audioLink": "cock.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un pequeño pájaro cantor de color marrón-grisáceo con una canción distintiva, se encuentra en bosques y jardines, particularmente durante la migración.",
       "example": "W przeszłości często widywałem śpiewaczki w naszym ogrodzie, ale teraz widzę je częściej w pobliskich lasach. Obecnie obserwuję śpiewaczkę budującą gniazdo. W przyszłym roku mam nadzieję zobaczyć więcej śpiewaczek w naszej okolicy.",
       "example_translation": "En el pasado, solía ver mosquiteros comunes en nuestro jardín, pero ahora los veo con más frecuencia en los bosques cercanos. Actualmente, estoy observando un mosquitero común construyendo su nido. Para el próximo año, espero haber visto muchos más mosquiteros comunes en nuestra zona.",
-      "imageLink": "common-chiffchaff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-chiffchaff.jpg",
       "audioLink": "common chiffchaff.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Un gran pájaro playero de color grisáceo-blanco con una llamada distintiva, se encuentra en humedales y pastizales, particularmente durante la migración.",
       "example": "Widziałem bociana w pobliskich mokradłach w zeszłym roku, ale obecnie obserwuję stadko bocianów na łące. W przyszłym roku mam nadzieję zobaczyć więcej bocianów w naszej okolicy.",
       "example_translation": "Había visto una grulla común en los humedales cercanos el año pasado, pero actualmente estoy observando una parvada de grullas comunes en los pastizales. Para la próxima primavera, espero haber visto muchas más grullas comunes en nuestra zona.",
-      "imageLink": "common-crane.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-crane.jpg",
       "audioLink": "common crane.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Un ave de tamaño mediano, de color marrón oscuro con una frente roja distintiva, se encuentra en humedales y pastizales, particularmente cerca del agua.",
       "example": "Widziałem łyskę pływającą po jeziorze w zeszłym tygodniu, ale obecnie obserwuję łyskę spacerującą przy łące. W przyszłym lecie mam nadzieję zobaczyć więcej łysków w naszej okolicy.",
       "example_translation": "Vi una gallineta común nadando en el lago la semana pasada, pero actualmente estoy observando una gallineta común caminando cerca de los pastizales. Para el próximo verano, espero haber visto muchas más gallinetas comunes en nuestra zona.",
-      "imageLink": "common-moorhen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-moorhen.jpg",
       "audioLink": "common moorhen.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un ruiseñor común es un pájaro pequeño y migratorio con una canción distintiva, encontrado en bosques y jardines en Europa y Asia.",
       "example": "Widziałem śpiewaka śpiewającego w ogrodzie wczoraj. Zobaczę śpiewaka śpiewającego w ogrodzie jutro. Widziałem śpiewaka śpiewającego w ogrodzie.",
       "example_translation": "Vi a un ruiseñor común cantando en el jardín ayer. Veré a un ruiseñor común cantando en el jardín mañana. He visto a un ruiseñor común cantando en el jardín.",
-      "imageLink": "common-nightingale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-nightingale.jpg",
       "audioLink": "common nightingale.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Un escribano común es un pequeño pinzón con un parche rojo en su frente, encontrado en regiones septentrionales de Europa, Asia y América del Norte.",
       "example": "Widziałem czeczotkę latającą nad lasem w zeszłym tygodniu. Widzę czeczotkę latającą nad lasem w przyszłym miesiącu. Widziałem czeczotkę latającą nad lasem.",
       "example_translation": "Se vio al escribano común volando en el bosque la semana pasada. Se verá al escribano común volando en el bosque el próximo mes. Se ha visto al escribano común volando en el bosque.",
-      "imageLink": "common-redpoll.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-redpoll.jpg",
       "audioLink": "common redpoll.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Una curruca zipcode es un pájaro pequeño y migratorio con un parche blanco en la garganta, encontrado en campo abierto y jardines en Europa y Asia.",
       "example": "Słyszałem białobrody śpiewające w ogrodzie wczoraj. Słyszę białobrody śpiewające w ogrodzie jutro. Słyszałem białobrody śpiewające w ogrodzie.",
       "example_translation": "Oí a una curruca zipcode cantando en el jardín ayer. Oiré a una curruca zipcode cantando en el jardín mañana. He oído a una curruca zipcode cantando en el jardín.",
-      "imageLink": "common-whitethroat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-whitethroat.jpg",
       "audioLink": "common whitethroat.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un ave grande de color gris-marrón con una banda blanca en el cuello, encontrada en bosques y jardines en Europa y Asia.",
       "example": "Zobaczyłem gołębia skalnego siedzącego na parapecie wczoraj, ale wkrótce uleci, a za rok zbuduje nowe gniazdo.",
       "example_translation": "Vi una paloma torcaz posada en el alféizar de la ventana ayer, pero pronto volará, y para el próximo año habrá construido un nuevo nido.",
-      "imageLink": "common-wood-pigeon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-wood-pigeon.jpg",
       "audioLink": "common wood pigeon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Un buitre grande del Nuevo Mundo con cabeza calva y cresta distinctive, encontrado en las montañas de los Andes.",
       "example": "Kondor poderwał się do góry, rozpostarłszy ogromne skrzydła, i będzie kontynuował swoje rozpowszechnianie w Andach przez kolejne pokolenia.",
       "example_translation": "El cóndor planeó en lo alto, con sus alas masivas extendidas ampliamente, y seguirá prosperando en los Andes por generaciones por venir.",
-      "imageLink": "condor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "condor.jpg",
       "audioLink": "condor.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Un ave grande de color verde-negruzco con cuello largo y pico gancho, encontrado cerca del agua y conocido por sus habilidades de pesca.",
       "example": "Kormoran zanurkował w wodę, złapiąc rybę w dziobie, i zanurkuje się znowu jutro, ale jeszcze nie zanurkował się.",
       "example_translation": "El cormorán se zambulló en el agua, atrapando un pez en su pico, y se zambullirá de nuevo mañana, pero aún no se ha zambullido.",
-      "imageLink": "cormorant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cormorant.jpg",
       "audioLink": "cormorant.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Un tipo de ave que se asemeja a una ralla, encontrada en humedales y praderas.",
       "example": "Dziś wieczorem usłyszałem charakterystyczny krzyk czapli w mokradłach. Wczoraj zobaczyłem czaplę szukającą pożywienia w mokradłach. Za rok populacja czapli powinna się zwiększyć.",
       "example_translation": "El llamadoDistinctivo del chorlitejo se puede escuchar en los pantanos durante la temporada de cría. Ayer, vi un chorlitejo buscando alimentos en los humedales. Para el próximo año, se espera que la población de chorlitejos aumente.",
-      "imageLink": "crake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crake.jpg",
       "audioLink": "crake.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Un ave grande y alta que camina por los humedales y praderas, con un cuello y patas largas.",
       "example": "Majestatyczny wygląd żurawia jest widokiem, który warto zobaczyć. W zeszłym roku zobaczyłem żurawia w pobliskich mokradłach. Za miesiąc żuraw będzie już w swoim zimowym miejscu pobytu.",
       "example_translation": "La apariencia majestuosa de la grulla es un espectáculo digno de verse. El año pasado, vi una grulla en los pantanos cercanos. Para el próximo mes, la grulla habrá migrado a su hábitat de invierno.",
-      "imageLink": "crane.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crane.jpg",
       "audioLink": "crane.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Un tipo de alondra con una cresta distintiva en su cabeza, encontrada en campos abiertos y praderas.",
       "example": "Melodia skały czupatej można usłyszeć w polach rano. Wczoraj zobaczyłem skałę czubatą siedzącą na płocie. Za wiosnę skała czubata rozpocznie sezon rozrodczy.",
       "example_translation": "La canción melodiosa de la alondra crestada se puede escuchar en los campos durante la mañana. Ayer, vi una alondra crestada posada en un poste de cerco. Para la próxima primavera, la alondra crestada comenzará su temporada de cría.",
-      "imageLink": "crested-lark.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crested-lark.jpg",
       "audioLink": "crested lark.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Un pequeño pájaro similar al mito con una cresta distintiva en la cabeza, encontrado en bosques de coníferas del norte de Europa.",
       "example": "Sikorę czubatą zobaczyłem, siedzącą na gałęzi, jej czupryna bujała w górę i w dół, gdy śpiewała słodką melodię. Wczoraj zobaczyłem sikorę czubatą budującą gniazdo w pustym drzewie. Za wiosnę sikora czubata ucieknie do cieplejszych klimatów.",
       "example_translation": "El mito crestado se vio posado en una rama, su cresta subiendo y bajando mientras cantaba una melodía dulce. Ayer, vi un mito crestado construyendo su nido en un árbol hueco. Para la próxima primavera, el mito crestado habrá migrado a climas más cálidos.",
-      "imageLink": "crested-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crested-tit.jpg",
       "audioLink": "crested tit.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Un pájaro playero de tamaño medio con un pico curvado distintivo, encontrado en áreas pantanosas y regiones costeras.",
       "example": "Żwirowiec złapał rybę w płytkiej wodzie. W zeszłym tygodniu zobaczyłem żwirowca lecącego nad mokradłami, jego żałobliwy krzyk odbijał się echem wokół. Za lato żwirowiec powróci na swoje miejsce lęgowe.",
       "example_translation": "El zarapito se lanzó en picado para coger un pez en el agua superficial. La semana pasada, vi un zarapito volando sobre mi cabeza, su grito lamentable resonando en todo el pantano. Para el próximo verano, el zarapito habrá regresado a sus áreas de cría.",
-      "imageLink": "curlew.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curlew.jpg",
       "audioLink": "curlew.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Un joven cisne, típicamente blanco con un pico amarillo y patas, encontrado en entornos acuáticos.",
       "example": "Łabędź pływał obok swojej matki, jego żółty dziób schowany bezpiecznie pod jej skrzydłem. W zeszłym roku zobaczyłem łabędzia podejmującego swoją pierwszą lot, jego skrzydła bijąc niezręcznie w powietrze. Za zimę łabędź będzie już dorosłym, majestatycznym łabędziem.",
       "example_translation": "El cisne joven nadó junto a su madre, su pico amarillo escondido seguro bajo su ala. El año pasado, vi un cisne joven tomando su primer vuelo, sus alas batientes torpemente mientras tropezaba por el aire. Para el próximo invierno, el cisne joven habrá madurado en un majestuoso cisne.",
-      "imageLink": "cygnet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cygnet.jpg",
       "audioLink": "cygnet.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Un búho grande con una cabeza ancha, orejas enfrentadas y un pico afilado y ganchudo, encontrado en bosques y selvática.",
       "example": "Sowa błotna zsunęła się na swoją ofiarę, jej ostre szpony rozpostarte. Polowała przez kilka godzin, ale wreszcie złapała nieświadomego królika. Do następnego tygodnia będzie polowała ponownie.",
       "example_translation": "El búho реal se lanzó sobre su presa, sus garras afiladas extendidas. Había estado cazando durante horas, pero finalmente, atrapó a un conejo desprevenido. Para la próxima semana, habrá cazado de nuevo.",
-      "imageLink": "eagle-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eagle-owl.jpg",
       "audioLink": "eagle owl.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Un gran pájaro no volador nativo de Australia, con un plumaje marrón y patas largas y potentes.",
       "example": "Emu biegło szybko przez otwartą równinę, jego długie nogi były zamazane. Biegło przez kilka godzin, ale będzie biegało dalej, aż dotrze do swojego gniazda. Do następnego roku będzie biegło wiele mil.",
       "example_translation": "El emú corrió rápidamente a través de la llanura abierta, sus patas largas una especie de borrosa. Había estado corriendo durante horas, pero continuaría corriendo hasta que alcanzara su nido. Para el próximo año, habrá volado muchas millas.",
-      "imageLink": "emu.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "emu.jpg",
       "audioLink": "emu.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un ave de presa con un cuerpo esbelto y alas largas y puntiagudas, conocido por su velocidad y agilidad.",
       "example": "Sokół szybował przez niebo, jego skrzydła bijąc szybko. Szybował przez kilka godzin, ale będzie szybował dalej, aż dostrzeże swoją ofiarę. Do następnego miesiąca złapie wiele nagród.",
       "example_translation": "El halcón voló por el cielo, sus alas batiendo rápidamente. Había estado volando durante horas, pero continuaría volando hasta que divisara su presa. Para el próximo mes, habrá cogido muchos premios.",
-      "imageLink": "falcon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "falcon.jpg",
       "audioLink": "falcon.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Un gran ave zancuda con plumas rosadas destacadas y cuello largo, encontrada en regiones cálidas y tropicales.",
       "example": "Wczoraj widziałem flaminga w zoo, jadł trawę. Flaming zalatuje do Afryki następnego miesiąca. Zobaczę flaminga ponownie w zoo następnego roku.",
       "example_translation": "Vi un flamenco en el zoológico ayer, estaba comiendo hierba. El flamenco migrará a África el próximo mes. Veré un flamenco de nuevo en el zoológico el próximo año.",
-      "imageLink": "flamingo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flamingo.jpg",
       "audioLink": "flamingo.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Un ganso macho, a menudo visto acompañando a una gansa hembra en un entorno doméstico o silvestre.",
       "example": "Gęś tropił mnie wokół farmy, kiedy odwiedziłem moich dziadków. Zobaczę wiele gęsi w parku następnego weekendu. Widziałem gęśa lecącego nisko nad polami ostatnim tygodniu.",
       "example_translation": "El ganso me perseguía alrededor de la granja cuando visité a mis abuelos. Veré muchos gansos en el parque el próximo fin de semana. Vi un ganso volando bajo sobre los campos la semana pasada.",
-      "imageLink": "gander.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gander.jpg",
       "audioLink": "gander.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Un pequeño pájaro cantor migratorio que se reproduce en jardines y bosques, conocido por su canción melódica.",
       "example": "Słyszałem wróbla ogrodowego śpiewającego w ogrodzie rano. Wróbel ogrodowy wróci do Afryki we wrześniu. Widziałem wróbla ogrodowego budującego swoje gniazdo w krzakach ostatniej wiosny.",
       "example_translation": "Escuché un zarcerillo cantando en el jardín esta mañana. El zarcerillo regresará a África en septiembre. Vi un zarcerillo construyendo su nido en los arbustos la primavera pasada.",
-      "imageLink": "garden-warbler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garden-warbler.jpg",
       "audioLink": "garden warbler.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Un pato pequeño a mediano que se sumerge en el agua con una cabeza negra y blanca con rayas características, encontrado en humedales y praderas en Asia y Europa.",
       "example": "Karliczka widziana jest podczas migracji na północ w dużych stadach, zobaczę je więcej latem i widziałem kilka ostatnim weekendem.",
       "example_translation": "El cerrillo se ha visto migrar hacia el norte en grandes bandadas, veremos más de ellos en el verano y vi unos pocos el fin de semana pasado.",
-      "imageLink": "garganey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garganey.jpg",
       "audioLink": "garganey.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Un ave pequeña y brillantemente coloreada con una cresta dorada característica en su cabeza, encontrada en bosques de coníferas en Europa y Asia.",
       "example": "Królówka słynie ze swojej zwinności, widziana jest przelatująca między gałęziami, i zobaczę ją ponownie wiosną.",
       "example_translation": "El reyecillo es conocido por su agilidad, se ha visto revoloteando entre las ramas y se verá de nuevo en la primavera.",
-      "imageLink": "goldcrest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goldcrest.jpg",
       "audioLink": "goldcrest.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Una gran águila oscura con una nuca dorada característica en su cuello, encontrada en regiones montañosas en Europa, Asia y América del Norte.",
       "example": "Orzeł złoty widziany jest unosząc się wysoko, zobaczę go polującego zimą, i widziałem go siedzącego na drzewie ubiegłego roku.",
       "example_translation": "El águila real se ha visto planeando en lo alto, se verá cazando en el invierno y se vio posada en un árbol el año pasado.",
-      "imageLink": "golden-eagle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "golden-eagle.jpg",
       "audioLink": "golden eagle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Un ave de la familia Oriolidae, caracterizada por su plumaje amarillo brillante y negro, encontrada en bosques y jardines en Europa y Asia.",
       "example": "Orlik widziany był w ogrodzie ostatnim tygodniem, i widziałem go siedzącego na gałęzi wczoraj. Do następnego lata będzie wrócił do swojego miejsca gniazdowania.",
       "example_translation": "El oríolo dorado fue avistado en el jardín la semana pasada, y lo había visto posado en una rama ayer. Para el próximo verano, habrá regresado a su terreno de anidación.",
-      "imageLink": "golden-oriole.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "golden-oriole.jpg",
       "audioLink": "golden oriole.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Un pequeño pinzón de color brillante, encontrado en jardines y campo, conocido por su canción distinctive y habilidades acrobáticas.",
       "example": "Wczoraj zobaczyłem szczygieł siedzący na ostu, i będzie śpiewał swoją słodką melodię ponownie w przyszłej wiośnie. Wtedy będzie już skończył budować swoje gniazdo.",
       "example_translation": "Había visto un jilguero posado en un cardo ayer, y estará cantando su melodía dulce de nuevo la próxima primavera. Para entonces, habrá terminado de construir su nido.",
-      "imageLink": "goldfinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goldfinch.jpg",
       "audioLink": "goldfinch.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Un ganso joven, especialmente uno que tiene menos de un año, a menudo visto seguindo a su madre en una fila.",
       "example": "Gęślę wczoraj wędrowała za matką, i będzie uczyć się latać następnego miesiąca. Wtedy będzie już miała.pióra.",
       "example_translation": "El ganso joven caminó detrás de su madre ayer, y estará aprendiendo a volar el próximo mes. Para entonces, habrá crecido sus plumas.",
-      "imageLink": "gosling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gosling.jpg",
       "audioLink": "gosling.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Un gran ave acuática con una cresta negra y blanca distintiva, encontrada en lagos y ríos de Europa y Asia.",
       "example": "Latem czarnoczuby będzie budować gniazdo na brzegu jeziora. W zeszłym latem zbudowało gniazdo na brzegu jeziora. Do następnego lata będzie miało zbudowane gniazdo na brzegu jeziora.",
       "example_translation": "En verano, el somormujo lavanco construirá un nido en la orilla del lago. El verano pasado, construyó un nido en la orilla del lago. Para el próximo verano, habrá construido un nido en la orilla del lago.",
-      "imageLink": "great-crested-grebe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "great-crested-grebe.jpg",
       "audioLink": "great crested grebe.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Un ave pequeña y colorida con una cabeza negra y amarilla distintiva, encontrada en bosques y jardines de Europa y Asia.",
       "example": "Bogatka będzie jeść nasiona z karmnika. W zeszłym tygodniu jadła nasiona z karmnika. W przyszłym miesiącu będzie jeść nasiona z karmnika.",
       "example_translation": "El carbonero común comerá semillas del comedero. La semana pasada, comió semillas del comedero. Para el próximo mes, estará comiendo semillas del comedero.",
-      "imageLink": "great-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "great-tit.jpg",
       "audioLink": "great tit.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Un ave blanca grande con cuello y patas largos, encontrada en humedales y áreas costeras en todo el mundo.",
       "example": "Biały bąk będzie polować na ryby w płytkiej wodzie. W zeszłym roku polował na ryby w płytkiej wodzie. W przyszłej wiośnie będzie polować na ryby w płytkiej wodzie.",
       "example_translation": "La garza blanca grande cazará peces en el agua poco profunda. El año pasado, cazó peces en el agua poco profunda. Para la próxima primavera, estará cazando peces en el agua poco profunda.",
-      "imageLink": "great-white-egret.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "great-white-egret.jpg",
       "audioLink": "great white egret.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Un pequeño a mediano ave acuática de buceo de cuello delgado y pico puntiagudo.",
       "example": "Perkozek pływał cicho przez jezioro, jego pióra lśniąc w słońcu. Wczoraj zanurzył się na dużą głębokość w poszukiwaniu ryb. Jutro wyleci na zimowe żerowiska.",
       "example_translation": "El zambullidor nadó silenciosamente a través del lago, sus plumas reluciendo en la luz solar. Ayer, había buceado a grandes profundidades en busca de peces. Mañana, volará a sus tierras de invierno.",
-      "imageLink": "grebe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grebe.jpg",
       "audioLink": "grebe.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Un ave grande, grisáceo-blanca, con cuello largo y pico agudo.",
       "example": "Biały czaplaensely strzegła swoją zdobycz w płytkiej wodzie, jej oczy widząc intensywnie na ryby. Później będzie odpoczywać w drzewach, jej długa szyja zagięta. W przyszłym roku wyleci do Afryki.",
       "example_translation": "La garza real acechó a su presa en aguas someras, sus ojos fijados intensamente en el pez. Más tarde, se posaría en los árboles, su cuello largo doblado hacia atrás. El año próximo, migrará a África.",
-      "imageLink": "heron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heron.jpg",
       "audioLink": "grey heron.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Un ganso salvaje grande, grisáceo-marrón, con pico y patas rosáceo-rojos.",
       "example": "Gęś gęgawa głośno krakała, prowadząc swoje pisklęta przez mokradło. W zeszłym tygodniu mieszkała na wzgórzu. W przyszłej wiośnie wyleci na swoje tereny lęgowe.",
       "example_translation": "El ganso común graznó fuerte mientras lideraba a sus goslings a través de la pradera húmeda. La semana pasada, había estado anidando en la ladera de la colina. La próxima primavera, volará de regreso a sus zonas de cría.",
-      "imageLink": "greylag-goose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "greylag-goose.jpg",
       "audioLink": "greylag goose.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Un ave grande, que vive en el suelo, con un cuerpo rechoncho y cabeza pequeña, originaria de África, comúnmente domesticada y mantenida por su carne y huevos.",
       "example": "Rolnik hodował parę perlic w swoim ogródku. Hodował je w zeszłym roku, i będzie hodował je ponownie w przyszłym roku.",
       "example_translation": "El granjero crió unas pocas pintadas en su patio trasero. Las había criado el año pasado, y las criará de nuevo el próximo año.",
-      "imageLink": "guinea-fowl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guinea-fowl.jpg",
       "audioLink": "guinea fowl.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Un pinzón grande y poderoso con un pico fuerte y cónico, encontrado en bosques y jardines, alimentándose de semillas y frutas.",
       "example": "Dięcioł siedział na gałęzi dębu, jedząc dojrzałe jagody. Całe rano jadł, i będzie jeść ponownie wieczorem.",
       "example_translation": "El pico picudo se posó en la rama del roble, comiendo las bayas maduras. Las había estado comiendo toda la mañana, y las comería de nuevo por la noche.",
-      "imageLink": "hawfinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hawfinch.jpg",
       "audioLink": "hawfinch.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Un ave de tamaño mediano, que vive en el suelo, con un cuerpo rechoncho y cola larga, encontrada en bosques y páramos, alimentándose de hojas, frutas e insectos.",
       "example": "Kuropatwa ukryła się za krzakiem, obserwując podejście myśliwego. Obserwowała go cały dzień i obserwować go będzie jutro.",
       "example_translation": "El urogallo se escondió detrás del arbusto, observando al cazador acercarse. Lo había estado observando todo el día, y lo observaría de nuevo mañana.",
-      "imageLink": "hazel-grouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hazel-grouse.jpg",
       "audioLink": "hazel grouse.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Un abubilla es un pájaro único y colorido con una cresta característica en su cabeza, conocido por su presencia en climas cálidos y secos.",
       "example": "Dudkacz był symbolem szczęścia w many kulturach. Wczoraj zobaczyłem dudkacza siedzącego na gałęzi. Do przyszłego roku zobaczę dudkacza w jego naturalnym środowisku.",
       "example_translation": "El abubilla ha sido un símbolo de buena suerte en muchas culturas. Ayer, vi un abubilla posado en una rama de árbol. Para el próximo año, habré visto un abubilla en su hábitat natural.",
-      "imageLink": "hoopoe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hoopoe.jpg",
       "audioLink": "hoopoe.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Un colibrí es un pájaro pequeño y iridiscente que puede permanecer suspendido en el aire, alimentándose de néctar de flores, y es conocido por su rápido movimiento de alas.",
       "example": "Skrzydła kolibra biją z niezwykłą szybkością. Do czasu, gdy dotrę do ogrodu, koliber będzie już odleciał. W zeszłym tygodniu karmiłem kolibra cukrowym roztworem wody.",
       "example_translation": "Las alas del colibrí laten a un ritmo increíble. Para cuando llegue al jardín, el colibrí habrá volado. La semana pasada, alimenté a un colibrí desde un alimentador de agua azucarada.",
-      "imageLink": "hummingbird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hummingbird.jpg",
       "audioLink": "hummingbird.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Un ibis es un pájaro que camina por el agua con patas largas y cuello prolongado, a menudo encontrado en humedales, y es conocido por su pico curvo característico.",
       "example": "Ibis ostrożnie brodził przez płytką wodę. Do przyszłego miesiąca zobaczę ibisa w jego naturalnym środowisku. Wczoraj obserwowałem ibisa polującego na zdobycz.",
       "example_translation": "El ibis caminó cuidadosamente a través del agua poco profunda. Para el próximo mes, habré visto un ibis en su hábitat natural. Ayer, vi un ibis acechar a su presa.",
-      "imageLink": "ibis.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ibis.jpg",
       "audioLink": "ibis.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Un ave grande con plumaje negro, nuca gris y ojos blancos, encontrada en bosques y jardines.",
       "example": "Kawka runęła w dół, aby zdobyć jedzenie z stołu. Wczoraj runęła w dół, aby ukraść kanapkę od turysty. Do przyszłego tygodnia runęła w dół, aby zdobyć jedzenie od kempingowych.",
       "example_translation": "La grajilla se lanzó en picado para agarrar la comida de la mesa. Ayer, había robado una sandwich a un turista. Para la próxima semana, habrá lanzado en picado para obtener comida de los campistas.",
-      "imageLink": "jackdaw.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jackdaw.jpg",
       "audioLink": "jackdaw.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Un ave de colores brillantes con una cresta distintiva y una naturaleza osada y curiosa.",
       "example": "Szpak siedział na gałęzi, obserwując człowieka z ostrożnością. Siedział na gałęzi przez wiele godzin, obserwując człowieka. Do jutra będzie siedział na gałęzi, obserwując człowieka ponownie.",
       "example_translation": "El arrendajo estaba posado en la rama, vigilando al humano con cautela. Había estado posado en la rama durante horas, vigilando al humano. Mañana, estará posado en la rama, vigilando al humano de nuevo.",
-      "imageLink": "jay.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jay.jpg",
       "audioLink": "jay.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Un ave de rapiña pequeña y esbelta con cabeza negra y vientre blanco, encontrada en el campo abierto.",
       "example": "Pustułka uniósł się nad polami, szukając zdobyczy. Wczoraj uniósł się nad polami, szukając zdobyczy. Do przyszłego miesiąca uniósł się nad polami, szukając zdobyczy ponownie.",
       "example_translation": "El cernícalo volaba sobre las cabezas, escudriñando los campos en busca de presas. Había volado sobre las cabezas ayer, escudriñando los campos en busca de presas. El próximo mes, habrá volado sobre las cabezas, escudriñando los campos en busca de presas de nuevo.",
-      "imageLink": "kestrel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kestrel.jpg",
       "audioLink": "kestrel.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Un martín pescador es un ave de colores brillantes con una cresta distintiva y un pico largo y puntiagudo, encontrada cerca del agua y conocida por su capacidad para bucear en el agua para cazar peces.",
       "example": "Zimorodek nurkował w wodę, aby złapać rybę, a potem poleciał z powrotem do gniazda, aby zjeść obiad, ale wczoraj już zjadł śniadanie.",
       "example_translation": "El martín pescador se sumergió en el agua para cazar un pez, y luego volará de vuelta a su nido para comer su almuerzo, pero ayer ya había comido su desayuno.",
-      "imageLink": "kingfisher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kingfisher.jpg",
       "audioLink": "kingfisher.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Un kiwi es un ave pequeña y no voladora originaria de Nueva Zelanda, con un cuerpo redondo y una pluma larga y cerdosa en su cabeza.",
       "example": "Zobaczyłem kiwi w zoo, a on jadł owoce kiwi, ale przyszłym tygodniu znów zobaczę kiwi, a następnie zobaczę kiwi, gdy będzie składać jaja, a w zeszłym roku już dorósł swoje pióra.",
       "example_translation": "Vi un kiwi en el zoológico, y estaba comiendo fruta de kiwi, pero la próxima semana pondrá un huevo, y el año pasado ya había crecido sus plumas.",
-      "imageLink": "kiwi.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kiwi.jpg",
       "audioLink": "kiwi.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "Una avefría es un ave grande y ruidosa con una cresta distintiva y un llamado fuerte y penetrante, a menudo encontrada en humedales y praderas.",
       "example": "Czajka krzyknęła głośno, gdy poleciała nad moczarem, a potem usiadła, aby odpocząć, ale wczoraj już zbudowała swoje gniazdo, a następnym miesiącem wyjedzie do Afryki.",
       "example_translation": "La avefría gritó fuerte mientras volaba sobre el pantano, y luego se establecerá para descansar, pero ayer ya había construido su nido, y el próximo mes migrará a África.",
-      "imageLink": "lapwing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lapwing.jpg",
       "audioLink": "lapwing.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "Una gaviota de tamaño mediano con espalda y alas de color gris oscuro, encontrada en áreas costeras de Europa y Asia.",
       "example": "Mewa jasnoszyja przelatywała nad głową, a jej charakterystyczne wołanie odbijało się echem nad plażą. Przyleciała na zimę i wróci wiosną, aby zająć swe gniazdo. Do następnego lata będzie miała już całe wybrzeże przeszukane.",
       "example_translation": "La gaviota dorsinegra chica voló sobre nuestras cabezas, su característico canto resonando por toda la playa. Había volado al sur por el invierno, y regresaría en la primavera para anidar. Para el próximo verano, habría explorado toda la costa.",
-      "imageLink": "lesser-black-backed-gull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lesser-black-backed-gull.jpg",
       "audioLink": "lesser black-backed gull.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Una águila de tamaño mediano con plumaje marrón y manchas blancas, encontrada en bosques y praderas de Europa y Asia.",
       "example": "Orlik lessowy unosił się w powietrzu, swoimi ostrymi oczami przeglądając teren poniżej. Zbudował gniazdo w pobliskim drzewie i czekał na powrót swego towarzysza. Do następnego roku będzie miał już nową rodzinkę.",
       "example_translation": "La águila moteada menor surcó el cielo, sus ojos agudos escudriñando el suelo debajo. Había construido su nido en un árbol cercano, y esperaba el regreso de su compañero. Para el próximo año, habría criado una nueva nidada.",
-      "imageLink": "lesser-spotted-eagle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lesser-spotted-eagle.jpg",
       "audioLink": "lesser spotted eagle.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Un pequeño pájaro cantor con espalda y alas marrones, encontrado en jardines y campo de Europa y Asia.",
       "example": "Lnik siedział na ogrodzeniu, śpiewając słodką melodię. Zbudował gniazko w pobliskich krzakach i karmił swoje młode. Do następnej wiosny powróci na swoją trasę migracyjną.",
       "example_translation": "El lino se posó en la valla del jardín, cantando su melodía dulce. Había construido su nido en los arbustos cercanos, y estaba alimentando a sus crías. Para la próxima primavera, habría regresado a su ruta de migración.",
-      "imageLink": "linnet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "linnet.jpg",
       "audioLink": "linnet.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "Un ave depredadora nocturna con túvidos orejas largas y ojos frontales, encontrada en bosques y pastizales.",
       "example": "Uszkowiec długouchy siedział w drzewie, obserwując swoją zdobycz. Poluje w nocy i upolował już wiele gryzoni w przeszłości. Będzie dalej prosperował w tym środowisku.",
       "example_translation": "El búho de orejas largas estaba posado en un árbol, observando su presa. Cazará de noche y ha cazado muchos roedores en el pasado. Continuará prosperando en este hábitat.",
-      "imageLink": "long-eared-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "long-eared-owl.jpg",
       "audioLink": "long-eared owl.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "Un pato grande que se sumerge con la cabeza verde, pico amarillo y cuerpo marrón, encontrado en estanques y ríos.",
       "example": "Krzyżówka pływała po stawie, szukając pożywienia. Wyleci na zimę i podróżowała tysiące mil w przeszłości. Będzie dalej prosperowała w swoim naturalnym środowisku.",
       "example_translation": "El ánade real nadó en el estanque, buscando comida. Volará hacia el sur en invierno y ha migrado miles de millas en el pasado. Continuará prosperando en su hábitat natural.",
-      "imageLink": "mallard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mallard.jpg",
       "audioLink": "mallard.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "Un ave paseriforme pequeña con cabeza negra, mejillas blancas y espalda marrón, encontrada en humedales y pantanos.",
       "example": "Świstunka błotna przelatywała między trzcinami, szukając owadów. Zbuduje gniazdo wiosną i wyhodowała już wiele młodych w przeszłości. Będzie dalej prosperowała w tym środowisku błotnym.",
       "example_translation": "El carbonero palustre revoloteó entre los juncos, buscando insectos. Construirá un nido en primavera y ha criado muchos polluelos en el pasado. Continuará prosperando en este hábitat de humedal.",
-      "imageLink": "marsh-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marsh-tit.jpg",
       "audioLink": "marsh tit.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "Un ruiseñor es un tipo de ave conocido por su canto melódico, que canta por la noche. Es un ave migratoria que cría en Europa y Asia y pasa el invierno en África.",
       "example": "Solnik pięknie śpiewał w lesie wczoraj wieczorem. Będzie śpiewał ponownie jutro wieczorem. Śpiewał słodko w lesie latem.",
       "example_translation": "El ruiseñor cantó hermosamente en el bosque la noche pasada. Cantará de nuevo mañana por la noche. Estaba cantando dulcemente en el bosque el verano pasado.",
-      "imageLink": "nightingale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightingale.jpg",
       "audioLink": "nightingale.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Un chotacabras es un tipo de ave nocturna que tiene un patrón alar en forma de bumerán distinctivo. Se encuentra en regiones cálidas y templadas en todo el mundo.",
       "example": "Lelk leciał cicho w ciemności. Będzie leciał ponownie o zmierzchu jutro. Leciał szybko w nocnym niebie minionego tygodnia.",
       "example_translation": "El chotacabras voló silenciosamente a través de la oscuridad. Volará de nuevo al anochecer mañana. Estaba volando rápidamente en el cielo nocturno la semana pasada.",
-      "imageLink": "nightjar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightjar.jpg",
       "audioLink": "nightjar.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "Un águila pescadora es un ave de presa que come pescado y se encuentra cerca de cuerpos de agua en todo el mundo. Es conocido por su dedo externo reversible distintivo.",
       "example": "Białozór nurkował do rzeki, aby złapać rybę. Będzie nurkował ponownie o świcie jutro. Nurkował ekspertnie do jeziora minionego miesiąca.",
       "example_translation": "El águila pescadora se zambulló en el río para coger un pez. Se zambullirá de nuevo al amanecer mañana. Estaba zambulléndose expertamente en el lago el mes pasado.",
-      "imageLink": "osprey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "osprey.jpg",
       "audioLink": "osprey.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "Un ave de tamaño mediano a grande con un cuerpo rechoncho, cabeza pequeña y cola corta, a menudo encontrada en campo abierto y bordes de bosques.",
       "example": "Przepiórka słynie z szybkiego ucieczki, gdy jest zagrożona, ale zwykle ucieka biegiem. Wczoraj widziałem przepiórkę biegnącą szybko przez pole. Jeśli będziemy mieli szczęście, zobaczymy przepiórkę przelatującą nad nami jutro.",
       "example_translation": "La perdiz ha sido conocida por volar rápido cuando se siente amenazada, pero usualmente escapa corriendo. Ayer, vi una perdiz corriendo rápidamente a través del campo. Si tenemos suerte, veremos una perdiz volando sobre nuestras cabezas mañana.",
-      "imageLink": "partridge.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "partridge.jpg",
       "audioLink": "partridge.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Un ave grande y colorida con una cola en forma de abanico, conocida por su llamativa voz y orgullosa exhibición de plumaje.",
       "example": "Paw rozpostarzył swój wspaniały ogon, aby przyciągnąć samice. Wczoraj, usłyszałem głośny krzyk paw w lesie. Jeśli będziemy cicho, możemy zobaczyć paw, który prezentuje swoje upierzenie jutro.",
       "example_translation": "El pavo real extendió su magnífica cola para atraer a la hembra. Ayer, escuché el llamativo grito de un pavo real en el bosque. Si estamos quietos, podríamos ver un pavo real exhibiendo su plumaje mañana.",
-      "imageLink": "peacock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "peacock.jpg",
       "audioLink": "peacock.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Un ave acuática grande con un pico bolsudo, encontrada en regiones cálidas y costeras, alimentándose de peces y otros animales acuáticos.",
       "example": "Pelikan nurkował w wodę, aby złapać rybę. Wczoraj, zobaczyłem pelikana, który brodził w płytkiej wodzie. Jeśli będziemy szczęśliwi, zobaczymy pelikana lecącego nisko nad jeziorem jutro.",
       "example_translation": "El pelícano se zambulló en el agua para cazar un pez. Ayer, vi un pelícano vadear en las aguas someras. Si tenemos suerte, veremos un pelícano volando bajo sobre el lago mañana.",
-      "imageLink": "pelican.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pelican.jpg",
       "audioLink": "pelican.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Un gran halcón poderoso con una construcción delgada, generalmente marrón o gris en color, conocido por su velocidad y agilidad en la caza.",
       "example": "Sokół wędrowny przelatywał przez niebo, jego skrzydła bijąc szybko, gdy ścigał swoją zdobycz. Polował przez wiele godzin, a w końcu schwytał swoją zdobycz. Do przyszłego roku, przemigruje do cieplejszego klimatu.",
       "example_translation": "El halcón peregrino surcó el cielo, sus alas batían rápidamente mientras perseguía a su presa. Había estado cazando durante horas, y finalmente, se lanzó en picado para atrapar a su presa. Para el próximo año, habrá migrado a un clima más cálido.",
-      "imageLink": "peregrine-falcon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "peregrine-falcon.jpg",
       "audioLink": "peregrine falcon.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Un gran ave de tierra con una larga cola ancha, a menudo encontrada en bosques y praderas.",
       "example": "Łowca śledził bażanta przez gęsty krzew, uważając, aby go nie spłoszyć. Czekał przez wiele godzin, a w końcu, zobaczył swoją zdobycz. Do przyszłego sezonu, poluje na całą cewkę.",
       "example_translation": "El cazador rastreó al faisán a través de la densa maleza, cuidando de no asustarlo. Había estado esperando durante horas, y finalmente, avistó a su presa. Para la próxima temporada, habrá cazado la entire covey.",
-      "imageLink": "pheasant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pheasant.jpg",
       "audioLink": "pheasant.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Aves domesticadas, como pollos, pavos y patos, criadas por su carne y huevos.",
       "example": "Rolnik hodował drób na swoim wiejskim gospodarstwie, sprzedając jaja i mięso na lokalnym rynku. Czynił to przez wiele lat, a w zeszłym roku, rozszerzył swoją działalność o gęsi. Do przyszłego roku, doda kaczory do swojej stadniny.",
       "example_translation": "El granjero criaba aves de corral en su granja rural, vendiendo los huevos y la carne en el mercado local. Había estado haciendo esto durante años, y el año pasado, amplió su operación para incluir gansos. Para el próximo año, habrá agregado pavos a su rebaño.",
-      "imageLink": "poultry.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "poultry.jpg",
       "audioLink": "poultry.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Un búho pequeño, típicamente encontrado en América del Norte y del Sur, caracterizado por su pequeño tamaño y llamadas características.",
       "example": "Sóweczka siedziała na gałęzi, obserwując swoją zdobycz. Obserwowała przez wiele godzin. Obserwuje dalej.",
       "example_translation": "El mochuelo estaba posado en una rama, observando su presa. Ha estado observando durante horas. Observará durante horas más.",
-      "imageLink": "pygmy-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pygmy-owl.jpg",
       "audioLink": "pygmy owl.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Un ave pequeña, que vive en el suelo, típicamente encontrada en praderas y campos, conocida por su plumaje marrón y cuerpo redondeado.",
       "example": "Przepiórka biegła szybko przez pole, goniona za insektami. Biegła przez wiele godzin. Będzie biegać jeszcze jutro.",
       "example_translation": "La codorniz corrió rápidamente a través del campo, persiguiendo insectos. Ha estado corriendo durante horas. Correrá de nuevo mañana.",
-      "imageLink": "quail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quail.jpg",
       "audioLink": "quail.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Un ave acuática de tamaño medio, típicamente encontrada en lagos y ríos de agua dulce, caracterizada por su cuello rojo distintivo y plumaje negro y blanco.",
       "example": "Czernica pływała wolno po jeziorze, szukała ryb. Pływała przez wiele godzin. Płynie jeszcze dzisiaj wieczorem.",
       "example_translation": "El zampullín cuellirojo nadó lentamente a través del lago, buscando peces. Ha estado nadando durante horas. Nadará de nuevo esta noche.",
-      "imageLink": "red-necked-grebe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red-necked-grebe.jpg",
       "audioLink": "red-necked grebe.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Un pequeño pájaro cantor de pecho redondo con un pecho rojo distintivo, comúnmente encontrada en jardines y parques.",
       "example": "Zobaczyłem rudzika, siedzącego na gałęzi drzewa. Wczoraj, zobaczyłem rudzika, jedzącego robaki w ogrodzie. W przyszłości, wybuduję budek dla rudzika.",
       "example_translation": "Vi un petirrojo posado en la rama de un árbol. Ayer, vi un petirrojo comiendo lombrices en el jardín. En el futuro, construiré una casa de pájaros para un petirrojo.",
-      "imageLink": "robin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "robin.jpg",
       "audioLink": "robin.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Un cilindro pesado o máquina cilíndrica utilizada para alisar o dar forma a materiales, como papel o metal.",
       "example": "Użyłem walca, aby płaskować papier. Ona będzie używać walca, aby pomalować ścianę jutro. Wczoraj, oni użyli walca, aby uformować metal.",
       "example_translation": "Usé un rodillo para aplanar el papel. Ella usará un rodillo para pintar la pared mañana. Ayer, ellos usaron un rodillo para dar forma al metal.",
-      "imageLink": "roller.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "roller.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "Un gran pájaro negro de la familia de los cuervos, encontrado en Europa y Asia, conocido por su llamada distinctive.",
       "example": "Wczoraj zobaczyłem kruka latającego nad głową. Kruk zbuduje gniazdo na gałęzi drzewa następnego tygodnia. Wczoraj kruk wydał głośny Hałas.",
       "example_translation": "Vi un graño volando sobre mi cabeza. El graño construirá un nido en la rama del árbol la semana que viene. Ayer, el graño hizo un ruido fuerte.",
-      "imageLink": "rook.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rook.jpg",
       "audioLink": "rook.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "Un pequeño pinzón euroasiático con espalda y alas marrones y cabeza y pecho amarillos, conocido por su melodiosa canción.",
       "example": "Sikora pięknie śpiewała w lesie wczoraj, a dzisiaj zobaczyłem ją latającą nad głową, natomiast jutro będę próbował ponownie zobaczyć ją.",
       "example_translation": "El lúgano cantaba hermosamente en el bosque ayer, y lo vi volar sobre mi cabeza hoy, mientras que intentaré verlo de nuevo mañana.",
-      "imageLink": "siskin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "siskin.jpg",
       "audioLink": "siskin.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "Un ave zancuda de pequeño a mediano tamaño con un pico largo y plumaje marrón moteado, encontrada en humedales y praderas.",
       "example": "Zobaczyłem błotniaka skrytego w wysokiej trawie w zeszłym tygodniu, a mój kolega złapał go w bagnach wczoraj, ale mam nadzieję, że uda mi się znaleźć kolejnego w mokradłach następnego miesiąca.",
       "example_translation": "He visto una agachadiza escondida en la hierba alta la semana pasada, y mi amigo cazó una en los pantanos ayer, pero espero ver otra en los humedales el mes que viene.",
-      "imageLink": "snipe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snipe.jpg",
       "audioLink": "snipe.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "Un ave de presa pequeña y esbelta con alas redondeadas y cola larga, encontrada en una variedad de hábitats, incluyendo bosques y áreas urbanas.",
       "example": "Kobczyk siedział na gałęzi drzewa rano, a po południu obserwowałem, jak schodził na dół, aby złapać gołębia, ale prawdopodobnie będzie migrować do cieplejszych klimatów następnej zimy.",
       "example_translation": "El gavilán estaba posado en una rama de árbol esta mañana, y lo vi descender en picado para cazar una paloma esta tarde, pero probablemente migrará a climas más cálidos el próximo invierno.",
-      "imageLink": "sparrowhawk.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sparrowhawk.jpg",
       "audioLink": "sparrowhawk.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Un ave pequeña, insectívora con un dorso gris-marrón y vientre blanco, encontrada en bosques abiertos y jardines.",
       "example": "Muchówka plamista siedziała na gałęzi, czekając na swoją następną ofiarę. Całe morning łapała muchy, a wieczorem będzie kontynuowała. Do nastłego lata będzie miała złapanych tysiące much.",
       "example_translation": "El papamoscas manchado se posó en la rama, vigilando su próxima comida. Ha estado cazando moscas toda la mañana y seguirá haciéndolo hasta la noche. Para el próximo verano, habrá cazado miles de moscas.",
-      "imageLink": "spotted-flycatcher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spotted-flycatcher.jpg",
       "audioLink": "spotted flycatcher.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Un ave de tamaño mediano con un dorso blanco y negro rayado, encontrada en bosques coníferos, alimentándose de semillas y nueces.",
       "example": "Orzechówka rozbiła orzech, odsłaniając smaczne jądro. Całą jesień przechowywała orzechy, a zimą będzie je rozbiła. Do wiosny będzie miała rozbitą setki orzechów.",
       "example_translation": "El cascanueces manchado abrió la nuez, revelando la deliciosa nuez dentro. Había estado almacenando nueces todo el otoño y las abriría en invierno. Para la primavera, habría abierto cientos de nueces.",
-      "imageLink": "spotted-nutcracker.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spotted-nutcracker.jpg",
       "audioLink": "spotted nutcracker.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Un ave de tamaño pequeño a mediano con un plumaje negro brillante, encontrada en áreas urbanas y rurales, conocida por sus plumas iridiscentes características.",
       "example": "Szpak szmówił do swojego towarzysza, latając w stadle. Miał migrować przez wiele tygodni, a niedługo osiedli się w nowym domu. Do następnego roku będzie miało zbudowane nowe gniazdo.",
       "example_translation": "El estornino murmuró a su pareja, volando encima en una bandada. Había estado migrando durante semanas y pronto se establecería en su nuevo hogar. Para el próximo año, habría construido un nuevo nido.",
-      "imageLink": "starling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "starling.jpg",
       "audioLink": "starling.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Un ave pequeña y rápida con una cola bifurcada y alas largas y puntiagudas, que suele migrar a regiones más cálidas en invierno.",
       "example": "Wczoraj zobaczyłem jaskółkę nad jeziorem, było to piękne widoki. Jutro zobaczymy jaskółkę nad jeziorem, mam nadzieję, że będzie to również piękne widoki. Rok temu zobaczyłem jaskółkę nad jeziorem, było to piękne widoki.",
       "example_translation": "Vi una golondrina volando sobre el lago ayer, fue un espectáculo hermoso. Veré una golondrina volando sobre el lago mañana, espero que sea un espectáculo hermoso. Vi una golondrina volando sobre el lago el año pasado, fue un espectáculo hermoso.",
-      "imageLink": "swallow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swallow.jpg",
       "audioLink": "swallow.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Que se mueve o puede moverse rápidamente o oportunamente, o hecho rápidamente o oportunamente.",
       "example": "Jestem szybki w swoich decyzjach, będzie szybki w swoich działaniach, był szybki w swojej odpowiedzi.",
       "example_translation": "Soy rápido en mis decisiones, seré rápido en mis acciones, fui rápido en mi respuesta.",
-      "imageLink": "swift.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swift.jpg",
       "audioLink": "swift.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "Un ave de rapiña nocturna con una cabeza redonda, ojos frontales y un suave llamado quejumbroso, normalmente encontrada en bosques y jardines.",
       "example": "Wczoraj zobaczyłem puszczyka w lesie, było to emocjonujące doświadczenie. Jutro zobaczę puszczyka w ogrodzie, mam nadzieję, że będzie to również emocjonujące doświadczenie. W ubiegłym tygodniu zobaczyłem puszczyka w parku, było to emocjonujące doświadczenie.",
       "example_translation": "Vi una lechuza común en el bosque la noche pasada, fue una experiencia emocionante. Veré una lechuza común en el jardín mañana, espero que sea una experiencia emocionante. Vi una lechuza común en el parque la semana pasada, fue una experiencia emocionante.",
-      "imageLink": "tawny-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tawny-owl.jpg",
       "audioLink": "tawny owl.mp3"
     }
   ]

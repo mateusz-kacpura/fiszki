@@ -9,7 +9,7 @@
       "definition_translation": "Ayant une température basse; frais ou glacé; inconfortable au toucher ou à être dedans",
       "example": "I felt cold in the winter, I was cold yesterday, I will be cold tomorrow.",
       "example_translation": "J'ai senti froid en hiver, j'étais froid hier, je serai froid demain.",
-      "imageLink": "cold-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cold-1.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Ayant une température basse; frais ou glacé; inconfortable au toucher ou à être dedans",
       "example": "The cold water was refreshing, I have been cold all day, I will get cold if I stay outside.",
       "example_translation": "L'eau froide était rafraîchissante, j'ai été froid toute la journée, je vais avoir froid si je reste dehors.",
-      "imageLink": "cold-3.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cold-3.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ayant une température élevée; chaud ou chauffé; inconfortable au toucher ou à être dedans",
       "example": "I felt hot in the summer, I was hot yesterday, I will be hot tomorrow.",
       "example_translation": "J'ai senti chaud en été, j'étais chaud hier, je serai chaud demain.",
-      "imageLink": "hot-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hot-2.jpg",
       "audioLink": "hot.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Humidité qui tombe du ciel en gouttes d'eau; précipitation sous forme de gouttes d'eau",
       "example": "It rained heavily yesterday, it rains often in spring, it will rain tomorrow.",
       "example_translation": "Il a plu fortement hier, il pleut souvent au printemps, il pleuvra demain.",
-      "imageLink": "rain.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rain.jpg",
       "audioLink": "rain.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "La neige est un phénomène météorologique naturel caractérisé par la chute de cristaux de glace blancs du ciel.",
       "example": "I walked in the snow yesterday, I'm walking in the snow today, and I will walk in the snow tomorrow.",
       "example_translation": "J'ai marché dans la neige hier, je marche dans la neige aujourd'hui, et je marcherai dans la neige demain.",
-      "imageLink": "snow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snow.jpg",
       "audioLink": "snow.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "L'été est la saison la plus chaude de l'année, caractérisée par des jours longs et des températures élevées.",
       "example": "I swam in the ocean last summer, I'm swimming in the ocean this summer, and I will swim in the ocean next summer.",
       "example_translation": "J'ai nagé dans l'océan l'été dernier, je nage dans l'océan cet été, et je nagerai dans l'océan l'été prochain.",
-      "imageLink": "summer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "summer.jpg",
       "audioLink": "summer.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Le soleil est l'étoile au centre du système solaire, fournissant de la lumière et de la chaleur à la Terre.",
       "example": "I saw the sun rise this morning, I see the sun shining now, and I will see the sun set this evening.",
       "example_translation": "J'ai vu le soleil se lever ce matin, je vois le soleil briller maintenant, et je verrai le soleil se coucher ce soir.",
-      "imageLink": "sun.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sun.jpg",
       "audioLink": "sun.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Chaud signifie une température confortable ou agréable, ni chaude ni froide.",
       "example": "I felt warm in the summer, I feel warm now, and I will feel warm tomorrow.",
       "example_translation": "J'ai_senti chaud l'été, je sens chaud maintenant, et je sentirai chaud demain.",
-      "imageLink": "warm-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "warm-1.jpg",
       "audioLink": "warm.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "L'état de l'atmosphère à un endroit et à un moment donné, y compris la température, l'humidité, la nuageuse, le vent et les précipitations.",
       "example": "The weather was nice yesterday, but it will rain tomorrow. The weather was cold last winter. I hope the weather will be sunny next summer.",
       "example_translation": "Le temps était agréable hier, mais il pleuvra demain. Le temps était froid l'hiver dernier. J'espère que le temps sera ensoleillé l'été prochain.",
-      "imageLink": "weather.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "weather.jpg",
       "audioLink": "weather.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un mouvement naturel d'air dans l'atmosphère, en particulier un mouvement fort ou violent.",
       "example": "The wind was blowing strongly yesterday. The wind blows gently in the summer. I love sailing in a strong wind.",
       "example_translation": "Le vent soufflait fortement hier. Le vent souffle doucement en été. J'aime naviguer dans un vent fort.",
-      "imageLink": "wind.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wind.jpg",
       "audioLink": "wind.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "La saison de l'année entre l'automne et le printemps, caractérisée par le froid et (dans l'hémisphère nord) les jours les plus courts de l'année.",
       "example": "I love skiing in the winter. Winter is coming soon. I hate the cold winter mornings.",
       "example_translation": "J'aime skier en hiver. L'hiver arrive bientôt. Je déteste les matins d'hiver froids.",
-      "imageLink": "winter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "winter.jpg",
       "audioLink": "winter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Une masse visible de gouttes d'eau ou de cristaux de glace dans le ciel, généralement blanche ou grise.",
       "example": "There are many clouds in the sky today. The cloud blocked the sun yesterday. I saw a beautiful cloud formation last week.",
       "example_translation": "Il y a de nombreux nuages dans le ciel aujourd'hui. Le nuage a bloqué le soleil hier. J'ai vu une belle formation de nuages la semaine dernière.",
-      "imageLink": "cloud.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cloud.jpg",
       "audioLink": "cloud.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "ayant un ciel avec une grande proportion de nuage, plutôt que d'être clair et ensoleillé",
       "example": "Yesterday was cloudy, so we didn't go to the beach. Today it's cloudy, so we're staying home. Tomorrow will be cloudy, so we'll watch a movie.",
       "example_translation": "Hier, il était nuageux, donc nous n'avons pas été à la plage. Aujourd'hui, il est nuageux, donc nous restons à la maison. Demain sera nuageux, donc nous allons regarder un film.",
-      "imageLink": "cloudy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cloudy.jpg",
       "audioLink": "cloudy.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "une masse nuageuse de petites gouttes d'eau suspendues dans l'air près du sol, réduisant la visibilité",
       "example": "The fog was so thick that we had to slow down while driving. The fog lifted, and we could see the city. The fog will roll in again tonight.",
       "example_translation": "Le brouillard était tellement épais que nous devions ralentir en conduisant. Le brouillard s'est dissipé, et nous avons pu voir la ville. Le brouillard reviendra ce soir.",
-      "imageLink": "fog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fog.jpg",
       "audioLink": "fog.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "ayant ou caractérisé par le brouillard",
       "example": "The foggy morning made it hard to see the road. The foggy weather was perfect for a walk. The foggy night will make it difficult to navigate.",
       "example_translation": "Le matin brumeux rendait difficile de voir la route. Le temps brumeux était parfait pour une promenade. La nuit brumeuse rendra difficile de naviguer.",
-      "imageLink": "foggy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "foggy.jpg",
       "audioLink": "foggy.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "une substance solide, transparente et fragile formée à partir de l'eau, utilisée pour refroidir les boissons ou les aliments",
       "example": "We put ice in our drinks to keep them cold. The ice melted quickly in the sun. We'll need more ice for the party tonight.",
       "example_translation": "Nous avons mis de la glace dans nos boissons pour les garder froides. La glace a fondu rapidement au soleil. Nous aurons besoin de plus de glace pour la soirée ce soir.",
-      "imageLink": "ice-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ice-1.jpg",
       "audioLink": "ice.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "La saison de l'année entre l'hiver et l'été, pendant laquelle le temps devient plus chaud et les plantes commencent à pousser.",
       "example": "I loved playing outside in the spring when I was a kid. I play soccer in the spring league now. I will plant a garden in the spring next year.",
       "example_translation": "J'aimais jouer dehors au printemps lorsque j'étais gosse. Je joue au football dans la ligue de printemps maintenant. Je planterai un jardin au printemps l'an prochain.",
-      "imageLink": "spring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spring.jpg",
       "audioLink": "spring.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Une condition météorologique sévère caractérisée par des vents forts, des précipitations abondantes et souvent du tonnerre et des éclairs.",
       "example": "The storm damaged our roof last night. I'm preparing for the storm that's coming tonight. The storm will pass soon and the sun will come out.",
       "example_translation": "L'orage a endommagé notre toit hier soir. Je me prépare pour l'orage qui arrive ce soir. L'orage passera bientôt et le soleil sortira.",
-      "imageLink": "storm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "storm.jpg",
       "audioLink": "storm.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Ayant beaucoup de soleil ; chaud et lumineux.",
       "example": "I love walking on sunny days. The sunny weather makes me happy. We will have a sunny vacation in July.",
       "example_translation": "J'aime marcher les jours ensoleillés. Le temps ensoleillé me rend heureux. Nous aurons des vacances ensoleillées en juillet.",
-      "imageLink": "sunny.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunny.jpg",
       "audioLink": "sunny.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un orage avec de la pluie abondante, du tonnerre et des éclairs.",
       "example": "I'm afraid of thunderstorms. We had a severe thunderstorm last week. The thunderstorm will pass soon and the sky will be clear.",
       "example_translation": "J'ai peur des orages de tonnerre. Nous avons eu un orage de tonnerre sévère la semaine dernière. L'orage de tonnerre passera bientôt et le ciel sera clair.",
-      "imageLink": "thunderstorm-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thunderstorm-1.jpg",
       "audioLink": "thunderstorm.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Couvert ou saturé d'eau ou d'un autre liquide.",
       "example": "The dog was wet from playing in the rain. Yesterday, it was wet from swimming in the lake. Tomorrow, it will be wet from the morning dew.",
       "example_translation": "Le chien était humide après avoir joué sous la pluie. Hier, il était humide après avoir nagé dans le lac. Demain, il sera humide à cause de la rosée du matin.",
-      "imageLink": "wet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wet.jpg",
       "audioLink": "wet.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Ayant un vent fort ; caractérisé par ou provoquant un courant d'air fort.",
       "example": "The day was windy, so we had to hold onto our hats. The city was windy when we visited last year. Next week, it will be windy when the storm arrives.",
       "example_translation": "Le jour était venté, donc nous avons dû nous accrocher à nos chapeaux. La ville était ventée lorsque nous avons visité l'année dernière. La semaine prochaine, ce sera venté lorsque la tempête arrivera.",
-      "imageLink": "windy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "windy.jpg",
       "audioLink": "windy.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Produire un courant d'air ; exhale ou inhale de l'air.",
       "example": "The wind began to blow strongly. Yesterday, the fan blew hot air. Tomorrow, the hair dryer will blow cool air.",
       "example_translation": "Le vent a commencé à souffler fort. Hier, le ventilateur soufflait de l'air chaud. Demain, le séchoir à cheveux soufflera de l'air frais.",
-      "imageLink": "blow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blow.jpg",
       "audioLink": "blow.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un vent léger, especially un agréable.",
       "example": "The warm breeze on the beach felt amazing. Yesterday, a light breeze rustled the leaves. Tomorrow, a cool breeze will come with the morning sun.",
       "example_translation": "La brise chaude sur la plage était incroyable. Hier, une brise légère a fait remuer les feuilles. Demain, une brise fraîche viendra avec le soleil du matin.",
-      "imageLink": "breeze.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "breeze.jpg",
       "audioLink": "breeze.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "une forme d'énergie qui est transférée par une différence de température",
       "example": "The heat from the sun warmed the Earth, it warms it now, and it will warm it in the future.",
       "example_translation": "La chaleur du soleil a réchauffé la Terre, elle la réchauffe maintenant, et elle la réchauffera à l'avenir.",
-      "imageLink": "heat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heat.jpg",
       "audioLink": "heat.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "un éclair brillant d'électricité dans l'atmosphère, généralement accompagné de tonnerre",
       "example": "The lightning illuminated the dark sky, it illuminates it now, and it will illuminate it in the future.",
       "example_translation": "L'éclair a éclairé le ciel sombre, il l'éclaire maintenant, et il l'éclairera à l'avenir.",
-      "imageLink": "lightning.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lightning.jpg",
       "audioLink": "lightning.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "chacune des quatre périodes de l'année, caractérisées par des modèles de temps différents",
       "example": "The season of winter was cold, it is cold now, and it will be cold in the future.",
       "example_translation": "La saison d'hiver était froide, elle est froide maintenant, et elle sera froide à l'avenir.",
-      "imageLink": "season.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "season.jpg",
       "audioLink": "season.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "le moment du matin où le soleil apparaît au-dessus de l'horizon",
       "example": "The sunrise was beautiful yesterday, it is beautiful today, and it will be beautiful tomorrow.",
       "example_translation": "Le lever du soleil était beau hier, il est beau aujourd'hui, et il sera beau demain.",
-      "imageLink": "sunrise.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunrise.jpg",
       "audioLink": "sunrise.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Le moment du soir où le soleil disparaît en-dessous de l'horizon, souvent entraînant un spectacle de ciel coloré.",
       "example": "I watched the sunset on the beach with my friends. We had watched the sunset the previous day. We will watch the sunset again tomorrow.",
       "example_translation": "J'ai regardé le coucher de soleil sur la plage avec mes amis. Nous avions regardé le coucher de soleil la veille. Nous regarderons le coucher de soleil à nouveau demain.",
-      "imageLink": "sunset.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunset.jpg",
       "audioLink": "sunset.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "La lumière chaude et brillante du soleil, notamment lorsqu'il brille à travers les nuages.",
       "example": "The sunshine streaming through the window brightened up the room. We had enjoyed the sunshine during our picnic. We will bask in the sunshine on our next vacation.",
       "example_translation": "L'ensoleillement qui entrait par la fenêtre a éclairé la pièce. Nous avions apprécié l'ensoleillement pendant notre pique-nique. Nous nous délasserons à l'ensoleillement lors de notre prochaine vacance.",
-      "imageLink": "sunshine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunshine.jpg",
       "audioLink": "sunshine.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un bruit fort et grondant qui accompagne la foudre, généralement pendant une tempête.",
       "example": "I was scared of the thunder during the storm. We had heard the thunder last night. We will hear the thunder again during the next storm.",
       "example_translation": "J'étais effrayé par le tonnerre pendant la tempête. Nous avions entendu le tonnerre la nuit dernière. Nous entendrons le tonnerre à nouveau pendant la prochaine tempête.",
-      "imageLink": "thunder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thunder.jpg",
       "audioLink": "thunder.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "La lumière du jour, par opposition à l'obscurité ou à la lumière artificielle.",
       "example": "I prefer to take a walk in the daylight. We had played outside in the daylight yesterday. We will enjoy the daylight during our morning hike.",
       "example_translation": "Je préfère prendre une promenade en jour. Nous avions joué dehors en jour hier. Nous allons apprécier le jour pendant notre randonnée matinale.",
-      "imageLink": "daylight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daylight.jpg",
       "audioLink": "daylight.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un ouragan est un type de cyclone tropical qui se forme sur les eaux chaudes de l'océan Atlantique, de la mer des Caraïbes et du golfe du Mexique.",
       "example": "The hurricane hit the coast last night, causing widespread destruction. It will make landfall again tomorrow, and it is expected to bring heavy rainfall. By next week, it will have dissipated.",
       "example_translation": "L'ouragan a frappé la côte hier soir, causant des dégâts généralisés. Il touchera à nouveau terre demain, et il est attendu qu'il apporte des précipitations abondantes. D'ici une semaine, il aura disparu.",
-      "imageLink": "hurricane.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hurricane.jpg",
       "audioLink": "hurricane.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Le clair de lune est la lumière douce et argentée qui est réfléchie sur la surface de la Terre par la Lune.",
       "example": "The couple took a romantic walk on the beach under the moonlight. They danced in the moonlight at their wedding reception last year. By next year, they will have built a house with a beautiful view of the moonlight.",
       "example_translation": "Le couple a fait une promenade romantique sur la plage sous le clair de lune. Ils ont dansé sous le clair de lune à leur réception de mariage l'année dernière. D'ici l'année prochaine, ils auront construit une maison avec une belle vue sur le clair de lune.",
-      "imageLink": "moonlight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "moonlight.jpg",
       "audioLink": "moonlight.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un arc-en-ciel est un phénomène naturel beau qui se produit lorsque la lumière du soleil traverse des gouttes d'eau dans l'air.",
       "example": "The rainbow appeared in the sky after the rainstorm. I saw a double rainbow at the waterfall last week. By next summer, I will have seen a rainbow in every country I visit.",
       "example_translation": "L'arc-en-ciel est apparu dans le ciel après la tempête de pluie. J'ai vu un arc-en-ciel double à la cascade la semaine dernière. D'ici l'été prochain, j'aurai vu un arc-en-ciel dans chaque pays que je visite.",
-      "imageLink": "rainbow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rainbow.jpg",
       "audioLink": "rainbow.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Les précipitations sont la quantité de pluie qui tombe sur une zone pendant une certaine période de temps.",
       "example": "The rainfall in this region is very high during the monsoon season. The country experienced heavy rainfall last year, causing flooding. By next year, the rainfall is expected to decrease due to climate change.",
       "example_translation": "Les précipitations dans cette région sont très élevées pendant la saison des moussons. Le pays a connu des précipitations abondantes l'année dernière, causant des inondations. D'ici l'année prochaine, les précipitations devraient diminuer en raison du changement climatique.",
-      "imageLink": "rainfall.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rainfall.jpg",
       "audioLink": "rainfall.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Caractérisé ou causant une perturbation de l'atmosphère, notamment avec des vents forts et des pluies abondantes.",
       "example": "The stormy weather prevented us from going to the beach, but we will go tomorrow if it clears up, and we went last week when it was sunny.",
       "example_translation": "Le temps orageux nous a empêchés d'aller à la plage, mais nous irons demain si le temps se dégage, et nous sommes allés la semaine dernière lorsque le soleil brillait.",
-      "imageLink": "stormy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stormy.jpg",
       "audioLink": "stormy.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "La lumière du soleil, en particulier lorsque elle brille à travers l'atmosphère.",
       "example": "We sat in the garden enjoying the warm sunlight, and we will do it again tomorrow morning, but yesterday it was cloudy.",
       "example_translation": "Nous nous sommes assis dans le jardin, nous délectant de la chaude lumière du soleil, et nous le ferons à nouveau demain matin, mais hier il y avait des nuages.",
-      "imageLink": "sunlight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunlight.jpg",
       "audioLink": "sunlight.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "L'heure du jour immédiatement suivant le coucher du soleil, caractérisée par une lumière diffusée et assourdie.",
       "example": "We went for a walk during twilight, and we will do it again tomorrow evening, but yesterday it was dark when we got home.",
       "example_translation": "Nous avons fait une promenade pendant le crépuscule, et nous le ferons à nouveau demain soir, mais hier il faisait nuit sombre lorsque nous sommes rentrés à la maison.",
-      "imageLink": "twilight.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "twilight.jpg",
       "audioLink": "twilight.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un violent blizzard, notamment avec des vents forts et des chutes de neige abondantes.",
       "example": "We got stuck in a blizzard on our way home, and we will be more careful tomorrow, but last week the weather was mild.",
       "example_translation": "Nous nous sommes retrouvés bloqués dans un blizzard sur notre route du retour, et nous serons plus prudents demain, mais la semaine dernière le temps était doux.",
-      "imageLink": "blizzard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blizzard.jpg",
       "audioLink": "blizzard.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Une période prolongée de temps anormalement chaud, notamment pendant l'été.",
       "example": "The heatwave last year was unbearable, and many people suffered from heatstroke. This summer, we're expecting a heatwave that will break all records. By next week, the heatwave will have passed, and the weather will return to normal.",
       "example_translation": "La canicule de l'année dernière était insupportable, et beaucoup de personnes ont souffert de coup de chaleur. Cette été, nous attendons une canicule qui brisera tous les records. D'ici la semaine prochaine, la canicule aura passé, et le temps reviendra à la normale.",
-      "imageLink": "heatwave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heatwave.jpg",
       "audioLink": "heatwave.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Une période prolongée de pluies anormalement faibles, entraînant une pénurie d'eau.",
       "example": "The drought last year affected the crops severely, and many farmers lost their livelihood. This year, we're experiencing a severe drought that has forced the government to impose water restrictions. By next year, the drought will have ended, and the crops will grow again.",
       "example_translation": "La sécheresse de l'année dernière a affecté les cultures de manière sévère, et beaucoup de fermiers ont perdu leur moyen de subsistance. Cette année, nous faisons face à une sécheresse sévère qui a forcé le gouvernement à instaurer des restrictions d'eau. D'ici l'année prochaine, la sécheresse aura pris fin, et les cultures repousseront à nouveau.",
-      "imageLink": "drought.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drought.jpg",
       "audioLink": "drought.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "De petites boules de glace qui tombent du ciel pendant une tempête.",
       "example": "The hail storm last week damaged the car's windshield, and we had to replace it. This afternoon, a hail storm is forecasted, and we need to take cover. By tomorrow, the hail storm will have passed, and the sun will shine again.",
       "example_translation": "La tempête de grêle de la semaine dernière a endommagé le pare-brise de la voiture, et nous avons dû le remplacer. Cet après-midi, une tempête de grêle est prévue, et nous devons nous abriter. Demain, la tempête de grêle aura passé, et le soleil brillera à nouveau.",
-      "imageLink": "hail-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hail-1.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "De petites boules de glace qui tombent du ciel pendant une tempête.",
       "example": "The hail storm last week damaged the car's windshield, and we had to replace it. This afternoon, a hail storm is forecasted, and we need to take cover. By tomorrow, the hail storm will have passed, and the sun will shine again.",
       "example_translation": "La tempête de grêle de la semaine dernière a endommagé le pare-brise de la voiture, et nous avons dû le remplacer. Cet après-midi, une tempête de grêle est prévue, et nous devons nous abriter. Demain, la tempête de grêle aura passé, et le soleil brillera à nouveau.",
-      "imageLink": "hail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hail.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un petit élément de glace qui se forme dans les nuages cumulonimbus et tombe au sol pendant un orage.",
       "example": "The hailstones damaged the crops during the storm. Yesterday, a hailstone hit my car window. Tomorrow, I'll make sure to park my car in a safe place to avoid hailstones.",
       "example_translation": "Les grélons ont endommagé les cultures pendant la tempête. Hier, un grêlon a frappé la vitre de ma voiture. Demain, je vais prendre soin de garer ma voiture dans un endroit sûr pour éviter les grélons.",
-      "imageLink": "hailstone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hailstone.jpg",
       "audioLink": "hailstone.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un orage qui produit de la grêle, caractérisé par des vents forts, des précipitations abondantes et un tonnerre assourdissant.",
       "example": "The hailstorm caused widespread damage to the city. Last year, we had a severe hailstorm that damaged our roof. Next summer, we'll be prepared for the hailstorm season.",
       "example_translation": "L'orage de grêle a causé des dégâts généralisés dans la ville. L'an dernier, nous avons eu un orage de grêle sévère qui a endommagé notre toit. L'été prochain, nous serons prêts pour la saison des orages de grêle.",
-      "imageLink": "hailstorm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hailstorm.jpg",
       "audioLink": "hailstorm.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Une colonne d'air qui tourne rapidement qui se forme pendant un orage, caractérisée par des vitesses de vent élevées et une puissance destructrice.",
       "example": "The whirlwind swept through the town, causing chaos. Yesterday, I witnessed a whirlwind that destroyed several buildings. In the future, we'll have to be prepared for whirlwinds like that.",
       "example_translation": "Le tourbillon a balayé la ville, causant le chaos. Hier, j'ai été témoin d'un tourbillon qui a détruit plusieurs bâtiments. Dans l'avenir, nous devrons être prêts pour les tourbillons comme celui-là.",
-      "imageLink": "whirlwind.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "whirlwind.jpg",
       "audioLink": "whirlwind.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Une chute lente et régulière de pluie, caractérisée par de petites gouttes d'eau qui tombent du ciel.",
       "example": "The drizzle made the walk very unpleasant. Last week, it was drizzling all day. Tomorrow, I hope it won't drizzle during my picnic.",
       "example_translation": "La bruine a rendu la promenade très désagréable. La semaine dernière, il bruinait toute la journée. Demain, j'espère que ça ne bruinera pas pendant mon pique-nique.",
-      "imageLink": "drizzle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drizzle.jpg",
       "audioLink": "drizzle.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un vent fort qui soulève de grandes quantités de poussière et de sable, réduisant la visibilité et pouvant ocasiner des problèmes respiratoires.",
       "example": "The town was hit by a massive dust storm yesterday, The residents have been experiencing dust storms for weeks now, and a severe dust storm is predicted to hit the city by tomorrow.",
       "example_translation": "La ville a été frappée par une tempête de poussière massive hier, Les résidents connaissent des tempêtes de poussière depuis des semaines maintenant, et une tempête de poussière sévère est prévue pour frapper la ville demain.",
-      "imageLink": "dust-storm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dust-storm.jpg",
       "audioLink": "dust storm.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "dotyczący lub charakterystyczny dla Etiopii lub jej ludzi",
       "example": "The Abyssinian cat is a popular breed.",
       "example_translation": "Kot Abisyn jest popularną rasą.",
-      "imageLink": "image_files\\English\\abyssinian.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "abyssinian.jpg",
       "audioLink": "audio_files\\English\\Abyssinian.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Rasa kota domowego pochodząca ze Stanów Zjednoczonych, znana ze swojej zwartej budowy i krótkiej, gęstej sierści.",
       "example": "The American shorthair is a popular pet due to its calm and affectionate nature.",
       "example_translation": "Amerykański krótkowłosy jest popularnym zwierzęciem domowym ze względu na swoją spokojną i czułą naturę.",
-      "imageLink": "image_files\\English\\american-shorthair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "american-shorthair.jpg",
       "audioLink": "audio_files\\English\\American shorthair.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Domesticzny kot rasy uzyskanej przez skrzyżowanie azjatyckiego kota lleopardowego z kotem domowym, charakteryzujący się swoją wyjątkową płatkową lub marmurkową szatą.",
       "example": "My sister has a beautiful Bengal cat named Luna.",
       "example_translation": "Moja siostra ma piękny kota Bengałskiego imieniem Luna.",
-      "imageLink": "image_files\\English\\bengal-cat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bengal-cat.jpg",
       "audioLink": "audio_files\\English\\Bengal cat.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Rasa domowego kota pochodząca z Birmy, charakteryzująca się zwartej budowie i krótkim, delikatnym umaszczeniem z punktowanym wzorem.",
       "example": "The Birman cat is known for its calm and affectionate nature.",
       "example_translation": "Kot birmański jest znany ze swej spokojnej i uczuciowej natury.",
-      "imageLink": "image_files\\English\\birman.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "birman.jpg",
       "audioLink": "audio_files\\English\\Birman.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Rasa kotów domowych pochodząca z Wielkiej Brytanii",
       "example": "The British shorthair is a popular breed of cat known for its easy-going nature.",
       "example_translation": "Brytyjski krótkowłosy jest popularną rasą kotów znanych ze swego spokojnego usposobienia.",
-      "imageLink": "image_files\\English\\british-shorthair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "british-shorthair.jpg",
       "audioLink": "audio_files\\English\\British shorthair.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "dotyczący Birmy lub jej ludności",
       "example": "The Burmese government has faced criticism for its human rights record.",
       "example_translation": "Rząd birmański został skrytykowany za swoją dokumentację praw człowieka.",
-      "imageLink": "image_files\\English\\burmese.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "burmese.jpg",
       "audioLink": "audio_files\\English\\Burmese.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Rasa domowego kota pochodząca z Francji, znana z charakterystycznego szaro-niebieskiego ubarwienia i dużych rozmiarów.",
       "example": "The Chartreux is a large and muscular cat, with a broad chest and strong legs.",
       "example_translation": "Czartreusek jest dużym i muskularnym kotem, z szeroką klatką piersiową i mocnymi nogami.",
-      "imageLink": "image_files\\English\\chartreux.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chartreux.jpg",
       "audioLink": "audio_files\\English\\Chartreux.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "rasa kotów domowych pochodząca z Himalajów, charakteryzująca się wzorem ubarwienia punktu i spokojnym usposobieniem",
       "example": "The colourpoint Himalayan is a popular breed among cat fanciers.",
       "example_translation": "Kolorpunkt himalajski jest popularną rasą wśród miłośników kotów.",
-      "imageLink": "image_files\\English\\colourpoint-himalayan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "colourpoint-himalayan.jpg",
       "audioLink": "audio_files\\English\\colourpoint, Himalayan.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Rasa domu kotu znana z kręconych, miękkich futer",
       "example": "The Devon Rex is a popular breed of cat in England.",
       "example_translation": "Rex Devon jest popularną rasą kota w Anglii.",
-      "imageLink": "image_files\\English\\devon-rex.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "devon-rex.jpg",
       "audioLink": "audio_files\\English\\Devon Rex.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "kot trzymany jako zwierzę domowe",
       "example": "The domestic cat is a popular pet.",
       "example_translation": "Kot domowy jest popularnym zwierzęciem domowym.",
-      "imageLink": "image_files\\English\\domestic-cat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "domestic-cat.jpg",
       "audioLink": "audio_files\\English\\domestic cat.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "rasa kota znana z krótkiej, gęstej sierści i spokojnego usposobienia",
       "example": "The exotic shorthair is a popular breed of domestic cat.",
       "example_translation": "Egzotyczny krótkowłosy jest popularną rasą kota domowego.",
-      "imageLink": "image_files\\English\\exotic-shorthair.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exotic-shorthair.jpg",
       "audioLink": "audio_files\\English\\exotic shorthair.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Rasa domowego kota pochodzącego z Japonii, charakteryzująca się krótkim, puszystym ogonem.",
       "example": "The Japanese bobtail is a popular breed of cat in Japan.",
       "example_translation": "Japoński kot ogoniasty jest popularną rasą kota w Japonii.",
-      "imageLink": "image_files\\English\\japanese-bobtail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "japanese-bobtail.jpg",
       "audioLink": "audio_files\\English\\Japanese bobtail.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Domesticzny kot określonej rasy, znany ze swojego charakterystycznego wyglądu i przyjaznego usposobienia.",
       "example": "The Maine Coon is a popular breed of domestic cat.",
       "example_translation": "Kot Maine Coon jest popularną rasą kota domowego.",
-      "imageLink": "image_files\\English\\maine-coon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "maine-coon.jpg",
       "audioLink": "audio_files\\English\\Maine coon.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Rasa kota domowego pochodząca z Norwegii, znana z grubego futra i zabawowej osobowości.",
       "example": "The Norwegian Forest cat is a popular breed among cat fanciers.",
       "example_translation": "Norweski Leśny Kot jest popularną rasą wśród miłośników kotów.",
-      "imageLink": "image_files\\English\\norwegian-forest-cat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "norwegian-forest-cat.jpg",
       "audioLink": "audio_files\\English\\Norwegian Forest cat.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "domowy kot rasy hodowanej, aby przypominał dzikiego kota, charakteryzujący się swoim szczególnym umaszczeniem i dużymi rozmiarami",
       "example": "The ocicat is a popular breed of cat known for its intelligence and playfulness.",
       "example_translation": "Okolatek jest popularną rasą kota znana ze swej inteligencji i zabawowości.",
-      "imageLink": "image_files\\English\\ocicat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ocicat.jpg",
       "audioLink": "audio_files\\English\\ocicat.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "dotyczący Persji lub jej ludności lub języka",
       "example": "The Persian Empire was one of the greatest empires in history.",
       "example_translation": "Cesarstwo Perskie było jednym z największych cesarstw w historii.",
-      "imageLink": "image_files\\English\\persian.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "persian.jpg",
       "audioLink": "audio_files\\English\\Persian.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Lalka trzymana to rodzaj kota, który jest znany ze swojej miękkiej i aksamitnej szaty.",
       "example": "The child was playing with her new ragdoll cat.",
       "example_translation": "Dziecko bawiło się ze swoją nową lalką trzymaną kotem.",
-      "imageLink": "image_files\\English\\ragdoll.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ragdoll.jpg",
       "audioLink": "audio_files\\English\\Ragdoll.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "rasa kotów domowych, znana z gęstej, puszystej szaty i zielonych oczu",
       "example": "The Russian Blue is a popular breed of cat among cat fanciers.",
       "example_translation": "Niebieski Rosyjski jest popularną rasą kota wśród miłośników kotów.",
-      "imageLink": "image_files\\English\\russian-blue.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "russian-blue.jpg",
       "audioLink": "audio_files\\English\\Russian Blue.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "region trawiasta południowej Ameryki Południowej, szczególnie w Argentynie, charakteryzująca się trawami i nielicznymi drzewami",
       "example": "The savannah is home to many wild animals.",
       "example_translation": "Sawanna jest domem dla wielu dzikich zwierząt.",
-      "imageLink": "image_files\\English\\savannah.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "savannah.jpg",
       "audioLink": "audio_files\\English\\Savannah.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Rasa kota domowego znana z charakterystycznych uszu zgiętych.",
       "example": "The Scottish Fold is a popular breed among cat fanciers.",
       "example_translation": "Szkocka Zwinięta jest popularną rasą wśród miłośników kotów.",
-      "imageLink": "image_files\\English\\scottish-fold.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scottish-fold.jpg",
       "audioLink": "audio_files\\English\\Scottish Fold.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "pochodzący z Syjamu (obecnie Tajlandia); odnoszący się do Syjamu lub charakteryzujący się cechami Syjamu",
       "example": "The Siamese cat is a popular breed.",
       "example_translation": "Kot syjamski jest popularną rasą.",
-      "imageLink": "image_files\\English\\siamese.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "siamese.jpg",
       "audioLink": "audio_files\\English\\Siamese.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "dotyczący Syberii lub jej mieszkańców",
       "example": "The Siberian tiger is an endangered species.",
       "example_translation": "Tygrys syberyjski jest gatunkiem zagrożonym.",
-      "imageLink": "image_files\\English\\siberian.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "siberian.jpg",
       "audioLink": "audio_files\\English\\Siberian.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "członek muzułmańskiego ludu żyjącego w Somalii",
       "example": "The Somali refugees were resettled in the United States.",
       "example_translation": "Somalijskich uchodźców przesiedlono do Stanów Zjednoczonych.",
-      "imageLink": "image_files\\English\\somali.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "somali.jpg",
       "audioLink": "audio_files\\English\\Somali.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "rasa kota znana z braku sierści",
       "example": "The Sphynx is a curious and playful cat.",
       "example_translation": "Sfinks jest ciekawskim i zabawnym kotem.",
-      "imageLink": "image_files\\English\\sphynx.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sphynx.jpg",
       "audioLink": "audio_files\\English\\Sphynx.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "rasa.domowej kota pochodząca z Turcji",
       "example": "The Turkish Angora is known for its beautiful white coat.",
       "example_translation": "Turecka Angora jest znana z pięknego białego futra.",
-      "imageLink": "image_files\\English\\turkish-angora.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turkish-angora.jpg",
       "audioLink": "audio_files\\English\\Turkish Angora.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Rasa kociego domowego pochodząca z Turcji, znana ze swojej charakterystycznej białej i kolorowej szaty.",
       "example": "The Turkish Van is a popular breed of cat in many parts of the world.",
       "example_translation": "Wan turecki jest popularną rasą kota w wielu częściach świata.",
-      "imageLink": "image_files\\English\\turkish-van.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turkish-van.jpg",
       "audioLink": "audio_files\\English\\Turkish Van.mp3"
     }
   ]

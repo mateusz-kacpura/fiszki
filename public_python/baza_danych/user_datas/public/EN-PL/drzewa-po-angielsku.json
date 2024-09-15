@@ -9,7 +9,7 @@
       "definition_translation": "roślina wieloletnia o wydłużonym pniu, wspierającym gałęzie i liście w większości gatunków",
       "example": "The tree in our backyard is very tall.",
       "example_translation": "Drzewo w naszym ogródku jest bardzo wysokie.",
-      "imageLink": "image_files\\English\\tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tree.jpg",
       "audioLink": "audio_files\\English\\tree.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Drzewo, które produkuje jabłka",
       "example": "The apple tree in our backyard is blooming",
       "example_translation": "Drzewo jabłoniowe w naszym ogródku kwitnie",
-      "imageLink": "image_files\\English\\apple-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apple-tree.jpg",
       "audioLink": "audio_files\\English\\apple tree.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "duży obszar ziemi pokryty drzewami i podszytem",
       "example": "The hikers got lost in the forest.",
       "example_translation": "Wędrowcy zgubili się w lesie.",
-      "imageLink": "image_files\\English\\forest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forest.jpg",
       "audioLink": "audio_files\\English\\forest.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Oddział większej organizacji lub firmy.",
       "example": "The bank has a branch in every major city.",
       "example_translation": "Bank ma oddział w każdym dużym mieście.",
-      "imageLink": "image_files\\English\\branch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "branch.jpg",
       "audioLink": "audio_files\\English\\branch.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Drzewo, które produkuje owoce, zwykle uprawiane w sadzie lub ogrodzie.",
       "example": "The fruit tree in our backyard is blooming beautifully.",
       "example_translation": "Drzewo owocowe w naszym ogródku kwitnie pięknie.",
-      "imageLink": "image_files\\English\\fruit-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fruit-tree.jpg",
       "audioLink": "audio_files\\English\\fruit tree.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "płaska zielona struktura, która rośnie na roślinach",
       "example": "The tree had many leaves.",
       "example_translation": "Drzewo miało wiele liści.",
-      "imageLink": "image_files\\English\\leaf.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leaf.jpg",
       "audioLink": "audio_files\\English\\leaf.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "drzewo lub krzew o twardej, sztywnej drewnie, często używane do produkcji mebli i budynków",
       "example": "The old oak tree stood tall in the middle of the park.",
       "example_translation": "Stary dąb stał wysoko w środku parku.",
-      "imageLink": "image_files\\English\\oak.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "oak.jpg",
       "audioLink": "audio_files\\English\\oak.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "drzewo, które produkuje owoce zwane śliwkami",
       "example": "The plum tree in our backyard is blooming.",
       "example_translation": "Drzewo śliwowe w naszym ogródku kwitnie.",
-      "imageLink": "image_files\\English\\plum-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "plum-tree.jpg",
       "audioLink": "audio_files\\English\\plum tree.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Podziemna część rośliny, która wchłania wodę i składniki odżywcze.",
       "example": "The root of the tree was damaged during the storm.",
       "example_translation": "Korzeń drzewa został uszkodzony podczas burzy.",
-      "imageLink": "image_files\\English\\root.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "root.jpg",
       "audioLink": "audio_files\\English\\root.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "wewnętrzna powierzchnia dłoni od nadgarstka do podstawy palców",
       "example": "She placed her palm on the table.",
       "example_translation": "Położyła dłoń na stole.",
-      "imageLink": "image_files\\English\\palm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "palm.jpg",
       "audioLink": "audio_files\\English\\palm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "obszar ziemi pokryty drzewami i podszytem",
       "example": "The hikers got lost in the woodland.",
       "example_translation": "Wędrowcy zgubili się w lesie.",
-      "imageLink": "image_files\\English\\woodland.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "woodland.jpg",
       "audioLink": "audio_files\\English\\woodland.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "drzewo lub krzew z ostrymi cierniami i kwiatami żółtymi lub białymi",
       "example": "The acacia tree provided shade in the desert.",
       "example_translation": "Drzewo akacji zapewniało cień na pustyni.",
-      "imageLink": "image_files\\English\\acacia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "acacia.jpg",
       "audioLink": "audio_files\\English\\acacia.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Drzewo liściaste z liśćmi spiralnymi i szyszkami, rodzime z północnej Europy i Azji.",
       "example": "The alder tree grows near the riverbank.",
       "example_translation": "Drzewo olszy rośnie przy brzegu rzeki.",
-      "imageLink": "image_files\\English\\alder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alder.jpg",
       "audioLink": "audio_files\\English\\alder.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Małe drzewo liściaste pochodzące ze Środkowego Wschodu i Południowej Azji, uprawiane dla jego jadalnych orzechów.",
       "example": "The almond tree in our garden is blooming beautifully this spring.",
       "example_translation": "Drzewo migdałowe w naszym ogrodzie kwitnie pięknie tej wiosny.",
-      "imageLink": "image_files\\English\\almond-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "almond-tree.jpg",
       "audioLink": "audio_files\\English\\almond tree.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "pozostałości czegoś spalonego, takiego jak drewno, węgiel lub tytoń",
       "example": "The ash from the fire pit was still warm.",
       "example_translation": "Popiół z paleniska był jeszcze ciepły.",
-      "imageLink": "image_files\\English\\ash.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ash.jpg",
       "audioLink": "audio_files\\English\\ash.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "drzewo liściaste z Afryki i Australii, o szerokim pniu i charakterystycznym, butelkowatym kształcie",
       "example": "The baobab tree is a symbol of wisdom and strength in many African cultures.",
       "example_translation": "Drzewo baobab jest symbolem mądrości i siły w wielu kulturach afrykańskich.",
-      "imageLink": "image_files\\English\\baobab.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baobab.jpg",
       "audioLink": "audio_files\\English\\baobab.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Rodzaj drzewa o gładkiej, szarej korze i małych orzechach.",
       "example": "The forest was dominated by beech trees.",
       "example_translation": "Las był dominowany przez drzewa bukowe.",
-      "imageLink": "image_files\\English\\beech.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beech.jpg",
       "audioLink": "audio_files\\English\\beech.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Drzewo liściaste o białej, papierowej kórce.",
       "example": "The birch tree in the garden was towering above the rest.",
       "example_translation": "Drzewo brzozowe w ogrodzie wyrastało ponad resztę.",
-      "imageLink": "image_files\\English\\birch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "birch.jpg",
       "audioLink": "audio_files\\English\\birch.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "gałąź, szczególnie duża lub główna, drzewa",
       "example": "The bird perched on a bough high above the ground.",
       "example_translation": "Ptak usiadł na gałęzi wysoko nad ziemią.",
-      "imageLink": "image_files\\English\\bough.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bough.jpg",
       "audioLink": "audio_files\\English\\bough.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "typ wiecznie zielonego drzewa o charakterystycznym, stożkowatym kształcie",
       "example": "The cedar wood is very fragrant.",
       "example_translation": "Drewno cedrowe jest bardzo aromatyczne.",
-      "imageLink": "image_files\\English\\cedar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cedar.jpg",
       "audioLink": "audio_files\\English\\cedar.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "drzewo lub krzew, który produkuje czereśnie",
       "example": "The cherry tree in our backyard is blooming.",
       "example_translation": "Czereśnia w naszym ogródku kwitnie.",
-      "imageLink": "image_files\\English\\cherry-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cherry-tree.jpg",
       "audioLink": "audio_files\\English\\cherry tree.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Drzewo palmowe, które produkuje orzechy kokosowe, rodzime w regionach tropikalnych.",
       "example": "The coconut palm tree towered above the beach.",
       "example_translation": "Drzewo palmy kokosowej wieżowało ponad plażą.",
-      "imageLink": "image_files\\English\\coconut-palm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coconut-palm.jpg",
       "audioLink": "audio_files\\English\\coconut palm.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "kształt podobny do trójkąta z okrągłą bazą",
       "example": "The kid was playing with an ice cream cone.",
       "example_translation": "Dziecko bawiło się z lodowym stożkiem.",
-      "imageLink": "image_files\\English\\cone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cone.jpg",
       "audioLink": "audio_files\\English\\cone.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "drzewo, które produkuje szyszki i ma igłowe liście",
       "example": "The forest was dominated by coniferous trees.",
       "example_translation": "Las był dominowany przez drzewa iglaste.",
-      "imageLink": "image_files\\English\\coniferous-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coniferous-tree.jpg",
       "audioLink": "audio_files\\English\\coniferous tree.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "drzewo, które co roku ścina swoje liście",
       "example": "The park was full of deciduous trees, which created a beautiful autumn landscape.",
       "example_translation": "Park był pełen drzew liściastych, które tworzyły piękną jesienią krajobraz.",
-      "imageLink": "image_files\\English\\deciduous-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "deciduous-tree.jpg",
       "audioLink": "audio_files\\English\\deciduous tree.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "krzew o ciemnych, fioletowych jagodach, używany do produkcji dżemów, win i leków",
       "example": "Elderberry jam is a popular ingredient in many recipes.",
       "example_translation": "Dżem czarnego biedra jest popularnym składnikiem w wielu przepisach.",
-      "imageLink": "image_files\\English\\elderberry.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elderberry.jpg",
       "audioLink": "audio_files\\English\\elderberry.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "drzewo liściaste o rozgałęzionej kopule i liściach karbowanych",
       "example": "The elm tree in our backyard is over 100 years old.",
       "example_translation": "Drzewo wiązu w naszym ogródku ma ponad 100 lat.",
-      "imageLink": "image_files\\English\\elm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elm.jpg",
       "audioLink": "audio_files\\English\\elm.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "drzewo z małymi owocami, które są spożywane",
       "example": "The family grew a fig tree in their backyard.",
       "example_translation": "Rodzina hodowała drzewo figowe w swoim podwórku.",
-      "imageLink": "image_files\\English\\fig-tree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fig-tree.jpg",
       "audioLink": "audio_files\\English\\fig tree.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "drzewo iglaste z rodzaju Abies, typowo mające liście igłowate i produkujące szyszki",
       "example": "The forest was filled with tall fir trees.",
       "example_translation": "Las był pełen wysokich drzew żółciaków.",
-      "imageLink": "image_files\\English\\fir.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fir.jpg",
       "audioLink": "audio_files\\English\\fir.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "małe drzewo liściaste z gładkimi orzechami brązowymi",
       "example": "The hazel tree is often found in British woodlands.",
       "example_translation": "Drzewo leszczyny często spotyka się w lasach brytyjskich.",
-      "imageLink": "image_files\\English\\hazel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hazel.jpg",
       "audioLink": "audio_files\\English\\hazel.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "cieszący się zimozielony krzew lub drzewo o ciernistych gałęziach i czerwonych jagodach",
       "example": "The house was decorated with holly and mistletoe for Christmas.",
       "example_translation": "Dom był ozdobiony ostrokrzewem i szczotkiem świętojańskim na Boże Narodzenie.",
-      "imageLink": "image_files\\English\\holly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "holly.jpg",
       "audioLink": "audio_files\\English\\holly.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "drzewo liściaste z rodzaju Carpinus, mające gładką szarą korę i małe, orzechowe owoce",
       "example": "The hornbeam is a popular choice for hedges and topiary.",
       "example_translation": "Grab jest popularnym wyborem do żywopłotów i topiary.",
-      "imageLink": "image_files\\English\\hornbeam.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hornbeam.jpg",
       "audioLink": "audio_files\\English\\hornbeam.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "duży drzewo o liściach dłoniowych i kulistych orzechach, endemiczne dla południowej Europy i zachodniej Azji",
       "example": "The park was shaded by a beautiful horse chestnut tree.",
       "example_translation": "Park był zacieniony przez piękne drzewo kasztanowca.",
-      "imageLink": "image_files\\English\\horse-chestnut.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horse-chestnut.jpg",
       "audioLink": "audio_files\\English\\horse chestnut.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "drzewo lub krzew iglasty z rodzaju Juniperus, z liśćmi igłowymi i szyszkami",
       "example": "The garden was surrounded by a hedge of juniper.",
       "example_translation": "Ogród był otoczony żywopłotem jałowca.",
-      "imageLink": "image_files\\English\\juniper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "juniper.jpg",
       "audioLink": "audio_files\\English\\juniper.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "drzewo iglaste z rodzaju Larix, mające liście igłowe i szyszki",
       "example": "The larch tree was towering above the others in the forest.",
       "example_translation": "Drzewo modrzewia górowało nad innymi w lesie.",
-      "imageLink": "image_files\\English\\larch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "larch.jpg",
       "audioLink": "audio_files\\English\\larch.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "drzewo liściaste z rodzaju lipa, zwłaszcza T. europaea, mające liście sercowate i słodkie kwiaty.",
       "example": "The village was surrounded by a linden avenue.",
       "example_translation": "Wieś była otoczona aleją lipową.",
-      "imageLink": "image_files\\English\\linden.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "linden.jpg",
       "audioLink": "audio_files\\English\\linden.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Drzewo lub krzew z liśćmi kłoniastymi, szczególnie klon cukrowy, z którego wykorzystuje się sok do produkcji syropu klonowego",
       "example": "The maple tree in our backyard is beautiful in the fall.",
       "example_translation": "Drzewo klonowe w naszym ogródku jest piękne jesienią.",
-      "imageLink": "image_files\\English\\maple.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "maple.jpg",
       "audioLink": "audio_files\\English\\maple.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "małe drzewo liściaste o czerwonych jagodach, często używane w ogrodach ozdobnych",
       "example": "The rowan tree was covered in bright red berries.",
       "example_translation": "Drzewo jarzębina było pokryte świetlistymi czerwonymi jagodami.",
-      "imageLink": "image_files\\English\\rowan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rowan.jpg",
       "audioLink": "audio_files\\English\\rowan.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "typ dużego drzewa, które rośnie w Kalifornii",
       "example": "The Sequoia National Park is home to many giant sequoias.",
       "example_translation": "Park Narodowy Sekwoja jest domem dla wielu olbrzymich sekwoj.",
-      "imageLink": "image_files\\English\\sequoia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sequoia.jpg",
       "audioLink": "audio_files\\English\\sequoia.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "wysokie drzewo iglaste z liśćmi igličkowymi, często uprawiane dla drewna lub jako choinka świąteczna",
       "example": "The garden was decorated with a tall spruce tree for Christmas.",
       "example_translation": "Ogród był ozdobiony wysokim drzewem jałowcem na Boże Narodzenie.",
-      "imageLink": "image_files\\English\\spruce.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spruce.jpg",
       "audioLink": "audio_files\\English\\spruce.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Drzewo iglaste o liściach igłowatych, rodzime dla regionu śródziemnomorskiego.",
       "example": "The park was landscaped with stone pines and ornamental flowers.",
       "example_translation": "Park został zaaranżowany z jęzorzyznami i kwiatami ozdobnymi.",
-      "imageLink": "image_files\\English\\stone-pine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stone-pine.jpg",
       "audioLink": "audio_files\\English\\stone pine.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Drzewo iglaste rodzime dla gór centralnej Europy.",
       "example": "The Swiss pine is a popular Christmas tree in many European countries.",
       "example_translation": "Sosna szwajcarska jest popularnym choinkiem w wielu krajach europejskich.",
-      "imageLink": "image_files\\English\\swiss-pine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swiss-pine.jpg",
       "audioLink": "audio_files\\English\\Swiss pine.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "duży drzewo o korze, która odpada w płatach, zwykle mając szeroką, kopulastą koronę",
       "example": "The sycamore tree in the park is very old.",
       "example_translation": "Drzewo platanowe w parku jest bardzo stare.",
-      "imageLink": "image_files\\English\\sycamore.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sycamore.jpg",
       "audioLink": "audio_files\\English\\sycamore.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "mała, cienka gałąź, szczególnie ta, która została zerwana z drzewa",
       "example": "The bird built its nest on a twig.",
       "example_translation": "Ptak zbudował swoje gniazdo na gałąźce.",
-      "imageLink": "image_files\\English\\twig.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "twig.jpg",
       "audioLink": "audio_files\\English\\twig.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "drzewo z długimi, cienkimi gałęziami, które zwisają w dół",
       "example": "The weeping willow tree in our backyard is so beautiful.",
       "example_translation": "Drzewo placzka w naszym ogródku jest tak piękne.",
-      "imageLink": "image_files\\English\\weeping-willow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "weeping-willow.jpg",
       "audioLink": "audio_files\\English\\weeping willow.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "drzewo lub krzew z długimi, cienkimi gałęziami, które się uchylają w dół",
       "example": "The weeping willow tree stood tall by the river.",
       "example_translation": "Drzewo wierzbowe płacze stało wysoko nad rzeką.",
-      "imageLink": "image_files\\English\\willow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "willow.jpg",
       "audioLink": "audio_files\\English\\willow.mp3"
     }
   ]

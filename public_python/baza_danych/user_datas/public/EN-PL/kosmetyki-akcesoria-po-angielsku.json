@@ -9,7 +9,7 @@
       "definition_translation": "nierówny, szerokozębny instrument używany do układania lub czyszczenia włosów",
       "example": "She used a comb to detangle her hair.",
       "example_translation": "Użyła grzebienia, aby rozplątać swoje włosy.",
-      "imageLink": "image_files\\English\\comb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "comb.jpg",
       "audioLink": "audio_files\\English\\comb.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "płynny preparat do mycia włosów",
       "example": "I need to buy some shampoo for my hair.",
       "example_translation": "Muszę kupić szampon dla moich włosów.",
-      "imageLink": "image_files\\English\\shampoo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shampoo.jpg",
       "audioLink": "audio_files\\English\\shampoo.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "slodkie i bogate w składniki pokarmowe dane pochodzące z mleka",
       "example": "She spread cream on her toast.",
       "example_translation": "Ona nałożyła krem na swój toast.",
-      "imageLink": "image_files\\English\\cream-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cream-1.jpg",
       "audioLink": "audio_files\\English\\cream.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Substancja aplikowana na ciało, aby zapobiec zapachowi ciała.",
       "example": "I always make sure to apply deodorant after showering.",
       "example_translation": "Zawsze upewniam się, że aplikuję dezodorant po kąpieli.",
-      "imageLink": "image_files\\English\\deodorant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "deodorant.jpg",
       "audioLink": "audio_files\\English\\deodorant.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "krem kosmetyczny stosowany na skórę rąk w celu nawilżenia i zmiękczania",
       "example": "She applied hand cream to her dry hands before putting on her gloves.",
       "example_translation": "Ona nałożyła krem do rąk na swoje suche ręce, zanim włożyła rękawiczki.",
-      "imageLink": "image_files\\English\\hand-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hand-cream.jpg",
       "audioLink": "audio_files\\English\\hand cream.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "kosmetyczny sztyft do barwienia i nawilżania ust",
       "example": "She applied lipstick to her lips before going out.",
       "example_translation": "Nałożyła szminkę na usta przed wyjściem.",
-      "imageLink": "image_files\\English\\lipstick.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lipstick.jpg",
       "audioLink": "audio_files\\English\\lipstick.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": " substancja kosmetyczna do barwienia i grubienia rzęs",
       "example": "She applied mascara to her eyelashes to make them look longer.",
       "example_translation": "Ona nałożyła mascarę na rzęsy, aby wyglądały dłużej.",
-      "imageLink": "image_files\\English\\mascara.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mascara.jpg",
       "audioLink": "audio_files\\English\\mascara.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "pokrycie dla twarzy lub części twarzy",
       "example": "She wore a mask to the party.",
       "example_translation": "Ona miała maskę na imprezę.",
-      "imageLink": "image_files\\English\\facial-mask.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "facial-mask.jpg",
       "audioLink": "audio_files\\English\\mask.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Rodzaj żelu używanego do czyszczenia ciała podczas prysznica.",
       "example": "I need to buy a new shower gel for my upcoming trip.",
       "example_translation": "Muszę kupić nowy żel pod prysznic na nadchodzącą podróż.",
-      "imageLink": "image_files\\English\\shower-gel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shower-gel.jpg",
       "audioLink": "audio_files\\English\\shower gel.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Preparat kosmetyczny stosowany na skórze w celu jej nawilżenia i zmiękczenia.",
       "example": "She applied a rich body balm to her dry skin after the shower.",
       "example_translation": "Ona nałożyła bogaty balsam do ciała na swoją suchą skórę po prysznicu.",
-      "imageLink": "image_files\\English\\body-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "body-balm.jpg",
       "audioLink": "audio_files\\English\\body balm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Mała, okrągła podkładka watowa używana do nakładania lub usuwania kosmetyków, takich jak lakier do paznokci lub cień do powiek.",
       "example": "She used a cotton pad to remove her nail polish.",
       "example_translation": "Użyła watowej podkładki, aby usunąć lakier z paznokci.",
-      "imageLink": "image_files\\English\\make-up-cotton-pad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "make-up-cotton-pad.jpg",
       "audioLink": "audio_files\\English\\cotton pad.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "urządzenie używane do golenia, zwykle zasilane elektrycznie",
       "example": "He used an electric razor to shave his beard.",
       "example_translation": "On użył maszynki do golenia, aby ogolić brodę.",
-      "imageLink": "image_files\\English\\electric-razor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "electric-razor.jpg",
       "audioLink": "audio_files\\English\\electric razor.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "stężony ekstrakt roślinny stosowany w aromaterapii, perfumerii i medycynie",
       "example": "The aromatherapist added a few drops of essential oil to the massage oil.",
       "example_translation": "Aromaterapeuta dodał kilka kropli olejku eterycznego do olejku do masażu.",
-      "imageLink": "image_files\\English\\essential-oil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "essential-oil.jpg",
       "audioLink": "audio_files\\English\\essential oil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Małe urządzenie używane do kształtowania i curlowania rzęsek.",
       "example": "She used an eyelash curler to make her eyelashes look longer.",
       "example_translation": "Użyła nadziewacza rzęsek, aby sprawić, że jej rzęsy wyglądały dłużej.",
-      "imageLink": "image_files\\English\\eyelash-curler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyelash-curler.jpg",
       "audioLink": "audio_files\\English\\eyelash curler.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "substancja używana do zmiany koloru włosów",
       "example": "She used a hair dye to darken her hair.",
       "example_translation": "Ona użyła farby do włosów, aby ciemnieć swoje włosy.",
-      "imageLink": "image_files\\English\\hair-dye.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-dye.jpg",
       "audioLink": "audio_files\\English\\hair dye.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "narzędzie używane do kształtowania i wygładzania paznokci",
       "example": "Use a nail buffer to shape your nails before applying nail polish.",
       "example_translation": "Użyj szlifierki do paznokci, aby ukształtować paznokcie przed nałożeniem lakieru do paznokci.",
-      "imageLink": "image_files\\English\\nail-buffer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-buffer.jpg",
       "audioLink": "audio_files\\English\\nail buffer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "urządzenie służące do cięcia paznokci lub paznokci u stóp",
       "example": "She used a nail clipper to trim her toenails.",
       "example_translation": "Użyła nożyczek do paznokci, aby przystrzyc paznokcie u stóp.",
-      "imageLink": "image_files\\English\\nail-clipper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-clipper.jpg",
       "audioLink": "audio_files\\English\\nail clipper.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "narzędzie używane do kształtowania i gładzenia krawędzi paznokci rękowych lub stóp",
       "example": "She used a nail file to shape her nails before applying nail polish.",
       "example_translation": "Użyła pilnika do paznokci, aby uformować paznokcie przed nałożeniem lakieru do paznokci.",
-      "imageLink": "image_files\\English\\nail-file.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-file.jpg",
       "audioLink": "audio_files\\English\\nail file.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "narzędzie kuchenne z płaskim, szerokim ostrzem używanym do scraperowania, przewracania i podawania jedzenia",
       "example": "She used a spatula to flip the pancakes.",
       "example_translation": "Ona użyła szpatuły, aby przewrócić placki.",
-      "imageLink": "image_files\\English\\spatula.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spatula.jpg",
       "audioLink": "audio_files\\English\\spatula.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Produkt kosmetyczny łączący właściwości nawilżające z lekkim, przezroczystym kolorem dla wyrównania tonu skóry.",
       "example": "She applied a tinted moisturiser to give her skin a natural glow.",
       "example_translation": "Ona nałożyła krem podkładowy, aby nadać swojej skórze naturalny blask.",
-      "imageLink": "image_files\\English\\tinted-moisturiser.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tinted-moisturiser.jpg",
       "audioLink": "audio_files\\English\\tinted moisturiser.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Urządzenie lub pasek materiału umieszczony między palcami, aby je trzymać osobno.",
       "example": "You can buy a toe separator at a pharmacy to help with toe alignment.",
       "example_translation": "Możesz kupić dzielnik palca w aptece, aby pomóc w.alignacji palców.",
-      "imageLink": "image_files\\English\\toe-separator.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toe-separator.jpg",
       "audioLink": "audio_files\\English\\toe separator.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Ciekła lub żelowy balsam stosowany na skórze po goleniu, aby ją zacisnąć i nawilżyć.",
       "example": "He always uses aftershave to avoid razor burn.",
       "example_translation": "On zawsze używa balsamu po goleniu, aby uniknąć oparzeń od golenia.",
-      "imageLink": "image_files\\English\\aftershave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aftershave.jpg",
       "audioLink": "audio_files\\English\\aftershave.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "kosmetyk używany do nadania zdrowego wyglądu policzkom",
       "example": "She applied a blusher to her cheeks to give her face a natural look.",
       "example_translation": "Ona nałożyła różowe cienie na policzki, aby nadać swojej twarzy naturalny wygląd.",
-      "imageLink": "image_files\\English\\blusher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blusher.jpg",
       "audioLink": "audio_files\\English\\blusher.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Zabieg pielęgnacyjny, w którym mieszanka soli, cukru lub innych składników jest wcierana w skórę, aby usunąć martwe komórki skóry.",
       "example": "After using the body scrub, my skin felt incredibly smooth.",
       "example_translation": "Po użyciu peelingu ciała, moja skóra czuła się niesamowicie gładka.",
-      "imageLink": "image_files\\English\\scrub.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scrub.jpg",
       "audioLink": "audio_files\\English\\body scrub.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Kąpiel, w której woda została spieniona przez dodanie produktu, który produkuje bąbelki.",
       "example": "I love taking a bubble bath after a long day.",
       "example_translation": "Uwielbiam brać kąpiel pianową po długim dniu.",
-      "imageLink": "image_files\\English\\bubble-bath.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bubble-bath.jpg",
       "audioLink": "audio_files\\English\\bubble bath.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "ściśle i ładnie zapakowane razem; gęste",
       "example": "The compact car was easy to park in the city.",
       "example_translation": "Kompaktowy samochód był łatwy do zaparkowania w mieście.",
-      "imageLink": "image_files\\English\\compact.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "compact.jpg",
       "audioLink": "audio_files\\English\\compact.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "kosmetyk używany do zakrycia niedoskonałości na skórze",
       "example": "She applied a concealer to hide the dark circles under her eyes.",
       "example_translation": "Ona zastosowała korektor, aby ukryć ciemne kręgi pod oczami.",
-      "imageLink": "image_files\\English\\concealer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "concealer.jpg",
       "audioLink": "audio_files\\English\\concealer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Małe kijki używane do czyszczenia uszu lub aplikowania kosmetyków.",
       "example": "She used cotton buds to apply ear drops.",
       "example_translation": "Ona użyła wykałaczków, aby zaaplikować krople do uszu.",
-      "imageLink": "image_files\\English\\cotton-buds.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cotton-buds.jpg",
       "audioLink": "audio_files\\English\\cotton buds.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "urządzenie do curlowania lub falowania włosów",
       "example": "She used a curler to style her hair for the party.",
       "example_translation": "Użyła curlerki, aby ułożyć włosy na przyjęcie.",
-      "imageLink": "image_files\\English\\curler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curler.jpg",
       "audioLink": "audio_files\\English\\curler.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "urządzenie używane do curlingu i stylizacji włosów",
       "example": "She used a curling iron to get perfect curls for her wedding day.",
       "example_translation": "Użyła żelazka do curlingu, aby uzyskać idealne loksy na swój dzień ślubu.",
-      "imageLink": "image_files\\English\\curling-iron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curling-iron.jpg",
       "audioLink": "audio_files\\English\\curling iron.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Typ nożyczek używanych do cięcia i kształtowania skórki wokół paznokci u rąk i nóg.",
       "example": "The nail technician used cuticle nippers to gently trim the excess skin around my fingernails.",
       "example_translation": "Technik paznokci użył szczypek do paznokci, aby delikatnie obciąć nadmiar skóry wokół moich paznokci.",
-      "imageLink": "image_files\\English\\cuticle-nippers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-nippers.jpg",
       "audioLink": "audio_files\\English\\cuticle nippers.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "narzędzie używane do delikatnego cofnięcia rogaczków na palcach rąk i nóg",
       "example": "She used a cuticle pusher to groom her nails.",
       "example_translation": "Użyła popychacza rogaczków, aby uczesać swoje paznokcie.",
-      "imageLink": "image_files\\English\\cuticle-pusher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-pusher.jpg",
       "audioLink": "audio_files\\English\\cuticle pusher.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "kosmetyczny preparat używany do rozmiękczania i usuwania martwych komórek skóry z obszaru kutykuli",
       "example": "Use a cuticle remover to gently push back your cuticles.",
       "example_translation": "Użyj usuwacza kutykuli, aby delikatnie przesunąć kutykuły.",
-      "imageLink": "image_files\\English\\cuticle-remover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-remover.jpg",
       "audioLink": "audio_files\\English\\cuticle remover.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Krem używany do usuwania niechcianych włosów na ciele",
       "example": "She applied a layer of depilatory cream to her legs before going to the beach.",
       "example_translation": "Ona nałożyła warstwę kremu depilacyjnego na nogi przed wyjściem na plażę.",
-      "imageLink": "image_files\\English\\depilatory-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "depilatory-cream.jpg",
       "audioLink": "audio_files\\English\\depilatory cream.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "kosmetyczny ołówek używany do kolorowania i kształtowania brwi",
       "example": "She used an eyebrow pencil to define her brows.",
       "example_translation": "Ona użyła ołówka do brwi, aby zdefiniować swoje brwi.",
-      "imageLink": "image_files\\English\\eyebrow-pencil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyebrow-pencil.jpg",
       "audioLink": "audio_files\\English\\eyebrow pencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "kosmetyk używany do nakładania koloru na powieki",
       "example": "She carefully applied the eyeliner to create a cat eye look.",
       "example_translation": "Ona ostrożnie nakładał eyeliner, aby stworzyć look kota.",
-      "imageLink": "image_files\\English\\eyeliner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyeliner.jpg",
       "audioLink": "audio_files\\English\\eyeliner.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "substancja kosmetyczna używana do nadania koloru powiekom",
       "example": "She applied a layer of eyeshadow to her eyelids.",
       "example_translation": "Ona nałożyła warstwę cienia do powiek na powieki.",
-      "imageLink": "image_files\\English\\eyeshadow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyeshadow.jpg",
       "audioLink": "audio_files\\English\\eyeshadow.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "narzędzie używane do gładzenia i stylizacji włosów",
       "example": "She used a flat iron to straighten her hair.",
       "example_translation": "Użyła żelazka do fryzjerstwa, aby wyprostować swoje włosy.",
-      "imageLink": "image_files\\English\\flat-iron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flat-iron.jpg",
       "audioLink": "audio_files\\English\\flat iron.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\hair-conditioner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-conditioner.jpg",
       "audioLink": "audio_files\\English\\hair conditioner.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\hair-mousse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-mousse.jpg",
       "audioLink": "audio_files\\English\\hair mousse.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "produkt kosmetyczny używany do utrzymania stylu włosów",
       "example": "She used hair spray to keep her hair from getting messy.",
       "example_translation": "Użyła lak do włosów, aby jej włosy nie potargały się.",
-      "imageLink": "image_files\\English\\hair-spray.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-spray.jpg",
       "audioLink": "audio_files\\English\\hair spray.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Preparat miejscowy do ochrony i nawilżenia ust",
       "example": "She applied lip balm to her dry lips.",
       "example_translation": "Ona nałożyła balsam do ust na swoje suche usta.",
-      "imageLink": "image_files\\English\\lip-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-balm.jpg",
       "audioLink": "audio_files\\English\\lip balm.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "produkty kosmetyczny używany do nadawania koloru i blasku ustom",
       "example": "She applied a layer of lip gloss to her lips before going out.",
       "example_translation": "Nałożyła warstwę błyszczyku do ust przed wyjściem na zewnątrz.",
-      "imageLink": "image_files\\English\\lip-gloss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-gloss.jpg",
       "audioLink": "audio_files\\English\\lip gloss.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Produkt kosmetyczny używany do określenia kształtu ust.",
       "example": "She applied a lip liner to outline her lips before applying lipstick.",
       "example_translation": "Ona zastosowała konturówkę do określenia kształtu ust przed nałożeniem szminki.",
-      "imageLink": "image_files\\English\\lip-liner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-liner.jpg",
       "audioLink": "audio_files\\English\\lip liner.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Rodzaj kosmetycznego fundamentu, który ma konsystencję cieczy i jest stosowany na skórze za pomocą pędzla, gąbki lub palców.",
       "example": "She applied a layer of liquid foundation to her face to even out her skin tone.",
       "example_translation": "Ona nałożyła warstwę fundamentu cieczy na twarz, aby wyrównać ton skóry.",
-      "imageLink": "image_files\\English\\liquid-foundation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "liquid-foundation.jpg",
       "audioLink": "audio_files\\English\\liquid foundation.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "typ proszku kosmetycznego, który nie jest prasowany do postaci kompaktowej",
       "example": "She applied a light layer of loose powder to her face to set her makeup.",
       "example_translation": "Ona nałożyła lekką warstwę luźnego proszku na twarz, aby utrwalić makijaż.",
-      "imageLink": "image_files\\English\\loose-powder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "loose-powder.jpg",
       "audioLink": "audio_files\\English\\loose powder.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Szczotka używana do czyszczenia i kształtowania paznokci.",
       "example": "She used a nail brush to clean under her nails.",
       "example_translation": "Ona użyła szczotki do paznokci, aby oczyścić spod paznokci.",
-      "imageLink": "image_files\\English\\nail-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-brush.jpg",
       "audioLink": "audio_files\\English\\nail brush.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "produkt kosmetyczny do barwienia i dekorowania paznokci",
       "example": "She applied a coat of nail polish to her toenails.",
       "example_translation": "Ona nałożyła warstwę lakieru do paznokci na paznokcie stóp.",
-      "imageLink": "image_files\\English\\nail-polish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-polish.jpg",
       "audioLink": "audio_files\\English\\nail polish.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "płyn używany do usuwania lakieru do paznokci z paznokci",
       "example": "She used a nail polish remover to take off her old nail polish.",
       "example_translation": "Użyła środka do usuwania lakieru do paznokci, aby zdjąć stary lakier z paznokci.",
-      "imageLink": "image_files\\English\\nail-polish-remover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-polish-remover.jpg",
       "audioLink": "audio_files\\English\\nail polish remover.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Mała, zwykle okrągła, poduszka miękkiego materiału, używana do nakładania pudru na twarz.",
       "example": "She used a powder puff to apply her makeup.",
       "example_translation": "Użyła puderowej szczotki, aby nałożyć makijaż.",
-      "imageLink": "image_files\\English\\powder-puff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "powder-puff.jpg",
       "audioLink": "audio_files\\English\\powder puff.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "kosmetyczny proszek ściśnięty w formę ciasta",
       "example": "She applied a layer of pressed powder to set her makeup.",
       "example_translation": "Ona nałożyła warstwę prasowanego proszku, aby utrwalić makijaż.",
-      "imageLink": "image_files\\English\\pressed-powder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pressed-powder.jpg",
       "audioLink": "audio_files\\English\\pressed powder.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "substancja używana jako podstawa dla czegoś innego, zwłaszcza warstwa farby",
       "example": "The painter applied a primer to the wall before painting.",
       "example_translation": "Malarz zastosował podkład na ścianie przed malowaniem.",
-      "imageLink": "image_files\\English\\primer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "primer.jpg",
       "audioLink": "audio_files\\English\\primer.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "typ skały używany do usuwania martwych komórek skóry ze stóp i rąk",
       "example": "Use a pumice stone to gently remove dead skin cells from your heels.",
       "example_translation": "Użyj kamienia pumeksowego, aby delikatnie usunąć martwe komórki skóry z pięt.",
-      "imageLink": "image_files\\English\\pumice-stone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pumice-stone.jpg",
       "audioLink": "audio_files\\English\\pumice stone.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Suszka wykorzystywana do aplikacji kremu lub mydła do golenia na skórę przed goleniem.",
       "example": "He used a shaving brush to apply the shaving cream to his face.",
       "example_translation": "On użył szczotki do golenia, aby nałożyć krem do golenia na twarz.",
-      "imageLink": "image_files\\English\\shaving-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-brush.jpg",
       "audioLink": "audio_files\\English\\shaving brush.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Substancja stosowana do smarowania skóry podczas golenia",
       "example": "Apply shaving cream to the area you want to shave.",
       "example_translation": "Nałóż krem do golenia na obszar, który chcesz ogolić.",
-      "imageLink": "image_files\\English\\shaving-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-cream.jpg",
       "audioLink": "audio_files\\English\\shaving cream.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Cieczna substancja używana do tworzenia obfitej piany do golenia",
       "example": "Apply a generous amount of shaving foam to the area and shave carefully.",
       "example_translation": "Nałóż obficie pianę do golenia na obszar i golź się ostrożnie.",
-      "imageLink": "image_files\\English\\shaving-foam.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-foam.jpg",
       "audioLink": "audio_files\\English\\shaving foam.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "krem lub lotion chroniący skórę przed słońcem",
       "example": "I always apply sunscreen before going to the beach",
       "example_translation": "Zwykle nakładam krem przeciw słoneczny przed wyjściem na plażę",
-      "imageLink": "image_files\\English\\sunscreen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunscreen.jpg",
       "audioLink": "audio_files\\English\\sunscreen.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "mały instrument używany do przytrzymywania lub chwytania, szczególnie do plukania włosów z brwi",
       "example": "She used tweezers to shape her eyebrows.",
       "example_translation": "Ona użyła pincety, aby uformować swoje brwi.",
-      "imageLink": "image_files\\English\\tweezers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tweezers.jpg",
       "audioLink": "audio_files\\English\\tweezers.mp3"
     }
   ]

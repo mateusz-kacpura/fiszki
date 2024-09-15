@@ -9,7 +9,7 @@
       "definition_translation": "Банк - это финансовая institutция, которая предоставляет кредиты, займы и другие финансовые услуги физическим и юридическим лицам.",
       "example": "Poszedłem do banku, aby złożyć swój czek dziś, pójdę do banku, aby wyjąć pieniądze jutro, i poszedłem do banku, aby ubiegać się o kredyt tydzień temu.",
       "example_translation": "Я пошел в банк вчера, чтобы депонировать мой чек, я пойду в банк завтра, чтобы снять наличные, и я пошел в банк на прошлой неделе, чтобы подать заявку на кредит.",
-      "imageLink": "bank.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bank.jpg",
       "audioLink": "bank.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Бар - это длинная, прямая, обычно деревянная или металлическая часть, или место, где сервируют еду и напитки.",
       "example": "Usiadłem w barze, aby zamówić drinka, barman starannie polerował bar, a bar był zatłoczony podczas gry.",
       "example_translation": "Я сел за бар, чтобы заказать напиток, бармен отполировал бар тщательно, и бар был переполнен во время игры.",
-      "imageLink": "bar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bar.jpg",
       "audioLink": "bar.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Пляж - это форма рельефа вдоль водоема, состоящая из свободных частиц, таких как песок, гравий или галька.",
       "example": "Poszedłem na plażę, aby pływać wczoraj, pójdę na plażę, aby opalać się jutro, i poszedłem na plażę, aby budować zamek z piasku tydzień temu.",
       "example_translation": "Я пошел на пляж, чтобы заплыть вчера, я пойду на пляж, чтобы загорать завтра, и я пошел на пляж, чтобы построить песчаный замок на прошлой неделе.",
-      "imageLink": "beach.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beach.jpg",
       "audioLink": "beach.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Кафе - это небольшой ресторан, который phụcывает кофе, чай и легкие блюда.",
       "example": "Spotkałem się z przyjacielem w kawiarni, aby omawiać projekt, kawiarnia była zatłoczona podczas spotkania, a kawiarnia serwowała smaczne ciasta.",
       "example_translation": "Я встретился с другом в кафе, чтобы обсудить проект, кафе было переполнено во время встречи, и кафе подавало вкусные пирожные.",
-      "imageLink": "cafe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cafe.jpg",
       "audioLink": "cafĂ©.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Кинотеатр - это место, где вы можете смотреть фильмы на большом экране.",
       "example": "Wczoraj wieczorem poszedłem do kina. Przyjdę do kina dziś wieczorem. Poszedłem do kina jutro.",
       "example_translation": "Я пошел в кинотеатр прошлым вечером. Я иду в кинотеатр сегодня вечером. Я пойду в кинотеатр завтра.",
-      "imageLink": "cinema-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cinema-1.jpg",
       "audioLink": "cinema.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Фабрика - это крупное промышленное здание, где производятся товары.",
       "example": "Fabryka była zamknięta w zeszłym roku. Fabryka produkuje samochody teraz. Fabryka powiększy się miesiąc temu.",
       "example_translation": "Фабрика была закрыта прошлым годом. Фабрика сейчас производит автомобили. Фабрика будет расширена следующим месяцем.",
-      "imageLink": "factory.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "factory.jpg",
       "audioLink": "factory.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Ферма - это место, где выращиваются культуры и содержатся животные.",
       "example": "Odwiedziłem farmę latem. Mieszkam na farmie teraz. Będę pracował na farmie kiedyś.",
       "example_translation": "Я-posетил ферму прошлым летом. Я сейчас живу на ферме. Я буду работать на ферме когда-нибудь.",
-      "imageLink": "farm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "farm.jpg",
       "audioLink": "farm.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Квартира - это набор комнат в здании, используемый в качестве места для проживания.",
       "example": "Wdzieram się do nowego mieszkania w zeszłym tygodniu. Teraz dekoruję swoje mieszkanie. Sprzedam swoje mieszkanie za rok.",
       "example_translation": "Я переехал в новую квартиру на прошлой неделе. Я сейчас декорирую свою квартиру. Я продам свою квартиру nächsten годом.",
-      "imageLink": "flat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flat.jpg",
       "audioLink": "flat.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Больница - это учреждение здравоохранения, предоставляющее лечение пациентов с помощью специализированных медицинских и хирургических услуг и возможностей.",
       "example": "Byłem zabrany do szpitala po wypadku. Currenlty poddaję się leczeniu w szpitalu. Jutro wyjdę ze szpitala.",
       "example_translation": "Меня отвезли в больницу после аварии. Я прохожу лечение в больнице в настоящее время. Меня выпишут из больницы завтра.",
-      "imageLink": "hospital.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hospital.jpg",
       "audioLink": "hospital.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Отель - это здание, которое предоставляет проживание и размещение для путешественников и туристов.",
       "example": "Mieszkam w hotelu podczas urlopu. Zamówimy pokój hotelowy na naszą podróż. Otworzy się nowy hotel w przyszłym roku.",
       "example_translation": "Я остановился в отеле во время моих каникул. Мы собираемся забронировать номер в отеле для нашей поездки. Они откроют новый отель в следующем году.",
-      "imageLink": "hotel-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hotel-1.jpg",
       "audioLink": "hotel.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Дом - это здание для жилища человека, особенно жилище или резиденция.",
       "example": "Mieszkam w domu na przedmieściach miasta. Kupiła dom rok temu. Budują dom na plaży już za miesiąc.",
       "example_translation": "Я живу в доме на окраине города. Она купила дом прошлым годом. Они построят дом на пляже следующим летом.",
-      "imageLink": "house.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "house.jpg",
       "audioLink": "house.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Музей - это учреждение, посвященное приобретению, сохранению, изучению, экспонированию и образовательной интерпретации объектов, имеющих научную, историческую или художественную ценность.",
       "example": "Odwiedziłem muzeum wczoraj. Otworzą nowe muzeum na następny miesiąc. Idziemy do muzeum jutro.",
       "example_translation": "Я посетил музей вчера. Они откроют новый музей следующим месяцем. Мы пойдем в музей завтра.",
-      "imageLink": "museum.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "museum.jpg",
       "audioLink": "museum.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "большая общественная зеленая зона в центре города или города, используемая для отдыха и релаксации",
       "example": "Wczoraj byłem w parku. Teraz jestem w parku. Będę w parku jutro.",
       "example_translation": "Я пошел в парк вчера, я иду в парк сегодня, и я пойду в парк завтра.",
-      "imageLink": "park.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "park.jpg",
       "audioLink": "park.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "место, где люди платят за то, чтобы сидеть и есть блюда, которые приготовлены и сервируются на территории",
       "example": "Wczoraj zjadłem w restauracji. Aktualnie lunchuję w restauracji. Zjem w restauracji za tydzień.",
       "example_translation": "Я поел в ресторане прошлой ночью, я ем в ресторане сейчас, и я поем в ресторане на следующей неделе.",
-      "imageLink": "restaurant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "restaurant.jpg",
       "audioLink": "restaurant.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "естественное течение воды, часто связанное с океаном или озером",
       "example": "Pływałem w rzece latem. Pływam w rzece aktualnie. Będę pływać w rzece latem przyszłym.",
       "example_translation": "Я плавал в реке прошлым летом, я плаваю в реке сейчас, и я поем в реке следующим летом.",
-      "imageLink": "river.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "river.jpg",
       "audioLink": "river.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "путь, используемый для движения транспортных средств, особенно автомобилей",
       "example": "Wczoraj jeździłem drógą. Aktualnie jeżdżę drógą. Będę jeździć drogą jutro.",
       "example_translation": "Я ехал по дороге вчера, я еду по дороге сейчас, и я поеду по дороге завтра.",
-      "imageLink": "road.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "road.jpg",
       "audioLink": "road.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Учреждение, где люди, especialmente дети, идут учиться и получать образование.",
       "example": "Chodziłem do szkoły, kiedy byłem dzieckiem. Aktualnie idę do szkoły. Będę chodzić do szkoły jutro.",
       "example_translation": "Я пошел в школу, когда я был ребенком. Я иду в школу сейчас. Я пойду в школу завтра.",
-      "imageLink": "school.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "school.jpg",
       "audioLink": "school.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Большое количество соленой воды, окружающей страну или континент.",
       "example": "Widziałem morze podczas urlopu. Aktualnie widzę morze. Będę widzieć morze ponownie za rok.",
       "example_translation": "Я видел море, когда я был на отдыхе. Я вижу море сейчас. Я увижу море снова в следующем году.",
-      "imageLink": "sea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sea.jpg",
       "audioLink": "sea.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Здание или часть здания, где продаются товары.",
       "example": "Wczoraj byłem w sklepie. Teraz jestem w sklepie. Będę w sklepie jutro.",
       "example_translation": "Я пошел в магазин вчера. Я иду в магазин сейчас. Я пойду в магазин завтра.",
-      "imageLink": "shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shop.jpg",
       "audioLink": "shop.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Место, где поезда или автобусы останавливаются, чтобы позволить людям сесть или выйти.",
       "example": "Przyjechałem do stacji godzinę temu. Przyjeżdżam do stacji teraz. Przyjeżdżam do stacji za chwilę.",
       "example_translation": "Я прибыл на станцию час назад. Я прибываю на станцию сейчас. Я прибуду на станцию скоро.",
-      "imageLink": "station-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "station-1.jpg",
       "audioLink": "station.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Остановить или приостановить действие или процесс.",
       "example": "I will stop working at 5 pm, I stopped working yesterday, I stop working every day at 5 pm.",
       "example_translation": "Я перестану работать в 5 часов вечера, я перестал работать вчера, я перестаю работать каждый день в 5 часов вечера.",
-      "imageLink": "stop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stop.jpg",
       "audioLink": "stop.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Общественная дорога в городе или городке, обычно с зданиями и домами по одной или обеим сторонам.",
       "example": "I walked down the street yesterday, I walk down the street every day, I will walk down the street tomorrow.",
       "example_translation": "Я прошел по улице вчера, я прохожу по улице каждый день, я пройду по улице завтра.",
-      "imageLink": "street.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "street.jpg",
       "audioLink": "street.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Крупный универсальный магазин, продающий широкий ассортимент пищевых продуктов и товаров для дома.",
       "example": "I went to the supermarket yesterday, I go to the supermarket every week, I will go to the supermarket tomorrow.",
       "example_translation": "Я пошел в супермаркет вчера, я хожу в супермаркет каждую неделю, я пойду в супермаркет завтра.",
-      "imageLink": "supermarket.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "supermarket.jpg",
       "audioLink": "supermarket.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Структура, обычно на открытом воздухе, для плавания и других водных занятий.",
       "example": "I swam in the swimming pool yesterday, I swim in the swimming pool every summer, I will swim in the swimming pool next year.",
       "example_translation": "Я плыл в бассейне вчера, я плаваю в бассейне каждый летом, я переплыву в бассейне следующим годом.",
-      "imageLink": "swimming-pool.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimming-pool.jpg",
       "audioLink": "swimming pool.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Город - это человеческое поселение, которое больше, чем деревня, но меньше, чем город.",
       "example": "I lived in a small town, then I moved to a city, and now I'm planning to visit a town in Europe. Yesterday, I visited a town with my family, and tomorrow I will visit a town with my friends.",
       "example_translation": "Я жил в маленьком городе, затем я переехал в город, и现在 я планирую посетить город в Европе. Вчера я посетил город с моей семьей, а завтра я побываю в городе с друзьями.",
-      "imageLink": "town.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "town.jpg",
       "audioLink": "town.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Университет - это учреждение высшего образования и научных исследований, которое присваивает академические степени в различных областях знаний.",
       "example": "I studied at a university, and now I work at a university. Yesterday, I visited a university with my colleagues, and next year I will start teaching at a university.",
       "example_translation": "Я учился в университете, и теперь я работаю в университете. Вчера я посетил университет с коллегами, а в следующем году я начну преподавать в университете.",
-      "imageLink": "university.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "university.jpg",
       "audioLink": "university.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Деревня - это группа домов и связанных с ними зданий, больших, чем хутор, и меньших, чем город, расположенная в сельской местности.",
       "example": "I grew up in a village, and then I moved to a town. Yesterday, I visited a village with my family, and next week I will visit a village with my friends.",
       "example_translation": "Я вырос в деревне, а затем я переехал в город. Вчера я посетил деревню с моей семьей, а на следующей неделе я побываю в деревне с друзьями.",
-      "imageLink": "village.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "village.jpg",
       "audioLink": "village.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Зоопарк - это место, где животные содержатся в неволе для всеобщего просмотра и изучения.",
       "example": "I visited a zoo, and I saw many animals. Yesterday, I went to a zoo with my children, and next month I will visit a zoo with my friends.",
       "example_translation": "Я посетил зоопарк, и я видел многих животных. Вчера я пошел в зоопарк с моими детьми, а на следующий месяц я побываю в зоопарке с друзьями.",
-      "imageLink": "zoo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "zoo.jpg",
       "audioLink": "zoo.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Место, где самолеты взлетают и приземляются, обычно состоящее из взлетно-посадочных полос, зданий и сооружений для пассажиров и грузов.",
       "example": "I arrived at the airport with plenty of time to spare before my flight. I have been to this airport many times, but I still get lost. By the time I get to the airport, the plane will have already taken off.",
       "example_translation": "Я прибыл в аэропорт с достаточным запасом времени до моего рейса. Я был в этом аэропорту много раз, но я vẫn заблуждаюсь. К тому времени, когда я доберусь до аэропорта, самолет уже будет взлетел.",
-      "imageLink": "airport.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "airport.jpg",
       "audioLink": "airport.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Самостоятельная жилая единица, занимающая только часть здания, часто имеющая несколько комнат и удобств.",
       "example": "I have been living in this apartment for three years. My apartment is on the top floor. I will have to move out of this apartment by the end of the month.",
       "example_translation": "Я живу в этой квартире три года. Моя квартира находится на верхнем этаже. Мне придется покинуть эту квартиру к концу месяца.",
-      "imageLink": "apartment.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apartment.jpg",
       "audioLink": "apartment.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Определенная extent пространства или поверхности, часто имеющая определенные границы или характеристики.",
       "example": "Okolica stadionu została zamknięta ze względów bezpieczeństwa. Ten obszar jest podatny na powodzie. Studiuję dziedzinę matematyki od lat.",
       "example_translation": "Область вокруг стадиона была закрыта из-за соображений безопасности. Этот район подвержен наводнениям. Я изучаю область математики на протяжении лет.",
-      "imageLink": "area.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "area.jpg",
       "audioLink": "area.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Розничное учреждение, которое продает книги и часто другие связанные товары, такие как журналы, газеты и канцелярские товары.",
       "example": "Spędziłem godziny przeglądając półki w księgarni. Księgarnia na wysokiej ulicy zamknie się. Pracuję w tej księgarni od pięciu lat.",
       "example_translation": "Я провел часы, просматривая полки в книжном магазине. Книжный магазин на главной улице закрывается. Я работаю в этом книжном магазине пять лет.",
-      "imageLink": "bookshop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bookshop.jpg",
       "audioLink": "bookshop.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Здание или комната, где продаются, сдаются или хранятся книги.",
       "example": "Poszedłem do księgarni, aby kupić powieść. Idę do księgarni, aby kupić podręcznik. Pójdę do księgarni, aby kupić słownik.",
       "example_translation": "Я пошел в книжный магазин, чтобы купить роман. Я ходил в книжный магазин, чтобы купить учебник. Я пойду в книжный магазин, чтобы купить словарь.",
-      "imageLink": "bookstore.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bookstore.jpg",
       "audioLink": "bookstore.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Структура, построенная для пересечения долины, дороги, водного тела или другого препятствия.",
       "example": "Jeździliśmy przez most, aby dostać się na drugą stronę. Budujemy most, aby połączyć dwa miasta. Pójdę przez most, aby podziwiać widok.",
       "example_translation": "Мы проехали через мост, чтобы достичь другой стороны. Мы строим мост, чтобы соединить два города. Мы будем ходить через мост, чтобы насладиться видом.",
-      "imageLink": "bridge.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bridge.jpg",
       "audioLink": "bridge.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Структура с крышей и стенами, такая как дом или завод.",
       "example": "Budynek był w budowie przez dwa lata. Budynek jest wykorzystywany jako przestrzeń biurowa. Budynek będzie wykończony miesiąc temu.",
       "example_translation": "Здание было в стадии строительства в течение двух лет. Здание используется для офисного пространства. Здание будет завершено следующим месяцем.",
-      "imageLink": "building.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "building.jpg",
       "audioLink": "building.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Объект или место, где автобусы останавливаются, чтобы забрать или высадить пассажиров.",
       "example": "Czekałem godzinę na dworcu autobusowym. Dworzec autobusowy znajduje się w centrum miasta. Dworzec autobusowy będzie odnowiony za rok.",
       "example_translation": "Мы ждали на автобусной станции час. Автобусная станция находится в центре города. Автобусная станция будет реконструирована следующим годом.",
-      "imageLink": "bus-station.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bus-station.jpg",
       "audioLink": "bus station.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Определенное место, где автобусы останавливаются, чтобы подобрать или высадить пассажиров.",
       "example": "Czekam na przystanku autobusowym na autobus numer 12. Wczoraj czekałem przez godzinę na przystanku autobusowym. Przy przystanku autobusowym będzie Nowa trasa autobusowa.",
       "example_translation": "Я жду на остановке автобуса номер 12. Вчера я ждал час на остановке автобуса. К следующему году я буду ждать на остановке автобуса для нового маршрута.",
-      "imageLink": "bus-stop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bus-stop.jpg",
       "audioLink": "bus stop.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Самообслуживаемый ресторан, обычно в школе, больнице или офисном здании, где سروится еда и напитки.",
       "example": "Idę do stołówki, aby zabrać kanapkę na lunch. Stołówka oferuje zdrowe opcje żywieniowe. Nowa stołówka będzie otwarta miesiąc temu.",
       "example_translation": "Я иду в столовую, чтобы забрать сэндвич на обед. В столовой سروятся здоровые варианты еды. Новая столовая откроется следующим месяцем.",
-      "imageLink": "cafeteria.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cafeteria.jpg",
       "audioLink": "cafeteria.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Город или поселок, который служит местом правительства страны, штата или провинции.",
       "example": "Stolica Francji jest Paryżem. Stolica Kalifornii jest Sacramento. Stolica Australii będzie gospodarzem Igrzysk Olimpijskich.",
       "example_translation": "Столица Франции - Париж. Столица Калифорнии - Сакраменто. Столица Австралии будет принимать Олимпийские игры.",
-      "imageLink": "capital.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "capital.jpg",
       "audioLink": "capital.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Определенная область, где временно оставляются транспортные средства, обычно в здании или рядом с公共ным местом.",
       "example": "Idę na parking, aby odebrać samochód. Parking był pełny, więc zaparkowałem na ulicy. Nowy parking będzie miał stacje ładowania samochodów elektrycznych.",
       "example_translation": "Я иду в парковку, чтобы забрать мою машину. Парковка была заполнена, поэтому я должен был припарковаться на улице. Новая парковка будет иметь станции электропитания.",
-      "imageLink": "car-park.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "car-park.jpg",
       "audioLink": "car park.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Большое здание или cấu trúc древнего или средневекового происхождения, обычно используемое в качестве резиденции знатной или королевской семьи.",
       "example": "Król mieszkał w zamku w XII wieku. Dziś, zamek jest popularnym miejscem turystycznym. Do roku 2025, zamek przeszedłby znaczącą renowację.",
       "example_translation": "Король жил в замке в 12 веке. Сегодня замок является популярной туристической достопримечательностью. К 2025 году замок будет проходить значительную реставрацию.",
-      "imageLink": "castle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "castle.jpg",
       "audioLink": "castle.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Большая, внушительная церковь, обычно главная церковь диоцеза или место размещения епископа.",
       "example": "Katedra została zbudowana w XV wieku. Turyści odwiedzili katedrę wczoraj. Do przyszłego roku, katedra zostanie wyremontowana.",
       "example_translation": "Собор был построен в 15 веке. Туристы посетили собор вчера. К следующему году собор будет отремонтирован.",
-      "imageLink": "cathedral.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cathedral.jpg",
       "audioLink": "cathedral.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Точка или место, которое равноудалено от всех сторон, краев или границ чего-либо.",
       "example": "Centrum miasta było pełne aktywności. Centrum operacyjne firmy znajduje się w Nowym Jorku. Do roku 2030, nowe centrum zostanie wybudowane.",
       "example_translation": "Центр города был полон активностью. Центр операций компании находится в Нью-Йорке. К 2030 году новый центр будет построен.",
-      "imageLink": "centre-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "centre-1.jpg",
       "audioLink": "centre.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Магазин, где продаются или отпускаются лекарства, химические вещества и другие медицинские изделия.",
       "example": "Poszedłem do apteki po leki. Apteka była zamknięta wczoraj. Do następnego tygodnia, nowa apteka zostanie otwarta.",
       "example_translation": "Я пошел в аптеку, чтобы купитьsome лекарство. Аптека была закрыта вчера. к следующей недели новая аптека будет открыта.",
-      "imageLink": "chemists.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chemists.jpg",
       "audioLink": "chemist's.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Церковь - это здание, используемое для христианской молитвы, обычно содержащее алтарь, скамейки и кафедру.",
       "example": "Poszliśmy do kościoła w niedzielę. Idę do kościoła jutro. Poszliśmy do kościoła w zeszłym tygodniu.",
       "example_translation": "Мы пошли в церковь в воскресенье. Я пойду в церковь завтра. Я пошел в церковь на прошлой неделе.",
-      "imageLink": "church.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "church.jpg",
       "audioLink": "church.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Центр города - это основная область города, обычно с магазинами, офисами и достопримечательностями.",
       "example": "Pracuję w centrum miasta. Spotka nas w centrum miasta o 17. Poszliśmy po centrum miasta wczoraj wieczorem.",
       "example_translation": "Я работаю в центре города. Она встретит меня в центре города в 5 вечера. Мы прогулялись вокруг центра города прошлой ночью.",
-      "imageLink": "city-centre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "city-centre.jpg",
       "audioLink": "city centre.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Магазин одежды - это магазин, где люди могут купить одежду и аксессуары.",
       "example": "Poszedłem do sklepu odzieżowego wczoraj. Ona pracuje w sklepie odzieżowym. Odwiedzimy sklep odzieżowy jutro.",
       "example_translation": "Я пошел в магазин одежды вчера. Она работает в магазине одежды. Мы посетим магазин одежды завтра.",
-      "imageLink": "clothes-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clothes-shop.jpg",
       "audioLink": "clothes shop.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Клуб - это организация людей, которые разделяют общий интерес, такой как спортивная команда или музыкальная группа.",
       "example": "Dołączyłem do klubu w zeszłym roku. Ona chodzi do klubu co piątek. Będziemy urządzać nowy klub niedługo.",
       "example_translation": "Я присоединился к клубу в прошлом году. Она ходит в клуб каждую пятницу. Мы начнем новый клубsoon.",
-      "imageLink": "club.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "club.jpg",
       "audioLink": "club.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Образовательное учреждение, предоставляющее третичное образование, обычно предлагающее широкий спектр академических и профессиональных курсов.",
       "example": "Chodziłem do college'u w zeszłym roku, Od teraz uczę się w college'u i skończę college w przyszłym roku.",
       "example_translation": "Я пошел в колледж в прошлом году, сейчас я в колледже, и я выпущу из колледжа в следующем году.",
-      "imageLink": "college.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "college.jpg",
       "audioLink": "college.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Точка или область, где встречаются два или более края, поверхностей или линий.",
       "example": "Skierowałem się pod kątem i zobaczyłem piękny park, Stoję pod kątem ulicy, A spotkamy się pod kątem budynku.",
       "example_translation": "Я повернул угол и увидел красивый парк, я стою на углу улицы, и я встречу тебя на углу здания.",
-      "imageLink": "corner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corner.jpg",
       "audioLink": "corner.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Крупное розничное предприятие, предлагающее широкий спектр товаров, обычно организованных по отделам.",
       "example": "Wczoraj poszedłem do sklepu wielobranżowego, idę teraz do sklepu wielobranżowego i kupię coś w sklepie wielobranżowym jutro.",
       "example_translation": "Я пошел в универмаг вчера, сейчас я иду в универмаг, и я куплю что-то в универмаге завтра.",
-      "imageLink": "department-store.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "department-store.jpg",
       "audioLink": "department store.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Стиль музыки и танца, характеризующийся быстрым темпом и мерцающими светами, популярный в 1970-х годах.",
       "example": "Wczoraj byłem na dyskotece, teraz tańczę na dyskotece, i pójdę na dyskotekę ponownie następnego tygodnia.",
       "example_translation": "Я пошел на диско прошлой ночью, сейчас я танцую на диско, и я пойду на диско снова на следующей неделе.",
-      "imageLink": "disco.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disco.jpg",
       "audioLink": "disco.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Магазин, где продаются лекарства и другие товары для здоровья.",
       "example": "Wczoraj poszedłem do apteki, aby kupić środki przeciwbólowe. Teraz idę do apteki, aby odebrać receptę. Pójdę do apteki jutro, aby zdobyć witaminy.",
       "example_translation": "Я пошел в аптеку вчера, чтобы купить обезболивающие таблетки. Сейчас я иду в аптеку, чтобы забрать свой рецепт. Я пойду в аптеку завтра, чтобы купить витамины.",
-      "imageLink": "drugstore.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drugstore.jpg",
       "audioLink": "drugstore.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Точка входа в здание, комнату или место.",
       "example": "Wejście do muzeum było po lewej stronie budynku. Wchodziłem przez główne wejście. Wejście będzie zamknięte jutro ze względu na konserwację.",
       "example_translation": "Вход в музей был на левой straně здания. Я вошел через главный вход. Вход будет закрыт завтра на техобслуживание.",
-      "imageLink": "entrance.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "entrance.jpg",
       "audioLink": "entrance.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Точка выхода из здания, комнаты или места.",
       "example": "Wyjście było po prawej stronie budynku. Wychodziłem przez wyjście awaryjne. Wyjście będzie zamknięte jutro ze względu na konserwację.",
       "example_translation": "Выход был на правой стороне здания. Я вышел через аварийный выход. Выход будет закрыт завтра на техобслуживание.",
-      "imageLink": "exit-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exit-1.jpg",
       "audioLink": "exit.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Открытая область земли, особенно одна, используемая для сельского хозяйства или отдыха.",
       "example": "Wczoraj grałem w piłkę nożną na polu. Teraz pracuję na polu, zbierając plony. Pójdę na pole jutro, aby wyćwiczyć swój drive golfowy.",
       "example_translation": "Я играл в футбол на поле вчера. Сейчас я работаю в поле, собирая урожай. Я пойду на поле завтра, чтобы практиковать свой гольф-swing.",
-      "imageLink": "field.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "field.jpg",
       "audioLink": "field.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Здание или сарай для хранения транспортного средства или транспортных средств.",
       "example": "Parkowałem samochód w garażu. Pójdzie garażem jutro. Parkowałem samochód w garażu wczoraj.",
       "example_translation": "Я парковал свою машину в гараже. Я запаркую свою машину в гараж завтра. Я парковал свою машину в гараже вчера.",
-      "imageLink": "garage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garage.jpg",
       "audioLink": "garage.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Естественное возвышение поверхности земли, быстро или более-менее круто поднимающееся над окружающим уровнем и достигающее высоты, которая, по сравнению с соседними возвышениями, является впечатляющей или примечательной.",
       "example": "Wspiłem się na wzgórze. Pójdę na wzgórze następnego weekendu. Wspiłem się na wzgórze w minionym lecie.",
       "example_translation": "Я поднимался на холм. Я поднимусь на холм на следующий уикенд. Я поднимался на холм прошлым летом.",
-      "imageLink": "hill.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hill.jpg",
       "audioLink": "hill.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Кусок земли, окруженный водой.",
       "example": "Wczoraj byłem na wyspie, zobaczę tę wyspę jutro, byłem na tej wyspie, gdy byłam dzieckiem.",
       "example_translation": "Я посетил остров в прошлом году. Я посетлю остров в следующем месяце. Я посетил остров, когда я был ребенком.",
-      "imageLink": "island.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "island.jpg",
       "audioLink": "island.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Здание или учреждение, посвященное сбору, сохранению и распространению литературных, музыкальных или художественных материалов, таких как книги, рукописи и другие письменные или печатные работы.",
       "example": "Wczoraj byłem w bibliotece. Pójdę do biblioteki jutro. Byłem w bibliotece w zeszłym tygodniu.",
       "example_translation": "Я去 в библиотеку вчера. Я пойду в библиотеку завтра. Я походил в библиотеку на прошлой неделе.",
-      "imageLink": "library.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "library.jpg",
       "audioLink": "library.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Устройство, используемое для подъема или поднятия тяжелых объектов или людей на более высокую позицию, особенно в здании.",
       "example": "Użyła windy, aby dostać się na najwyższe piętro. Robotnik podnosi skrzynię do ciężarówki. Firma znosi zakaz portalu społecznościowego.",
       "example_translation": "Она использовала лифт, чтобы достичь顶ihn этажа. Рабочий поднимет коробку в грузовик. Компания снимет запрет на социальные медиа.",
-      "imageLink": "lift.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lift.jpg",
       "audioLink": "lift.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Регулярное собрание людей для продажи продуктов, товаров или услуг.",
       "example": "Idę na targ, aby kupić świeże warzywa. Spółka będzie promować swój nowy produkt następnym miesiącem. Targ jest otwarty każdego soboty.",
       "example_translation": "Я иду на рынок, чтобы купить некоторые свежие овощи. Компания будет продвигать свой новый продукт в следующем месяце. Рынок открыт каждый субботу.",
-      "imageLink": "market.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "market.jpg",
       "audioLink": "market.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Здание для мусульманского поклонения, обычно с минаретом.",
       "example": "Meczet został wybudowany w XVI wieku. Odwiedziliśmy meczet podczas naszej wycieczki do Stambułu. Imam prowadzi modlitwę w meczecie.",
       "example_translation": "Мечеть была построена в 16 веке. Мы посетили мечеть во время нашей поездки в Стамбул. Имам ведет молитву в мечети.",
-      "imageLink": "mosque.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mosque.jpg",
       "audioLink": "mosque.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Автомагистраль, предназначенная для высокоскоростного движения, особенно та, у которой есть ограниченные точки доступа.",
       "example": "Wsiadaliśmy na autostradę, żeby dotrzeć do miasta szybko. Autostrada jest budowana. Autostrada będzie zamknięta na utrzymanie jutra.",
       "example_translation": "Мы взяли автостраду, чтобы быстро добраться до города. Автомагистраль находится в стадии строительства. Автомагистраль будет закрыта для технического обслуживания завтра.",
-      "imageLink": "motorway.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "motorway.jpg",
       "audioLink": "motorway.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Естественное возвышение поверхности земли, обычно образованное геологическим подъемом, и часто имеющее хорошо определенный пик.",
       "example": "Wspięła się na górę wczoraj, wchodzi dziś i podnosi się jutro.",
       "example_translation": "Она поднялась на гору вчера, поднимается на нее сегодня и снова поднимется завтра.",
-      "imageLink": "mountain.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mountain.jpg",
       "audioLink": "mountain.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Комната или набор комнат, оборудованных для административной, канцелярской или профессиональной работы.",
       "example": "Pracował w biurze w zeszłym roku, pracuje teraz i będzie pracował w przyszłym roku.",
       "example_translation": "Он работал в офисе в прошлом году, работает в офисе сейчас и будет работать в офисе в следующем году.",
-      "imageLink": "office.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "office.jpg",
       "audioLink": "office.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Путь или тропа, предназначенные для ходьбы, езды или вождения, особенно в сельской местности.",
       "example": "Chodziła ścieżką wczoraj, chodzi dziś i przechodzi tędy jutro.",
       "example_translation": "Она шла по пути вчера, идет по нему сейчас и снова пойдет по нему завтра.",
-      "imageLink": "path.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "path.jpg",
       "audioLink": "path.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Магазин, где продаются животные, такие как собаки, кошки и птицы, как домашние животные.",
       "example": "Odwiedziła sklep zoologiczny w zeszłym tygodniu, odwiedza teraz i odwiedzi go ponownie następnego miesiąca.",
       "example_translation": "Она посетила магазин домашних животных на прошлой неделе, посещает jego сейчас и снова посетит его в следующем месяце.",
-      "imageLink": "pet-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pet-shop.jpg",
       "audioLink": "pet shop.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Здание или объект, где предоставляются почтовые услуги, такие как сортировка почты, продажа марок и доставка пакетов.",
       "example": "Wsiadłem do poczty, aby wysłać paczkę do swojego przyjaciela wczoraj, wysyłam drugą teraz i wysyłam trzecią jutro.",
       "example_translation": "Я пошел на почту, чтобы отправить пакет моему дружке вчера, сегодня я собираюсь отправить еще один, а завтра – третий.",
-      "imageLink": "post-office.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "post-office.jpg",
       "audioLink": "post office.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Здание или комната, где люди собираются, чтобы пить, есть и общаться, часто предлагающая широкий выбор пива и других напитков.",
       "example": "Spotkałem się ze znajomymi w pubie wczoraj, spotykamy się tam dziś i spotkamy się tam za tydzień.",
       "example_translation": "Я встретился с друзьями в пабе прошлым вечером, мы встречаемся там снова сегодня вечером, а на следующей неделе мы встретимся там снова.",
-      "imageLink": "pub.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pub.jpg",
       "audioLink": "pub.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Система транспортировки, использующая поезда и рельсы для перемещения людей и грузов на длинные дистанции.",
       "example": "Wsiadałem w pociąg do odwiedzenia mojej rodziny w zeszłym roku, wsiadam w nim ponownie w tym roku i wsiądę w nim następnym roku.",
       "example_translation": "Я ехал на железную дорогу, чтобы посетить свою семью в прошлом году, я еду снова в этом году, а в следующем году я поеду снова.",
-      "imageLink": "railway.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "railway.jpg",
       "audioLink": "railway.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Здание или сооружение, где поезда останавливаются, чтобы пассажиры могли сойти или сесть, часто предлагающее услуги, такие как покупка билетов, залы ожидания и обработка багажа.",
       "example": "Przybyłem dworca kolejowego wczoraj, przybieram do dworca dziś, i przybędę dworca jutro.",
       "example_translation": "Я прибыл на железнодорожную станцию вчера, я прибуду на станцию сегодня, а завтра я прибуду на станцию.",
-      "imageLink": "railway-station.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "railway-station.jpg",
       "audioLink": "railway station.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Магазин, в котором продаются обувь и другие изделия для ног.",
       "example": "Wsiadałem do sklepu obuwniczego wczoraj, by kupić nową parę tenisówek, wsiadam do sklepu obuwniczego dzisiaj, by je zwrócić, i wrócę do sklepu obuwniczego następnym tygodniu, by kupić sandały.",
       "example_translation": "Я昨天 пошел в магазин обуви, чтобы купить новую пару кроссовок, завтра я пойду в магазин обуви, чтобы вернуть их, а на следующей неделе я пойду в магазин обуви, чтобы купить сандали.",
-      "imageLink": "shoe-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shoe-shop.jpg",
       "audioLink": "shoe shop.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Крупное здание или комплекс, содержащий многие магазины и объекты, такие как рестораны и кинотеатры.",
       "example": "Spędziłem cały dzień w centrum handlowym z przyjaciółmi, byliśmy w centrum handlowym w zeszłym weekendzie, i wrócimy do centrum handlowego ponownie w następnym miesiącu.",
       "example_translation": "Я провел целый день в торговом центре с моими друзьями, мы пошли в торговый центр на прошлых выходных, и мы пойдем в торговый центр снова в следующем месяце.",
-      "imageLink": "shopping-centre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shopping-centre.jpg",
       "audioLink": "shopping centre.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Комплекс спортивных объектов, таких как стадион, спортзал и бассейн.",
       "example": "Wsiadałem do ośrodka sportowego wczoraj, by zagrać w koszykówkę, ido do ośrodka sportowego dzisiaj, by uczestniczyć w zajęciach jogi, i powrócę do ośrodka sportowego następnym tygodniu, by obejrzeć mecz tenisowy.",
       "example_translation": "Я пошел в спортивный центр, чтобы поиграть в баскетбол вчера, я пойду в спортивный центр, чтобы посетить занятие йогой завтра, и я пойду в спортивный центр, чтобы посмотреть матч по теннису на следующей неделе.",
-      "imageLink": "sports-centre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sports-centre.jpg",
       "audioLink": "sports centre.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Открытая площадь в городе или городе, часто с деревьями, сиденьями и монументами.",
       "example": "Spotkałem się z przyjaciółmi na placu wczoraj wieczorem, spacerowaliśmy po placu tej nocy, i siądzie nam na placu jutro popołudniu.",
       "example_translation": "Я встретился с друзьями на площади昨 вечером, мы пошли вокруг площади сегодня утром, и мы сядем на площади завтра днем.",
-      "imageLink": "square.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "square.jpg",
       "audioLink": "square.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Большая, обычно открытая, территория или конструкция для спортивных или других мероприятий, часто с местами для зрителей.",
       "example": "Wsiadałem na stadion, by obejrzeć mecz piłkarski ostatniej nocy, a mam plan, by ido na stadion dzisiaj, by obejrzeć koncert, i powrócę na stadion następnym tygodniu, by go znowu otworzyć.",
       "example_translation": "Я пошел на стадион, чтобы посмотреть футбольный матч вчера вечером, и я пойду на стадион, чтобы посмотреть концерт завтра, и я посещу стадион снова на следующей неделе.",
-      "imageLink": "stadium.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stadium.jpg",
       "audioLink": "stadium.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Здание или пространство, в котором проходят живые выступления, такие как спектакли, концерты или танцевальные шоу.",
       "example": "Byłem w teatrze kilka razy, by obejrzeć spektakle, a mam zamiar ido do teatru dzisiaj, by obejrzeć musical, i powrócę tam ponownie następnym miesiącu, by ponownie go zobaczyć.",
       "example_translation": "Я был в театре несколько раз, чтобы посмотреть спектакли, и я пойду в театр, чтобы посмотреть мюзикл завтра, и я посещу театр снова nächsten месяц.",
-      "imageLink": "theatre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "theatre.jpg",
       "audioLink": "theatre.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Место, где продаются билеты, особенно для конкретного мероприятия или выступления.",
       "example": "Wsiadałem do kasy biletowej, co kupić bilety na koncert, ido do kasy biletowej dziś, by kupić bilety na spektakl, i powrócę do kasy biletowej następnym tygodniu, by ponownie sprawdzić.",
       "example_translation": "Я пошел в кассу, чтобы купить билеты на концерт, и я пойду в кассу, чтобы купить билеты на спектакль завтра, и я посещу кассу снова на следующей неделе.",
-      "imageLink": "ticket-office.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ticket-office.jpg",
       "audioLink": "ticket office.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Магазин, который продает игрушки и игры.",
       "example": "Wsiadałem do sklepu z zabawkami wczoraj, by kupić prezent, ido do sklepu z zabawkami dziś, by kupić zabawkę dla mojego brata, i powrócę tam ponownie następnym miesiącu, by sprawdzić nowości.",
       "example_translation": "Я пошел в магазин игрушек, чтобы купить подарок для своего друга, и я пойду в магазин игрушек, чтобы купить игрушку для брата завтра, и я посещу магазин игрушек снова nächsten месяц.",
-      "imageLink": "toy-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toy-shop.jpg",
       "audioLink": "toy shop.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Официальная резиденция или офис посла.",
       "example": "Muszę pojechać do ambasady, żeby zdobyć wizę. Ambasada znajduje się w centrum miasta. Pracuje jako dyplomatka w ambasadzie.",
       "example_translation": "Мне нужно пойти в посольство, чтобы получить визу. Посольство расположено в центре города. Она работает дипломатом в посольстве.",
-      "imageLink": "embassy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embassy.jpg",
       "audioLink": "embassy.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Область земли, используемая для выращивания культур или разведения животных.",
       "example": "Będę pracować w polu latem. Dwa lata temu pole było pełne pszenicy. Gdyby padało, pole zostanie zalane.",
       "example_translation": "Я буду работать в поле этим летом. Поле было полно пшеницы в прошлом году. Если будет дождь, поле будет затоплено.",
-      "imageLink": "field-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "field-1.jpg",
       "audioLink": "field.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Здание или объект, который служит базой операций для пожарных и их оборудования, из которого они отвечают на пожарные тревоги и другие чрезвычайные ситуации.",
       "example": "Strażnica znajduje się na rogu ulic Głównej i Lipowej. Strażacy odpowiedzieli szybko na wezwanie. Przez rok przeniosą się do nowej strażnicy.",
       "example_translation": "Пожарная часть находится на углу улиц Мейн и Элм. Пожарные быстро отреагировали на вызов экстренной помощи. К следующему году они переедут в новую пожарную часть.",
-      "imageLink": "fire-station.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fire-station.jpg",
       "audioLink": "fire station.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Магазин или(store), где продаются цветы и другие растения, часто с услугой по их устройству и доставке.",
       "example": "W odwiedziłem kwiaciarnię, żeby kupić bukiet dla mojej matki na urodziny. W kwiaciarni panował piękny widok pełen świeżych kwiatów. Otworzy własną kwiaciarnię miesiąc temu.",
       "example_translation": "Я посетил цветочный магазин, чтобы купить букет для дня рождения моей матери. Магазин цветочника был красиво украшен свежими цветами. Она откроет свой собственный цветочный магазин следующий месяц.",
-      "imageLink": "florists.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "florists.jpg",
       "audioLink": "florist's.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Магазин или лавка, который продает мебель и другие хозяйственные предметы, такие как кровати, столики, стулья и диваны.",
       "example": "Kupiłem nową kanapę w meblu. Mebel powinien oferować szeroki wybór marek i stylów. Przejdzie do meblu przyszłym tygodniu.",
       "example_translation": "Я купил новый диван в мебельном магазине. Мебельный магазин предлагает широкий спектр брендов и стилей. Они будут иметь распродажу в мебельном магазине на следующей неделе.",
-      "imageLink": "furniture-store.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "furniture-store.jpg",
       "audioLink": "furniture store.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Здание или конструкция, предназначенная для хранения и защиты транспортных средств, часто с инструментами и оборудованием для ремонта и обслуживания их.",
       "example": "Parkowałem samochód w garażu. Mechanik pracował w garażu cały dzień. Przez rok zamienią garaż na domową pracownię.",
       "example_translation": "Я оставил свою машину в гараже. Механик работал в гараже весь день. Они преобразуют гараж в домашний офис к следующему году.",
-      "imageLink": "garage-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garage-1.jpg",
       "audioLink": "garage.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Магазин, продающий свежие фрукты и овощи.",
       "example": "Wszedłem do owocnego wczoraj, żeby kupić jabłka. Wejdę do owocnego jutro, żeby kupić banany. Chodziłem do owocnego wiele razy, żeby kupić pomarańcze.",
       "example_translation": "Я пошел в овощной магазин вчера, чтобы купить некоторые яблоки. Я пойду в овощной магазин завтра, чтобы купить некоторые бананы. Я ходил в овощной магазин много раз, чтобы купить некоторые апельсины.",
-      "imageLink": "greengrocers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "greengrocers.jpg",
       "audioLink": "greengrocer's.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Магазин, продающий продукты питания и другие домашние товары.",
       "example": "Wszedłem do marchand de vin wczoraj, żeby kupić mleko. Wejdę do marchand de vin jutro, żeby kupić chleb. Chodziłem do marchand de vin wiele razy, żeby kupić jaja.",
       "example_translation": "Я пошел в продовольственный магазин вчера, чтобы купить некоторые молоко. Я пойду в продовольственный магазин завтра, чтобы купить некоторые хлеб. Я ходил в продовольственный магазин много раз, чтобы купить некоторые яйца.",
-      "imageLink": "grocers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grocers.jpg",
       "audioLink": "grocer's.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Продукты питания и другие домашние товары, продаваемые в магазине.",
       "example": "Kupiłem produkty w supermarketach wczoraj. Przez rok kupuję produkty w sklepach wiele razy.",
       "example_translation": "Я купил некоторые продукты питания в супермаркете вчера. Я куплю некоторые продукты питания на рынке завтра. Я купил некоторые продукты питания в магазине много раз.",
-      "imageLink": "grocery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grocery.jpg",
       "audioLink": "grocery.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "Частный дом, предоставляющий accommodation для платных гостей.",
       "example": "Byłem w pensjonacie w Paryżu w zeszłym roku. Byłem w pensjonacie w Londynie trzy lata temu. Byłem w pensjonacie w Rzymie przez rok.",
       "example_translation": "Я останавливался в гостевом доме в Париже в прошлом году. Я останусь в гостевом доме в Риме в следующем году. Я останавливался в гостевом доме в Лондоне много раз.",
-      "imageLink": "guesthouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guesthouse.jpg",
       "audioLink": "guesthouse.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "Учреждение, которое остается открытым до позднего часа ночи, обычно с живой музыкой, танцами и алкогольными напитками.",
       "example": "Wczoraj wieczorem byłem w klubie nocnym, dzisiaj wieczorem idę do klubu nocnego, i pójdę do klubu nocnego w przyszłym tygodniu.",
       "example_translation": "Я пошел в ночной клуб прошлой ночью, я иду в ночной клуб сегодня ночью, и я пойду в ночной клуб на следующей неделе.",
-      "imageLink": "night-club.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "night-club.jpg",
       "audioLink": "nightclub.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Огромное тело соленой воды, покрывающее значительную часть поверхности Земли.",
       "example": "Pływałem w oceanie latem, pływam w oceanie tym latem, i pływać będę w oceanie latem przyszłym.",
       "example_translation": "Я плавал в океане прошлым летом, я плыву в океане этим летом, и я werde плавать в океане следующим летом.",
-      "imageLink": "ocean.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ocean.jpg",
       "audioLink": "ocean.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Большой и внушительный здание, особенно тот, который исторически был королевской резиденцией.",
       "example": "Królowa mieszkała w wielkim pałacu w centrum miasta. Pójdzie do pałacu jutro. Odwiedzili pałac rok temu.",
       "example_translation": "Королева жила в большом дворце в центре города. Она посетит дворец завтра. Они посетили дворец прошлым годом.",
-      "imageLink": "palace.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "palace.jpg",
       "audioLink": "palace.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "Магазин, где продаются или выдаются лекарства и другие продукты здравоохранения.",
       "example": "Poszedłem do apteki po leki. Pracować będzie w aptece za rok. Odwiedzili aptekę wczoraj.",
       "example_translation": "Я пошел в аптеку, чтобы купить некоторые лекарства. Она будет работать в аптеке в следующем году. Они посетили аптеку вчера.",
-      "imageLink": "pharmacy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pharmacy.jpg",
       "audioLink": "pharmacy.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "Место на побережье, где корабли могут останавливаться для загрузки и разгрузки груза.",
       "example": "Podczas statku towarowego cumowałem w porcie wczoraj. Podnosiłem się z portu dzisiaj. Odwiedziliśmy port w minionym tygodniu.",
       "example_translation": "Грузовое судно прибыло в порт вчера. Они отплыли от порта завтра. Мы посетили порт на прошлой неделе.",
-      "imageLink": "port.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "port.jpg",
       "audioLink": "port.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "Здание или учреждение, где люди содержатся в заключении в качестве наказания за преступление.",
       "example": "Trafiłem do więzienia na pięć lat. Pójdzie do więzienia następnego miesiąca. Uciekłyśmy z więzienia wczoraj.",
       "example_translation": "Он был отправлен в тюрьму на пять лет. Она посетит тюрьму в следующем месяце. Они бежали из тюрьмы прошлой ночью.",
-      "imageLink": "prison.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "prison.jpg",
       "audioLink": "prison.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "Дождевой лес - это густой лес в тропическом регионе, обычно с высокой температурой и высокими уровнями осадков.",
       "example": "Wczoraj odwiedziłem las równikowy w Brazylii, gdzie widziałem wiele egzotycznych ptaków. Teraz planuję odwiedzić inny las równikowy w Azji Południowo-Wschodniej. Do czasu, aż skończę swoje wojaże, odwiedzę trzy lasy równikowe.",
       "example_translation": "Я посетил дождевой лес в Бразилии в прошлом году, где я увидел много экзотических птиц. Теперь я планирую посетить другой в Индонезии. К тому времени, когда я закончу свою поездку, я увидел три дождевых леса.",
-      "imageLink": "rainforest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rainforest.jpg",
       "audioLink": "rainforest.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Средняя школа - это школа, которая обеспечивает образование для студентов обычно в возрасте от 11 до 18 лет.",
       "example": "Chodziłem do drugorzędnego liceum w moim mieście, gdzie studiowałem matematykę i naukę. Teraz rozważam wstąpienia do drugorzędnego liceum w Stanach Zjednoczonych. Będę po drugorzędnym liceum skończonych.",
       "example_translation": "Я посетил среднюю школу в моем родном городе, где я изучал математику и науку. Теперь я думаю о поступлении в среднюю школу в Соединенных Штатах. К тому времени, когда я毕业ю, я завершу две средние школы.",
-      "imageLink": "secondary-school.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "secondary-school.jpg",
       "audioLink": "secondary school.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "Магазин сувениров - это магазин, который продает объекты, которые служат напоминанием о bestimmten месте или событии.",
       "example": "Odwiedziłem sklep pamiątkarski w Paryżu, w którym kupiłem łańcuch. Szukam sklepu pamiątkarskiego w Tokio. Będę składać swe pamiętniki pięciu sklepach pamiątkarskich dzisiaj.",
       "example_translation": "Я пошел в магазин сувениров в Париже, где я купил брелок. Теперь я ищу магазин сувениров в Токио. К тому времени, когда я найду один, я посетил пять магазинов сувениров.",
-      "imageLink": "souvenir-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "souvenir-shop.jpg",
       "audioLink": "souvenir shop.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "Спортивный магазин - это магазин, который продает оборудование, одежду и аксессуары для различных видов спорта и наружных активностей.",
       "example": "Wczoraj odwiedziłem sportowy sklep na Nowym Jorku, gdzie kupiłem piłkę koszykową. Planuję odwiedzić sportowy sklep w Londynie. Będę cięć swoje wyposażenie trzykrotnie, podsycane sklepami sportowymi.",
       "example_translation": "Я посетил спортивный магазин в Нью-Йорке, где я купил баскетбол. Теперь я планирую посетить спортивный магазин в Лондоне. К тому времени, когда я закінчу свои покупки, я посетил три спортивных магазина.",
-      "imageLink": "sports-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sports-shop.jpg",
       "audioLink": "sports shop.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Здание или комната, где товары продаются или хранятся для продажи.",
       "example": "Poszedłem do sklepu, aby kupić mleko. Idę do sklepu, aby kupić buty. Pójdę do sklepu, aby kupić prezent.",
       "example_translation": "Я пошел в магазин, чтобы купить молоко. Я иду в магазин, чтобы купить обувь. Я пойду в магазин, чтобы купить подарок.",
-      "imageLink": "store.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "store.jpg",
       "audioLink": "store.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Здание, посвященное религиозному поклонению.",
       "example": "W ubiegłym tygodniu odwiedziłem świątynię. Odwiedzę świątynię z rodziną. Odwiedzenie świątyny planuję na następny rok.",
       "example_translation": "Я посетил храм прошлым выходным днем. Я посещаю храм с моей семьей. Я посещу храм в следующем году.",
-      "imageLink": "temple.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "temple.jpg",
       "audioLink": "temple.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Высокое узкое здание или сооружение, обычно используемое для наблюдения или защиты.",
       "example": "Wieża stała dumnie i uroczo. Wspiąłem się na wieżę, aby zobaczyć widok. Wieżę postanowiłem zobaczyć następnego miesiąca.",
       "example_translation": "Башня стояла высокой и гордой. Я забрался на башню, чтобы увидеть вид. Я посещу башню в следующем месяце.",
-      "imageLink": "tower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tower.jpg",
       "audioLink": "tower.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Путь или маршрут, используемый для ходьбы, бега или гонок.",
       "example": "Wczoraj biegałem po trasie. Biegnę po trasie teraz. Jutro także biegnę po trasie.",
       "example_translation": "Я бежал по треку вчера. Я бегу по треку сейчас. Я побегу по треку завтра.",
-      "imageLink": "track.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "track.jpg",
       "audioLink": "track.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Бюджетное жилье для молодых путешественников, часто с комнатами в стиле общежития и общими удобствами.",
       "example": "W zeszłym lecie zatrzymałem się w hostelu młodzieżowym w Paryżu. Było to świetny sposób, aby poznać innych podróżników. Zatrzymujełem się w wielu hostelach młodzieżowych i zdecydowanie zatrzymam się w nich ponownie.",
       "example_translation": "Я останавливался в молодежном хостеле в Париже прошлым летом. Это был отличный способ встретить других путешественников. Я останавливался в нескольких молодежных хостелах раньше, и я, конечно, останусь в одном снова в будущем.",
-      "imageLink": "youth-hostel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "youth-hostel.jpg",
       "audioLink": "youth hostel.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Магазин, продающий хлеб, выпечку и другие выпечные изделия.",
       "example": "Wczoraj rano poszedłem do piekarni, aby kupić świeżo pieczony chleb. Piekarnia na rogu jest moim ulubionym miejscem. Pójdę do piekarni jutro, aby złożyć zamówienie na tortę na urodziny.",
       "example_translation": "Я пошел в пекарню этим утром, чтобы купить свежий хлеб. Пекарня на углу - моя любимая. Я пойду в пекарню снова завтра, чтобы заказать торт на свой день рождения.",
-      "imageLink": "bakery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bakery.jpg",
       "audioLink": "bakery.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Нижний этаж здания, обычно ниже уровня земли, используемый для хранения или как комната для коммунальных услуг.",
       "example": "Stary mebel przechowuję w piwnicy. Podczas obfitych deszczów piwnica była zalewana. Zanim skończę lato, chcę przystosować się, aby zdobyć opór i ropy z piwnicy.",
       "example_translation": "Я хранил мою старую мебель в подвале. Подвал был затоплен во время сильного дождя. Мы закончим подвал в следующем месяце и превратим его в домашний спортзал.",
-      "imageLink": "basement.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "basement.jpg",
       "audioLink": "basement.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Маленькое закрытое или отгороженное пространство, zoals тюремная клетка или клетка в монастыре.",
       "example": "Skazaniec spędził 10 lat w celi. Mnich żył w małej celi w klasztorze. Kombinacja plastrów miodu była pełna miodu.",
       "example_translation": "Заключенный был содержан в клетке в течение 10 лет. Монах жил в маленькой клетке в монастыре. Клетка пчелиного сота была полна меда.",
-      "imageLink": "cell.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cell.jpg",
       "audioLink": "cell.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Коридор - это длинный проход в здании, особенно тот, который соединяет комнаты или части здания.",
       "example": "Ażeby dostać się do sali rozmównicy, chodzę korytarzem. Chodziłem korytarzem, aby dotrzeć do sali rozmównicy wczoraj. Do sali rozmównicy pójdę korytarzem jutro.",
       "example_translation": "Я пошел вниз по коридору, чтобы добраться до комнаты для встреч. Вчера я шел вниз по коридору, чтобы добраться до комнаты для встреч. Завтра я пойду вниз по коридору, чтобы добраться до комнаты для встреч.",
-      "imageLink": "corridor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corridor.jpg",
       "audioLink": "corridor.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Курс - это серия уроков или лекций на определенный предмет, особенно тот, который приводит к квалификации.",
       "example": "Ostatniego semestru uczęszczałem na kurs programowania komputerowego. Przez ten semestr uczęszczam na kurs programowania komputerowego. W następnym semestrze chcę wybrać kurs programowania komputerowego.",
       "example_translation": "Я прошел курс компьютерного программирования в прошлом семестре. Я прохожу курс компьютерного программирования в этом семестре. Я пройду курс компьютерного программирования в следующем семестре.",
-      "imageLink": "course-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "course-1.jpg",
       "audioLink": "course.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "Имущество - это большая территория земли, особенно в деревне, которая принадлежит одному человеку или семье.",
       "example": "Rodzina Smitha jest właścicielem wielkiej nieruchomości na wsi. Posiadali wielką nieruchomość na wsi w zeszłym roku. Będą mieć wielką nieruchomość na wsi następnym roku.",
       "example_translation": "Семья Смит владеет большим имуществом в деревне. Они владели большим имуществом в деревне в прошлом году. Они будут владеть большим имуществом в деревне в следующем году.",
-      "imageLink": "estate.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "estate.jpg",
       "audioLink": "estate.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "Штаб-квартира организации или компании - это основное место, где она контролируется или управляется.",
       "example": "Siedziba spółki znajduje się w Nowym Jorku. Siedziba spółki była zlokalizowana w Nowym Jorku w zeszłym roku. Siedziba spółki będzie się znajdować w Nowym Jorku przyszłego roku.",
       "example_translation": "Штаб-квартира компании находится в Нью-Йорке. Штаб-квартира компании была розташована в Нью-Йорке в прошлом году. Штаб-квартира компании будет розташована в Нью-Йорке в следующем году.",
-      "imageLink": "headquarters.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "headquarters.jpg",
       "audioLink": "headquarters.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "Лобби - это комната или зона в здании, используемая для ожидания или сборов, часто в отеле, театре или офисном здании.",
       "example": "Czekałem na lobi na przyjaciela. Czekam na lobi na przyjaciela każdej niedzieli. Czekać będę na lobi na przyjaciela weekend.",
       "example_translation": "Я ждал в лобби прибытия моего друга. Я жду в лобби прибытия моего друга. Я буду ждать в лобби прибытия моего друга.",
-      "imageLink": "lobby.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lobby.jpg",
       "audioLink": "lobby.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "Луг - это поле травы и野цветов, часто near речки или ручья.",
       "example": "Miałem piknik na łące zeszłego lata. Maję piknik na łące w każdą niedzielę. Będę mieć piknik na łące weekiend.",
       "example_translation": "Мы устроили пикник в лугу прошлым летом. Мы устраиваем пикник в лугу каждое воскресенье. Мы устроим пикник в лугу на следующих выходных.",
-      "imageLink": "meadow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "meadow.jpg",
       "audioLink": "meadow.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Питч - это участок земли, размеченный для игры в какой-либо вид спорта, особенно в бейсбол или крикет.",
       "example": "Opuściłem piłkę baseballową na boisku zeszłego lata. Rzucałem piłkę baseballową na boisku każdym meczu. Rzucić będę piłkę baseballową na boisku jutro.",
       "example_translation": "Игрок в бейсбол бросил мяч через питч. Игрок в бейсбол бросает мяч через питч every игра. Игрок в бейсбол бросит мяч через питч завтра.",
-      "imageLink": "pitch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pitch.jpg",
       "audioLink": "pitch.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Сарай - это небольшая конструкция, обычно сделанная из дерева или металла, используемая для хранения вещей, таких как инструменты, велосипеды или оборудование для сада.",
       "example": "Przechowywałem rower w szopie zeszłego zimy. Przechowuję rower w szopie zimy co roku. Przechowam rower w szopie zimy przyszłego.",
       "example_translation": "Я хранил свой велосипед в сарае прошлой зимой. Я храню свой велосипед в сарае каждую зиму. Я храню свой велосипед в сарае следующей зимой.",
-      "imageLink": "shed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shed.jpg",
       "audioLink": "shed.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": " Небоскрёб - это высокое, постоянно пригодное для проживания здание многих этажей, часто предназначенное для офисных, коммерческих и жилых целей.",
       "example": "Pracowałem na 30. piętrze wieżowca w Nowym Jorku. Wczoraj nawiedziłem wieżowiec i podsłuchałem odbijania się pojawy o betonowe elementy. Następnym rokiem zamieszkam w wieżowcu w Tokio.",
       "example_translation": "Я работал на 30-м этаже небоскрёба в Нью-Йорк Сити. Вчера я посетил обсерваторию на вершине небоскрёба. К следующему году я shall будем жить в небоскрёбе в Токио.",
-      "imageLink": "skyscraper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "skyscraper.jpg",
       "audioLink": "skyscraper.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Каменный пляж - это прибрежная зона с высокой концентрацией камней, гальки и валунов, часто встречающаяся вдоль береговых линий.",
       "example": "Uwielbiałem spacery poślizgowe o wschodzie słońca. Poślizga była pokryta wodorostami po nawałnicy. Poślizga będzie końcóvka w dwa lata.",
       "example_translation": "Я любил гулять по каменному пляжу на рассвете. Каменный пляж был покрыт морской травой после шторма. К следующему лету каменный пляж будет очищен.",
-      "imageLink": "stony-beach.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stony-beach.jpg",
       "audioLink": "stony beach.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Студия - это комната или здание, используемое для инструктажа, практики или производства в различных искусствах, таких как танец, музыка или кино.",
       "example": "Odbyłem zajęcia jogi w studio wczoraj. Studio było wyposazone w sprzęt o najnowocześniejszej technologii. Praktykuje jogę w studiu każcy jakiś czas.",
       "example_translation": "Я посетил студию йоги вчера. Студия была оборудована передовым оборудованием. К следующему месяцу у меня будет своя студия.",
-      "imageLink": "studio.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "studio.jpg",
       "audioLink": "studio.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "Терминал - это точка прибытия или отправления в аэропорту, морском порту или другом транспортном узле, или устройство для ввода данных в компьютер.",
       "example": "Wsiadłem na terminal dwie godziny przed lotem. Terminal był pełny ludzi. Terminale poza lotniskiem powinny być modernizowane do przyszłego roku.",
       "example_translation": "Я прибыл на терминал за час до моего рейса. Терминал был переполнен людьми. К следующему году терминал будет реконструирован.",
-      "imageLink": "terminal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "terminal.jpg",
       "audioLink": "terminal.mp3"
     },
     {
@@ -1569,7 +1569,7 @@
       "definition_translation": "Магазин, который продает свежую рыбу и другие морепродукты.",
       "example": "Wczoraj poszedłem do zielarni kupić łososia na obiad. Dzisiaj zakupiłem krewetki w tym samym sklepie. Jutro kupię w tym sklepie homara.",
       "example_translation": "Я пошел на рыбный рынок, чтобы купить лосось на ужин. Вчера я купил креветки в том же магазине. Завтра я куплю лобстер в том магазине.",
-      "imageLink": "fishmongers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fishmongers.jpg",
       "audioLink": "fishmonger's.mp3"
     },
     {
@@ -1582,7 +1582,7 @@
       "definition_translation": "Магазин, который продает оборудование, инструменты и другие металлические товары.",
       "example": "Poszedłem do želazniaka, żeby kupić nowy młot. Dzisiaj zakupiłem śrubociąg w tym samym sklepie. Jutro kupię w tym sklepie klucz do pomocy.",
       "example_translation": "Я пошел на железнодорожный рынок, чтобы купить новый молот. Вчера я купил отвертку в том же магазине. Завтра я куплю гаечный ключ в том магазине.",
-      "imageLink": "ironmongers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ironmongers.jpg",
       "audioLink": "ironmonger's.mp3"
     },
     {
@@ -1595,7 +1595,7 @@
       "definition_translation": "Акт посадки, особенно самолета или космического аппарата, или место, где это происходит.",
       "example": "Pilot zaczynał procedurę lądowania. Jutro ludzie wylądują na Marsie.",
       "example_translation": "Пилот начал процедуру посадки, и самолет приземлился безопасно на взлетную полосу. Вчера я свидетельствовал посадку самолета на пляже. К 2025 году люди высадятся на Марс.",
-      "imageLink": "landing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "landing.jpg",
       "audioLink": "landing.mp3"
     },
     {
@@ -1608,7 +1608,7 @@
       "definition_translation": "Комната или пространство ngay под крышей здания, часто используемое для хранения.",
       "example": "Przechowuję stare skrzynki i meble na strychu. Dzisiaj strych został przekształcony w nowoczesne mieszkanie. W XIX wieku strychy były wykorzystywane jako warsztaty.",
       "example_translation": "Я храню старые коробки и мебель на чердаке. Чердак был преобразован в современную квартиру. В 19-м веке чердаки использовались как мастерские.",
-      "imageLink": "loft.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "loft.jpg",
       "audioLink": "loft.mp3"
     },
     {
@@ -1621,7 +1621,7 @@
       "definition_translation": "Лицензия или разрешение, которое позволяет лицу или бизнесу продавать алкоголь для потребления вне помещения.",
       "example": "Jutro kupię wino, nie podlegając pod wolnocło.",
       "example_translation": "Магазин с лицензией на розничную продажу алкоголя был открыт 24/7. Я получил лицензию на розничную продажу вина в моем ресторане. В некоторых странах лицензии на розничную продажу алкоголя выдаются только определенным лицам.",
-      "imageLink": "off-licence.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "off-licence.jpg",
       "audioLink": "off-licence.mp3"
     },
     {
@@ -1634,7 +1634,7 @@
       "definition_translation": "Здание или конструкция для размещения лошадей, крупного рогатого скота или других животных.",
       "example": "Codziennie rano czyściło się stajnię. Konia umieszczono w stajni z nową sianem. W dawnych czasach stajnie były wykorzystywane jako schronienia dla podróżników.",
       "example_translation": "Стоило было очищено каждое утро. Лошадь была помещена в стойло с свежим сеном. В давние дни стойла использовались как приюты для путешественников.",
-      "imageLink": "stable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stable.jpg",
       "audioLink": "stable.mp3"
     },
     {
@@ -1647,7 +1647,7 @@
       "definition_translation": "Магазин дьюти-фри - это розничный магазин, который продает товары без взимания налогов на добавленную стоимость или иных местных налогов.",
       "example": "Kupiłem pół litra perfum w sklepie wolnocłowym na lotnisku. Dzisiaj kupiłem zegarek w sklepie wolnocłowym, a jutro kupię tam aparat fotograficzny.",
       "example_translation": "Я купил бутылку парфюма в дьюти-фри магазине в аэропорту. Вчера я купил часы в дьюти-фри магазине, а завтра я куплю камеру в дьюти-фри магазине.",
-      "imageLink": "duty-free-shop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "duty-free-shop.jpg",
       "audioLink": "duty-free shop.mp3"
     },
     {
@@ -1660,7 +1660,7 @@
       "definition_translation": "Пристань - это сооружение, возведенное на столбах в море, озере или реке, используемое как место причала для лодок или судов.",
       "example": "Chodziłem po molo, podziwiając zachód słońca. Dzisiaj rybak wyładowywał swój połów na molo, a dziś naprawiał sieci na molo. Przed następnim latem, miasto wybuduje nowe molo.",
       "example_translation": "Я šёл вдоль пристани, чтобы насладиться закатом. Рыбаки разгрузили свой улов на пристани вчера, а сегодня они ремонтируют свои сети на пристани. К следующему лету город построит новую пристань.",
-      "imageLink": "pier.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pier.jpg",
       "audioLink": "pier.mp3"
     }
   ]

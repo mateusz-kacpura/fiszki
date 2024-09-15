@@ -9,7 +9,7 @@
       "definition_translation": "Um pequeno mamífero carnívoro da família Felidae, muitas vezes criado como um animal de estimação.",
       "example": "Vi un gato durmiendo en el sofá ayer, estaba durmiendo hoy y dormirá mañana.",
       "example_translation": "Eu vi um gato dormindo no sofá ontem, estava dormindo hoje, e dormirá amanhã.",
-      "imageLink": "cat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cat.jpg",
       "audioLink": "cat.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Um grande mamífero ungulado domesticado que produz leite, geralmente mantido em fazendas e ranchos.",
       "example": "La vaca estaba pastando en el campo ayer, está pastando hoy y pastará mañana.",
       "example_translation": "A vaca estava pastando no campo ontem, está pastando hoje, e pastará amanhã.",
-      "imageLink": "cow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cow.jpg",
       "audioLink": "cow.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Um mamífero carnívoro domesticado que pertence à família Canidae, muitas vezes criado como um companheiro ou guarda.",
       "example": "El perro estaba ladrando fuerte ayer, está ladrando hoy y ladra mañana.",
       "example_translation": "O cachorro estava latindo alto ontem, está latindo hoje, e latirá amanhã.",
-      "imageLink": "dog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dog.jpg",
       "audioLink": "dog.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Um grande mamífero quadrúpede herbívoro, ungulado, domesticado e usado para montaria, carruagem e outros propósitos.",
       "example": "El caballo estaba galopando en el campo ayer, está galopando hoy y galopará mañana.",
       "example_translation": "O cavalo estava galopando no campo ontem, está galopando hoje, e galopará amanhã.",
-      "imageLink": "horse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horse.jpg",
       "audioLink": "horse.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Um porco é um mamífero domesticado que é frequentemente mantido em fazendas e é utilizado por sua carne.",
       "example": "Vi un cerdo comiendo comida en la granja ayer. El cerdo está comiendo comida en la granja ahora. El cerdo comerá comida en la granja mañana.",
       "example_translation": "Eu vi um porco comendo comida na fazenda ontem. O porco está comendo comida na fazenda agora. O porco comerá comida na fazenda amanhã.",
-      "imageLink": "pig.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pig.jpg",
       "audioLink": "pig.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Uma ovelha é um mamífero domesticado que é frequentemente mantido em fazendas e é utilizado por sua lã e carne.",
       "example": "Vi una oveja pastando en el campo ayer. La oveja está pastando en el campo ahora. La oveja pastará en el campo mañana.",
       "example_translation": "Eu vi uma ovelha pastando no campo ontem. A ovelha está pastando no campo agora. A ovelha pastará no campo amanhã.",
-      "imageLink": "sheep.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sheep.jpg",
       "audioLink": "sheep.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Um bebê é um ser humano muito jovem, especialmente um recém-nascido ou recentemente nascido.",
       "example": "El bebé estaba llorando ayer. El bebé está durmiendo ahora. El bebé jugará con juguetes mañana.",
       "example_translation": "O bebê estava chorando ontem. O bebê está dormindo agora. O bebê brincará com brinquedos amanhã.",
-      "imageLink": "baby-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baby-1.jpg",
       "audioLink": "baby.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Um urso é um grande mamífero carnívoro com pelo lanoso, encontrado em florestas e montanhas.",
       "example": "Vi un oso caminando en el bosque ayer. El oso está subiendo un árbol ahora. El oso nadará en el río mañana.",
       "example_translation": "Eu vi um urso caminhando na floresta ontem. O urso está subindo uma árvore agora. O urso nadará no rio amanhã.",
-      "imageLink": "bear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bear.jpg",
       "audioLink": "bear.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Um chita é um grande gato nativo da África e do Irã central, conhecido por sua coat distinta e incrível velocidade, atingindo até 70 milhas por hora.",
       "example": "En el pasado, la chita era una vista común en la sabana, pero hoy en día es una especie en peligro de extinción. En el presente, se están llevando a cabo esfuerzos de conservación para proteger la chita y su hábitat. En el futuro, esperamos ver la chita prosperar de nuevo.",
       "example_translation": "No passado, o chita era uma visão comum na savana, mas hoje é uma espécie ameaçada. No presente, esforços de conservação estão em andamento para proteger o chita e seu habitat. No futuro, esperamos ver o chita prosperar novamente.",
-      "imageLink": "cheetah.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cheetah.jpg",
       "audioLink": "cheetah.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Um elefante é um grande mamífero inteligente com um tronco, presas e um som característico, nativo da África e Ásia.",
       "example": "En el pasado, los elefantes se utilizaban como animales de carga, pero hoy en día están protegidos por leyes de conservación. En el presente, los elefantes son una parte importante de sus ecosistemas, jugando un papel vital en la dispersión de semillas y la creación de bosques. En el futuro, esperamos ver las poblaciones de elefantes continuar prosperando.",
       "example_translation": "No passado, os elefantes eram usados como animais de carga, mas hoje são protegidos por leis de conservação. No presente, os elefantes são uma parte importante de seus ecossistemas, desempenhando um papel vital na dispersão de sementes e criação de florestas. No futuro, esperamos ver as populações de elefantes continuar a prosperar.",
-      "imageLink": "elephant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elephant.jpg",
       "audioLink": "elephant.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Um porquinho-da-índia é um pequeño roedor peludo comumente mantido como animal de estimação, nativo da América do Sul.",
       "example": "En el pasado, los cerdos de Guinea se utilizaban como alimento en algunas culturas, pero hoy en día son amadas mascotas. En el presente, los cerdos de Guinea son populares mascotas debido a su naturaleza gentil y cuidado de mantenimiento bajo. En el futuro, esperamos ver a los cerdos de Guinea continuar brindando alegría a sus dueños.",
       "example_translation": "No passado, os porquinhos-da-índia eram usados como comida em algumas culturas, mas hoje são animais de estimação queridos. No presente, os porquinhos-da-índia são animais de estimação populares devido à sua natureza gentil e cuidado de baixa manutenção. No futuro, esperamos ver os porquinhos-da-índia continuar a trazer alegria para seus donos.",
-      "imageLink": "guinea-pig.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guinea-pig.jpg",
       "audioLink": "guinea pig.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Um hamster é um pequeno roedor peludo comumente mantido como animal de estimação, nativo da Europa e Ásia.",
       "example": "En el pasado, los hámsteres se utilizaban como animales de laboratorio, pero hoy en día son populares mascotas. En el presente, los hámsteres son conocidos por su amor al ejercicio y el juego, y los dueños a menudo les proporcionan juguetes y túneles para explorar. En el futuro, esperamos ver a los hámsteres continuar prosperando como amadas mascotas.",
       "example_translation": "No passado, os hamsters eram usados como animais de laboratório, mas hoje são animais de estimação populares. No presente, os hamsters são conhecidos por seu amor ao exercício e brincadeira, e os donos frequentemente lhes fornecem brinquedos e túneis para explorar. No futuro, esperamos ver os hamsters continuar a prosperar como animais de estimação queridos.",
-      "imageLink": "hamster.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hamster.jpg",
       "audioLink": "hamster.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um grande mamífero carnívoro com um curto, tawny ou casaco dourado e um longo mane no macho, encontrado em savanas e gramados da África e Índia.",
       "example": "El león rugió fuerte en la jungla ayer, ruge fuerte en la jungla ahora y rugirá fuerte en la jungla mañana.",
       "example_translation": "O leão rugiu alto na selva ontem, ele ruge alto na selva agora e rugirá alto na selva amanhã.",
-      "imageLink": "lion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lion.jpg",
       "audioLink": "lion.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Um prímata da ordem Primatas, incluindo prosimii, macacos do Novo Mundo, macacos do Velho Mundo e grandes macacos, tipicamente tendo uma longa cauda e vivendo em árvores.",
       "example": "El mono saltó de árbol en árbol rápidamente ayer, salta de árbol en árbol rápidamente ahora y saltará de árbol en árbol rápidamente mañana.",
       "example_translation": "O macaco pulou de árvore em árvore rapidamente ontem, ele pula de árvore em árvore rapidamente agora e pulará de árvore em árvore rapidamente amanhã.",
-      "imageLink": "monkey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "monkey.jpg",
       "audioLink": "monkey.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Um pequeno mamífero roedor que é comumente encontrado em casas e fazendas, e é conhecido por sua habilidade de carregar doenças.",
       "example": "El ratón corrió rápidamente por el piso de la cocina ayer, corre rápidamente por el piso de la cocina ahora y correrá rápidamente por el piso de la cocina mañana.",
       "example_translation": "O rato correu rapidamente pelo chão da cozinha ontem, ele corre rapidamente pelo chão da cozinha agora e correrá rapidamente pelo chão da cozinha amanhã.",
-      "imageLink": "mouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mouse.jpg",
       "audioLink": "mouse.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Um pequeno mamífero com longas orelhas, longas pernas traseiras e uma cauda curta, tipicamente vivendo em tocas e alimentando-se de material vegetal.",
       "example": "El conejillo saltó rápidamente por el jardín ayer, salta rápidamente por el jardín ahora y saltará rápidamente por el jardín mañana.",
       "example_translation": "O coelho pulou rapidamente pelo jardim ontem, ele pula rapidamente pelo jardim agora e pulará rapidamente pelo jardim amanhã.",
-      "imageLink": "rabbit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rabbit.jpg",
       "audioLink": "rabbit.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Um rato é um roedor que pertence ao gênero Rattus. Os ratos são tipicamente considerados pragas e são conhecidos por carregar doenças.",
       "example": "El gato persiguió a la rata por la cocina. La había perseguido ayer y la perseguirá de nuevo mañana.",
       "example_translation": "O gato perseguiu o rato em torno da cozinha. Ele havia perseguido o rato ontem e vai persegui-lo novamente amanhã.",
-      "imageLink": "rat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rat.jpg",
       "audioLink": "rat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Um morcego é um mamífero voador que pertence à ordem Chiroptera. Os morcegos são animais noturnos e usam ecolocalização para navegar.",
       "example": "El murciélago voló fuera de la cueva al anochecer. Volverá a volar al amanecer. El murciélago había volado sobre el bosque ayer.",
       "example_translation": "O morcego voou para fora da caverna ao entardecer. Ele voltará a voar ao amanhecer. O morcego havia voado sobre a floresta ontem.",
-      "imageLink": "bat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bat.jpg",
       "audioLink": "bat.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Um touro é um grande animal bovino macho, muitas vezes usado em touradas. Os touros são conhecidos por sua força e agressividade.",
       "example": "El toro cargó contra el matador. Había cargado contra él ayer y cargará de nuevo mañana. El toro se retirará el año próximo.",
       "example_translation": "O touro investiu contra o matador. Ele havia investido contra ele ontem e investirá novamente amanhã. O touro será aposentado no ano que vem.",
-      "imageLink": "bull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bull.jpg",
       "audioLink": "bull.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Um bezerro é o jovem de uma vaca, tipicamente menos de um ano de idade. Os bezerros são conhecidos por sua natureza brincalhona e curiosa.",
       "example": "El ternero corrió por el campo con su madre. Había corrido ayer y correrá de nuevo mañana. El ternero crecerá para ser una vaca fuerte.",
       "example_translation": "O bezerro correu em torno do campo com sua mãe. Ele havia corrido ontem e vai correr novamente amanhã. O bezerro crescerá para ser uma vaca forte.",
-      "imageLink": "calf.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "calf.jpg",
       "audioLink": "calf.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Um grande mamífero ungulado de pata par com um corno distinctivo nas costas, nativo dos desertos do norte da África e do oeste da Ásia.",
       "example": "El camello caminó lentamente a través del desierto. Ayer, había caminado durante horas. Mañana, caminará de nuevo.",
       "example_translation": "O camelo caminhou lentamente pelo deserto. Ontem, ele havia caminhado por horas. Amanhã, ele caminhará novamente.",
-      "imageLink": "camel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "camel.jpg",
       "audioLink": "camel.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Mamíferos domesticados do gênero Bos, muitas vezes mantidos em uma fazenda ou rancho por seu leite ou carne.",
       "example": "El granjero criaba ganado en su granja. El año pasado, había criado una gran manada. El próximo año, criará aún más.",
       "example_translation": "O fazendeiro criou gado em sua fazenda. No ano passado, ele havia criado um grande rebanho. No ano que vem, ele criará ainda mais.",
-      "imageLink": "cattle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cattle.jpg",
       "audioLink": "cattle.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um mamífero marinho muito inteligente e social com uma nadadeira dorsal curva, encontrado em mares quentes e temperados.",
       "example": "El delfín nadó rápidamente a través del agua. La semana pasada, había nadado con su pod. El próximo mes, nadará de nuevo.",
       "example_translation": "O golfinho nadou rapidamente pela água. Na semana passada, ele havia nadado com seu bando. No mês que vem, ele nadará novamente.",
-      "imageLink": "dolphin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dolphin.jpg",
       "audioLink": "dolphin.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um animal domesticado, muitas vezes usado como uma besta de carga, conhecido por sua teimosia e seu bray alto.",
       "example": "El burro caminó lentamente hacia arriba de la colina. Ayer, había caminado hacia abajo de la montaña. Mañana, caminará de nuevo.",
       "example_translation": "O burro caminhou lentamente até o topo da colina. Ontem, ele havia caminhado até a montanha. Amanhã, ele caminhará novamente.",
-      "imageLink": "donkey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "donkey.jpg",
       "audioLink": "donkey.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Uma pessoa que é biologicamente ou psicologicamente feminina.",
       "example": "Ella fue la primera femenina en escalar el Monte Everest. Ella es una ingeniera femenina. Ella será una astronauta femenina.",
       "example_translation": "Ela foi a primeira feminina a escalar o Monte Everest. Ela é uma engenheira feminina. Ela será uma astronauta feminina.",
-      "imageLink": "female-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "female-1.jpg",
       "audioLink": "female.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Uma camada grossa e macia de cabelo, especialmente da de um mamífero.",
       "example": "La piel del conejo era suave y esponjosa. Ella llevaba un abrigo de piel al partido. La piel del oso era marrón.",
       "example_translation": "A pele do coelho era macia e fofa. Ela usava um casaco de pele para a festa. A pele do urso era marrom.",
-      "imageLink": "fur.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fur.jpg",
       "audioLink": "fur.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Um mamífero ungulado de pernas longas e pescoço longo, nativo da África.",
       "example": "Vimos una jirafa en el zoológico. La jirafa estaba comiendo hojas del árbol. La jirafa correrá a través de la sabana.",
       "example_translation": "Nós vimos uma girafa no zoológico. A girafa estava comendo folhas da árvore. A girafa correrá pela savana.",
-      "imageLink": "giraffe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "giraffe.jpg",
       "audioLink": "giraffe.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Um animal de criação com um tufo de cabelo semelhante à barba no queixo, frequentemente mantido em fazendas.",
       "example": "La cabra estaba comiendo hierba en el campo. Ella ordeñaba la cabra todas las mañanas. La cabra subirá la montaña.",
       "example_translation": "A cabra estava comendo grama no campo. Ela ordenhava a cabra todas as manhãs. A cabra subirá a montanha.",
-      "imageLink": "goat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goat.jpg",
       "audioLink": "goat.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Um mamífero de movimento rápido, de pernas longas que vive em campos e florestas e tem orelhas muito longas e pernas traseiras poderosas.",
       "example": "La liebre sprintó a través del campo, sus orejas largas ondeando en el viento. Ayer, vi una liebre brincando a través del bosque. Para el próximo año, habré visto muchas liebres en la naturaleza.",
       "example_translation": "A lebre disparou pelo campo, suas orelhas longas batendo ao vento. Ontem, eu vi uma lebre pulando pela floresta. Até o próximo ano, eu vou ter visto muitas lebres no ambiente selvagem.",
-      "imageLink": "hare.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hare.jpg",
       "audioLink": "hare.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Um grande mamífero semi-aquático que vive em rios e lagos e tem um corpo redondo e pernas curtas.",
       "example": "En el zoológico, vi un hipopótamo nadando en el agua. La semana pasada, aprendimos sobre hipopótamos en la escuela. Para el próximo mes, habré visto un hipopótamo de cerca.",
       "example_translation": "No zoológico, eu vi um hipopótamo nadando na água. Na semana passada, nós aprendemos sobre hipopótamos na escola. Até o próximo mês, eu vou ter visto um hipopótamo de perto.",
-      "imageLink": "hippo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hippo.jpg",
       "audioLink": "hippo.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Um gato jovem, tipicamente com menos de um ano de idade, que é pequeno e fofo.",
       "example": "Jugué con un gatito en casa de mi amigo ayer. Mi hermana tiene un gatito que ama jugar con cuerdas. El próximo año, tendré un gatito propio.",
       "example_translation": "Eu brinquei com um gatinho na casa do meu amigo ontem. Minha irmã tem um gatinho que adora brincar com cordas. No próximo ano, eu vou ter um gatinho meu.",
-      "imageLink": "kitten.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kitten.jpg",
       "audioLink": "kitten.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Um carneiro jovem, tipicamente com menos de um ano de idade, que é gentil e inocente.",
       "example": "Vimos un cordero naciendo en la granja ayer. Mi padre tiene un cordero que ama seguirlo por todas partes. La próxima primavera, ayudaré a cuidar un cordero.",
       "example_translation": "Nós vimos um cordeiro nascer na fazenda ontem. Meu pai tem um cordeiro que adora seguir ele em volta. Na próxima primavera, eu vou ajudar a cuidar de um cordeiro.",
-      "imageLink": "lamb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lamb.jpg",
       "audioLink": "lamb.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Tendo ou caracterizado pela força, vigor ou agressividade; masculino.",
       "example": "Él era un modelo masculino, conocido por sus looks rudos. Él había sido un stripper masculino antes de convertirse en actor. Él será el protagonista masculino en la próxima película.",
       "example_translation": "Ele era um modelo masculino, conhecido por sua aparência rude. Ele havia sido um stripper masculino antes de se tornar um ator. Ele será o lead masculino no próximo filme.",
-      "imageLink": "male-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "male-1.jpg",
       "audioLink": "male.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Uma pessoa teimosa que é obstinada e se recusa a mudar de ideia.",
       "example": "Ella era una mula y se negó a escuchar cualquier consejo. La mula pateó al granjero que trataba de montarla. La mula será utilizada como animal de carga en las montañas.",
       "example_translation": "Ela era uma mula e se recusava a ouvir o conselho de qualquer pessoa. A mula chuteou o fazendeiro que estava tentando montá-la. A mula será usada como animal de carga nas montanhas.",
-      "imageLink": "mule.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mule.jpg",
       "audioLink": "mule.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Um grande gato do gênero Puma, nativo das Américas, com um casaco marrom ou cinzento-marrom e uma longa cauda.",
       "example": "El puma era un animal secreto y rara vez visto en estado silvestre. El puma había sido desarmado y vivía en un santuario. El puma será liberado de nuevo en la naturaleza cuando se recupere.",
       "example_translation": "O puma era um animal secreto e raramente visto no selvagem. O puma havia sido desarmado e estava vivendo em um santuário. O puma será libertado de volta ao selvagem assim que se recuperar.",
-      "imageLink": "puma.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "puma.jpg",
       "audioLink": "puma.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Um jovem cão, especialmente um nos estágios iniciais do seu desenvolvimento.",
       "example": "El cachorro estaba jugando con su cola, persiguiéndola en círculos. El cachorro se había quedado dormido en su cama. El cachorro será vacunado la próxima semana para prevenir enfermedades.",
       "example_translation": "O filhote estava brincando com sua cauda, perseguindo-a em círculos. O filhote havia adormecido em sua cama. O filhote será vacinado na próxima semana para prevenir doenças.",
-      "imageLink": "puppy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "puppy.jpg",
       "audioLink": "puppy.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "um grande cervo com uma capa cinzento-marrom e grandes chifres, encontrado nas regiões do norte da Europa, Ásia e América do Norte",
       "example": "El reno migró a través de la tundra ártica, buscando comida. Ayer, vi un reno en el zoológico. Para el próximo invierno, el reno habrá crecido sus astas de nuevo.",
       "example_translation": "O réno migraram por toda a tundra ártica, procurando por alimentos. Ontem, eu vi um réno no zoológico. Até o próximo inverno, o réno terá crescido seus chifres novamente.",
-      "imageLink": "reindeer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "reindeer.jpg",
       "audioLink": "reindeer.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "um grande mamífero carnívoro com uma capa listrada laranja e preta distintiva, nativo da Ásia",
       "example": "El tigre acechó su presa a través de la jungla, sus ojos fijos en el venado desprevenido. El tigre es una especie en peligro de extinción. Para 2025, la población de tigres habrá recuperado con suerte.",
       "example_translation": "O tigre perseguiu sua presa pela selva, seus olhos fixos no veado desavisado. O tigre é uma espécie em perigo. Até 2025, a população de tigres terá Esperançosamente se recuperado.",
-      "imageLink": "tiger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tiger.jpg",
       "audioLink": "tiger.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "um grande mamífero marinho que respira ar através de seu furo, encontrado em todos os oceanos do mundo",
       "example": "La ballena nadó a través del océano, su cuerpo masivo ondulando a través de las olas. Ayer, vi una ballena en el acuario. Para el próximo verano, la ballena habrá dado a luz a un nuevo ternero.",
       "example_translation": "A baleia nadou pelo oceano, seu corpo massive ondulando pelas ondas. Ontem, eu vi uma baleia no aquário. Até o próximo verão, a baleia terá dado à luz um novo filhote.",
-      "imageLink": "whale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "whale.jpg",
       "audioLink": "whale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "um mamífero ruminante selvagem ou domesticado com um conjunto distintivo de chifres, encontrado em florestas e gramados",
       "example": "El ciervo brincó a través del bosque, sus astas botando arriba y abajo. Los ciervos son comunes en el campo. Para el próximo otoño, el ciervo habrá crecido sus astas de nuevo.",
       "example_translation": "O cervo dançou pela floresta, seus chifres se movendo para cima e para baixo. Cervos são comuns no campo. Até o próximo outono, o cervo terá crescido seus chifres novamente.",
-      "imageLink": "deer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "deer.jpg",
       "audioLink": "deer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Um pequeno mamífero carnívoro da família de cães, com um focinho pontudo, cauda peluda e pelo avermelhado-laranja.",
       "example": "El zorro corría rápidamente por el bosque, persiguiendo al conejo. El zorro está corriendo rápidamente por el bosque, persiguiendo al conejo. El zorro correrá rápidamente por el bosque, persiguiendo al conejo.",
       "example_translation": "A raposa correu rapidamente pela floresta, perseguindo o coelho. A raposa está correndo rapidamente pela floresta, perseguindo o coelho. A raposa correrá rapidamente pela floresta, perseguindo o coelho.",
-      "imageLink": "fox.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fox.jpg",
       "audioLink": "fox.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Um grande primata poderoso que é nativo da África, com um casaco grosso de pelo e um físico muscular.",
       "example": "El gorila subió la montaña, buscando alimento. El gorila está subiendo la montaña, buscando alimento. El gorila subirá la montaña, buscando alimento.",
       "example_translation": "O gorila subiu a montanha, procurando comida. O gorila está subindo a montanha, procurando comida. O gorila subirá a montanha, procurando comida.",
-      "imageLink": "gorilla.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gorilla.jpg",
       "audioLink": "gorilla.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Um grande marsupial saltador nativo da Austrália, com uma bolsa distinta na barriga e pernas traseiras fortes.",
       "example": "El canguro saltó campo a través, llevando a su cría en su bolsa. El canguro está saltando campo a través, llevando a su cría en su bolsa. El canguro saltará campo a través, llevando a su cría en su bolsa.",
       "example_translation": "O canguru saltou pelo campo, carregando seu filhote na bolsa. O canguru está saltando pelo campo, carregando seu filhote na bolsa. O canguru saltará pelo campo, carregando seu filhote na bolsa.",
-      "imageLink": "kangaroo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kangaroo.jpg",
       "audioLink": "kangaroo.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Um grande mamífero carnívoro da família de gatos, com um casaco distinto manchado ou em forma de rosácea.",
       "example": "El leopardo acechó a su presa por el bosque, con los ojos fijos en el antílope. El leopardo está acechando a su presa por el bosque, con los ojos fijos en el antílope. El leopardo acechará a su presa por el bosque, con los ojos fijos en el antílope.",
       "example_translation": "O leopardo rastejou sua presa pela floresta, seus olhos fixos no antílope. O leopardo está rastejando sua presa pela floresta, seus olhos fixos no antílope. O leopardo rastejará sua presa pela floresta, seus olhos fixos no antílope.",
-      "imageLink": "leopard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leopard.jpg",
       "audioLink": "leopard.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Um mamífero domesticado usado para tração e leite, tendo um corpo sólido e um par distinto de chifres curvos.",
       "example": "El buey tiró del arado por el campo, pero descansará mañana y habrá estado trabajando durante años.",
       "example_translation": "O boi puxou o arado pelo campo, mas descansará amanhã e terá trabalhado por anos.",
-      "imageLink": "ox.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ox.jpg",
       "audioLink": "ox.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "O pé de um animal, especialmente um quadrúpede, tipicamente tendo garras ou dígitos.",
       "example": "El gato levantó su zarpa para rascar el mueble, y habrá rascado muchas veces antes de rascar de nuevo.",
       "example_translation": "O gato levantou a pata para arranhar o móvel, e terá arranhado muitas vezes antes de arranhar novamente.",
-      "imageLink": "paw.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "paw.jpg",
       "audioLink": "paw.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Um grande mamífero carnívoro das regiões árticas, tendo pele branca e uma pele negra distinta por baixo.",
       "example": "El oso polar deambuló por la tundra ártica, había deambulado durante días, y seguirá deambulando durante semanas.",
       "example_translation": "O urso polar vagueou pela tundra ártica, havia vagueado por dias e continuará a vaguear por semanas.",
-      "imageLink": "polar-bear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "polar-bear.jpg",
       "audioLink": "polar bear.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Um grande mamífero herbívoro da África e sul da Ásia, tendo um chifre distinto ou chifres no seu nariz.",
       "example": "El rinoceronte cargó a través de la sabana, había cargado muchas veces antes, y cargará pronto de nuevo.",
       "example_translation": "O rinoceronte investiu pela savana, havia investido muitas vezes antes e investirá novamente em breve.",
-      "imageLink": "rhinoceros.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rhinoceros.jpg",
       "audioLink": "rhinoceros.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "um mamífero marinho semi-aquático de pés finos que vive em águas frias nos hemisférios Norte e Sul",
       "example": "El cuidador del zoológico limpió la jaula de la foca ayer, la limpia todos los días, y la limpiará de nuevo mañana.",
       "example_translation": "O tratador do zoológico limpou o recinto da foca ontem, limpa todos os dias e limpará novamente amanhã.",
-      "imageLink": "seal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "seal.jpg",
       "audioLink": "seal.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "um pequeno mamífero roedor, geralmente peludo, com cauda arborícola e capaz de subir em árvores",
       "example": "La ardilla subió el árbol ayer, está subiendo el árbol ahora, y subirá el árbol de nuevo mañana.",
       "example_translation": "O esquilo subiu a árvore ontem, está subindo a árvore agora e subirá a árvore novamente amanhã.",
-      "imageLink": "squirrel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "squirrel.jpg",
       "audioLink": "squirrel.mp3"
     }
   ]

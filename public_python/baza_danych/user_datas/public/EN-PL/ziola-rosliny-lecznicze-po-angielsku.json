@@ -9,7 +9,7 @@
       "definition_translation": "roślina dwuletnia o dużych, grubych liściach i fioletowych kwiatach, stosowana w medycynie i jako warzywo.",
       "example": "The farmers grew burdock roots for their medicinal properties.",
       "example_translation": "Rolnicy uprawiali korzenie łopiani ze względu na ich właściwości lecznicze.",
-      "imageLink": "image_files\\English\\burdock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "burdock.jpg",
       "audioLink": "audio_files\\English\\burdock.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "zioło o słodkim, jabłkowym smaku i zapachu, używane w herbatkach, perfumach i lekach",
       "example": "Camomile tea is a popular remedy for insomnia.",
       "example_translation": "Herbata rumiankowa jest popularnym lekiem na bezsenność.",
-      "imageLink": "image_files\\English\\chamomile.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chamomile.jpg",
       "audioLink": "audio_files\\English\\camomile.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "typ rośliny o ciernistych pędach",
       "example": "The cat's claw plant was used in traditional medicine.",
       "example_translation": "Roślina czaszka kotka była używana w medycynie tradycyjnej.",
-      "imageLink": "image_files\\English\\cats-claw.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cats-claw.jpg",
       "audioLink": "audio_files\\English\\cat's claw.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "typ kwitnącej rośliny",
       "example": "The coltsfoot grew in the moist soil.",
       "example_translation": "Podbiałek rośnie w wilgotnej glebie.",
-      "imageLink": "image_files\\English\\coltsfoot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coltsfoot.jpg",
       "audioLink": "audio_files\\English\\coltsfoot.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "chwaszcze o żółtych kwiatach z rodziny astrowatych, częste w trawnikach i łąkach",
       "example": "The dandelion seeds were blown away by the wind.",
       "example_translation": "Nasiona mlecza zostały rozrzucone przez wiatr.",
-      "imageLink": "image_files\\English\\dandelion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dandelion.jpg",
       "audioLink": "audio_files\\English\\dandelion.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "roślina, której liście są używane w kuchni i medycynie",
       "example": "The Indian recipe includes fenugreek leaves and aromatic spices.",
       "example_translation": "Indyjski przepis zawiera liście kozieradki i aromatyczne przyprawy.",
-      "imageLink": "image_files\\English\\fenugreek.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fenugreek.jpg",
       "audioLink": "audio_files\\English\\fenugreek.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "roślina, której korzeń jest używany w medycynie tradycyjnej, zwłaszcza w Chinach",
       "example": "Ginseng is known for its healing properties.",
       "example_translation": "Żeńszcz stosowany jest ze względu na jego właściwości lecznicze.",
-      "imageLink": "image_files\\English\\ginseng.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ginseng.jpg",
       "audioLink": "audio_files\\English\\ginseng.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "typ trawy rosnącej w miejscach wilgotnych",
       "example": "The horsetail was growing near the pond.",
       "example_translation": "Jeżogłówka rosła niedaleko stawu.",
-      "imageLink": "image_files\\English\\horsetail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horsetail.jpg",
       "audioLink": "audio_files\\English\\horsetail.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "typ chwastu, który rośnie na trawnikach i w ogrodach",
       "example": "The gardener pulled out the knotgrass that was growing among the flowers.",
       "example_translation": "Ogrodnik wyciągnął przetacznik, który rośnie między kwiatami.",
-      "imageLink": "image_files\\English\\knotgrass.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knotgrass.jpg",
       "audioLink": "audio_files\\English\\knotgrass.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Zioło o delikatnym, cytrynowym smaku, używane w kuchni i medycynie.",
       "example": "Lemon balm is often used in teas and desserts.",
       "example_translation": "Melisę często używa się w herbatkach i deserach.",
-      "imageLink": "image_files\\English\\lemon-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lemon-balm.jpg",
       "audioLink": "audio_files\\English\\lemon balm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "żółty lub pomarańczowy kwitnący roślin, używany jako ziele lecznicze",
       "example": "The garden was filled with marigolds of all colors.",
       "example_translation": "Ogród był wypełniony nagietkami wszystkich kolorów.",
-      "imageLink": "image_files\\English\\marigold.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marigold.jpg",
       "audioLink": "audio_files\\English\\marigold.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Mały, lekki i puchaty deser wykonany z cukru lub syropu, ubity na puszystą konsystencję.",
       "example": "She roasted a marshmallow over the campfire.",
       "example_translation": "Ona prażyła marszmallowa nad ogniskiem.",
-      "imageLink": "image_files\\English\\marshmallow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marshmallow.jpg",
       "audioLink": "audio_files\\English\\marshmallow.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "rodzaj małej babki, która rośnie w miejscach wilgotnych",
       "example": "The ribwort plantain is often found in marshy areas.",
       "example_translation": "Babka źródlana często występuje w terenach bagiennych.",
-      "imageLink": "image_files\\English\\ribwort-plantain.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ribwort-plantain.jpg",
       "audioLink": "audio_files\\English\\ribwort plantain.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "osoba mądra i doświadczona",
       "example": "He was a sage old man who always gave good advice.",
       "example_translation": "Był mądrym starcem, który zawsze dawał dobré rady.",
-      "imageLink": "image_files\\English\\sage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sage.jpg",
       "audioLink": "audio_files\\English\\sage.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "bylina z kwiatami żółtymi, stosowana w medycynie ludowej w leczeniu łagodnej depresji",
       "example": "The doctor recommended St John's wort to help with my anxiety.",
       "example_translation": "Lekarz polecił dziurawiec, aby pomóc mi z lękiem.",
-      "imageLink": "image_files\\English\\st-johns-wort.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "st-johns-wort.jpg",
       "audioLink": "audio_files\\English\\St John's wort.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "roślina o gorzkim smaku z liśćmi srebrzysto-szarymi i kwiatami żółtymi",
       "example": "The ancient Greeks used wormwood to treat fever.",
       "example_translation": "Starożytni Grecy stosowali pijawicę do leczenia gorączki.",
-      "imageLink": "image_files\\English\\wormwood.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wormwood.jpg",
       "audioLink": "audio_files\\English\\wormwood.mp3"
     }
   ]

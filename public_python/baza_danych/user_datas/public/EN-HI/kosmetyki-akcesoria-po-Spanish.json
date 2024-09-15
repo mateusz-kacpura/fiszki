@@ -9,7 +9,7 @@
       "definition_translation": "कंघा बालों को व्यवस्थित करने या स्मूथ करने के लिए इस्तेमाल किया जाने वाला एक उपकरण है।",
       "example": "I combed my hair yesterday, I am combing it now, and I will comb it tomorrow.",
       "example_translation": "मैंने कल अपने बालों को कंघा किया, मैं इसे अब कंघा कर रहा हूँ, और मैं कल अपने बालों को कंघा करूँगा।",
-      "imageLink": "comb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "comb.jpg",
       "audioLink": "comb.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "शैम्पू हेयर को साफ करने के लिए इस्तेमाल किया जाने वाला एक तरल समाधान है।",
       "example": "I shampooed my hair last week, I am shampooing it now, and I will shampoo it again next month.",
       "example_translation": "मैंने पिछले सप्ताह अपने बालों को शैम्पू किया, मैं इसे अब शैम्पू कर रहा हूँ, और मैं अगले महीने इसे फिर से शैम्पू करूँगा।",
-      "imageLink": "shampoo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shampoo.jpg",
       "audioLink": "shampoo.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "क्रीम त्वचा या बालों के उपचार के लिए इस्तेमाल किया जाने वाला एक मोटा और समृद्ध तरल या अर्द्ध-तरल है।",
       "example": "I applied cream on my skin yesterday, I am applying it now, and I will apply it again tomorrow.",
       "example_translation": "मैंने कल अपनी त्वचा पर क्रीम लगायी, मैं इसे अब लगा रहा हूँ, और मैं कल इसे फिर से लगाऊँगा।",
-      "imageLink": "cream-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cream-1.jpg",
       "audioLink": "cream.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "डिओडोरेंट शरीर की दुर्गंध को रोकने या छिपाने के लिए इस्तेमाल किया जाने वाला एक पदार्थ है।",
       "example": "I used deodorant this morning, I am using it now, and I will use it again tonight.",
       "example_translation": "मैंने आज सुबह डिओडोरेंट का इस्तेमाल किया, मैं इसे अब इस्तेमाल कर रहा हूँ, और मैं आज रात को इसे फिर से उपयोग करूँगा।",
-      "imageLink": "deodorant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "deodorant.jpg",
       "audioLink": "deodorant.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "हाथ की त्वचा को मॉइस्चराइज़ और सॉफ्ट करने के लिए एक टॉपिकल तैयारी का उपयोग किया जाता है.",
       "example": "I applied hand cream to my dry hands after washing the dishes. I will apply hand cream after my shower. She had applied hand cream to her hands before going out.",
       "example_translation": "मैंने बर्तन धोने के बाद अपने सूखे हाथों पर हाथ क्रीम लगायี. मैं अपने शावर के बाद हाथ क्रीम लगाऊंगा. उसने बाहर जाने से पहले अपने हाथों पर हाथ क्रीम लगाया था.",
-      "imageLink": "hand-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hand-cream.jpg",
       "audioLink": "hand cream.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "होंठों को रंगने और मॉइस्चराइज़ करने के लिए एक कॉस्मेटिक प्रोडक्ट का उपयोग किया जाता है.",
       "example": "She applied lipstick before going to the party. I will buy a new lipstick tomorrow. He had forgotten to remove his lipstick after the costume party.",
       "example_translation": "वह पार्टी में जाने से पहले लिपिस्टिक लगायी थी. मैं कल एक नई लिपिस्टिक खरीदूँगा. उसने कॉस्ट्यूम पार्टी के बाद अपनी लिपिस्टिक हटाना भूल गया था.",
-      "imageLink": "lipstick.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lipstick.jpg",
       "audioLink": "lipstick.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "पलकों को डार्क करने, लंबा करने और मोटा करने के लिए एक कॉस्मेटिक प्रोडक्ट का उपयोग किया जाता है.",
       "example": "I applied mascara to my eyelashes before the photo shoot. She had forgotten to remove her mascara after the party. He will buy a new mascara tomorrow.",
       "example_translation": "मैंने फोटो शूट से पहले अपनी पलकों पर मस्कारा लगाया था. वह पार्टी के बाद अपना मस्कारा हटाना भूल गई थी. वह कल एक नई मस्कारा खरीदेगा.",
-      "imageLink": "mascara.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mascara.jpg",
       "audioLink": "mascara.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "चेहरे या चेहरे के किसी हिस्से के लिए एक कवर, रक्षा के लिए, छलावरण के लिए या फैशन स्टेटमेंट के रूप में पहना जाता है.",
       "example": "The doctor wore a mask during the surgery. I wore a mask at the masquerade ball. She will wear a mask to protect herself from the pollution.",
       "example_translation": "डॉक्टर ने सर्जरी के दौरान मास्क पहना था. मैंने मास्केड बॉल में मास्क पहना था. वह प्रदूषण से बचाने के लिए मास्क पहनेगी.",
-      "imageLink": "facial-mask.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "facial-mask.jpg",
       "audioLink": "mask.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "शاور करते समय शरीर को साफ करने के लिए इस्तेमाल किया जाने वाला लिक्विड साबुन 或 जेल",
       "example": "I used a moisturizing shower gel to soften my dry skin. I will use a refreshing shower gel to wake me up in the morning. I had used a fruity shower gel during my last vacation.",
       "example_translation": "मैंने सूखी त्वचा को नर्म करने के लिए एक मॉइस्चराइजिंग शاور जेल का इस्तेमाल किया. मैं सुबह में उठने के लिए एक रिफ्रेशिंग शاور जेल का इस्तेमाल करूँगा. मैंने अपने आखिरी छुट्टी के दौरान एक फ्रूटी शاور जेल का इस्तेमाल किया था.",
-      "imageLink": "shower-gel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shower-gel.jpg",
       "audioLink": "shower gel.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "त्वचा को नर्म और हाइड्रेट करने के लिए इस्तेमाल किया जाने वाला मॉइस्चराइजिंग क्रीम या लोशन",
       "example": "I applied a body balm to my dry skin after taking a bath. She uses a body balm to keep her skin hydrated during the winter. He had used a body balm to soothe his sunburned skin.",
       "example_translation": "मैंने स्नान के बाद सूखी त्वचा पर एक बॉडी बाम लगाया. वह सर्दी में अपनी त्वचा को हाइड्रेट रखने के लिए एक बॉडी बाम का इस्तेमाल करती है. उसने सनबर्न्ड त्वचा को आराम करने के लिए एक बॉडी बाम का इस्तेमाल किया था.",
-      "imageLink": "body-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "body-balm.jpg",
       "audioLink": "body balm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "सौंदर्य प्रसाधन या दवाओं को लगाने या हटाने के लिए इस्तेमाल किया जाने वाला एक छोटा सा कॉटन पेड",
       "example": "I used a cotton pad to apply toner to my face. She removes her nail polish using a cotton pad. He had used a cotton pad to clean his wound.",
       "example_translation": "मैंने अपने चेहरे पर टोनर लगाने के लिए एक कॉटन पेड का इस्तेमाल किया. वह एक कॉटन पेड का इस्तेमाल करके अपना नेल पॉलिश हटाती है. उसने अपने घाव को साफ करने के लिए एक कॉटन पेड का इस्तेमाल किया था.",
-      "imageLink": "make-up-cotton-pad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "make-up-cotton-pad.jpg",
       "audioLink": "cotton pad.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "एक डिवाइस जो बिजली का इस्तेमाल करके बाल काटता या शेव करता है, आमतौर पर व्यक्तिगत साज-सज्जा के लिए इस्तेमाल किया जाता है",
       "example": "I use an electric razor to shave my beard every morning. He had used an electric razor to trim his hair during his last haircut. She will use an electric razor to shave her legs before the party.",
       "example_translation": "मैं सुबह में अपने दाढ़ी के लिए एक इलेक्ट्रिक रेज़र का इस्तेमाल करता हूँ. उसने अपने आखिरी हेयरकट के दौरान अपने बाल काटने के लिए एक इलेक्ट्रिक रेज़र का इस्तेमाल किया था. वह पार्टी से पहले अपने पैर के लिए एक इलेक्ट्रिक रेज़र का इस्तेमाल करेगी.",
-      "imageLink": "electric-razor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "electric-razor.jpg",
       "audioLink": "electric razor.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "आरोमATHERapy, फ्लेवरिंग या अन्य उद्देश्यों के लिए उपयोग किया जाने वाला एक सांद्र प्लांट एक्सट्रैक्ट",
       "example": "She used essential oil in her bath for relaxation. She has been using essential oil for years. She will use essential oil in her spa next week.",
       "example_translation": "वह आराम करने के लिए अपने स्नान में आवश्यक तेल का उपयोग करती थी। वह वर्षों से आवश्यक तेल का उपयोग कर रही है। वह अपने स्पा में अगले हफ्ते आवश्यक तेल का उपयोग करेगी।",
-      "imageLink": "essential-oil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "essential-oil.jpg",
       "audioLink": "essential oil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "एक कॉस्मेटिक टूल जिसका उपयोग पलकों को आकार देने और कर्ल करने के लिए किया जाता है।",
       "example": "She used an eyelash curler to get ready for the party. She has been using an eyelash curler since high school. She will buy a new eyelash curler next month.",
       "example_translation": "वह पार्टी के लिए तैयार होने के लिए पलक कर्लर का उपयोग करती थी। वह हाई स्कूल से पलक कर्लर का उपयोग कर रही है। वह अगले महीने एक नई पलक कर्लर खरीदेगी।",
-      "imageLink": "eyelash-curler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyelash-curler.jpg",
       "audioLink": "eyelash curler.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "बालों का रंग बदलने के लिए उपयोग की जाने वाली रंग सामग्री।",
       "example": "She used hair dye to get her hair a lighter shade. She has been using hair dye for years to cover her grey hair. She will get hair dye at the beauty store next week.",
       "example_translation": "वह अपने बालों को हल्का रंग देने के लिए बाल डाई का उपयोग करती थी। वह अपने ग्रे बालों को कवर करने के लिए वर्षों से बाल डाई का उपयोग कर रही है। वह अगले हफ्ते सुंदरता स्टोर पर बाल डाई लेगी।",
-      "imageLink": "hair-dye.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-dye.jpg",
       "audioLink": "hair dye.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "फिंगरनेल्स या टोनेल्स के किनारों को आकार देने और सMOOTH करने के लिए उपयोग किया जाने वाला टूल。",
       "example": "She used a nail buffer to get ready for her wedding. She has been using a nail buffer since college. She will buy a new nail buffer next year.",
       "example_translation": "वह अपनी शादी के लिए तैयार होने के लिए नाखून बफर का उपयोग करती थी। वह कॉलेज से नाखून बफर का उपयोग कर रही है। वह अगले साल एक नई नाखून बफर खरीदेगी।",
-      "imageLink": "nail-buffer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-buffer.jpg",
       "audioLink": "nail buffer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "एक उपकरण जिसका उपयोग उंगलियों और पैर की उंगलियों को कतरने के लिए किया जाता है, आम तौर पर दो ब्लेड के साथ स्प्रिंग-लोडेड क्लिपर होता है।",
       "example": "I used a nail clipper to trim my fingernails yesterday, I will use it again tomorrow, and I have been using it for years.",
       "example_translation": "मैंने कल अपने उंगलियों को ठीक करने के लिए नाखून कतरनी का उपयोग किया, मैं कल फिर से इसका उपयोग करूँगा, और मैं कई सालों से इसका उपयोग कर रहा हूँ।",
-      "imageLink": "nail-clipper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-clipper.jpg",
       "audioLink": "nail clipper.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "एक टूल जिसका उपयोग उंगलियों और पैर की उंगलियों के किनारों को आकार देने और सMOOTH करने के लिए किया जाता है।",
       "example": "She used a nail file to smoothen her rough nail edges, then she will use it again next week, and she has been using it for months.",
       "example_translation": "उसने अपने खुरदरे नाखून किनारों को सMOOTH करने के लिए नाखून फ़ाइल का उपयोग किया, फिर वह अगले सप्ताह में फिर से इसका उपयोग करेगी, और वह कई महीनों से इसका उपयोग कर रही है।",
-      "imageLink": "nail-file.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-file.jpg",
       "audioLink": "nail file.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "एक रसोई उपकरण जिसका उपयोग खाने को स्क्रैप करने, पलटने और परोसने के लिए किया जाता है।",
       "example": "I used a spatula to flip the pancakes yesterday, I will use it again tomorrow, and I have been using it for years.",
       "example_translation": "मैंने कल पैनकेक पलटने के लिए स्पैटुला का उपयोग किया, मैं कल फिर से इसका उपयोग करूँगा, और मैं कई सालों से इसका उपयोग कर रहा हूँ।",
-      "imageLink": "spatula.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spatula.jpg",
       "audioLink": "spatula.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "एक कॉस्मेटिक प्रोडक्ट जो मॉइस्चराइजर के लाभों को टिंट या रंग की थोड़ी मात्रा के साथ जोड़ता है।",
       "example": "She used a tinted moisturiser to even out her skin tone yesterday, she will use it again tomorrow, and she has been using it for months.",
       "example_translation": "उसने कल अपनी त्वचा टोन को समान करने के लिए टिंटेड मॉइस्चराइजर का उपयोग किया, वह कल फिर से इसका उपयोग करेगी, और वह कई महीनों से इसका उपयोग कर रही है।",
-      "imageLink": "tinted-moisturiser.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tinted-moisturiser.jpg",
       "audioLink": "tinted moisturiser.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "पैर की उंगली के बीच दबाव और असुविधा से राहत पाने के लिए प्लास्टिक या सिलिकॉन से बना एक उपकरण, जिसका इस्तेमाल पैर की उंगली के बीच में किया जाता है。",
       "example": "She used a toe separator to alleviate the pressure between her toes after a long walk. She had used a toe separator yesterday to relieve discomfort. She will use a toe separator tomorrow to prevent blisters.",
       "example_translation": "लंबे वॉक के बाद अपने पैर की उंगली के बीच दबाव कम करने के लिए उसने पैर की उंगली सेपरेटर का इस्तेमाल किया। कल उसने असुविधा से राहत पाने के लिए पैर की उंगली सेपरेटर का इस्तेमाल किया था। कल वह पैर की उंगली सेपरेटर का इस्तेमाल करके फफोले से बचाएगी।",
-      "imageLink": "toe-separator.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "toe-separator.jpg",
       "audioLink": "toe separator.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "शेविंग के बाद त्वचा को सुखाने और मॉइस्चराइज़ करने के लिए लगाया जाने वाला तरल या बाम।",
       "example": "He splashed aftershave on his face to freshen up after shaving. He had used aftershave yesterday to soothe his skin. He will use aftershave tomorrow to moisturize his skin.",
       "example_translation": "शेविंग के बाद ताज़ा होने के लिए उसने अपने चेहरे पर आfterशेव डाला। कल उसने अपनी त्वचा को सुखाने के लिए आfterशेव का इस्तेमाल किया था। कल वह अपनी त्वचा को मॉइस्चराइज़ करने के लिए आfterशेव का इस्तेमाल करेगा।",
-      "imageLink": "aftershave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aftershave.jpg",
       "audioLink": "aftershave.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "गालों को स्वस्थ और लालिमा प्रदान करने के लिए प्रयोग किया जाने वाला सौंदर्य पाउडर या क्रीम।",
       "example": "She applied blusher to her cheeks to give them a rosy glow. She had used blusher yesterday to enhance her features. She will use blusher tomorrow to look more radiant.",
       "example_translation": "उसने अपने गालों पर लालिमा पाने के लिए ब्लशर लगाया। कल उसने अपने फीचर्स को निखारने के लिए ब्लशर का इस्तेमाल किया था। कल वह और अधिक दीप्तिमान दिखने के लिए ब्लशर का इस्तेमाल करेगी।",
-      "imageLink": "blusher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blusher.jpg",
       "audioLink": "blusher.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "मृत त्वचा कोशिकाओं को हटाने और त्वचा को सMOOTH करने के लिए प्रयोग किया जाने वाला सौंदर्य उत्पाद, जिसमें आम तौर पर चीनी या नमक जैसे एक्सफोलिएटिंग एजेंट होते हैं।",
       "example": "She used a body scrub to exfoliate her skin before applying sunscreen. She had used a body scrub yesterday to smooth her skin. She will use a body scrub tomorrow to remove dead skin cells.",
       "example_translation": "सूरज की सुरक्षा लगाने से पहले उसने अपनी त्वचा को एक्सफोलिएट करने के लिए बॉडी स्क्रब का इस्तेमाल किया। कल उसने अपनी त्वचा को सMOOTH करने के लिए बॉडी स्क्रब का इस्तेमाल किया था। कल वह मृत त्वचा कोशिकाओं को हटाने के लिए बॉडी स्क्रब का इस्तेमाल करेगी।",
-      "imageLink": "scrub.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scrub.jpg",
       "audioLink": "body scrub.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "पानी की सतह पर फोम की एक परत बनाने के लिए बबल बाथ पाउडर या तरल को जोड़ा गया एक स्नान",
       "example": "I loved taking a relaxing bubble bath after a long day. Yesterday, I took a bubble bath to unwind. Tomorrow, I will take a bubble bath to refresh myself.",
       "example_translation": "मैं एक लंबे दिन के बाद आराम से बबल बाथ लेना पसंद करता था. कल, मैंने खुद को آزاد करने के लिए बबल बाथ लिया. कल, मैं 自ने खुद को तरोताजा करने के लिए बबल बाथ लूँगा.",
-      "imageLink": "bubble-bath.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bubble-bath.jpg",
       "audioLink": "bubble bath.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "एक छोटा मामला या कंटेनर पाउडर, कॉस्मेटिक्स, या अन्य छोटी वस्तुओं को रखने के लिए, आमतौर पर आयताकार आकार में और अंदर एक दर्पण है.",
       "example": "She always carried a compact in her purse. The compact was very useful for quick touch-ups. I will buy a new compact tomorrow.",
       "example_translation": "वह हमेशा अपने पर्स में एक कॉम्पैक्ट ले जाती थी. कॉम्पैक्ट जल्दी टच-अप्स के लिए बहुत उपयोगी था. मैं कल एक नया कॉम्पैक्ट खरीदूँगा.",
-      "imageLink": "compact.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "compact.jpg",
       "audioLink": "compact.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "त्वचा पर धब्बों, डार्क सर्कल्स और अन्य दोषों को ढकने के लिए उपयोग किया जाने वाला एक कॉस्मेटिक उत्पाद.",
       "example": "I use a concealer to hide my dark circles. She applied a concealer to cover up her acne scars. He will use a concealer to hide his blemishes tomorrow.",
       "example_translation": "मैं अपने डार्क सर्कल्स को छिपाने के लिए एक कंसीलर का उपयोग करता हूँ. उसने अपने मुँहासे के निशान को ढकने के लिए एक कंसीलर लगाया. वह कल अपने धब्बों को छिपाने के लिए एक कंसीलर का उपयोग करेगा.",
-      "imageLink": "concealer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "concealer.jpg",
       "audioLink": "concealer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "मेकअप लगाने या हटाने, कान साफ करने आदि के लिए उपयोग की जाने वाली छोटी, गोल डंडियां, जिनके प्रत्येक सिरे पर कपास का एक गोला होता है.",
       "example": "I use cotton buds to apply my eyeliner. She used cotton buds to clean her ears. They will use cotton buds to remove their nail polish tomorrow.",
       "example_translation": "मैं अपने आईलाइनर लगाने के लिए कपास डंडियां का उपयोग करता हूँ. उसने अपने कान साफ करने के लिए कपास डंडियां का उपयोग किया. वे कल अपने नेल पॉलिश हटाने के लिए कपास डंडियां का उपयोग करेंगे.",
-      "imageLink": "cotton-buds.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cotton-buds.jpg",
       "audioLink": "cotton buds.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "एक कर्लर एक टूल है जिसका उपयोग हेयर को कर्ल या वेव्स में आकार देने और स्टाइल करने के लिए किया जाता है。",
       "example": "She used a curler to create tight curls for her wedding day. She had curled her hair yesterday. She will curl her hair again tomorrow.",
       "example_translation": "उसने अपने वेडिंग डे के लिए टाइट कर्ल्स बनाने के लिए एक कर्लर का उपयोग किया। उसने कल अपने बाल कर्ल किए थे। वह कल फिर से अपने बाल कर्ल करेगी।",
-      "imageLink": "curler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curler.jpg",
       "audioLink": "curler.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "एक कर्लिंग आयरन एक इलेक्ट्रिक डिवाइस है जिसका उपयोग हेयर को कर्लिंग या वेविंग करके स्टाइल करने के लिए किया जाता है。",
       "example": "She plugged in the curling iron to create loose waves for the party. She had used a curling iron yesterday to create tight curls. She will use a curling iron again tomorrow to style her hair.",
       "example_translation": "उसने पार्टी के लिए लूज़ वेव्स बनाने के लिए कर्लिंग आयरन को प्लग इन किया। उसने कल टाइट कर्ल्स बनाने के लिए कर्लिंग आयरन का उपयोग किया था। वह कल फिर से अपने बाल स्टाइल करने के लिए कर्लिंग आयरन का उपयोग करेगी।",
-      "imageLink": "curling-iron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curling-iron.jpg",
       "audioLink": "curling iron.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "कटिकल निपर्स छोटे सीज़र्स हैं जिनका उपयोग उंगलियों और पैरों के नाखूनों के आसपास की कटिकल्स को ट्रिम और आकार देने के लिए किया जाता है。",
       "example": "She used cuticle nippers to trim her cuticles before the manicure. She had used cuticle nippers yesterday to shape her toenails. She will use cuticle nippers again tomorrow to trim her fingernails.",
       "example_translation": "उसने मैनीक्योर से पहले अपने कटिकल्स को ट्रिम करने के लिए कटिकल निपर्स का उपयोग किया। उसने कल टोनेल्स को आकार देने के लिए कटिकल निपर्स का उपयोग किया था। वह कल फिर से अपने फिंगरनेल्स को ट्रिम करने के लिए कटिकल निपर्स का उपयोग करेगी।",
-      "imageLink": "cuticle-nippers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-nippers.jpg",
       "audioLink": "cuticle nippers.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "एक कटिकल पुशर एक टूल है जिसका उपयोग उंगलियों और पैरों के नाखूनों के आसपास की कटिकल्स को धीरे से पीछे करने के लिए किया जाता है。",
       "example": "She used a cuticle pusher to gently push back her cuticles before the pedicure. She had used a cuticle pusher yesterday to clean her fingernails. She will use a cuticle pusher again tomorrow to prepare her toenails for the nail art.",
       "example_translation": "उसने पेडिक्योर से पहले अपने कटिकल्स को धीरे से पीछे करने के लिए एक कटिकल पुशर का उपयोग किया। उसने कल अपने फिंगरनेल्स को साफ करने के लिए एक कटिकल पुशर का उपयोग किया था। वह कल फिर से नेल आर्ट के लिए अपने टोनेल्स को तैयार करने के लिए एक कटिकल पुशर का उपयोग करेगी।",
-      "imageLink": "cuticle-pusher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-pusher.jpg",
       "audioLink": "cuticle pusher.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "मैनीक्योर और पेडीक्योर में उपयोग किए जाने वाले कॉस्मेटिक प्रोडक्ट, जिसका उपयोग कटिकल से मृत त्वचा कोशिकाओं को हटाने के लिए किया जाता है।",
       "example": "She used a cuticle remover to soften her cuticles before pushing them back. Yesterday, she had used a different brand of cuticle remover, but it didn't work as well as this one. By next week, she will have used up the entire bottle of cuticle remover.",
       "example_translation": "उसने कटिकल रिमूवर का इस्तेमाल अपने कटिकल को सॉफ्ट करने के लिए किया था इससे पहले که वह उन्हें पीछे धकेल दे। कल, उसने कटिकल रिमूवर के एक अलग ब्रांड का इस्तेमाल किया था, लेकिन यह उतना अच्छा नहीं किया गया था जितना यह था। अगले हफ्ते तक, उसने कटिकल रिमूवर की पूरी बोतल का इस्तेमाल कर लिया होगा।",
-      "imageLink": "cuticle-remover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuticle-remover.jpg",
       "audioLink": "cuticle remover.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "त्वचा से अनचाहे बालों को हटाने के लिए उपयोग की जाने वाली टॉपिकल क्रीम या जेल, आमतौर पर महिलाओं द्वारा अपने पैरों, अंडरआर्म्स और बिकिनी लाइन्स से बाल हटाने के लिए उपयोग की जाती है।",
       "example": "She applied a depilatory cream to her legs to remove the unwanted hair. Last month, she had used a razor to shave her legs, but it only lasted for a week. By next summer, she will have switched to using a depilatory cream permanently.",
       "example_translation": "उसने अपने पैरों पर डिपिलेटरी क्रीम लगाया अनचाहे बालों को हटाने के लिए। पिछले महीने उसने अपने पैरों को शेव करने के लिए रेज़र का इस्तेमाल किया था, लेकिन यह केवल एक हफ्ते तक चला था। अगले 夏 के बाद तक, वह डिपिलेटरी क्रीम का स्थायी रूप से इस्तेमाल करना शुरू कर देगी।",
-      "imageLink": "depilatory-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "depilatory-cream.jpg",
       "audioLink": "depilatory cream.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "भौहों को आकार देने, परिभाषित करने या भरने के लिए उपयोग किए जाने वाले कॉस्मेटिक प्रोडक्ट, आमतौर पर एक अधिक प्राकृतिक या ड्रामैटिक लुक tạo करने के लिए उपयोग किया जाता है।",
       "example": "She used an eyebrow pencil to fill in her sparse eyebrows. Yesterday, she had gotten her eyebrows shaped by a professional, but they still looked uneven. By next week, she will have mastered the art of using an eyebrow pencil to perfect her brows.",
       "example_translation": "उसने अपने पतले भौहों को भरने के लिए भौहें पेंसिल का इस्तेमाल किया था। कल, उसने एक पेशेवर द्वारा अपने भौहों को आकार दिलाया था, लेकिन वे अभी भी असमान लग रहे थे। अगले हफ्ते तक, वह भौहें पेंसिल का इस्तेमाल करके अपने भौहों को परफेक्ट करने की कला में महारत हासिल कर लेगी।",
-      "imageLink": "eyebrow-pencil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyebrow-pencil.jpg",
       "audioLink": "eyebrow pencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "आंखों के चारो ओर एक लाइन या आकार बनाने के लिए उपयोग किए जाने वाले कॉस्मेटिक प्रोडक्ट, आमतौर पर आंखों को संवर्धित करने या परिभाषित करने के लिए उपयोग किया जाता है।",
       "example": "She applied an eyeliner to her upper lash line to make her eyes look bigger. Last night, she had used a liquid eyeliner to create a cat eye look. By next month, she will have mastered the art of using a gel eyeliner to create a subtle, natural look.",
       "example_translation": "उसने अपनी ऊपरी लैश लाइन पर आइलाइनर लगाया अपनी आंखों को बड़ा दिखाने के लिए। कल रात, उसने एक लिक्विड आइलाइनर का इस्तेमाल किया था एक बिल्ली आंख लुक बनाने के लिए। अगले महीने तक, वह जेल आइलाइनर का इस्तेमाल करके एक सूक्ष्म, प्राकृतिक लुक बनाने की कला में महारत हासिल कर लेगी।",
-      "imageLink": "eyeliner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyeliner.jpg",
       "audioLink": "eyeliner.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "आंखों की छाया के रंग और छाया के लिए एक कॉस्मेटिक उत्पाद,(typically एक ब्रश या एप्लीकेटर के साथ लगाया जाता है)",
       "example": "She applied eyeshadow to her eyelids to complete her evening look. She had applied eyeshadow yesterday, but she will apply it again tomorrow.",
       "example_translation": "उसने अपने शाम के लुक को पूरा करने के लिए अपनी पलकों पर आंखों की छाया लगाई थी। उसने कल आंखों की छाया लगाई थी, लेकिन वह कल फिर से लगाएगी।",
-      "imageLink": "eyeshadow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eyeshadow.jpg",
       "audioLink": "eyeshadow.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "बालों को सीधा या सMOOTH करने के लिए एक हेयर स्टाइलिंग टूल, typically दो गर्म प्लेट्स से मिलकर जो एक साथ क्लैंप होते हैं",
       "example": "She used a flat iron to straighten her curly hair. She will use a flat iron tomorrow to style her hair for the party. She had used a flat iron yesterday to prepare for the interview.",
       "example_translation": "उसने अपने कर्ली बालों को सीधा करने के लिए स्ट्रेटनिंग आयरन का उपयोग किया था। वह कल रात की पार्टी के लिए अपने बालों को स्टाइल करने के लिए स्ट्रेटनिंग आयरन का उपयोग करेगी। उसने कल इंटरव्यू के लिए तैयारी करने के लिए स्ट्रेटनिंग आयरन का उपयोग किया था।",
-      "imageLink": "flat-iron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flat-iron.jpg",
       "audioLink": "flat iron.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "बालों की स्थिति में सुधार करने के लिए एक हेयर केयर उत्पाद, typically मॉइस्चराइजिंग और सॉफ्टनिंग द्वारा",
       "example": "She used a hair conditioner after shampooing to keep her hair soft. She will apply a hair conditioner tomorrow to detangle her hair. She had applied a hair conditioner yesterday to treat her dry hair.",
       "example_translation": "उसने शैम्पू करने के बाद अपने बालों को सॉफ्ट रखने के लिए बाल स्थिति में सुधार करनेवाला का उपयोग किया था। वह कल अपने बालों को उलझने से छुटकारा पाने के लिए बाल स्थिति में सुधार करनेवाला का उपयोग करेगी। उसने कल अपने सूखे बालों का इलाज करने के लिए बाल स्थिति में सुधार करनेवाला का उपयोग किया था।",
-      "imageLink": "hair-conditioner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-conditioner.jpg",
       "audioLink": "hair conditioner.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "बालों को वॉल्यूम, टेक्सचर और होल्ड देने के लिए एक हल्के हेयर स्टाइलिंग उत्पाद, typically फोम या जेल के रूप में",
       "example": "She applied hair mousse to her hair to add volume and texture. She will use hair mousse tomorrow to style her hair for the wedding. She had used hair mousse yesterday to add hold to her hair.",
       "example_translation": "उसने अपने बालों को वॉल्यूम और टेक्सचर देने के लिए बाल मूस का उपयोग किया था। वह कल शादी के लिए अपने बालों को स्टाइल करने के लिए बाल मूस का उपयोग करेगी। उसने कल अपने बालों को होल्ड देने के लिए बाल मूस का उपयोग किया था।",
-      "imageLink": "hair-mousse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-mousse.jpg",
       "audioLink": "hair mousse.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "एक कॉस्मेटिक तैयारी जो बालों को स्टाइल, होल्ड या टेक्सचर जोड़ने के लिए छिड़का जाता है।",
       "example": "She used hair spray to keep her hair in place all day. Yesterday, she had sprayed it before the party. If she forgets to use it, her hair will fall flat.",
       "example_translation": "वह पूरे दिन अपने बालों को जगह में रखने के लिए हेयर स्प्रे का उपयोग करती थी। कल, उसने पार्टी से पहले इसे छिड़का था। अगर वह इसका उपयोग करना भूल जाती है, तो उसके बाल सपाट हो जाएंगे।",
-      "imageLink": "hair-spray.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hair-spray.jpg",
       "audioLink": "hair spray.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "एक टॉपिकल तैयारी जो होंठों को सूखेपन और ठंड से मॉइस्चराइज़ और सुरक्षा प्रदान करती है।",
       "example": "She applied lip balm before going out in the cold weather. Yesterday, she had forgotten to reapply it after eating lunch. If she uses it regularly, her lips will be soft.",
       "example_translation": "वह ठंडे मौसम में बाहर जाने से पहले होंठ बाम लगाती थी। कल, उसने दोपहर के भोजन के बाद इसे दोबारा लगाना भूल गई थी। अगर वह इसे नियमित रूप से उपयोग करती है, तो उसके होंठ मुलायम होंगे।",
-      "imageLink": "lip-balm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-balm.jpg",
       "audioLink": "lip balm.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "एक कॉस्मेटिक तैयारी जो होंठों को चमकदार दिखाती है, अक्सर हल्के रंग के साथ。",
       "example": "She wore lip gloss to the party to look more attractive. Yesterday, she had applied a new shade of lip gloss. If she uses it daily, her lips will look shiny.",
       "example_translation": "वह पार्टी में और अधिक आकर्षक दिखने के लिए होंठ ग्लॉस पहनती थी। कल, उसने एक नई शेड होंठ ग्लॉस लगाई थी। अगर वह इसे दैनिक रूप से उपयोग करती है, तो उसके होंठ चमकीले दिखेंगे।",
-      "imageLink": "lip-gloss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-gloss.jpg",
       "audioLink": "lip gloss.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "एक कॉस्मेटिक उत्पाद जिसका उपयोग होंठों के आकार और आउटलाइन को परिभाषित करने के लिए किया जाता है, अक्सर पेंसिल जैसे एप्लिकेशन के साथ。",
       "example": "She used lip liner to shape her lips perfectly. Yesterday, she had bought a new lip liner. If she uses it correctly, her lips will look defined.",
       "example_translation": "वह अपने होंठों को प्यार से शेप करने के लिए होंठ लाइनर का उपयोग करती थी। कल, उसने एक नया होंठ लाइनर खरीदा था। अगर वह इसे सही तरीके से उपयोग करती है, तो उसके होंठ परिभाषित दिखेंगे।",
-      "imageLink": "lip-liner.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lip-liner.jpg",
       "audioLink": "lip liner.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "एक प्रकार की मेकअप फाउंडेशन जिसकी तरल स्थिरता होती है और त्वचा पर लगायी जाती है ताकि शियर से मध्यम कवरेज प्रदान करे",
       "example": "I used a liquid foundation to even out my skin tone yesterday, I will use it again tomorrow, and I used it regularly last month.",
       "example_translation": "मैंने कल अपने त्वचा टोन को समान करने के लिए तरल संस्थापन का इस्तेमाल किया, मैं इसे फिर कल इस्तेमाल करूँगा, और मैंने पिछले महीने regular रूप से इसका इस्तेमाल किया.",
-      "imageLink": "liquid-foundation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "liquid-foundation.jpg",
       "audioLink": "liquid foundation.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "एक प्रकार की सौंदर्य पाउडर जिसका इस्तेमाल त्वचा पर अतिरिक्त तेल को अवशोषित करने और त्वचा टोन को समान करने के लिए किया जाता है",
       "example": "I applied loose powder to my face yesterday, I will apply it after I finish my morning routine, and I applied it before going to the party last night.",
       "example_translation": "मैंने कल अपने चेहरे पर स्वबोद पाउडर लगाया, मैं इसे अपने सुबह के रूटीन के बाद लगाऊँगा, और मैंने कल रात पार्टी जाने से पहले इसका इस्तेमाल किया.",
-      "imageLink": "loose-powder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "loose-powder.jpg",
       "audioLink": "loose powder.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "एक छोटा ब्रश जिसका इस्तेमाल नाखून पॉलिश को उंगलियों या पैर के नाखूनों पर लगाने के लिए किया जाता है",
       "example": "I used a nail brush to paint my nails yesterday, I will use it again tomorrow, and I used it to clean my nails last week.",
       "example_translation": "मैंने कल अपने नाखूनों को पेंट करने के लिए नख ब्रश का इस्तेमाल किया, मैं इसे फिर कल इस्तेमाल करूँगा, और मैंने पिछले हफ्ते अपने नाखूनों की सफाई के लिए इसका इस्तेमाल किया.",
-      "imageLink": "nail-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-brush.jpg",
       "audioLink": "nail brush.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "एक सौंदर्य लैक जिसका इस्तेमाल उंगलियों या पैर के नाखूनों को सजाने या सुरक्षा करने के लिए किया जाता है",
       "example": "I applied nail polish to my nails yesterday, I will apply it again tomorrow, and I applied it to my sister's nails last month.",
       "example_translation": "मैंने कल अपने नाखूनों पर नख पॉलिश लगाया, मैं इसे फिर कल लगाऊँगा, और मैंने पिछले महीने अपनी बहन के नाखूनों पर इसका इस्तेमाल किया.",
-      "imageLink": "nail-polish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-polish.jpg",
       "audioLink": "nail polish.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "नाखून प्लेट से नेल पॉलिश को घोलने और हटाने के लिए प्रयुक्त एक सॉल्वेंट",
       "example": "She used a nail polish remover to clean her nails. She had used a nail polish remover yesterday. She will use a nail polish remover tomorrow.",
       "example_translation": "उसने अपने नाखून साफ करने के लिए एक नेल पॉलिश रिमावर का उपयोग किया। उसने कल एक नेल पॉलिश रिमावर का उपयोग किया था। वह कल एक नेल पॉलिश रिमावर का उपयोग करेगी।",
-      "imageLink": "nail-polish-remover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nail-polish-remover.jpg",
       "audioLink": "nail polish remover.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "चेहरे या शरीर पर पाउडर लगाने के लिए प्रयुक्त एक कॉस्मेटिक टूल",
       "example": "She used a powder puff to set her makeup. She had used a powder puff yesterday to touch up her face. She will use a powder puff tomorrow to get ready for the party.",
       "example_translation": "उसने अपने मेकअप को सेट करने के लिए एक पाउडर पफ का उपयोग किया। उसने कल अपने चेहरे को टच अप करने के लिए एक पाउडर पफ का उपयोग किया था। वह कल पार्टी के लिए तैयार होने के लिए एक पाउडर पफ का उपयोग करेगी।",
-      "imageLink": "powder-puff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "powder-puff.jpg",
       "audioLink": "powder puff.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "एक प्रकार का कॉस्मेटिक पाउडर जो कॉम्पैक्ट फॉर्म में प्रेस्ड किया होता है",
       "example": "She used a pressed powder to set her foundation. She had used a pressed powder yesterday to touch up her face. She will use a pressed powder tomorrow to get ready for the party.",
       "example_translation": "उसने अपने फाउंडेशन को सेट करने के लिए एक प्रेस्ड पाउडर का उपयोग किया। उसने कल अपने चेहरे को टच अप करने के लिए एक प्रेस्ड पाउडर का उपयोग किया था। वह कल पार्टी के लिए तैयार होने के लिए एक प्रेस्ड पाउडर का उपयोग करेगी।",
-      "imageLink": "pressed-powder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pressed-powder.jpg",
       "audioLink": "pressed powder.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "अन्य मेकअप प्रोडक्ट्स को लगाने से पहले त्वचा पर लगाया जाने वाला एक कॉस्मेटिक प्रोडक्ट",
       "example": "She used a primer to create a smooth base for her makeup. She had used a primer yesterday to help her foundation last longer. She will use a primer tomorrow to get a flawless finish.",
       "example_translation": "उसने अपने मेकअप के लिए एक सMOOTH बेस बनाने के लिए एक प्राइमर का उपयोग किया। उसने कल अपने फाउंडेशन को लंबे समय तक चलाने में मदद करने के लिए एक प्राइमर का उपयोग किया था। वह कल एक फ्लávalेस फिनिश पाने के लिए एक प्राइमर का उपयोग करेगी।",
-      "imageLink": "primer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "primer.jpg",
       "audioLink": "primer.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "एक पुमिस पत्थर प्राकृतिक लावा पत्थर है जिसका उपयोग पैरों और एड़ियों से मृत त्वचा कोशिकाओं को हटाने के लिए किया जाता है, जिससे वे चिकने और मुलायम हो जाते हैं।",
       "example": "I use a pumice stone every week to keep my heels smooth. I used a pumice stone yesterday to remove dead skin. I will use a pumice stone tomorrow to exfoliate my skin.",
       "example_translation": "मैं हर हफ्ते अपने पैरों को स्मूद रखने के लिए पुमिस पत्थर का उपयोग करता हूँ। मैंने कल पुमिस पत्थर का उपयोग किया था मृत त्वचा को हटाने के लिए। मैं कल पुमिस पत्थर का उपयोग करके अपनी त्वचा को एक्सफोलिएट करूँगा।",
-      "imageLink": "pumice-stone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pumice-stone.jpg",
       "audioLink": "pumice stone.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "एक दाढ़ी ब्रुश एक छोटा, आमतौर पर हाथ से पकड़ा हुआ, ब्रुश है जिसका उपयोग त्वचा पर दाढ़ी क्रीम या साबुन लगाने के लिए किया जाता है, आमतौर पर दाढ़ी करने से पहले।",
       "example": "He uses a shaving brush every morning to apply shaving cream. She used a shaving brush yesterday to shave her legs. They will use a shaving brush tomorrow to shave their beards.",
       "example_translation": "वह हर सुबह दाढ़ी क्रीम लगाने के लिए दाढ़ी ब्रुश का उपयोग करता है। उसने कल अपने पैरों की दाढ़ी करने के लिए दाढ़ी ब्रुश का उपयोग किया था। वे कल अपनी दाढ़ी करने के लिए दाढ़ी ब्रुश का उपयोग करेंगे।",
-      "imageLink": "shaving-brush.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-brush.jpg",
       "audioLink": "shaving brush.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "एक दाढ़ी क्रीम एक प्रकार का कॉस्मेटिक प्रोडक्ट है जिसका उपयोग त्वचा को दाढ़ी करते समय लुब्रिकेट और सुरक्षा करने में मदद करता है, आमतौर पर मॉइस्चराइजिंग सामग्री से युक्त होता है।",
       "example": "I apply shaving cream to my face before shaving. She uses shaving cream every morning to shave her legs. They apply shaving cream to their skin before shaving.",
       "example_translation": "मैं दाढ़ी करने से पहले अपने चेहरे पर दाढ़ी क्रीम लगाता हूँ। वह हर सुबह अपने पैरों की दाढ़ी करने के लिए दाढ़ी क्रीम का उपयोग करती है। वे दाढ़ी करने से पहले अपनी त्वचा पर दाढ़ी क्रीम लगाते हैं।",
-      "imageLink": "shaving-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-cream.jpg",
       "audioLink": "shaving cream.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "एक दाढ़ी फोम एक प्रकार का कॉस्मेटिक प्रोडक्ट है जिसका उपयोग त्वचा को दाढ़ी करते समय लुब्रिकेट और सुरक्षा करने में मदद करता है, आमतौर पर हल्के, एयरी पदार्थ के रूप में।",
       "example": "He uses shaving foam every morning to shave his face. She applied shaving foam to her skin yesterday before shaving. They will use shaving foam tomorrow to shave their beards.",
       "example_translation": "वह हर सुबह अपने चेहरे की दाढ़ी करने के लिए दाढ़ी फोम का उपयोग करता है। उसने कल अपनी त्वचा पर दाढ़ी फोम लगाया था दाढ़ी करने से पहले। वे कल अपने दाढ़ी करने के लिए दाढ़ी फोम का उपयोग करेंगे।",
-      "imageLink": "shaving-foam.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shaving-foam.jpg",
       "audioLink": "shaving foam.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "सूरज की अल्ट्रावायलेट किरणों से त्वचा की रक्षा करने वाली क्रीम या लOTION, अक्सर सनबर्न और त्वचा कैंसर को रोकने के लिए उपयोग की जाती है।",
       "example": "I applied sunscreen to my skin before going to the beach. I will apply sunscreen to my skin before going to the beach. I had applied sunscreen to my skin before going to the beach.",
       "example_translation": "मैंने बीच पर जाने से पहले अपनी त्वचा पर सनस्क्रीन लगाया. मैं बीच पर जाने से पहले अपनी त्वचा पर सनस्क्रीन लगाऊंगा. मैंने बीच पर जाने से पहले अपनी त्वचा पर सनस्क्रीन लगाया था.",
-      "imageLink": "sunscreen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunscreen.jpg",
       "audioLink": "sunscreen.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "एक छोटा हाथ से पकड़ा जाने वाला साधन जिसका उपयोग छोटे वस्तुओं, जैसे पलकें या छोटे पार्ट्स को हटाने या पकड़ने के लिए किया जाता है।",
       "example": "I used tweezers to pluck my eyebrows. I will use tweezers to pluck my eyebrows. I had used tweezers to pluck my eyebrows.",
       "example_translation": "मैंने अपनी भौंहें चुनने के लिए ट्वीज़र का उपयोग किया. मैं अपनी भौंहें चुनने के लिए ट्वीज़र का उपयोग करूँगा. मैंने अपनी भौंहें चुनने के लिए ट्वीज़र का उपयोग किया था.",
-      "imageLink": "tweezers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tweezers.jpg",
       "audioLink": "tweezers.mp3"
     }
   ]

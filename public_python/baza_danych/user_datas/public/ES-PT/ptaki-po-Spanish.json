@@ -9,7 +9,7 @@
       "definition_translation": "Um pássaro é um animal de sangue quente que põe ovos caracterizado por penas, mandíbulas com bico sem dentes e esqueleto leve.",
       "example": "El pájaro cantó una melodía dulce por la mañana. Ayer, cantó una canción triste. Mañana, cantará una canción feliz.",
       "example_translation": "O pássaro cantou uma melodia doce pela manhã. Ontem, cantou uma canção triste. Amanhã, cantará uma melodia feliz.",
-      "imageLink": "bird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bird.jpg",
       "audioLink": "bird.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Um frango é um galinha doméstico criado para seus ovos ou carne, especialmente um macho castrado.",
       "example": "Me comí pollo para cenar anoche. Hoy, voy a comer sopa de pollo. Mañana, asaré pollo.",
       "example_translation": "Eu comi frango para jantar ontem à noite. Hoje, vou comer sopa de frango. Amanhã, vou grelhar frango.",
-      "imageLink": "chicken.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chicken.jpg",
       "audioLink": "chicken.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Um pato é um pássaro de água com um bico largo e pés palmados, geralmente encontrado em áreas úmidas.",
       "example": "El pato nadó en el lago ayer. Hoy, está sentado en la orilla. Mañana, volará lejos.",
       "example_translation": "O pato nadou no lago ontem. Hoje, está sentado na praia. Amanhã, vai voar para longe.",
-      "imageLink": "duck.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "duck.jpg",
       "audioLink": "duck.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Um ganso é um grande pássaro de água com um pescoço e pernas longos, geralmente encontrado em áreas úmidas.",
       "example": "El ganso graznó fuerte por la mañana. Ayer, caminó en el parque. Mañana, migrará a una nueva casa.",
       "example_translation": "O ganso grasnou alto pela manhã. Ontem, caminhou no parque. Amanhã, vai migrar para um novo lar.",
-      "imageLink": "goose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goose.jpg",
       "audioLink": "goose.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Um papagaio é um pássaro colorido conhecido por sua habilidade de imitar a fala humana e outros sons.",
       "example": "El loro se posó en mi hombro ayer, está posado en mi hombro ahora, y se posará en mi hombro mañana.",
       "example_translation": "O papagaio pousou no meu ombro ontem, está pousado no meu ombro agora e vai pousar no meu ombro amanhã.",
-      "imageLink": "parrot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parrot.jpg",
       "audioLink": "parrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Um pinguim é um pássaro que não voa que vive na Antártida e outras regiões frias.",
       "example": "El pingüino caminó tambaleándose por la pendiente helada ayer, está caminando tambaleándose por la pendiente helada ahora, y caminará tambaleándose por la pendiente helada mañana.",
       "example_translation": "O pinguim desceu pelo declive gelado ontem, está descendo pelo declive gelado agora e vai descer pelo declive gelado amanhã.",
-      "imageLink": "penguin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "penguin.jpg",
       "audioLink": "penguin.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Uma cicogne é um grande pássaro de água com um longo pescoço e pernas, encontrado em áreas úmidas e campos.",
       "example": "La cigüeña batió sus alas ayer, está batiendo sus alas ahora, y batirá sus alas mañana.",
       "example_translation": "A cicogne bateu as asas ontem, está batendo as asas agora e vai bater as asas amanhã.",
-      "imageLink": "stork.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stork.jpg",
       "audioLink": "stork.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Um peru é um grande pássaro nativo da América do Norte, frequentemente domesticado e comido em ocasiões especiais.",
       "example": "El pavo graznó fuerte ayer, está graznando fuerte ahora, y graznará fuerte mañana.",
       "example_translation": "O peru grasnou alto ontem, está grasnando alto agora e vai grasnar alto amanhã.",
-      "imageLink": "turkey-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turkey-2.jpg",
       "audioLink": "turkey.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "A asa é um membro anterior de um pássaro usado para voar. É uma estrutura complexa composta por três ossos: o úmero, rádio e ulna.",
       "example": "El ave extendió sus alas y se elevó en el cielo. Volará hacia el nido esta noche. La aerolínea te llevará a tu destino en sus alas.",
       "example_translation": "O pássaro estendeu sua asa e decolou para o céu. Ele vai asar seu caminho para o ninho esta noite. A companhia aérea vai asar você para seu destino.",
-      "imageLink": "wing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wing.jpg",
       "audioLink": "wing.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Um corvo é um grande pássaro preto encontrado em muitas partes do mundo. É conhecido por sua inteligência e chamado distintivo.",
       "example": "El cuervo graznó fuerte en el árbol. Ha graznado todas las mañanas durante semanas. El granjero se jactará de su gallina premio en la feria.",
       "example_translation": "O corvo croou alto na árvore. Ele croou todas as manhãs há semanas. O agricultor vai falar sobre sua galinha vencedora do prêmio na feira.",
-      "imageLink": "crow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crow.jpg",
       "audioLink": "crow.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Um cuco é um tipo de pássaro conhecido por seu chamado distinto, que soa como seu nome. É um parasita de ninhada, o que significa que ele coloca seus ovos nos ninhos de outros pássaros.",
       "example": "El cuco llamó en el bosque. Ha estado cucando toda la mañana. La madre ave cucará a sus bebés para que se duerman.",
       "example_translation": "O cuco chamou no floresta. Ele tem estado cuco-ando toda manhã. A mãe pássaro vai cuco-ar seus bebês para dormir.",
-      "imageLink": "cuckoo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuckoo.jpg",
       "audioLink": "cuckoo.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Uma águia é um grande pássaro de rapina com um bico afiado e garras. É conhecida por sua impressionante envergadura e habilidade de voo forte.",
       "example": "El águila voló alto en el cielo. Volará hasta la cima del árbol. La empresa aumentará sus ganancias este año.",
       "example_translation": "A águia voou alto no céu. Ela vai águia seu caminho para o topo da árvore. A empresa vai águia seus lucros este ano.",
-      "imageLink": "eagle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eagle.jpg",
       "audioLink": "eagle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um crescimento ou cobertura de cabelo, especialmente no corpo das aves, formando uma cobertura macia e fofa.",
       "example": "Las plumas del ave estaban revueltas por el viento. Ayer, vi una pluma en el suelo. Si encuentro una pluma, la utilizaré como decoración.",
       "example_translation": "As penas do pássaro foram desarrumadas pelo vento. Ontem, eu vi uma pena no chão. Se eu encontrar uma pena, eu usarei como decoração.",
-      "imageLink": "feather.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "feather.jpg",
       "audioLink": "feather.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Uma galinha, especialmente uma que é criada para seus ovos.",
       "example": "La gallina puso un huevo en el nido. Ayer, vi una gallina en la granja. Si tuviera una gallina, recogería sus huevos cada mañana.",
       "example_translation": "A galinha colocou um ovo no ninho. Ontem, eu vi uma galinha na fazenda. Se eu tivesse uma galinha, eu coletaria seus ovos todas as manhãs.",
-      "imageLink": "hen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hen.jpg",
       "audioLink": "hen.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Produzir ovos, especialmente como um processo natural em aves fêmeas.",
       "example": "La gallina pone huevos todos los días. Ayer, la gallina puso huevos en el nido. Si tuviera una gallina, pondría huevos para mí.",
       "example_translation": "A galinha bota ovos todos os dias. Ontem, a galinha botou ovos no ninho. Se eu tivesse uma galinha, ela botaria ovos para mim.",
-      "imageLink": "lay-eggs.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lay-eggs.jpg",
       "audioLink": "lay eggs.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Uma ave de rapina noturna com uma grande cabeça, olhos frontais e tuftes de orelha, conhecida por seu voo silencioso e seu chamado de uivo.",
       "example": "El búho ululó fuerte en la oscuridad. Ayer, vi un búho en el bosque. Si fuera un búho, volaría silenciosamente por la noche.",
       "example_translation": "A coruja uivou alto na escuridão. Ontem, eu vi uma coruja na floresta. Se eu fosse uma coruja, eu voaria silenciosamente à noite.",
-      "imageLink": "owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "owl.jpg",
       "audioLink": "owl.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Um pássaro corpulento com uma cabeça pequena,tipicamente cinza e branco, que é freqüentemente encontrado em cidades e é conhecido por sua habilidade de prosperar em uma variedade de ambientes.",
       "example": "La paloma voló rápidamente a través del cielo. Ayer, vi una paloma comiendo migas en la acera. Para el próximo año, la población de palomas habrá aumentado significativamente.",
       "example_translation": "O pombo voou rapidamente através do céu. Ontem, vi um pombo comendo migalhas na calçada. Até o ano que vem, a população de pombos terá aumentado significativamente.",
-      "imageLink": "pigeon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pigeon.jpg",
       "audioLink": "pigeon.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Um pássaro de médio a grande porte com plumagem cinza e branca, tipicamente encontrado perto do mar e conhecido por seus hábitos de carroçaria.",
       "example": "Las gaviotas volaban sobre nuestras cabezas mientras caminábamos por la playa. El verano pasado, vimos una gaviota robar una papas fritas a un turista. Para la próxima semana, la población de gaviotas habrá migrado a climas más cálidos.",
       "example_translation": "Gaivotas estavam voando acima de nós enquanto caminhamos ao longo da praia. No verão passado, vimos uma gaivota roubar uma batata frita de um turista. Até a semana que vem, a população de gaivotas terá migrado para climas mais quentes.",
-      "imageLink": "seagull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "seagull.jpg",
       "audioLink": "seagull.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Um pássaro pequeno e ágil com plumagem cinza-marrom, freqüentemente encontrado em áreas urbanas e conhecido por seus movimentos rápidos e chamados grasnaradas.",
       "example": "El gorrión construyó un nido en la ventana. El año pasado, vi un gorrión persiguiendo a un rival lejos de su territorio. Para el próximo mes, la población de gorriones habrá aumentado debido al invierno suave.",
       "example_translation": "O pardal construiu um ninho na janela. No ano passado, vi um pardal perseguindo um rival longe de seu território. Até o mês que vem, a população de pardais terá aumentado devido ao inverno ameno.",
-      "imageLink": "sparrow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sparrow.jpg",
       "audioLink": "sparrow.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Um pássaro grande e majestoso com plumagem branca, freqüentemente encontrado em rios e lagos, e conhecido por seus movimentos graciosos e fortes laços de acasalamento.",
       "example": "El cisne se deslizó suavemente a través del lago. Ayer, vi un cisne construyendo un nido con su pareja. Para la próxima primavera, la población de cisnes habrá migrado a sus áreas de cría.",
       "example_translation": "O cisne deslizou sem esforço pela superfície do lago. Ontem, vi um cisne construir um ninho com seu parceiro. Até a próxima primavera, a população de cisnes terá migrado para seus terrenos de reprodução.",
-      "imageLink": "swan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swan.jpg",
       "audioLink": "swan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "O bico é a parte bucal dura e pontiaguda de um pássaro, usada para comer, limpar e outras funções.",
       "example": "El pájaro usó su pico para abrir la nuez. Lo había usado su pico para abrir nueces antes, y lo usaría su pico para abrir nueces de nuevo.",
       "example_translation": "O pássaro usou seu bico para abrir a noz. Ele havia usado seu bico para abrir nozes antes, e usará seu bico para abrir nozes novamente.",
-      "imageLink": "beak.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beak.jpg",
       "audioLink": "beak.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Um pombo é um tipo de ave conhecido por seu canto suave e natureza pacífica.",
       "example": "La paloma voló fuera del árbol, y volaría de vuelta al árbol mañana. Lo había volado fuera del árbol muchas veces antes.",
       "example_translation": "O pombo voou para fora da árvore, e voará de volta para a árvore amanhã. Ele havia voado para fora da árvore muitas vezes antes.",
-      "imageLink": "dove.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dove.jpg",
       "audioLink": "dove.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um predador é um animal que caça e se alimenta de outros animais.",
       "example": "El león era un depredador que deambulaba por la sabana. Lo había sido un depredador desde que nació, y sería un depredador hasta que muriera.",
       "example_translation": "O leão era um predador que vagueava pela savana. Ele havia sido um predador desde que nasceu, e continuará a ser um predador até morrer.",
-      "imageLink": "predator.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "predator.jpg",
       "audioLink": "predator.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um falcão é um tipo de ave de rapina conhecido por sua visão aguda e voo rápido.",
       "example": "El halcón surcó el cielo, y surcaría el cielo de nuevo mañana. Lo había surcado el cielo muchas veces antes.",
       "example_translation": "O falcão voou pelo céu, e voará pelo céu novamente amanhã. Ele havia voado pelo céu muitas vezes antes.",
-      "imageLink": "hawk.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hawk.jpg",
       "audioLink": "hawk.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "um pequeno pássaro cantor de campo aberto,típicamente com as costas e asas marrons e uma cabeça crestada.",
       "example": "La alondra cantó una melodía dulce en la mañana. Ayer, había cantado una canción triste. Mañana, cantará una melodía feliz.",
       "example_translation": "O pássaro cantou uma melodia doce de manhã. Ontem, ele havia cantado uma canção triste. Amanhã, ele cantará uma melodia feliz.",
-      "imageLink": "lark.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lark.jpg",
       "audioLink": "lark.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "um grande pássaro preto e branco com uma longa cauda e um chamamento alto e tagarela, conhecido por roubar objetos brilhantes.",
       "example": "La urraca robó un anillo brillante de la mesa. Ayer, había robado un collar. Mañana, robará un reloj.",
       "example_translation": "A pega roubou um anel brilhante da mesa. Ontem, ele havia roubado um colar. Amanhã, ele roubará um relógio.",
-      "imageLink": "magpie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "magpie.jpg",
       "audioLink": "magpie.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "uma estrutura ou lugar feito ou escolhido por um pássaro ou outro animal para colocar e incubar seus ovos, descansar ou se esconder.",
       "example": "El pájaro construyó un nido en el árbol. Ayer, había construido un nido en el arbusto. Mañana, construirá un nido en el suelo.",
       "example_translation": "O pássaro construiu um ninho na árvore. Ontem, ele havia construído um ninho no arbusto. Amanhã, ele construirá um ninho no chão.",
-      "imageLink": "nest-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nest-1.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "uma estrutura ou lugar feito ou escolhido por um pássaro ou outro animal para colocar e incubar seus ovos, descansar ou se esconder.",
       "example": "El conejo se escondió en un nido de hierba. Ayer, se había escondido en un nido de hojas. Mañana, se esconderá en un nido de ramas.",
       "example_translation": "O coelho se escondeu em um ninho de grama. Ontem, ele havia se escondido em um ninho de folhas. Amanhã, ele se esconderá em um ninho de ramos.",
-      "imageLink": "nest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nest.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "As penas que cobrem um pássaro, especialmente aquelas que são coloridas ou decorativas.",
       "example": "El plumaje del pavo real era un espectáculo impresionante. Ayer, vi un pájaro con un hermoso plumaje en el parque. Para el próximo año, los jóvenes pájaros habrán desarrollado su plumaje completo.",
       "example_translation": "A penugem do pavão era um espetáculo para se ver. Ontem, vi um pássaro com penugem linda no parque. Até o ano que vem, os pássaros jovens terão desenvolvido sua penugem completa.",
-      "imageLink": "plumage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "plumage.jpg",
       "audioLink": "plumage.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Um pássaro preto grande com um bico grosso, conhecido por sua inteligência e seu canto distinto.",
       "example": "El cuervo se posó en la ventana, mirándome con sus ojos penetrantes. En el bosque, vimos un cuervo volando sobre nos. Si tenemos suerte, podríamos ver un cuervo anidando en el árbol para la próxima primavera.",
       "example_translation": "O corvo pousou na janela, me espiando com seus olhos penetrantes. Na floresta, vimos um corvo voando sobre nossas cabeças. Se tivermos sorte, podemos ver um corvo fazendo ninho na árvore até a próxima primavera.",
-      "imageLink": "raven.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "raven.jpg",
       "audioLink": "raven.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Um grande pássaro marinho com uma longa envergadura, conhecido por suas impressionantes habilidades de planagem e suas associações com boa sorte.",
       "example": "El albatros sobrevoló por encima, sus alas batían lentamente. En otros tiempos, los marineros creían que matar un albatros traería mala suerte. Si tenemos suerte, podríamos avistar un albatros en nuestro viaje alrededor del mundo.",
       "example_translation": "O albatroz sobrevoou, suas asas batendo lentamente. Nos velhos tempos, os marinheiros acreditavam que matar um albatroz traria má sorte. Se tivermos sorte, podemos avistar um albatroz em nossa viagem ao redor do mundo.",
-      "imageLink": "albatross.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "albatross.jpg",
       "audioLink": "albatross.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Um pássaro colorido brilhante que se alimenta de abelhas e outros insetos, conhecido por seu corpo esbelto e seu bico longo e curvo.",
       "example": "El abejero se lanzó en picado, atrapando una abeja en el aire. En verano, los abejeros son vistas comunes en nuestro jardín. Para el próximo año, podríamos ver una pareja de abejeros anidando en nuestro patio trasero.",
       "example_translation": "O abelharuco mergulhou, pegando uma abelha no ar. No verão, os abelharucos são visões comuns em nosso jardim. Até o ano que vem, podemos ver um par de abelharucos fazendo ninho em nosso quintal.",
-      "imageLink": "bee-eater.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bee-eater.jpg",
       "audioLink": "bee eater.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Um grande pássaro de cor escura com um som distintivo, encontrado em charnecas e terras de brejo.",
       "example": "Vi un urogallo negro posado en una rama de árbol ayer, estaba haciendo un ruido extraño. Hoy, voy a intentar avistarlo de nuevo. Para la próxima semana, habré aprendido a imitar su canto.",
       "example_translation": "Eu vi uma galinha-preta empoleirada em um galho de árvore ontem, estava fazendo um barulho estranho. Hoje, vou ver se consigo avistá-la novamente. Até a próxima semana, vou ter aprendido como imitar seu chamado.",
-      "imageLink": "black-grouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black-grouse.jpg",
       "audioLink": "black grouse.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Um grande pássaro de cor escura com um pescoço longo e pernas, encontrado em áreas úmidas e campos.",
       "example": "Vi una cigüeña negra vadear en los pantanos la semana pasada, estaba buscando peces. Ahora, estoy tratando de identificar su hábitat. Para fin de mes, habré aprendido más sobre su comportamiento.",
       "example_translation": "Eu avistei uma cabeça-preta caminhando nas marismas na semana passada, estava procurando por peixes. Agora, estou tentando identificar seu habitat. Até o final do mês, vou ter aprendido mais sobre seu comportamento.",
-      "imageLink": "black-stork.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black-stork.jpg",
       "audioLink": "black stork.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uma gaivota de tamanho médio com cabeça preta e corpo branco, encontrada em áreas costeiras e centros urbanos.",
       "example": "Vi una gaviota de cabeza negra volando en el cielo ayer, estaba volando sobre la playa. Hoy, voy a observarla desde una distancia. Para el próximo año, habré aprendido a distinguirla de otras especies de gaviotas.",
       "example_translation": "Eu vi uma gaivota-de-cabeça-preta planando no céu ontem, estava voando sobre a praia. Hoje, vou observá-la de longe. Até o ano que vem, vou ter aprendido como distingui-la de outras espécies de gaivotas.",
-      "imageLink": "black-headed-gull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black-headed-gull.jpg",
       "audioLink": "black-headed gull.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Um pequeno pássaro de cor escura com um canto melodioso, encontrado em jardins e bosques.",
       "example": "Escuché a un mirlo cantando en el parque ayer, era una melodía hermosa. Hoy, voy a intentar grabar su canción. Para fin de semana, habré aprendido a identificar su llamada.",
       "example_translation": "Eu ouvi um melro cantando no parque ontem, era uma melodia linda. Hoje, vou tentar gravar seu canto. Até o final da semana, vou ter aprendido como identificar seu chamado.",
-      "imageLink": "blackbird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blackbird.jpg",
       "audioLink": "blackbird.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "O papa-moscas-azul é um pequeno passeriforme da família Paridae. É um residente que cria em bosques, jardins e parques em toda a Europa e Ásia Ocidental.",
       "example": "Vi un carbonero azul posado en una rama ayer, pero voló cuando me acerqué. Hoy, voy a intentar obtener una vista más cercana. En el futuro, espero ver sus hábitos de anidación.",
       "example_translation": "Eu vi um papa-moscas-azul empoleirado em um galho ontem, mas voou quando me aproximei. Hoje, vou tentar dar uma olhada mais próxima. No futuro, espero ver seus hábitos de nidificação.",
-      "imageLink": "blue-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blue-tit.jpg",
       "audioLink": "blue tit.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "O sikewise-boêmio é um membro da família de aves sikewise. É um pássaro elegante e carismático com um cesto distintivo e um gosto por bagas.",
       "example": "Vi un ampelis europeo en el parque la semana pasada, y estaba devorando las bayas de los arbustos. Después de eso, noté que los pájaros se reunían en el mismo lugar cada invierno. En el futuro, espero estudiar sus patrones migratorios.",
       "example_translation": " Eu vi um sikewise-boêmio no parque na semana passada, e ele estava devorando as bagas dos arbustos. Depois disso, notei que os pássaros se reuniam no mesmo local todos os invernos. No futuro, espero estudar seus padrões de migração.",
-      "imageLink": "bohemian-waxwing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bohemian-waxwing.jpg",
       "audioLink": "bohemian waxwing.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "A coruja-boreal é uma espécie de coruja que habita as partes mais setentrionais da Europa, Ásia e América do Norte. É conhecida por seus chamados hoot característicos e sua capacidade de caçar em completa escuridão.",
       "example": "Escuché las llamadas inquietantes de un búho boreal anoche, y me pusieron los pelos de punta. Hoy, voy a leer más sobre sus hábitos nocturnos. En el futuro, espero observar sus técnicas de caza en persona.",
       "example_translation": "Eu ouvi os chamados assustadores de uma coruja-boreal ontem à noite, e isso me enviou calafrios pela espinha. Hoje, vou ler mais sobre seus hábitos noturnos. No futuro, espero observar suas técnicas de caça em primeira mão.",
-      "imageLink": "boreal-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boreal-owl.jpg",
       "audioLink": "boreal owl.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "O periquito-australiano, também conhecido como periquito-comum, é um pequeno papagaio de cauda longa que origina da Austrália. É popular como animal de estimação domesticado e é conhecido por sua plumagem vibrante e habilidade de mimetizar a fala humana.",
       "example": "Tengo un perico australiano como mascota, y ama silbar y imitar mi voz. Ayer, estaba chillando fuerte, y hoy es más tranquilo que usual. En el futuro, le enseñaré a hacer trucos.",
       "example_translation": "Eu tenho um periquito-australiano como animal de estimação, e ele adora assobiar e mimetizar minha voz. Ontem, estava piando alto, e hoje, está mais quieto do que hábito. No futuro, vou ensinar a fazer truques.",
-      "imageLink": "budgerigar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "budgerigar.jpg",
       "audioLink": "budgerigar.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Um tipo de pássaro com plumagem e canção distintas, encontrado em bosques e jardins.",
       "example": "El gordo se posó en la rama, cantando su melodía dulce. Ayer, vi un gordo comiendo semillas. Para la próxima semana, el gordo habrá volado hacia el sur para el invierno.",
       "example_translation": "O dom-fafe pousou no galho, cantando sua doce melodia. Ontem, vi um dom-fafe comendo sementes. Até a próxima semana, o dom-fafe terá voado para o sul para o inverno.",
-      "imageLink": "bullfinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bullfinch.jpg",
       "audioLink": "bullfinch.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Um tipo de ave de rapina, caracterizado por suas asas largas e garras afiadas.",
       "example": "El bucardo voló sobre nuestras cabezas, escudriñando el suelo en busca de presas. La semana pasada, vi un bucardo posado en un poste de cercado. Para el próximo año, la población de bucardos habrá aumentado considerablemente.",
       "example_translation": "A águia-de-esterias sobrevoou a cabeça,.scanneando o chão em busca de presa. Na semana passada, vi uma águia-de-esterias pousada em um poste de cerca. Até o ano que vem, a população de águias-de-esterias terá aumentado significativamente.",
-      "imageLink": "buzzard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "buzzard.jpg",
       "audioLink": "buzzard.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Um tipo de pássaro cantor, conhecido por sua plumagem amarela brilhante e canção melodiosa.",
       "example": "El canario cantó dulcemente en su jaula. Ayer, le di al canario semillas frescas. Para el próximo mes, el canario habrá aprendido a imitar mi voz.",
       "example_translation": "O canário cantou docemente em sua gaiola. Ontem, alimentei o canário com sementes frescas. Até o mês que vem, o canário terá aprendido a imitar minha voz.",
-      "imageLink": "canary.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "canary.jpg",
       "audioLink": "canary.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Um tipo de pardal, conhecido por sua plumagem marrom e canção característica.",
       "example": "El pinzón se posó en el comedero de aves, comiendo semillas. La semana pasada, vi un pinzón construyendo su nido. Para la próxima primavera, el pinzón habrá criado a sus crías.",
       "example_translation": "O pintarroxo pousou no alimentador de pássaros, comendo sementes. Na semana passada, vi um pintarroxo construindo seu ninho. Até a próxima primavera, o pintarroxo terá criado seus filhotes.",
-      "imageLink": "chaffinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chaffinch.jpg",
       "audioLink": "chaffinch.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "um galo, especialmente um que é criado para reprodução",
       "example": "El gallo comenzó a cantar fuerte en el patio trasero, molestando a los vecinos. Ayer, el granjero compró un nuevo gallo para criar con las gallinas. Para el próximo año, habremos criado varios gallos para la venta.",
       "example_translation": "O galo começou a cantar alto no quintal, perturbando os vizinhos. Ontem, o fazendeiro comprou um novo galo para se acasar com as galinhas. Até o ano que vem, vamos ter criado vários galos para venda.",
-      "imageLink": "cock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cock.jpg",
       "audioLink": "cock.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "um pequeno, cinzento-marrom, encontrado em florestas e jardins, com um canto distintivo",
       "example": "El mosquitero común cantó su canción melódica en el jardín. La semana pasada, vi un mosquitero común revoloteando entre los árboles. Para la próxima primavera, el mosquitero común habrá migrado de vuelta a su hábitat de verano.",
       "example_translation": "O chuçui estava cantando seu canto melódico no jardim. Na semana passada, vi um chuçui saltando entre as árvores. Até a primavera, o chuçui terá migrado de volta para seu habitat de verão.",
-      "imageLink": "common-chiffchaff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-chiffchaff.jpg",
       "audioLink": "common chiffchaff.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "uma grande, cinza-branca, ave de água com um canto distintivo, encontrada em áreas úmidas e gramados",
       "example": "La grulla común se encontraba majestuosamente en los humedales. El año pasado, vimos una grulla común volando sobre nuestras cabezas, migrando hacia su hábitat de invierno. Para el otoño, la grulla común habrá regresado a sus terrenos de reproducción.",
       "example_translation": "A grua-comum estava parada majestosamente nas áreas úmidas. No ano passado, vimos uma grua-comum voando sobre nossas cabeças, migrando para seu hábitat de inverno. Até o outono, a grua-comum terá retornado às suas terras de criação.",
-      "imageLink": "common-crane.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-crane.jpg",
       "audioLink": "common crane.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "um médio, preto-marrom, ave com uma testa vermelha distintiva, encontrada em áreas úmidas e gramados",
       "example": "La gallineta común nadaba tranquilamente en el estanque. El mes pasado, vi una gallineta común construyendo su nido en los juncos. Para el verano, la gallineta común habrá criado a sus crías.",
       "example_translation": "A galinha-d'água estava nadando silenciosamente no lago. No mês passado, vi uma galinha-d'água construindo seu ninho nos juncos. Até o verão, a galinha-d'água terá criado seus filhotes.",
-      "imageLink": "common-moorhen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-moorhen.jpg",
       "audioLink": "common moorhen.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Um pequeno pássaro migratório com um canto distinto, encontrado na Europa e Ásia.",
       "example": "El ruiseñor común cantó melodías dulces en el bosque anoche. Cantará de nuevo mañana por la noche. Ha estado cantando durante horas.",
       "example_translation": "O rouxinol-comum cantou doces melodias na floresta na noite passada. Ele cantará novamente amanhã à noite. Ele tem cantado por horas.",
-      "imageLink": "common-nightingale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-nightingale.jpg",
       "audioLink": "common nightingale.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Um pequeno fringilho com um patch vermelho na testa, encontrado no norte da Europa e Ásia.",
       "example": "El pajuero común se posó en una rama ayer. Se posará de nuevo la próxima semana. Ha estado posándose durante días.",
       "example_translation": "O linte-comum pousou em um ramo ontem. Ele pousará novamente na semana que vem. Ele tem pousado por dias.",
-      "imageLink": "common-redpoll.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-redpoll.jpg",
       "audioLink": "common redpoll.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Um pequeno felinoso com um patch branco na garganta, encontrado na Europa e Ásia.",
       "example": "La garganta blanca común migra a África cada invierno. Volverá a migrar el año que viene. Ha estado migrando durante años.",
       "example_translation": "O pé-branco-comum migra para a África todos os invernos. Ele migrará novamente no ano que vem. Ele tem migrado por anos.",
-      "imageLink": "common-whitethroat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-whitethroat.jpg",
       "audioLink": "common whitethroat.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Um grande pássaro cinzento-marrom com um chamado lúgubre, encontrado em bosques e jardins.",
       "example": "La paloma torcaz común arrulló fuerte en el jardín ayer. Volverá a arrullar mañana por la mañana. Ha estado arrullando durante días.",
       "example_translation": "O pombo-das-matas-comum gemeu alto no jardim ontem. Ele gemeu novamente amanhã de manhã. Ele tem gemeu por dias.",
-      "imageLink": "common-wood-pigeon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "common-wood-pigeon.jpg",
       "audioLink": "common wood pigeon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Um grande abutre do Novo Mundo com uma crista distintiva e uma cabeça vermelha calva, encontrado nos Andes e regiões adjacentes.",
       "example": "El cóndor voló sobre nuestras cabezas, sus alas extendidas. Ayer, vi un cóndor percha en una rama de árbol. Para el año que viene, habré visto un cóndor de cerca.",
       "example_translation": "O condor pairou sobre a nossa cabeça, suas asas se espalharam largas. Ontem, eu vi um condor empoleirado em um galho de árvore. Até o ano que vem, eu terei visto um condor de perto.",
-      "imageLink": "condor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "condor.jpg",
       "audioLink": "condor.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": " Um grande pássaro que come peixe com um pescoço e corpo longos, encontrado em ambientes aquáticos.",
       "example": "El cormorán se zambulló en el lago para atrapar un pez. Ayer, vi un cormorán percha en una roca. Para la semana que viene, habré visto un cormorán volando sobre nuestras cabezas.",
       "example_translation": "O corvo-marinho mergulhou no lago para pegar um peixe. Ontem, eu vi um corvo-marinho empoleirado em uma rocha. Até a próxima semana, eu terei visto um corvo-marinho voando sobre a nossa cabeça.",
-      "imageLink": "cormorant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cormorant.jpg",
       "audioLink": "cormorant.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Um tipo de pássaro que pertence à família de rãs, encontrado em zonas úmidas e pradarias.",
       "example": "El chasque se escondió en la hierba alta, temiendo a los depredadores. Ayer, vi un chasque chapoteando en el pantano. Para el próximo mes, habré visto un chasque volando hacia el sur para el invierno.",
       "example_translation": "A carqueja se escondeu na grama alta, temendo predadores. Ontem, eu vi uma carqueja subindo em um pântano. Até o próximo mês, eu terei visto uma carqueja voando para o sul no inverno.",
-      "imageLink": "crake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crake.jpg",
       "audioLink": "crake.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Um grande pássaro de caminhar elegante com um pescoço longo, encontrado em zonas úmidas e pradarias.",
       "example": "La grulla caminó por el pantano, sus piernas largas avanzando confiadamente. Ayer, vi una grulla percha en una rama. Para el año que viene, habré visto una grulla volando en formación en V.",
       "example_translation": "O grou caminhou pela planície, suas pernas longas caminhando com confiança. Ontem, eu vi um grou empoleirado em um galho. Até o ano que vem, eu terei visto um grou voando em formação em V.",
-      "imageLink": "crane.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crane.jpg",
       "audioLink": "crane.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Uma cotovia-de-crista é um tipo de ave que tem um distintivo crest na cabeça, encontrada em campos abertos e pradarias.",
       "example": "En el pasado, las alondras crestadas eran abundantes en el campo, pero ahora están presentes en invierno y serán escasas en el futuro.",
       "example_translation": "No passado, as cotovias-de-crista eram abundantes no campo, mas agora elas estão presentes no inverno e serão escassas no futuro.",
-      "imageLink": "crested-lark.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crested-lark.jpg",
       "audioLink": "crested lark.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Um tit-de-crista é uma ave pequena e arredondada com um distintivo crest preto e branco na cabeça, encontrada em florestas coníferas.",
       "example": "El herrerillo crestado ha sido visto en el bosque, fue observado en los árboles y será visto en el sotobosque.",
       "example_translation": "O tit-de-crista foi visto na floresta, foi observado nas árvores e será avistado no sub-bosque.",
-      "imageLink": "crested-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crested-tit.jpg",
       "audioLink": "crested tit.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Um alcaravão é uma ave grande, castanho-acinzentada com um bico longo e curvo, encontrada em áreas úmidas e costeiras.",
       "example": "El zarapito estaba vadeando en el agua superficial, está alimentándose de gusanos y migrará a África.",
       "example_translation": "O alcaravão estava vagueando na água rasa, está se alimentando de minhocas e migrará para a África.",
-      "imageLink": "curlew.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curlew.jpg",
       "audioLink": "curlew.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Um cisne-jovem é um cisne jovem, típico com penas downy, encontrado em habitats de água doce.",
       "example": "El cisne joven estaba nadando con su madre, está aprendiendo a volar y se convertirá en un hermoso cisne.",
       "example_translation": "O cisne-jovem estava nadando com sua mãe, está aprendendo a voar e se tornará um belo cisne.",
-      "imageLink": "cygnet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cygnet.jpg",
       "audioLink": "cygnet.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "uma coruja grande com um disco facial distinto e tufos de ouvido, encontrada em florestas e bosques.",
       "example": "El búho de águila se posó en una rama, vigilando su presa. Había estado cazando durante horas, y cazaría de nuevo al día siguiente.",
       "example_translation": "A coruja-das-águilas pousou num galho, observando sua presa. Ela já caçava por horas e caçará novamente amanhã.",
-      "imageLink": "eagle-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "eagle-owl.jpg",
       "audioLink": "eagle owl.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "um grande pássaro não voador nativo da Austrália, conhecido por sua plumagem macia e penas e pernas poderosas.",
       "example": "El emú corrió a través de la sabana, sus largas patas llevándolo rápidamente lejos de los depredadores. Habría comido mucha comida para la próxima semana.",
       "example_translation": "O emú correu pela savana, suas pernas longas levando-o rapidamente para longe dos predadores. Ele terá comido muito comida até a próxima semana.",
-      "imageLink": "emu.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "emu.jpg",
       "audioLink": "emu.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "um pássaro de rapina com corpo esbelto e asas longas e pontudas, conhecido por sua velocidade e agilidade.",
       "example": "El halcón se lanzó desde el cielo, sus garras afiladas extendidas. Había atrapado muchas presas ayer, y atraparía más mañana.",
       "example_translation": "O falcão mergulhou do céu, suas garras afiadas estendidas. Ele havia pego muita presa ontem, e pegará mais amanhã.",
-      "imageLink": "falcon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "falcon.jpg",
       "audioLink": "falcon.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "um grande pássaro de pernas longas com penas rosa distintas e pescoço longo e esbelto, encontrado em regiões quentes e tropicais.",
       "example": "El flamenco se quedó inmóvil en el agua superficial, sus brillantes plumas brillando en la luz del sol. Habría migrado a otro lago el próximo año.",
       "example_translation": "O flamingo ficou parado na água rasa, suas penas brilhantes brilhando ao sol. Ele terá migrado para outro lago no ano que vem.",
-      "imageLink": "flamingo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flamingo.jpg",
       "audioLink": "flamingo.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Um ganso macho, geralmente maior do que uma gansa fêmea.",
       "example": "El ganso macho caminó tambaleándose por la granja, graznando fuerte. Ayer, había caminado tambaleándose por la granja, graznando fuerte. Mañana, caminará tambaleándose por la granja, graznando fuerte.",
       "example_translation": "O ganso caminhava autoura da fazenda, grasnando alto. Ontem, ele caminhava autoura da fazenda, grasnando alto. Amanhã, ele caminhará autoura da fazenda, grasnando alto.",
-      "imageLink": "gander.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gander.jpg",
       "audioLink": "gander.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Um pequeno pássaro marrom-acinzentado que se reproduce em jardins e bosques.",
       "example": "La curruca de jardín cantó su melodía dulce desde la cerca. Ayer, había cantado su melodía dulce desde la cerca. Mañana, cantará su melodía dulce desde la cerca.",
       "example_translation": "A felosa-dos-jardins cantou sua doce melodia do arbusto. Ontem, ela cantou sua doce melodia do arbusto. Amanhã, ela cantará sua doce melodia do arbusto.",
-      "imageLink": "garden-warbler.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garden-warbler.jpg",
       "audioLink": "garden warbler.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Um pequeno, pato-de-dabbling que se reproduce em áreas úmidas e gramados.",
       "example": "El ánade saravi nadó a través del lago, sus plumas brillando. Ayer, había nadado a través del lago, sus plumas brillando. Mañana, nadará a través del lago, sus plumas brillando.",
       "example_translation": "O marreco nadou atravessou o lago, suas penas brilhando. Ontem, ele nadou atravessou o lago, suas penas brilhando. Amanhã, ele nadará atravessou o lago, suas penas brilhando.",
-      "imageLink": "garganey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garganey.jpg",
       "audioLink": "garganey.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Um pequeno pássaro de cores brilhantes que se reproduce em florestas coníferas.",
       "example": "La reinita coronada revoloteó entre las ramas, su cresta brillando. Ayer, había revoloteado entre las ramas, su cresta brillando. Mañana, revoloteará entre las ramas, su cresta brillando.",
       "example_translation": "O estorninho-dourado flutuou entre os galhos, sua crista brilhando. Ontem, ele flutuou entre os galhos, sua crista brilhando. Amanhã, ele flutuará entre os galhos, sua crista brilhando.",
-      "imageLink": "goldcrest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goldcrest.jpg",
       "audioLink": "goldcrest.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Um grande pássaro de rapina de cor castanha escura com nuca e asas douradas, originário de regiões montanhosas do hemisfério norte.",
       "example": "El águila real voló sobre la cabeza, su grito penetrante resonando en el valle. Había volado sobre el valle el día antes, y lo haría de nuevo al día siguiente.",
       "example_translation": "A águia dourada pairou sobre a nossa cabeça, seu grito penetrante ecoando pelo vale. Ela havia pairado sobre o vale no dia anterior e faria isso novamente amanhã.",
-      "imageLink": "golden-eagle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "golden-eagle.jpg",
       "audioLink": "golden eagle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Um pássaro de plumagem dourada, originário de florestas e bosques do Velho Mundo.",
       "example": "El oríolo dorado cantó su melodía dulce desde la copa del árbol. Había estado cantando durante días, y seguiría haciéndolo hasta que finalizara el verano.",
       "example_translation": "O ouriço-dourado cantou sua doce melodia do topo da árvore. Ele havia cantado por dias e continuaria a fazê-lo até o verão terminar.",
-      "imageLink": "golden-oriole.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "golden-oriole.jpg",
       "audioLink": "golden oriole.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Um pequeno pássaro de cor vibrante com rosto amarelo e asas pretas, conhecido por seu canto atraente e comportamento social.",
       "example": "El jilguero se posó en la alimentadora, sus plumas brillantes atrapando la luz del sol. Ha estado visitando la alimentadora todas las mañanas, y lo hará hasta que llegue el invierno.",
       "example_translation": "O pintarroxo pousou no alimentador, sua plumagem vibrante apanhando a luz do sol. Ele vinha visitando o alimentador todas as manhãs e faria isso até o inverno chegar.",
-      "imageLink": "goldfinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goldfinch.jpg",
       "audioLink": "goldfinch.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Um jovem ganso, especialmente um que ainda está na sua fase de penas.",
       "example": "El ganzo caminó detrás de su madre, chirriando fuerte. Ha estado siguiendo a su madre desde la eclosión, y lo hará hasta que aprenda a volar.",
       "example_translation": "O ganso cambaleou atrás da mãe, piando alto. Ele havia seguido sua mãe desde o nascimento e faria isso até aprender a voar.",
-      "imageLink": "gosling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gosling.jpg",
       "audioLink": "gosling.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Um grande pássaro aquático com um distintivo creste na cabeça, encontrado em lagos e rios na Europa, Ásia e África.",
       "example": "El zambullidor grande es una vista común en muchos lagos y ríos. Ha estado anidando en el lago durante años. Para el próximo verano, el zambullidor grande habrá migrado a regiones más cálidas.",
       "example_translation": "O grande mergulhador cristado é um espetáculo comum em muitos lagos e rios. Ele tem estado nidificando no lago há anos. Até o próximo verão, o grande mergulhador cristado terá migrado para regiões mais quentes.",
-      "imageLink": "great-crested-grebe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "great-crested-grebe.jpg",
       "audioLink": "great crested grebe.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Um pequeno pássaro colorido brilhante com uma canção distinta, encontrado em jardins e florestas na Europa e Ásia.",
       "example": "El carbonero grande es un visitante común a las alimentadoras de aves de jardín. Estaba construyendo un nido en el arbusto la semana pasada. Para el próximo mes, el carbonero grande habrá aprendido a volar.",
       "example_translation": "O pintarroxo-eurasiático é um visitante comum a alimentadores de aves de jardim. Ele estava construindo um ninho no arbusto na semana passada. Até o próximo mês, o pintarroxo-eurasiático terá aprendido a voar.",
-      "imageLink": "great-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "great-tit.jpg",
       "audioLink": "great tit.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Um grande pássaro branco de pernas longas e pescoço, encontrado em áreas úmidas e costeiras em regiões quentes.",
       "example": "La garza blanca es una vista majestuosa en humedales costeros. Estaba cazando su presa en agua poco profunda ayer. Para el próximo año, la garza blanca habrá migrado a sus terrenos de cría.",
       "example_translation": "A garça-branca-grande é um espetáculo majestoso em áreas úmidas costeiras. Ele caçou sua presa na água rasa ontem. Até o próximo ano, a garça-branca-grande terá migrado para seus campos de reprodução.",
-      "imageLink": "great-white-egret.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "great-white-egret.jpg",
       "audioLink": "great white egret.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Um tipo de pássaro aquático com um estilo de mergulho distinto, encontrado em lagos e rios na Europa, Ásia e África.",
       "example": "El zambullidor es un buzo habilidoso, capaz de coger peces bajo el agua. Ha estado anidando en el lago durante años. Para el próximo verano, el zambullidor habrá enseñado a sus crías a bucear.",
       "example_translation": "O mergulhador é um mergulhador habilidoso, capaz de pegar peixes debaixo d'água. Ele tem estado nidificando no lago há anos. Até o próximo verão, o mergulhador terá ensinado seus jovens a mergulhar.",
-      "imageLink": "grebe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grebe.jpg",
       "audioLink": "grebe.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Um grande pássaro de pesca cinzento-branco com um pescoço longo e pernas longas, encontrado em áreas úmidas e costeiras.",
       "example": "La garza gris caminó lentamente a través del agua poco profunda, sus ojos afilados examinando a los peces debajo. Había caminado por el mismo lugar ayer, y lo hará mañana.",
       "example_translation": "A garça-real andava lentamente através da água rasa, seus olhos afiados escaneando os peixes abaixo. Ela havia andado pelo mesmo local ontem, e andará novamente amanhã.",
-      "imageLink": "heron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heron.jpg",
       "audioLink": "grey heron.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Um grande ganso cinza-marrom com uma face e pescoço brancos, encontrado em áreas úmidas e campos.",
       "example": "El ganso berlinés graznó fuerte mientras volaba sobre mi cabeza, sus alas batían rápidamente mientras se dirigía a sus terrenos de invernada. Ha volado la misma ruta durante años, y continuará haciéndolo.",
       "example_translation": "O ganso-de-faces-brancas grasnava alto enquanto voava acima, suas asas batendo rapidamente enquanto fazia seu caminho para seus terrenos de inverno. Ele havia voado a mesma rota por anos, e continuará a fazer.",
-      "imageLink": "greylag-goose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "greylag-goose.jpg",
       "audioLink": "greylag goose.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Um grande pássaro que vive no chão, com plumagem cinza e preta, nativo da África.",
       "example": "La pintada picoteó el grano esparcido en el suelo, sus plumas brillantes reluciendo en la luz del sol. Ha estado comiendo la misma comida durante meses, y lo hará de nuevo mañana.",
       "example_translation": "A galinha-da-guiné bicava os grãos espalhados no chão, suas penas coloridas brilhando ao sol. Ela havia comido a mesma comida por meses, e comerá novamente amanhã.",
-      "imageLink": "guinea-fowl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guinea-fowl.jpg",
       "audioLink": "guinea fowl.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Um grande, comedor de sementes, pardal com dorso e asas marrons, encontrado em bosques e jardins.",
       "example": "El picogordo se posó en la rama de un roble, su pico poderoso cascaronando una semilla de girasol. Ha estado comiendo las semillas de muchos árboles, y lo hará de nuevo pronto.",
       "example_translation": "O pedreiro empoleirou-se no galho de uma árvore de carvalho, seu bico poderoso quebrando uma semente de girassol. Ele havia comido as sementes de muitas árvores, e comerá novamente em breve.",
-      "imageLink": "hawfinch.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hawfinch.jpg",
       "audioLink": "hawfinch.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Um tetraz de tamanho médio com costas e asas marrons, e cauda preta, encontrado em bosques na Europa e Ásia.",
       "example": "El urdón huirá al primer signo de peligro, ha huido al bosque cercano y huirá nuevamente si se siente amenazado.",
       "example_translation": "O tetraz-de-castanheiro fugirá ao primeiro sinal de perigo, fugiu para a floresta vizinha e fugirá novamente se ameaçado.",
-      "imageLink": "hazel-grouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hazel-grouse.jpg",
       "audioLink": "hazel grouse.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Um pássaro de tamanho médio com uma crista distinta e listras preto-e-brancas, encontrado em bosques e jardins na Europa, Ásia e África.",
       "example": "La abubilla se posó en el poste de la cerca, está picoteando en el suelo y pronto volará para buscar comida.",
       "example_translation": "A poupa pousou no poste de cerca, está bicando no chão e logo irá voar para encontrado comida.",
-      "imageLink": "hoopoe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hoopoe.jpg",
       "audioLink": "hoopoe.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Um pequeno pássaro de plumagem brilhante e iridescente, encontrado em regiões tropicais e subtropicais, conhecido por seu rápido movimento de asas e capacidade de pairar no ar.",
       "example": "El colibrí se lanzó hacia el alimentador, está bebiendo néctar y pronto revoloteará para buscar más comida.",
       "example_translation": "O beija-flor zumou no alimentador, está bebendo néctar e logo irá voar para encontrar mais comida.",
-      "imageLink": "hummingbird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hummingbird.jpg",
       "audioLink": "hummingbird.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Um pássaro de pescoço e pernas longos, com um bico curvo, encontrado em áreas úmidas e costeiras em todo o mundo.",
       "example": "El ibis caminó por el agua superficial, está buscando peces y pronto volará hacia sus territorios de anidación.",
       "example_translation": "O íbis cortou pela água rasa, está procurando por peixes e logo irá voar para seus terrenos de nidificação.",
-      "imageLink": "ibis.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ibis.jpg",
       "audioLink": "ibis.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Uma gralha é um tipo de ave que pertence à família de corvos, conhecida por suas penas pretas e cinzentas e canto distintivo.",
       "example": "Vi una graña sentada en el techo de mi casa ayer. Veré una graña en el parque mañana. He visto una graña volando sobre mi cabeza.",
       "example_translation": "Eu vi uma gralha pousada no telhado da minha casa ontem. Veria uma gralha no parque amanhã. Tenho visto uma gralha voando sobre minha cabeça.",
-      "imageLink": "jackdaw.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jackdaw.jpg",
       "audioLink": "jackdaw.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Um gaio é um tipo de ave conhecido por suas penas coloridas brilhantes e comportamento ousado.",
       "example": "Vi un arrendajo robando comida de la bandejuela de mi vecino. Veré un arrendajo volando en el bosque mañana. He visto un arrendajo sentado en una rama de árbol.",
       "example_translation": "Eu vi um gaio roubando comida do comedouro de pássaros do meu vizinho. Veria um gaio voando na floresta amanhã. Tenho visto um gaio pousado em um galho de árvore.",
-      "imageLink": "jay.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jay.jpg",
       "audioLink": "jay.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Um cerceio é um tipo de falcão pequeno conhecido por sua agilidade e velocidade, frequentemente visto caçando pequenos roedores.",
       "example": "Vi un cernícalo revoloteando en el cielo ayer. Veré un cernícalo lanzándose en picado para cazar un ratón mañana. He visto un cernícalo sentado en un poste de cerco.",
       "example_translation": "Eu vi um cerceio pairando no céu ontem. Veria um cerceio mergulhando para pegar um rato amanhã. Tenho visto um cerceio pousado em um poste de cerca.",
-      "imageLink": "kestrel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kestrel.jpg",
       "audioLink": "kestrel.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Um martim é um tipo de ave colorida brilhante conhecido por seu canto distinto e capacidade de mergulhar na água para pegar peixes.",
       "example": "Vi un martín pescador volando sobre el río ayer. Veré un martín pescador sumergiéndose en el agua para cazar un pez mañana. He visto un martín pescador sentado en una roca junto al lago.",
       "example_translation": "Eu vi um martim voando sobre o rio ontem. Veria um martim mergulhando na água para pegar um peixe amanhã. Tenho visto um martim pousado em uma rocha perto do lago.",
-      "imageLink": "kingfisher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kingfisher.jpg",
       "audioLink": "kingfisher.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Um pequeno pássaro voador nativo da Nova Zelândia, com um corpo redondo, pescoço longo e penas marrons.",
       "example": "Me comí una kiwi para desayunar ayer, me comeré una kiwi mañana y estoy comiendo una ahora.",
       "example_translation": "Eu comi um fruto de quiui no café da manhã ontem, vou comê-lo novamente amanhã e estou comendo agora.",
-      "imageLink": "kiwi.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kiwi.jpg",
       "audioLink": "kiwi.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "Um grande pássaro de voz alta com um topo distinto na cabeça, encontrado em áreas úmidas e gramados.",
       "example": "El grito fuerte de la avefría resonó en la zona pantanosa, vi uno volando sobre mi cabeza ayer y observaré uno nuevamente mañana.",
       "example_translation": "O chamado alto do ave-franco ecoou pela terra pantanosa, eu o vi voando acima ontem e vou observá-lo novamente amanhã.",
-      "imageLink": "lapwing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lapwing.jpg",
       "audioLink": "lapwing.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "Um pássaro de médio tamanho, cinza e branco com as costas pretas, encontrado perto de áreas costeiras e praias.",
       "example": "Vi la gaviota de espalda negra menor sobrevolando ayer, la filmaré de nuevo mañana, y la vi buscando comida ahora.",
       "example_translation": "Eu observei a gaivota-de-dorso-preto-menor pairando acima ontem, vou filmá-la novamente amanhã e eu a vi procurando comida agora.",
-      "imageLink": "lesser-black-backed-gull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lesser-black-backed-gull.jpg",
       "audioLink": "lesser black-backed gull.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Um pássaro de médio tamanho, marrom e branco, de presa com um padrão manchado distinto, encontrado em florestas e gramados.",
       "example": "Vi la águila moteada menor posada en un árbol ayer, la fotografiaré de nuevo mañana, y la observé cazando ahora.",
       "example_translation": "Eu vi a águia-bom-dia-pequena empoleirada em uma árvore ontem, vou fotografá-la novamente amanhã e eu a observei caçando agora.",
-      "imageLink": "lesser-spotted-eagle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lesser-spotted-eagle.jpg",
       "audioLink": "lesser spotted eagle.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "um pequeno pássaro canoro com costas e asas marrons e cabeça e peito cinzento-marrons, encontrado em jardins e bosques.",
       "example": "La linterna se posó en la rama, cantando su melodía dulce. La linterna se había posado en la rama, cantando su melodía dulce. La linterna se posará en la rama, cantando su melodía dulce.",
       "example_translation": "A pintarrilha pousou no galho, cantando sua doce melodia. A pintarrilha havia pousado no galho, cantando sua doce melodia. A pintarrilha pousará no galho, cantando sua doce melodia.",
-      "imageLink": "linnet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "linnet.jpg",
       "audioLink": "linnet.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "um pássaro noturno predador com grandes tuftes semelhantes a orelhas na cabeça, encontrado em florestas e bosques.",
       "example": "El búho de orejas ululó fuerte en la oscuridad. El búho de orejas había ululado fuerte en la oscuridad. El búho de orejas ululará fuerte en la oscuridad.",
       "example_translation": "A coruja-de-orelhas-compridas uivou alto na escuridão. A coruja-de-orelhas-compridas havia uivado alto na escuridão. A coruja-de-orelhas-compridas uivará alto na escuridão.",
-      "imageLink": "long-eared-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "long-eared-owl.jpg",
       "audioLink": "long-eared owl.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "um grande pato selvagem com cabeça verde e bico amarelo, encontrado em áreas úmidas e parques.",
       "example": "El ánade real nadó tranquilamente en el lago. El ánade real había nadado tranquilamente en el lago. El ánade real nadará tranquilamente en el lago.",
       "example_translation": "O marreco nadou quietamente no lago. O marreco havia nadado quietamente no lago. O marreco nadará quietamente no lago.",
-      "imageLink": "mallard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mallard.jpg",
       "audioLink": "mallard.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "um pequeno pássaro com cabeça listrada preta e branca e costas marrons, encontrado em pântanos e áreas úmidas.",
       "example": "El titi de Pantano revoloteó entre los juncos. El titi de Pantano había revoloteado entre los juncos. El titi de Pantano revoloteará entre los juncos.",
       "example_translation": "A mariquita-do-charco saltou entre os juncos. A mariquita-do-charco havia saltado entre os juncos. A mariquita-do-charco saltará entre os juncos.",
-      "imageLink": "marsh-tit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marsh-tit.jpg",
       "audioLink": "marsh tit.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "um pequeno pássaro migratório com um canto melodioso, comumente encontrado na Europa e Ásia",
       "example": "El ruiseñor cantó melodías dulces en el bosque. Cantará de nuevo mañana noche. Había cantado toda la noche.",
       "example_translation": "O rouxinol cantou melodias doces na floresta. Ele cantará novamente amanhã à noite. Ele havia cantado a noite toda.",
-      "imageLink": "nightingale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightingale.jpg",
       "audioLink": "nightingale.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "um tipo de ave noturna, conhecida por seu chamado distintivo e penas especializadas",
       "example": "El llamado de la chotacabra resonó en el desierto al atardecer. Regresará a su nido esta noche. Había estado volando toda la noche.",
       "example_translation": "O chamado do noitibó ecoava pelo deserto ao entardecer. Ele voltará ao seu ninho hoje à noite. Ele havia estado voando a noite toda.",
-      "imageLink": "nightjar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightjar.jpg",
       "audioLink": "nightjar.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "uma grande ave de rapina que come peixe, com um dedo external reversível distinto",
       "example": "El águila pescadora se zambulló en el lago para cazar un pez. Construirá su nido en la acantilado mañana. Había estado volando sobre el océano.",
       "example_translation": "A águia-pescadora mergulhou no lago para pegar um peixe. Ela construirá seu ninho no penhasco amanhã. Ela havia estado voando sobre o oceano.",
-      "imageLink": "osprey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "osprey.jpg",
       "audioLink": "osprey.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "um tipo de ave pequena que vive no chão, frequentemente encontrada em áreas agrícolas",
       "example": "La perdiz corrió rápidamente a través del campo. Pondrá sus huevos en los arbustos mañana. Había estado picoteando el suelo toda la mañana.",
       "example_translation": "A perdiz correu rapidamente pelo campo. Ela porá seus ovos nos arbustos amanhã. Ela havia estado bicando o chão a manhã toda.",
-      "imageLink": "partridge.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "partridge.jpg",
       "audioLink": "partridge.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Um grande pássaro colorido vivamente com uma cauda distinta em forma de leque, nativo do sul da Ásia.",
       "example": "El pavo real pavoneándose en el zoológico era un espectáculo impresionante. Ayer, vi un pavo real en el parque. Para el próximo verano, habré visto un pavo real de cerca.",
       "example_translation": "O pavão se pavoneando ao redor do zoológico era um espetáculo impressionante. Ontem, eu vi um pavão no parque. Até o próximo verão, eu vou ter visto um pavão de perto.",
-      "imageLink": "peacock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "peacock.jpg",
       "audioLink": "peacock.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Um grande pássaro aquático com um bico distinto com bolsa, encontrado em regiões quentes e tropicais.",
       "example": "El pelícano se lanzó a atrapar un pez. Pelícanos han sido conocidos por vivir hasta 25 años. Para el próximo año, habré visto un pelícano volando en lo alto.",
       "example_translation": "O pelicano mergulhou para pegar um peixe. Pelicanos têm sido conhecidos por viver até 25 anos. Até o próximo ano, eu vou ter visto um pelicano voando sobre minha cabeça.",
-      "imageLink": "pelican.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pelican.jpg",
       "audioLink": "pelican.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Um pássaro de rapina rápido e poderoso, encontrado em todos os Continentes, conhecido por sua velocidade e agilidade.",
       "example": "El halcón peregrino surcó los cielos. Halcones peregrinos han sido utilizados para la caza durante siglos. Para el próximo mes, habré visto un halcón peregrino de cerca.",
       "example_translation": "O falcão peregrino sobrevoou os céus. Falcões peregrinos têm sido usados para caçar por séculos. Até o próximo mês, eu vou ter visto um falcão peregrino de perto.",
-      "imageLink": "peregrine-falcon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "peregrine-falcon.jpg",
       "audioLink": "peregrine falcon.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Um grande pássaro que vive no chão, nativo da Ásia, frequentemente caçado por sua carne e penas.",
       "example": "El faisán cruzó corriendo el campo. Faisanes son conocidos por su plumaje vibrante. Para el próximo invierno, habré ido de caza de faisanes con mis amigos.",
       "example_translation": "O faisão correu através do campo. Faisões são conhecidos por suas plumas vibrantes. Até o próximo inverno, eu vou ter ido caçar faisões com meus amigos.",
-      "imageLink": "pheasant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pheasant.jpg",
       "audioLink": "pheasant.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Aves domesticadas, como galinhas, perus e patos, criados para seus ovos e carne.",
       "example": "La granja produjo una gran cantidad de avicultura para la temporada de fiestas. El año pasado, produjimos 10,000 pollos. Para el próximo año, produciremos incluso más.",
       "example_translation": "A fazenda produziu muita avicultura para a temporada de férias. No ano passado, produzimos 10.000 galinhas. No próximo ano, produziremos ainda mais.",
-      "imageLink": "poultry.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "poultry.jpg",
       "audioLink": "poultry.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Um mocho pequeno que habita florestas e bosques, caracterizado pelo seu pequeno tamanho e cabeça arredondada grande.",
       "example": "La lechuza pigmea estaba percha en una rama, observando su presa. Había estado observando durante horas, y finalmente, se lanzó. Ayer, atrapó un ratón, pero hoy, está cazando un conejo.",
       "example_translation": "O mocho-anão estava empoleirado em um galho, observando sua presa. Havia estado observando por horas, e finalmente, desceu. Ontem, pegou um rato, mas hoje, estava caçando um coelho.",
-      "imageLink": "pygmy-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pygmy-owl.jpg",
       "audioLink": "pygmy owl.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Um pequeno pássaro que vive no chão, frequentemente caçado por sua carne e ovos.",
       "example": "La codorniz voló fuera de los arbustos, asustada por la presencia del cazador. Habían estado criando todo el verano, y ahora, se estaban preparando para el invierno. El año pasado, migraron a climas más cálidos, pero este año, se quedarán.",
       "example_translation": "A codorniz voou para fora dos arbustos, assustada pela presença do caçador. Eles haviam estado se reproduzindo todo o verão, e agora, estavam se preparando para o inverno. No inverno passado, migraram para climas mais quentes, mas este ano, permanecerão.",
-      "imageLink": "quail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quail.jpg",
       "audioLink": "quail.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Um pássaro aquático com um pescoço vermelho distinto e cabeça preta, encontrado em ambientes aquáticos como lagos e rios.",
       "example": "El zambullidor cuellirrojo se zambulló en el lago, buscando peces. Había estado anidando en la orilla, y ahora, estaba enseñando a sus polluelos a nadar. El año pasado, el lago estaba seco, pero este año, está lleno de agua.",
       "example_translation": "O colhereiro-de-nuca-vermelha mergulhou no lago, procurando por peixes. Havia estado nidificando na praia, e agora, estava ensinando seus filhotes a nadar. No ano passado, o lago estava seco, mas este ano, estava cheio de água.",
-      "imageLink": "red-necked-grebe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red-necked-grebe.jpg",
       "audioLink": "red-necked grebe.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Um pequeno a médio tamanho pássaro migratório canoro com um corpo redondo e um peito vermelho distinto.",
       "example": "El petirrojo se posó en la rama, y luego voló. Cantará melodías dulces mañana. Ayer, había comido un gusano jugoso.",
       "example_translation": "O pombo sentou-se no galho, então voou embora. Ele cantará melodias doces amanhã. Ontem, ele havia comido um verme juvenil.",
-      "imageLink": "robin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "robin.jpg",
       "audioLink": "robin.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Um dispositivo cilíndrico ou esférico que gira ou se move sobre uma superfície, usado para aplainar ou moldar materiais.",
       "example": "La pintora usó un rodillo para aplicar la pintura de manera uniforme. Usará un rodillo más pequeño mañana para llegar a espacios estrechos. Ayer, había comprado un nuevo rodillo.",
       "example_translation": "O pintor usou um rolador para aplicar a tinta uniformemente. Ela usará um rolador menor amanhã para entrar em espaços apertados. Ontem, ela havia comprado um novo rolador.",
-      "imageLink": "roller.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "roller.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "Um pássaro comum da família dos corvos, com uma plumagem preta e um chamado distinto.",
       "example": "El cuervo voló por encima, graznando fuerte. Construirá un nido mañana. Ayer, había robado comida de una granja cercana.",
       "example_translation": "A gralha voou acima, grasnando alto. Ela construirá um ninho amanhã. Ontem, ela havia roubado comida de uma fazenda vizinha.",
-      "imageLink": "rook.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rook.jpg",
       "audioLink": "rook.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "Um pequeno a médio tamanho pardal, conhecido por sua plumagem amarela brilhante e marrom.",
       "example": "El jilguero se posó en la comida para pájaros, comiendo semillas. Visitará el parque mañana. Ayer, había volado hacia el sur para pasar el invierno.",
       "example_translation": "O lugre sentou-se no alimentador, comendo sementes. Ele visitará o parque amanhã. Ontem, ele havia voado para o sul para o inverno.",
-      "imageLink": "siskin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "siskin.jpg",
       "audioLink": "siskin.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "Um pássaro de costa de bico longo, camuflado, encontrado em áreas úmidas e gramados, conhecido por seu voo rápido e exibição de cortejo distinta.",
       "example": "El cazador esperó pacientemente a que la aguja saliera volando, entonces rápidamente levantó su rifle para apuntar. Ayer, había visto una aguja en el pantano, y ahora estaba esperando a que reapareciera. Para la próxima temporada, espera haber cazado unas cuantas agujas.",
       "example_translation": "O caçador esperou pacientemente pelo narceja decolar, então rapidamente levantou sua espingarda para mirar. Ontem, ele havia avistado um narceja no brejo e agora estava esperando que reaparecesse. Até a próxima temporada, ele espera ter capturado alguns narcejais.",
-      "imageLink": "snipe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snipe.jpg",
       "audioLink": "snipe.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "Um pequeno falcão rápido que se reproduz em árvores e caça pequenos pássaros, muitas vezes capturados em pleno ar.",
       "example": "El gavilán se lanzó desde la copa de los árboles, sus garras afiladas extendidas, y atrapó a un desprevenido gorrión del aire. Ayer, un gavilán había sido visto sobrevolando, escaneando el suelo debajo en busca de su próxima comida. Para la primavera, el gavilán habrá construido su nido en el viejo roble.",
       "example_translation": "O espar-relhão mergulhou lá do alto das copas das árvores, suas garras afiadas estendidas, e arrancou um pardal desavisado do ar. Ontem, um espar-relhão havia sido avistado planando sobre a cabeça, escaneando o solo abaixo em busca de sua próxima refeição. Até a primavera, o espar-relhão terá construído seu ninho na velha árvore de carvalho.",
-      "imageLink": "sparrowhawk.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sparrowhawk.jpg",
       "audioLink": "sparrowhawk.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Um pássaro migratório com uma aparência distinta preta e branca, conhecido por seu voo ágil e habilidade de capturar insetos em pleno ar.",
       "example": "El papamoscas revoloteó de rama en rama, sus ojos rápidos escaneando el aire en busca de su próxima comida. Ayer, un papamoscas había sido visto posado en un cable de teléfono, observando el mundo que le rodeaba. Para el verano, el papamoscas habrá regresado a sus territorios de anidación en el bosque cercano.",
       "example_translation": "O papa-moscas-pintado voou de ramo em ramo, seus olhos rápidos escaneando o ar em busca de sua próxima refeição. Ontem, um papa-moscas-pintado havia sido visto sentado em um fio de telefone, assistir o mundo passar. Até o verão, o papa-moscas-pintado terá retornado às suas terras de nidificação na floresta vizinha.",
-      "imageLink": "spotted-flycatcher.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spotted-flycatcher.jpg",
       "audioLink": "spotted flycatcher.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Um pássaro de tamanho médio com uma cabeça listrada preta e branca distinta, conhecido por sua habilidade de quebrar nozes usando seu bico forte.",
       "example": "El cascanueces se sentó en el suelo del bosque, su pico fuerte abriendo una nuez con facilidad. Ayer, un cascanueces había sido visto almacenando nueces en varios lugares del bosque. Para el otoño, el cascanueces habrá acumulado suficientes nueces para durar el invierno.",
       "example_translation": "O quebra-nozze-pintado sentou-se no chão da floresta, seu bico forte quebrando uma noz com facilidade. Ontem, um quebra-nozze-pintado havia sido visto armazenando nozes em vários lugares ao redor da floresta. Até o outono, o quebra-nozze-pintado terá armazenado nozes suficientes para durar o inverno.",
-      "imageLink": "spotted-nutcracker.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spotted-nutcracker.jpg",
       "audioLink": "spotted nutcracker.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Um estorninho é um tipo de ave que pertence à família Sturnidae. É conhecido por suas penas iridescentes e habilidade de imitar o discurso humano.",
       "example": "El estornino se posó en el alféizar de la ventana ayer, pero se irá mañana por la mañana. Hoy, está cantando una hermosa canción.",
       "example_translation": "O estorninho pousou no peitoril da janela ontem, mas irá voar embora amanhã de manhã. Hoje, está cantando uma bela canção.",
-      "imageLink": "starling.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "starling.jpg",
       "audioLink": "starling.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Uma andorinha é uma ave pequena e ágil que é conhecida por sua velocidade e habilidades aeróbicas. É frequentemente vista voando em um movimento rápido e amplo.",
       "example": "La golondrina construyó su nido debajo de los aleros de la casa el verano pasado, y lo reconstruirá la próxima primavera. Ahora, está migrando a un clima más cálido.",
       "example_translation": "A andorinha construiu seu ninho sob as beiradas da casa no verão passado, e irá reconstruí-lo na próxima primavera. Agora, está migrando para um clima mais quente.",
-      "imageLink": "swallow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swallow.jpg",
       "audioLink": "swallow.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Um lírio é um tipo de ave que é conhecido por sua voo rápido e agilidade. É frequentemente visto voando em grupos, realizando manobras acrobáticas.",
       "example": "El vencejo voló rápidamente sobre los campos ayer, y sobrevolará los cielos mañana por la mañana. Hoy, está posado en un árbol cercano.",
       "example_translation": "O lírio voou rapidamente sobre os campos ontem, e irá pairar sobre os céus amanhã de manhã. Hoje, está pousado em uma árvore próxima.",
-      "imageLink": "swift.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swift.jpg",
       "audioLink": "swift.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "Uma coruja é um tipo de coruja que é conhecida por seus chamados NOTurnos característicos e hábitos noturnos. É frequentemente vista pousada em árvores, vigiando por presas.",
       "example": "La lechuza ululó fuerte en el bosque anoche, y observará en silencio su entorno mañana por la tarde. Hoy, está descansando en su nido.",
       "example_translation": "A coruja gritou alto na floresta na noite passada, e irá observar silenciosamente seu entorno amanhã à noite. Hoje, está descansando em seu ninho.",
-      "imageLink": "tawny-owl.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tawny-owl.jpg",
       "audioLink": "tawny owl.mp3"
     }
   ]

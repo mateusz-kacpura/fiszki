@@ -9,7 +9,7 @@
       "definition_translation": "czując się zmęczonym i niezadowolonym, ponieważ coś nie jest interesujące",
       "example": "I'm bored with this movie, let's watch something else.",
       "example_translation": " Jestem znudzony tym filmem, zobaczmy coś innego.",
-      "imageLink": "image_files\\English\\bored.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bored.jpg",
       "audioLink": "audio_files\\English\\bored.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "wywołujący uczucie bezsilności i braku zainteresowania",
       "example": "The lecture was so boring that I fell asleep.",
       "example_translation": "Wykład był tak nudny, że zapadłem w sen.",
-      "imageLink": "image_files\\English\\boring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boring.jpg",
       "audioLink": "audio_files\\English\\boring.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "mający lub pokazujący zdolność szybkiego i łatwego uczenia się i rozumienia rzeczy",
       "example": "She's a clever girl and can fix a computer in no time.",
       "example_translation": "Ona jest zaradną dziewczyną i może nakładać komputer za chwilę.",
-      "imageLink": "image_files\\English\\clever.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clever.jpg",
       "audioLink": "audio_files\\English\\clever.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "trudny do wykonania lub zrozumienia",
       "example": "The math problem was difficult to solve.",
       "example_translation": "Problem matematyczny był trudny do rozwiązania.",
-      "imageLink": "image_files\\English\\difficult.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "difficult.jpg",
       "audioLink": "audio_files\\English\\difficult.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "czując lub pokazując entuzjazm i gorliwość",
       "example": "I'm excited to go to the concert tonight.",
       "example_translation": "Jestem zachwycony, że idę na koncert dziś wieczorem.",
-      "imageLink": "image_files\\English\\excited.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "excited.jpg",
       "audioLink": "audio_files\\English\\excited.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "wywołujący uczucie wielkiego entuzjazmu i gorliwości",
       "example": "The exciting news spread quickly through the city.",
       "example_translation": "Ekscytująca wiadomość szybko rozprzestrzeniła się po mieście.",
-      "imageLink": "image_files\\English\\exciting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exciting.jpg",
       "audioLink": "audio_files\\English\\exciting.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "bardzo znany i szanowany przez wielu ludzi",
       "example": "He's a famous actor.",
       "example_translation": "On jest sławnym aktorem.",
-      "imageLink": "image_files\\English\\famous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "famous.jpg",
       "audioLink": "audio_files\\English\\famous.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "rozśmieszający lub komediowy",
       "example": "The comedy show was so funny that I laughed out loud.",
       "example_translation": "Program komediowy był tak śmieszny, że wybuchłem śmiechem.",
-      "imageLink": "image_files\\English\\funny.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "funny.jpg",
       "audioLink": "audio_files\\English\\funny.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "czując się zmęczonym i niezadowolonym, ponieważ coś nie jest interesujące",
       "example": "I'm bored with this movie.",
       "example_translation": " Jestem znudzony tym filmem.",
-      "imageLink": "image_files\\English\\bored.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bored.jpg",
       "audioLink": "audio_files\\English\\bored.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "wywołujący uczucie bezsiły i brak zainteresowania",
       "example": "The movie was boring, so I fell asleep.",
       "example_translation": "Film był nudny, więc zasnęłem.",
-      "imageLink": "image_files\\English\\boring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boring.jpg",
       "audioLink": "audio_files\\English\\boring.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Mający lub pokazujący szybką i wynalazczą umysł; zdolny do znalezienia inteligentnych rozwiązań problemów.",
       "example": "She was a clever student who always found a way to solve the math problems.",
       "example_translation": "Ona była uczoną uczennicą, która zawsze znajdowała sposób na rozwiązanie problemów matematycznych.",
-      "imageLink": "image_files\\English\\clever.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clever.jpg",
       "audioLink": "audio_files\\English\\clever.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "trudne do wykonania, zrozumienia lub osiągnięcia",
       "example": "Learning a new language is a difficult task.",
       "example_translation": "Uczenie się nowego języka jest trudnym zadaniem.",
-      "imageLink": "image_files\\English\\difficult.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "difficult.jpg",
       "audioLink": "audio_files\\English\\difficult.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "czując się entuzjastycznie i chętnie",
       "example": "I'm excited to go to the concert tonight.",
       "example_translation": "Jestem zachwycony, że idę na koncert dziś wieczorem.",
-      "imageLink": "image_files\\English\\excited.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "excited.jpg",
       "audioLink": "audio_files\\English\\excited.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "powodujący uczucia entuzjazmu i chęci",
       "example": "The new rollercoaster was exciting and terrifying at the same time.",
       "example_translation": "Nowy rollercoaster był ciekawy i przerażający jednocześnie.",
-      "imageLink": "image_files\\English\\exciting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exciting.jpg",
       "audioLink": "audio_files\\English\\exciting.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "znany i szanowany ze względu na coś, co zrobiłeś",
       "example": "He's a famous actor.",
       "example_translation": "On jest sławnym aktorem.",
-      "imageLink": "image_files\\English\\famous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "famous.jpg",
       "audioLink": "audio_files\\English\\famous.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Wygłupiający lub zabawny; komiczny.",
       "example": "The comedian told a funny joke that made everyone laugh.",
       "example_translation": "Komik opowiedział śmieszną żart, który sprawił, że wszyscy się roześmieli.",
-      "imageLink": "image_files\\English\\funny.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "funny.jpg",
       "audioLink": "audio_files\\English\\funny.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Mający pozytywną jakość lub charakter; moralnie wyśmienity",
       "example": "He's a good listener.",
       "example_translation": "On jest dobrym słuchaczem.",
-      "imageLink": "image_files\\English\\good-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "good-1.jpg",
       "audioLink": "audio_files\\English\\good.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "odczuwający lub pokazujący przyjemność lub zadowolenie",
       "example": "I'm so happy to see you again.",
       "example_translation": " Jestem tak szczęśliwy, że znów cię widzę.",
-      "imageLink": "image_files\\English\\happy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "happy.jpg",
       "audioLink": "audio_files\\English\\happy.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Budzący ciekawość lub zainteresowanie; fascynujący.",
       "example": "The movie was so interesting that I didn't want it to end.",
       "example_translation": "Film był tak ciekawy, że nie chciałem, aby się skończył.",
-      "imageLink": "image_files\\English\\interesting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "interesting.jpg",
       "audioLink": "audio_files\\English\\interesting.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "dający przyjemność lub zadowolenie; miły.",
       "example": "He's a very nice person.",
       "example_translation": "On jest bardzo miłym człowiekiem.",
-      "imageLink": "image_files\\English\\nice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nice.jpg",
       "audioLink": "audio_files\\English\\nice.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "czując się niezadowolonym lub żałosnym",
       "example": "I'm sad that I won't be able to attend the party.",
       "example_translation": "Jestem smutny, że nie będę mógł uczestniczyć w imprezie.",
-      "imageLink": "image_files\\English\\sad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sad.jpg",
       "audioLink": "audio_files\\English\\sad.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Czując potrzebę odpoczynku lub snu.",
       "example": "I'm tired after running 5 miles.",
       "example_translation": "Jestem zmęczony po przebiegnięciu 5 mil.",
-      "imageLink": "image_files\\English\\tired.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tired.jpg",
       "audioLink": "audio_files\\English\\tired.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "nie zwracający uwagi na rzeczy wokół siebie, ponieważ myślisz o czymś innym",
       "example": "She was so absent-minded that she forgot her keys at home.",
       "example_translation": "Była tak rozkojarzona, że zapomniała kluczy w domu.",
-      "imageLink": "image_files\\English\\absent-minded.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "absent-minded.jpg",
       "audioLink": "audio_files\\English\\absent-minded.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "odczuwanie strachu lub niepokoju",
       "example": "I'm afraid of spiders.",
       "example_translation": "Boję się pająków.",
-      "imageLink": "image_files\\English\\afraid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "afraid.jpg",
       "audioLink": "audio_files\\English\\afraid.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "czując lub pokazując silne irytację lub niezadowolenie",
       "example": "She was angry with her brother for breaking her toy.",
       "example_translation": "Była wściekła na brata, że zepsuł jej zabawkę.",
-      "imageLink": "image_files\\English\\angry.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "angry.jpg",
       "audioLink": "audio_files\\English\\angry.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "mając lub pokazując wielką dbałość o szczegóły, aby uniknąć błędów lub ryzyka",
       "example": "Be careful when crossing the road.",
       "example_translation": "Bądź ostrożny, gdy przechodzisz przez jezdnię.",
-      "imageLink": "image_files\\English\\careful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "careful.jpg",
       "audioLink": "audio_files\\English\\careful.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "umiarkowanie zimny w temperaturze",
       "example": "The cool breeze made me feel relaxed.",
       "example_translation": "Fajny wiatr sprawił, że czułem się zrelaksowany.",
-      "imageLink": "image_files\\English\\cool-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cool-1.jpg",
       "audioLink": "audio_files\\English\\cool.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "niezdrowy psychicznie; nadmiernie entuzjastyczny",
       "example": "He's been acting crazy all day.",
       "example_translation": "Dziś cały dzień zachowywał się szaleńczo.",
-      "imageLink": "image_files\\English\\crazy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crazy.jpg",
       "audioLink": "audio_files\\English\\crazy.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "pełny ryzyka lub mogący spowodować szkodę",
       "example": "Be careful, the road is dangerous.",
       "example_translation": "Uważaj, droga jest niebezpieczna.",
-      "imageLink": "image_files\\English\\dangerous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dangerous.jpg",
       "audioLink": "audio_files\\English\\dangerous.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "mający lub pokazujący miłą i zgodną naturę",
       "example": "She's been very friendly to me since I moved to the new town.",
       "example_translation": "OdKhiżem sięprzeprowadziłem do nowego miasta, była sangat przyjazna.",
-      "imageLink": "image_files\\English\\friendly-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "friendly-1.jpg",
       "audioLink": "audio_files\\English\\friendly.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "odczuwanie lub pokazywanie przyjemności lub szczęścia",
       "example": "I'm glad you're here.",
       "example_translation": "Cieszę się, że jesteś tutaj.",
-      "imageLink": "image_files\\English\\glad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "glad.jpg",
       "audioLink": "audio_files\\English\\glad.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "mający lub pokazujący zdolność do zaufania, aby zrobić to, co jest słuszne",
       "example": "He was an honest man who always told the truth.",
       "example_translation": "Był to uczciwy człowiek, który zawsze mówił prawdę.",
-      "imageLink": "image_files\\English\\honest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "honest.jpg",
       "audioLink": "audio_files\\English\\honest.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "czując ciekawość lub troskę o coś",
       "example": "I'm interested in learning more about space exploration.",
       "example_translation": "Jestem zainteresowany tym, aby dowiedzieć się więcej o eksploracji kosmosu.",
-      "imageLink": "image_files\\English\\interested.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "interested.jpg",
       "audioLink": "audio_files\\English\\interested.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "mający lub pokazujący łagodną i troskliwą naturę",
       "example": "She's a kind person who always helps others.",
       "example_translation": "Ona jest łagodną osobą, która zawsze pomaga innym.",
-      "imageLink": "image_files\\English\\kind.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kind.jpg",
       "audioLink": "audio_files\\English\\kind.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "niechętny do pracy lub podejmowania wysiłku",
       "example": "He's so lazy that he never wants to help with household chores.",
       "example_translation": "On jest tak leniwy, że nigdy nie chce pomóc z domowymi obowiązkami.",
-      "imageLink": "image_files\\English\\lazy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lazy.jpg",
       "audioLink": "audio_files\\English\\lazy.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "czując lub pokazując silny nastrój gniewu lub irytacji",
       "example": "He was mad at his brother for breaking his toy.",
       "example_translation": "Był szalony na brata, że złamał jego zabawkę.",
-      "imageLink": "image_files\\English\\mad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mad.jpg",
       "audioLink": "audio_files\\English\\mad.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "oczuciwo szczęścia i zadowolenia",
       "example": "I'm pleased to meet you.",
       "example_translation": "Cieszę się, że mogę cię poznać.",
-      "imageLink": "image_files\\English\\pleased.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pleased.jpg",
       "audioLink": "audio_files\\English\\pleased.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Posiadający lub wykazujący zachowanie, które jest szanujące i uwzględniające innych ludzi",
       "example": "She was always polite to her guests.",
       "example_translation": "Zawsze była uprzejma w stosunku do swoich gości.",
-      "imageLink": "image_files\\English\\polite.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "polite.jpg",
       "audioLink": "audio_files\\English\\polite.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Nie mających wystarczających środków lub zasobów, aby zaspokoić podstawowe potrzeby.",
       "example": "The poor family struggled to make ends meet.",
       "example_translation": "Uboga rodzina walczyła, aby związać koniec z końcem.",
-      "imageLink": "image_files\\English\\poor.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "poor.jpg",
       "audioLink": "audio_files\\English\\poor.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "nie robienie lub robienie bardzo mało hałasu",
       "example": "The quiet room was perfect for studying.",
       "example_translation": "Cicha sala była idealna do nauki.",
-      "imageLink": "image_files\\English\\quiet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quiet.jpg",
       "audioLink": "audio_files\\English\\quiet.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Dający wiele uwagi i rozważań nad czymś.",
       "example": "She has a serious expression on her face.",
       "example_translation": "Ona ma poważny wyraz twarzy.",
-      "imageLink": "image_files\\English\\serious.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "serious.jpg",
       "audioLink": "audio_files\\English\\serious.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "brakuje inteligencji lub zdrowego rozsądku",
       "example": "He made a stupid mistake.",
       "example_translation": "Zrobił głupi błąd.",
-      "imageLink": "image_files\\English\\stupid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stupid.jpg",
       "audioLink": "audio_files\\English\\stupid.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "odczuwający lub pokazujący, że nie spodziewałeś się, że coś się stanie",
       "example": "I was surprised by the news.",
       "example_translation": "Byłem zaskoczony wiadomością.",
-      "imageLink": "image_files\\English\\surprised.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "surprised.jpg",
       "audioLink": "audio_files\\English\\surprised.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "mający słodki smak lub zapach",
       "example": "The sweet aroma of freshly baked cookies filled the air.",
       "example_translation": "Słodki aromat świeżo upieczonej ciasteczki wypełniał powietrze.",
-      "imageLink": "image_files\\English\\sweet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweet.jpg",
       "audioLink": "audio_files\\English\\sweet.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "ładny i uporządkowany w wyglądzie lub naturze",
       "example": "She likes to keep her room tidy.",
       "example_translation": "Lubi trzymać swoją izbę uporządkowaną.",
-      "imageLink": "image_files\\English\\tidy-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tidy-1.jpg",
       "audioLink": "audio_files\\English\\tidy.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "czując się smutny lub niezadowolony",
       "example": "I've been unhappy with the service at this restaurant.",
       "example_translation": "Jestem niezadowolony z obsługi w tym restauracji.",
-      "imageLink": "image_files\\English\\unhappy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unhappy.jpg",
       "audioLink": "audio_files\\English\\unhappy.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "czując niepokój lub obawę o coś",
       "example": "I'm worried about the exam tomorrow.",
       "example_translation": "Martwię się o jutrzejszy egzamin.",
-      "imageLink": "image_files\\English\\worried.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "worried.jpg",
       "audioLink": "audio_files\\English\\worried.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "zaangażowany w działanie, operację lub aktywność",
       "example": "The company is active in several countries.",
       "example_translation": "Firma jest aktywna w kilku krajach.",
-      "imageLink": "image_files\\English\\active.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "active.jpg",
       "audioLink": "audio_files\\English\\active.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "czując wielkie zdziwienie lub zdumienie",
       "example": "I was amazed by the beauty of the Grand Canyon.",
       "example_translation": "Byłem zdumiony pięknem Wielkiego Kanionu.",
-      "imageLink": "image_files\\English\\amazed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amazed.jpg",
       "audioLink": "audio_files\\English\\amazed.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "niezwykle zaskakujący lub imponujący",
       "example": "The fireworks display was amazing.",
       "example_translation": "Pokaz fajerwerków był niesamowity.",
-      "imageLink": "image_files\\English\\amazing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amazing.jpg",
       "audioLink": "audio_files\\English\\amazing.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "w sposób bardzo zły lub gorzki",
       "example": "She spoke angrily to her brother.",
       "example_translation": "Ona złośliwie powiedziała do brata.",
-      "imageLink": "image_files\\English\\angrily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "angrily.jpg",
       "audioLink": "audio_files\\English\\angrily.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "czując lub pokazując irytację lub niezadowolenie",
       "example": "I was annoyed by the noise from the party next door.",
       "example_translation": "Byłem zirytowany hałasem z przyjęcia sąsiadów.",
-      "imageLink": "image_files\\English\\annoyed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "annoyed.jpg",
       "audioLink": "audio_files\\English\\annoyed.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "powodujący uczucia wielkiej frustracji lub irytacji",
       "example": "The annoying sound of the alarm clock woke me up.",
       "example_translation": "Irytujący dźwięk budzika obudził mnie.",
-      "imageLink": "image_files\\English\\annoying.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "annoying.jpg",
       "audioLink": "audio_files\\English\\annoying.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "czując się zdenerwowanym lub nerwowym ze względu na coś",
       "example": "I'm anxious about the exam.",
       "example_translation": " Jestem zdenerwowany egzaminem.",
-      "imageLink": "image_files\\English\\anxious.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "anxious.jpg",
       "audioLink": "audio_files\\English\\anxious.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "pokazujący odwagę lub siłę w obliczu niebezpieczeństwa lub trudności",
       "example": "He was brave enough to jump out of the plane.",
       "example_translation": "Był odważny enough, aby wyskoczyć z samolotu.",
-      "imageLink": "image_files\\English\\brave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brave.jpg",
       "audioLink": "audio_files\\English\\brave.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "w sposób odważny lub dzielny",
       "example": "She spoke bravely about her experiences.",
       "example_translation": "Ona mówiła odważnie o swoich doświadczeniach.",
-      "imageLink": "image_files\\English\\bravely-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bravely-1.jpg",
       "audioLink": "audio_files\\English\\bravely.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "wyjątkowo utalentowany lub imponujący",
       "example": "The brilliant scientist discovered a new planet.",
       "example_translation": "Błyskotliwy naukowiec odkrył nową planetę.",
-      "imageLink": "image_files\\English\\brilliant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brilliant.jpg",
       "audioLink": "audio_files\\English\\brilliant.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "nie wykazujący lub nie odczuwający niepokoju lub ekscytacji",
       "example": "She remained calm during the crisis.",
       "example_translation": "Pozostała spokojna podczas kryzysu.",
-      "imageLink": "image_files\\English\\calm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "calm.jpg",
       "audioLink": "audio_files\\English\\calm.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "czując się szczęśliwym i rozluźnionym, bez trosk",
       "example": "She's a carefree spirit, always up for an adventure.",
       "example_translation": "Ona jest beztroskim duchem, zawsze gotowym do przygody.",
-      "imageLink": "image_files\\English\\carefree.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carefree.jpg",
       "audioLink": "audio_files\\English\\carefree.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "nie mając lub pokazując brak uwagi lub myśli",
       "example": "He was careless with his money and ended up in debt.",
       "example_translation": "On był nieostrożny z jego pieniędzmi i w końcu zbankrutował.",
-      "imageLink": "image_files\\English\\careless.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "careless.jpg",
       "audioLink": "audio_files\\English\\careless.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "przyjemny lub atrakcyjny, często w sposób subtelny",
       "example": "She has a charming smile.",
       "example_translation": "Ona ma urokliwy uśmiech.",
-      "imageLink": "image_files\\English\\charming.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "charming.jpg",
       "audioLink": "audio_files\\English\\charming.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "mający lub wyrażający przyjemny i optymistyczny punkt widzenia",
       "example": "She's a cheerful person and always makes us laugh.",
       "example_translation": "Ona jest wesołą osobą i zawsze sprawia, że się śmiejemy.",
-      "imageLink": "image_files\\English\\cheerful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cheerful.jpg",
       "audioLink": "audio_files\\English\\cheerful.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "mający niską temperaturę",
       "example": "It's cold outside, wear a coat.",
       "example_translation": "Na zewnątrz jest zimno, załóż płaszcz.",
-      "imageLink": "image_files\\English\\cold.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cold.jpg",
       "audioLink": "audio_files\\English\\cold.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "czując niepewność lub niejasność co do czegoś",
       "example": "I was confused by the instructions.",
       "example_translation": "Byłem zdezorientowany przez instrukcje.",
-      "imageLink": "image_files\\English\\confused.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "confused.jpg",
       "audioLink": "audio_files\\English\\confused.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Mający zdolność tworzenia nowych i oryginalnych pomysłów.",
       "example": "The artist was very creative with her use of colors.",
       "example_translation": "Artystka była bardzo kreatywna w swoim użyciu kolorów.",
-      "imageLink": "image_files\\English\\creative.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "creative.jpg",
       "audioLink": "audio_files\\English\\creative.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": " Powodujący ból lub cierpienie, często w sposób świadomy i celowy",
       "example": "The cruel dictator tortured his enemies.",
       "example_translation": "Okрутny dyktator torturował swoich wrogów.",
-      "imageLink": "image_files\\English\\cruel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cruel.jpg",
       "audioLink": "audio_files\\English\\cruel.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "mający pragnienie nauki lub wiedzy o czymś",
       "example": "She was curious about the new exhibition at the museum.",
       "example_translation": "Była ciekawa nowej wystawy w muzeum.",
-      "imageLink": "image_files\\English\\curious.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curious.jpg",
       "audioLink": "audio_files\\English\\curious.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "W sposób ciekawy; z ciekawością",
       "example": "She curiously opened the door to see what was inside.",
       "example_translation": "Ona ciekawie otworzyła drzwi, aby zobaczyć, co było w środku.",
-      "imageLink": "image_files\\English\\curiously.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curiously.jpg",
       "audioLink": "audio_files\\English\\curiously.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "czując lub pokazując wielką przyjemność lub rozrywkę",
       "example": "I was delighted with the surprise party.",
       "example_translation": "Byłem zachwycony surprizową imprezą.",
-      "imageLink": "image_files\\English\\delighted.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "delighted.jpg",
       "audioLink": "audio_files\\English\\delighted.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "czując się niezadowolonym i bez nadziei",
       "example": "She felt depressed after losing her job.",
       "example_translation": "Ona czuła się zdepresowana po utracie pracy.",
-      "imageLink": "image_files\\English\\depressed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "depressed.jpg",
       "audioLink": "audio_files\\English\\depressed.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "czując się niezadowolony lub zawiedziony, ponieważ coś nie nastąpiło lub nie jest tak dobre, jak się spodziewało",
       "example": "I was disappointed with the movie, it was not as good as I expected.",
       "example_translation": "Byłem rozczarowany filmem, nie był tak dobry, jak się spodziewałem.",
-      "imageLink": "image_files\\English\\disappointed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disappointed.jpg",
       "audioLink": "audio_files\\English\\disappointed.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "nie spełniający oczekiwań lub standardów satysfakcji",
       "example": "The movie was disappointing, I expected more action.",
       "example_translation": "Film był rozczarowujący, oczekiwałem więcej akcji.",
-      "imageLink": "image_files\\English\\disappointing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disappointing.jpg",
       "audioLink": "audio_files\\English\\disappointing.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "mający luzacką i swobodną postawę",
       "example": "He's an easy-going person, always ready to help.",
       "example_translation": "On jest łatwo uwodzącą osobą, zawsze gotową do pomocy.",
-      "imageLink": "image_files\\English\\easygoing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "easygoing.jpg",
       "audioLink": "audio_files\\English\\easy-going.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "czując się zawstydzony lub niepewny, często z powodu czegoś, co zrobiłeś",
       "example": "I was embarrassed when I tripped on the stairs.",
       "example_translation": "Byłem zawstydzony, kiedy potknąłem się na schodach.",
-      "imageLink": "image_files\\English\\embarrassed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embarrassed.jpg",
       "audioLink": "audio_files\\English\\embarrassed.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "wywołujący uczucie wstydu lub zakłopotania",
       "example": "The embarrassing moment was caught on camera.",
       "example_translation": "Zakłopotany moment został zarejestrowany przez kamerę.",
-      "imageLink": "image_files\\English\\embarrassing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embarrassing.jpg",
       "audioLink": "audio_files\\English\\embarrassing.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Dając wyraźną przyjemność lub satysfakcję",
       "example": "The beautiful scenery made the hike truly enjoyable.",
       "example_translation": "Piękne krajobrazy uczyniły wędrówkę prawdziwie przyjemną.",
-      "imageLink": "image_files\\English\\enjoyable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "enjoyable.jpg",
       "audioLink": "audio_files\\English\\enjoyable.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "w sposób pokazujący entuzjastyczne i żywe zainteresowanie",
       "example": "The kids were talking excitedly about their upcoming vacation.",
       "example_translation": "Dzieci rozmawiały z entuzjazmem o swoich nadchodzących wakacjach.",
-      "imageLink": "image_files\\English\\excitedly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "excitedly.jpg",
       "audioLink": "audio_files\\English\\excitedly.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "nadzwyczajnie zmęczony lub pozbawiony energii",
       "example": "After running a marathon, I felt exhausted.",
       "example_translation": "Po ukończeniu maratonu, czułem się wyczerpany.",
-      "imageLink": "image_files\\English\\exhausted.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exhausted.jpg",
       "audioLink": "audio_files\\English\\exhausted.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "posiadający wiedzę lub umiejętność zdobytą przez praktykę lub doświadczenie",
       "example": "She's an experienced teacher, so she knows how to handle difficult students.",
       "example_translation": "Ona jest doświadczonym nauczycielem, więc wie, jak obsłużyć trudnych uczniów.",
-      "imageLink": "image_files\\English\\experienced.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "experienced.jpg",
       "audioLink": "audio_files\\English\\experienced.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "mający tendencję do zapominania rzeczy",
       "example": "My grandma is forgetful, she always forgets where she puts her keys.",
       "example_translation": "Moja babcia jest rozproszona, zawsze zapomina, gdzie wkłada klucze.",
-      "imageLink": "image_files\\English\\forgetful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forgetful.jpg",
       "audioLink": "audio_files\\English\\forgetful.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "odczuwający strach lub niepokój",
       "example": "The child was frightened by the loud noise.",
       "example_translation": "Dziecko było przestraszone przez głośny hałas.",
-      "imageLink": "image_files\\English\\frightened.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "frightened.jpg",
       "audioLink": "audio_files\\English\\frightened.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Chętnie dający swój czas lub pieniądze.",
       "example": "He was a generous donor to various charities.",
       "example_translation": "Był hojnym dawcą dla różnych organizacji charytatywnych.",
-      "imageLink": "image_files\\English\\generous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "generous.jpg",
       "audioLink": "audio_files\\English\\generous.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "mający łagodną lub uspokajającą jakość",
       "example": "She has a gentle touch with animals.",
       "example_translation": "Ona ma łagodne podejście do zwierząt.",
-      "imageLink": "image_files\\English\\gentle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gentle.jpg",
       "audioLink": "audio_files\\English\\gentle.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "wyrażający lub pokazujący wdzięczność za coś",
       "example": "I'm grateful for your help.",
       "example_translation": "Jestem wdzięczny za Twoją pomoc.",
-      "imageLink": "image_files\\English\\grateful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grateful.jpg",
       "audioLink": "audio_files\\English\\grateful.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "czując lub pokazując skruchę za popełnione złego",
       "example": "He felt guilty for lying to his parents.",
       "example_translation": "Czuł się winnym, że skłamał swoim rodzicom.",
-      "imageLink": "image_files\\English\\guilty.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guilty.jpg",
       "audioLink": "audio_files\\English\\guilty.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "w szczęśliwy sposób",
       "example": "She smiled happily at the news.",
       "example_translation": "Uśmiechnęła się szczęśliwie, gdy usłyszała wiadomość.",
-      "imageLink": "image_files\\English\\happily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "happily.jpg",
       "audioLink": "audio_files\\English\\happily.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Udzielający pomocy lub wsparcia",
       "example": "She was very helpful during the project.",
       "example_translation": "Była bardzo pomocna podczas projektu.",
-      "imageLink": "image_files\\English\\helpful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "helpful.jpg",
       "audioLink": "audio_files\\English\\helpful.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "mający uczucie optymizmu lub oczekiwania co do przyszłości",
       "example": "She was hopeful that she would get the job.",
       "example_translation": "Była pełna nadziei, że dostanie pracę.",
-      "imageLink": "image_files\\English\\hopeful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hopeful.jpg",
       "audioLink": "audio_files\\English\\hopeful.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "nie mający nadziei lub możliwości poprawy",
       "example": "The situation was hopeless, and we had to give up.",
       "example_translation": "Sytuacja była beznadziejna, i musieliśmy się poddać.",
-      "imageLink": "image_files\\English\\hopeless.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hopeless.jpg",
       "audioLink": "audio_files\\English\\hopeless.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "powodować ból lub obrażenia komuś lub czemuś",
       "example": "The fall hurt my knee.",
       "example_translation": "Upadek bolał moje kolano.",
-      "imageLink": "image_files\\English\\hurt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hurt.jpg",
       "audioLink": "audio_files\\English\\hurt.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "mający silne uczucie miłości lub sympatii dla kogoś",
       "example": "I've been in love with her since I met her.",
       "example_translation": "Byłem zakochany w niej, odkąd ją poznałem.",
-      "imageLink": "image_files\\English\\in-love.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "in-love.jpg",
       "audioLink": "audio_files\\English\\in love.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "płacząc lub płakał tak mycket, że łzy płyną z oczu",
       "example": "She was in tears when she heard the news.",
       "example_translation": "Była w łzach, gdy usłyszała wiadomość.",
-      "imageLink": "image_files\\English\\in-tears.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "in-tears.jpg",
       "audioLink": "audio_files\\English\\in tears.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "posiadający zdolność do uczenia się lub rozumienia lub radzenia sobie z nowymi lub trudnymi sytuacjami",
       "example": "She's an intelligent student who always asks thought-provoking questions.",
       "example_translation": "Ona jest inteligentną studentką, która zawsze zadaje prowokujące pytania.",
-      "imageLink": "image_files\\English\\intelligent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "intelligent.jpg",
       "audioLink": "audio_files\\English\\intelligent.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "odczuwając lub pokazując intensywne i często nieuzasadnione pragnienie posiadania czegoś, co należy do kogoś innego",
       "example": "She felt jealous when her boyfriend talked to another girl.",
       "example_translation": "Czuła się zazdrosna, gdy jej chłopak rozmawiał z inną dziewczyną.",
-      "imageLink": "image_files\\English\\jealous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jealous.jpg",
       "audioLink": "audio_files\\English\\jealous.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "mający silne i entuzjastyczne zainteresowanie czymś",
       "example": "She's very keen on hiking.",
       "example_translation": "Ona jest bardzo zainteresowana wspinaczką.",
-      "imageLink": "image_files\\English\\keen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "keen.jpg",
       "audioLink": "audio_files\\English\\keen.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "w sposób łagodny i uprzejmy",
       "example": "She smiled kindly at the child.",
       "example_translation": "Uśmiechnęła się uprzejmie do dziecka.",
-      "imageLink": "image_files\\English\\kindly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kindly.jpg",
       "audioLink": "audio_files\\English\\kindly.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "pełen energii i entuzjazmu",
       "example": "The lively crowd cheered as the band took the stage.",
       "example_translation": "Żywiołowy tłum wiwatował, gdy zespół wszedł na scenę.",
-      "imageLink": "image_files\\English\\lively.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lively.jpg",
       "audioLink": "audio_files\\English\\lively.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "nie mając przyjaciół lub towarzyszy; smutny i nieszczęśliwy z tego powodu",
       "example": "I feel lonely when I'm away from my family.",
       "example_translation": "Czuję się samotny, gdy jestem daleko od mojej rodziny.",
-      "imageLink": "image_files\\English\\lonely.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lonely.jpg",
       "audioLink": "audio_files\\English\\lonely.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "mający lub pokazujący tendencję do nagłych lub częstych zmian nastroju",
       "example": "She's very moody and can be quite difficult to deal with.",
       "example_translation": "Jest bardzo nastrojowa i może być dość trudna do obsługi.",
-      "imageLink": "image_files\\English\\moody.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "moody.jpg",
       "audioLink": "audio_files\\English\\moody.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "nie mając żadnych pozytywnych cech lub jakości",
       "example": "The negative review discouraged me from buying the product.",
       "example_translation": "Negatywna opinia zniechęciła mnie do zakupu produktu.",
-      "imageLink": "image_files\\English\\negative.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "negative.jpg",
       "audioLink": "audio_files\\English\\negative.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "czując się nerwowo lub zmartwiony",
       "example": "She felt nervous before the interview.",
       "example_translation": "Ona czuła się nerwowo przed rozmową o pracę.",
-      "imageLink": "image_files\\English\\nervous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nervous.jpg",
       "audioLink": "audio_files\\English\\nervous.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Osoba otrzymująca opiekę medyczną, leczenie lub uwagę od lekarza lub innego świadczeniodawcy.",
       "example": "The doctor examined the patient carefully.",
       "example_translation": "Lekarz dokładnie zbadał pacjenta.",
-      "imageLink": "image_files\\English\\patient.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "patient.jpg",
       "audioLink": "audio_files\\English\\patient.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "w sposób uprzejmy",
       "example": "She spoke politely to the customer.",
       "example_translation": "Mówiła uprzejmie do klienta.",
-      "imageLink": "image_files\\English\\politely.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "politely.jpg",
       "audioLink": "audio_files\\English\\politely.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Mający lub zdolny do wywierania wielkiej mocy lub siły",
       "example": "The powerful engine of the car allowed it to accelerate quickly.",
       "example_translation": "Potężny silnik samochodu pozwolił mu przyspieszyć szybko.",
-      "imageLink": "image_files\\English\\powerful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "powerful.jpg",
       "audioLink": "audio_files\\English\\powerful.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "czując się zadowolonym i zadowolonym z czegoś, co zrobiłeś lub czegoś o sobie",
       "example": "I'm proud of my achievements.",
       "example_translation": "Jestem dumny ze swoich osiągnięć.",
-      "imageLink": "image_files\\English\\proud.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "proud.jpg",
       "audioLink": "audio_files\\English\\proud.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "mający lub pokazujący skłonność do kłótni; lubiący się spierać lub walczyć",
       "example": "He's a quarrelsome person who always picks fights with others.",
       "example_translation": "To kłótliwa osoba, która altijd wybucha się z innymi.",
-      "imageLink": "image_files\\English\\quarrelsome.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quarrelsome.jpg",
       "audioLink": "audio_files\\English\\quarrelsome.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "wolny od napięcia lub lęku",
       "example": "After a long bath, I felt relaxed.",
       "example_translation": "Po długiej kąpieli, czułem się rozluźniony.",
-      "imageLink": "image_files\\English\\relaxed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "relaxed.jpg",
       "audioLink": "audio_files\\English\\relaxed.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "wywołując uczucie spokoju i redukując stres",
       "example": "The beach was so relaxing that I fell asleep.",
       "example_translation": "Plaża była tak relaksująca, że zasnąłem.",
-      "imageLink": "image_files\\English\\relaxing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "relaxing.jpg",
       "audioLink": "audio_files\\English\\relaxing.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Możliwy do zaufania, aby zrobić lub dostarczyć to, czego potrzebujemy.",
       "example": "This is a reliable car, it never breaks down.",
       "example_translation": "To jest niezawodny samochód, nigdy nie psuje się.",
-      "imageLink": "image_files\\English\\reliable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "reliable.jpg",
       "audioLink": "audio_files\\English\\reliable.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "dotyczący lub charakteryzujący się emocjonalnym lub sentymentalnym przywiązaniem do czegoś",
       "example": "The couple had a romantic dinner on the beach.",
       "example_translation": "Para miała romantyczną kolację na plaży.",
-      "imageLink": "image_files\\English\\romantic.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "romantic.jpg",
       "audioLink": "audio_files\\English\\romantic.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": " Nie mając lub nie pokazując żadnych manier lub szacunku",
       "example": "He was rude to the waitress.",
       "example_translation": "Był nieuprzejmy wobec kelnerki.",
-      "imageLink": "image_files\\English\\rude.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rude.jpg",
       "audioLink": "audio_files\\English\\rude.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "odczuwać lub pokazywać przyjemność lub zadowolenie",
       "example": "She was satisfied with her new job.",
       "example_translation": "Była zadowolona ze swoją nową pracą.",
-      "imageLink": "image_files\\English\\satisfied.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "satisfied.jpg",
       "audioLink": "audio_files\\English\\satisfied.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "czując strach lub lęk",
       "example": "I was scared of the thunderstorm.",
       "example_translation": "Bałem się burzy.",
-      "imageLink": "image_files\\English\\scared.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scared.jpg",
       "audioLink": "audio_files\\English\\scared.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "wywołujący strach lub alarm",
       "example": "The scary movie made me jump out of my seat.",
       "example_translation": "Przerażający film sprawił, że wyskoczyłem z krzesła.",
-      "imageLink": "image_files\\English\\scary.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scary.jpg",
       "audioLink": "audio_files\\English\\scary.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "mający lub pokazujący ufność w swoich własnych zdolnościach lub osądzie",
       "example": "She's a self-confident public speaker and always gets her point across.",
       "example_translation": "Ona jest pewną siebie mówczynią publiczną i zawsze przekazuje swoje przesłanie.",
-      "imageLink": "image_files\\English\\self-confident.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "self-confident.jpg",
       "audioLink": "audio_files\\English\\self-confident.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "mający lub pokazujący nadmierną troskę o własne dobro lub interesy",
       "example": "She was being selfish and wouldn't share her toys with her friends.",
       "example_translation": "Ona była egoistyczna i nie chciała się podzielić zabawkami ze swoimi przyjaciółmi.",
-      "imageLink": "image_files\\English\\selfish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "selfish.jpg",
       "audioLink": "audio_files\\English\\selfish.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\sensible.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sensible.jpg",
       "audioLink": "audio_files\\English\\sensible.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "czując się bardzo zdziwionym lub wstrząśniętym",
       "example": "I was shocked when I heard the news.",
       "example_translation": "Byłem wstrząśnięty, gdy usłyszałem te wieści.",
-      "imageLink": "image_files\\English\\shocked.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shocked.jpg",
       "audioLink": "audio_files\\English\\shocked.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": " wywołujący silne wrażenie zdumienia lub szoku",
       "example": "The news was shocking, and it left me speechless.",
       "example_translation": "Wiadomość była szokująca, a ja zostałem bez słów.",
-      "imageLink": "image_files\\English\\shocking.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shocking.jpg",
       "audioLink": "audio_files\\English\\shocking.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "czując nerwowość lub lęk przed rozmową z ludźmi lub robieniem rzeczy w miejscach publicznych",
       "example": "She's very shy and never speaks up in class.",
       "example_translation": "Ona jest bardzo nieśmiała i nigdy nie odzywa się w klasie.",
-      "imageLink": "image_files\\English\\shy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shy.jpg",
       "audioLink": "audio_files\\English\\shy.mp3"
     },
     {
@@ -1569,7 +1569,7 @@
       "definition_translation": "wywołujący lub zamierzający wywołać śmiech",
       "example": "The silly joke made everyone laugh.",
       "example_translation": "Śmieszny dowcip wywołał śmiech u wszystkich.",
-      "imageLink": "image_files\\English\\silly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "silly.jpg",
       "audioLink": "audio_files\\English\\silly.mp3"
     },
     {
@@ -1582,7 +1582,7 @@
       "definition_translation": "Mający lub pokazujący szybki i inteligentny umysł; zdolny do myślenia i zrozumienia rzeczy łatwo i szybko",
       "example": "She's a smart girl and always gets good grades.",
       "example_translation": "Ona jest inteligentną dziewczyną i zawsze dostaje dobre oceny.",
-      "imageLink": "image_files\\English\\smart.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "smart.jpg",
       "audioLink": "audio_files\\English\\smart.mp3"
     },
     {
@@ -1595,7 +1595,7 @@
       "definition_translation": "Chętny do rozmowy i przyjazny wobec innych ludzi",
       "example": "She's a very sociable person and loves attending parties.",
       "example_translation": "Ona jest bardzo towarzyską osobą i uwielbia uczestniczyć w przyjęciach.",
-      "imageLink": "image_files\\English\\sociable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sociable.jpg",
       "audioLink": "audio_files\\English\\sociable.mp3"
     },
     {
@@ -1608,7 +1608,7 @@
       "definition_translation": "czujący niepokój lub być przytłoczonym",
       "example": "I've been feeling stressed lately.",
       "example_translation": "Ostatnio czuję się stresowany.",
-      "imageLink": "image_files\\English\\stressed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stressed.jpg",
       "audioLink": "audio_files\\English\\stressed.mp3"
     },
     {
@@ -1621,7 +1621,7 @@
       "definition_translation": "wywołujący uczucia lęku lub napięcia",
       "example": "Her stressful job was affecting her health.",
       "example_translation": "Jej stresująca praca wpływała na jej zdrowie.",
-      "imageLink": "image_files\\English\\stressful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stressful.jpg",
       "audioLink": "audio_files\\English\\stressful.mp3"
     },
     {
@@ -1634,7 +1634,7 @@
       "definition_translation": "mający lub pokazujący surowe i nieugięte standardy lub reguły",
       "example": "The teacher was very strict with her students.",
       "example_translation": "Nauczycielka była bardzo ściśle wobec swoich uczniów.",
-      "imageLink": "image_files\\English\\strict.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "strict.jpg",
       "audioLink": "audio_files\\English\\strict.mp3"
     },
     {
@@ -1647,7 +1647,7 @@
       "definition_translation": "wywołujący uczucie wielkiego zaskoczenia lub zdumienia",
       "example": "The surprising news made me jump with joy.",
       "example_translation": "Zaskakująca wiadomość sprawiła, że wyskoczyłem z radości.",
-      "imageLink": "image_files\\English\\surprising.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "surprising.jpg",
       "audioLink": "audio_files\\English\\surprising.mp3"
     },
     {
@@ -1660,7 +1660,7 @@
       "definition_translation": "w sposób nieoczekiwany lub niezwykły",
       "example": "The results of the survey were surprisingly positive.",
       "example_translation": "Wyniki ankiet były zaskakująco pozytywne.",
-      "imageLink": "image_files\\English\\surprisingly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "surprisingly.jpg",
       "audioLink": "audio_files\\English\\surprisingly.mp3"
     },
     {
@@ -1673,7 +1673,7 @@
       "definition_translation": "Posiadający naturalny talent do robienia czegoś",
       "example": "She's a talented singer and songwriter.",
       "example_translation": "Ona jest utalentowaną piosenkarką i autorką tekstów.",
-      "imageLink": "image_files\\English\\talented.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "talented.jpg",
       "audioLink": "audio_files\\English\\talented.mp3"
     },
     {
@@ -1686,7 +1686,7 @@
       "definition_translation": "umiarkowanie wystraszony lub pełen strachu",
       "example": "The child was terrified of the dark.",
       "example_translation": "Dziecko było przerażone ciemnością.",
-      "imageLink": "image_files\\English\\terrified.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "terrified.jpg",
       "audioLink": "audio_files\\English\\terrified.mp3"
     },
     {
@@ -1699,7 +1699,7 @@
       "definition_translation": "wywołujący uczucie wielkiego zmęczenia lub nudności",
       "example": "The long journey was tiring.",
       "example_translation": "Długa podróż była męcząca.",
-      "imageLink": "image_files\\English\\tiring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tiring.jpg",
       "audioLink": "audio_files\\English\\tiring.mp3"
     },
     {
@@ -1712,7 +1712,7 @@
       "definition_translation": "wykazujący lub demonstrujący wolę przyjęcia uczuć, zwyczajów lub przekonań innych ludzi",
       "example": "She was tolerant of her neighbor's loud music.",
       "example_translation": "Była tolerancyjna wobec głośnej muzyki swojego sąsiada.",
-      "imageLink": "image_files\\English\\tolerant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tolerant.jpg",
       "audioLink": "audio_files\\English\\tolerant.mp3"
     },
     {
@@ -1725,7 +1725,7 @@
       "definition_translation": "zdarzenie lub czynność, która ma miejsce lub jest wykonywana bez planowania lub oczekiwania",
       "example": "The unexpected rainstorm caused chaos in the city.",
       "example_translation": "Nieoczekiwana burza deszczowa spowodowała chaos w mieście.",
-      "imageLink": "image_files\\English\\unexpected.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unexpected.jpg",
       "audioLink": "audio_files\\English\\unexpected.mp3"
     },
     {
@@ -1738,7 +1738,7 @@
       "definition_translation": "nieprzyjazny lub niegościnny",
       "example": "The unfriendly receptionist made me feel unwelcome.",
       "example_translation": "Nieprzyjazna recepcjonistka sprawiła, że czułem się niechciany.",
-      "imageLink": "image_files\\English\\unfriendly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unfriendly.jpg",
       "audioLink": "audio_files\\English\\unfriendly.mp3"
     },
     {
@@ -1751,7 +1751,7 @@
       "definition_translation": "nie zainteresowany lub nie zaniepokojony",
       "example": "She seemed uninterested in the conversation.",
       "example_translation": "Wyglądało na to, że nie jest zainteresowana rozmową.",
-      "imageLink": "image_files\\English\\uninterested.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uninterested.jpg",
       "audioLink": "audio_files\\English\\uninterested.mp3"
     },
     {
@@ -1764,7 +1764,7 @@
       "definition_translation": "nieatrakcyjny lub nieintrygujący",
       "example": "The movie was uninteresting and I fell asleep.",
       "example_translation": "Film był nieciekawy iheimer zasnąłem.",
-      "imageLink": "image_files\\English\\uninteresting-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uninteresting-1.jpg",
       "audioLink": "audio_files\\English\\uninteresting.mp3"
     },
     {
@@ -1777,7 +1777,7 @@
       "definition_translation": "nie mający lub nie pokazujący dobroci; nieprzyjemny",
       "example": "He was unkind to his friend.",
       "example_translation": "Był nieprzyjemny dla swojego przyjaciela.",
-      "imageLink": "image_files\\English\\unkind.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unkind.jpg",
       "audioLink": "audio_files\\English\\unkind.mp3"
     },
     {
@@ -1790,7 +1790,7 @@
       "definition_translation": "Mający umiarkowaną lub komfortową temperaturę; nie gorący ani zimny.",
       "example": "The warm weather made it perfect for a walk.",
       "example_translation": "Ciepła pogoda sprawiła, że było idealnie nadaje się na spacer.",
-      "imageLink": "image_files\\English\\warm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "warm.jpg",
       "audioLink": "audio_files\\English\\warm.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "O dia da semana entre quinta-feira e sábado, e o quinto dia da semana em muitos calendários.",
       "example": "Spotkam się z tobą w piątek o 17:00. Spotkałem się z przyjacielem w zeszłym piątku. Pójdę na plażę w następnym piątku.",
       "example_translation": "Eu vou me encontrar com você na sexta-feira às 5 pm. Eu me encontrei com meu amigo na sexta-feira da semana passada. Eu irei para a praia na sexta-feira da semana que vem.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "O primeiro dia da semana, e o segundo dia da semana em muitos calendários.",
       "example": "Zacznę nową pracę w poniedziałek. Poszedłem do szkoły w zeszłym poniedziałku. Będę się uczyć do egzaminu w następnym poniedziałku.",
       "example_translation": "Eu vou começar meu novo trabalho na segunda-feira. Eu fui à escola na segunda-feira da semana passada. Eu vou estudar para meu exame na segunda-feira da semana que vem.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "O dia da semana entre sexta-feira e domingo, e o sétimo dia da semana em muitos calendários.",
       "example": "Pójdę do parku w sobotę. Poszedłem do kina w zeszłej sobocie. Będę uczestniczyć w koncertu w następnej sobocie.",
       "example_translation": "Eu vou ao parque no sábado. Eu fui ao cinema no sábado da semana passada. Eu vou a um concerto no sábado da semana que vem.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "O sétimo e último dia da semana, e o primeiro dia da semana em muitos calendários.",
       "example": "Pójdę do kościoła w niedzielę. Poszedłem na plażę w zeszłą niedzielę. Będę mieć piknik w następną niedzielę.",
       "example_translation": "Eu vou à igreja no domingo. Eu fui à praia no domingo da semana passada. Eu vou ter um piquenique no domingo da semana que vem.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "O dia da semana entre quarta-feira e sexta-feira, o quinto dia da semana.",
       "example": "Mam spotkanie w czwartek o 14:00. Wczoraj było środa, a jutro będzie piątek. Do następnego czwartku skończę ten projekt.",
       "example_translation": "Eu tenho uma reunião na quinta-feira às 2 PM. Ontem foi quarta-feira, e amanhã será sexta-feira. Até a próxima quinta-feira, vou ter concluído este projeto.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "O dia da semana entre segunda-feira e quarta-feira, o segundo dia da semana.",
       "example": "Zawsze chodzę do siłowni we wtorek rano. W zeszłym wtorku przebiegłem 5 kilometrów. Do następnego wtorku schudnę 5 kilogramów.",
       "example_translation": "Eu sempre vou para a academia na terça-feira de manhã. Na última terça-feira, eu corri 5 quilômetros. Até a próxima terça-feira, vou ter perdido 5 quilos.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "O dia da semana entre terça-feira e quinta-feira, o terceiro dia da semana.",
       "example": "Mam zajęcia w środę po południu. Wczoraj było wtorek, a jutro będzie czwartek. Do następnej środy skończę swoją pracę domową.",
       "example_translation": "Eu tenho uma aula na quarta-feira à tarde. Ontem foi terça-feira, e amanhã será quinta-feira. Até a próxima quarta-feira, vou ter concluído meu dever de casa.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

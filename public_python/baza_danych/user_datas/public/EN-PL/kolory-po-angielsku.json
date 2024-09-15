@@ -9,7 +9,7 @@
       "definition_translation": "mający kolor węgla lub sadzy; ciemny i ponury",
       "example": "The black cat purred contentedly on my lap.",
       "example_translation": "Czarny kot szczęśliwie mruczał na moim kolanie.",
-      "imageLink": "image_files\\English\\black.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black.jpg",
       "audioLink": "audio_files\\English\\black.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "jasny kolor, podobny do nieba w słoneczny dzień",
       "example": "The blue butterfly fluttered around the garden.",
       "example_translation": "Niebieski motyl kołysał się wokół ogrodu.",
-      "imageLink": "image_files\\English\\blue.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blue.jpg",
       "audioLink": "audio_files\\English\\blue.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "mający kolor brązowy",
       "example": "The brown dog is running in the park.",
       "example_translation": "Brązowy pies biegnie w parku.",
-      "imageLink": "image_files\\English\\brown.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brown.jpg",
       "audioLink": "audio_files\\English\\brown.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "koloru pomiędzy niebieskim i żółtym w widzialnym spektrum",
       "example": "The grass is green.",
       "example_translation": "Trawa jest zielona.",
-      "imageLink": "image_files\\English\\green.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "green.jpg",
       "audioLink": "audio_files\\English\\green.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "mający kolor pośredni między czarnym a białym",
       "example": "The grey area between the two rules is not clearly defined.",
       "example_translation": "Szara strefa między dwiema regułami nie jest jasno zdefiniowana.",
-      "imageLink": "image_files\\English\\grey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grey.jpg",
       "audioLink": "audio_files\\English\\grey.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "okrągły, soczysty owoc o słodkim lub kwaśnym smaku",
       "example": "The orange juice is refreshing.",
       "example_translation": "Sok pomarańczowy jest orzeźwiający.",
-      "imageLink": "image_files\\English\\orange-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "orange-1.jpg",
       "audioLink": "audio_files\\English\\orange.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Mający kolor o najdłuższej długości fali światła widzialnego, obok pomarańczowego w spektrum kolorów.",
       "example": "The red car drove down the street.",
       "example_translation": "Czerwony samochód jechał ulicą.",
-      "imageLink": "image_files\\English\\red.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red.jpg",
       "audioLink": "audio_files\\English\\red.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "mający biały kolor; czysty lub czysty",
       "example": "The bride wore a white wedding dress.",
       "example_translation": "Panna młoda nosiła białą suknię ślubną.",
-      "imageLink": "image_files\\English\\white.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "white.jpg",
       "audioLink": "audio_files\\English\\white.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "mający jasny, słoneczny kolor",
       "example": "The yellow flower is very pretty.",
       "example_translation": "Żółte kwiaty są bardzo ładne.",
-      "imageLink": "image_files\\English\\yellow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "yellow.jpg",
       "audioLink": "audio_files\\English\\yellow.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "słodka i bogata w składniki żywność zrobiona z mleka, często używana w gotowaniu i jako dodatek do deserów",
       "example": "She spread cream on top of the cake.",
       "example_translation": "Ona rozsmarowała śmietankę na wierzchu tortu.",
-      "imageLink": "image_files\\English\\cream-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cream-2.jpg",
       "audioLink": "audio_files\\English\\cream.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "mający jasny, żółty kolor, jak złoto",
       "example": "The golden sun was shining brightly in the sky.",
       "example_translation": "Żółte słońce świeciło intensywnie na niebie.",
-      "imageLink": "image_files\\English\\golden.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "golden.jpg",
       "audioLink": "audio_files\\English\\golden.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "żółte owoce o kwaśnym smaku, często używane w gotowaniu i napojach",
       "example": "She squeezed the lemon into her tea.",
       "example_translation": "Ona wymóżesz cytrynę do herbaty.",
-      "imageLink": "image_files\\English\\lemon-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lemon-1.jpg",
       "audioLink": "audio_files\\English\\lemon.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "jasny, żywy kolor czerwono-fioletowy",
       "example": "The dress was a lovely shade of pink.",
       "example_translation": "Sukienka miała ładny odcień różowego koloru.",
-      "imageLink": "image_files\\English\\pink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pink.jpg",
       "audioLink": "audio_files\\English\\pink.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "głęboki, bogaty odcień koloru, łączący czerwony i niebieski",
       "example": "The dress was a beautiful shade of purple.",
       "example_translation": "Sukienka miała piękny odcień fioletowego koloru.",
-      "imageLink": "image_files\\English\\purple.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "purple.jpg",
       "audioLink": "audio_files\\English\\purple.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\silver-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "silver-1.jpg",
       "audioLink": "audio_files\\English\\silver.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "kwiat o purpurowej barwie",
       "example": "The violet flower is often used in perfumes.",
       "example_translation": "Kwiat fioletowy jest często używany w perfumach.",
-      "imageLink": "image_files\\English\\violet-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "violet-1.jpg",
       "audioLink": "audio_files\\English\\violet.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "kolor jasnobrązowy",
       "example": "The walls were painted a lovely shade of beige.",
       "example_translation": "Ściany zostały pomalowane na piękny odcień beżu.",
-      "imageLink": "image_files\\English\\beige.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beige.jpg",
       "audioLink": "audio_files\\English\\beige.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "ciemnoniebieski kolor, podobny douniformy marynarza",
       "example": "The navy blue suit looked sharp on him.",
       "example_translation": "Niebieski marynarski garnitur wyglądał na nim ostro.",
-      "imageLink": "image_files\\English\\navy-blue.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "navy-blue.jpg",
       "audioLink": "audio_files\\English\\navy blue.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "kolor żółto-brązowy",
       "example": "The army uniform was khaki green.",
       "example_translation": "Umundurowanie armii było zielone chaki.",
-      "imageLink": "image_files\\English\\khaki.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "khaki.jpg",
       "audioLink": "audio_files\\English\\khaki.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "brązowo-zielony kolor",
       "example": "The soldier wore an olive green uniform.",
       "example_translation": "Żołnierz nosił mundur zielony oliwkowy.",
-      "imageLink": "image_files\\English\\olive-green.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "olive-green.jpg",
       "audioLink": "audio_files\\English\\olive green.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "roślina o kolorowych kwiatach",
       "example": "The amaranth flower is a symbol of immortality.",
       "example_translation": "Kwiat amarynki jest symbolem nieśmiertelności.",
-      "imageLink": "image_files\\English\\amaranth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amaranth.jpg",
       "audioLink": "audio_files\\English\\amaranth.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "żółty lub pomarańczowy żywiczny bursztyn fosilny używany do robienia biżuterii",
       "example": "The necklace was made of beautifully polished amber.",
       "example_translation": "Naszyjnik był wykonany z pięknie wypolerowanego bursztynu.",
-      "imageLink": "image_files\\English\\amber.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amber.jpg",
       "audioLink": "audio_files\\English\\amber.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "typ węgla, który jest bardzo twardy i lśniący",
       "example": "The fireplace was lined with anthracite to improve its efficiency.",
       "example_translation": "Kominek był wyłożony antracytem, aby poprawić jego wydajność.",
-      "imageLink": "image_files\\English\\anthracite.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "anthracite.jpg",
       "audioLink": "audio_files\\English\\anthracite.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "pale ny błękitny kamień szlachetny, typowo stosowany w jubilerstwie",
       "example": "The aquamarine necklace shone brightly in the light.",
       "example_translation": "Naszyjnik z akwamariną świecił jasno w świetle.",
-      "imageLink": "image_files\\English\\aquamarine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aquamarine.jpg",
       "audioLink": "audio_files\\English\\aquamarine.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Jaskrawy czerwony do fioletowo-czerwonego barwnika lub farby uzyskanej z owada koszenili.",
       "example": "The artist used carmine to paint the vibrant flowers.",
       "example_translation": "Artysta użył karminu, aby namalować żywe kwiaty.",
-      "imageLink": "image_files\\English\\carmine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carmine.jpg",
       "audioLink": "audio_files\\English\\carmine.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "głęboki, jasny kolor czerwony",
       "example": "The bride's crimson dress was stunning.",
       "example_translation": "Suknia panny młodej w kolorze szkarłatnym była oszałamiająca.",
-      "imageLink": "image_files\\English\\crimson.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crimson.jpg",
       "audioLink": "audio_files\\English\\crimson.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "zielono-niebieski kolor",
       "example": "The artist used cyan paint to create a beautiful landscape.",
       "example_translation": "Artysta użył farby cyjanowej, aby stworzyć piękny krajobraz.",
-      "imageLink": "image_files\\English\\cyan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cyan.jpg",
       "audioLink": "audio_files\\English\\cyan.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "jasny zielony kamień szlachetny, często używany w biżuterii",
       "example": "The queen wore an emerald necklace to the party.",
       "example_translation": "Królowa nosiła naszyjnik ze szmaragdem na przyjęcie.",
-      "imageLink": "image_files\\English\\emerald.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "emerald.jpg",
       "audioLink": "audio_files\\English\\emerald.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "roślina o grubym, podziemnym łodydze, która może być używana jako przyprawa lub lek",
       "example": "Add a slice of ginger to your tea for extra flavor.",
       "example_translation": "Dodaj lód imbiry do herbaty, aby uzyskać dodatkowy smak.",
-      "imageLink": "image_files\\English\\ginger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ginger.jpg",
       "audioLink": "audio_files\\English\\ginger.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "głęboki kolor niebieski",
       "example": "The indigo dye used in the fabric gives it a unique colour.",
       "example_translation": "Farba indygo użyta w tkaninie daje jej unikatowy kolor.",
-      "imageLink": "image_files\\English\\indigo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "indigo.jpg",
       "audioLink": "audio_files\\English\\indigo.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "jasny, żywy kolor czerwono-fioletowy",
       "example": "The artist mixed magenta and blue to create a unique shade.",
       "example_translation": "Artysta mieszał magentę i błękit, aby stworzyć unikatowy odcień.",
-      "imageLink": "image_files\\English\\magenta.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "magenta.jpg",
       "audioLink": "audio_files\\English\\magenta.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "drewno czerwonobrązowe, zwłaszcza z drzewa mahoniowego",
       "example": "The furniture was made of mahogany.",
       "example_translation": "Meble były wykonane z mahoniowego drewna.",
-      "imageLink": "image_files\\English\\mahogany.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mahogany.jpg",
       "audioLink": "audio_files\\English\\mahogany.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "ciemnoczerwony brązowy kolor",
       "example": "The maroon colour of the sunset was breathtaking.",
       "example_translation": "Karmazynowy kolor zachodu słońca był zapierający dech.",
-      "imageLink": "image_files\\English\\maroon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "maroon.jpg",
       "audioLink": "audio_files\\English\\maroon.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "naturalny pigment, którego kolor waha się od żółtego do ciemnej pomarańczy, uzyskany z zawartości tlenku żelaza w ziemi ochrowej",
       "example": "The artist used ochre to create a warm, earthy tone in her painting.",
       "example_translation": "Artystka użyła ochry, aby stworzyć ciepłą, ziemisty ton w swoim obrazie.",
-      "imageLink": "image_files\\English\\ochre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ochre.jpg",
       "audioLink": "audio_files\\English\\ochre.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "jaskrawy czerwony kolor z lekkim nakładem pomarańczowego",
       "example": "The scarlet dress was eye-catching.",
       "example_translation": "Szkarłatna sukienka była pijąca wzrok.",
-      "imageLink": "image_files\\English\\scarlet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scarlet.jpg",
       "audioLink": "audio_files\\English\\scarlet.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "minerał niebiesko-zielony, często używany jako kamień szlachetny",
       "example": "The turquoise necklace complemented her eyes perfectly.",
       "example_translation": "Naszyjnik z błękitno-zielonymi perełami idealnie pasował do jej oczu.",
-      "imageLink": "image_files\\English\\turquoise.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turquoise.jpg",
       "audioLink": "audio_files\\English\\turquoise.mp3"
     }
   ]

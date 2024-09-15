@@ -9,7 +9,7 @@
       "definition_translation": "छह पैरों वाला और तीन भागों में बंटा हुआ शरीर वाला एक छोटा जानवर",
       "example": "The insect crawled slowly across the leaf. The insect was crawling slowly across the leaf. The insect will crawl slowly across the leaf.",
       "example_translation": "कीड़ा ने पत्ते पर धीरे-धीरेivé क्रॉल किया. कीड़ा पत्ते पर धीरे-धीरे क्रॉल कर रहा था. कीड़ा पत्ते पर धीरे-धीरे क्रॉल करेगा.",
-      "imageLink": "insect.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "insect.jpg",
       "audioLink": "insect.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "एक छोटा कीड़ा जो कॉलोनियों में रहता है और अपनी उद्योग और ताकत के लिए जाना जाता है.",
       "example": "The ant carried a crumb back to its nest. The ant was carrying a crumb back to its nest. The ant will carry a crumb back to its nest.",
       "example_translation": "चींटी ने अपने घोंसले में एक क्रंब ले आई. चींटी अपने घोंसले में एक क्रंब ले जा रही थी. चींटी अपने घोंसले में एक क्रंब ले जाएगी.",
-      "imageLink": "ant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ant.jpg",
       "audioLink": "ant.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "एक उड़ने वाला कीड़ा जो फूलों से मधु एकत्र करता है और शहद का उत्पादन करता है.",
       "example": "The bee buzzed around the flower. The bee was buzzing around the flower. The bee will buzz around the flower.",
       "example_translation": "मधुमक्खी ने फूल के चारों ओर बुजिया मारी. मधुमक्खी फूल के चारों ओर बुजिया मार रही थी. मधुमक्खी फूल के चारों ओर बुजिया मारेगी.",
-      "imageLink": "bee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bee.jpg",
       "audioLink": "bee.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "एक छोटा कीड़ा, अक्सर आकार में सपाट, जो पौधों या जानवरों पर भोजन करता है.",
       "example": "The bug hid under the leaf. The bug was hiding under the leaf. The bug will hide under the leaf.",
       "example_translation": "कीड़ा ने पत्ते के नीचे छिपा था. कीड़ा पत्ते के नीचे छिपा हुआ था. कीड़ा पत्ते के नीचे छिपेगा.",
-      "imageLink": "bug.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bug.jpg",
       "audioLink": "bug.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "एक तितली एक प्रकार का कीड़ा है जिसके बड़े और आमतौर पर रंगीन पंख होते हैं, जो उड़ सकता है और गर्म स्थानों में पाया जाता है.",
       "example": "I saw a beautiful butterfly in the garden yesterday. It is flying around the flowers now. I will try to catch it tomorrow.",
       "example_translation": "मैंने कल बगीचे में एक सुंदर तितली देखी। यह अभी फूलों के चारों ओर飛 रहा है। मैं कल इसे पकड़ने की कोशिश करूँगा।",
-      "imageLink": "butterfly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "butterfly.jpg",
       "audioLink": "butterfly.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "एक सALU एक प्रकार का कीड़ा है जो आमतौर पर भूरा या काला होता है, जिसका शरीर चपटा होता है और अक्सर रसोई और घरों में पाया जाता है.",
       "example": "I saw a cockroach running across the kitchen floor last night. It is hiding under the sink now. I will kill it tomorrow morning.",
       "example_translation": "मैंने कल रात को रसोई के फर्श पर एक सALU दौड़ते हुए देखा। यह अभी सिन्क के नीचे छिपा हुआ है। मैं कल सुबह इसे मार डालूँगा।",
-      "imageLink": "cockroach.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cockroach.jpg",
       "audioLink": "cockroach.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "एक जीव एक जीवित प्राणी है, जैसेanimal या कीट, जो मानव नहीं है।",
       "example": "I saw a strange creature in the forest yesterday. It was eating a fruit tree. I will try to catch it tomorrow.",
       "example_translation": "मैंने कल जंगल में एक अजीब जीव देखा। यह एक फल के पेड़ का सेवन कर रहा था। मैं कल इसे पकड़ने की कोशिश करूँगा।",
-      "imageLink": "creature.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "creature.jpg",
       "audioLink": "creature.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "उड़ने का मतलब हवा में घूमना है, आमतौर पर पंखों का प्रयोग करके।",
       "example": "I flew a kite in the park yesterday. It is flying high in the sky now. I will bring it down tomorrow.",
       "example_translation": "मैंने कल पार्क में एक पतंग उड़ाई। यह अभी आसमान में ऊपर उड़ रहा है। मैं कल इसे नीचे लाऊँगा।",
-      "imageLink": "fly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fly.jpg",
       "audioLink": "fly.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "जीव-जंतुओं और मनुष्यों के रक्त पर कुछ छोटे उड़ने वाले कीट जैसे मच्छर, मलेरिया और डेंगू जैसे रोगों का संचार करते हैं।",
       "example": "The mosquito bit me while I was sleeping. I was bitten by a mosquito last night. I will be bitten by a mosquito if I don't use insect repellent.",
       "example_translation": "मैं सो रहा था तब मच्छर ने मुझे काट लिया. कल रात मैं मच्छर से काटा गया था. अगर मैं कीड़े मारने वाली दवा का प्रयोग नहीं करता तो मैं मच्छर से काटा जाऊंगा.",
-      "imageLink": "mosquito.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mosquito.jpg",
       "audioLink": "mosquito.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "आठ पैर वाले मांसाहारी अराकनिड जो अपने शिकार को पकड़ने के लिए जाले बुनता है, आम तौर पर बगीचों, घरों और जंगलों में पाया जाता है.",
       "example": "The spider crawled up the wall. I saw a spider spinning its web yesterday. I will squash the spider if it comes near me.",
       "example_translation": "मकड़ी दीवार पर चढ़ गई. कल मैंने मकड़ी को अपना जाला बुनते देखा. अगर मकड़ी मेरे पास आती है तो मैं उसे कुचल दूंगा.",
-      "imageLink": "spider.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spider.jpg",
       "audioLink": "spider.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "एक मकड़ी द्वारा रेशम के धागों से बनाई गई संरचना, शिकार पकड़ने, अपने आप की रक्षा करने या यात्रा करने के लिए प्रयोग की जाती है.",
       "example": "The spider wove a intricate web. I saw a web on the corner of my room. I will clean the web from the ceiling fan.",
       "example_translation": "मकड़ी ने जटिल जाला बुना. मैंने अपने कमरे के कोने पर जाला देखा. मैं सीलिंग फैन से जाला साफ कर दूंगा.",
-      "imageLink": "web.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "web.jpg",
       "audioLink": "web.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "एक प्रकार का कीड़ा जिसका बाहरी कवच कड़ा होता है, अक्सर रंग-बिरंगा होता है, और आम तौर पर बगीचों, जंगलों, और खेतों में पाया जाता है.",
       "example": "The beetle flew away. I saw a beetle eating a leaf yesterday. I will catch the beetle and put it in a jar.",
       "example_translation": "भृंग उड़ गया. कल मैंने भृंग को एक पत्ता खाते देखा. मैं भृंग को पकड़ लूंगा और उसे एक जार में डाल दूंगा.",
-      "imageLink": "beetle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beetle.jpg",
       "audioLink": "beetle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "एक छोटा कूदने वाला कीड़ा जो जानवरों, विशेषकर कुत्तों और बिल्लियों के शरीर पर रहता है और उनके रक्त पर निर्वाह करता है",
       "example": "The dog was infested with fleas. Yesterday, I had to remove a flea from my cat's ear. By next week, we will have flea-proofed our entire home.",
       "example_translation": "कुत्ता चूँचियों से पीड़ित था। कल, मैंने अपने बिल्ली के कान से एक चूँची हटा दी। अगले हफ्ते तक, हमने अपने पूरे घर को चूँची-मुक्त कर दिया होगा।",
-      "imageLink": "flea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flea.jpg",
       "audioLink": "flea.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "एक तीखे, छेदक दर्द का कारण बनना, आम तौर पर एक नुकीले संरचना के साथ, जैसे किसी कीट के डंक या मछली के हुक की नोक",
       "example": "The bee stung me on the arm. The scorpion stung its prey with precision. By next summer, we will have developed an antidote for the venom that causes the sting.",
       "example_translation": "छत्ता मेरे बांह पर डंक मारा। बिच्छू ने अपने शिकार को सटीकता से डंक मारा। अगले गर्मी तक, हमने उस विष के लिए एंटीडोट विकसित कर लिया होगा जिससे डंक होता है।",
-      "imageLink": "sting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sting.jpg",
       "audioLink": "sting.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "एक उड़ने वाला कीड़ा जिसकी कमर पतली होती है और अक्सर चमकीले रंग का होता है, जिसका डंक बहुत दर्दनाक होता है",
       "example": "The wasp buzzed angrily around my head. Yesterday, I saw a wasp building its nest in the garden. By next spring, we will have removed all the wasp nests from our backyard.",
       "example_translation": "मच्छर मेरे सिर के चारों ओर गुस्से से भिनभिना रहा था। कल, मैंने बगीचे में एक मच्छर को अपना घोंसला बनाते हुए देखा। अगले वसंत तक, हमने अपने पिछवाड़े में सभी मच्छर के घोंसले हटा दिए होंगे।",
-      "imageLink": "wasp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wasp.jpg",
       "audioLink": "wasp.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "एक प्रकार का कीड़ा जिसका शरीर लंबा और पतला होता है और सामने के पैरagt होते हैं, अक्सर शांति और धैर्य के Symbols के रूप में उपयोग किया जाता है",
       "example": "The praying mantis sat still on the leaf, waiting for its prey. Yesterday, I saw a mantis feeding on a fly in the garden. By next autumn, we will have set up a mantis enclosure in our backyard.",
       "example_translation": "प्रार्थना मेंटिस पत्ते पर बैठा था, अपने शिकार की प्रतीक्षा कर रहा था। कल, मैंने बगीचे में एक मेंटिस को एक मक्खी पर फ़ीड करते हुए देखा। अगले पतझड़ तक, हमने अपने पिछवाड़े में एक मेंटिस के एन्क्लोजर स्थापित कर लिया होगा।",
-      "imageLink": "mantis.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mantis.jpg",
       "audioLink": "mantis.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "एक छोटा,แฟट, परजीवी कीट जो बिस्तरों में रहता है और मानव रक्त पर फ़ीड करता है",
       "example": "I woke up to find a bedbug crawling on my arm. I had seen one in the morning, but now there were many. I will call the exterminator tomorrow to get rid of them.",
       "example_translation": "मैं अपने हाथ पर कीड़े के कdbg के लिए उठा था। मैं सुबह में एक देखा था, लेकिन अब कई थे। मैं कल उन्हें हटाने के लिए एएक्स्टर्मिनटेर को फोन करूँगा",
-      "imageLink": "bedbug.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bedbug.jpg",
       "audioLink": "bedbug.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "एक बड़ा, फरी हेयर वाला, सामाजिक मधुमक्खी जो उपनिवेश में रहती है और अपने विशेष स्वर के लिए जाना जाता है",
       "example": "The bumblebee flew from flower to flower, collecting nectar. It had been doing this all day. It will return to its hive soon.",
       "example_translation": "भंवरा फूल से फूल पर उड़ता है, मधु संग्रह करता है। यह पूरे दिन कर रहा था। वह जल्द ही अपने छत्ते में वापस जाएगा",
-      "imageLink": "bumblebee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bumblebee.jpg",
       "audioLink": "bumblebee.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "तितली या मOTH का लार्वा, जो काफी खाता है और बढ़ता है इससे पहले कि वह पूपा में बदल जाता है",
       "example": "The caterpillar was eating the leaves of the plant. It had eaten many leaves already. It will become a beautiful butterfly soon.",
       "example_translation": "कैटरपिलर प्लांट के पत्तों को खा रहा था। उसने पहले से ही कई पत्ते खा लिए थे। वह जल्द ही सुंदर तितली बनने जा रहा है",
-      "imageLink": "caterpillar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "caterpillar.jpg",
       "audioLink": "caterpillar.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "एक बड़ा, ज़ोर से आवाज करने वाला कीट जिसका कड़ा कवच और प्रमुख आंखें हैं, जिसके लिए उसकी विशेष युग्म पुकार जानी जाती है",
       "example": "The cicada made a loud noise in the tree. It had been doing this for weeks. I will try to record its sound tomorrow.",
       "example_translation": "टिड्डा पेड़ में तेज आवाज कर रहा था। यह हफ्तों से यह कर रहा था। मैं कल इसकी आवाज रिकॉर्ड करने की कोशिश करूँगा",
-      "imageLink": "cicada.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cicada.jpg",
       "audioLink": "cicada.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "एक प्रकार का कीड़ा जिसका शरीर लम्बा और स्लेंडर होता है और पारदर्शी या रंग-बिरंगे पंख होते हैं。",
       "example": "The dragonfly flew around the pond yesterday, then it will fly again tomorrow, and it has been flying for hours today.",
       "example_translation": "ड्रैगनफ्लाय ने कल तालाब के चारों ओर उड़ा था, फिर वह कल उड़ेगा, और वह आज कई घंटों से उड़ रहा है।",
-      "imageLink": "dragonfly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dragonfly.jpg",
       "audioLink": "dragonfly.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "एक निम्न, सतत हुमिंग या बुजिंग ध्वनि, या एक अवमानित वायुयान या जहाज जो दूर से नियंत्रित होता है।",
       "example": "The drone hovered above the field yesterday, it will hover again tomorrow, and it has been hovering above the field for hours today.",
       "example_translation": "ड्रोन ने कल मैदान के ऊपर मंडराया था, वह कल फिर से मंडराएगा, और वह आज कई घंटों से मैदान के ऊपर मंडरा रहा है।",
-      "imageLink": "drone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drone.jpg",
       "audioLink": "drone.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "एक मक्खी जो लोगों या जानवरों को परेशान या परेशान करती है, या एक व्यक्ति जो दूसरों को परेशान या परेशान करता है।",
       "example": "The gadfly buzzed around the horse's ear yesterday, it will buzz again tomorrow, and it has been buzzing around the horse's ear for hours today.",
       "example_translation": "गडफ्लाय ने कल घोड़े के कान के आसपास बजा था, वह कल फिर से बजाएगा, और वह आज कई घंटों से घोड़े के कान के आसपास बज रहा है।",
-      "imageLink": "gadfly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gadfly.jpg",
       "audioLink": "gadfly.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "एक प्रकार का कीड़ा जो कूदता है और एक कड़ा बाहरी शेल है, आमतौर पर हरे या पीले रंग का।",
       "example": "The grasshopper jumped over the fence yesterday, it will jump again tomorrow, and it has been jumping over the fence for hours today.",
       "example_translation": "टिड्डी ने कल बाड़े के ऊपर कूदा था, वह कल फिर से कूदेगा, और वह आज कई घंटों से बाड़े के ऊपर कूद रहा है।",
-      "imageLink": "grasshopper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grasshopper.jpg",
       "audioLink": "grasshopper.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "भ्रंगी एक प्रकार की मक्खी है जिसके काटने से दर्द होता है. भ्रंगी सामाजिक मक्खियां हैं जो कालोनियों में रहती हैं और मधुमक्खियों के समान हैं, लेकिन आम तौर पर अधिक आक्रामक हैं.",
       "example": "The hornet flew into the garden, threatening to sting anyone who came near. The farmer had to carefully remove the hornet's nest from the tree. By next summer, the hornet population will have increased significantly.",
       "example_translation": "भ्रंगी बगीचे में उड़ता हुआ आया और किसी के पास आने वाले को काटने की धमकी दी. किसान को पेड़ से भ्रंगी का घोंसला सावधानी से हटाना पड़ा. अगले गर्मी में भ्रंगी की आबादी काफी बढ़ जाएगी.",
-      "imageLink": "hornet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hornet.jpg",
       "audioLink": "hornet.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "लेडीबिर्ड एक छोटा, अंडाकार आकार का कीट है जिसका लाल और काला कवच है. लेडीबिर्डส अफीद की आबादी को नियंत्रित करने के लिए जाने जाते हैं और अक्सर बगीचों में पाए जाते हैं.",
       "example": "The ladybird crawled across the leaf, eating aphids as it went. Ladybirds are often used as a biological control method in gardens. By attracting ladybirds, the garden will be free of pests.",
       "example_translation": "लेडीबिर्ड पत्ते पर रेंगता हुआ गया, जैसा कि वह अफीद खाता गया. लेडीबिर्ड्स अक्सर बगीचों में जैविक नियंत्रण विधि के रूप में इस्तेमाल किए जाते हैं. लेडीबिर्ड्स को आकर्षित करके, बगीचा कीट-मुक्त होगा.",
-      "imageLink": "ladybird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ladybird.jpg",
       "audioLink": "ladybird.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "टिड्डा एक प्रकार की टिड्डी है जिसकी बड़े समूह में एकत्र होने और फसलों को नष्ट करने की क्षमता के लिए जानी जाती है. टिड्डे अक्सर कीट माने जाते हैं और महत्वपूर्ण आर्थिक नुकसान पहुंचा सकते हैं.",
       "example": "The locust swarm descended upon the fields, devouring everything in their path. The farmer tried to chase the locusts away, but they kept coming back. By next year, the locust plague will have spread to the entire region.",
       "example_translation": "टिड्डे का समूह खेतों पर उतर आया, अपने रास्ते में सब कुछ खा जाता था. किसान ने टिड्डों को भगाने की कोशिश की, लेकिन वे वापस आते रहे. अगले साल, टिड्डे की महामारी पूरे क्षेत्र में फैल जाएगी.",
-      "imageLink": "locust.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "locust.jpg",
       "audioLink": "locust.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "जूँ एक छोटा, पंखहीन कीट है जो मानवों और जानवरों के शरीर पर रहता है और उनके खून या त्वचा का भोजन करता है. जूँ अक्सर कीट माने जाते हैं और जलन और असुविधा पैदा कर सकते हैं.",
       "example": "The louse crawled across the scalp, making it itch. The child had to be treated for lice infestation. By next week, the lice will have been eradicated from the school.",
       "example_translation": "जूँ सिर के ऊपर रेंगता हुआ था, जिससे खुजली हो रही थी. बच्चे का जूँ संक्रमण का इलाज करवाना पड़ा. अगले हफ्ते तक स्कूल से जूँ का नाश कर दिया जाएगा.",
-      "imageLink": "louse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "louse.jpg",
       "audioLink": "louse.mp3"
     }
   ]

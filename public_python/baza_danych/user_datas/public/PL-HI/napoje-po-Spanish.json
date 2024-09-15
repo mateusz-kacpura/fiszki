@@ -9,7 +9,7 @@
       "definition_translation": "अनाज से बना एक एल्कोहल पेय, आमतौर पर जौ और होप्स के साथ फ्लेवर किया हुआ.",
       "example": "Wypiłem piwo na imprezie wczoraj wieczorem. Teraz piję piwo. Jutro wypiłem piwo na imprezie.",
       "example_translation": "मैंने पार्टी में कल रात को एक बीयर पी था. मैं अब एक बीयर पी रहा हूँ. मैं कल पार्टी में एक बीयर पिएगा.",
-      "imageLink": "beer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beer.jpg",
       "audioLink": "beer.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "एक लोकप्रिय गरम पेय एक उष्णकटिबंधीय पौधे के भुने हुए बीज से बना हुआ.",
       "example": "Wypiłem filiżankę kawy tej morning. Teraz piję filiżankę kawy. Jutro wypiłem filiżankę kawy rano.",
       "example_translation": "मैंने आज सुबह काफी पी था. मैं अब काफी पी रहा हूँ. मैं कल सुबह काफी पिएगा.",
-      "imageLink": "coffee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coffee.jpg",
       "audioLink": "coffee.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "चीनी और वेनिला से फ्लेवर किया हुआ एक मीठा और कार्बनेटेड पेय.",
       "example": "Wypiłem Colę w restauracji wczoraj. Teraz piję Colę. Za tydzień wypiłem Colę na imprezie.",
       "example_translation": "मैंने रेस्तरां में कल कोक पी था. मैं अब कोक पी रहा हूँ. मैं अगले हफ्ते पार्टी में कोक पिएगा.",
-      "imageLink": "coke.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coke.jpg",
       "audioLink": "Coke.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "मौखिक रूप से एक तरल को निगलना.",
       "example": "Wypiłem szklankę wody wczoraj. Teraz piję sok. Jutro wypiłem herbatę na śniadanie.",
       "example_translation": "मैंने कल पानी का गिलास पी था. मैं अब जूस पी रहा हूँ. मैं कल सुबह नाश्ते में चाय पिएगा.",
-      "imageLink": "drink-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drink-1.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "पेय पदार्थों से निकाला गया एक द्रव पदार्थ जो पौधों या जानवरों से प्राप्त होता है",
       "example": "Wypiłem szklankę soku pomarańczowego wczoraj, teraz piję sok jabłkowy, a jutro wypiłem sok winogronowy.",
       "example_translation": "मैंने कल संतरे के जूस का एक ग्लास पिया, मैं अभी सेब के जूस का पी रहा हूँ, और मैं कल अंगूर के जूस का पियूँगा",
-      "imageLink": "juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "juice.jpg",
       "audioLink": "juice.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "मादा स्तनधारियों की दूध ग्रंथियों द्वारा उत्पादित एक पोषक द्रव, खाद्य और पोषण के स्रोत के रूप में उपयोग किया जाता है",
       "example": "Moja mama piła mleko, gdy była dzieckiem, teraz pije mleko, a gdy będzie stara, pije mleko.",
       "example_translation": "मेरी माँ ने जब वह बच्ची थी, दूध पिया करती थी, वह अब दूध पीती है, और वह बूढ़े होने पर दूध पियेगी",
-      "imageLink": "milk.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "milk.jpg",
       "audioLink": "milk.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "संतरे से निकाला गया एक द्रव पदार्थ, पेय के रूप में उपभोग किया जाता है और अपने पोषण मूल्य के लिए जाना जाता है",
       "example": "Miałem szklankę soku pomarańczowego na śniadanie, teraz piję szklankę soku pomarańczowego na lunch, a wieczorem piję szklankę soku pomarańczowego na kolację.",
       "example_translation": "मैंने नाश्ते में संतरे के जूस का एक ग्लास पिया, मैं दोपहर के भोजन में संतरे के जूस का एक ग्लास पी रहा हूँ, और मैं रात के खाने में संतरे के जूस का एक ग्लास पियूँगा",
-      "imageLink": "orange-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "orange-juice.jpg",
       "audioLink": "orange juice.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "चाय पौधे के सूखे कुचले पत्तों को उबले पानी में भिगोकर बनाया गया एक गर्म पेय",
       "example": "Wypiłem filiżankę herbaty wczoraj. Teraz piję filiżankę herbaty. Jutro wypiłem filiżankę herbaty.",
       "example_translation": "मैंने कल चाय का एक कप पिया, मैं अभी चाय का एक कप पी रहा हूँ, और मैं कल चाय का एक कप पियूँगा",
-      "imageLink": "tea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tea.jpg",
       "audioLink": "tea.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "टमाटर से बना हुआ जूस, अक्सर पेय के रूप में सेवा किया जाता है या खाना पकाने में उपयोग किया जाता है.",
       "example": "Ona wypiła szklankę soku pomidorowego na śniadanie. Wczoraj wypiła szklankę soku pomidorowego na lunch. Jutro wypiłem szklankę soku pomidorowego na kolację.",
       "example_translation": "उसने नाश्ते के लिए टमाटर जूस का एक गिलास पिया। कल, उसने दोपहर के लिए टमाटर जूस का एक गिलास पिया था। कल, वह रात के भोजन के लिए टमाटर जूस का एक गिलास पियेगी।",
-      "imageLink": "tomato-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tomato-juice.jpg",
       "audioLink": "tomato juice.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "एक स्पष्ट, रंगहीन और गंधहीन द्रव पदार्थ जो सागर, झीलों, नदियों, और वर्षा में पाया जाता है और जीवित जीवों के द्रव्यों का आधार है।",
       "example": "Piję wodę każdego ranka. Wczoraj wypiłem wodę po ćwiczeniach. Jutro piję wodę przed snem.",
       "example_translation": "मैं हर सुबह पानी पीता हूँ। कल, मैं व्यायाम करने के बाद पानी पिया था। कल, मैं सो जाने से पहले पानी पियूँगा।",
-      "imageLink": "water.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "water.jpg",
       "audioLink": "water.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "अंगूर से बना हुआ ферमेंटेड पेय, पेय या खाना पकाने में उपयोग किया जाता है।",
       "example": "Lubi pić wino z obiadem. Wczoraj, pije wino z przyjaciółmi. Jutro, pić będzie wino na przyjęciu.",
       "example_translation": "वह रात के भोजन के साथ शराब पीना पसंद करती है। कल, वह अपने दोस्तों के साथ शराब पिया थी। कल, वह पार्टी में शराब पियेगी।",
-      "imageLink": "wine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wine.jpg",
       "audioLink": "wine.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "रंगहीन, अस्थिर और ज्वलनशील द्रव, फर्मेंटेड प्लांट उत्पादों से प्राप्त, एक सॉल्वेंट, ईंधन या नशीला पदार्थ के रूप में उपयोग किया जाता है।",
       "example": "Uzależnił się od alkoholu w młodym wieku. Wczoraj, pił alkohol z przyjaciółmi. Jutro, będzie próbował rzucić picie alkoholu.",
       "example_translation": "वह युवा उम्र में अल्कोहल का आदी हो गया था। कल, वह अपने दोस्तों के साथ अल्कोहल पिया था। कल, वह अल्कोहल पीना छोड़ने की कोशिश करेगा।",
-      "imageLink": "alcohol.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "alcohol.jpg",
       "audioLink": "alcohol.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "एक स्वीट पेय जो सेब से बना है, अक्सर ठंडा परोसा जाता है।",
       "example": "Wczoraj, piłem sok jabłkowy, piję go teraz, i będę pił w przyszłości.",
       "example_translation": "मैंने कल सेब जूस पिया, मैं अब पी रहा हूँ, और मैं कल पिऊंगा।",
-      "imageLink": "apple-juice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apple-juice.jpg",
       "audioLink": "apple juice.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "एक प्रकार की स्पार्कलिंग वाइन, अक्सर समारोह और पार्टियों में परोसी जाती है।",
       "example": "Otworzyliśmy butelkę szampana na naszym weselu w zeszłym roku, pijemy go teraz na naszej rocznicy, i będziemy pić w przyszłym roku na weselu naszych przyjaciół.",
       "example_translation": "हमने पिछले साल अपने विवाह में एक बोतल चैंपेन खोली, हम अब अपने विवाह की सालगिरह पर पी रहे हैं, और हम अगले साल अपने दोस्त के विवाह में पिऊंगे।",
-      "imageLink": "champagne.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "champagne.jpg",
       "audioLink": "champagne.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "एक स्वीट, फ़िज़ी पेय जो कोला नट्स से बना है, अक्सर ठंडा परोसा जाता है।",
       "example": "Lubiłem kolę, kiedy byłem dzieckiem, nadal ją lubię, i będę lubił, kiedy dorosnę.",
       "example_translation": "मैंने बचपन में कोला पसन्द किया, मैं अब भी पसन्द करता हूँ, और मैं बूढ़ा होने पर पसन्द करूँगा।",
-      "imageLink": "cola.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cola.jpg",
       "audioLink": "cola.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "एक तरल पदार्थ को निगलना, अक्सर आनन्द के लिए या प्यास बुझाने के लिए。",
       "example": "Wczoraj, piłem wodę, piję teraz herbatę, i będę pił sok jutro.",
       "example_translation": "मैंने कल पानी पिया, मैं अब चाय पी रहा हूँ, और मैं कल जूस पिऊंगा।",
-      "imageLink": "drink-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drink-2.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "चॉकलेट, दूध और चीनी से बना एक मीठा, क्रीमी पेय, अक्सर गर्म परोसा जाता है।",
       "example": "Wczoraj, piłem gorącą czekoladę, aby się ogrzać na zimnym zimowym poranku. Dziś, piję ją, aby się zenergować na długi dzień. Jutro, będę pił ją, aby uczcić specjalną okazję.",
       "example_translation": "कल, मैंने सर्दी की सुबह में गर्म होने के लिए हॉट चॉकलेट पिया। आज, मैं अपने आप को लंबे दिन के लिए ऊर्जावान करने के लिए पी रहा हूँ। कल, मैं विशेष अवसर का जश्न मनाने के लिए पियूँगा।",
-      "imageLink": "hot-chocolate.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hot-chocolate.jpg",
       "audioLink": "hot chocolate.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "नींबू के रस, पानी और चीनी से बना एक मीठा, खट्टा और ठंडा पेय, अक्सर ठंडा परोसा जाता है।",
       "example": "Latem, moja babcia zawsze robiła limonadę dla nas, abyśmy ugasić pragnienie. Teraz, robię ją dla moich dzieci, aby odświeżyć je po zabawie na dworze. W przyszłości, będę robił ją dla moich gości, aby ich powitać w moim nowym domu.",
       "example_translation": "गर्मियों में, मेरी दादी हमें प्यास बुझाने के लिए निम्बूपानी बनाती थीं। अब, मैं अपने बच्चों के लिए बाहर खेलने के बाद उन्हें तरोताजा करने के लिए बनाता हूँ। भविष्य में, मैं अपने मेहमानों के लिए अपने नए घर में उन्हें स्वागत करने के लिए बनाऊँगा।",
-      "imageLink": "lemonade.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lemonade.jpg",
       "audioLink": "lemonade.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "दूध, आइसक्रीम और फ्लेवरिंग से बना एक मीठा, क्रीमी पेय, अक्सर ठंडा और गाढ़ा परोसा जाता है।",
       "example": "Kiedy byłem dzieckiem, uwielbiałem Pić milkshake'y w lodziarni. Teraz, wolę robić je w domu z różnymi smakami. W przyszłości, otworzę sklep milkshake'owy, aby serwować unikatowe smaki publiczności.",
       "example_translation": "जब मैं एक बच्चा था, मैं आइसक्रीम पार्लर में मल्कशेक पीना पसंद करता था। अब, मैं घर पर अलग-अलग फ्लेवर के साथ बनाना पसंद करता हूँ। भविष्य में, मैं सार्वजनिक के लिए अनोखे फ्लेवर सерв करने के लिए मल्कशेक की दुकान खोलूँगा।",
-      "imageLink": "milkshake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "milkshake.jpg",
       "audioLink": "milkshake.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "जल जिसमें खनिज या दूसरे पदार्थ घुले हों, अक्सर शीशी में पैक किया जाता है और स्वास्थ्यवर्धक पेय के रूप में पिया जाता है।",
       "example": "Po ćwiczeniach, zawsze piję wodę mineralną, aby się nawodnić. Dziś, piję ją, aby ugasić pragnienie po długim spacerze. W przyszłości, będę pił ją, aby pozostać zdrowym i sprawnym.",
       "example_translation": "एक्सरसाइज के बाद, मैं हमेशा अपने आप को फिर से हाइड्रेट करने के लिए खनिज जल पीता हूँ। आज, मैं लंबे चलने के बाद अपनी प्यास बुझाने के लिए पी रहा हूँ। भविष्य में, मैं स्वस्थ और फिट रहने के लिए पियूँगा।",
-      "imageLink": "mineral-water.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mineral-water.jpg",
       "audioLink": "mineral water.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "एक मीठा, स्वादिष्ट पेय जो अक्सर कार्बोनेटेड होता है, ठंडा परोसा जाता है और ताजगी के रूप में उपभोग किया जाता है。",
       "example": "Lubię pić zimny napój gazowany w gorący letni dzień. Wczoraj, piłem napój gazowany z przyjaciółmi. Jutro, kupię napój gazowany w sklepie.",
       "example_translation": "मैं गर्मी के दिन एक ठंडे सॉफ्ट ड्रिंक पर चुस्ती करना पसंद करता हूँ. कल, मैंने अपने दोस्तों के साथ सॉफ्ट ड्रिंक पीया. कल, मैं स्टोर से सॉफ्ट ड्रिंक खरीदूँगा.",
-      "imageLink": "soft-drink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "soft-drink.jpg",
       "audioLink": "soft drink.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "एक मिश्रित पेय जो जिन या रम जैसे आधार मदिरा से बनाया जाता है और फल जूस, क्रीम या अन्य सामग्री के साथ मिलाया जाता है.",
       "example": "Zamówiłem koktajl na przyjęciu wczoraj wieczorem. Ona jest ekspertką w sporządzaniu koktajli na specjalne okazje. Będą serwować koktajle na przyjęciu weselnym.",
       "example_translation": "मैंने पार्टी में कल रात कॉकटेल ऑर्डर किया. वह विशेष अवसरों के लिए कॉकटेल बनाने में एक विशेषज्ञ है. वे विवाह प्रीति में कॉकटेल परोसेंगे.",
-      "imageLink": "cocktail.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cocktail.jpg",
       "audioLink": "cocktail.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "रोस्टेड काकाओ बीन्स से बना एक पाउडर जिसका उपयोग चॉकलेट बनाने के लिए किया जाता है, और इस पाउडर से बना एक गर्म पेय भी है.",
       "example": "Lubię pić gorące kakao w zimny poranek. Ona robi najlepsze brownie z kakaem w mieście. Będą serwować kakao na przyjęciu bożonarodzeniowym.",
       "example_translation": "मैं ठंडे सर्दी के सुबह कोकोआ पीना पसंद करता हूँ. वह टाउन में सर्वश्रेष्ठ कोकोआ ब्राउनी बनाती है. वे क्रिसमस पार्टी में कोकोआ परोसेंगे.",
-      "imageLink": "cocoa.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cocoa.jpg",
       "audioLink": "cocoa.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "एक कार्बोनेटेड पेय, जो आम तौर पर मीठा और स्वादिष्ट होता है, अक्सर ठंडा परोसा जाता है और ताजगी के रूप में उपभोग किया जाता है.",
       "example": "Lubię pić zimny napój gazowany w gorący letni dzień. Wczoraj, miałem napój gazowany z obiadem. Jutro, kupię napój gazowany w sklepie.",
       "example_translation": "मैं गर्मी के दिन एक ठंडे करچی पेय पीना पसंद करता हूँ. कल, मैंने अपने लंच के साथ करچی पेय पीया. कल, मैं स्टोर से करچی पेय खरीदूँगा.",
-      "imageLink": "fizzy-drink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fizzy-drink.jpg",
       "audioLink": "fizzy drink.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "एक प्रकार की कॉफी जिसे गरम पानी में मिलाने से तुरंत तैयार किया जा सकता है",
       "example": "Lubię pić kawę instant rano, jest tak wygodna. Wczoraj, piłem ją z przyjaciółmi w parku. Jutro, wypiję ją przed udaniem się do pracy.",
       "example_translation": "मैं सुबह में तत्काल कॉफी पीना पसंद करता हूँ, यह इतना सुविधाजनक है. कल, मैंने अपने दोस्तों के साथ पार्क में इसका सेवन किया. कल, मैं काम पर जाने से पहले इसका सेवन करूँगा.",
-      "imageLink": "instant-coffee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "instant-coffee.jpg",
       "audioLink": "instant coffee.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "गेहूँ, राई या आलू जैसे अनाज से बनाया गया साफ, रंगहीन और स्वादहीन स्पिरिट.",
       "example": "Piję wódkę regularnie od kilku lat już. Wczoraj wieczorem, miałem kieliszek wódki z przyjaciółmi w barze. W przyszłości, planuję spróbować różnych smaków wódki.",
       "example_translation": "मैं पिछले कुछ सालों से वोदका नियमित रूप से पी रहा हूँ. रात को, मैंने बार में अपने दोस्तों के साथ वोदका का एक शॉट लिया. भविष्य में, मैं वोदका के विभिन्न स्वादों को आजमाने की योजना बना रहा हूँ.",
-      "imageLink": "vodka.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vodka.jpg",
       "audioLink": "vodka.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "लकड़ी के बैरल में उम्र के साथ फ़र्मेंटेड अनाज के मैश से बनाया गया एक प्रकार का जिलेट्ड पेय.",
       "example": "Mój dziadek pił whisky każdego wieczoru. Wczoraj, miałem kieliszek whisky z przyjaciółmi na przyjęciu. W przyszłym roku, planuję spróbować specjalnej edycji whisky.",
       "example_translation": "मेरे दादा शाम को व्हिस्की पिया करते थे. कल, मैंने पार्टी में अपने दोस्तों के साथ व्हिस्की का एक ग्लास लिया. अगले साल, मैं व्हिस्की का एक स्पेशल एडिशन आजमाने की योजना बना रहा हूँ.",
-      "imageLink": "whisky.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "whisky.jpg",
       "audioLink": "whisky.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "एक डिश जो ताज़ा या सुखाया हुआ फल से बनाया गया है, टypically मिठाई या साइड डिश के रूप में परोसा जाता है.",
       "example": "Lubię jeść kompot ze śniadaniem. Wczoraj, miałem kompot z bitą śmietanką w kawiarni. Latem, planuję zrobić kompot ze świeżych jagód.",
       "example_translation": "मैं नाश्ते के साथ कम्पोट खाना पसंद करता हूँ. कल, मैंने कैफे में व्हीप्ड क्रीम के साथ कम्पोट खाया. गरमी में, मैं ताज़ा बेरीज के साथ कम्पोट बनाने की योजना बना रहा हूँ.",
-      "imageLink": "compote.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "compote.jpg",
       "audioLink": "compote.mp3"
     }
   ]

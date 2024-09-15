@@ -9,7 +9,7 @@
       "definition_translation": "Имеющий цвет сажи или угля; поглощающий весь свет и не отражающий его.",
       "example": "Wczoraj wieczorem nosiłem czarną suknię na przyjęcie, jutro będę nosił czarną koszulę na spotkanie, a w zeszłym tygodniu nosiłem czarny garnitur na weselu.",
       "example_translation": "Я надела черное платье на вечеринку вчера вечером, я надену черную рубашку на встречу завтра, и я надел черный костюм на свадьбу на прошлой неделе.",
-      "imageLink": "black.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "black.jpg",
       "audioLink": "black.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Имеющий яркий, успокаивающий цвет, похожий на небо в солнечный день.",
       "example": "Niebieskie kwiaty były piękne w ogrodzie latem, niebieskie niebo jest wspaniałe dzisiaj, a niebieskie morze będzie wspaniałe za rok.",
       "example_translation": "Синие цветы были красивыми в саду прошлым летом, синее небо сегодня является чудесным, и синий океан будет поражающим в следующем году.",
-      "imageLink": "blue.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blue.jpg",
       "audioLink": "blue.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Имеющий темный, земной цвет, похожий на почву или дерево.",
       "example": "Miałem brązowego psa, kiedy byłam dzieckiem, moje włosy są brązowe teraz, a za miesiąc zabarwię je brązowo ponownie.",
       "example_translation": "У меня был коричневый пес когда я был ребенком, мои волосы коричневые сейчас, и я крашу их коричневыми снова в следующем месяце.",
-      "imageLink": "brown.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brown.jpg",
       "audioLink": "brown.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Имеющий яркий, естественный цвет, похожий на траву или листья.",
       "example": " Zielona trawa była miękka pod moimi nogami wczoraj, zielone drzewa są wysokie wokół mojego domu, a za wiosnę zasadzę zielone kwiaty.",
       "example_translation": "Зеленая трава была мягкой под моими ногами вчера, зеленые деревья высокие вокруг моего дома, и я посадлю зеленые цветы на следующей весне.",
-      "imageLink": "green.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "green.jpg",
       "audioLink": "green.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Имеющий цвет, средний между черным и белым; не яркий или насыщенный.",
       "example": " Szary niebo uniemożliwiło mi zobaczenie gwiazd. Wczoraj szare ściany zostały pomalowane na biało. Za rok szara okolica będzie przebudowana.",
       "example_translation": "Серое небо делало difficile vedere звезды. Вчера серые стены были покрашены белым. К следующему году серая зона будет реконструирована.",
-      "imageLink": "grey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grey.jpg",
       "audioLink": "grey.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Яркий, насыщенный цвет между красным и желтым.",
       "example": "Pomarańczowa piłka odbiła się po całym boisku. Wczoraj zjadłem pomarańczę na śniadanie. Za lato pomarańczowe drzewa będą w pełni kwitnienia.",
       "example_translation": "Апельсиновый мяч отскакивал через поле. Вчера я ел апельсин на завтрак. К следующему лету апельсиновые деревья будут в цвету.",
-      "imageLink": "orange-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "orange-1.jpg",
       "audioLink": "orange.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Яркий, насыщенный цвет, часто ассоциирующийся с.passion, энергией и любовью.",
       "example": "Czerwony samochód jechał ulicą. Wczoraj nosiłem czerwoną koszulę. Za Boże Narodzenie czerwone dekoracje będą Already up.",
       "example_translation": "Красная машина ехала вниз по улице. Вчера я надел красную рубашку. К следующему Рождеству красные украшения будут висеть.",
-      "imageLink": "red.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red.jpg",
       "audioLink": "red.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Имеющий цвет, как у снега или молока; чистый и чистый.",
       "example": "Biała kotka mruczy na moich kolanach. Wczoraj wypiłem szklankę białego wina. Za zimę biały śnieg będzie pokrył ziemię.",
       "example_translation": "Белая кошка воркует на моих коленях. Вчера я выпил стакан белого вина. К следующей зиме белый снег покроет землю.",
-      "imageLink": "white.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "white.jpg",
       "audioLink": "white.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "имея яркий, солнечный цвет; цвет между зеленым и оранжевым в спектре",
       "example": "Słońce świeciło jasno w żółtym niebie. Wczoraj zobaczyłem żółtą ptaszkę. Jutro będę nosił żółtą koszulę.",
       "example_translation": "Солнце сияло ярко в жёлтом небе. Вчера я видел жёлтую птицу. Завтра я надену жёлтую рубашку.",
-      "imageLink": "yellow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "yellow.jpg",
       "audioLink": "yellow.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "густая, богатая и сладкая жидкость или паста, сделанная из молока, используемая в еде или в кулинарии",
       "example": "Lubię dodawać śmietankę do truskawek. Wczoraj kupiłem tort z śmietanką. W przyszłości zrobię zupę ze śmietanką.",
       "example_translation": "Я люблю класть крем на мои клубники. Вчера я купил кремовый торт. В будущем я сделаю кремовый суп.",
-      "imageLink": "cream-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cream-2.jpg",
       "audioLink": "cream.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "имея яркий, блестящий жёлтый цвет, как золото",
       "example": "Złote słońce wznosiło się nad górami. W zeszłym roku, wygrałem złoty medal. W przyszłości, będę miał złotego retrievera.",
       "example_translation": "Золотое солнце восходило над горами. В прошлом году я выиграл золотую медаль. В будущем у меня будет золотистый ретривер.",
-      "imageLink": "golden.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "golden.jpg",
       "audioLink": "golden.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "маленький, овальный цитрусовый фрукт с кислым вкусом и ярким жёлтым цветом",
       "example": "Uwielbiam pić sok cytrynowy. Wczoraj, zjadłem cytrynową tartę. Jutro, zrobię cytrynówkę.",
       "example_translation": "Я люблю пить лимонный сок. Вчера я ел лимонный тарт. Завтра я сделаю лимонад.",
-      "imageLink": "lemon-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lemon-1.jpg",
       "audioLink": "lemon.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Яркий, вдохновляющий цвет, обычно связанный с женственностью и сладостью.",
       "example": "Różowe kwiaty kwitły w ogrodzie wczoraj, ale dzisiaj będą kwitły, a jutro będą kwitłe.",
       "example_translation": "Розовые цветы распускались в саду вчера, но сегодня они будут распускаться, а завтра они будут распущены.",
-      "imageLink": "pink.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pink.jpg",
       "audioLink": "pink.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Богатый, роскошный цвет, часто связанный с властью, креативностью и мудростью.",
       "example": "Królowa nosiła fioletową suknię na balu królewskim, gdzie nosiła fioletową suknię w zeszłym roku, i będzie nosiła fioletową suknię w przyszłym roku.",
       "example_translation": "Королева надела фиолетовое платье на королевский бал, где она надевала фиолетовое платье в прошлом году, и будет надевать фиолетовое платье снова в следующем году.",
-      "imageLink": "purple.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "purple.jpg",
       "audioLink": "purple.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Яркий, блестящий металл, часто используемый для изготовления украшений, монет и других декоративных предметов.",
       "example": "Srebrny księgarnianka lśnił w świetle, i będzie lśniał w świetle jutro, choć lśniał w świetle wczoraj.",
       "example_translation": "Серебряное ожерелье мерцало в свете, и будет мерцать в свете завтра, хотя оно мерцало в свете вчера.",
-      "imageLink": "silver-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "silver-1.jpg",
       "audioLink": "silver.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Яркий, фиолетово-синий цвет, часто связанный с креативностью, воображением и индивидуальностью.",
       "example": "Fioletowe kwiaty kwitły w ogrodzie, i będą kwitłe ponownie w przyszłym roku, choć kwitły w zeszłym roku.",
       "example_translation": "Фиолетовые цветы распускались в саду, и будут распускаться снова в следующем году, хотя они распускались в прошлом году.",
-      "imageLink": "violet-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "violet-1.jpg",
       "audioLink": "violet.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Светло-коричневый цвет, подобный цвету неокрашенной шерсти.",
       "example": "Ona nosiła piękną beżową suknię na ślub. Nosiła beżowe suknie przez lata. Będzie nosiła beżową suknię na imprezę wieczorem.",
       "example_translation": "Она надела красивое бежевое платье на свадьбу. Она носит бежевые платья в течение лет. Она наденет бежевое платье на вечеринку сегодня вечером.",
-      "imageLink": "beige.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beige.jpg",
       "audioLink": "beige.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Темно-синий цвет, подобный цвету морского униформы.",
       "example": "On nosił granatowy garnitur na rozmowę o pracę. Nosił granatowe garnitury przez lata. Będzie nosił granatowy garnitur na spotkanie jutro.",
       "example_translation": "Он надел темно-синий костюм на интервью по работе. Он носит темно-синие костюмы в течение лет. Он наденет темно-синий костюм на встречу завтра.",
-      "imageLink": "navy-blue.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "navy-blue.jpg",
       "audioLink": "navy blue.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Светло-коричневый или оливково-коричневый цвет, часто используемый для военной униформы.",
       "example": "Żołnierze nosili mundury chaki w pustyni. Nosiли chaki mundury przez lata. Będą nosić chaki mundury na następnej misji.",
       "example_translation": "Солдаты надели хаки мундиры в пустыне. Они носили хаки мундиры в течение лет. Они наденут хаки мундиры на следующей миссии.",
-      "imageLink": "khaki.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "khaki.jpg",
       "audioLink": "khaki.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Желто-зеленый цвет, подобный цвету оливкового плода.",
       "example": "Wojskowe pojazdy były pomalowane oliwkowo-zielonym kolorem na kamuflaż. Używali oliwkowo-zielonych pojazdów przez lata. Będą malować nowe pojazdy oliwkowo-zielonym kolorem wkrótce.",
       "example_translation": "Войсковые машины были окрашены оливковым зеленым для маскировки. Они используют оливковые зеленые машины в течение лет. Они вскоре нароят новые машины оливковым зеленым.",
-      "imageLink": "olive-green.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "olive-green.jpg",
       "audioLink": "olive green.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Амарант - цветущее растение, родом из Америки. Это травянистое однолетнее растение, способное вырастать до 2 метров в высоту.",
       "example": "Ona ostrożnie zasiała nasiona amarantu w swoim ogrodzie wiosną, Regularnie je podlewała, a następnie zebrała kwiaty latem i znowu zasiała je w następnym roku.",
       "example_translation": "Она тщательно посадила семена амаранта в свой сад прошлой весной, регулярно поливала их, собирала цветы летом и будет снова садить их в следующем году.",
-      "imageLink": "amaranth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amaranth.jpg",
       "audioLink": "amaranth.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Янтарь - это окаменевшая древесная смола, часто используемая в ювелирных изделиях и ценившаяся за свою красоту и прочность тысячи лет.",
       "example": "Sprzedawca sprzedał piękną naszyjnik z bursztynu turystce, która nosiła go w dniu swoich urodzin w zeszłym roku, nosi go teraz i będzie go nosić w swoje następne urodziny.",
       "example_translation": "Продавец продал красивый янтарный кулон туристу, которая надевала его на свой день рождения в прошлом году, сейчас носит его и будет надевать на свою годовщину в следующем году.",
-      "imageLink": "amber.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amber.jpg",
       "audioLink": "amber.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Антрацит - это тип угля, который очень твердый и блестящий, и часто используется в качестве топлива или в промышленных процессах.",
       "example": "Firma importowała antracyt z Australii w zeszłym roku, obecnie wykorzystuje go do generowania energii elektrycznej i zwiększy produkcję w następnym roku.",
       "example_translation": "Компания импортировала антрацит из Австралии в прошлом году, сейчас использует его для генерации электроэнергии и увеличит производство в следующем году.",
-      "imageLink": "anthracite.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "anthracite.jpg",
       "audioLink": "anthracite.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Аквамарин - это тип драгоценного камня, который часто используется в ювелирных изделиях и, कथается, имеет калмирующее воздействие на носителя.",
       "example": "Dostała pierścionek z akwamarynem jako prezent od swojej babki, kiedy ukończyła studia, nosi go teraz i podaruje go swojej córce kiedyś.",
       "example_translation": "Она получила кольцо с аквамарином в подарок от своей бабушки, когда она окончила колледж, теперь носит его и передаст его своей дочери когда-нибудь.",
-      "imageLink": "aquamarine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aquamarine.jpg",
       "audioLink": "aquamarine.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Ярко-красный до фиолетово-красного пигмент, полученный из насекомого cochineal, используемого в пищевых продуктах, косметике и искусстве.",
       "example": "Artystka mieszając karmazyn z niebieskim stworzyła głęboką purpurę. Użyła karmazynu w swoim obrazie w zeszłym tygodniu. Firma zacznie sprzedawać kosmetyki z karmazynem w następnym roku.",
       "example_translation": "Художник смешал кармин с синим, чтобы создать глубокий пурпурный оттенок. Она использовала кармин в своей картине на прошлой неделе. Компания начнет продавать кармин-основную косметику в следующем году.",
-      "imageLink": "carmine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carmine.jpg",
       "audioLink": "carmine.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Глубокий, насыщенный красный цвет, особенно в отношении крови.",
       "example": " mundur żołnierza był zabarwiony karmazynowo i zbrudzony błotem. Zachód słońca miał karmazynowy odcień. Starożytny tekst był napisany atramentem karmazynowym.",
       "example_translation": "Форма солдата багрового цвета была испачкана грязью. Красный оттенок заката солнца было трудно переварить. Древний текст был написан багровой чернилой.",
-      "imageLink": "crimson.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crimson.jpg",
       "audioLink": "crimson.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Зеленовато-синий цвет, особенно в отношении пигмента или краски.",
       "example": "Artysta mieszając cyjan z żółciem stworzył jaskrawą zieleń. Projektant wybrał cyjan jako główny kolor logo. Kwiaty cyjanowe zakwitły wiosną.",
       "example_translation": "Художник смешал циан с желтым, чтобы создать ярко-зеленый цвет. Дизайнер выбрал циан в качестве основного цвета логотипа. Цветы цианового цвета расцвели весной.",
-      "imageLink": "cyan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cyan.jpg",
       "audioLink": "cyan.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Ярко-зеленый драгоценный камень, особенно зеленый берилл, используемый в ювелирных изделиях.",
       "example": "Królowa nosiła naszyjnik ze szmaragdem na balu. Turysta znalazł pierścionek ze szmaragdem na plaży. Szmaragd błyszczał oczach.",
       "example_translation": "Королева надела изумрудное ожерелье на бал. Турист нашел изумрудное кольцо на пляже. Блеск изумруда был завораживающим.",
-      "imageLink": "emerald.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "emerald.jpg",
       "audioLink": "emerald.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Растение с резким, острым вкусом и ароматом, широко используемое в кулинарии и традиционной медицине.",
       "example": "Dodała szczyptę imbiru do herbaty, żeby ukoić swój katar. Wczoraj dodała starty imbir do swojego sushi. Do następnego tygodnia będzie miała zasadzone imbir w swoim ogrodzie.",
       "example_translation": "Она добавила щепотку имбиря к чаю, чтобы унять простуду. Вчера она натерла имбирь на ее суши. К следующей неделе она будет садить имбирь в своем саду.",
-      "imageLink": "ginger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ginger.jpg",
       "audioLink": "ginger.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Глубокий синий цвет, также растение, используемое для производства синего красителя.",
       "example": "Artystka mieszając indygo z żółciem stworzyła piękny odcień zielonego. W XVIII wieku indygo było cennym towarem. Do 2025 roku indygo będzie popularnym kolorem w odzieży.",
       "example_translation": "Художник смешал индиго с желтым, чтобы создать красивый оттенок зеленого. В XVIII веке индиго было ценным товаром. К 2025 году индиго будет популярным цветом для одежды.",
-      "imageLink": "indigo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "indigo.jpg",
       "audioLink": "indigo.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Яркий, розовато-пурпурный цвет, также тип красителя или чернил.",
       "example": "Projektant graficzny wybrał fuksję jako kolor akcentowy dla logo. W latach 80. fuksja była popularnym kolorem do farbowania włosów. Do przyszłego roku fuksja będzie trendowym kolorem wnętrzarskim.",
       "example_translation": "Графический дизайнер выбрал магенту как акцентный цвет для логотипа. В 1980-х годах магента была популярным цветом для окрашивания волос. К следующему году магента будет тренд-цветом для домашнего декора.",
-      "imageLink": "magenta.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "magenta.jpg",
       "audioLink": "magenta.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Типtreeview, также красно-коричневый цвет.",
       "example": "Stolarz użył mahoni do stworzenia pięknego stołu drewnianego. Mahoni było wartościowym drewnem w XIX wieku. Do 2030 roku mahoni będzie rzadkim drewnem z powodu wylesiania.",
       "example_translation": "Мебельщик использовал могано, чтобы создать красивый деревянный стол. Могано было ценным деревом в XIX веке. К 2030 году могано будет редким деревом из-за дефорестации.",
-      "imageLink": "mahogany.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mahogany.jpg",
       "audioLink": "mahogany.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Тёмно-красно-коричневый цвет, приближающийся к багровому.",
       "example": "Śródziemnomorska farba na ścianie zaczęła blednąć, ale wyglądała pięknie, gdy była świeżo nakładana. Będzie wyglądać znów wspaniale, gdy skończymy malowanie. Mielśmy odstawione puszki farby w garażu.",
       "example_translation": "Красно-коричневая краска на стене начала выцветать, но она выглядела красочно, когда была впервые нанесена. Она будет выглядеть великолепно снова, когда мы закончим ее перекрашивать. Мы сместили банки с краской в гараж.",
-      "imageLink": "maroon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "maroon.jpg",
       "audioLink": "maroon.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Естественный пигмент, получаемый из железосодержащей почвы определенных областей, используется как желтый или красно-коричневый цвет в искусстве и косметике.",
       "example": "Artystka mieszała ochrę z wodą, aby stworzyć żywy żółty farbę. Używała ochry do kolorowania swoich obrazów od lat. Ochra będzie popularnym kolorem w modzie tej sezonie.",
       "example_translation": "Художник смешал охру с водой, чтобы создать яркую желтую краску. Она использовала охру для окраски своих картин в течение года. Охра будет популярным цветом в моде в этом сезоне.",
-      "imageLink": "ochre.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ochre.jpg",
       "audioLink": "ochre.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Яркий, насыщенный красный цвет, часто ассоциируемый с страстью, энергией и любовью.",
       "example": "Szkarłatna sukienka była najbardziej imponującym strojem na przyjęciu. Ona nosiła szkarłatny szmink, aby dopasować go do sukni. Szkarłatny zachód słońca był zapierający dech w piersiach.",
       "example_translation": "Алый платье было самым ошеломляющим нарядом на вечеринке. Она надела алый губной помады, чтобы соответствовать ее платью. Алый закат был 숨ерительной.",
-      "imageLink": "scarlet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scarlet.jpg",
       "audioLink": "scarlet.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Синий-зеленый минерал, ценящийся за свой яркий цвет и используемый в ювелирных изделиях, декоративных объектах и как пигмент.",
       "example": "Pierścionek z biryłem był najcenniejszym posiadaniem jej babci. Biryłów był popularnym kolorem w latach 60. Ściany hotelu lobby wyłożone biryłem były oszałamiające.",
       "example_translation": "Тульпановое кольцо было самым ценным владением ее бабушки. Тульпан был популярным цветом в 1960-х годах. Тульпановые стены лобби отеля были ошеломляющими.",
-      "imageLink": "turquoise.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turquoise.jpg",
       "audioLink": "turquoise.mp3"
     }
   ]

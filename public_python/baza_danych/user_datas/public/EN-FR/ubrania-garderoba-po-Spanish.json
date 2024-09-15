@@ -9,7 +9,7 @@
       "definition_translation": "Articles de vêtement, tels que des chemises, des pantalons et des robes, qui sont portés pour couvrir le corps et le protéger des éléments.",
       "example": "I have worn these clothes to the party yesterday, I will wear them to the office tomorrow, and I wore them to the beach last week.",
       "example_translation": "J'ai porté ces vêtements à la fête hier, je les porterai au bureau demain, et je les ai portés à la plage la semaine dernière.",
-      "imageLink": "clothes.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clothes.jpg",
       "audioLink": "clothes.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un vêtement extérieur porté pour se tenir chaud, généralement fait de tissu épais et ayant un col et des manches.",
       "example": "She had worn a coat to the office yesterday, she will wear it to the party tonight, and she wore it to the mountains last winter.",
       "example_translation": "Elle avait porté un manteau au bureau hier, elle le portera à la fête ce soir, et elle l'a porté aux montagnes l'hiver dernier.",
-      "imageLink": "coat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coat.jpg",
       "audioLink": "coat.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un vêtement unique pour une femme ou une fille, généralement descendant en dessous du genou et fait d'un tissu léger.",
       "example": "She has worn a dress to the wedding yesterday, she will wear it to the party tonight, and she wore it to the garden last summer.",
       "example_translation": "Elle avait porté une robe au mariage hier, elle la portera à la fête ce soir, et elle l'a portée au jardin l'été dernier.",
-      "imageLink": "dress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dress.jpg",
       "audioLink": "dress.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un couvre-chef, généralement fait de tissu ou de paille, porté pour se tenir chaud, comme déclaration de mode, ou pour signifier une profession ou une appartenance.",
       "example": "He had worn a hat to the party yesterday, he will wear it to the office tomorrow, and he wore it to the beach last week.",
       "example_translation": "Il avait porté un chapeau à la fête hier, il le portera au bureau demain, et il l'a porté à la plage la semaine dernière.",
-      "imageLink": "hat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hat.jpg",
       "audioLink": "hat.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Pantalon en denim ou autre tissu solide, généralement porté pour des occasions informelles.",
       "example": "I wore jeans to the party last night, I wear jeans to work today, and I will wear jeans to the concert tomorrow.",
       "example_translation": "J'ai porté un jean au party hier soir, je porte un jean au travail aujourd'hui, et je porterai un jean au concert demain.",
-      "imageLink": "jeans.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jeans.jpg",
       "audioLink": "jeans.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un vêtement porté sur la partie supérieure du corps, généralement ayant un col et des manches.",
       "example": "I buttoned my shirt this morning, I wear a shirt to the office every day, and I will iron my shirt before the wedding tonight.",
       "example_translation": "J'ai boutonné ma chemise ce matin, je porte une chemise au bureau tous les jours, et je vais repasser ma chemise avant le mariage ce soir.",
-      "imageLink": "shirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shirt.jpg",
       "audioLink": "shirt.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un revêtement pour le pied, généralement fait de cuir, de caoutchouc ou de matériaux synthétiques.",
       "example": "I laced my shoe this morning, I wear shoes to the gym every day, and I will buy new shoes for the party tomorrow.",
       "example_translation": "J'ai lacé ma chaussure ce matin, je porte des chaussures au gymnase tous les jours, et j'achèterai de nouvelles chaussures pour le party demain.",
-      "imageLink": "shoe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shoe.jpg",
       "audioLink": "shoe.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un vêtement suspendu à la taille et porté par les femmes et les filles, généralement descendant jusqu'aux genoux ou en dessous.",
       "example": "I wore a skirt to the party last night, I wear skirts to the office every Friday, and I will sew a new skirt for the fashion show next week.",
       "example_translation": "J'ai porté une jupe au party hier soir, je porte des jupes au bureau tous les vendredis, et je vais coudre une nouvelle jupe pour le défilé de mode la semaine prochaine.",
-      "imageLink": "skirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "skirt.jpg",
       "audioLink": "skirt.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un haut court casual, généralement fait de coton, de polyester ou d'un mélange de tissus.",
       "example": "I wore a T-shirt to the party last night, I'm wearing a T-shirt to the beach today, and I will wear a T-shirt to the game tomorrow.",
       "example_translation": "J'ai porté un T-shirt à la soirée hier soir, je porte un T-shirt à la plage aujourd'hui et je porterai un T-shirt au match demain.",
-      "imageLink": "t-shirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "t-shirt.jpg",
       "audioLink": "T-shirt.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un vêtement extérieur couvrant les jambes, généralement fait de tissu, porté à la fois par les hommes et les femmes.",
       "example": "I wore trousers to the office yesterday, I'm wearing trousers to the meeting today, and I will wear trousers to the dinner party tomorrow.",
       "example_translation": "J'ai porté un pantalon au bureau hier, je porte un pantalon à la réunion aujourd'hui et je porterai un pantalon à la soirée dînatoire demain.",
-      "imageLink": "trousers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trousers.jpg",
       "audioLink": "trousers.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un type de chaussure qui couvre le pied et la cheville, souvent s'étendant jusqu'à la jambe.",
       "example": "I wore boots to the hike last week, I'm wearing boots to the farm today, and I will wear boots to the snow tomorrow.",
       "example_translation": "J'ai porté des bottes à la randonnée la semaine dernière, je porte des bottes à la ferme aujourd'hui et je porterai des bottes dans la neige demain.",
-      "imageLink": "boot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boot.jpg",
       "audioLink": "boot.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un chapeau serré, généralement courbé ou arrondi, souvent avec une visière, porté à la fois par les hommes et les femmes.",
       "example": "I wore a cap to the baseball game last year, I'm wearing a cap to the park today, and I will wear a cap to the cycling event tomorrow.",
       "example_translation": "J'ai porté une casquette au match de baseball l'année dernière, je porte une casquette au parc aujourd'hui et je porterai une casquette à l'événement cycliste demain.",
-      "imageLink": "cap.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cap.jpg",
       "audioLink": "cap.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un gant est un vêtement qui couvre la main, généralement avec des parties séparées pour chaque doigt et le pouce.",
       "example": "I wore a glove to protect my hand while gardening. I will wear a glove to play hockey tomorrow. I wore a glove to keep my hand warm yesterday.",
       "example_translation": "J'ai porté un gant pour protéger ma main pendant que je jardinais. Je porterai un gant pour jouer au hockey demain. J'avais porté un gant pour garder ma main chaude hier.",
-      "imageLink": "glove.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "glove.jpg",
       "audioLink": "glove.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Une veste est un vêtement sans manche ou à manche porté sur la partie supérieure du corps.",
       "example": "I put on a jacket to go out in the cold. I will buy a new jacket for winter. I wore a jacket to the party last night.",
       "example_translation": "J'ai mis une veste pour sortir dans le froid. J'achèterai une nouvelle veste pour l'hiver. J'avais porté une veste au party hier soir.",
-      "imageLink": "jacket.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jacket.jpg",
       "audioLink": "jacket.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un pull-over est un vêtement tricoté sans manche, généralement porté sur la partie supérieure du corps.",
       "example": "She wore a jumper to keep warm at home. I will wear a jumper to play sports tonight. He wore a jumper to school yesterday.",
       "example_translation": "Elle a porté un pull-over pour se tenir chaud à la maison. Je porterai un pull-over pour jouer aux sports ce soir. Il avait porté un pull-over à l'école hier.",
-      "imageLink": "jumper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jumper.jpg",
       "audioLink": "jumper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Une poche est un petit sac ou une poche cousue dans ou attachée à des vêtements, utilisée pour porter de petits objets.",
       "example": "I put my phone in my pocket. She will put her wallet in her pocket tomorrow. He took his keys out of his pocket yesterday.",
       "example_translation": "J'ai mis mon téléphone dans ma poche. Elle mettra son porte-monnaie dans sa poche demain. Il a sorti ses clés de sa poche hier.",
-      "imageLink": "pocket.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pocket.jpg",
       "audioLink": "pocket.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un imperméable est un manteau imperméable ou résistant à l'eau porté pour protéger le corps de la pluie. Il est généralement fait d'un matériau imperméable et respirant, comme du nylon ou du polyester, et est conçu pour garder le porteur sec et confortable par temps humide.",
       "example": "I wore a raincoat yesterday because it was raining. Today, I'm wearing a raincoat because it might rain later. I will wear a raincoat tomorrow because the weather forecast says it will rain.",
       "example_translation": "J'ai porté un imperméable hierbecause il pleuvait. Aujourd'hui, je porte un imperméable parce que ça pourrait pleuvoir plus tard. Je porterai un imperméable demain parce que la météo prévoit qu'il pleuvra.",
-      "imageLink": "raincoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "raincoat.jpg",
       "audioLink": "raincoat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Une écharpe est un morceau de tissu porté autour du cou, typiquement fait de matières douces et chaudes comme la laine ou le soie. Elle est utilisée pour garder le cou chaud et peut également être portée comme accessoire de mode.",
       "example": "I wore a scarf last winter because it was cold. Today, I'm wearing a scarf to add some color to my outfit. I will wear a scarf next winter because it's a practical accessory.",
       "example_translation": "J'ai porté une écharpe l'hiver dernier parce qu'il faisait froid. Aujourd'hui, je porte une écharpe pour ajouter un peu de couleur à ma tenue. Je porterai une écharpe l'hiver prochain parce qu'il s'agit d'un accessoire pratique.",
-      "imageLink": "scarf.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scarf.jpg",
       "audioLink": "scarf.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Les shorts sont un type de pantalon court conçu pour être porté par temps chaud. Ils sont généralement faits de matières légères et respirantes comme le coton ou le polyester, et sont portés pour les activités en plein air comme le sport ou la randonnée.",
       "example": "I wore shorts yesterday because it was hot. Today, I'm wearing shorts to play soccer. I will wear shorts next summer because it will be warm.",
       "example_translation": "J'ai porté des shorts hier parce qu'il faisait chaud. Aujourd'hui, je porte des shorts pour jouer au soccer. Je porterai des shorts l'été prochain parce qu'il sera chaud.",
-      "imageLink": "shorts.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shorts.jpg",
       "audioLink": "shorts.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Une chausse est un vêtement porté sur le pied, typiquement fait de matières douces comme le coton ou la laine. Elle est portée pour garder le pied chaud et sec, et est souvent portée avec des chaussures ou des sandales.",
       "example": "I wore socks yesterday because it was cold. Today, I'm wearing socks to run. I will wear socks next winter because it will be freezing.",
       "example_translation": "J'ai porté des chaussettes hier parce qu'il faisait froid. Aujourd'hui, je porte des chaussettes pour courir. Je porterai des chaussettes l'hiver prochain parce qu'il sera gelé.",
-      "imageLink": "sock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sock.jpg",
       "audioLink": "sock.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un ensemble de vêtements extérieurs faits du même tissu et conçus pour être portés ensemble, composé typiquement d'un veston, d'un pantalon et parfois d'un gilet.",
       "example": "I wore a suit to the job interview. I wear a suit to work every day. I will wear a suit to the wedding tomorrow.",
       "example_translation": "J'ai porté un costume à l'entrevue d'embauche. Je porte un costume au travail tous les jours. Je porterai un costume au mariage demain.",
-      "imageLink": "suit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "suit.jpg",
       "audioLink": "suit.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un vêtement pour le haut du corps, généralement fait d'un tissu épais et chaud et n'ayant pas d'ouvertures ou un col rond.",
       "example": "I pulled on a sweater to stay warm. She wore a sweater to the party. They will wear sweaters in the winter.",
       "example_translation": "J'ai enfilé un pull pour rester chaud. Elle a porté un pull à la fête. Ils porteront des pulls en hiver.",
-      "imageLink": "sweater.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweater.jpg",
       "audioLink": "sweater.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un vêtement porté pour la natation, généralement fait d'un matériau léger et rapide à sécher comme le Lycra ou le nylon.",
       "example": "I bought a new swimming costume for the beach. She wore a swimming costume to the pool. They will wear swimming costumes to the water park.",
       "example_translation": "J'ai acheté un nouveau maillot de bain pour la plage. Elle a porté un maillot de bain à la piscine. Ils porteront des maillots de bain au parc aquatique.",
-      "imageLink": "swimming-costume.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimming-costume.jpg",
       "audioLink": "swimming costume.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un vêtement porté pour la natation, généralement fait d'un matériau léger et rapide à sécher comme le Lycra ou le nylon.",
       "example": "I packed a swimsuit for the vacation. She wore a swimsuit to the beach. They will wear swimsuits to the pool party.",
       "example_translation": "J'ai emballé un maillot de bain pour les vacances. Elle a porté un maillot de bain à la plage. Ils porteront des maillots de bain à la fête de la piscine.",
-      "imageLink": "swimsuit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimsuit.jpg",
       "audioLink": "swimsuit.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Une cravate est un long morceau de tissu porté autour du cou, généralement par les hommes, comme partie d'un ensemble formel.",
       "example": "I wore a tie to the wedding, I will wear a tie to the job interview, and I wore a tie to the party last night.",
       "example_translation": "J'ai porté une cravate au mariage, je porterai une cravate à l'entrevue d'embauche, et j'ai porté une cravate au party hier soir.",
-      "imageLink": "tie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tie.jpg",
       "audioLink": "tie.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Les collants sont un type de vêtement moulant porté par les femmes et les filles, généralement fait de nylon ou d'autres matières synthétiques, pour couvrir les jambes.",
       "example": "I wear tights in the winter, I will wear tights to the party, and I wore tights to the gym last week.",
       "example_translation": "Je porte des collants en hiver, je porterai des collants au party, et j'ai porté des collants au gym la semaine dernière.",
-      "imageLink": "tights.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tights.jpg",
       "audioLink": "tights.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Les chaussures de sport sont un type de chaussure d'athlétisme conçue pour des sports ou des activités physiques spécifiques, comme la course ou le basket-ball.",
       "example": "I wear trainers to the gym, I will wear trainers to the marathon, and I wore trainers to play soccer last weekend.",
       "example_translation": "Je porte des chaussures de sport au gym, je porterai des chaussures de sport au marathon, et j'ai porté des chaussures de sport pour jouer au soccer le week-end dernier.",
-      "imageLink": "trainers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trainers.jpg",
       "audioLink": "trainers.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un uniforme est un ensemble de vêtements standard porté par les membres d'une organisation, comme une école ou une entreprise, pour s'identifier comme faisant partie du groupe.",
       "example": "I wear a uniform to school, I will wear a uniform to work, and I wore a uniform to the ceremony last year.",
       "example_translation": "Je porte un uniforme à l'école, je porterai un uniforme au travail, et j'ai porté un uniforme à la cérémonie l'an dernier.",
-      "imageLink": "uniform.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uniform.jpg",
       "audioLink": "uniform.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Une blouse est un type de chemise décontractée, généralement avec un col et des boutons sur le devant.",
       "example": "I wore a blouse to the party last night. I will wear a blouse to the wedding tomorrow. I wore a blouse to the office yesterday.",
       "example_translation": "J'ai porté une blouse au party hier soir. Je porterai une blouse au mariage demain. J'ai porté une blouse au bureau hier.",
-      "imageLink": "blouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blouse.jpg",
       "audioLink": "blouse.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un col est une partie d'une chemise ou d'un autre vêtement qui s'ajuste autour du cou.",
       "example": "I adjusted the collar of my shirt to fit more comfortably. She will wash the collar of her dress tomorrow. They wore collars on their uniforms last year.",
       "example_translation": "J'ai ajusté le col de ma chemise pour s'adapter plus confortablement. Elle lavera le col de sa robe demain. Ils portaient des cols sur leurs uniformes l'année dernière.",
-      "imageLink": "collar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "collar.jpg",
       "audioLink": "collar.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un talon est la partie arrière du pied ou un type de chaussure avec un arrière élevé.",
       "example": "I wore high heels to the party last night. She will buy new heels tomorrow. He broke his heel while playing soccer.",
       "example_translation": "J'ai porté des talons hauts au party hier soir. Elle achètera de nouveaux talons demain. Il s'est cassé le talon en jouant au football.",
-      "imageLink": "heel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heel.jpg",
       "audioLink": "heel.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Les culottes sont un type de vêtement de dessous porté par les femmes.",
       "example": "I bought new knickers at the store yesterday. She will wear knickers to the gym tomorrow. They sold knickers at the market last week.",
       "example_translation": "J'ai acheté de nouvelles culottes au magasin hier. Elle portera des culottes au gymnase demain. Ils vendaient des culottes au marché la semaine dernière.",
-      "imageLink": "knickers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knickers.jpg",
       "audioLink": "knickers.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un vêtement porté autour des jambes, généralement fait de tissu ou de cuir, et souvent porté pour des occasions décontractées ou sportives.",
       "example": "I wore pants to the party last night, but I will wear a suit to the meeting tomorrow, and I have worn jeans to the concert next week.",
       "example_translation": "J'ai porté des pantalons à la soirée hier soir, mais je porterai un costume à la réunion demain, et j'aurai porté des jeans au concert la semaine prochaine.",
-      "imageLink": "pants.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pants.jpg",
       "audioLink": "pants.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un type de sweater ou haut casual confortable qui est tiré sur la tête, souvent porté pour se détendre ou faire des activités sportives.",
       "example": "I pulled on a pullover to stay warm during the hike, and I will wear a pullover to play basketball tonight, but I had worn a pullover to the beach last summer.",
       "example_translation": "J'ai enfilé un pull pour rester chaud pendant la randonnée, et je porterai un pull pour jouer au basketball ce soir, mais j'avais porté un pull à la plage l'été dernier.",
-      "imageLink": "pullover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pullover.jpg",
       "audioLink": "pullover.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un type de chaussure qui expose le pied, généralement porté en été ou pour les activités de plage.",
       "example": "I wore sandals to the beach yesterday, and I will wear sandals to the pool party tomorrow, but I had worn sandals to the garden last week.",
       "example_translation": "J'ai porté des sandales à la plage hier, et je porterai des sandales à la fête de piscine demain, mais j'avais porté des sandales au jardin la semaine dernière.",
-      "imageLink": "sandal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sandal.jpg",
       "audioLink": "sandal.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "La partie d'un vêtement qui couvre le bras, généralement allant de l'épaule au poignet.",
       "example": "I rolled up my sleeve to show off my tattoo, and I will wear a shirt with a short sleeve to the picnic tomorrow, but I had worn a jacket with a long sleeve to the concert last night.",
       "example_translation": "J'ai retroussé ma manche pour montrer mon tatouage, et je porterai une chemise à manche courte à la pique-nique demain, mais j'avais porté un blouson à manche longue au concert hier soir.",
-      "imageLink": "sleeve.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sleeve.jpg",
       "audioLink": "sleeve.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un pantoufle est un type de chaussure conçu pour être porté à l'intérieur, généralement fabriqué à partir de matériaux doux et confortables et souvent doté d'une conception de glissement.",
       "example": "I wore my slippers to walk around the house yesterday, I'm wearing them now, and I'll wear them again tomorrow.",
       "example_translation": "J'ai porté mes pantoufles pour marcher autour de la maison hier, je les porte maintenant, et je les porterai à nouveau demain.",
-      "imageLink": "slippers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "slippers.jpg",
       "audioLink": "slippers.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Un sweat-shirt est un type de chemise décontractée à manches longues, généralement fabriqué à partir de tissu épais et chaud, souvent porté pour des activités athlétiques ou de loisirs.",
       "example": "I loved wearing my favorite sweatshirt in college, I still wear it today, and I will wear it on my next trip.",
       "example_translation": "J'adorais porter mon sweat-shirt préféré au collège, je le porte encore aujourd'hui, et je le porterai lors de mon prochain voyage.",
-      "imageLink": "sweatshirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweatshirt.jpg",
       "audioLink": "sweatshirt.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Les maillots de bain sont un type de pantalon court et ajusté conçu pour la natation, les sports nautiques ou la détente près de la piscine.",
       "example": "I wore my swimming trunks to the beach last summer, I'm wearing them now at the pool, and I'll wear them again next week.",
       "example_translation": "J'ai porté mes maillots de bain à la plage l'été dernier, je les porte maintenant à la piscine, et je les porterai à nouveau la semaine prochaine.",
-      "imageLink": "swimming-trunks.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimming-trunks.jpg",
       "audioLink": "swimming trunks.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un débardeur est un type de vêtement qui couvre le buste, généralement porté pour des occasions décontractées ou formelles, et peut être sans manches, à manches courtes ou à manches longues.",
       "example": "I wore a top to the party last night, I'm wearing one now, and I'll wear another one to the concert tomorrow.",
       "example_translation": "J'ai porté un débardeur à la soirée dernière nuit, je porte un maintenant, et je porterai un autre à la concert demain.",
-      "imageLink": "top.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "top.jpg",
       "audioLink": "top.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un survêtement est un ensemble de vêtements détendu et confortable, généralement composé d'une veste et d'un pantalon en même matériau, souvent porté pour des activités sportives ou de loisirs.",
       "example": "I wore a tracksuit to the gym yesterday, I will wear it to the running event tomorrow, and I wore it to the park last week.",
       "example_translation": "J'ai porté un survêtement au gym hier, je le porterai à l'événement de course à pied demain, et j'l'ai porté au parc la semaine dernière.",
-      "imageLink": "tracksuit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tracksuit.jpg",
       "audioLink": "tracksuit.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Les caleçons sont un type de vêtement porté contre la peau sous d'autres habits, généralement fait d'un tissu doux et respirant.",
       "example": "I bought new underpants yesterday, I will wear them to bed tonight, and I wore them to the beach last summer.",
       "example_translation": "J'ai acheté des caleçons nouveaux hier, je les porterai au lit ce soir, et je les ai portés à la plage l'été dernier.",
-      "imageLink": "underpants.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "underpants.jpg",
       "audioLink": "underpants.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "La lingerie désigne les vêtements portés contre la peau sous d'autres habits, généralement incluant des caleçons, des soutiens-gorge et des chaussettes.",
       "example": "I need to do my laundry, including my underwear, I will wear my favorite underwear to the party tonight, and I bought new underwear last week.",
       "example_translation": "J'ai besoin de faire ma lessive, y compris ma lingerie, je porterai ma lingerie préférée au party ce soir, et j'ai acheté de la lingerie nouvelle la semaine dernière.",
-      "imageLink": "underwear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "underwear.jpg",
       "audioLink": "underwear.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un tablier est un morceau de tissu porté sur le devant du corps pour protéger les vêtements des taches et des éclaboussures, généralement utilisé pour cuisiner ou d'autres activités salissantes.",
       "example": "I wore an apron while cooking dinner yesterday, I will wear it to the barbecue tomorrow, and I wore it to the art class last week.",
       "example_translation": "J'ai porté un tablier pendant que je cuisinais le dîner hier, je le porterai au barbecue demain, et je l'ai porté à la classe d'art la semaine dernière.",
-      "imageLink": "apron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apron.jpg",
       "audioLink": "apron.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un bikini est un type de maillot de bain qui se compose de deux pièces, l'une couvrant les seins et l'autre couvrant la zone génitale.",
       "example": "I bought a new bikini for my trip to Hawaii last summer. Now, I'm packing it for my vacation next week. By next year, I'll have worn it to three beaches.",
       "example_translation": "J'ai acheté un nouveau bikini pour mon voyage à Hawaï l'été dernier. Maintenant, je le mets dans mes bagages pour mes vacances de la semaine prochaine. D'ici l'année prochaine, j'aurai porté à trois plages.",
-      "imageLink": "bikini.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bikini.jpg",
       "audioLink": "bikini.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Les boxer shorts sont un type de sous-vêtement qui a un élastique à la taille et est conçu pour le port athlétique ou informel.",
       "example": "My brother always wore boxer shorts to play basketball. Now, he wears them to lounge around the house. By next month, he'll have bought a new pair.",
       "example_translation": "Mon frère portait toujours des boxer shorts pour jouer au basket-ball. Maintenant, il les porte pour traîner à la maison. D'ici le mois prochain, il aura acheté une nouvelle paire.",
-      "imageLink": "boxer-shorts.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boxer-shorts.jpg",
       "audioLink": "boxer shorts.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Un soutien-gorge est un type de sous-vêtement qui est conçu pour soutenir et couvrir les seins.",
       "example": "I need to buy a new bra because my old one is too small. Now, I'm trying on different sizes. By next week, I'll have found the perfect fit.",
       "example_translation": "J'ai besoin d'acheter un nouveau soutien-gorge parce que mon vieux est trop petit. Maintenant, j'essaie des tailles différentes. D'ici la semaine prochaine, j'aurai trouvé la taille parfaite.",
-      "imageLink": "bra.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bra.jpg",
       "audioLink": "bra.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Les culottes sont un type de sous-vêtement qui offre une couverture et un soutien pour la zone génitale.",
       "example": "I prefer wearing briefs to wear loose-fitting pants. Now, I'm shopping for a new pair. By next year, I'll have bought five more pairs.",
       "example_translation": "Je préfère porter des culottes pour porter des pantalons amples. Maintenant, je fais du shopping pour une nouvelle paire. D'ici l'année prochaine, j'aurai acheté cinq paires de plus.",
-      "imageLink": "briefs.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "briefs.jpg",
       "audioLink": "briefs.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un cardigan est un type de vêtement tricoté qui a un devant ouvert et est généralement porté sur une chemise ou une blouse.",
       "example": "I wore a cardigan to the party last night, I will wear a cardigan to the office tomorrow, and I wore a cardigan to the park yesterday.",
       "example_translation": "J'ai porté un cardigan à la soirée hier soir, je porterai un cardigan au bureau demain, et j'ai porté un cardigan au parc hier.",
-      "imageLink": "cardigan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cardigan.jpg",
       "audioLink": "cardigan.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Un costume est un ensemble de vêtements portés pour créer un personnage ou une image spécifique, souvent pour une performance ou une occasion spéciale.",
       "example": "I wore a costume to the Halloween party last year, I will wear a costume to the play tomorrow, and I wore a costume to the masquerade ball yesterday.",
       "example_translation": "J'ai porté un costume à la soirée d'Halloween l'an dernier, je porterai un costume à la pièce de théâtre demain, et j'ai porté un costume au bal masqué hier.",
-      "imageLink": "costume-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "costume-1.jpg",
       "audioLink": "costume.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Une manchette est une bande ou une sangle qui forme la partie inférieure d'une manche, se repliant généralement pour former une manchette.",
       "example": "I rolled up my sleeve to show off my cuff, I will adjust my cuff for the presentation tomorrow, and I had to mend my cuff yesterday.",
       "example_translation": "J'ai roulé ma manche pour montrer ma manchette, je vais ajuster ma manchette pour la présentation demain, et j'ai dû réparer ma manchette hier.",
-      "imageLink": "cuff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuff.jpg",
       "audioLink": "cuff.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un casque est un chapeau protecteur porté pour protéger la tête des blessures, souvent porté par des athlètes, des travailleurs de la construction ou des personnels militaires.",
       "example": "I wore a helmet to the bike ride yesterday, I will wear a helmet to the game tomorrow, and I had to adjust my helmet before the competition last week.",
       "example_translation": "J'ai porté un casque à la sortie à vélo hier, je porterai un casque au match demain, et j'ai dû ajuster mon casque avant la compétition la semaine dernière.",
-      "imageLink": "helmet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "helmet.jpg",
       "audioLink": "helmet.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Un capot est un couvre-chef protecteur pour la tête et le cou, généralement attaché à un manteau ou un coat.",
       "example": "She pulled up the hood of her jacket to protect herself from the rain. Yesterday, she had worn it to the park. Tomorrow, she will wear it to school.",
       "example_translation": "Elle a hissé le capot de son manteau pour se protéger de la pluie. Hier, elle l'avait porté au parc. Demain, elle le portera à l'école.",
-      "imageLink": "hood.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hood.jpg",
       "audioLink": "hood.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Les chaussettes-tibias sont un type de chaussette qui couvre le pied et la jambe jusqu'au genou.",
       "example": "She wore knee socks to play soccer. Yesterday, she had worn them to the gym. Next week, she will wear them to the match.",
       "example_translation": "Elle a porté des chaussettes-tibias pour jouer au football. Hier, elle les avait portés au gymnase. La semaine prochaine, elle les portera au match.",
-      "imageLink": "knee-socks.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knee-socks.jpg",
       "audioLink": "knee socks.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Une robe de nuit est un vêtement ample, généralement en coton ou en soie, porté pour dormir ou se reposer.",
       "example": "She put on her nightgown and went to bed. Yesterday, she had worn it to relax after dinner. Tomorrow, she will wear it to lounge around the house.",
       "example_translation": "Elle a mis sa robe de nuit et est allée au lit. Hier, elle l'avait portée pour se reposer après dîner. Demain, elle la portera pour vaguer dans la maison.",
-      "imageLink": "nightgown.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightgown.jpg",
       "audioLink": "nightgown.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Une nuisette est un vêtement ample, généralement en coton ou en soie, porté pour dormir ou se reposer.",
       "example": "She put on her nightie and went to bed. Yesterday, she had worn it to relax after dinner. Tomorrow, she will wear it to lounge around the house.",
       "example_translation": "Elle a mis sa nuisette et est allée au lit. Hier, elle l'avait portée pour se reposer après dîner. Demain, elle la portera pour vaguer dans la maison.",
-      "imageLink": "nightie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightie.jpg",
       "audioLink": "nightie.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "pantalon et veste ou haut confortables portés pour dormir ou se reposer.",
       "example": "I wore my favourite pyjamas to bed last night. I will wear my new pyjamas tonight. I wore pyjamas to the party and felt out of place.",
       "example_translation": "J'ai porté mes pyjamas préférés au lit hier soir. Je porterai mes nouveaux pyjamas ce soir. J'ai porté des pyjamas à la soirée et me suis senti déplacé.",
-      "imageLink": "pyjamas.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pyjamas.jpg",
       "audioLink": "pyjamas.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "un type de chaussure décontractée, notamment une avec une semelle en caoutchouc et une tige en toile ou en cuir.",
       "example": "I bought new sneakers for the gym. She will wear her sneakers to the park tomorrow. They wore sneakers to the basketball game.",
       "example_translation": "J'ai acheté de nouvelles baskets pour la salle de sport. Elle portera ses baskets au parc demain. Ils portaient des baskets au match de basketball.",
-      "imageLink": "sneakers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sneakers.jpg",
       "audioLink": "sneakers.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "un peignoir confortable et ample porté après un bain ou une douche.",
       "example": "I wrapped myself in a warm bathrobe after the shower. She will put on her bathrobe after the bath. They wore bathrobes to the spa.",
       "example_translation": "Je me suis enveloppé dans un peignoir chaud après la douche. Elle mettra son peignoir après le bain. Ils portaient des peignoirs au spa.",
-      "imageLink": "bathrobe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bathrobe.jpg",
       "audioLink": "bathrobe.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "un type de cravate qui se compose d'un ruban ou d'une bande de tissu avec des extrémités nouées en forme de nœud.",
       "example": "He wore a bow tie to the wedding. I will wear a bow tie to the party tonight. She had worn a bow tie to the formal event.",
       "example_translation": "Il portait un nœud papillon au mariage. Je porterai un nœud papillon à la soirée ce soir. Elle avait porté un nœud papillon à l'événement formel.",
-      "imageLink": "bow-tie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bow-tie.jpg",
       "audioLink": "bow tie.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Les salopettes sont un type de pantalon décontracté ou de combinaison, généralement fait de denim ou d'un autre tissu épais, souvent porté pour les activités en plein air ou comme un tendance de mode décontractée.",
       "example": "I wore dungarees to the farm to help with the harvest. I will wear dungarees to the music festival next week. I wore dungarees to the beach last summer.",
       "example_translation": "J'ai porté des salopettes à la ferme pour aider à la récolte. Je porterai des salopettes au festival de musique la semaine prochaine. J'ai porté des salopettes à la plage l'été dernier.",
-      "imageLink": "dungarees.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dungarees.jpg",
       "audioLink": "dungarees.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Les tongs sont un type de chaussure décontractée, généralement faite de caoutchouc ou de plastique, portée sur la plage ou en temps chaud.",
       "example": "I bought a pair of flip-flops for my vacation. I will wear flip-flops to the pool party tomorrow. I wore flip-flops to the beach last weekend.",
       "example_translation": "J'ai acheté une paire de tongs pour mes vacances. Je porterai des tongs à la soirée à la piscine demain. J'ai porté des tongs à la plage le week-end dernier.",
-      "imageLink": "flip-flops.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flip-flops.jpg",
       "audioLink": "flip-flops.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un manteau de fourrure est un type de vêtement extérieur, généralement fait de la fourrure d'animaux tels que le vison, le renard ou le lapin, porté pour la chaleur et le style.",
       "example": "She wore a fur coat to the opera. I will wear a fur coat to the winter ball. He wore a fur coat to the ski resort last winter.",
       "example_translation": "Elle a porté un manteau de fourrure à l'opéra. Je porterai un manteau de fourrure au bal d'hiver. Il a porté un manteau de fourrure à la station de ski l'hiver dernier.",
-      "imageLink": "fur-coat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fur-coat.jpg",
       "audioLink": "fur coat.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Les salopettes sont un type de vêtement décontracté, généralement fait de denim ou d'un autre tissu épais, porté pour les activités en plein air ou comme un tendance de mode décontractée.",
       "example": "I wore overalls to the farm to help with the harvest. I will wear overalls to the music festival next week. I wore overalls to the beach last summer.",
       "example_translation": "J'ai porté des salopettes à la ferme pour aider à la récolte. Je porterai des salopettes au festival de musique la semaine prochaine. J'ai porté des salopettes à la plage l'été dernier.",
-      "imageLink": "overalls.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "overalls.jpg",
       "audioLink": "overalls.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Un type de vêtement qui couvre les jambes et le bas du corps, généralement fait de nylon ou d'autres matières synthétiques.",
       "example": "I wore pantyhose to the office yesterday, I will wear them to the party tonight, and I wore them to the wedding last week.",
       "example_translation": "J'ai porté des collants au bureau hier, je vais les porter à la fête ce soir, et j'ai porté des collants au mariage la semaine dernière.",
-      "imageLink": "pantyhose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pantyhose.jpg",
       "audioLink": "pantyhose.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Un pièce de vêtement qui couvre les jambes, généralement fait de nylon ou d'autres matières synthétiques.",
       "example": "I hang my stockings by the chimney with care, I will wear them to the dance tonight, and I wore them to the party last year.",
       "example_translation": "J'accroche mes bas près de la cheminée avec soin, je vais les porter à la danse ce soir, et j'ai porté des bas à la fête l'an dernier.",
-      "imageLink": "stockings.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stockings.jpg",
       "audioLink": "stockings.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Un type de chapeau qui est haut et plat, généralement fait de feutre ou d'autres matières, porté par les hommes dans le passé.",
       "example": "He wore a top hat to the opera last night, he will wear it to the wedding tomorrow, and he wore it to the royal ball last century.",
       "example_translation": "Il a porté un chapeau haut-de-forme à l'opéra hier soir, il le portera au mariage demain, et il l'a porté au bal royal siècle dernier.",
-      "imageLink": "top-hat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "top-hat.jpg",
       "audioLink": "top hat.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Un pièce de tissu porté sur le visage ou la tête, généralement par les femmes, pour la modestie ou comme un énoncé de mode.",
       "example": "The bride wore a veil at the wedding ceremony, she will wear it to the reception tonight, and she wore it to the church last week.",
       "example_translation": "La mariée a porté un voile à la cérémonie de mariage, elle le portera à la réception ce soir, et elle l'a porté à l'église la semaine dernière.",
-      "imageLink": "veil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "veil.jpg",
       "audioLink": "veil.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "un vêtement sans manches porté sur la partie supérieure du corps, généralement pour se réchauffer ou comme une déclaration de mode",
       "example": "I wore a vest to keep warm during the hike. Yesterday, I wore a vest to the party. I will wear a vest to the camping trip next week.",
       "example_translation": "J'ai porté un gilet pour me réchauffer pendant la randonnée. Hier, j'ai porté un gilet à la fête. Je porterai un gilet au camping la semaine prochaine.",
-      "imageLink": "singlet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "singlet.jpg",
       "audioLink": "vest.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "un vêtement de tête en tissu qui couvre la tête, le cou et souvent une partie du visage, porté pour se réchauffer ou comme un déguisement",
       "example": "The skier wore a balaclava to protect her face from the cold wind. My brother wore a balaclava to the Halloween party. The thief wore a balaclava to conceal his identity.",
       "example_translation": "Le skieur a porté une cagoule pour protéger son visage du vent froid. Mon frère a porté une cagoule à la fête d'Halloween. Le voleur a porté une cagoule pour cacher son identité.",
-      "imageLink": "balaclava.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "balaclava.jpg",
       "audioLink": "balaclava.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "pantalon serré, spécialement ceux portés pour monter à cheval",
       "example": "The cowboy wore breeches to ride the horse. My sister wore breeches to the horse-riding competition. The tourists wore breeches to ride the camels in the desert.",
       "example_translation": "Le cowboy a porté des culottes pour monter le cheval. Ma sœur a porté des culottes à la compétition d'équitation. Les touristes ont porté des culottes pour monter les chameaux dans le désert.",
-      "imageLink": "breeches.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "breeches.jpg",
       "audioLink": "breeches.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "un vêtement extérieur sans manches, généralement suspendu au cou et autour des épaules, porté pour se réchauffer ou comme un symbole de puissance",
       "example": "Superman wore a cape to fight the villains. The vampire wore a cape to the masquerade ball. The graduate wore a cape to the ceremony.",
       "example_translation": "Superman a porté une cape pour combattre les méchants. Le vampire a porté une cape au bal masqué. Le diplômé a porté une cape à la cérémonie.",
-      "imageLink": "cape.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cape.jpg",
       "audioLink": "cape.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Un clog est un type de chaussure qui est généralement fabriqué en bois ou en plastique et a une semelle épaisse. Il est souvent porté pour les occasions formelles et est connu pour son confort et sa durabilité.",
       "example": "I wore clogs to the party last night, and my feet felt great. I will wear clogs to the wedding tomorrow, and I have worn clogs to work every day this week.",
       "example_translation": "J'ai porté des clogs au party hier soir, et mes pieds se sont sentis très bien. Je porterai des clogs au mariage demain, et j'ai porté des clogs au travail tous les jours cette semaine.",
-      "imageLink": "clog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clog.jpg",
       "audioLink": "clog.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Un corset est un type de vêtement qui est porté pour fournir un soutien et une forme au torse. Il est souvent porté par les femmes et est connu pour sa capacité à mettre en valeur la silhouette.",
       "example": "I wore a corset to the ball last month, and I felt like a princess. I will wear a corset to the party tonight, and I have worn a corset to every formal event this year.",
       "example_translation": "J'ai porté un corset au bal dernier mois, et je me suis sentie comme une princesse. Je porterai un corset au party ce soir, et j'ai porté un corset à chaque événement formel cette année.",
-      "imageLink": "corset.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corset.jpg",
       "audioLink": "corset.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Les bas résille sont un type de bas qui a un motif en forme de filet. Ils sont souvent portés pour la mode ou comme accessoire de costume.",
       "example": "I wore fishnet tights to the Halloween party last year, and I got a lot of compliments. I will wear fishnet tights to the fashion show tomorrow, and I have worn fishnet tights to every costume party this year.",
       "example_translation": "J'ai porté des bas résille au party d'Halloween l'an dernier, et j'ai reçu beaucoup de compliments. Je porterai des bas résille au défilé de mode demain, et j'ai porté des bas résille à chaque party de costume cette année.",
-      "imageLink": "fishnet-tights.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fishnet-tights.jpg",
       "audioLink": "fishnet tights.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Une ceinture est un type de vêtement qui est porté autour de la taille pour fournir un soutien et une forme. Elle est souvent portée par les femmes et est connue pour sa capacité à mettre en valeur la silhouette.",
       "example": "I wore a girdle to the wedding last summer, and I felt very confident. I will wear a girdle to the party tonight, and I have worn a girdle to every formal event this year.",
       "example_translation": "J'ai porté une ceinture au mariage l'été dernier, et je me suis sentie très confiante. Je porterai une ceinture au party ce soir, et j'ai porté une ceinture à chaque événement formel cette année.",
-      "imageLink": "girdle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "girdle.jpg",
       "audioLink": "girdle.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Revêtements serrés et chauds pour les jambes, généralement portés par les danseurs pour garder leurs muscles chauds.",
       "example": "She wore leg warmers to ballet practice to prevent muscle strain. She had worn leg warmers to her last show. She will wear leg warmers to her next performance.",
       "example_translation": "Elle a porté des chaussettes de danse à la répétition de ballet pour éviter la douleur musculaire. Elle avait porté des chaussettes de danse à son dernier spectacle. Elle portera des chaussettes de danse à sa prochaine performance.",
-      "imageLink": "leg-warmers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leg-warmers.jpg",
       "audioLink": "leg warmers.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Une jupe, généralement suspendue à la taille, portée sous une robe ou une jupe pour ajouter de la ampleur ou de la chaleur.",
       "example": "In the old days, women wore petticoats under their skirts to add volume. She wore a petticoat to her wedding to match her antique dress. She will wear a petticoat to the costume party.",
       "example_translation": "Autrefois, les femmes portaient des jupons sous leurs jupes pour ajouter du volume. Elle a porté un jupon à son mariage pour correspondre à sa robeintage. Elle portera un jupon à la soirée costumée.",
-      "imageLink": "petticoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "petticoat.jpg",
       "audioLink": "petticoat.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Un manteau fait de peau de mouton, souvent porté pour se chauffer et se protéger du temps dur.",
       "example": "He wore a sheepskin coat to keep warm during the winter months. She had worn a sheepskin coat to the ranch to work outside. He will wear a sheepskin coat to the mountains for skiing.",
       "example_translation": "Il a porté un manteau de peau de mouton pour se chauffer pendant les mois d'hiver. Elle avait porté un manteau de peau de mouton à la ranch pour travailler à l'extérieur. Il portera un manteau de peau de mouton aux montagnes pour skier.",
-      "imageLink": "sheepskin-coat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sheepskin-coat.jpg",
       "audioLink": "sheepskin coat.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Un vêtement sans manches porté sur une chemise, généralement pour se chauffer ou comme partie d'un uniforme.",
       "example": "He wore a vest to add an extra layer of warmth on the chilly day. She had worn a vest to the office to look professional. He will wear a vest to the outdoor festival.",
       "example_translation": "Il a porté un gilet pour ajouter une couche supplémentaire de chaleur le jour frais. Elle avait porté un gilet au bureau pour avoir l'air professionnel. Il portera un gilet au festival en plein air.",
-      "imageLink": "vest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vest.jpg",
       "audioLink": "vest.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Un couvre-chef porté par les femmes et les enfants, souvent décoré de rubans ou de fleurs.",
       "example": "She wore a beautiful bonnet to the garden party. She will wear a bonnet to the wedding. She wore a bonnet to the birthday party.",
       "example_translation": "Elle portait un beau bonnet à la fête de jardin. Elle portera un bonnet au mariage. Elle portait un bonnet à la fête d'anniversaire.",
-      "imageLink": "bonnet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bonnet.jpg",
       "audioLink": "bonnet.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Un vêtement confortable et décontracté porté sur les vêtements de nuit, généralement pour se détendre à la maison.",
       "example": "She put on her dressing gown to watch TV after dinner. She will wear her dressing gown to breakfast. She wore her dressing gown to bed.",
       "example_translation": "Elle a mis sa robe de chambre pour regarder la télévision après dîner. Elle portera sa robe de chambre pour le petit déjeuner. Elle a porté sa robe de chambre au lit.",
-      "imageLink": "dressing-gown.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dressing-gown.jpg",
       "audioLink": "dressing gown.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Un sweater décontracté et ample avec une capuche, souvent porté pour des activités athlétiques ou informelles.",
       "example": "He wore a hoodie to the gym. He will wear a hoodie to the concert. He wore a hoodie to the park.",
       "example_translation": "Il a porté un sweat à capuche au gymnase. Il portera un sweat à capuche au concert. Il a porté un sweat à capuche au parc.",
-      "imageLink": "hoodie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hoodie.jpg",
       "audioLink": "hoodie.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Un vêtement confortable et décontracté porté à la maison, généralement pour se détendre ou faire des tâches ménagères.",
       "example": "She put on her housecoat to clean the house. She will wear her housecoat to cook dinner. She wore her housecoat to vacuum the floor.",
       "example_translation": "Elle a mis sa robe d'intérieur pour nettoyer la maison. Elle portera sa robe d'intérieur pour cuisiner le dîner. Elle a porté sa robe d'intérieur pour aspirer le sol.",
-      "imageLink": "housecoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "housecoat.jpg",
       "audioLink": "housecoat.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Un type de pull avec un col haut et plié qui couvre le cou, généralement porté pour des occasions décontractées ou sportives.",
       "example": "I wore a turtleneck to the party last night, and it was very comfortable. Today, I am wearing a turtleneck to go jogging. By next week, I will have bought a new turtleneck for the winter.",
       "example_translation": "J'ai porté un col roulé au party hier soir, et c'était très confortable. Aujourd'hui, je porte un col roulé pour aller jogging. D'ici la semaine prochaine, j'aurai acheté un nouveau col roulé pour l'hiver.",
-      "imageLink": "turtleneck.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turtleneck.jpg",
       "audioLink": "turtleneck.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Une couche de tissu portée sous une jupe ou une robe, généralement pour ajouter du volume ou de la chaleur.",
       "example": "My grandmother wore an underskirt to add volume to her skirt in the 1950s. Today, I wear an underskirt to keep warm in the winter. By next year, I will have learned to make my own underskirts.",
       "example_translation": "Ma grand-mère portait une jupe-culotte pour ajouter du volume à sa jupe dans les années 1950. Aujourd'hui, je porte une jupe-culotte pour me tenir chaud en hiver. D'ici l'année prochaine, j'aurai appris à faire mes propres jupes-culottes.",
-      "imageLink": "underskirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "underskirt.jpg",
       "audioLink": "underskirt.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Un vêtement sans manches porté autour de la taille, généralement comme partie d'un costume trois pièces.",
       "example": "My grandfather wore a waistcoat to formal events in the past. Today, I wear a waistcoat to look stylish. By next month, I will have bought a new waistcoat for the wedding.",
       "example_translation": "Mon grand-père portait un gilet aux événements formels dans le passé. Aujourd'hui, je porte un gilet pour avoir de l'allure. D'ici le mois prochain, j'aurai acheté un nouveau gilet pour le mariage.",
-      "imageLink": "waistcoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "waistcoat.jpg",
       "audioLink": "waistcoat.mp3"
     }
   ]

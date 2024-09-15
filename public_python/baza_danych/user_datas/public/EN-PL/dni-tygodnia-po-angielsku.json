@@ -9,7 +9,7 @@
       "definition_translation": "dzień tygodnia między czwartkiem a sobotą",
       "example": "I'm meeting my friends on Friday night.",
       "example_translation": "Spotkam się z przyjaciółmi w piątek wieczorem.",
-      "imageLink": "image_files\\English\\friday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "friday.jpg",
       "audioLink": "audio_files\\English\\Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Pierwszy dzień tygodnia, obchodzony jako dzień wolny w wielu krajach.",
       "example": "I'm free on Monday, let's meet up.",
       "example_translation": "Jestem wolny w poniedziałek, spotkajmy się.",
-      "imageLink": "image_files\\English\\monday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "monday.jpg",
       "audioLink": "audio_files\\English\\Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\saturday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "saturday.jpg",
       "audioLink": "audio_files\\English\\Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Dzień tygodnia pomiędzy sobotą a poniedziałkiem",
       "example": "I'm going to the park on Sunday.",
       "example_translation": "Idę do parku w niedzielę.",
-      "imageLink": "image_files\\English\\sunday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunday.jpg",
       "audioLink": "audio_files\\English\\Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Piąty dzień tygodnia, tradycyjnie uważany za dzień odpoczynku.",
       "example": "I have a meeting on Thursday at 2 PM.",
       "example_translation": "Mam spotkanie w czwartek o 14:00.",
-      "imageLink": "image_files\\English\\thursday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thursday.jpg",
       "audioLink": "audio_files\\English\\Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Dzień tygodnia między poniedziałkiem a środą.",
       "example": "I have a meeting on Tuesday.",
       "example_translation": "Mam spotkanie we wtorek.",
-      "imageLink": "image_files\\English\\tuesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tuesday.jpg",
       "audioLink": "audio_files\\English\\Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "dzień tygodnia między wtorkiem a czwartkiem",
       "example": "I have a meeting on Wednesday afternoon.",
       "example_translation": "Mam spotkanie w środę po południu.",
-      "imageLink": "image_files\\English\\wednesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wednesday.jpg",
       "audioLink": "audio_files\\English\\Wednesday.mp3"
     }
   ]

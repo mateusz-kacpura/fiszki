@@ -9,7 +9,7 @@
       "definition_translation": "Sentindo-se cansado e infeliz porque algo não é interessante.",
       "example": "Me aburrió la reunión de ayer. Me aburro con esta película. Me aburriré si tengo que hacer esto de nuevo.",
       "example_translation": "Eu estava entediado na reunião ontem. Estou entediado com esse filme. Eu estarei entediado se tiver que fazer isso novamente.",
-      "imageLink": "bored.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bored.jpg",
       "audioLink": "bored.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Não interessante ou emocionante.",
       "example": "Esta película es aburrida. Me pareció aburrida la conferencia. El libro fue aburrido.",
       "example_translation": "Este filme é chato. Eu achei a palestra chata. O livro foi chato.",
-      "imageLink": "boring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boring.jpg",
       "audioLink": "boring.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Tendo ou mostrando uma mente rápida e inventiva.",
       "example": "Mi hermana es inteligente y siempre resuelve puzzles rápidamente. Pensé que la solución fue inteligente. Él fue lo suficientemente inteligente como para figuraarlo.",
       "example_translation": "Minha irmã é inteligente e sempre resolve quebra-cabeças rapidamente. Eu achei que a solução foi inteligente. Ele foi inteligente o suficiente para descobrir.",
-      "imageLink": "clever.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clever.jpg",
       "audioLink": "clever.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Necessitando muito esforço ou habilidade para alcançar, entender ou lidar com.",
       "example": "El problema de matemáticas fue difícil. Me pareció difícil el examen. El proyecto fue difícil de completar.",
       "example_translation": "O problema de matemática era difícil. Eu achei o exame difícil. O projeto foi difícil de completar.",
-      "imageLink": "difficult.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "difficult.jpg",
       "audioLink": "difficult.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Sentindo-se entusiasta e ansioso; emocionado ou energizado.",
       "example": "Me emocioné para ir de vacaciones el año pasado, estoy emocionado para ir la próxima semana, y me emocionaré para ir de nuevo el año próximo.",
       "example_translation": "Eu estava animado para ir de férias no ano passado, estou animado para ir na próxima semana e estarei animado para ir novamente no ano que vem.",
-      "imageLink": "excited.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "excited.jpg",
       "audioLink": "excited.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Causando sentimentos de entusiasmo e ansiedade; emocionante ou estimulante.",
       "example": "La noticia emocionante me hizo saltar de alegría, el juego emocionante me tenía al borde de mi asiento, y la vista emocionante me quitó el aliento.",
       "example_translation": "As notícias emocionantes me fizeram pular de alegria, o jogo emocionante me manteve na beirada da minha cadeira e a vista emocionante me tirou o fôlego.",
-      "imageLink": "exciting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exciting.jpg",
       "audioLink": "exciting.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Bem-conhecido e celebrado; proeminente ou renomado.",
       "example": "Él fue famoso por sus habilidades actuación, ella será famosa por su descubrimiento científico, y ellos fueron famosos por su trabajo de caridad.",
       "example_translation": "Ele era famoso por suas habilidades de atuação, ela será famosa por sua descoberta científica e eles eram famosos por seu trabalho de caridade.",
-      "imageLink": "famous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "famous.jpg",
       "audioLink": "famous.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Causando risos ou divertimento; cômico ou divertido.",
       "example": "El chiste divertido nos hizo reír, la película divertida nos tenía en stitches, y la situación divertida fue bastante embarazosa.",
       "example_translation": "A piada engraçada nos fez rir, o filme engraçado nos deixou em cócegas e a situação engraçada foi bem embaraçosa.",
-      "imageLink": "funny.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "funny.jpg",
       "audioLink": "funny.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "tendo uma qualidade ou caráter favorável; moralmente excelente",
       "example": "Me sentí bien cuando recibí la noticia. He estado sintiendo bien últimamente. Me sentiré bien cuando me gradúe.",
       "example_translation": "Eu me senti bem quando recebi a notícia. Eu tenho me sentido bem ultimamente. Eu me sentirei bem quando me formar.",
-      "imageLink": "good-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "good-1.jpg",
       "audioLink": "good.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "sentindo ou mostrando prazer ou contentamento",
       "example": "Estuve feliz cuando era niño. Soy feliz ahora. Seré feliz cuando me retire.",
       "example_translation": "Eu era feliz quando eu era criança. Eu sou feliz agora. Eu serei feliz quando me aposentar.",
-      "imageLink": "happy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "happy.jpg",
       "audioLink": "happy.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "arousando curiosidade ou interesse; atraente ou fascinante",
       "example": "La película fue interesante. El libro es interesante. La conferencia será interesante.",
       "example_translation": "O filme foi interessante. O livro é interessante. A palestra será interessante.",
-      "imageLink": "interesting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "interesting.jpg",
       "audioLink": "interesting.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "agradável, agradável ou satisfatório",
       "example": "Ella es una persona agradable. El clima fue agradable ayer. El hotel será agradable.",
       "example_translation": "Ela é uma pessoa legal. O tempo foi legal ontem. O hotel será legal.",
-      "imageLink": "nice.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nice.jpg",
       "audioLink": "nice.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Sentindo-se infeliz, triste ou desapontado; estado emocional infeliz.",
       "example": "Estuve triste cuando mi perro favorito murió. Estoy triste porque fallé el examen. Estaré triste si no veo a mis amigos de nuevo.",
       "example_translation": "Eu estava triste quando meu cachorro favorito faleceu. Estou triste porque falhei no exame. Estarei triste se não ver meus amigos novamente.",
-      "imageLink": "sad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sad.jpg",
       "audioLink": "sad.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Sentindo-se fisicamente ou mentalmente exausto; precisando de descanso ou sono.",
       "example": "Estuve cansado después de correr un maratón. Estoy cansado porque no dormí bien. Estaré cansado si no tomo un descanso.",
       "example_translation": "Eu estava cansado após correr um maratona. Estou cansado porque não dormi bem. Estarei cansado se não fizer uma pausa.",
-      "imageLink": "tired.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tired.jpg",
       "audioLink": "tired.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Propenso a esquecimento ou falta de atenção; descuidado ou negligente.",
       "example": "Fui despistado y olvidé mis llaves. Estoy despistado cuando estoy apurado. Estaré despistado si no me enfoco.",
       "example_translation": "Eu estava distraído e esqueci minhas chaves. Estou distraído quando estou com pressa. Estarei distraído se não me concentrar.",
-      "imageLink": "absent-minded.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "absent-minded.jpg",
       "audioLink": "absent-minded.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Sentindo medo ou ansiedade; apreensivo sobre algo.",
       "example": "Tenía miedo de la oscuridad cuando era niño. Tengo miedo de las alturas. Tendré miedo si veo una serpiente.",
       "example_translation": "Eu estava temeroso do escuro quando era criança. Estou temeroso de alturas. Estarei temeroso se ver uma cobra.",
-      "imageLink": "afraid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "afraid.jpg",
       "audioLink": "afraid.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Sentindo ou mostrando grande raiva ou irritação.",
       "example": "Estuve enojado cuando vi las noticias ayer, pero ahora estoy enojado porque perdí la fecha límite, y estaré enojado si no recibo una disculpa.",
       "example_translation": "Eu estava zangado quando vi as notícias ontem, mas agora estou zangado porque perdi o prazo, e serei zangado se não receber um pedido de desculpas.",
-      "imageLink": "angry.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "angry.jpg",
       "audioLink": "angry.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Dando atenção próxima a algo para evitar erros ou danos.",
       "example": "Fui cuidadoso cuando conducía anoche, pero seré cuidadoso cuando cruce la calle, y había sido cuidadoso cuando escribía el informe.",
       "example_translation": "Eu fui cuidadoso quando estava dirigindo ontem à noite, mas serei cuidadoso quando estiver cruzando a rua, e havia sido cuidadoso quando estava escrevendo o relatório.",
-      "imageLink": "careful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "careful.jpg",
       "audioLink": "careful.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Moderadamente frio em temperatura.",
       "example": "La brisa fresca se sintió genial cuando caminaba afuera, pero será fresco cuando llegue a la montaña, y había sido fresco cuando nadaba en el lago.",
       "example_translation": "O vento fresco se sentiu ótimo quando estava caminhando fora, mas será fresco quando chegar à montanha, e havia sido fresco quando estava nadando no lago.",
-      "imageLink": "cool-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cool-1.jpg",
       "audioLink": "cool.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Tendo ou mostrando um estado de espírito severamente anormal ou perturbador.",
       "example": "Pensé que estaba loco cuando decidió renunciar a su trabajo, pero pensaré que está loco si no toma la medicina, y había pensado que estaba loco cuando inició su propio negocio.",
       "example_translation": "Pensei que ele era louco quando decidiu deixar o emprego, mas pensei que ele seja louco se não tomar o remédio, e havia pensado que ele era louco quando começou seu próprio negócio.",
-      "imageLink": "crazy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crazy.jpg",
       "audioLink": "crazy.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Cheio de risco ou ameaça; propenso a causar lesão ou dano",
       "example": "El acantilado peligroso me hizo sentir ansioso, había sido cuidadoso en él el año pasado, y seré más cauteloso cuando lo visite el próximo mes.",
       "example_translation": "O penhasco perigoso me fez sentir ansioso, eu tinha sido cuidadoso nele no ano passado, e serei mais cauteloso quando o visitar no próximo mês.",
-      "imageLink": "dangerous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dangerous.jpg",
       "audioLink": "dangerous.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Tendo ou mostrando uma natureza agradável e afetiva",
       "example": "Mi vecino amistoso me invitó a su fiesta, asistí a ella la semana pasada, y asistiré de nuevo el próximo año.",
       "example_translation": "Meu vizinho amigável havia me convidado para sua festa, eu havia comparecido a ela na semana passada, e irei comparecer novamente no ano que vem.",
-      "imageLink": "friendly-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "friendly-1.jpg",
       "audioLink": "friendly.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Sentindo ou mostrando prazer ou contentamento",
       "example": "Estuve contento de ver a mi viejo amigo después de muchos años, estoy contento de verlo ahora, y estaré contento de verlo de nuevo en el futuro.",
       "example_translation": "Eu estava feliz em ver meu velho amigo após muitos anos, estou feliz em vê-lo agora, e estarei feliz em vê-lo novamente no futuro.",
-      "imageLink": "glad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "glad.jpg",
       "audioLink": "glad.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Verdadeiro e sincero; não mentindo ou Trapaceando",
       "example": "Mi amigo honrado siempre me ha dicho la verdad, me dijo la verdad ayer, y me dirá la verdad mañana.",
       "example_translation": "Meu amigo honesto sempre me disse a verdade, ele me disse a verdade ontem, e ele me dirá a verdade amanhã.",
-      "imageLink": "honest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "honest.jpg",
       "audioLink": "honest.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Tendo um forte desejo de aprender ou saber sobre algo ou alguém, ou de estar envolvido em algo.",
       "example": "Estuve interesado en la película, así que decidí verla. Estoy interesado en aprender más sobre el tema. Estaré interesado en ver los resultados del experimento.",
       "example_translation": "Eu estava interessado no filme, então decidi assistir. Estou interessado em aprender mais sobre o tópico. Estarei interessado em ver os resultados do experimento.",
-      "imageLink": "interested.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "interested.jpg",
       "audioLink": "interested.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Tendo um coração quente e generoso, sendo amigável e considerado em relação aos outros.",
       "example": "Ella era una persona amable que siempre ayudaba a aquellos que lo necesitaban. Él fue amable con su hermana cuando ella se sentía triste. Serán amables con el nuevo estudiante en clase.",
       "example_translation": "Ela era uma pessoa gentil que sempre ajudava os necessitados. Ele foi gentil com sua irmã quando ela estava se sentindo triste. Eles serão gentis com o novo estudante na classe.",
-      "imageLink": "kind.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kind.jpg",
       "audioLink": "kind.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Não querer trabalhar ou fazer um esforço, preferindo descansar ou não fazer nada.",
       "example": "Él era perezoso y no quería hacer su tarea. Ella era perezosa y durmió todo el día. Serán perezosos y no terminarán el proyecto a tiempo.",
       "example_translation": "Ele era preguiçoso e não queria fazer seu trabalho de casa. Ela era preguiçosa e dormiu todo o dia. Eles serão preguiçosos e não terminarão o projeto no prazo.",
-      "imageLink": "lazy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lazy.jpg",
       "audioLink": "lazy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Sentindo ou mostrando raiva, ou tendo uma doença mental.",
       "example": "Él estaba enojado con su hermano por romper su juguete. Ella se volvió loca cuando vio las noticias. Estarán enojados si no obtienen lo que quieren.",
       "example_translation": "Ele estava louco com seu irmão por quebrar seu brinquedo. Ela ficou louca quando viu as notícias. Eles vão ficar loucos se não obtiverem o que querem.",
-      "imageLink": "mad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mad.jpg",
       "audioLink": "mad.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Tendo ou mostrando uma atitude e caráter sério e solene.",
       "example": "Ella era seria sobre su carrera, y se reflejaba en su trabajo. Ha sido seria sobre sus objetivos de fitness y ha visto gran resultados. Será seria sobre sus estudios el próximo semestre.",
       "example_translation": "Ela era séria sobre sua carreira e isso foi mostrado em seu trabalho. Ela tem sido séria sobre seus objetivos de fitness e viu resultados incríveis. Ela será séria sobre seus estudos no próximo semestre.",
-      "imageLink": "serious.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "serious.jpg",
       "audioLink": "serious.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Carecendo de inteligência ou senso comum.",
       "example": "Él hizo algo estúpido y se metió en problemas. Ella fue estúpida de confiar en él con su dinero. No harán algo estúpido y arriesgarán sus vidas.",
       "example_translation": "Ele fez uma coisa estúpida e se meteu em problemas. Ela foi estúpida por confiar nele com seu dinheiro. Eles não farão algo estúpido e arriscarão suas vidas.",
-      "imageLink": "stupid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stupid.jpg",
       "audioLink": "stupid.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Sentindo ou mostrando surpresa ou assombro.",
       "example": "Me sorprendió la noticia. Ellos se sorprendieron del regalo. Nos sorprenderemos por los resultados.",
       "example_translation": "Eu fui surpreendido pela notícia. Eles foram surpreendidos pelo presente. Nós seremos surpreendidos pelos resultados.",
-      "imageLink": "surprised.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "surprised.jpg",
       "audioLink": "surprised.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Tendo um sabor ou cheiro agradável.",
       "example": "El pastel era dulce y delicioso. Ella tiene una personalidad dulce. Los dulces recuerdos de mi infancia son inolvidables.",
       "example_translation": "O bolo era doce e delicioso. Ela tem uma personalidade doce. As doces memórias da minha infância são inesquecíveis.",
-      "imageLink": "sweet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweet.jpg",
       "audioLink": "sweet.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "fazer algo limpo e organizado",
       "example": "Ordené mi habitación ayer, ordeno todos los días, y ordenaré mañana.",
       "example_translation": "Eu arrumei meu quarto ontem, eu arrumo todos os dias e eu arrumarei amanhã.",
-      "imageLink": "tidy-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tidy-1.jpg",
       "audioLink": "tidy.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "não sentir-se feliz ou satisfeito",
       "example": "Ella estaba descontenta con su trabajo, está descontenta ahora, y estará descontenta si no obtiene un ascenso.",
       "example_translation": "Ela estava infeliz com seu trabalho, ela está infeliz agora e ela estará infeliz se não receber uma promoção.",
-      "imageLink": "unhappy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unhappy.jpg",
       "audioLink": "unhappy.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "sentir-se ansioso ou preocupado com algo",
       "example": "Él estaba preocupado por su examen ayer, está preocupado ahora, y estará preocupado hasta que obtenga los resultados.",
       "example_translation": "Ele estava preocupado com seu exame ontem, ele está preocupado agora e ele estará preocupado até que obtenha os resultados.",
-      "imageLink": "worried.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "worried.jpg",
       "audioLink": "worried.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "fazendo coisas ou engajando-se em atividade física ou mental",
       "example": "Ella estaba activa en el equipo de deportes el año pasado, está activa ahora, y estará activa en la nueva temporada.",
       "example_translation": "Ela estava ativa no time de esportes no ano passado, ela está ativa agora e ela estará ativa na nova temporada.",
-      "imageLink": "active.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "active.jpg",
       "audioLink": "active.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "sentindo grande surpresa ou espanto, muitas vezes de forma agradável",
       "example": "Me asombró la belleza del atardecer. Me asombra su talento. Me asombrará si gano la lotería.",
       "example_translation": "Eu fiquei espantado pela beleza do pôr do sol. Eu estou espantado pelo seu talento. Eu estarei espantado se ganhar na loteria.",
-      "imageLink": "amazed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amazed.jpg",
       "audioLink": "amazed.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "extremamente surpreendente ou impressionante",
       "example": "El espectáculo de fuegos artificiales fue increíble. Ella tiene una voz increíble. El nuevo montaña rusa será increíble.",
       "example_translation": "O show de fogos de artifício foi incrível. Ela tem uma voz incrível. O novo montanha-russa será incrível.",
-      "imageLink": "amazing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "amazing.jpg",
       "audioLink": "amazing.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "de maneira zangada, sentindo ou mostrando raiva",
       "example": "Ella habló enojadamente al representante de atención al cliente. Él conduce enojadamente en la autopista. Ellos responderán enojadamente a la crítica.",
       "example_translation": "Ela falou com raiva para o representante de serviço ao cliente. Ele dirige com raiva na rodovia. Eles irão responder com raiva à crítica.",
-      "imageLink": "angrily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "angrily.jpg",
       "audioLink": "angrily.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "sentindo irritação ou aborrecimento, muitas vezes de forma ligeiramente zangada",
       "example": "Me molesta cuando la gente llega tarde. Ella estaba molesta por el ruido. Él se molestará si no consigue el trabajo.",
       "example_translation": "Eu me aborreço quando as pessoas estão atrasadas. Ela foi aborrecida pelo barulho. Ele estará aborrecido se não conseguir o emprego.",
-      "imageLink": "annoyed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "annoyed.jpg",
       "audioLink": "annoyed.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "causando irritação ou frustração",
       "example": "El ruido molesto del sitio de construcción me mantuvo despierto toda la noche. Me parece molesto cuando la gente come con la boca abierta. Mañana molestaré a mi hermana poniendo música fuerte.",
       "example_translation": "O barulho chato do local de construção estava me mantendo acordado a noite toda. Eu acho chato quando as pessoas mastigam com a boca aberta. Vou ser chato para minha irmã tocando minha música muito alto amanhã.",
-      "imageLink": "annoying.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "annoying.jpg",
       "audioLink": "annoying.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "sentindo-se preocupado ou nervoso sobre alguma coisa",
       "example": "Estuve ansioso por mi próximo examen. Ella ha estado ansiosa por su salud últimamente. Él estará ansioso por terminar su proyecto a tiempo.",
       "example_translation": "Eu estava ansioso sobre meu exame próximo. Ela tem estado ansiosa sobre sua saúde ultimamente. Ele estará ansioso para terminar seu projeto no prazo.",
-      "imageLink": "anxious.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "anxious.jpg",
       "audioLink": "anxious.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "mostrando coragem ou força diante do perigo ou dificuldade",
       "example": "Él fue valiente durante la guerra. Ella es valiente al hablar su mente. Ellos serán valientes para enfrentar sus miedos.",
       "example_translation": "Ele foi corajoso durante a guerra. Ela é corajosa para falar sua mente. Eles serão corajosos o suficiente para enfrentar seus medos.",
-      "imageLink": "brave.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brave.jpg",
       "audioLink": "brave.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "de maneira corajosa ou valente",
       "example": "El bombero corrió valientemente al edificio en llamas. La niña habló valientemente con el desconocido. Él actuará valientemente en la face de peligro.",
       "example_translation": "O bombeiro correu corajosamente para o prédio em chamas. A menina falou corajosamente para o estranho. Ele agirá corajosamente diante do perigo.",
-      "imageLink": "bravely-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bravely-1.jpg",
       "audioLink": "bravely.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Extremamente agradável ou atraente; delicioso.",
       "example": "Ella fue encantadora en su discurso, él fue encantador en su manera, y ellos serán encantadores en su presentación.",
       "example_translation": "Ela foi encantadora em seu discurso, ele foi encantador em seu modo, e eles serão encantadores em sua apresentação.",
-      "imageLink": "charming.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "charming.jpg",
       "audioLink": "charming.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Tendo ou mostrando um espírito agradável e otimista.",
       "example": "Ella estaba alegre cuando recibió la noticia, él estará alegre cuando consiga el trabajo, y ellos habían sido alegres durante la fiesta.",
       "example_translation": "Ela foi alegre quando recebeu as notícias, ele será alegre quando obtiver o emprego, e eles haviam sido alegres durante a festa.",
-      "imageLink": "cheerful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cheerful.jpg",
       "audioLink": "cheerful.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Tendo uma temperatura baixa; carecendo de calor ou calor.",
       "example": "Hacía frío afuera ayer, hará frío en invierno, y hacía frío por la mañana.",
       "example_translation": "Era frio lá fora ontem, será frio no inverno, e havia sido frio na manhã.",
-      "imageLink": "cold.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cold.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Desorientado ou perplexo; carecendo de clareza ou distinção de pensamento.",
       "example": "Él estaba confundido cuando recibió las instrucciones, ella estará confundida cuando lea el libro, y ellos habían estado confundidos durante la lección.",
       "example_translation": "Ele estava confuso quando recebeu as instruções, ela será confusa quando ler o livro, e eles haviam sido confusos durante a lição.",
-      "imageLink": "confused.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "confused.jpg",
       "audioLink": "confused.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Tendo a habilidade ou poder de criar, originando novas ideias, produtos, soluções, etc.",
       "example": "Ella fue una escritora creativa que escribió muchos bestsellers. Ella está escribiendo una nueva novela ahora. Ella escribió un poema hermoso el año pasado.",
       "example_translation": "Ela era uma escritora criativa que escreveu muitos bestsellers. Ela está escrevendo um novo romance agora. Ela escreveu um poema maravilhoso no ano passado.",
-      "imageLink": "creative.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "creative.jpg",
       "audioLink": "creative.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Tendo ou mostrando um desejo de causar dor ou sofrimento a outros",
       "example": "Él fue un dictador cruel que torturó a sus opositores. Él está siendo cruel con su esposa ahora. Él fue cruel con su hermano cuando eran niños.",
       "example_translation": "Ele era um ditador cruel que torturou seus oponentes. Ele está sendo cruel com sua esposa agora. Ele foi cruel com seu irmão quando eram crianças.",
-      "imageLink": "cruel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cruel.jpg",
       "audioLink": "cruel.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Tendo um desejo de aprender ou conhecer sobre algo ou alguém",
       "example": "Era una niña curiosa que siempre hacía preguntas. Está curiosa sobre la nueva tecnología ahora. Estaba curiosa sobre la vida de su vecino cuando era joven.",
       "example_translation": "Ela era uma criança curiosa que sempre fazia perguntas. Ela está curiosa sobre a nova tecnologia agora. Ela era curiosa sobre a vida do seu vizinho quando era jovem.",
-      "imageLink": "curious.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curious.jpg",
       "audioLink": "curious.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "De maneira curiosa, com um desejo de aprender ou conhecer",
       "example": "Miró curiosamente el objeto extraño. Lo examinará curiosamente ahora. Lo examinó curiosamente ayer.",
       "example_translation": "Ela olhou curiosamente para o objeto estranho. Ela vai examiná-lo curiosamente agora. Ela examinou curiosamente ontem.",
-      "imageLink": "curiously.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "curiously.jpg",
       "audioLink": "curiously.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Sentindo ou mostrando grande prazer ou alegria, muitas vezes de forma exultante ou triunfante",
       "example": "Me sentí encantado al recibir la noticia de que conseguí el trabajo. Me encantó el hermoso paisaje durante mi vacación. Estoy encantado de asistir a la fiesta esta noche.",
       "example_translation": "Eu fiquei deliciado ao receber a notícia de que consegui o emprego. Eu me deliciava com a beleza cenográfica na minha viagem. Eu estarei deliciado em comparecer à festa esta noite.",
-      "imageLink": "delighted.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "delighted.jpg",
       "audioLink": "delighted.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Sentindo-se infeliz, triste ou falta de energia e entusiasmo, muitas vezes como resultado de uma situação difícil ou experiência",
       "example": "Se sintió deprimida después de perder su trabajo. Ha estado deprimido durante meses desde que su novia lo dejó. Me deprimí cuando fallé mi examen.",
       "example_translation": "Ela se sentiu deprimida após perder o emprego. Ele tem sido deprimido por meses desde que sua namorada o deixou. Eu me senti deprimido quando eu falhei no meu exame.",
-      "imageLink": "depressed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "depressed.jpg",
       "audioLink": "depressed.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Sentindo-se infeliz ou decepcionado porque algo não aconteceu ou não foi tão bom quanto esperado",
       "example": "Me sentí desilusionado con la película. Se sintió desilusionada cuando no obtuvo el papel. Se desilusionarán si no obtienen los boletos.",
       "example_translation": "Eu fiquei desapontado com o filme. Ela se sentiu desapontada quando não conseguiu o papel. Eles estarão desapontados se não conseguirem os ingressos.",
-      "imageLink": "disappointed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disappointed.jpg",
       "audioLink": "disappointed.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Causando sentimentos de desapontamento ou infelicidade porque algo não aconteceu ou não foi tão bom quanto esperado",
       "example": "La película fue desilusionante. Su desempeño desilusionante llevó a su eliminación de la competencia. La noticia fue desilusionante, pero tuvimos que aceptarla.",
       "example_translation": "O filme foi desapontante. Seu desempenho desapontante levou à sua eliminação da competição. A notícia foi desapontante, mas tínhamos que aceitá-la.",
-      "imageLink": "disappointing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "disappointing.jpg",
       "audioLink": "disappointing.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Tendo uma natureza calma e relaxada, fácil de se relacionar com.",
       "example": "Es una persona afable, siempre dispuesta a ayudar a los demás. Fue afable y se llevó bien con todos en la fiesta. Será afable y hará nuevos amigos en la universidad.",
       "example_translation": "Ela é uma pessoa de fácil convivência, sempre disposta a ajudar os outros. Ela foi de fácil convivência e se deu bem com todos na festa. Ela será de fácil convivência e fará novos amigos na faculdade.",
-      "imageLink": "easygoing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "easygoing.jpg",
       "audioLink": "easy-going.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Sentindo ou mostrando vergonha ou culpa, muitas vezes devido a algo tolo ou inaceitável.",
       "example": "Me sentí avergonzado cuando me caí en las escaleras. Se sintió avergonzada por su error en la presentación. Se avergonzará si no se disculpa.",
       "example_translation": "Eu me senti embaraçado quando tropecei nas escadas. Ela se sentiu embaraçada com seu erro na apresentação. Ele se sentirá embaraçado se não se desculpar.",
-      "imageLink": "embarrassed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embarrassed.jpg",
       "audioLink": "embarrassed.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Causando vergonha ou culpa, muitas vezes devido a algo tolo ou inaceitável.",
       "example": "Fue un momento avergonzante cuando olvidé mis líneas en el escenario. La película tenía escenas avergonzantes que me hicieron encogerme. La situación será avergonzante si no se presenta.",
       "example_translation": "Foi um momento embaraçoso quando eu esqueci minhas linhas no palco. O filme tinha cenas embaraçosas que me fizeram se arrepiar. A situação será embaraçosa se ela não aparecer.",
-      "imageLink": "embarrassing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "embarrassing.jpg",
       "audioLink": "embarrassing.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Dando prazer ou criando um sentido de felicidade.",
       "example": "El concierto fue disfrutable, me encantó la música. Ella encontró la película disfrutable y se rió mucho. Las vacaciones serán disfrutables si el clima es bueno.",
       "example_translation": "O concerto foi agradável, eu amei a música. Ela encontrou o filme agradável e riu muito. As férias serão agradáveis ​​se o tempo estiver bom.",
-      "imageLink": "enjoyable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "enjoyable.jpg",
       "audioLink": "enjoyable.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "De uma maneira que mostra grande entusiasmo e ansiedade.",
       "example": "Me emocionaba saltando arriba y abajo emocionadamente cuando escuché la noticia. Me emociono cuando veo a mi banda favorita actuar en vivo. Me emocionaréapplaudiendo emocionadamente en el partido de baloncesto mañana.",
       "example_translation": "Eu estava pulando para cima e para baixo com entusiasmo quando ouvi as notícias. Fico entusiasmado quando vejo minha banda favorita se apresentar ao vivo. Vou estar torcendo com entusiasmo no jogo de basquete amanhã.",
-      "imageLink": "excitedly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "excitedly.jpg",
       "audioLink": "excitedly.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Extremamente cansado, seja fisicamente ou mentalmente.",
       "example": "Estuve agotado después de correr el maratón. Ella parecía agotada después de estudiar toda la noche. Estarán agotados después de trabajar 12 horas seguidas.",
       "example_translation": "Eu estava exausto após correr o maratona. Ela parecia exausta após estudar toda a noite. Eles estarão exaustos após trabalhar por 12 horas seguidas.",
-      "imageLink": "exhausted.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "exhausted.jpg",
       "audioLink": "exhausted.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Tendo muito conhecimento e habilidade em uma área particular.",
       "example": "Él es un maestro experimentado con 20 años de experiencia. La empresa contrató a un consultor experimentado para solucionar el problema. Ella es una viajera experimentada que ha visitado muchos países.",
       "example_translation": "Ele é um professor experimentado com 20 anos de experiência. A empresa contratou um consultor experimentado para resolver o problema. Ela é uma viajante experimentada que visitou muitos países.",
-      "imageLink": "experienced.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "experienced.jpg",
       "audioLink": "experienced.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Tendo uma tendência a esquecer coisas.",
       "example": "Soy olvidadizo y siempre olvido dónde dejo mis llaves. Ella es olvidadiza y a menudo olvida sus citas. Él será olvidadizo cuando se haga mayor.",
       "example_translation": "Eu sou esquecido e sempre esqueço onde eu coloco minhas chaves. Ela é esquecida e часто esquece seus compromissos. Ele será esquecido à medida que envelhece.",
-      "imageLink": "forgetful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forgetful.jpg",
       "audioLink": "forgetful.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "sentindo medo ou ansiedade, muitas vezes subitamente ou intensamente",
       "example": "Me aterroricé cuando vi la serpiente en mi patioYesterday. Tengo miedo de las alturas. Me aterrorizaré si no veo a mi familia de nuevo.",
       "example_translation": "Eu estava assustado quando vi a cobra no meu quintal ontem. Eu tenho medo de alturas. Eu estarei assustado se não ver minha família novamente.",
-      "imageLink": "frightened.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "frightened.jpg",
       "audioLink": "frightened.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "disposto a dar livremente dos seus recursos, como tempo, dinheiro ou esforço",
       "example": "Mis padres son generosos con su tiempo y nos ayudan con nuestros estudios. Ella fue generosa con su herencia y la donó a la caridad. Serán generosos con sus recursos si ganan la lotería.",
       "example_translation": "Meus pais são generosos com seu tempo e nos ajudam com nossos estudos. Ela foi generosa com sua herança e doou para a caridade. Eles serão generosos com seus recursos se ganharem a loteria.",
-      "imageLink": "generous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "generous.jpg",
       "audioLink": "generous.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "tendo uma natureza suave e gentil, ou sendo suave e não rude",
       "example": "Mi madre es suave cuando maneja objetos delicados. La brisa suave hizo que los árboles se balanceen. Será suave con el bebé cuando lo sostenga en brazos.",
       "example_translation": "Minha mãe é gentil quando ela lida com objetos delicados. O vento suave fez as árvores oscilarem. Ele será gentil com o bebê quando o segurar.",
-      "imageLink": "gentle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gentle.jpg",
       "audioLink": "gentle.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "sentindo ou mostrando apreciação ou agradecimento por algo",
       "example": "Estoy agradecido por el apoyo de mi familia. Ella estaba agradecida por la oportunidad de estudiar en el extranjero. Estarán agradecidos cuando terminen su proyecto.",
       "example_translation": "Eu sou grato pelo apoio de minha família. Ela foi grata pela oportunidade de estudar no exterior. Eles serão gratos quando terminarem seu projeto.",
-      "imageLink": "grateful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grateful.jpg",
       "audioLink": "grateful.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "sentindo ou mostrando remorso por um erro cometido",
       "example": "Me sentí culpable por no asistir al matrimonio de mi mejor amigo. Actualmente, me siento culpable de procrastinar en este proyecto. En el futuro, trataré de no ser culpable de cometer el mismo error de nuevo.",
       "example_translation": "Eu me senti culpado por não ter ido ao casamento do meu melhor amigo. Atualmente, eu sou culpado de procrastinar nesse projeto. No futuro, vou tentar não ser culpado de cometer o mesmo erro novamente.",
-      "imageLink": "guilty.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guilty.jpg",
       "audioLink": "guilty.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "de maneira feliz ou alegre",
       "example": "Acepté felizmente la oferta de trabajo. Se casó felizmente con su amor de la escuela secundaria. Se retirarán felizmente en unos pocos años.",
       "example_translation": "Eu felizmente aceitei a oferta de emprego. Ela felizmente casou seu amor de escola. Eles felizmente se aposentarão em alguns anos.",
-      "imageLink": "happily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "happily.jpg",
       "audioLink": "happily.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "dando assistência ou orientação",
       "example": "Las instrucciones útiles hicieron que fuera fácil ensamblar el mueble. Él fue muy útil al explicar el concepto complejo. La bibliotecaria útil me ayudó a encontrar el libro adecuado.",
       "example_translation": "As instruções úteis tornaram fácil montar o mobiliário. Ele foi muito útil em explicar o conceito complexo. A bibliotecária útil me ajudou a encontrar o livro certo.",
-      "imageLink": "helpful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "helpful.jpg",
       "audioLink": "helpful.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "sentindo ou inspirando otimismo",
       "example": "Estuve esperanzado de que consiguiera el trabajo. Ella está esperanzada con el nuevo tratamiento. Ellos estaban esperanzados de que el conflicto se resolviera pronto.",
       "example_translation": "Eu estava esperançoso de que eu iria conseguir o emprego. Ela está esperançosa sobre o novo tratamento. Eles estavam esperançosos de que o conflito seria resolvido em breve.",
-      "imageLink": "hopeful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hopeful.jpg",
       "audioLink": "hopeful.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Não tendo nenhuma expectativa de bem ou melhoria; desesperado.",
       "example": "Me sentí desesperanzado cuando perdí mi trabajo, pero luego comencé a buscar nuevas oportunidades.",
       "example_translation": "Eu me senti desesperançado quando perdi meu emprego, mas então comecei a procurar por novas oportunidades.",
-      "imageLink": "hopeless.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hopeless.jpg",
       "audioLink": "hopeless.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Causar dor física ou emocional a alguém ou algo.",
       "example": "Ella se lastimó el tobillo cuando cayó por la escalera, pero se recuperará.",
       "example_translation": "Ela machucou o tornozelo quando caiu escada abaixo, mas ela vai ficar bem.",
-      "imageLink": "hurt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hurt.jpg",
       "audioLink": "hurt.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Tendo fortes sentimentos de amor ou afeto por alguém.",
       "example": "Habrían estado enamorados durante cinco años y ahora se casan.",
       "example_translation": "Eles têm estado apaixonados há cinco anos e agora estão se casando.",
-      "imageLink": "in-love.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "in-love.jpg",
       "audioLink": "in love.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Chorando ou soluçando, especialmente por causa de tristeza ou dor.",
       "example": "Ella estaba en lágrimas cuando se despidió de su mejor amiga.",
       "example_translation": "Ela estava em lágrimas quando se despediu de sua melhor amiga.",
-      "imageLink": "in-tears.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "in-tears.jpg",
       "audioLink": "in tears.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Tendo a capacidade de aprender, entender e pensar sobre coisas; tendo uma alta capacidade mental.",
       "example": "Ella fue una estudiante inteligente que siempre respondía correctamente. Ella había sido lo suficientemente inteligente como para figura la solución. Será lo suficientemente inteligente para resolver el problema.",
       "example_translation": "Ela era uma estudante inteligente que sempre respondia às perguntas corretamente. Ela havia sido inteligente o suficiente para descobrir a solução. Ela será inteligente o suficiente para resolver o problema.",
-      "imageLink": "intelligent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "intelligent.jpg",
       "audioLink": "intelligent.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Sentindo ou mostrando um desejo intenso de ter algo que pertence a alguém else, especialmente um parceiro romântico.",
       "example": "Él se sintió celoso cuando vio a su novia hablando con otro chico. Ella había sido celosa del éxito de su hermana. Serán celosos de nuestro nuevo coche.",
       "example_translation": "Ele sentiu ciúme quando viu sua namorada falando com outro cara. Ela havia sido ciumenta do sucesso de sua irmã. Eles serão ciumentos do nosso novo carro.",
-      "imageLink": "jealous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jealous.jpg",
       "audioLink": "jealous.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Tendo um forte e entusiástico interesse em algo; ansioso para fazer algo.",
       "example": "Él estaba entusiasta de jugar fútbol. Ella había estado entusiasta de aprender francés. Serán entusiastas de ir a la fiesta.",
       "example_translation": "Ele estava ansioso para jogar futebol. Ela havia sido ansiosa para aprender francês. Eles serão ansiosos para ir à festa.",
-      "imageLink": "keen.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "keen.jpg",
       "audioLink": "keen.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "De maneira gentil e amável; com consideração e preocupação com os outros.",
       "example": "Ella habló amablemente con el niño. Él había hablado amablemente con su amigo. Serán amables con el cliente.",
       "example_translation": "Ela falou bondosamente com a criança. Ele havia falado bondosamente com seu amigo. Eles falarão bondosamente com o cliente.",
-      "imageLink": "kindly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kindly.jpg",
       "audioLink": "kindly.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Cheio de energia e entusiasmo; ativo e espirituoso.",
       "example": "El ambiente vivaz en la fiesta hizo que todos quisieran bailar. Ella se había sentido vivaz toda la mañana. La discusión vivaz duró horas.",
       "example_translation": "O ambiente animado na festa fez com que todos quisessem dançar. Ela havia se sentido animada pela manhã toda. A discussão animada durou horas.",
-      "imageLink": "lively.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lively.jpg",
       "audioLink": "lively.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Sentindo-se triste e isolado porque não tem amigos ou companhia.",
       "example": "Se sintió solitario en la gran ciudad. Ella había estado solitaria desde que su esposo falleció. El camino solitario se extendió ante nosotros.",
       "example_translation": "Ele se sentiu solitário na grande cidade. Ela havia sido solitária desde que o marido faleceu. A estrada solitária se estendia antes de nós.",
-      "imageLink": "lonely.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lonely.jpg",
       "audioLink": "lonely.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Dado a mudanças súbitas e imprevisíveis de humor.",
       "example": "Estuvo en un estado cambiable todo el día. Ella era cambiable debido al síndrome premenstrual. El clima cambiable hizo que fuera difícil planificar actividades al aire libre.",
       "example_translation": "Ele estava em um estado de humor instável o dia todo. Ela estava instável por causa da TPM. O tempo instável tornou difícil planejar atividades ao ar livre.",
-      "imageLink": "moody.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "moody.jpg",
       "audioLink": "moody.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Expressando ou implicando negação, recusa ou desagrado.",
       "example": "Tenía una actitud negativa hacia la nueva política. La crítica negativa lastimó los sentimientos del actor. La retroalimentación negativa nos ayudó a mejorar el producto.",
       "example_translation": "Ele teve uma atitude negativa em relação à nova política. A crítica negativa machucou os sentimentos do ator. O feedback negativo nos ajudou a melhorar o produto.",
-      "imageLink": "negative.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "negative.jpg",
       "audioLink": "negative.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Sentindo ou mostrando ansiedade ou apreensão; muito tenso ou sensível.",
       "example": "Estuve nervioso sobre la entrevista de trabajo, pero traté de mantener la calma. Estoy nervioso al hablar en público, pero practiqué mi discurso. Estaré nervioso al tomar el examen, pero estudié duro.",
       "example_translation": "Eu estava nervoso sobre a entrevista de emprego, mas tentei manter a calma. Eu sou nervoso sobre falar em frente a uma multidão, mas pratiquei meu discurso. Eu serei nervoso sobre fazer o exame, mas estudei muito.",
-      "imageLink": "nervous.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nervous.jpg",
       "audioLink": "nervous.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Uma pessoa que está recebendo cuidados médicos, tratamento ou atenção; capaz de aceitar e tolerar atrasos ou problemas.",
       "example": "El paciente estaba muy ansioso por la cirugía, pero el doctor lo tranquilizó. El doctor era muy paciente con el paciente nervioso. La enfermera estaba cuidando al paciente que se recuperaba del accidente.",
       "example_translation": "O paciente estava muito ansioso sobre a cirurgia, mas o médico o tranquilizou. O médico foi muito paciente com o paciente nervoso. A enfermeira estava cuidando do paciente que estava se recuperando do acidente.",
-      "imageLink": "patient.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "patient.jpg",
       "audioLink": "patient.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "De uma maneira que é respeitosa e considerada com os outros; com bons modos.",
       "example": "Habla cortésmente con el cliente, incluso aunque él estuviera siendo grosero. Él siempre respondía cortésmente a sus correos electrónicos. Fueron enseñados a comportarse cortésmente en público.",
       "example_translation": "Ela falou cortesmente com o cliente, mesmo que ele estivesse sendo grosseiro. Ele sempre respondia cortesmente a seus e-mails. Eles foram ensinados a se comportarem cortesmente em público.",
-      "imageLink": "politely.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "politely.jpg",
       "audioLink": "politely.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Tendo grande poder, força ou influência; capaz de afetar ou mudar coisas.",
       "example": "El motor poderoso rugió a la vida. Ella fue una oradora poderosa que inspiró a muchas personas. La empresa está volviendo más poderosa en la industria.",
       "example_translation": "O motor poderoso rugiu para a vida. Ela era uma oradora poderosa que inspirou muitas pessoas. A empresa está se tornando mais poderosa na indústria.",
-      "imageLink": "powerful.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "powerful.jpg",
       "audioLink": "powerful.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Tendo ou mostrando um sentido de orgulho; sentindo-se satisfeito ou agradado sobre algo",
       "example": "Ayer, me sentí orgulloso de mi logro. Hoy, estoy orgulloso de mi equipo. Mañana, estaré orgulloso de mis hijos.",
       "example_translation": "Ontem, eu me senti orgulhoso do meu feito. Hoje, eu estou orgulhoso da minha equipe. Amanhã, eu serei orgulhoso dos meus filhos.",
-      "imageLink": "proud.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "proud.jpg",
       "audioLink": "proud.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "Tendo uma forte tendência a argumentar ou lutar; sendo desagradável e contencioso",
       "example": "Mi hermano controvertido siempre quiere discutir sobre política. La semana pasada, se peleó con nuestro vecino. El próximo mes, se peleará con su esposa.",
       "example_translation": "Meu irmão rabugento sempre quer discutir sobre política. Semana passada, ele brigou com nosso vizinho. No próximo mês, ele brigarará com sua esposa.",
-      "imageLink": "quarrelsome.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "quarrelsome.jpg",
       "audioLink": "quarrelsome.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "Sentindo-se calmo e livre de tensão ou ansiedade; estando à vontade",
       "example": "Después de un día largo, me gusta relajarme en el sofá. Ayer, me relajé en la playa. Mañana, me relajaré con un buen libro.",
       "example_translation": "Depois de um longo dia, eu gosto de relaxar no sofá. Ontem, eu relaxei na praia. Amanhã, eu relaxarei com um bom livro.",
-      "imageLink": "relaxed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "relaxed.jpg",
       "audioLink": "relaxed.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Causando ou induzindo um estado de relaxamento; sendo suave ou calmante",
       "example": "Escuchar música es relajante. Tomar un baño caliente puede ser relajante. Leer un libro es relajante.",
       "example_translation": "Ouvir música é relaxante. Tomar um banho quente pode ser relaxante. Ler um livro é relaxante.",
-      "imageLink": "relaxing.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "relaxing.jpg",
       "audioLink": "relaxing.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Capaz de ser confiado ou dependente para fazer o que é esperado.",
       "example": "Ella fue una amiga fiel, siempre allí para ayudar. Ella fue fiel en su trabajo, cumpliendo siempre con los plazos. Ella será fiel en el futuro, estoy seguro de eso.",
       "example_translation": "Ela era uma amiga confiável, sempre lá para dar uma mão. Ela era confiável no seu trabalho, consistentemente cumprindo prazos. Ela será confiável no futuro, eu tenho certeza disso.",
-      "imageLink": "reliable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "reliable.jpg",
       "audioLink": "reliable.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "Relacionado a ou característico de romance; emocional e sentimental.",
       "example": "Su cena romántica fue encantadora, con velas y flores. Él fue romántico, siempre sorprendiéndola con regalos. Tendrán una luna de miel romántica en París.",
       "example_translation": "O jantar romântico deles foi lindo, com velas e flores. Ele era romântico, sempre surpreendendo-a com presentes. Eles terão uma lua de mel romântica em Paris.",
-      "imageLink": "romantic.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "romantic.jpg",
       "audioLink": "romantic.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "Tendo ou mostrando nenhuma educação ou consideração pelos outros; grosseiro.",
       "example": "Él fue grosero con el camarero, gritándole sin razón. Ella fue grosera con su hermana, ni siquiera saludándola. Serán groseros con sus invitados, no ofreciéndoles nada para beber.",
       "example_translation": "Ele foi grosseiro com o garçom, gritando com ele sem razão. Ela foi grosseira com sua irmã, nem mesmo dizendo olá. Eles serão grosseiros com seus convidados, não oferecendo nada para beber.",
-      "imageLink": "rude.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rude.jpg",
       "audioLink": "rude.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "Sentindo-se feliz ou satisfeito porque uma necessidade ou desejo foi atendido.",
       "example": "Ella estaba satisfecha con su nuevo trabajo, amando cada aspecto de él. Él estaba satisfecho con su calificación, habiendo estudiado duro para ella. Serán satisfechos con su nueva casa, una vez que se muden.",
       "example_translation": "Ela estava satisfeita com seu novo emprego, amando cada aspecto dele. Ele estava satisfeito com sua nota, tendo estudado muito para isso. Eles estarão satisfeitos com sua nova casa, assim que se mudarem.",
-      "imageLink": "satisfied.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "satisfied.jpg",
       "audioLink": "satisfied.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "Tendo ou mostrando medo; assustado.",
       "example": "Yo estaba asustado de la oscuridad cuando era niño. Estoy asustado de las alturas. Estaré asustado para saltar en paracaídas por primera vez.",
       "example_translation": "Eu estava assustado com o escuro quando eu era criança. Eu estou assustado com alturas. Eu estarei assustado para saltar de paraquedas pela primeira vez.",
-      "imageLink": "scared.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scared.jpg",
       "audioLink": "scared.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Causando medo; assustador.",
       "example": "La película de terror me dio un salto. La casa encantada era espeluznante. La historia espeluznante te dará goosebumps.",
       "example_translation": "O filme assustador me fez pular. A casa assombrada era assustadora. A história assustadora vai dar arrepios.",
-      "imageLink": "scary.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scary.jpg",
       "audioLink": "scary.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "Tendo confiança nas próprias habilidades, qualidades e julgamento.",
       "example": "Ella era una oradora segura de sí misma que involucró a la audiencia. Él se convirtió en seguro de sí mismo después de su primer éxito. Serán seguros de sí mismos en sus habilidades para resolver el problema.",
       "example_translation": "Ela era uma oradora autoconfiante que envolveu a audiência. Ele se tornou autoconfiante após seu primeiro sucesso. Eles serão autoconfiantes em suas habilidades para resolver o problema.",
-      "imageLink": "self-confident.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "self-confident.jpg",
       "audioLink": "self-confident.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "Preocupado excessivamente com as próprias necessidades, desejos ou interesses, sem consideração pelos outros.",
       "example": "Él fue egoísta y no consideró los sentimientos de sus amigos. Ella fue egoísta y solo se preocupó por su propia carrera. Serán egoístas y no compartirán sus juguetes.",
       "example_translation": "Ele era egocêntrico e não considerou os sentimentos de seus amigos. Ela era egocêntrica e só se importava com sua própria carreira. Eles serão egoístas e não dividirão seus brinquedos.",
-      "imageLink": "selfish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "selfish.jpg",
       "audioLink": "selfish.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Tendo, contendo ou indicativo de bom senso ou razão; razoável e judicioso.",
       "example": "Era una persona sensata que siempre pensaba antes de actuar. Había sido lo suficientemente sensata como para ahorrar dinero para el futuro. Será sensata y no gastará todo su dinero en una sola cosa.",
       "example_translation": "Ela era uma pessoa sensível que sempre pensava antes de agir. Ela havia sido sensível o suficiente para economizar dinheiro para o futuro. Ela será sensível e não gastará todo o seu dinheiro em uma coisa única.",
-      "imageLink": "sensible.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sensible.jpg",
       "audioLink": "sensible.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Sentindo ou mostrando grande surpresa ou deleite, frequentemente ao ponto de não ser capaz de responder ou reagir.",
       "example": "Me quedé impactado cuando escuché la noticia. Ella se quedó impactada por el ruido repentino. Se quedarán impactados si ven la nueva política.",
       "example_translation": "Eu fiquei chocado quando ouvi as novidades. Ela foi chocada pelo barulho súbito. Eles ficarão chocados se verem a nova política.",
-      "imageLink": "shocked.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shocked.jpg",
       "audioLink": "shocked.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Causando grande surpresa ou deleite, frequentemente de forma desagradável.",
       "example": "La noticia fue impactante para todos en la habitación. La película tenía un final impactante. El reporte financiero de la empresa fue impactante para los inversores.",
       "example_translation": "As novidades foram chocantes para todos na sala. O filme tinha um final chocante. O relatório financeiro da empresa foi chocante para os investidores.",
-      "imageLink": "shocking.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shocking.jpg",
       "audioLink": "shocking.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Sentindo-se nervoso ou desconfortável na presença de outras pessoas, especialmente quando tentando fazer amigos ou interagir com os outros.",
       "example": "Ella era tímida y no le gustaba hablar con extraños. Él era tímido de niño pero se le pasó. Son tímidos y prefieren quedarse en casa.",
       "example_translation": "Ela era tímida e não gostava de falar com estranhos. Ele era tímido quando criança, mas superou isso. Eles são tímidos e preferem ficar em casa.",
-      "imageLink": "shy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shy.jpg",
       "audioLink": "shy.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Tendo ou mostrando falta de senso comum ou julgamento saudável; absurdo ou ridículo",
       "example": "Me sentía tonto cuando tropecé con mis propios pies. He estado sintiendo tonto todo el día hoy. Me sentiré tonto si no estudio para el examen.",
       "example_translation": "Eu me senti bobinho quando acidentalmente tropecei nos meus próprios pés. Eu estive me sentindo bobinho o dia inteiro hoje. Eu vou me sentir bobinho se não estudo para o exame.",
-      "imageLink": "silly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "silly.jpg",
       "audioLink": "silly.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Tendo ou mostrando habilidade mental rápida e inteligente; inteligente ou sábio",
       "example": "Mi hermano es muy inteligente y puede resolver problemas de matemáticas rápidamente. Ojalá fuera lo suficientemente inteligente como para entender física. Será inteligente tomar notas durante la conferencia.",
       "example_translation": "Meu irmão é muito inteligente e pode resolver problemas de matemática rapidamente. Eu desejaria ser inteligente o suficiente para entender física. Ela será inteligente em tomar notas durante a aula.",
-      "imageLink": "smart.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "smart.jpg",
       "audioLink": "smart.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Disposto a conversar e estar com outras pessoas; amigável e extrovertido",
       "example": "Es una persona sociable y ama asistir a fiestas. He estado sintiendo sociable últimamente y quiero hacer nuevos amigos. Serán sociables y charlarán con sus vecinos.",
       "example_translation": "Ela é uma pessoa sociável e adora freqüentar festas. Eu tenho me sentindo sociável ultimamente e quero fazer novos amigos. Eles serão sociáveis e conversarão com seus vizinhos.",
-      "imageLink": "sociable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sociable.jpg",
       "audioLink": "sociable.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Sentindo-se ansioso ou sobrecarregado; sob pressão excessiva",
       "example": "He estado sintiendo estresado por mi próximo examen. Ella se estresa cuando tiene que dar una presentación. Se estresarán por la fecha límite.",
       "example_translation": "Eu tenho me sentido estressado sobre meu exame que se aproxima. Ela se estressa quando tem que dar uma apresentação. Eles ficarão estressados sobre o prazo.",
-      "imageLink": "stressed.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stressed.jpg",
       "audioLink": "stressed.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "tendo uma habilidade natural ou habilidade, especialmente em uma área particular",
       "example": "Era una artista talentosa, y sus pinturas eran muy elogiadas. Es conocida por sus performances talentosas en el escenario. Será una líder talentosa en el futuro.",
       "example_translation": "Ela era uma artista talentosa, e suas pinturas foram muito elogiadas. Ela é conhecida por suas performances talentosas no palco. Ela será uma líder talentosa no futuro.",
-      "imageLink": "talented.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "talented.jpg",
       "audioLink": "talented.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "sentindo medo ou ansiedade extrema",
       "example": "Estaba aterrorizado de las arañas cuando era niño. Ella está aterrorizada de las alturas. Se aterrorizarán por las consecuencias.",
       "example_translation": "Eu estava terrorizado de aranhas quando eu era uma criança. Ela está terrorizada de alturas. Eles estarão terrorizados das consequências.",
-      "imageLink": "terrified.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "terrified.jpg",
       "audioLink": "terrified.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "causando fadiga ou exaustão",
       "example": "El largo viaje fue agotador, pero finalmente llegamos. Correr un maratón es una experiencia agotadora. El nuevo proyecto será agotador, pero valdrá la pena.",
       "example_translation": "A longa jornada foi cansativa, mas finalmente chegamos. Correr um maratona é uma experiência cansativa. O novo projeto será cansativo, mas valerá a pena.",
-      "imageLink": "tiring.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tiring.jpg",
       "audioLink": "tiring.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "disposto a aceitar ou permitir algo que é diferente ou não convencional",
       "example": "Él era una persona tolerante, aceptando las creencias de los demás. Ella es tolerante con los errores de la gente. Serán tolerantes con nuestras diferencias culturales.",
       "example_translation": "Ele era uma pessoa tolerante, aceitando as crenças dos outros. Ela é tolerante com os erros das pessoas. Eles serão tolerantes com as nossas diferenças culturais.",
-      "imageLink": "tolerant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tolerant.jpg",
       "audioLink": "tolerant.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "Não esperado ou predito; surpreendente.",
       "example": "La alarma de incendio se activó inesperadamente durante la prueba. Tuve un visitante inesperado anoche. Tendré una reunión inesperada a las 2 pm mañana.",
       "example_translation": "O alarme de incêndio disparou inesperadamente durante o teste. Tive um visitante inesperado ontem à noite. Vou ter uma reunião inesperada às 2 pm amanhã.",
-      "imageLink": "unexpected.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unexpected.jpg",
       "audioLink": "unexpected.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "Não amigável ou acolhedor; hostil ou frio.",
       "example": "El personal del hotel desagradable nos hizo sentir malvenidos. Tiene una actitud desagradable hacia sus colegas. El clima desagradable no ayudó a nuestro estado de ánimo.",
       "example_translation": "O pessoal do hotel desagradável fez com que nos sentíssemos indesejados. Ela tem uma atitude desagradável em relação aos colegas. O tempo desagradável não ajudou nosso humor.",
-      "imageLink": "unfriendly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unfriendly.jpg",
       "audioLink": "unfriendly.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Faltando entusiasmo ou preocupação; apático.",
       "example": "Él parecía desinteresado en la conversación. El estudiante desinteresado no participó en la discusión. Ella estará desinteresada en la fiesta si no hay música.",
       "example_translation": "Ele parecia desinteressado na conversa. O aluno desinteressado não participou da discussão. Ela estará desinteressada na festa se não houver música.",
-      "imageLink": "uninterested.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uninterested.jpg",
       "audioLink": "uninterested.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Não mantendo a atenção de alguém; chato ou desinspirador.",
       "example": "La película insípida me hizo dormir. El orador insípido nos hizo bostezar a todos. El libro insípido no captó mi atención.",
       "example_translation": "O filme desinteressante me fez dormir. O orador desinteressante fez com que todos nós déssemos um bocejo. O livro desinteressante não chamou minha atenção.",
-      "imageLink": "uninteresting-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uninteresting-1.jpg",
       "audioLink": "uninteresting.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Tendo ou mostrando falta de bondade ou simpatia para com os outros",
       "example": "Ella fue despiadada con su hermana, lo que la hizo muy triste. Ella será despiadada con su hermano si no se disculpa. Ella fue despiadada con su amiga el año pasado.",
       "example_translation": "Ela foi desagradável com sua irmã, o que a fez muito triste. Ela será desagradável com seu irmão se ele não se desculpar. Ela foi desagradável com sua amiga no ano passado.",
-      "imageLink": "unkind.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "unkind.jpg",
       "audioLink": "unkind.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Tendo um grau moderado ou confortável de calor",
       "example": "El clima cálido nos permite disfrutar de actividades al aire libre. El agua cálida se sentía bien en mi piel. Me aseguraré de que la sopa cálida esté lista cuando llegues.",
       "example_translation": "O clima quente nos permite desfrutar de atividades ao ar livre. A água quente sentiu-se agradável na minha pele. Eu vou garantir que a sopa quente esteja pronta quando você chegar.",
-      "imageLink": "warm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "warm.jpg",
       "audioLink": "warm.mp3"
     }
   ]

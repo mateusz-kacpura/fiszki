@@ -9,7 +9,7 @@
       "definition_translation": "Крахмалистый овощ, Solanum tuberosum, культивируется для его съедобных клубней.",
       "example": "Wczoraj upiekłam ziemniaka w piecu. Teraz upiekam ziemniaka w piecu. Jutro upiekam ziemniaka w piecu.",
       "example_translation": "Я запекла картофель в духовке прошлой ночью. Я пеку картофель в духовке сейчас. Я запеку картофель в духовке завтра.",
-      "imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "potato.jpg",
       "audioLink": "potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Фрукт, обычно красный, едят сырым или используют в кулинарии.",
       "example": "Wczoraj zjadłam pomidora w sałacie. Teraz jadam pomidora w sałacie. W przyszłym tygodniu zjem pomidora w sałacie.",
       "example_translation": "Я ел помидор в своем салате вчера. Я ем помидор в своем салате сейчас. Я budu есть помидор в своем салате на следующей неделе.",
-      "imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tomato.jpg",
       "audioLink": "tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Растение или часть растения, используемое в качестве пищи, такое как капуста, морковь или картофель.",
       "example": "Wczoraj ugotowałam zupę warzywną. Teraz gotuję zupę warzywną. W przyszłym miesiącu ugotuję zupę warzywną.",
       "example_translation": "Я приготовил овощной суп прошлой ночью. Я готовлю овощной суп сейчас. Я budu готовить овощной суп nächsten месяц.",
-      "imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vegetable.jpg",
       "audioLink": "vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Семя, обычно почковидное, которое растет на вьющихся растениях и едят как овощ.",
       "example": "Wczoraj sadziłam fasolę w ogrodzie. Teraz sadzę fasolę w ogrodzie. W przyszłym roku sadzę fasolę w ogrodzie.",
       "example_translation": "Я вырастил фасоль в своем саду в прошлом году. Я выращиваю фасоль в своем саду сейчас. Я budu выращивать фасоль в своем саду в следующем году.",
-      "imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bean.jpg",
       "audioLink": "bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Морковь - это хрустящий, сладкий и питательный корнеплод, который обычно едят сырым или готовят в различных блюдах.",
       "example": "Wczoraj zjadłam paluszka marchewkowego z humusem, teraz jadam sałatkę marchewkową, a jutro zjem tort marchewkowy.",
       "example_translation": "Вчера я ел палку моркови с хумусом, сейчас я ем салат из моркови, а завтра поем морковный торт.",
-      "imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carrot.jpg",
       "audioLink": "carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Чили - это острый перец, обычно используемый в кулинарии для добавления жара и вкуса в блюда.",
       "example": "Wczoraj dodałam płatki papryki do curry, teraz dodaję plasterki papryki do sałatki, a jutro dodam sos paprykowy do pizzy.",
       "example_translation": "Вчера я добавил хлопья чили в карри, сейчас добавляю нарезанный чили в салат, а завтра добавлю соус чили в пиццу.",
-      "imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chilli.jpg",
       "audioLink": "chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Чеснок - это пungентный и ароматный лук, обычно используемый в кулинарии для добавления глубины и богатства в блюда.",
       "example": "Wczoraj piekłam czosnki, teraz smażę czosnek w maśle, a jutro zmielę czosnek do zupy.",
       "example_translation": "Вчера я запек чеснок, сейчас я обжариваю чеснок в масле, а завтра мелечу чеснок для супа.",
-      "imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "garlic.jpg",
       "audioLink": "garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Лук - это сладкий и ароматный лук, обычно используемый в кулинарии для добавления вкуса и текстуры в блюда.",
       "example": "Wczoraj karmelizowałam cebulę, teraz kroję cebulę, a jutro usmażę cebulę na omelette.",
       "example_translation": "Вчера я карамелизовал лук, сейчас я режу лук, а завтра обжарю лук для омлета.",
-      "imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "onion.jpg",
       "audioLink": "onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Зелёное растение, похожее на nhỏ дерево, с большим, съедобным, центральным стеблем и стеблями.",
       "example": "Wczoraj ugotowałam brokuł na obiad, teraz gotuję go na lunch, a jutro ugotuję go na obiad.",
       "example_translation": "Я приготовил брокколи на ужин вчера вечером, я готовлю его на обед сегодня, и я приготовлю его на ужин завтра.",
-      "imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "broccoli.jpg",
       "audioLink": "broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Растение с плотным, компактным стеблем листьев, используемое как овощ.",
       "example": "Mój dziadek robił kwaśnicę z kapusty, moja matka robi ją teraz, a ja zrobię ją w przyszłości.",
       "example_translation": "Моя бабушка делала квашеную капусту из капусты, моя мать делает это сейчас, и я сделаю это в будущем.",
-      "imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cabbage.jpg",
       "audioLink": "cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Тип летней тыквы, маленькой и цилиндрической формы, часто используемой в кулинарии.",
       "example": "W zeszłym tygodniu grille bakłażany na obiad, grilluję je na lunch dzisiaj i zagram je na obiad w przyszłym tygodniu.",
       "example_translation": "Я грилил цукини на ужин на прошлой неделе, я грилил их на обед сегодня, и я грилил их на ужин на следующей неделе.",
-      "imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "courgette.jpg",
       "audioLink": "courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Длинный, зелёный, сочный фрукт, часто едимый сырым или консервированным.",
       "example": "Wczoraj zjadłem sałatkę z ogórkiem na lunch, jem ją na obiad dzisiaj i zjem ją na śniadanie jutro.",
       "example_translation": "Я ел салат из огурца на обед вчера, я ем его на ужин сегодня, и я поем его на завтрак завтра.",
-      "imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cucumber.jpg",
       "audioLink": "cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "зеленый листовой овощ, часто употребляемый в салатах или используемый как гарнир",
       "example": "Zjadłem sałatkę z sałatą na lunch. Zjem sałatkę z sałatą na obiad. Zjadłem sałatkę z sałatą na śniadanie.",
       "example_translation": "Я съел салат с салатом на обед. Я поем салат с салатом на ужин. Я ел салат с салатом на завтрак.",
-      "imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lettuce.jpg",
       "audioLink": "lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "маленькая, зеленая или желтая, съедобная семя, которая растет в стручке",
       "example": "W zeszłym tygodniu sadziłem groch w moim ogrodzie. Sadzę groch w moim ogrodzie dzisiaj. Zasądźę groch w moim ogrodzie w przyszłym roku.",
       "example_translation": "Я посадил горох в мой сад на прошлой неделе. Я сажаю горох в мой сад сегодня. Я посяду горох в мой сад в следующем году.",
-      "imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pea.jpg",
       "audioLink": "pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "сладкая или острая специя, изготовленная из семян растения",
       "example": "Wczoraj dodałem paprykę do mojej zupy. Dodałem paprykę do mojej zupy teraz. Dodam paprykę do mojej zupy jutro.",
       "example_translation": "Я добавил перец в мой суп вчера. Я добавляю перец в мой суп сейчас. Я добавлю перец в мой суп завтра.",
-      "imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pepper.jpg",
       "audioLink": "pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "тип крупного, оранжевого цвета тыквы, часто используемый как украшение или в кулинарии",
       "example": "W zeszłym roku wyryłem dynię na Halloween. Wyrywam dynię teraz. Wyryję dynię w przyszłym roku na Halloween.",
       "example_translation": "Я вырезал тыкву на Хэллоуин последний раз. Я вырезаю тыкву сейчас. Я вырежу тыкву на Хэллоуин следующий раз.",
-      "imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pumpkin.jpg",
       "audioLink": "pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "тип листового зеленого овоща, богатый питательными веществами и часто используемый в салатах, смузи и тушеном виде как гарнир",
       "example": "Dodałem świeży szpinak do mojego omletu, dodam go do mojego smoothie jutro i dodałem go do mojej sałatki wczoraj wieczorem.",
       "example_translation": "Я добавил свежий шпинат в мой омлет, завтра я добавлю его в мой смузи, и я добавил его в свой салат прошлой ночью.",
-      "imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spinach.jpg",
       "audioLink": "spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "тип кукурузы, который собирается, когда зерна неyet зрелые и кукуруза мягкая и сладкая",
       "example": "W zeszłym lecie grille smakołyk na grillu, ugotuję go na obiad dzisiaj i jadłem go na festynie w zeszłym roku.",
       "example_translation": "Я грилил кукурузу на барбекю minulim летом, сегодня я отварю ее на ужин, и я ел ее на ярмарке в прошлом году.",
-      "imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corn.jpg",
       "audioLink": "sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "фиолетовый овощ, часто используемый в средиземноморской кухне, обычно грилируемый, запекаемый или тушеный",
       "example": "Wczoraj upiekłem bakłażan na obiad, upieczę go na lunch dzisiaj i sauté je z czosnkiem i ziołami wczoraj.",
       "example_translation": "Я запек аubергин на ужин прошлой ночью, сегодня я грилирую его на обед, и я тушил его с чесноком и травами вчера.",
-      "imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aubergine.jpg",
       "audioLink": "aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "тип овоща, принадлежащий к семейству капусты, часто используемый в супах, рагу и как гарнир",
       "example": "W zeszłym tygodniu gotowałem kalafior na obiad, ugotuję go z czosnkiem i sokiem z cytryny jutro i ugotowałem go z ziemniakami wczoraj.",
       "example_translation": "Я припустил цветную капусту на ужин на прошлой неделе, завтра я тушиу ее с чесноком и лимонным соком, и я отварил ее с картошкой вчера.",
-      "imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cauliflower.jpg",
       "audioLink": "cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Растение с длинным, тонким, белым и зеленым стеблем, часто используемым в кулинарии.",
       "example": "Pokroiłem por i przysmażyłem go w maśle. Pokroję por i przysmażę go w maśle. Pokroiłem por i przysmażyłem go w maśle.",
       "example_translation": "Я нарезал лук-порей и обжарил его в масле. Я нарезаю лук-порей и обжарю его в масле.Я нарезал лук-порей и обжарил его в масле.",
-      "imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leek.jpg",
       "audioLink": "leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Светло-зеленое, курчавое растение, используемое в качестве гарнира или для добавления вкуса к еде.",
       "example": "Posypałem petersylię na zupę. Posypię petersylię na zupę. Posypałem petersylię na zupę.",
       "example_translation": "Я посыпал петрушкой сверху на суп. Я посыплю петрушкой сверху на суп. Я посыпал петрушкой сверху на суп.",
-      "imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parsley.jpg",
       "audioLink": "parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Корнеплод с острым вкусом, часто eaten сырым или маринованным.",
       "example": "Pokroiłem rzeżuchę i dodałem do sałatki. Pokroję rzeżuchę i dodam do sałatki. Pokroiłem rzeżuchę i dodałem do sałatki.",
       "example_translation": "Я нарезал редиску и добавил ее в салат. Я нарезаю редиску и добавлю ее в салат.Я нарезал редиску и добавил ее в салат.",
-      "imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "radish.jpg",
       "audioLink": "radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Вид капусты с глубоким красным цветом, часто используемый в салатах и закусках.",
       "example": "Pokroiłem czerwoną kapustę i zrobiłem surówkę. Pokroję czerwoną kapustę i zrobię surówkę. Pokroiłem czerwoną kapustę i zrobiłem surówkę.",
       "example_translation": "Я нашинковал краснокочанную капусту и сделал закуску.Я нашинкую краснокочанную капусту и сделаю закуску.Я нашинковал краснокочанную капусту и сделал закуску.",
-      "imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "red-cabbage.jpg",
       "audioLink": "red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Весенний лук - это молодой лук, который собирается перед образованием луковицы, или иногда после образования луковицы, но до ее созревания.",
       "example": "Pokroiłem szczypiorek i dodałem do sałatki. Wczoraj pokroiłem szczypiorek i dodałem do zupy. Jutro pokroję szczypiorek i dodam do omelette.",
       "example_translation": "Я нарезал весенний лук и добавил его в салат. Вчера я нарезал весенние луки и добавил их в суп. Завтра я нарежу весенний лук и добавлю его в омлет.",
-      "imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spring-onion.jpg",
       "audioLink": "spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Свекла - это сладкий и земляной корнеплод, богатый волокнами и витаминами.",
       "example": "Upiekłem buraka ćwikłowego i podałem z serem kozim. W zeszłym tygodniu upiekłem buraka ćwikłowego i podałem z orzechami. W przyszłym miesiącu upiekę buraka ćwikłowego i podam z octem balsamicznym.",
       "example_translation": "Я запекал свеклу и подавал ее с козьим сыром. На прошлой неделе я запекал свеклу и подавал ее с грецкими орехами. В следующем месяце я запеку свеклу и буду подавать ее с бальзамическим уксусом.",
-      "imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beetroot.jpg",
       "audioLink": "beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Соя, также известная как соя, - это тип бобовой культуры, которая высоко богата белком и часто используется в продуктовых изделиях.",
       "example": "Dodałem sos sojowy do stir-fry. Wczoraj dodałem mleko sojowe do smoothie. W przyszłym roku dodam fasolę sojową do sałatki.",
       "example_translation": "Я добавил соевый соус в обжарку. Вчера я добавил соевое молоко в смузи. В следующем году я добавлю соевые бобы в салат.",
-      "imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "soya-soy.jpg",
       "audioLink": "soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Фа - это тип бобовой культуры, который высоко богат волокнами и белком и часто используется в средиземноморской кухне.",
       "example": "Wyluskałem fasolę szparagową i dodałem do ryżu. W zeszłym tygodniu wyluskałem fasolę szparagową i dodałem do gulaszu. W przyszłym lecie wyluskałem fasolę szparagową i dodam do sałatki.",
       "example_translation": "Я почистил фасоль и добавил ее в ризотто. На прошлой неделе я почистил фасоль и добавил ее в рагу. В следующем летом я почистлю фасоль и добавлю ее в салат.",
-      "imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "broad-bean.jpg",
       "audioLink": "broad bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Зеленое овощное растение, которое растет в форме почки на стебле, часто варится или запекается и подается как гарнир.",
       "example": "Zjadłem brukselki w restauracji wczoraj wieczorem, a potem zjem je ponownie w domu jutro, i jadłem je na lunch przez cały tydzień.",
       "example_translation": "Я ел брюссельскую капусту в ресторане прошлой ночью, потом я буду есть ее снова дома завтра, и я ем ее на обед всю неделю.",
-      "imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brussels-sprout.jpg",
       "audioLink": "brussels sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Растение, похожее на чертополох, с съедобными цветочными почками, často подается как закуска или гарнир.",
       "example": "Jadłem karczochy jako przystawkę na przyjęciu, a potem spróbuję ugotować je w domu jutro, i jadłem je w sałatkach przez całe lato.",
       "example_translation": "Я имел артichokes как закуску на вечеринке, потом я постараюсь приготовить их дома завтра, и я ем их в салатах все лето.",
-      "imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "artichoke.jpg",
       "audioLink": "artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Многолетнее растение с съедобными молодыми побегами, часто подается как гарнир, приготовленное на гриле или в сковороде.",
       "example": "Kochałem jeść szparagi wiosną, potem próbowałem je uprawiać w swoim ogrodzie w następnym roku, a teraz gotuję je z oliwą od miesiąca.",
       "example_translation": "Я люблю есть аспарагус весной, потом я постараюсь выращивать его в моем саду в следующем году, и я готовлю его с оливковым маслом весь месяц.",
-      "imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "asparagus.jpg",
       "audioLink": "asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Хрустящее и освежающее овощное растение, часто используемое в салатах, супах и как закуска.",
       "example": "Jadłem kije selery z masłem orzechowym w szkole, potem będę używał jej w swoim przepisie na zupę jutro, a cały dzień jadłem ją sola.",
       "example_translation": "Я ел стебли сельдерея с арахисовой пастой в школе, потом я использую его в моем рецепте супа завтра, и я ем его как закуску весь день.",
-      "imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "celery.jpg",
       "audioLink": "celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Цикорий - это тип многолетнего растения, родом из Европы и Азии, которое часто используется как заменитель или добавка к кофе.",
       "example": "Piłem kawę z cykorią po raz pierwszy w zeszłym tygodniu, a była dosyć gorzka. Próbuję jej ponownie następnego miesiąca. Ona pije kawę z cykorią od lat.",
       "example_translation": "Я пил кофе из цикория в прошлый раз неделю, и это было khá горько. Я попробую это снова 次 месяц. Она пьет цикорий кофе уже несколько лет.",
-      "imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chicory.jpg",
       "audioLink": "chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Лук-шнитт - это тип травы, принадлежащий к семейству луковых, и часто используется как ароматизатор или гарнир в различных блюдах.",
       "example": "Posypałem szczypiorkiem swoją pieczoną ziemniaka wczoraj, a była pyszna. Ona będzie kroić szczypiorek do sałatki jutro. Oni uprawiali szczypiorek w swoim ogrodzie przez lata.",
       "example_translation": "Я посыпал лук-шнитт на мой запеченный картофель прошлой ночью, и это было вкусно. Она будет рубить лук-шнитт для салата завтра. Они выращивали лук-шнитт в их саду уже несколько лет.",
-      "imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chives.jpg",
       "audioLink": "chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Кресс-салат - это тип зеленого с острым вкусом, который часто используется как гарнир или добавляется в салаты для аромата.",
       "example": "Dodałem rzodkiew do swojego sandwicha wczoraj, a była orzeźwiająca. Ona będzie siać nasiona rzodkwi następnego tygodnia. Oni jedli sałatki z rzodkwią przez miesiące.",
       "example_translation": "Я добавил кресс-салат в мой сэндвич вчера, и это было освежающе. Она будет сеять семена кресс-салата на следующей неделе. Они ели салаты из кресс-салата уже несколько месяцев.",
-      "imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cress.jpg",
       "audioLink": "cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Укроп - это тип травы, который часто используется для ароматизации консервов, супов и других блюд, а также используется в традиционной медицине.",
       "example": "Dodałem kopera do swoich ogórków marynowanych latem, a wyszły świetnie. Ona będzie sadzić nasiona kopru wiosną. Oni używali kopru do leczenia niestrawności przez lata.",
       "example_translation": "Я добавил укроп в мои консервы прошлым летом, и они получились отлично. Она будет сажать семена укропа следующей весной. Они использовали укроп для лечения диспепсии уже несколько лет.",
-      "imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dill.jpg",
       "audioLink": "dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Укроп - это многолетнее растение с характерным анисовым или лакрическим вкусом, часто используемым в кулинарии и медицине.",
       "example": "Pokroiłem fenkuł i podsmażałem go z czosnkiem i cebulą. Wczoraj, wypiłem herbatkę z fenkułem, aby uśmierzyć ból brzucha. Do następnego tygodnia, zamierzam zasiać fenkuł w swoim ogrodzie.",
       "example_translation": "Я нарезал укроп и поджарил его с гвоздикой и луком. Вчера я пил чай из укропа, чтобы успокоить мой желудок. К следующей неделе я посадил укроп в свой сад.",
-      "imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fennel.jpg",
       "audioLink": "fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Хрен - это острый, белый корень, часто используемый как приправа или ингредиент в различных блюдах.",
       "example": "Dodałem chrzanu do swojej ostrygi, aby nadać jej kopa. Moja babcia robiła sos z chrzanem na niedzielne obiady. Następnego roku, próbuję uprawiać chrzan w swoim ogrodzie.",
       "example_translation": "Я добавил хрен в свой соус, чтобы дать ему кик. Моя бабушка использовала хреновую заправку для воскресных обедов. В следующем году я пытаюсь вырастить хрен в meinem заднем дворе.",
-      "imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horseradish.jpg",
       "audioLink": "horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Кале - это тип листвистого зеленого овоща, богатого питательными веществами и часто используемого в салатах, смузи и обжаренных блюдах.",
       "example": "Jadłem sałatkę z jarmużem na obiad wczoraj. Dzisiaj, będę gotować jarmuż z czosnkiem jako przystawkę. Do następnego miesiąca, zamierzam rozpocząć rutynę smoothie z jarmużem.",
       "example_translation": "Я ел салат из кале на обед вчера. Сегодня я собираюсь обжарить кале с гвоздикой в качестве гарнира. К следующему месяцу я начну рутину смузи из кале.",
-      "imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kale.jpg",
       "audioLink": "kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Чечевица - это тип бобовой культуры, часто используемый в супах, стью и карри, и богатый белком и волокнами.",
       "example": "Ugotowałem zupę z soczewicy na obiad wczoraj. Moja mama robiła curry z soczewicy na specjalne okazje. Do następnego roku, zamierzam spróbować sałatki z soczewicy jako nowego przepisu.",
       "example_translation": "Я варил суп из чечевичи на ужин прошлой ночью. Моя мать готовила карри из чечевицы для特殊ных случаев. К следующему году я попробую салат из чечевичи как новый рецепт.",
-      "imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lentil.jpg",
       "audioLink": "lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Мягкая, жирная ткань, заполняющая полости костей, служащая резервуаром для кровяных клеток и источником энергии.",
       "example": "Lekarz wyodrębnił próbkę szpiku z kości pacjenta, aby zbadać ją na jakiekolwiek anomalie. Ona donoszła szpiku swojej siostrze, która cierpiała na białaczkę. Komórki macierzyste w szpiku pomogą pacjentowi wyzdrowieć po chemioterapii.",
       "example_translation": "Доктор забрал образец мозговой ткани из кости пациента, чтобы исследовать ее на наличие любых аномалий. Она донировала мозговую ткань своей сестре, которая страдала от лейкемии. Стволовые клетки в мозговой ткани помогут пациенту 恢復иться после химиотерапии.",
-      "imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marrow.jpg",
       "audioLink": "marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Сладкий корнеплод, обычно белый или желтоватый по цвету, часто используемый в супах, тушеных блюдах и салатах.",
       "example": "Szef kuchni dodał pasternaka do gulaszu, aby nadać mu słodkiego smaku. Pasternaki są wspaniałą dodatką do zimowej sałaty. Na targu rolników sprzedawano świeże pasternaki w świetnej cenie.",
       "example_translation": "Повар добавил пастернак в рагу, чтобы дать ему сладкий вкус. Пастернаки - это отличное дополнение к зимнему салату. На рынке фермеров продавали свежие пастернаки по выгодной цене.",
-      "imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parsnip.jpg",
       "audioLink": "parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Растение с кислыми, хрустящими стеблями, часто используемыми в пирогах и джемах, обычно в паре со сладкими фруктами, такими как клубника.",
       "example": "Babcia zrobiła pyszną tartę z rzeżuchy na deser. Rzeżucha jest wspaniałą dodatką do letniej sałaty. Rolnik uprawia rzeżuchę w swoim ogrodzie, aby zrobić domowy dżem.",
       "example_translation": "Бабушка приготовила вкусный пирог из ревеня на десерт. Ревень - это отличное дополнение к летнему салату. Фермер выращивал ревень в omaом саду, чтобы сделать домашний джем.",
-      "imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rhubarb.jpg",
       "audioLink": "rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Тип корнеплода, похожий на репу, часто используемый в супах, тушеных блюдах и пюре.",
       "example": "Szef kuchni dodał kapustę rzepak do gulaszu, aby nadać mu sercowego smaku. Kapusta rzepak jest wspaniałą dodatką do zimowej zupy. Na targu rolników sprzedawano świeże kapusty rzepak w świetnej cenie.",
       "example_translation": "Повар добавил шведскую репу в рагу, чтобы дать ему сытный вкус. Шведские репы - это отличное дополнение к зимнему супу. На рынке фермеров продавали свежие шведские репы по выгодной цене.",
-      "imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swede.jpg",
       "audioLink": "swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Батат — это тип корнеплода, родом из Америки, характеризующийся своей сладкой, крахмалистой мякотью и тонкой кожей.",
       "example": "Wczoraj zjadłem batata, teraz jem go, a jutro zjadem go ponownie.",
       "example_translation": "Я ел батат вчера, я ем его сейчас, и я буду есть его завтра.",
-      "imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweet-potato.jpg",
       "audioLink": "sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Репа — это корнеплод, обычно белый или фиолетовый, используемый в супах, тушеных блюдах и салатах.",
       "example": "Moja babcia uprawiała rzepy w swoim ogrodzie, moja mama uprawia je teraz, a moja siostra będzie uprawiała je w przyszłości.",
       "example_translation": "Моя бабушка выращивала репу в своем саду, моя мать выращивает их сейчас, и моя сестра будет выращивать их в будущем.",
-      "imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turnip.jpg",
       "audioLink": "turnip.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "artykuły odzieży",
       "example": "She hung up her clothes in the closet.",
       "example_translation": "Ona powiesiła swoje ubrania w szafie.",
-      "imageLink": "image_files\\English\\clothes.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clothes.jpg",
       "audioLink": "audio_files\\English\\clothes.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "ubranie zewnętrzne noszone dla ochładzania lub jako oświadczenie mody",
       "example": "She wore a nice coat to the party.",
       "example_translation": "Ona miała na sobie ładny płaszcz na przyjęciu.",
-      "imageLink": "image_files\\English\\coat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "coat.jpg",
       "audioLink": "audio_files\\English\\coat.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "jednolita część ubioru dla kobiety lub dziewczyny, zwykle sięgająca poniżej kolana",
       "example": "She put on her best dress for the party.",
       "example_translation": "Włożyła najlepszą suknię na imprezę.",
-      "imageLink": "image_files\\English\\dress.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dress.jpg",
       "audioLink": "audio_files\\English\\dress.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "nakrycie głowy z brzymem, zazwyczaj noszone jako ochrona przed słońcem lub jako oświadczenie mody",
       "example": "She wore a hat to protect her face from the sun.",
       "example_translation": "Ona nosiła kapelusz, aby chronić twarz przed słońcem.",
-      "imageLink": "image_files\\English\\hat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hat.jpg",
       "audioLink": "audio_files\\English\\hat.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "typ spodni wykonanych z tkaniny dżinsowej",
       "example": "I love wearing jeans on weekends.",
       "example_translation": "Lubię nosić dżinsy w weekendy.",
-      "imageLink": "image_files\\English\\jeans.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jeans.jpg",
       "audioLink": "audio_files\\English\\jeans.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Ubranie noszone na górnej części ciała, zazwyczaj z rękawami.",
       "example": "She put on a clean shirt before going to work.",
       "example_translation": "Ona założyła czystą koszulę przed wyjściem do pracy.",
-      "imageLink": "image_files\\English\\shirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shirt.jpg",
       "audioLink": "audio_files\\English\\shirt.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "okrycie na nogę,(typowo wykonane z skóry, gumy lub materiałów syntetycznych)",
       "example": "I need to buy a new shoe for the party tonight.",
       "example_translation": "Muszę kupić nowe buty na dzisiejszą imprezę.",
-      "imageLink": "image_files\\English\\shoe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shoe.jpg",
       "audioLink": "audio_files\\English\\shoe.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "ubranie wiszące z talii, typowo noszone przez kobiety",
       "example": "She wore a beautiful skirt to the party.",
       "example_translation": "Ona nosiła piękną spódnicę na przyjęcie.",
-      "imageLink": "image_files\\English\\skirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "skirt.jpg",
       "audioLink": "audio_files\\English\\skirt.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "koszulka casual, zwykle robiona z bawełny lub materiałów syntetycznych, z krótkimi rękawami",
       "example": "I'm going to wear a T-shirt to the gym.",
       "example_translation": "Będę nosić koszulkę do siłowni.",
-      "imageLink": "image_files\\English\\t-shirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "t-shirt.jpg",
       "audioLink": "audio_files\\English\\T-shirt.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "zewnętrzny ubiór okrywający nogi, zwykle wykonany z tkaniny i noszony dla ciepła i ochrony",
       "example": "He wore a pair of trousers to the party.",
       "example_translation": "On założył parę spodni na przyjęcie.",
-      "imageLink": "image_files\\English\\trousers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trousers.jpg",
       "audioLink": "audio_files\\English\\trousers.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "okrycie dla stopy,(typowo wykonane z skóry, tkaniny lub gumy",
       "example": "She put on her boot to go hiking.",
       "example_translation": "Włożyła but, aby pójść na wędrówkę.",
-      "imageLink": "image_files\\English\\boot.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boot.jpg",
       "audioLink": "audio_files\\English\\boot.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "okrycie głowy, Typically mające brzeg i koronę",
       "example": "He wore a cap to protect his face from the sun.",
       "example_translation": "On носił czapkę, aby chronić twarz przed słońcem.",
-      "imageLink": "image_files\\English\\cap.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cap.jpg",
       "audioLink": "audio_files\\English\\cap.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "pokrycie dla ręki, zwykle wykonane z tkaniny lub skóry, z oddzielnymi częściami dla palców",
       "example": "She put on her glove to protect her hand from the cold.",
       "example_translation": "Ona włożyła rękawiczkę, aby ochraniać swoją rękę przed zimnem.",
-      "imageLink": "image_files\\English\\glove.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "glove.jpg",
       "audioLink": "audio_files\\English\\glove.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "krótki płaszcz lub ubranie zewnętrzne",
       "example": "I need to wear a jacket to keep warm in winter.",
       "example_translation": "Muszę nosić kurtkę, aby utrzymać ciepło zimą.",
-      "imageLink": "image_files\\English\\jacket.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jacket.jpg",
       "audioLink": "audio_files\\English\\jacket.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "osoba lub zwierzę, które skacze, szczególnie w sporcie",
       "example": "She is a professional jumper and has won many competitions.",
       "example_translation": "Ona jest profesjonalnym skoczkiem i wygrała wiele konkursów.",
-      "imageLink": "image_files\\English\\jumper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jumper.jpg",
       "audioLink": "audio_files\\English\\jumper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "mała torba lub koperta zszyta w ubranie lub do niego przywiązana, używana do noszenia małych przedmiotów",
       "example": "I found my keys in my pocket.",
       "example_translation": "Znalezłem klucze w swojej kieszeni.",
-      "imageLink": "image_files\\English\\pocket.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pocket.jpg",
       "audioLink": "audio_files\\English\\pocket.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "płaszcz wodoodporny lub wodoodporny noszony, aby chronić noszącego przed deszczem",
       "example": "She always carries a raincoat with her when she goes out in rainy days.",
       "example_translation": "Zawsze nosi ze sobą płaszcz przeciwdeszczowy, gdy wychodzi w deszczowe dni.",
-      "imageLink": "image_files\\English\\raincoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "raincoat.jpg",
       "audioLink": "audio_files\\English\\raincoat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "kawałek tkaniny noszony wokół szyi dla ciepła lub jako dodatek modowy",
       "example": "She wore a bright red scarf to match her hat.",
       "example_translation": "Ona nosiła jaskrawoczerwony szal, aby dopasować go do swojego kapelusza.",
-      "imageLink": "image_files\\English\\scarf.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scarf.jpg",
       "audioLink": "audio_files\\English\\scarf.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "rodzaj krótkich spodenek",
       "example": "I love wearing shorts in the summer.",
       "example_translation": "Uwielbiam nosić szorty w lecie.",
-      "imageLink": "image_files\\English\\shorts.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "shorts.jpg",
       "audioLink": "audio_files\\English\\shorts.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "okrycie tkaninowe na nogę",
       "example": "I need to buy a new pair of socks.",
       "example_translation": "Muszę kupić nową parę skarpetek.",
-      "imageLink": "image_files\\English\\sock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sock.jpg",
       "audioLink": "audio_files\\English\\sock.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": " zestaw ubrań zewnętrznych wykonanych z tej samej tkaniny, zaprojektowanych do noszenia razem",
       "example": "He wore a black suit to the wedding.",
       "example_translation": "On nosił czarny strój na ślub.",
-      "imageLink": "image_files\\English\\suit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "suit.jpg",
       "audioLink": "audio_files\\English\\suit.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "ubranie na górę ciała",
       "example": "I'm wearing a warm sweater today.",
       "example_translation": "Dziś noszę ciepły sweter.",
-      "imageLink": "image_files\\English\\sweater.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweater.jpg",
       "audioLink": "audio_files\\English\\sweater.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "ubranie noszone do pływania",
       "example": "She put on her swimming costume and jumped into the pool.",
       "example_translation": "Ona ubrała kostium pływacki i skoczyła do basenu.",
-      "imageLink": "image_files\\English\\swimming-costume.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimming-costume.jpg",
       "audioLink": "audio_files\\English\\swimming costume.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "ubranie noszone do pływania",
       "example": "She bought a new swimsuit for the summer.",
       "example_translation": "Kupiła nowy kostium pływacki na lato.",
-      "imageLink": "image_files\\English\\swimsuit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimsuit.jpg",
       "audioLink": "audio_files\\English\\swimsuit.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "długi, wąski kawałek materiału noszony wokół szyi, zwykle pod kołnierzem",
       "example": "He wore a tie to the wedding.",
       "example_translation": "On zakładał krawat na ślub.",
-      "imageLink": "image_files\\English\\tie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tie.jpg",
       "audioLink": "audio_files\\English\\tie.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "typ ubrania, który nakrywa nogi, zwykle wykonany z cienkiego, elastycznego materiału",
       "example": "She wore tights to the party to keep her legs warm.",
       "example_translation": "Ona miała na sobie pończochy na przyjęciu, żeby utrzymać ciepło nóg.",
-      "imageLink": "image_files\\English\\tights.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tights.jpg",
       "audioLink": "audio_files\\English\\tights.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "osoba szkoląca ludzi lub zwierzęta, szczególnie w sporcie lub działalności",
       "example": "The football trainers were busy preparing the team for the big match.",
       "example_translation": "Trenerzy piłkarscy byli zajęci przygotowaniem drużyny do ważnego meczu.",
-      "imageLink": "image_files\\English\\trainers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trainers.jpg",
       "audioLink": "audio_files\\English\\trainers.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": " zestaw ubrań noszonych przez osoby należące do danej grupy lub organizacji",
       "example": "The police officer wore a uniform to work.",
       "example_translation": "Funkcjonariusz policji nosił mundur do pracy.",
-      "imageLink": "image_files\\English\\uniform.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uniform.jpg",
       "audioLink": "audio_files\\English\\uniform.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "luźna koszula lub top noszony przez kobiety",
       "example": "She wore a beautiful blouse to the party.",
       "example_translation": "Ona nosiła piękną bluzkę na imprezę.",
-      "imageLink": "image_files\\English\\blouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "blouse.jpg",
       "audioLink": "audio_files\\English\\blouse.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "kawałek materiału noszony wokół szyi, typowo jako część koszuli lub sukni",
       "example": "She wore a white blouse with a delicate collar.",
       "example_translation": "Nałożyła białą bluzkę z delikatnym kołnierzem.",
-      "imageLink": "image_files\\English\\collar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "collar.jpg",
       "audioLink": "audio_files\\English\\collar.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Tylna część ludzkiej stopy.",
       "example": "She wore high heels to the party.",
       "example_translation": "Ona nosiła wysokie obstructionki na imprezę.",
-      "imageLink": "image_files\\English\\heel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "heel.jpg",
       "audioLink": "audio_files\\English\\heel.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "ubranie noszone przez kobiety i dziewczęta, aby zakryć nogi i pośladki",
       "example": "She wore a pair of knickers under her skirt.",
       "example_translation": "Ona nosiła majtki pod spódnicą.",
-      "imageLink": "image_files\\English\\knickers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knickers.jpg",
       "audioLink": "audio_files\\English\\knickers.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "zewnętrzny ubiór pokrywający nogi",
       "example": "I need to buy a new pair of pants for the party.",
       "example_translation": "Muszę kupić nową parę spodenek na imprezę.",
-      "imageLink": "image_files\\English\\pants.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pants.jpg",
       "audioLink": "audio_files\\English\\pants.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "sweter lub podobna odzież, która jest nakładana przez głowę",
       "example": "She put on a pullover to keep warm.",
       "example_translation": "Ona włożyła sweter, aby się ogrzać.",
-      "imageLink": "image_files\\English\\pullover.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pullover.jpg",
       "audioLink": "audio_files\\English\\pullover.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "typ obuwia, zwykle wykonany z jednego kawałka skóry lub materiału syntetycznego, noszony z podeszwą przypinaną do stopy",
       "example": "She wore sandals to the beach.",
       "example_translation": "Ona nosiła sandały na plażę.",
-      "imageLink": "image_files\\English\\sandal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sandal.jpg",
       "audioLink": "audio_files\\English\\sandal.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "część ubrania, która zakrywa rękę",
       "example": "She rolled up her sleeve to wash her hands.",
       "example_translation": "Zwinęła rękaw, aby umyć ręce.",
-      "imageLink": "image_files\\English\\sleeve.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sleeve.jpg",
       "audioLink": "audio_files\\English\\sleeve.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Kapcie to rodzaj obuwia noszonego wewnątrz, zwykle wykonanego z miękkich materiałów takich jak bawełna lub wełna.",
       "example": "She put on her slippers to relax after a long day.",
       "example_translation": "Włożyła kapcie, aby się zrelaksować po długim dniu.",
-      "imageLink": "image_files\\English\\slippers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "slippers.jpg",
       "audioLink": "audio_files\\English\\slippers.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "luźny top wykonany z grubej, miękkiej tkaniny, często z kapturem i noszony dla relaksu lub sportu",
       "example": "I wear a sweatshirt when I'm watching TV on a cold winter evening.",
       "example_translation": "Noszę koszulkę sportową, gdy oglądam telewizję wieczorem zimą.",
-      "imageLink": "image_files\\English\\sweatshirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweatshirt.jpg",
       "audioLink": "audio_files\\English\\sweatshirt.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "para szortów noszonych do pływania",
       "example": "He wore swimming trunks to the beach.",
       "example_translation": "On założył kąpielówki na plażę.",
-      "imageLink": "image_files\\English\\swimming-trunks.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "swimming-trunks.jpg",
       "audioLink": "audio_files\\English\\swimming trunks.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "najwyższa lub górna część czegoś",
       "example": "The hikers reached the top of the mountain.",
       "example_translation": "Wspinacze dotarli do szczytu góry.",
-      "imageLink": "image_files\\English\\top.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "top.jpg",
       "audioLink": "audio_files\\English\\top.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "łatwo i wygodnie ubranie,.typowo wykonane z materiałów syntetycznych, noszone do relaksu lub uprawiania sportu",
       "example": "She put on her tracksuit and went for a jog.",
       "example_translation": "Ona włożyła swój strój sportowy i poszła pobiegać.",
-      "imageLink": "image_files\\English\\tracksuit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tracksuit.jpg",
       "audioLink": "audio_files\\English\\tracksuit.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "artykuł ubrania noszony bezpośrednio na skórze pod innymi ubraniami",
       "example": "He forgot to put on his underpants this morning.",
       "example_translation": "Zapomniał włożyć bieliznę męską tej MORNY.",
-      "imageLink": "image_files\\English\\underpants.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "underpants.jpg",
       "audioLink": "audio_files\\English\\underpants.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "ubranie noszone przy skórze, zwykle pod innymi ubraniami",
       "example": "She forgot to pack her underwear for the trip.",
       "example_translation": "Zapomniała spakować bieliznę na podróż.",
-      "imageLink": "image_files\\English\\underwear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "underwear.jpg",
       "audioLink": "audio_files\\English\\underwear.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "kawałek tkaniny noszony na przedzie ubrania, aby chronić je przed plamami",
       "example": "She wore an apron to protect her clothes while cooking.",
       "example_translation": "Nosiała fartuch, aby chronić ubranie podczas gotowania.",
-      "imageLink": "image_files\\English\\apron.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "apron.jpg",
       "audioLink": "audio_files\\English\\apron.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "dwuczęściowy kostium kąpielowy noszony przez kobiety",
       "example": "She wore a bikini to the beach.",
       "example_translation": "Ona nosiła biustonosz na plażę.",
-      "imageLink": "image_files\\English\\bikini.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bikini.jpg",
       "audioLink": "audio_files\\English\\bikini.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "typ luźnych slipów dla mężczyzn",
       "example": "He wore boxer shorts to the party.",
       "example_translation": "On nosił bokserki na przyjęcie.",
-      "imageLink": "image_files\\English\\boxer-shorts.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boxer-shorts.jpg",
       "audioLink": "audio_files\\English\\boxer shorts.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "urządzenie noszone przez kobiety, które wspiera i obejmuje piersi",
       "example": "She put on her bra and headed out to the party.",
       "example_translation": "Włożyła biustonosz i ruszyła na imprezę.",
-      "imageLink": "image_files\\English\\bra.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bra.jpg",
       "audioLink": "audio_files\\English\\bra.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "krótkie, dopasowane do ciała bielizna dla mężczyzn",
       "example": "He forgot to pack his briefs for the trip.",
       "example_translation": "Zapomniał spakować swoją bieliznę męską na podróż.",
-      "imageLink": "image_files\\English\\briefs.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "briefs.jpg",
       "audioLink": "audio_files\\English\\briefs.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "gruba, wełniana kurtka",
       "example": "She wore a cardigan over her dress to keep warm.",
       "example_translation": "Ona miała na sobie kardigan nad sukienką, aby się ogrzać.",
-      "imageLink": "image_files\\English\\cardigan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cardigan.jpg",
       "audioLink": "audio_files\\English\\cardigan.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Zestaw ubrań noszonych, aby stworzyć określony wrażenie lub przedstawiać określony charakter lub zawód.",
       "example": "She wore a beautiful costume to the party.",
       "example_translation": "Ona nosiła piękny kostium na imprezę.",
-      "imageLink": "image_files\\English\\costume-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "costume-1.jpg",
       "audioLink": "audio_files\\English\\costume.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "brzeg lub fałd na końcu rękawa lub innego ubrania",
       "example": "She rolled up her sleeve to show off the fancy cuff.",
       "example_translation": "Podała rękaw, aby pokazać ozdobną manażkę.",
-      "imageLink": "image_files\\English\\cuff.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cuff.jpg",
       "audioLink": "audio_files\\English\\cuff.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "ochronny nakrycie głowy, szczególnie noszone przez żołnierzy lub sportowców",
       "example": "The cyclist wore a helmet to protect his head.",
       "example_translation": "Cyklista nosił hełm, aby chronić głowę.",
-      "imageLink": "image_files\\English\\helmet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "helmet.jpg",
       "audioLink": "audio_files\\English\\helmet.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "elastyczne nakrycie głowy i szyi, często przywiązane do kurtki lub płaszcza",
       "example": "She wore a hood to protect herself from the rain.",
       "example_translation": "Ona nosiła kaptur, aby chronić się przed deszczem.",
-      "imageLink": "image_files\\English\\hood.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hood.jpg",
       "audioLink": "audio_files\\English\\hood.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "ubranie, które zakrywa kolano i dolną część nogi",
       "example": "She wore knee socks with her skirt.",
       "example_translation": "Ona miała na sobie skarpetki do kolan z spódnicą.",
-      "imageLink": "image_files\\English\\knee-socks.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "knee-socks.jpg",
       "audioLink": "audio_files\\English\\knee socks.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "luźna szata noszona do spania lub lenistwa",
       "example": "She put on her favourite nightgown and went to bed.",
       "example_translation": "Włożyła swoją ulubioną piżamę i poszła spać.",
-      "imageLink": "image_files\\English\\nightgown.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightgown.jpg",
       "audioLink": "audio_files\\English\\nightgown.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Luźna nocna koszulka, zwykle wykonana z bawełny lub jedwabiu.",
       "example": "She put on her favourite nightie and climbed into bed.",
       "example_translation": "Włożyła swoją ulubioną nocną koszulkę i weszła do łóżka.",
-      "imageLink": "image_files\\English\\nightie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nightie.jpg",
       "audioLink": "audio_files\\English\\nightie.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "luźne spodnie noszone do spania lub relaksu",
       "example": "I wore my favourite pyjamas to bed last night.",
       "example_translation": "Wczoraj nocą ubrałem moje ulubione piżamy do łóżka.",
-      "imageLink": "image_files\\English\\pyjamas.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pyjamas.jpg",
       "audioLink": "audio_files\\English\\pyjamas.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "luźne buty sportowe, typowo wykonane z materiałów syntetycznych",
       "example": "I need to buy a new pair of sneakers for the marathon.",
       "example_translation": "Muszę kupić nową parę tenisówek na maraton.",
-      "imageLink": "image_files\\English\\sneakers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sneakers.jpg",
       "audioLink": "audio_files\\English\\sneakers.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "luźny, absorbujący strój noszony po kąpieli lub pływaniu",
       "example": "She put on her bathrobe and went to the kitchen to make some coffee.",
       "example_translation": "Włożyła szlafrok i poszła do kuchni, aby zrobić kawę.",
-      "imageLink": "image_files\\English\\bathrobe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bathrobe.jpg",
       "audioLink": "audio_files\\English\\bathrobe.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "typ krawatu, który składa się z wstążki zawiązanej w kształt kokardy",
       "example": "He wore a bow tie to the formal party.",
       "example_translation": "On założył krawat do formalnej imprezy.",
-      "imageLink": "image_files\\English\\bow-tie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bow-tie.jpg",
       "audioLink": "audio_files\\English\\bow tie.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "rodzaj luźnych spodni, zazwyczaj wykonanych z denimu lub(Canvas)",
       "example": "She wore dungarees to the gardening club",
       "example_translation": "Ona miała na sobie krajki na klub ogrodniczy",
-      "imageLink": "image_files\\English\\dungarees.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dungarees.jpg",
       "audioLink": "audio_files\\English\\dungarees.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "typ sandału, który ma rzemię między dużym a drugim palcem",
       "example": "I love wearing flip-flops on the beach.",
       "example_translation": "Uwielbiam nosić klapki na plaży.",
-      "imageLink": "image_files\\English\\flip-flops.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flip-flops.jpg",
       "audioLink": "audio_files\\English\\flip-flops.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\fur-coat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fur-coat.jpg",
       "audioLink": "audio_files\\English\\fur coat.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "ubiór noszony nad innymi ubraniami, aby je chronić,(typowo wykonany z trwałego materiału)",
       "example": "She put on her overalls to work in the garden.",
       "example_translation": "Włożyła kombinezon, aby pracować w ogrodzie.",
-      "imageLink": "image_files\\English\\overalls.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "overalls.jpg",
       "audioLink": "audio_files\\English\\overalls.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "ubranie, które łączy majtki i pończochy, zwykle wykonane z elastycznej tkaniny",
       "example": "She put on her pantyhose before going to work.",
       "example_translation": " Założyła rajstopy przed wyjściem do pracy.",
-      "imageLink": "image_files\\English\\pantyhose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pantyhose.jpg",
       "audioLink": "audio_files\\English\\pantyhose.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "ubranie na nogi, zwykle wykonane z elastycznego materiału, noszone przez kobiety",
       "example": "She pulled on her stockings and smoothed out the wrinkles.",
       "example_translation": "Ona wciągnęła pończochy i wygładziła zgnieceniowe.",
-      "imageLink": "image_files\\English\\stockings.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stockings.jpg",
       "audioLink": "audio_files\\English\\stockings.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "wysoki, płaski czapka, typowo wykonany z filcu lub słomy, noszony przez mężczyzn w XIX i na początku XX wieku",
       "example": "The magician wore a top hat and carried a cane.",
       "example_translation": "Magik nosił kapelusz cylindryczny i trzymał laskę.",
-      "imageLink": "image_files\\English\\top-hat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "top-hat.jpg",
       "audioLink": "audio_files\\English\\top hat.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "kawałek tkaniny noszony na głowie lub twarzy, często jako część ceremonii ślubnej",
       "example": "The bride wore a beautiful veil on her wedding day.",
       "example_translation": "Narzeczona miała piękną zasłonę w dniu ślubu.",
-      "imageLink": "image_files\\English\\veil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "veil.jpg",
       "audioLink": "audio_files\\English\\veil.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\singlet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "singlet.jpg",
       "audioLink": "audio_files\\English\\vest.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "rodzaj typu nakrycia głowy, które pokrywa głowę, szyję i często twarz, noszone dla ciepła lub jako część munduru wojskowego lub policyjnego",
       "example": "She wore a balaclava to protect her face from the cold wind.",
       "example_translation": "Ona nosiła bekąłkę, aby chronić twarz przed zimnym wiatrem.",
-      "imageLink": "image_files\\English\\balaclava.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "balaclava.jpg",
       "audioLink": "audio_files\\English\\balaclava.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "spodnie, szczególnie luźne, noszone do jazdy konnej",
       "example": "She wore a pair of breeches to ride her horse.",
       "example_translation": "Ona założyła parę spodni, aby jeździć konno.",
-      "imageLink": "image_files\\English\\breeches.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "breeches.jpg",
       "audioLink": "audio_files\\English\\breeches.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "ubranie bez rękawów wiszące z szyi",
       "example": "She wore a cape to the costume party.",
       "example_translation": "Ona nosiła pelerynę na imprezę kostiumową.",
-      "imageLink": "image_files\\English\\cape.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cape.jpg",
       "audioLink": "audio_files\\English\\cape.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\clog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clog.jpg",
       "audioLink": "audio_files\\English\\clog.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "cieśny bielizniany stroj noszony przez kobiety, aby ukształtować sylwetkę",
       "example": "She laced up her corset and put on her dress",
       "example_translation": "Zawiązała swoją korsaż i włożyła suknie",
-      "imageLink": "image_files\\English\\corset.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "corset.jpg",
       "audioLink": "audio_files\\English\\corset.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "rodzaj obcisłych pończoch z siatkowym wzorem",
       "example": "She wore fishnet tights to the party.",
       "example_translation": "Ona miała siatkę na nogi na imprezie.",
-      "imageLink": "image_files\\English\\fishnet-tights.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fishnet-tights.jpg",
       "audioLink": "audio_files\\English\\fishnet tights.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "pasek lub sznur, zazwyczaj skórzany lub tkaninowy, noszony wokół talii",
       "example": "She wore a girdle to hold up her stockings.",
       "example_translation": "Ona nosiła pas, aby utrzymać swoje pończochy.",
-      "imageLink": "image_files\\English\\girdle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "girdle.jpg",
       "audioLink": "audio_files\\English\\girdle.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "rurkowate ubranie noszone, aby trzymać nogi w ciepłej, typowo przez tancerzy lub sportowców",
       "example": "The ballet dancer wore leg warmers to keep her muscles warm during the performance.",
       "example_translation": "Tancerka baletowa nosiła nakolanniki, aby trzymać mięśnie w ciepłej podczas występu.",
-      "imageLink": "image_files\\English\\leg-warmers.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leg-warmers.jpg",
       "audioLink": "audio_files\\English\\leg warmers.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "spódniczka, zazwyczaj rozkloszowana i wisząca poniżej talii, noszona jako spódnica lub jako element mody",
       "example": "She wore a beautiful petticoat under her wedding dress.",
       "example_translation": "Ona nosiła piękną spódnicę pod swoją suknią ślubną.",
-      "imageLink": "image_files\\English\\petticoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "petticoat.jpg",
       "audioLink": "audio_files\\English\\petticoat.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "kurtka wykonana ze skóry owczego, często noszona jako kurtka zimowa",
       "example": "She wore a sheepskin coat to keep warm in the cold weather.",
       "example_translation": "Ona nosiła kurtkę z owczej skóry, aby się ogrzać w zimnej pogodzie.",
-      "imageLink": "image_files\\English\\sheepskin-coat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sheepskin-coat.jpg",
       "audioLink": "audio_files\\English\\sheepskin coat.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "bezrękawnik noszony nad koszulą",
       "example": "He wore a life vest while swimming.",
       "example_translation": "Nosił kamizelkę ratunkową podczas pływania.",
-      "imageLink": "image_files\\English\\vest.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vest.jpg",
       "audioLink": "audio_files\\English\\vest.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "pokrycie silnika samochodu",
       "example": "The mechanic had to remove the bonnet to fix the engine.",
       "example_translation": "Mechanik musiał usunąć kaplicę, aby naprawić silnik.",
-      "imageLink": "image_files\\English\\bonnet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bonnet.jpg",
       "audioLink": "audio_files\\English\\bonnet.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "luźny, wygodny strój noszony do odpoczynku lub spania",
       "example": "She put on her dressing gown and went to make a cup of tea.",
       "example_translation": "Włożyła szlafrok i poszła zrobić herbatę.",
-      "imageLink": "image_files\\English\\dressing-gown.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dressing-gown.jpg",
       "audioLink": "audio_files\\English\\dressing gown.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "luźna kurta z kapturkiem, zwykle wykonana z grubego materiału",
       "example": "I love wearing my hoodie on a chilly morning.",
       "example_translation": "Uwielbiam nosić swoją bluzę kapturową w chłodny poranek.",
-      "imageLink": "image_files\\English\\hoodie.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hoodie.jpg",
       "audioLink": "audio_files\\English\\hoodie.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "luźny, zwykle bawełniany lub syntetyczny, strój do noszenia w domu",
       "example": "She wore a comfortable housecoat while watching TV.",
       "example_translation": "Nosząc wygodny szlafrok, oglądała telewizję.",
-      "imageLink": "image_files\\English\\housecoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "housecoat.jpg",
       "audioLink": "audio_files\\English\\housecoat.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "typ swetra z wysokim, okrągłym kołnierzem, który się składa",
       "example": "She wore a bright yellow turtleneck to the party.",
       "example_translation": "Ona miała na sobie żółty sweter z kołnierzem na imprezie.",
-      "imageLink": "image_files\\English\\turtleneck.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "turtleneck.jpg",
       "audioLink": "audio_files\\English\\turtleneck.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "spódnica noszona pod inną spódnicą, typowo aby dodać objętość lub kształt",
       "example": "She wore an underskirt to give her dress more volume.",
       "example_translation": "Ona nosiła spódnice, aby dać jej sukni więcej objętości.",
-      "imageLink": "image_files\\English\\underskirt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "underskirt.jpg",
       "audioLink": "audio_files\\English\\underskirt.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "ubranie bez rękawów noszone wokół talii, zazwyczaj przez mężczyzn",
       "example": "He wore a waistcoat with a white shirt and black trousers.",
       "example_translation": "Nosiał kamielkę z białą koszulą i czarnymi spodniami.",
-      "imageLink": "https://www.ang.pl/img-waistcoat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "https://www.ang.pl/img-waistcoat.jpg",
       "audioLink": "audio_files\\English\\waistcoat.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "Der Tag der Woche zwischen Donnerstag und Samstag, traditionell als der fünfte Tag der Woche betrachtet.",
       "example": "I will meet you on Friday. I met you on Friday. I met you on Friday, and I will meet you on Friday again.",
       "example_translation": "Ich treffe dich am Freitag. Ich traf dich am Freitag. Ich traf dich am Freitag und werde dich am Freitag wieder treffen.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Der erste Tag der Woche, traditionell als der erste Tag der Woche betrachtet.",
       "example": "I will go to school on Monday. I went to school on Monday. I will have gone to school on Monday by next year.",
       "example_translation": "Ich gehe am Montag zur Schule. Ich ging am Montag zur Schule. Ich werde am Montag zur Schule gegangen sein, bis nächstes Jahr.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Der Tag der Woche zwischen Freitag und Sonntag, traditionell als der sechste Tag der Woche betrachtet.",
       "example": "I will play football on Saturday. I played football on Saturday. I will have played football on Saturday by next weekend.",
       "example_translation": "Ich werde am Samstag Fußball spielen. Ich spielte am Samstag Fußball. Ich werde am Samstag Fußball gespielt haben, bis nächstes Wochenende.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Der Tag der Woche zwischen Samstag und Montag, traditionell als der siebte Tag der Woche betrachtet.",
       "example": "I will go to church on Sunday. I went to church on Sunday. I will have gone to church on Sunday by next year.",
       "example_translation": "Ich gehe am Sonntag in die Kirche. Ich ging am Sonntag in die Kirche. Ich werde am Sonntag in die Kirche gegangen sein, bis nächstes Jahr.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Der Tag der Woche zwischen Mittwoch und Freitag, typischerweise der fünfte Tag der Woche.",
       "example": "I have a meeting on Thursday morning. Yesterday was Wednesday, so tomorrow is Thursday. I will travel on Thursday next week.",
       "example_translation": "Ich habe ein Treffen am Donnerstagmorgen. Gestern war Mittwoch, also ist morgen Donnerstag. Ich werde nächste Woche am Donnerstag reisen.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Der Tag der Woche zwischen Montag und Mittwoch, typischerweise der zweite Tag der Woche.",
       "example": "I visited my friend on Tuesday last week. Yesterday was Monday, so today is Tuesday. I will study on Tuesday evening.",
       "example_translation": "Ich habe meinen Freund letzten Dienstag besucht. Gestern war Montag, also ist heute Dienstag. Ich werde am Dienstagabend studieren.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Der Tag der Woche zwischen Dienstag und Donnerstag, typischerweise der dritte Tag der Woche.",
       "example": "I will go to the gym on Wednesday morning. Yesterday was Tuesday, so today is Wednesday. I went to the cinema on Wednesday last week.",
       "example_translation": "Ich werde am Mittwochmorgen ins Fitnessstudio gehen. Gestern war Dienstag, also ist heute Mittwoch. Ich ging letzten Mittwoch ins Kino.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

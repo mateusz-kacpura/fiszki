@@ -9,7 +9,7 @@
       "definition_translation": "mały, zazwyczaj futrzasty, mięsożerny ssak",
       "example": "The cat is sleeping on the couch.",
       "example_translation": "Kot śpi na kanapie.",
-      "imageLink": "image_files\\English\\cat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cat.jpg",
       "audioLink": "audio_files\\English\\cat.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "domestykowany ssak, który daje mleko",
       "example": "The cow is grazing in the field.",
       "example_translation": "Krowa pasie się w polu.",
-      "imageLink": "image_files\\English\\cow.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cow.jpg",
       "audioLink": "audio_files\\English\\cow.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Domestykowany ssak mięsożerny należący do rodziny psów.",
       "example": "The dog is barking loudly.",
       "example_translation": "Pies szczeka głośno.",
-      "imageLink": "image_files\\English\\dog.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dog.jpg",
       "audioLink": "audio_files\\English\\dog.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "duży, kopytny, roślinożerny ssak używany do transportu, rekreacji i pracy",
       "example": "She rode a horse through the countryside.",
       "example_translation": "Ona jechała koniem przez wieś.",
-      "imageLink": "image_files\\English\\horse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horse.jpg",
       "audioLink": "audio_files\\English\\horse.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "ssaki żyjące na farmie",
       "example": "The pig rolled around in the mud.",
       "example_translation": "Świnia wywróciła się w błocie.",
-      "imageLink": "image_files\\English\\pig.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pig.jpg",
       "audioLink": "audio_files\\English\\pig.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "zwierzę roślinożerne o grubym futrze, często trzymane na farmach ze względu na wełnę i mięso",
       "example": "The farmer took his sheep to the pasture.",
       "example_translation": "Rolnik zaprowadził swoje owce na łąkę.",
-      "imageLink": "image_files\\English\\sheep.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sheep.jpg",
       "audioLink": "audio_files\\English\\sheep.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "bardzo młody człowiek,Typowo od urodzenia do kilku lat",
       "example": "The baby laughed at the silly face.",
       "example_translation": "Dziecko śmiało się z powodu głupiej twarzy.",
-      "imageLink": "image_files\\English\\baby-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "baby-1.jpg",
       "audioLink": "audio_files\\English\\baby.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "duży, mięsożerny ssak o futrze wełnistej, żyjący w lasach i górach",
       "example": "The bear climbed up the mountain.",
       "example_translation": "Niedźwiedź wspiął się na górę.",
-      "imageLink": "image_files\\English\\bear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bear.jpg",
       "audioLink": "audio_files\\English\\bear.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "mały, bardzo szybki kot, który jest rodzimy w Afryce i Azji",
       "example": "The cheetah is a endangered species.",
       "example_translation": "Gepard jest gatunkiem zagrożonym.",
-      "imageLink": "image_files\\English\\cheetah.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cheetah.jpg",
       "audioLink": "audio_files\\English\\cheetah.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "bardzo duże, inteligentne i społeczne zwierzę z długim nosem, kłami i pamięcią, która nigdy nie zapomina",
       "example": "The elephant roamed freely in the savannah.",
       "example_translation": "Słoń włóczył się swobodnie po sawannie.",
-      "imageLink": "image_files\\English\\elephant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "elephant.jpg",
       "audioLink": "audio_files\\English\\elephant.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "mały, futrzasty gryzoń, który jest powszechnie trzymany jako zwierzę domowe",
       "example": "She has a pet guinea pig that lives in a cage.",
       "example_translation": "Ona ma świnkę morską jako zwierzę domowe, które mieszka w klatce.",
-      "imageLink": "image_files\\English\\guinea-pig.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guinea-pig.jpg",
       "audioLink": "audio_files\\English\\guinea pig.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "mały, futrzasty gryzoń często trzymany jako zwierzę domowe",
       "example": "The child was delighted with her new hamster.",
       "example_translation": "Dziecko było zachwycone swoim nowym chomikiem.",
-      "imageLink": "image_files\\English\\hamster.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hamster.jpg",
       "audioLink": "audio_files\\English\\hamster.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "duży ssak mięsożerny z rodziny kotów, o grzywaczym czole i donośnym ryku",
       "example": "The lion is a symbol of courage and strength.",
       "example_translation": "Lew jest symbolem odwagi i siły.",
-      "imageLink": "image_files\\English\\lion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lion.jpg",
       "audioLink": "audio_files\\English\\lion.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "ssaki naczelne żyjące na drzewach, szczególnie w tropikach",
       "example": "The monkey swung from tree to tree.",
       "example_translation": "Małpa wisiała z drzewa na drzewo.",
-      "imageLink": "image_files\\English\\monkey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "monkey.jpg",
       "audioLink": "audio_files\\English\\monkey.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "mały gryzoń ssący, który jest powszechnie spotykany w domach",
       "example": "The mouse was hiding behind the couch.",
       "example_translation": "Mysz ukryła się za kanapą.",
-      "imageLink": "image_files\\English\\mouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mouse.jpg",
       "audioLink": "audio_files\\English\\mouse.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "mały ssak z długimi uszami, długimi nogami tylnej części ciała i krótkim ogonem, często trzymany jako zwierzę domowe lub hodowany na pożywienie.",
       "example": "The rabbit hopped across the field.",
       "example_translation": "Królik skoczył przez pole.",
-      "imageLink": "image_files\\English\\rabbit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rabbit.jpg",
       "audioLink": "audio_files\\English\\rabbit.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "gryzoń, który mieszka w kanałach i uważany jest za szkodnika",
       "example": "The rat scurried across the floor.",
       "example_translation": "Szczur pobiegł po podłodze.",
-      "imageLink": "image_files\\English\\rat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rat.jpg",
       "audioLink": "audio_files\\English\\rat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "ssak latający",
       "example": "The bat flew out of the cave.",
       "example_translation": "Kij wyfrunął z jaskini.",
-      "imageLink": "image_files\\English\\bat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bat.jpg",
       "audioLink": "audio_files\\English\\bat.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "duży, silny i agresywny samiec bydła",
       "example": "The bull charged at the matador.",
       "example_translation": "Byk rzucił się na matadora.",
-      "imageLink": "image_files\\English\\bull.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bull.jpg",
       "audioLink": "audio_files\\English\\bull.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "młode krowy lub byka",
       "example": "The calf was running in the field.",
       "example_translation": "Cielę biegało w polu.",
-      "imageLink": "image_files\\English\\calf.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "calf.jpg",
       "audioLink": "audio_files\\English\\calf.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\camel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "camel.jpg",
       "audioLink": "audio_files\\English\\camel.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "udomowione ssaki hodowane na ranchu lub farmie",
       "example": "The farmer owns a large herd of cattle.",
       "example_translation": "Rolnik posiada dużą stadę bydła.",
-      "imageLink": "image_files\\English\\cattle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cattle.jpg",
       "audioLink": "audio_files\\English\\cattle.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "duży rybożerny ssak żyjący w morzu",
       "example": "The dolphin swam quickly through the water.",
       "example_translation": "Delfin pływał szybko przez wodę.",
-      "imageLink": "image_files\\English\\dolphin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dolphin.jpg",
       "audioLink": "audio_files\\English\\dolphin.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "zwierzę domowe często trzymane do jazdy lub noszenia",
       "example": "The children rode on the back of a donkey.",
       "example_translation": "Dzieci jechały na grzbie osła.",
-      "imageLink": "image_files\\English\\donkey.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "donkey.jpg",
       "audioLink": "audio_files\\English\\donkey.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "odnosząca się do kobiet lub dziewczynek",
       "example": "The female doctor examined the patient.",
       "example_translation": "Lekarka kobieca zbadała pacjenta.",
-      "imageLink": "image_files\\English\\female-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "female-1.jpg",
       "audioLink": "audio_files\\English\\female.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "gruba, miękka i ciepła szata włosowa na zwierzęciu",
       "example": "The rabbit has a soft fur.",
       "example_translation": "Królik ma miękkie futro.",
-      "imageLink": "image_files\\English\\fur.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fur.jpg",
       "audioLink": "audio_files\\English\\fur.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "wielki, nawetopalony ssak kopytny z długą szyją i nogami, rodzimy w Afryce",
       "example": "The giraffe roamed freely in the savannah.",
       "example_translation": "Żyrafka swobodnie wędrowała po sawannie.",
-      "imageLink": "image_files\\English\\giraffe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "giraffe.jpg",
       "audioLink": "audio_files\\English\\giraffe.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "zwierzę hodowlane z brodą i charakterystycznym bekiem",
       "example": "The goat climbed up the mountain.",
       "example_translation": "Koza weszła na górę.",
-      "imageLink": "image_files\\English\\goat.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "goat.jpg",
       "audioLink": "audio_files\\English\\goat.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\hare.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hare.jpg",
       "audioLink": "audio_files\\English\\hare.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\hippo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hippo.jpg",
       "audioLink": "audio_files\\English\\hippo.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "młody kot",
       "example": "The little girl played with the kitten.",
       "example_translation": "Dziewczynka bawiła się z kotenkiem.",
-      "imageLink": "image_files\\English\\kitten.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kitten.jpg",
       "audioLink": "audio_files\\English\\kitten.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "młody owca, zazwyczaj w pierwszym roku życia",
       "example": "The lamb was born on the farm last week.",
       "example_translation": "Jagnię urodziło się na farmie tydzień temu.",
-      "imageLink": "image_files\\English\\lamb.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lamb.jpg",
       "audioLink": "audio_files\\English\\lamb.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "posiadający lub prezentujący cechy tradycyjnie kojarzone z mężczyznami",
       "example": "He's a male nurse.",
       "example_translation": "On jest pielęgniarzem męskim.",
-      "imageLink": "image_files\\English\\male-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "male-1.jpg",
       "audioLink": "audio_files\\English\\male.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "hybrydowe zwierzę, potomstwo samca osła i klaczy",
       "example": "The mule was used as a pack animal in the mountains.",
       "example_translation": "Muł był używany jako zwierzę pociągowe w górach.",
-      "imageLink": "image_files\\English\\mule.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mule.jpg",
       "audioLink": "audio_files\\English\\mule.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Puma to duży kot, który żyje w górach Ameryki Południowej.",
       "example": "The wildlife expert tracked a puma in the Andes mountains.",
       "example_translation": "Ekspert od dzikiej przyrody śledził pumę w górach Andów",
-      "imageLink": "image_files\\English\\puma.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "puma.jpg",
       "audioLink": "audio_files\\English\\puma.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "młody pies",
       "example": "The puppy is playing with its tail.",
       "example_translation": "Szczeniak bawi się swoim ogonem.",
-      "imageLink": "image_files\\English\\puppy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "puppy.jpg",
       "audioLink": "audio_files\\English\\puppy.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "duży jeleń z charakterystycznymi rogami, spotykany w regionach arktycznych i subarktycznych",
       "example": "We saw reindeer at the zoo.",
       "example_translation": "Widzieliśmy renifery w zoo.",
-      "imageLink": "image_files\\English\\reindeer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "reindeer.jpg",
       "audioLink": "audio_files\\English\\reindeer.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "duży, mięsożerny ssak z rodziny kotowatych, o rudobrązowej szacie i długim ogonie",
       "example": "The tiger is a majestic animal.",
       "example_translation": "Tygrys jest majestatycznym zwierzęciem.",
-      "imageLink": "image_files\\English\\tiger.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tiger.jpg",
       "audioLink": "audio_files\\English\\tiger.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "duży, inteligentny, wodny ssak, który oddycha powietrzem przez otwór oddechowy",
       "example": "The blue whale is the largest animal on Earth.",
       "example_translation": "Niebieski wieloryb jest największym zwierzęciem na Ziemi.",
-      "imageLink": "image_files\\English\\whale.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "whale.jpg",
       "audioLink": "audio_files\\English\\whale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "dzikie lub udomowione ssakie należące do rodziny Cervidae",
       "example": "The deer ran quickly through the forest.",
       "example_translation": "Jeleń szybko biegł przez las.",
-      "imageLink": "image_files\\English\\deer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "deer.jpg",
       "audioLink": "audio_files\\English\\deer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "mały, mięsożerny ssak z ostrym nosem i puszystym ogonem",
       "example": "The fox jumped over the fence.",
       "example_translation": "Lis przeskoczył przez płot.",
-      "imageLink": "image_files\\English\\fox.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fox.jpg",
       "audioLink": "audio_files\\English\\fox.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "duży, silny przywódca, który jest rodzimy w Afryce",
       "example": "The gorilla is an endangered species.",
       "example_translation": "Goryl jest gatunkiem zagrożonym.",
-      "imageLink": "image_files\\English\\gorilla.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gorilla.jpg",
       "audioLink": "audio_files\\English\\gorilla.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "duży ssak workiem z rodzaju Macropus, rodzimy w Australii, charakteryzujący się długim ogonem i silnymi nogami tylnymi.",
       "example": "The kangaroo hopped across the open field.",
       "example_translation": "Kangur skoczył przez otwarte pole.",
-      "imageLink": "image_files\\English\\kangaroo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kangaroo.jpg",
       "audioLink": "audio_files\\English\\kangaroo.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "duży, mięsożerny ssak z rodziny kotów, typowo mający szarobrązową sierść z czarnymi plamami",
       "example": "The leopard climbed up the tree to escape the hunter.",
       "example_translation": "Lampart wspiął się na drzewo, aby uciec przed myśliwym.",
-      "imageLink": "image_files\\English\\leopard.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leopard.jpg",
       "audioLink": "audio_files\\English\\leopard.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "u domestyczowany ssak roślinożerny o krępej budowie i krótkich rogach",
       "example": "The ox pulled the plow through the field.",
       "example_translation": "Wół ciągnął plug przez pole.",
-      "imageLink": "image_files\\English\\ox.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ox.jpg",
       "audioLink": "audio_files\\English\\ox.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Noga zwierzęcia czworonożnego, szczególnie ssaka mięsożernego.",
       "example": "The kitten curled up and put its paw on my lap.",
       "example_translation": "Kociak zwinął się i położył łapkę na moim kolanach.",
-      "imageLink": "image_files\\English\\paw.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "paw.jpg",
       "audioLink": "audio_files\\English\\paw.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "duży, mięsożerny ssak, który zamieszkuje regiony Arktyki, mający białe futro i charakterystyczną cremową plamę na piersiach",
       "example": "The polar bear is well adapted to its Arctic habitat.",
       "example_translation": "Niedźwiedź polarny jest dobrze adaptowany do swego arktycznego środowiska.",
-      "imageLink": "image_files\\English\\polar-bear.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "polar-bear.jpg",
       "audioLink": "audio_files\\English\\polar bear.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "duży roślinożerny ssak z charakterystycznym rogiem na nosie, rodzimy w Afryce i południowej Azji.",
       "example": "The rhinoceros is an endangered species due to habitat loss and poaching.",
       "example_translation": "Nosorożec jest gatunkiem zagrożonym z powodu utraty siedlisk i kłusownictwa.",
-      "imageLink": "image_files\\English\\rhinoceros.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rhinoceros.jpg",
       "audioLink": "audio_files\\English\\rhinoceros.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "ssaki morskie, żywiące się rybami, o pobudowanym ciele i płetwach.",
       "example": "The seal swam quickly through the water.",
       "example_translation": "Foka szybko przepłynęła przez wodę.",
-      "imageLink": "image_files\\English\\seal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "seal.jpg",
       "audioLink": "audio_files\\English\\seal.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "mały, futrzasty gryzoni żyjący w drzewach",
       "example": "The squirrel scampered up the tree.",
       "example_translation": "Wiewiórka pobiegła po drzewie do góry.",
-      "imageLink": "image_files\\English\\squirrel.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "squirrel.jpg",
       "audioLink": "audio_files\\English\\squirrel.mp3"
     }
   ]

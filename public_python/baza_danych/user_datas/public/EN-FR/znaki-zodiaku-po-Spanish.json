@@ -9,7 +9,7 @@
       "definition_translation": "Une constellation située près de l'équateur céleste, censée représenter un porteur d'eau.",
       "example": "She was an Aquarius, born in February. She has been an Aquarius all her life, and will be an Aquarius forever. She will always be an Aquarius.",
       "example_translation": "Elle était un Verseau, née en février. Elle a toujours été un Verseau, et le sera toujours. Elle sera toujours un Verseau.",
-      "imageLink": "aquarius.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aquarius.jpg",
       "audioLink": "Aquarius.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Une constellation située près de l'équateur céleste, censée représenter un bélier.",
       "example": "He was an Aries, born in April. He has been an Aries all his life, and will be an Aries forever. He will always be an Aries.",
       "example_translation": "Il était un Bélier, né en avril. Il a toujours été un Bélier, et le sera toujours. Il sera toujours un Bélier.",
-      "imageLink": "aries.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aries.jpg",
       "audioLink": "Aries.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Une constellation située près de l'équateur céleste, censée représenter un crabe.",
       "example": "She was a Cancer, born in June. She has been a Cancer all her life, and will be a Cancer forever. She will always be a Cancer.",
       "example_translation": "Elle était un Cancer, née en juin. Elle a toujours été un Cancer, et le sera toujours. Elle sera toujours un Cancer.",
-      "imageLink": "cancer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cancer.jpg",
       "audioLink": "Cancer.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Une constellation située près de l'équateur céleste, censée représenter un bouc.",
       "example": "He was a Capricorn, born in December. He has been a Capricorn all his life, and will be a Capricorn forever. He will always be a Capricorn.",
       "example_translation": "Il était un Capricorne, né en décembre. Il a toujours été un Capricorne, et le sera toujours. Il sera toujours un Capricorne.",
-      "imageLink": "capricorn.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "capricorn.jpg",
       "audioLink": "Capricorn.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Le troisième signe du zodiaque, les Gémeaux est une constellation nommée d'après les jumeaux Castor et Pollux de la mythologie grecque. Les personnes nées sous ce signe sont réputées être curieuses, versatiles et communicatives.",
       "example": "I'm a Gemini, and I love to learn new things. I learned to play the guitar last year, and now I'm learning to speak Spanish. Next year, I'll learn to cook French cuisine.",
       "example_translation": "Je suis Gémeaux, et j'aime apprendre de nouvelles choses. J'ai appris à jouer de la guitare l'année dernière, et maintenant j'apprends à parler espagnol. L'année prochaine, j'apprendrai à cuisiner la cuisine française.",
-      "imageLink": "gemini.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gemini.jpg",
       "audioLink": "Gemini.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Le cinquième signe du zodiaque, le Lion est une constellation nommée d'après le lion de la mythologie grecque. Les personnes nées sous ce signe sont réputées être confiantes, passionnées et généreuses.",
       "example": "She's a Leo, and she loves to be the center of attention. She's always telling jokes and making people laugh, and she's very generous when it comes to sharing her time and resources. Last week, she threw a big party and invited the whole town.",
       "example_translation": "Elle est Lion, et elle aime être au centre de l'attention. Elle raconte toujours des plaisanteries et fait rire les gens, et elle est très généreuse lorsqu'il s'agit de partager son temps et ses ressources. La semaine dernière, elle a organisé une grande fête et a invité tout le village.",
-      "imageLink": "leo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leo.jpg",
       "audioLink": "Leo.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Le septième signe du zodiaque, la Balance est une constellation nommée d'après les balances de la mythologie grecque. Les personnes nées sous ce signe sont réputées être diplomatiques, sociales et équilibrées.",
       "example": "He's a Libra, and he's always trying to find balance in his life. He loves to weigh the pros and cons of every decision, and he's very social and outgoing. Last year, he balanced his work and personal life perfectly, and now he's able to travel the world.",
       "example_translation": "Il est Balance, et il cherche toujours à trouver l'équilibre dans sa vie. Il adore peser les pour et les contre de chaque décision, et il est très sociable et extraverti. L'année dernière, il a équilibré parfaitement son travail et sa vie personnelle, et maintenant il peut voyager dans le monde entier.",
-      "imageLink": "libra.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "libra.jpg",
       "audioLink": "Libra.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Le douzième et dernier signe du zodiaque, les Poissons est une constellation nommée d'après les poissons de la mythologie grecque. Les personnes nées sous ce signe sont réputées être empathiques, imaginatives et sensibles.",
       "example": "She's a Pisces, and she's very empathetic towards others. She loves to help people and animals, and she's very imaginative when it comes to art and music. Last week, she wrote a beautiful song that reflected her emotional state, and now it's going to be published in a music journal.",
       "example_translation": "Elle est Poissons, et elle est très empathique envers les autres. Elle aime aider les gens et les animaux, et elle est très imaginative lorsqu'il s'agit d'art et de musique. La semaine dernière, elle a écrit une belle chanson qui reflétait son état émotionnel, et maintenant elle va être publiée dans un journal de musique.",
-      "imageLink": "pisces.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pisces.jpg",
       "audioLink": "Pisces.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un Sagittaire est une personne née entre le 22 novembre et le 21 décembre, associée au neuvième signe du zodiaque.",
       "example": "She was a Sagittarius and was known for her adventurous spirit. She had been a Sagittarius all her life and was proud of it. She will be a Sagittarius forever, always looking for new experiences.",
       "example_translation": "Elle était un Sagittaire et était connue pour son esprit aventureux. Elle avait été un Sagittaire toute sa vie et en était fière. Elle sera un Sagittaire pour toujours, toujours à la recherche de nouvelles expériences.",
-      "imageLink": "sagittarius.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sagittarius.jpg",
       "audioLink": "Sagittarius.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un Scorpion est une personne née entre le 23 octobre et le 21 novembre, associée au huitième signe du zodiaque.",
       "example": "He was a Scorpio and was known for his intense passion. He had been a Scorpio all his life and was proud of his strong emotions. He will be a Scorpio forever, always living life to the fullest.",
       "example_translation": "Il était un Scorpion et était connu pour sa passion intense. Il avait été un Scorpion toute sa vie et en était fier de ses émotions fortes. Il sera un Scorpion pour toujours, vivant toujours la vie à fond.",
-      "imageLink": "scorpio.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scorpio.jpg",
       "audioLink": "Scorpio.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un Taureau est une personne née entre le 20 avril et le 20 mai, associée au deuxième signe du zodiaque.",
       "example": "She was a Taurus and was known for her practicality. She had been a Taurus all her life and was proud of her stability. She will be a Taurus forever, always valuing security and stability.",
       "example_translation": "Elle était un Taureau et était connue pour sa praticité. Elle avait été un Taureau toute sa vie et en était fière de sa stabilité. Elle sera un Taureau pour toujours, valorisant toujours la sécurité et la stabilité.",
-      "imageLink": "taurus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "taurus.jpg",
       "audioLink": "Taurus.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Une Vierge est une personne née entre le 23 août et le 22 septembre, associée au sixième signe du zodiaque.",
       "example": "He was a Virgo and was known for his attention to detail. He had been a Virgo all his life and was proud of his analytical mind. He will be a Virgo forever, always striving for perfection.",
       "example_translation": "Il était une Vierge et était connu pour son attention au détail. Il avait été une Vierge toute sa vie et en était fier de son esprit analytique. Il sera une Vierge pour toujours, toujours aspirant à la perfection.",
-      "imageLink": "virgo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "virgo.jpg",
       "audioLink": "Virgo.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un signe du zodiaque est une région du ciel qui est associée à une période particulière de l'année et est censée être influencée par la position du soleil, de la lune et des planètes au moment de la naissance d'une personne.",
       "example": "I was born under the zodiac sign of Scorpio, which is said to influence my personality. In the past, I used to be very introverted, but now I am more outgoing. In the future, I will try to be more confident.",
       "example_translation": "Je suis né sous le signe du zodiaque du Scorpion, ce qui est censé influencer ma personnalité. Dans le passé, j'étais très introverti, mais maintenant je suis plus extraverti. À l'avenir, j'essaierai d'être plus confiant.",
-      "imageLink": "zodiac-sign.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "zodiac-sign.jpg",
       "audioLink": "zodiac sign.mp3"
     }
   ]

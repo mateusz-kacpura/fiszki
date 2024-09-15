@@ -9,7 +9,7 @@
       "definition_translation": "Маленькое животное, которое имеет шесть ног и тело, которое обычно делится на три части: голову, грудь и брюшко.",
       "example": "Das Insekt kroch langsam über das Blatt. Das Insekt kroch langsam über das Blatt. Das Insekt wird langsam über das Blatt kriechen.",
       "example_translation": "Насекомое медленно ползло по листу. Насекомое медленно ползло по листу. Насекомое будет медленно ползти по листу.",
-      "imageLink": "insect.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "insect.jpg",
       "audioLink": "insect.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Маленькое насекомое, которое живет в колониях и известно своим трудолюбивым характером.",
       "example": "Die Ameise trug ein Krümchen zurück zu ihrem Nest. Die Ameise trug ein Krümchen zurück zu ihrem Nest. Die Ameise wird ein Krümchen zurück zu ihrem Nest tragen.",
       "example_translation": "Муравей носил крошку обратно в свое гнездо. Муравей носил крошку обратно в свое гнездо. Муравей будет носить крошку обратно в свое гнездо.",
-      "imageLink": "ant.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ant.jpg",
       "audioLink": "ant.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Летающее насекомое, которое собирает нектар из цветов и производит мед.",
       "example": "Die Biene flog von Blume zu Blume. Die Biene flog von Blume zu Blume. Die Biene wird von Blume zu Blume fliegen.",
       "example_translation": "Пчела летела от цветка к цветку. Пчела летела от цветка к цветку. Пчела будет лететь от цветка к цветку.",
-      "imageLink": "bee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bee.jpg",
       "audioLink": "bee.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Маленькое насекомое с твердой наружной оболочкой, обычно имеющее шесть ног и два крыла.",
       "example": "Der Käfer kroch über den Fußboden. Der Käfer kroch über den Fußboden. Der Käfer wird über den Fußboden kriechen.",
       "example_translation": "Жук полз по полу. Жук полз по полу. Жук будет ползти по полу.",
-      "imageLink": "bug.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bug.jpg",
       "audioLink": "bug.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Бабочка - это тип насекомого, который имеет большие, часто ярко окрашенные крылья и питается нектаром из цветов.",
       "example": "Der Schmetterling flatterte um den Garten herum, Nektar von den Blumen aufnehmend. Gestern war es weggeflogen, um einen Partner zu finden. Morgen wird es seine Eier auf einem Blatt ablegen.",
       "example_translation": "Бабочка порхала вокруг сада, пила нектар из цветов. Вчера она улетела tìmать пару. Завтра она снесёт яйца на лист.",
-      "imageLink": "butterfly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "butterfly.jpg",
       "audioLink": "butterfly.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Таракан - это тип насекомого, который имеет длинное, плоское тело и часто считается вредителям.",
       "example": "Die Kakerlake huschte über den Küchenfußboden, dem Besen ausweichend. Letzte Woche hatte sie das Vorratslager befallen. Nächsten Monat wird sie ausgerottet werden.",
       "example_translation": "Таракан бежал по кухонному полу, избегая метлы. На прошлой неделе он infested кладовку. В следующем месяце он будет истреблён.",
-      "imageLink": "cockroach.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cockroach.jpg",
       "audioLink": "cockroach.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Существо - это живое существо, такое как животное или человек, которое имеет чёткое существование.",
       "example": "Das Wesen lauerte im Schatten, seine Beute beobachtend. Gestern hatte es einen Touristen attackiert. Morgen wird es von Wissenschaftlern studiert werden.",
       "example_translation": "Существо скрывалось в тени, наблюдая за добычей. Вчера оно атаковало туриста. Завтра оно будет изучаться учёными.",
-      "imageLink": "creature.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "creature.jpg",
       "audioLink": "creature.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Муха - это тип насекомого, которое имеет крылья и часто встречается возле еды или мусора.",
       "example": "Die Fliege summte um meinen Kopf herum, mich ärgernd. Gestern hatte sie mein Sandwich besteckt. Nächste Woche wird sie aus dem Restaurant vertrieben werden.",
       "example_translation": "Муха жужжала вокруг моей головы, раздражая меня. Вчера она села на мой сэндвич. На следующей неделе она будет истребленной из ресторана.",
-      "imageLink": "fly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fly.jpg",
       "audioLink": "fly.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Маленькая летающая насекомая, питающаяся кровью животных и людей, известная своими укусами.",
       "example": "Ich wurde letzte Nacht von einer Mücke gestochen. Ich schlage nach Mücken, wenn sie um meinen Kopf herumsummen. Ich werde das Mückenverseuchte Gebiet meiden.",
       "example_translation": "Я был укушен комаром прошлой ночью. Я отмахиваюсь от комаров, когда они жужжат вокруг моей головы. Я избегу района, infested с комарами.",
-      "imageLink": "mosquito.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mosquito.jpg",
       "audioLink": "mosquito.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Восьминогий хищный арахнид, Spiníng сети для catching добычи.",
       "example": "Ich sah eine Spinne an der Wand kriechen. Die Spinne hatte bereits ihr Netz gesponnen. Ich werde das Netz der Spinne entfernen.",
       "example_translation": "Я видел паука, ползущего по стене. Паук уже сплёл свою сеть. Я убираю сеть паука.",
-      "imageLink": "spider.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spider.jpg",
       "audioLink": "spider.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Интригующая сеть нитей, сплетенная пауком или аналогичным животным, используемая для catching добычи или защиты себя.",
       "example": "Die Spinne hatte ein Netz gesponnen. Ich stieß versehentlich in ein Netz. Das Netz wird durch den Regen zerstört werden.",
       "example_translation": "Сеть паука была очень липкой. Я случайно шагнул в сеть. Сеть будет разрушена дождём.",
-      "imageLink": "web.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "web.jpg",
       "audioLink": "web.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Тип насекомого с твёрдой внешней оболочкой, обычно имеющего округлое тело и часто ярко окрашенным.",
       "example": "Ich sah einen Käfer auf einem Blatt krabbeln. Der Käfer hatte einen glänzenden Exoskelett. Ich werde das Habitat des Käfers untersuchen.",
       "example_translation": "Я видел жука, ползущего по листу. Жук имел блестящий экзоскелет. Я исследую местообитание жука.",
-      "imageLink": "beetle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "beetle.jpg",
       "audioLink": "beetle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Маленькое, прыгающее насекомое, живущее на телах млекопитающих и птиц, питающееся их кровью.",
       "example": "Der Hund hatte einen Floh, der ihn überall jucken ließ. Gestern sah ich einen Floh auf dem Teppich springen. Wenn ich nicht baden gehe, werde ich morgen einen Floh haben.",
       "example_translation": "У собаки была блоха, которая заставляла ее чесаться все тело. Вчера я увидел блоху, прыгающую на ковре. Если я не умоюсь, у меня будет блоха завтра.",
-      "imageLink": "flea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flea.jpg",
       "audioLink": "flea.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Создавать острую, часто болезненную рану с помощью острых частей тела, таких как зуб или жало.",
       "example": "Die Wespe stach mich auf dem Arm gestern. Die Biene wird stechen, wenn sie sich bedroht fühlt. Morgen wird der Schmerz durch den Stich vergehen.",
       "example_translation": "Оса ужалила меня на руке вчера. Пчела ужалит, если feels угрозу. К завтрашнему дню боль от укуса исчезнет.",
-      "imageLink": "sting.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sting.jpg",
       "audioLink": "sting.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Летающее насекомое с узкой талией и болезненным укусом, часто желтого и черного цвета.",
       "example": "Die Wespe flog durch das offene Fenster in den Raum. Ich sah eine Wespe, die ihr Nest im Garten baute. Wenn ich die Wespe störe, wird sie mich stechen.",
       "example_translation": "Осалетела в комнату через открытое окно. Я увидел осу, строящую свой гнездо в саду. Если я потревожу осу, она ужалит меня.",
-      "imageLink": "wasp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wasp.jpg",
       "audioLink": "wasp.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Плотоядное насекомое с длинным, тонким телом и шипованными передними ногами, часто поедаемое птицами и другими насекомыми.",
       "example": "Die Gottesanbeterin fing eine Fliege mit ihren stachligen Beinen. Gestern sah ich eine Gottesanbeterin, die eine Biene im Garten aß. Wenn ich die Gottesanbeterin nicht störe, wird sie weiter jagen.",
       "example_translation": "Богомол поймал муху своими шипованными ногами. Вчера я увидел богомола, поедающего пчelu в саду. Если я не потревожу богомола, оно продолжит охоту.",
-      "imageLink": "mantis.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mantis.jpg",
       "audioLink": "mantis.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Моль - это тип насекомого, который имеет большие крылья и часто привлекается к свету. Моли тесно связаны с бабочками, но обычно более тусклые по цвету и имеют перистые антенны.",
       "example": "Der Nachtfalter flog um die Lampe, seine Flügel schlugen schnell. Er war gestern Abend durch das offene Fenster hereingeflogen. Er wird fliegen, wenn das Licht ausgeschaltet wird.",
       "example_translation": "Моль летела вокруг лампы, ее крылья быстро бились. Она летела через открытое окно прошлой ночью. Она улетит, когда свет будет выключен.",
-      "imageLink": "moth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "moth.jpg",
       "audioLink": "moth.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Картофельная бабочка - это тип насекомого, который питается картофельными растениями и может вызвать значительный ущерб урожаю. Картофельные бабочки обычно оранжевого или желтого цвета.",
       "example": "Der Bauer überprüfte täglich seine Felder auf Kartoffelkäfer. Er hatte sie letzte Saison seine Pflanzen fressen sehen. Er wird Pestizide verwenden müssen, um sie dieses Jahr zu bekämpfen.",
       "example_translation": "Фермер每天 проверял свои поля на картофельных бабочек. Он видел, как они поедали его растения в прошлом сезоне. Ему нужно будет использовать пестициды, чтобы истребить их в этом году.",
-      "imageLink": "potato-beetle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "potato-beetle.jpg",
       "audioLink": "potato beetle.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Шелкопряд - это личинка моли, которая плетет кокон из шелка. Шелкопряды обычно используются в производстве шелковой ткани.",
       "example": "Der Seidenspinner spann seinen Kokon langsam. Er war letzte Woche aus einem Ei geschlüpft. Er wird nächsten Monat als Nachtfalter schlüpfen.",
       "example_translation": "Шелкопряд медленно плел свой кокон. Он вылупился из яйца на прошлой неделе. Он выйдет как моль следующей месяца.",
-      "imageLink": "silkworm.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "silkworm.jpg",
       "audioLink": "silkworm.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Термит - это тип насекомого, которое питается деревом и может вызвать значительный ущерб зданиям и сооружениям.",
       "example": "Der Hausbesitzer entdeckte eine Termiten-Plage in seinem Keller. Er hatte sie letztes Jahr das Holz fressen sehen. Er wird einen Kammerjäger anrufen müssen, um sie loszuwerden.",
       "example_translation": "Владелец дома обнаружил заражение термитами в своем подвале. Он видел, как они поедали дерево в прошлом году. Ему нужно будет позвонить дератизатору, чтобы избавиться от них.",
-      "imageLink": "termite.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "termite.jpg",
       "audioLink": "termite.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Маленькое, плоское, паразитическое насекомое, которое infests кровати и питается человеческой кровью, часто вызывая болезненные укусы.",
       "example": "Ich wachte mit mehreren Bettwanzenbissen auf meinem Arm auf. Gestern hatte ich einige Bettwanzen auf den Laken kriechen sehen. Bis nächste Woche werden wir alle Bettwanzen aus dem Hotel ausgerottet haben.",
       "example_translation": "Я проснулся с множественными укусами постельного клопа на своей руке. Вчера я видел несколько постельных клопов, ползущих по простыням. К следующей неделе мы уничтожим всех постельных клопов из отеля.",
-      "imageLink": "bedbug.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bedbug.jpg",
       "audioLink": "bedbug.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Тип большого, волосатого, социального пчелы, который часто имеет желтый и черный цвет, известный своей важной ролью в опылении.",
       "example": "Die Hummel summte um die hellen Blumen herum, um Nektar zu sammeln. Letzten Sommer hatte ich eine Hummel über dem Garten schweben sehen. Bis zum Frühling werden die Hummeln wieder in die Felder zurückgekehrt sein.",
       "example_translation": "Шмель жужжал вокруг ярких цветов, собираяnectar. Летом прошлого года я видел шмеля, зависающего рядом с садом. К весне шмели вернутся в поля.",
-      "imageLink": "bumblebee.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bumblebee.jpg",
       "audioLink": "bumblebee.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Личинка бабочки или моли, которая ест много пищи и растет перед превращением в куклу и, в конце концов, вылезает в виде полностью сформированного взрослого.",
       "example": "Die Raupe kroch über das Blatt, Löcher hineinfressend. Gestern hatte ich gesehen, wie eine Raupe sich in eine Chrysalis verwandelte. Bis nächsten Monat wird die Raupe zu einem schönen Schmetterling geworden sein.",
       "example_translation": "Гусеница ползла вдоль листа, едя дыры в нем. Вчера я видел гусеницу, превращающуюся в куклу. К следующему месяцу гусеница станет красивой бабочкой.",
-      "imageLink": "caterpillar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "caterpillar.jpg",
       "audioLink": "caterpillar.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Большое, шумное насекомое с характерной формой тела и длинной, подземной стадиейjuvenil.",
       "example": "Die Zzikade machte ein lautes Summen in dem Baum. Letztes Jahr hatte ich eine Zzikadenhülle auf dem Stamm gesehen. Bis nächsten Sommer werden die Zzikaden aus dem Boden hervorgekommen sein.",
       "example_translation": "Цикада издавала громкий жужжащий шум на дереве. В прошлом году я见 цикаду shell на стволе. К следующему лету цикады выйдут из земли.",
-      "imageLink": "cicada.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cicada.jpg",
       "audioLink": "cicada.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Стрекоза - это насекомое с длинным, стройным телом и большими крыльями, которые ловят насекомых в воздухе.",
       "example": "Die Libelle schwebte über dem Teich, ihre irisierenden Flügel glänzten im Sonnenlicht. Gestern hatte ich eine Libelle auf einem Grashalm sitzen sehen. Wenn ich Glück habe, werde ich morgen wieder eine Libelle entdecken.",
       "example_translation": "Стрекоза зависала над прудом, ее радужные крылья мерцали в солнечном свете. Вчера я увидел стрекозу, сидевшую на стебле травы. Если я повезу, то завтра яagain увижу стрекозу.",
-      "imageLink": "dragonfly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dragonfly.jpg",
       "audioLink": "dragonfly.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Дрон - это беспилотный самолет или корабль, который управляется дистанционно или автономно.",
       "example": "Das Unternehmen verwendet Drohnen, um Pakete in abgelegene Gebiete zu liefern. Die Drohne schwebte über dem Schlachtfeld, um Videobilder zurück an das Hauptquartier zu übertragen. Bis nächstem Jahr werden Drohnen autonom fliegen können.",
       "example_translation": "Компания использует дроны для доставки пакетов в отдаленные районы. Дрон зависал над полем боя, передавая видеоинформацию обратно в штаб-квартиру. К следующему году дроны смогут летать автономно.",
-      "imageLink": "drone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drone.jpg",
       "audioLink": "drone.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Оса - это тип мухи, который известен своим раздражающим жужжанием и тенденцией беспокоить животных и людей.",
       "example": "Die Bremse summte um meinen Kopf herum, mich zur Verzweiflung treibend. Gestern hatte ich gesehen, wie eine Bremse mein Pferd biss, es wild werdend. Wenn ich kann, werde ich die Bremse, die mich den ganzen Tag geplagt hat, totschlagen.",
       "example_translation": "Оса жужжала вокруг моей головы, доводя меня до сумасшествия. Вчера оса укусила мою лошадь, заставляя ее рьяно метаться. Если смогу, я ушамycin osu, которая беспокоила меня весь день.",
-      "imageLink": "gadfly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gadfly.jpg",
       "audioLink": "gadfly.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Кузнечик - это тип насекомого с зеленым или коричневым телом и большими задними ногами, которые позволяют ему прыгать на дальние расстояния.",
       "example": "Der Grashüpfer sprang über das Feld, sein helles Grünes Körper glänzte im Sonnenlicht. Gestern hatte ich einen Grashüpfer auf einem Grashalm sitzen sehen. Wenn ich Glück habe, werde ich morgen wieder einen Grashüpfer fangen.",
       "example_translation": "Кузнечик прыгнул через поле, его ярко-зеленое тело сверкало в солнечном свете. Вчера я увидел кузнечика, сидевшего на стебле травы. Если я повезу, то завтра яagain поймаю кузнечика.",
-      "imageLink": "grasshopper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grasshopper.jpg",
       "audioLink": "grasshopper.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Шершень - это тип летающего насекомого, которое строит большие гнезда в деревьях или под землей и известно своей болезненной укус.",
       "example": "Die Hornisse stach mich gestern, aber ich werde vorsichtig sein, wenn ich morgen wandern gehe, und werde keine Hornissen mehr stören.",
       "example_translation": "Шершень укусил меня вчера, но я буду осторожен, когда пойду на хайкинг завтра, и не буду тревожить шершней в будущем.",
-      "imageLink": "hornet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hornet.jpg",
       "audioLink": "hornet.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Божья коровка - это маленький жук с характерной красно-черной оболочкой, известный своей способностью выделять неприятный на вкус раствор, чтобы отпугивать хищников.",
       "example": "Ich sah einen Marienkäfer auf einem Blatt krabbeln, und ich werde morgen einige Blumen in meinem Garten pflanzen, um mehr Marienkäfer anzulocken, damit sie mir helfen, meine Pflanzen in Zukunft zu schützen.",
       "example_translation": "Я увидел божью коровку, ползущую по листу вчера, и я посадлю некоторые цветы в саду завтра, чтобы привлечь больше божьих коровок, так они могут помочь мне защитить мои растения в будущем.",
-      "imageLink": "ladybird.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ladybird.jpg",
       "audioLink": "ladybird.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Саранча - это тип большой кузнечика, который может формировать рои и губить урожай и растительность.",
       "example": "Die Heuschrecken zerstörten das Maisfeld letztes Jahr, aber ich werde meinen Hof für die Zukunft vorbereiten, indem ich heuschreckenresistente Pflanzen anbaue, damit die Heuschrecken kein Problem darstellen, wenn sie nächstes Jahr wieder kommen.",
       "example_translation": "Саранча разрушила кукурузное поле в прошлом году, но я приготовлю свою ферму к будущему, посадив культуры, устойчивые к саранче, так саранча не будет проблемой, когда они вернутся снова в следующем году.",
-      "imageLink": "locust.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "locust.jpg",
       "audioLink": "locust.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Вошь - это маленькое бескрылое насекомое, которое живет на телах людей и некоторых животных, питаясь их кожей и кровью.",
       "example": "Die Läuse befielen die gesamte Schule letzten Monat, aber ich werde meine Haare regelmäßig waschen, um mich vor Läusen in Zukunft zu schützen, und ich werde meine Kinder jede Woche auf Läuse untersuchen, damit sie keine Läuse haben.",
       "example_translation": "Вши infested всю школу в прошлом месяце, но я буду мыть голову регулярно, чтобы избежать вшей в будущем, и я буду проверять волосы моих детей каждую неделю, чтобы убедиться, что у них нет вшей.",
-      "imageLink": "louse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "louse.jpg",
       "audioLink": "louse.mp3"
     }
   ]

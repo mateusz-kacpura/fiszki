@@ -9,7 +9,7 @@
       "definition_translation": "roślina, która produkuje kwiaty, szczególnie jedna, która jest uprawiana w ogrodzie.",
       "example": "The flower in my garden is very beautiful.",
       "example_translation": "Kwiat w moim ogrodzie jest bardzo ładny.",
-      "imageLink": "image_files\\English\\flower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flower.jpg",
       "audioLink": "audio_files\\English\\flower.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "kwiat,typowo mający słodki zapach i ozdobne, często czerwone, kwiaty",
       "example": "She wore a rose in her hair.",
       "example_translation": "Ona nosiła różę w swoich włosach.",
-      "imageLink": "image_files\\English\\rose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "rose.jpg",
       "audioLink": "audio_files\\English\\rose.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "mała, delikatna kwiat z białymi płatkami i żółtym centrum",
       "example": "The daisy is a popular flower in gardens.",
       "example_translation": "Stawka jest popularnym kwiatem w ogrodach.",
-      "imageLink": "image_files\\English\\daisy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daisy.jpg",
       "audioLink": "audio_files\\English\\daisy.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "roślina jednoroczna lub wieloletnia z rodziny astrowatych, o dużych żółtych kwiatach i jadalnych nasionach.",
       "example": "The garden was full of sunflowers, which were taller than her.",
       "example_translation": "Ogród był pełen słoneczników, które były wyższe niż ona.",
-      "imageLink": "image_files\\English\\sunflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunflower.jpg",
       "audioLink": "audio_files\\English\\sunflower.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "kwiat w kształcie kubka, zwykle czerwony, żółty lub biały, z trzema płatkami i trzema kielichami",
       "example": "The garden was filled with tulips of all colors.",
       "example_translation": "Ogród był pełen tulipanów wszystkich kolorów.",
-      "imageLink": "image_files\\English\\tulip.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tulip.jpg",
       "audioLink": "audio_files\\English\\tulip.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "kwiat w kształcie gwiazdy, zwłaszcza stokrotka lub kwiat z rodzaju Aster",
       "example": "The bouquet was filled with asters and daisies.",
       "example_translation": "Bukiet był wypełniony astkami i stokrotkami.",
-      "imageLink": "image_files\\English\\aster.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aster.jpg",
       "audioLink": "audio_files\\English\\aster.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "krzew kwitnący lub małe drzewo, zazwyczaj z kolorowymi kwiatami",
       "example": "The azalea bush was blooming beautifully in the garden.",
       "example_translation": "Krzew azalii kwitł pięknie w ogrodzie.",
-      "imageLink": "image_files\\English\\azalea.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "azalea.jpg",
       "audioLink": "audio_files\\English\\azalea.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Roślina wieloletnia o grubych, woskowych łodygach, które mogą przechowywać wodę, występująca w gorących, suchych częściach świata.",
       "example": "The cactus in the garden was very tall.",
       "example_translation": "Kaktus w ogrodzie był bardzo wysoki.",
-      "imageLink": "image_files\\English\\cactus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cactus.jpg",
       "audioLink": "audio_files\\English\\cactus.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "kwiat różowy, biały lub czerwony, często używany w bukietach i aranżacjach",
       "example": "She wore a carnation in her hair to the wedding.",
       "example_translation": "Ona nosiła goździk w swoich włosach na ślub.",
-      "imageLink": "image_files\\English\\carnation.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "carnation.jpg",
       "audioLink": "audio_files\\English\\carnation.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Roślina kwitnąca z rodziny astrowatych, pochodząca z Azji i powszechnie uprawiana w ogrodach.",
       "example": "The garden was filled with beautiful chrysanthemums of all colors.",
       "example_translation": "Ogród był pełen pięknych chryzantem w każdym kolorze.",
-      "imageLink": "image_files\\English\\chrysanthemum.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chrysanthemum.jpg",
       "audioLink": "audio_files\\English\\chrysanthemum.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "mała, niebieska, roczna lub wieloletnia roślina zielna.",
       "example": "The fields were filled with cornflowers and daisies.",
       "example_translation": "Pola były pełne niezapominajek i stokrotek.",
-      "imageLink": "image_files\\English\\cornflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cornflower.jpg",
       "audioLink": "audio_files\\English\\cornflower.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "roślina wieloletnia z rodziny irysów, z kolorowymi kwiatami w różnych odcieniach",
       "example": "The garden was filled with crocus flowers in the early spring.",
       "example_translation": "Ogród był pełny kwiatów szafirkowych wczesną wiosną",
-      "imageLink": "image_files\\English\\crocus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "crocus.jpg",
       "audioLink": "audio_files\\English\\crocus.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Żonkil to rodzaj rośliny kwitnącej z żółtym, trąbkowatym centrum.",
       "example": "The garden was filled with daffodils in the spring.",
       "example_translation": "Ogród był pełen żonkili wiosną.",
-      "imageLink": "image_files\\English\\daffodil.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daffodil.jpg",
       "audioLink": "audio_files\\English\\daffodil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "roślina ozdobna kwitnąca z kwiatami rurkowatymi, zazwyczaj różowymi, fioletowymi lub białymi.",
       "example": "The garden was filled with dahlias of every color.",
       "example_translation": "Ogród był pełen dalei każdego koloru.",
-      "imageLink": "image_files\\English\\dahlia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dahlia.jpg",
       "audioLink": "audio_files\\English\\dahlia.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "typ kwitnącej rośliny, która rośnie w Alpach Europejskich",
       "example": "The edelweiss is a symbol of purity and nobility in German culture.",
       "example_translation": "Stokrotka alpejska jest symbolem czystości i szlachetności w kulturze niemieckiej",
-      "imageLink": "image_files\\English\\edelweiss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "edelweiss.jpg",
       "audioLink": "audio_files\\English\\edelweiss.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "mała roślina kwitnąca o niebieskich kwiatach",
       "example": "The forget-me-not flowers bloomed in the garden.",
       "example_translation": "Kwiaty niezapominajki zakwitły w ogrodzie.",
-      "imageLink": "image_files\\English\\forget-me-not.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "forget-me-not.jpg",
       "audioLink": "audio_files\\English\\forget-me-not.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "typ słodko pachnącej rośliny kwitnącej",
       "example": "The bouquet was filled with freesias and daisies.",
       "example_translation": "Bukiet był wypełniony frezjami i stokrotkami.",
-      "imageLink": "image_files\\English\\freesia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "freesia.jpg",
       "audioLink": "audio_files\\English\\freesia.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "jaskrawy, żywy kolor różowo-fioletowy",
       "example": "The dress was a beautiful shade of fuchsia.",
       "example_translation": "Sukienka miała piękny odcień fuksji.",
-      "imageLink": "image_files\\English\\fuchsia.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fuchsia.jpg",
       "audioLink": "audio_files\\English\\fuchsia.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "typ kwiatu szczerbówki, często używany w kompozycjach kwiatowych",
       "example": "The bouquet consisted of roses, carnations, and a few gerbera daisies.",
       "example_translation": "Buquet składał się z róż, goździków i kilku szczerbówek.",
-      "imageLink": "image_files\\English\\gerbera-daisy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gerbera-daisy.jpg",
       "audioLink": "audio_files\\English\\gerbera daisy.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "roślina jednoroczna lub wieloletnia o ozdobnych kwiatach, uprawiana dla swojej wartości ozdobnej",
       "example": "The garden was full of hollyhocks, which attracted many butterflies.",
       "example_translation": "Ogród był pełen śnieżyc, które przyciągały wiele motyli.",
-      "imageLink": "image_files\\English\\hollyhock.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hollyhock.jpg",
       "audioLink": "audio_files\\English\\hollyhock.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "roślina bulwiasta o kwiatach niebieskich, różowych lub białych",
       "example": "The garden was filled with hyacinths of every color.",
       "example_translation": "Ogród był pełen hiacyntów każdego koloru.",
-      "imageLink": "image_files\\English\\hyacinth.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hyacinth.jpg",
       "audioLink": "audio_files\\English\\hyacinth.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "kolorowa część oka otaczająca źrenicę",
       "example": "The iris is a delicate and sensitive part of the eye.",
       "example_translation": "Tęcza jest delikatną i wrażliwą częścią oka.",
-      "imageLink": "image_files\\English\\iris.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "iris.jpg",
       "audioLink": "audio_files\\English\\iris.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "kolor liliowy lub krzew z kwiatami liliowymi",
       "example": "The lilac bushes in our garden are beautiful this time of year.",
       "example_translation": "Krzyże lilakowe w naszym ogrodzie są piękne w tym sezonie.",
-      "imageLink": "image_files\\English\\lilac.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lilac.jpg",
       "audioLink": "audio_files\\English\\lilac.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "typ kwitnącej rośliny",
       "example": "The garden was full of lilies.",
       "example_translation": "Ogród był pełen lilii.",
-      "imageLink": "image_files\\English\\lily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lily.jpg",
       "audioLink": "audio_files\\English\\lily.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "mały, dzwonkowaty kwiat, który jest biały lub bladeżółty, i ma słodki zapach",
       "example": "The bride carried a bouquet of lily of the valley down the aisle.",
       "example_translation": "Narzeczona niosła bukiet konwalijki wzdłuż alei.",
-      "imageLink": "image_files\\English\\lily-of-the-valley.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lily-of-the-valley.jpg",
       "audioLink": "audio_files\\English\\lily of the valley.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "roślina cebulkowa, która rocznie produkująca kwiaty, zwykle białe lub żółte",
       "example": "The garden was filled with daffodils and narcissus.",
       "example_translation": "Ogród był pełen sikorek i narcyzów.",
-      "imageLink": "image_files\\English\\narcissus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "narcissus.jpg",
       "audioLink": "audio_files\\English\\narcissus.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "roślina kwitnąca o kolorowych, ozdobnych kwiatach",
       "example": "The orchid was a beautiful addition to the garden.",
       "example_translation": "Orkidea była pięknym dodatkiem do ogrodu.",
-      "imageLink": "image_files\\English\\orchid.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "orchid.jpg",
       "audioLink": "audio_files\\English\\orchid.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "kwiat ogrodowy, zwykle purpurowy lub niebieski",
       "example": "The pansy is a popular flower in British gardens.",
       "example_translation": "Fiołek jest popularnym kwiatem w angielskich ogrodach.",
-      "imageLink": "image_files\\English\\pansy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pansy.jpg",
       "audioLink": "audio_files\\English\\pansy.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "roślina kwitnąca z dużymi, efektownymi kwiatami, często różowymi lub białymi.",
       "example": "The garden was filled with beautiful peonies of every color.",
       "example_translation": "Ogród był pełen pięknych piwonii każdego koloru.",
-      "imageLink": "image_files\\English\\peony.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "peony.jpg",
       "audioLink": "audio_files\\English\\peony.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "kolorowy kwiat o teksturze papierowej, często kojarzony z Dniem Pamięci",
       "example": "The poppy fields in summer are a beautiful sight.",
       "example_translation": "Pola makowe latem są pięknym widokiem.",
-      "imageLink": "image_files\\English\\poppy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "poppy.jpg",
       "audioLink": "audio_files\\English\\poppy.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "roślina kwitnąca z rodziny prymulowatych, zwykle z kwiatami żółtymi, różowymi lub fioletowymi",
       "example": "The garden was filled with primroses in the spring.",
       "example_translation": "Ogród wiosną był wypełniony prymulukami.",
-      "imageLink": "image_files\\English\\primrose.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "primrose.jpg",
       "audioLink": "audio_files\\English\\primrose.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "wysoka, kolorowa kwiatka ogrodowa",
       "example": "The snapdragon in the garden was blooming beautifully.",
       "example_translation": "Łaciatka w ogrodzie kwitła pięknie.",
-      "imageLink": "image_files\\English\\snapdragon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snapdragon.jpg",
       "audioLink": "audio_files\\English\\snapdragon.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "mała, biała, zwisająca kwiatka, która rośnie wczesną wiosną",
       "example": "The snowdrop is often one of the first flowers to bloom in the garden.",
       "example_translation": "Śnieżyczka jest często jedną z pierwszych kwiatów, które zakwitają w ogrodzie.",
-      "imageLink": "image_files\\English\\snowdrop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snowdrop.jpg",
       "audioLink": "audio_files\\English\\snowdrop.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "roślina o kwiatkach żółtych lub pomarańczowych, używana w kuchni i medycynie",
       "example": "She added a few leaves of tagetes to the salad for extra flavor.",
       "example_translation": "Dodała kilka liści dzięgielu do sałatki dla dodatkowego smaku.",
-      "imageLink": "image_files\\English\\tagetes.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tagetes.jpg",
       "audioLink": "audio_files\\English\\tagetes.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "kolor fioletowy",
       "example": "The violet flowers in the garden were beautiful.",
       "example_translation": "Kwiaty fioletowe w ogrodzie były piękne.",
-      "imageLink": "image_files\\English\\violet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "violet.jpg",
       "audioLink": "audio_files\\English\\violet.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "typ kwitnącej rośliny, która rośnie w wodzie",
       "example": "The water lily was floating on the surface of the pond.",
       "example_translation": "Liliowate pływały na powierzchni stawu.",
-      "imageLink": "image_files\\English\\water-lily.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "water-lily.jpg",
       "audioLink": "audio_files\\English\\water lily.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "delikatny, zazwyczaj biały lub różowy kwiat, który rośnie na łąkach i polach",
       "example": "The windflower bloomed in the meadow.",
       "example_translation": "Kwiat wiejący zakwitł na łące.",
-      "imageLink": "image_files\\English\\windflower.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "windflower.jpg",
       "audioLink": "audio_files\\English\\windflower.mp3"
     }
   ]

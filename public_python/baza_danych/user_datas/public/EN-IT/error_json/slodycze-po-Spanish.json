@@ -9,7 +9,7 @@
       "definition_translation": "Un alimento cotto, generalmente dolce, tipicamente croccante all'esterno e morbido all'interno.",
       "example": "I ate a biscuit for breakfast. I will eat a biscuit for breakfast tomorrow. I had eaten a biscuit for breakfast yesterday.",
       "example_translation": "Ho mangiato un biscotto per colazione. Mangerò un biscotto per colazione domani. Avevo mangiato un biscotto per colazione ieri.",
-      "imageLink": "biscuit.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "biscuit.jpg",
       "audioLink": "biscuit.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un alimento dolce cotto fatto con farina, zucchero e uova, tipicamente servito come dessert.",
       "example": "I made a cake for my birthday. I will make a cake for my friend's birthday tomorrow. I had made a cake for my sister's birthday yesterday.",
       "example_translation": "Ho fatto una torta per il mio compleanno. Farò una torta per il compleanno del mio amico domani. Avevo fatto una torta per il compleanno della mia sorella ieri.",
-      "imageLink": "cake.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cake.jpg",
       "audioLink": "cake.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un alimento dolce fatto dai semi arrostiti dell'albero del cacao, spesso mangiato come dolce trattoria.",
       "example": "I ate a piece of chocolate last night. I will eat a piece of chocolate after dinner tomorrow. I had eaten a piece of chocolate at the party yesterday.",
       "example_translation": "Ho mangiato un pezzo di cioccolato ieri sera. Mangerò un pezzo di cioccolato dopo cena domani. Avevo mangiato un pezzo di cioccolato alla festa ieri.",
-      "imageLink": "chocolate.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chocolate.jpg",
       "audioLink": "chocolate.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un dessert freddo, dolce fatto da crema, zucchero e aromi, tipicamente servito in una ciotola o cono.",
       "example": "I ate an ice cream cone last summer. I will eat an ice cream cone next summer. I had eaten an ice cream cone at the beach yesterday.",
       "example_translation": "Ho mangiato un cono di gelato l'estate scorsa. Mangerò un cono di gelato la prossima estate. Avevo mangiato un cono di gelato sulla spiaggia ieri.",
-      "imageLink": "ice-cream.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ice-cream.jpg",
       "audioLink": "ice cream.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un alimento dolce fatto da zucchero, spesso aromatizzato e colorato, e modellato in piccoli pezzi.",
       "example": "I ate a piece of candy at the store. I will eat a piece of candy at the park tomorrow. I had eaten a piece of candy at the party yesterday.",
       "example_translation": "Ho mangiato un pezzo di caramella al negozio. Mangerò un pezzo di caramella al parco domani. Avevo mangiato un pezzo di caramella alla festa ieri.",
-      "imageLink": "candy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "candy.jpg",
       "audioLink": "candy.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un corso che tipicamente arriva alla fine di un pasto, generalmente dolce e indulcente.",
       "example": "I ate dessert after dinner last night. I will eat dessert after dinner tomorrow. I had eaten dessert at the restaurant yesterday.",
       "example_translation": "Ho mangiato il dessert dopo cena ieri sera. Mangerò il dessert dopo cena domani. Avevo mangiato il dessert al ristorante ieri.",
-      "imageLink": "dessert.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dessert.jpg",
       "audioLink": "dessert.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Una confezione dolce su un bastone, tipicamente aromatizzato e colorato.",
       "example": "I sucked on a lollipop at the fair. I will suck on a lollipop at the circus tomorrow. I had sucked on a lollipop at the party yesterday.",
       "example_translation": "Ho succhiato un lecca-lecca alla fiera. Succhierò un lecca-lecca al circo domani. Avevo succhiato un lecca-lecca alla festa ieri.",
-      "imageLink": "lollipop.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lollipop.jpg",
       "audioLink": "lollipop.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Avendo un gusto piacevole e dolce, o essere gentile e mite.",
       "example": "I ate a sweet cake for dessert. I will eat a sweet fruit salad tomorrow. I had eaten a sweet breakfast yesterday.",
       "example_translation": "Ho mangiato una torta dolce per dessert. Mangerò una insalata di frutta dolce domani. Avevo mangiato una colazione dolce ieri.",
-      "imageLink": "sweet-2.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweet-2.jpg",
       "audioLink": "sweet.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Cibi piccoli e dolci, spesso caramelle o cioccolatini, mangiati come trattoria.",
       "example": "I ate a bag of sweets on the way home. I will eat a bag of sweets at the movie theater tomorrow. I had eaten a bag of sweets at the park yesterday.",
       "example_translation": "Ho mangiato un sacchetto di dolciumi sulla strada di casa. Mangerò un sacchetto di dolciumi al cinema domani. Avevo mangiato un sacchetto di dolciumi al parco ieri.",
-      "imageLink": "sweets.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sweets.jpg",
       "audioLink": "sweets.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un pezzo di cioccolato di forma rettangolare o quadrata, spesso con noci, caramello o altri ingredienti.",
       "example": "I ate a chocolate bar after lunch. I will eat a chocolate bar at the break tomorrow. I had eaten a chocolate bar at the party yesterday.",
       "example_translation": "Ho mangiato una barretta di cioccolato dopo pranzo. Mangerò una barretta di cioccolato alla pausa domani. Avevo mangiato una barretta di cioccolato alla festa ieri.",
-      "imageLink": "chocolate-bar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "chocolate-bar.jpg",
       "audioLink": "chocolate bar.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un importante dolce fatto da succo di frutta e zucchero, spesso servito su pane tostato o come dessert.",
       "example": "I ate a jelly sandwich for breakfast. I will eat a jelly roll cake tomorrow. I had eaten a jelly dessert at the restaurant yesterday.",
       "example_translation": "Ho mangiato un panino di gelatina per colazione. Mangerò una torta di gelatina domani. Avevo mangiato un dessert di gelatina al ristorante ieri.",
-      "imageLink": "jelly.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jelly.jpg",
       "audioLink": "jelly.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Una confezione dolce fatta da zucchero che è filata in strisce flossy, spesso servita alle fiere e ai carnevali.",
       "example": "I ate a stick of candyfloss at the fair. I will eat a stick of candyfloss at the carnival tomorrow. I had eaten a stick of candyfloss at the amusement park yesterday.",
       "example_translation": "Ho mangiato un bastoncino di zucchero filato alla fiera. Mangerò un bastoncino di zucchero filato al carnevale domani. Avevo mangiato un bastoncino di zucchero filato al parco di divertimenti ieri.",
-      "imageLink": "candyfloss.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "candyfloss.jpg",
       "audioLink": "candyfloss.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Piccole caramelle gommose fatte da gelatina, spesso aromatizzate e colorate.",
       "example": "I ate a pack of gummies on the way home. I will eat a pack of gummies at the movie theater tomorrow. I had eaten a pack of gummies at the park yesterday.",
       "example_translation": "Ho mangiato un pacchetto di gommose sulla strada di casa. Mangerò un pacchetto di gommose al cinema domani. Avevo mangiato un pacchetto di gommose al parco ieri.",
-      "imageLink": "gummies.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gummies.jpg",
       "audioLink": "gummies.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un tipo di caramella che è dura e friabile, spesso aromatizzata e colorata.",
       "example": "I sucked on a hard candy during the movie. I will suck on a hard candy during the play tomorrow. I had sucked on a hard candy during the concert yesterday.",
       "example_translation": "Ho succhiato una caramella dura durante il film. Succhierò una caramella dura durante lo spettacolo domani. Avevo succhiato una caramella dura durante il concerto ieri.",
-      "imageLink": "hard-candy.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "hard-candy.jpg",
       "audioLink": "hard candy.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Una confezione dolce a base di mandorle spesso usata per fare caramelle e decorazioni.",
       "example": "I ate a marzipan fruit on Christmas. I will eat a marzipan cake on Easter tomorrow. I had eaten a marzipan decoration at the bakery yesterday.",
       "example_translation": "Ho mangiato un frutto di marzapane a Natale. Mangerò una torta di marzapane a Pasqua domani. Avevo mangiato una decorazione di marzapane alla pasticceria ieri.",
-      "imageLink": "marzipan.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "marzipan.jpg",
       "audioLink": "marzipan.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un tipo di caramella che è fatto bollendo lo zucchero e gli aromi, spesso aromatizzato con frutta o spezie.",
       "example": "I ate a boiled sweet at the fair. I will eat a boiled sweet at the carnival tomorrow. I had eaten a boiled sweet at the amusement park yesterday.",
       "example_translation": "Ho mangiato una caramella bollita alla fiera. Mangerò una caramella bollita al carnevale domani. Avevo mangiato una caramella bollita al parco di divertimenti ieri.",
-      "imageLink": "boiled-sweet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "boiled-sweet.jpg",
       "audioLink": "boiled sweet.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un alimento dolce o una bevanda, o un negozio che vende tali trattorie.",
       "example": "I bought a confectionery at the store. I will buy a confectionery at the market tomorrow. I had bought a confectionery at the bakery yesterday.",
       "example_translation": "Ho comprato una confetteria al negozio. Comprerò una confetteria al mercato domani. Avevo comprato una confetteria alla pasticceria ieri.",
-      "imageLink": "confectionery.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "confectionery.jpg",
       "audioLink": "confectionery.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una confezione dolce fatta da zucchero, crema e aromi, spesso aromatizzato con cioccolato o noci.",
       "example": "I ate a piece of fudge at the store. I will eat a piece of fudge at the market tomorrow. I had eaten a piece of fudge at the candy shop yesterday.",
       "example_translation": "Ho mangiato un pezzo di fudge al negozio. Mangerò un pezzo di fudge al mercato domani. Avevo mangiato un pezzo di fudge alla confetteria ieri.",
-      "imageLink": "fudge.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "fudge.jpg",
       "audioLink": "fudge.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Piccole caramelle gommose fatte da gelatina, spesso aromatizzate e colorate.",
       "example": "I ate a bag of jelly sweets on the way home. I will eat a bag of jelly sweets at the movie theater tomorrow. I had eaten a bag of jelly sweets at the park yesterday.",
       "example_translation": "Ho mangiato un sacchetto di caramelle gelatine sulla strada di casa. Mangerò un sacchetto di caramelle gelatine al cinema domani. Avevo mangiato un sacchetto di caramelle gelatine al parco ieri.",
-      "imageLink": "jelly-sweets.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "jelly-sweets.jpg",
       "audioLink": "jelly sweets.mp3"
     }
   ]

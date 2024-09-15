@@ -9,7 +9,7 @@
       "definition_translation": "Konstelacja i znak zodiaku, symbolizowana przez ⛢, związana z okresem od 20 stycznia do 18 lutego.",
       "example": "My star sign is Aquarius.",
       "example_translation": "Mój znak zodiaku to Wodnik.",
-      "imageLink": "image_files\\English\\aquarius.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aquarius.jpg",
       "audioLink": "audio_files\\English\\Aquarius.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Konstelacja w północnej hemisferze, nazwana od łacińskiego słowa oznaczającego barana.",
       "example": "The zodiac sign of Aries is associated with people born between March 21 and April 19.",
       "example_translation": "Znaki zodiaku Barana są kojarzone z ludźmi urodzonymi między 21 marca a 19 kwietnia.",
-      "imageLink": "image_files\\English\\aries.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aries.jpg",
       "audioLink": "audio_files\\English\\Aries.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Choroba spowodowana niekontrolowanym wzrostem i rozprzestrzenianiem się nieprawidłowych komórek.",
       "example": "He was diagnosed with cancer last year.",
       "example_translation": "Rok temu zdiagnozowano u niego raka.",
-      "imageLink": "image_files\\English\\cancer.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cancer.jpg",
       "audioLink": "audio_files\\English\\Cancer.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Osoba urodzona pomiędzy 22 grudnia a 19 stycznia, reprezentowana przez symbol ♑.",
       "example": "She's a Capricorn and is known for her ambition.",
       "example_translation": "Ona jest Koziorożcem i jest znana z swej ambicji.",
-      "imageLink": "image_files\\English\\capricorn.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "capricorn.jpg",
       "audioLink": "audio_files\\English\\Capricorn.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Znaki zodiaku",
       "example": "The twins in the zodiac are called Gemini.",
       "example_translation": "Bliźnięta w zodiaku nazywają się Gemini.",
-      "imageLink": "image_files\\English\\gemini.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gemini.jpg",
       "audioLink": "audio_files\\English\\Gemini.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "konstelacja przedstawiająca lwa",
       "example": "The constellation Leo is one of the most recognizable in the night sky.",
       "example_translation": "Konstelacja Lwa jest jedną z najbardziej rozpoznawalnych na nocnym niebie.",
-      "imageLink": "image_files\\English\\leo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "leo.jpg",
       "audioLink": "audio_files\\English\\Leo.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Jednostka masy lub wymiaru, szczególnie w Wielkiej Brytanii, równa 0,453592 kilograma lub 16 uncjom.",
       "example": "The recipe calls for a libra of sugar.",
       "example_translation": "Przepis wymaga kilograma cukru.",
-      "imageLink": "image_files\\English\\libra.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "libra.jpg",
       "audioLink": "audio_files\\English\\Libra.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Konstelacja zodiaku, nazwana od łacińskiego słowa oznaczającego rybę.",
       "example": "The astral sign of Pisces is from February 19th to March 20th.",
       "example_translation": "Znakiem astralnym Ryb jest okres od 19 lutego do 20 marca.",
-      "imageLink": "image_files\\English\\pisces.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "pisces.jpg",
       "audioLink": "audio_files\\English\\Pisces.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Konstelacja zodiaku, nazwana na cześć centaura Chirona.",
       "example": "The astrologer said that I was a Sagittarius and that's why I love adventure.",
       "example_translation": "Astrolog powiedział, że jestem Strzelcem i dlatego lubię przygody.",
-      "imageLink": "image_files\\English\\sagittarius.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sagittarius.jpg",
       "audioLink": "audio_files\\English\\Sagittarius.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Konstelacja blisko równika, reprezentowana przez skorpiona, i znak zodiaku.",
       "example": "The Scorpio constellation is one of the brightest in the summer sky.",
       "example_translation": "Konstelacja Skorpiona jest jedną z najjaśniejszych na letnim niebie.",
-      "imageLink": "image_files\\English\\scorpio.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "scorpio.jpg",
       "audioLink": "audio_files\\English\\Scorpio.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Konstelacja w północnej hemisferze, nazwana od byka w mitologii greckiej.",
       "example": "The Taurus constellation is visible in the winter sky.",
       "example_translation": "Konstelacja Byka jest widoczna w zimowej stronie nieba.",
-      "imageLink": "image_files\\English\\taurus.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "taurus.jpg",
       "audioLink": "audio_files\\English\\Taurus.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Konstelacja w zodiaku, reprezentowana przez symbol ♍.",
       "example": "She was a Virgo, which explained her attention to detail.",
       "example_translation": "Była Dziewicą, co tłumaczyło jej uwagę do szczegółów.",
-      "imageLink": "image_files\\English\\virgo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "virgo.jpg",
       "audioLink": "audio_files\\English\\Virgo.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "symbol związany z okresem roku, używany do identyfikacji osoby lub predykcji zachowania",
       "example": "What's your zodiac sign?",
       "example_translation": "Jaki jest twój znak zodiaku?",
-      "imageLink": "image_files\\English\\zodiac-sign.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "zodiac-sign.jpg",
       "audioLink": "audio_files\\English\\zodiac sign.mp3"
     }
   ]

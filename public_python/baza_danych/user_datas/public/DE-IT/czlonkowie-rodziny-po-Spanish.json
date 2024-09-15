@@ -9,7 +9,7 @@
       "definition_translation": "Un fratello maschio, un figlio maschio degli stessi genitori.",
       "example": "Ich hatte einen Bruder, als ich ein Kind war, aber jetzt habe ich einen Bruder, der im Ausland studiert. Mein Bruder wird uns nächstes Jahr besuchen.",
       "example_translation": "Avevo un fratello quando ero bambino, ma ora ho un fratello che studia all'estero. Mio fratello ci visiterà il prossimo anno.",
-      "imageLink": "brother.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brother.jpg",
       "audioLink": "brother.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un essere umano tra la nascita e la pubertà.",
       "example": "Ich war ein Kind, als ich lernte, Fahrrad zu fahren. Das Kind wird jetzt mit Spielzeug spielen. Ein Kind wird in der Zukunft eine große Person werden.",
       "example_translation": "Ero un bambino quando ho imparato a guidare una bicicletta. Il bambino giocherà con i giocattoli adesso. Un bambino diventerà una grande persona nel futuro.",
-      "imageLink": "child.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "child.jpg",
       "audioLink": "child.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Forma plurale di bambino, riferendosi a più giovani esseri umani.",
       "example": "Ich habe zwei Kinder, die in der Schule studieren. Die Kinder werden jetzt draußen spielen. Kinder werden auf der Party viel Spaß haben.",
       "example_translation": "Ho due bambini che studiano a scuola. I bambini giocheranno fuori ora. I bambini si divertiranno moltissimo alla festa.",
-      "imageLink": "children.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "children.jpg",
       "audioLink": "children.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un papà è un genitore maschio o un termine informale e amichevole per un padre.",
       "example": "Mein Vater war ein großartiger Koch. Er kochte gestern Abend für uns. Er wird morgen Frühstück für uns kochen.",
       "example_translation": "Mio papà era un grande cuoco. Ha cucinato la cena per noi ieri. Cuocerà la colazione per noi domani.",
-      "imageLink": "dad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "dad.jpg",
       "audioLink": "dad.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Una figlia è una bambina o una discendente femminile.",
       "example": "Meine Tochter liebte es, als Kind mit Puppen zu spielen. Sie liebt es, jetzt mit ihren Kindern zu spielen. Sie wird es lieben, in der Zukunft mit ihren Enkeln zu spielen.",
       "example_translation": "Mia figlia amava giocare con le bambole quando era una bambina. Ama giocare con i suoi bambini ora. Amerà giocare con i suoi nipoti nel futuro.",
-      "imageLink": "daughter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daughter.jpg",
       "audioLink": "daughter.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un padre è un genitore maschio o una persona che dà cura e sostegno a qualcuno o qualcosa.",
       "example": " Mein Vater war ein Hartarbeiter. Er arbeitete unermüdlich, um für uns zu sorgen. Er wird nach seiner Pensionierung Teilzeit arbeiten.",
       "example_translation": "Mio padre era un lavoratore instancabile. Ha lavorato senza sosta per fornirci. Lavorerà part-time dopo che si ritirerà.",
-      "imageLink": "father.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "father.jpg",
       "audioLink": "father.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un marito è un partner maschile in un matrimonio, che ha una relazione stretta e intima con sua moglie.",
       "example": "Mein Ehemann wird mir morgen bei dem Umzug helfen, aber er half mir gestern bei den Einkäufen und wird heute Abend bei dem Kochen helfen.",
       "example_translation": "Mio marito mi aiuterà con il trasloco domani, ma mi ha aiutato con la spesa ieri, e mi aiuterà con la cottura stasera.",
-      "imageLink": "husband.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "husband.jpg",
       "audioLink": "husband.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Una madre è una genitrice femminile che dà alla luce un bambino e lo nutre e lo cura.",
       "example": "Meine Mutter wird uns nächste Woche besuchen, aber sie besuchte uns letztes Jahr und wird uns wieder nächste Monat besuchen.",
       "example_translation": "Mia madre ci visite la prossima settimana, ma ci ha visitato l'anno scorso, e ci visiterà di nuovo il mese prossimo.",
-      "imageLink": "mother.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mother.jpg",
       "audioLink": "mother.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Una mamma è un termine affettuoso e informale usato per rivolgersi o riferirsi alla propria madre.",
       "example": "Ich liebe meine Mama, und ich liebte sie, als ich ein Kind war, und ich werde sie lieben, wenn ich alt bin.",
       "example_translation": "Amo mia mamma, e l'ho amata quando ero un bambino, e l'amerò quando sarò anziano.",
-      "imageLink": "mum.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mum.jpg",
       "audioLink": "mum.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un genitore è una persona che dà alla luce, alleva e si prende cura di un bambino, fornendogli amore, sostegno e guida per tutta la vita.",
       "example": "Meine Eltern nahmen mich als Kind mit in den Park. Sie nehmen meine Schwester jetzt zum Zahnarzt. Sie werden meinen Bruder nächstes Jahr aufs College bringen.",
       "example_translation": "I miei genitori mi hanno portato al parco quando ero bambino. Portano mia sorella dal dentista ora. Porteranno mio fratello al college l'anno prossimo.",
-      "imageLink": "parents.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "parents.jpg",
       "audioLink": "parents.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Una sorella è una sorella, una femmina che condivide uno o entrambi i genitori con te, spesso formando un legame stretto e duraturo.",
       "example": "Meine Schwester lebt in London. Sie lebte in Paris letzten Jahr. Sie wird in Rom nächsten Monat leben.",
       "example_translation": "Mia sorella vive a Londra. Ha vissuto a Parigi l'anno scorso. Vivrà a Roma il mese prossimo.",
-      "imageLink": "sister.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sister.jpg",
       "audioLink": "sister.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un figlio è un bambino maschio o un discendente maschio, spesso formando un rapporto stretto e amorevole con i genitori.",
       "example": "Mein Sohn spielt jeden Tag Fußball. Er spielte Tennis letzten Woche. Er wird nächstes Jahr Basketball spielen.",
       "example_translation": "Mio figlio gioca a calcio ogni giorno. Ha giocato a tennis la scorsa settimana. Giocherà a pallacanestro l'anno prossimo.",
-      "imageLink": "son.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "son.jpg",
       "audioLink": "son.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Una moglie è una partner femminile in un matrimonio, soprattutto in relazione a suo marito.",
       "example": "Ich heiratete meine Frau 2010, und wir werden nächsten Monat unseren Jahrestag feiern. Meine Frau arbeitet seit fünf Jahren als Lehrerin und wird nächstes Jahr ihr eigenes Unternehmen starten.",
       "example_translation": "Mi sono sposato con mia moglie nel 2010 e celebreremo il nostro anniversario il mese prossimo. Mia moglie lavora come insegnante da cinque anni e inizierà la sua attività commerciale l'anno prossimo.",
-      "imageLink": "wife.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wife.jpg",
       "audioLink": "wife.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Una zia è la sorella della madre o del padre, o la moglie dello zio.",
       "example": "Meine Tante lebt in New York, und ich besuche sie jeden Sommer. Meine Tante hat zwei Kinder, und sie sind meine Cousins. Ich werde meine Tante's neuen Mann nächste Woche treffen.",
       "example_translation": "La mia zia vive a New York e la visito ogni estate. La mia zia ha due figli e sono miei cugini. Incontrerò il nuovo marito della mia zia la settimana prossima.",
-      "imageLink": "aunt.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "aunt.jpg",
       "audioLink": "aunt.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un fratello maggiore è un fratello più grande, soprattutto in una famiglia o in una relazione in cui una persona è protettiva o guidante.",
       "example": " Mein großer Bruder lehrte mich, wie man ein Fahrrad fährt, als ich ein Kind war. Mein großer Bruder ist jetzt Arzt und hat in einem Krankenhaus gearbeitet für zehn Jahre. Ich werde meinen großen Bruder bitten, mir heute Abend mit meinem Hausaufgaben zu helfen.",
       "example_translation": "Il mio fratello maggiore mi ha insegnato a guidare la bicicletta quando ero bambino. Il mio fratello maggiore è ora un dottore e lavora in un ospedale da dieci anni. Chiederò al mio fratello maggiore di aiutarmi con i miei compiti homework stasera.",
-      "imageLink": "big-brothersister.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "big-brothersister.jpg",
       "audioLink": "big brother.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Una sorella più grande, in particolare quella che è più grande solo di un anno o due.",
       "example": "Meine große Schwester kümmerte sich immer um mich, als ich ein Kind war. Sie kümmert sich jetzt um mich. Sie wird sich in Zukunft um mich kümmern.",
       "example_translation": "La mia sorella maggiore si è sempre presa cura di me quando ero ragazzo. Si prende cura di me adesso. Si prenderà cura di me nel futuro.",
-      "imageLink": "big-sister.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "big-sister.jpg",
       "audioLink": "big sister.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Il figlio di uno zio o una zia.",
       "example": "Mein Cousin besuchte mich letzten Woche. Er besucht mich jedes Jahr. Er wird mich nächsten Sommer besuchen.",
       "example_translation": "Il mio cugino mi ha visitato la scorsa settimana. Mi visita ogni anno. Mi visiterà la prossima estate.",
-      "imageLink": "cousin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cousin.jpg",
       "audioLink": "cousin.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un figlio del proprio figlio.",
       "example": "Mein Enkelkind liebe, mit mir zu spielen. Sie spielte mit mir gestern. Sie wird mit mir morgen spielen.",
       "example_translation": "La mia nipote adora giocare con me. Ha giocato con me ieri. Giocerà con me domani.",
-      "imageLink": "grandchild.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandchild.jpg",
       "audioLink": "grandchild.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "I figli dei propri figli, o i discendenti dei propri figli.",
       "example": "Meine Enkelkinder besuchen mich nächste Woche. Ich besuchte meine Enkelkinder letzten Jahr. Ich werde meine Enkelkinder nächsten Sommer besuchen.",
       "example_translation": "I miei nipoti mi stanno visitando la prossima settimana. Ho visitato i miei nipoti l'anno scorso. Visiterò i miei nipoti il prossimo estate.",
-      "imageLink": "grandchildren.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandchildren.jpg",
       "audioLink": "grandchildren.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Il padre di uno dei propri genitori, o un termine affettuoso utilizzato per rivolgersi a un uomo anziano.",
       "example": "Mein Großvater war ein freundlicher Mensch. Ich traf meinen Großvater im Park. Ich werde meinen Großvater morgen am Flughafen treffen.",
       "example_translation": "Il mio nonno era una persona gentile. Ho incontrato il mio nonno al parco. Incontrerò il mio nonno all'aeroporto domani.",
-      "imageLink": "granddad.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "granddad.jpg",
       "audioLink": "granddad.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "La figlia di uno dei propri figli, o una discendente femminile di uno dei propri fratelli o sorelle.",
       "example": "Meine Enkelin lernt gerade Radfahren. Ich nahm meine Enkelin zum Zoo. Ich werde meine Enkelin nächstes Wochenende zum Strand mitnehmen.",
       "example_translation": "La mia nipote sta imparando a guidare una bicicletta. Ho portato la mia nipote allo zoo. Porterò la mia nipote al mare il prossimo fine settimana.",
-      "imageLink": "granddaughter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "granddaughter.jpg",
       "audioLink": "granddaughter.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Il padre del padre o della madre di qualcuno; un antenato maschio, soprattutto uno che è riverito per la sua saggezza, gentilezza o altre virtù.",
       "example": "Mein Großvater war ein freundlicher und sanfter Mann. Er ist seit 10 Jahren Großvater. Er wird nächstes Jahr wieder Großvater.",
       "example_translation": "Mio nonno era un uomo gentile e amorevole. È stato nonno per 10 anni. Sarà nonno di nuovo l'anno prossimo.",
-      "imageLink": "grandfather.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandfather.jpg",
       "audioLink": "grandfather.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "La madre della madre o del padre di qualcuno; un'antenata femminile, soprattutto una che è amata e rispettata.",
       "example": "Meine Oma backt immer Kekse für uns. Sie ist seit 20 Jahren Oma. Sie wird bald wieder Oma werden.",
       "example_translation": "La mia nonna sempre cuoce biscotti per noi. È stata nonna per 20 anni. Sarà nonna di nuovo presto.",
-      "imageLink": "grandma.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandma.jpg",
       "audioLink": "grandma.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "La madre della madre o del padre di qualcuno; un'antenata femminile, soprattutto una che è amata e rispettata.",
       "example": "Meine Großmutter lebt auf dem Land. Sie wurde im Alter von 50 Jahren Großmutter. Sie wird nächstes Jahr Urgroßmutter werden.",
       "example_translation": "La mia nonna vive in campagna. Era nonna a 50 anni. Sarà bisnonna l'anno prossimo.",
-      "imageLink": "grandmother.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandmother.jpg",
       "audioLink": "grandmother.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Il padre della propria madre o padre; un nonno.",
       "example": "Mein Opa nahm mich immer zum Park, als ich ein Kind war. Jetzt nimmt er meine Kinder zum Park. In Zukunft wird er meine Enkelkinder zum Park mitnehmen.",
       "example_translation": "Mio nonno mi portava al parco quando ero ragazzo. Adesso, porta i miei bambini al parco. In futuro, porterà i miei nipoti al parco.",
-      "imageLink": "grandpa.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandpa.jpg",
       "audioLink": "grandpa.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un genitore della propria madre o padre; un nonno o una nonna.",
       "example": "Meine Großeltern lebten auf dem Land, als sie jung waren. Jetzt leben sie in der Stadt. In Zukunft werden sie um die Welt reisen.",
       "example_translation": "I miei nonni vivevano in campagna quando erano giovani. Adesso, vivono in città. In futuro, viaggeranno intorno al mondo.",
-      "imageLink": "grandparent.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandparent.jpg",
       "audioLink": "grandparent.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "I genitori della propria madre o padre; i nonni.",
       "example": "Meine Großeltern erzählten mir immer Geschichten, als ich ein Kind war. Jetzt erzählen sie meinen Kindern Geschichten. In Zukunft werden sie meinen Enkelkindern Geschichten erzählen.",
       "example_translation": "I miei nonni mi raccontavano storie quando ero ragazzo. Adesso, raccontano storie ai miei bambini. In futuro, racconteranno storie ai miei nipoti.",
-      "imageLink": "grandparents.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandparents.jpg",
       "audioLink": "grandparents.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un nipote è un figlio maschio o un discendente maschio di una persona, specialmente un figlio di un figlio o di una figlia.",
       "example": "Ich habe einen Enkel, der im Ausland studiert. Letztes Jahr besuchte er mich, und nächstes Jahr wird er sein Studium abschließen.",
       "example_translation": "Ho un nipote che studia all'estero. L'anno scorso, mi ha visitato, e l'anno prossimo, si laureerà al college.",
-      "imageLink": "grandson.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grandson.jpg",
       "audioLink": "grandson.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Una nonna è un termine informale per una donna anziana, specialmente una nonna.",
       "example": "Meine Oma lebt auf dem Land und liebt es, traditionelle Gerichte zuzubereiten. Als ich ein Kind war, erzählte sie mir Geschichten, und jetzt ist sie sehr stolz auf meine Leistungen.",
       "example_translation": "La mia nonna vive in campagna e adora cucinare piatti tradizionali. Quando ero bambino, mi raccontava storie, e ora, è molto orgogliosa dei miei successi.",
-      "imageLink": "granny.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "granny.jpg",
       "audioLink": "granny.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Uno zio è il fratello della madre o del padre, o il marito della zia.",
       "example": "Mein Onkel ist Arzt und hilft Menschen in Not. Letzte Woche operierte er einen Patienten, und nächsten Monat wird er eine Konferenz besuchen.",
       "example_translation": "Mio zio è un medico e aiuta le persone bisognose. La scorsa settimana, ha operato un paziente, e il prossimo mese, viaggerà per una conferenza.",
-      "imageLink": "uncle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "uncle.jpg",
       "audioLink": "uncle.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Il figlio del fratello o della sorella di uno, o il figlio del fratello o della sorella del coniuge.",
       "example": " Mein Neffe kommt nächste Woche zu Besuch. Er hat im Ausland studiert und wird nächstes Jahr abschließen.",
       "example_translation": "Mio nipote sta arrivando in visita la prossima settimana. Ha studiato all'estero per un anno. Si laureerà l'anno prossimo.",
-      "imageLink": "nephew.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "nephew.jpg",
       "audioLink": "nephew.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "La figlia del fratello o della sorella di uno, o la figlia del fratello o della sorella del coniuge.",
       "example": "Meine Nichte liebt es, mit Puppen zu spielen. Sie spielt seit ihrer Kindheit damit. Sie wird auch in Zukunft damit spielen.",
       "example_translation": "La mia nipote adora giocare con le bambole. Ha giocato con loro fin da quando era bambina. Continuerà a giocarci in futuro.",
-      "imageLink": "niece.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "niece.jpg",
       "audioLink": "niece.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Una persona connessa per sangue o matrimonio, specialmente uno più distante di un fratello, sorella, genitore o figlio.",
       "example": "Ich habe viele Verwandte in verschiedenen Teilen der Welt. Sie leben seit Jahrzehnten dort. Sie werden auch in Zukunft dort leben.",
       "example_translation": "Ho molti parenti che vivono in diverse parti del mondo. Hanno vissuto lì per decenni. Continueranno a vivere lì nel futuro.",
-      "imageLink": "relative.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "relative.jpg",
       "audioLink": "relative.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Uno dei due bambini o animali nati nella stessa nascita, o una persona o cosa che assomiglia molto a un'altra.",
       "example": "Meine Zwillingsschwester kommt zu Besuch aus der Stadt, ich sah meinen Zwillingsbruder gestern im Laden, und ich werde meine Zwillingsfreunde morgen im Park treffen.",
       "example_translation": "La mia sorella gemella sta visitando dalla città, ho visto mio fratello gemello al negozio ieri, e incontrerò i miei amici gemelli al parco domani.",
-      "imageLink": "twin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "twin.jpg",
       "audioLink": "twin.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Il marito della propria sorella o moglie del fratello, o il fratello del proprio coniuge.",
       "example": "Mein Schwager ist Arzt, ich werde meinen Schwager nächste Woche besuchen, und mein Schwager half mir, mein Auto zu reparieren.",
       "example_translation": "Mio cognato è un medico, visiterò mio cognato la prossima settimana, e mio cognato mi ha aiutato a riparare la mia macchina.",
-      "imageLink": "brother-in-law.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "brother-in-law.jpg",
       "audioLink": "brother-in-law.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "La moglie del proprio figlio o la moglie del figlio del proprio marito.",
       "example": "Meine Schwiegertochter ist eine großartige Köchin, ich werde meine Schwiegertochter auf der Hochzeit treffen, und meine Schwiegertochter half mir bei meinem Garten.",
       "example_translation": "La mia nuora è una grande cuoca, incontrerò la mia nuora al matrimonio, e la mia nuora mi ha aiutato con il mio giardinaggio.",
-      "imageLink": "daughter-in-law.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "daughter-in-law.jpg",
       "audioLink": "daughter-in-law.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Il marito della figlia, o il padre del coniuge.",
       "example": "Ich hatte ein großartiges Gespräch mit meinem Schwiegervater auf der Hochzeit. Er wird uns nächsten Monat besuchen. Ich besuchte meinen Schwiegervater letztes Jahr.",
       "example_translation": "Ho avuto una grande conversazione con mio suocero al matrimonio. Visiterà noi il prossimo mese. Ho visitato mio suocero l'anno scorso.",
-      "imageLink": "father-in-law.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "father-in-law.jpg",
       "audioLink": "father-in-law.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Un fratello che condivide un genitore, ma non entrambi, o una persona maschile che condivide un genitore comune con un'altra persona.",
       "example": "Ich habe einen Halbbruder aus der vorherigen Ehe meines Vaters. Mein Halbbruder wird uns nächste Woche besuchen. Ich traf meinen Halbbruder letztes Jahr.",
       "example_translation": "Ho un fratellastro dal precedente matrimonio di mio padre. Mio fratellastro verrà a visitarci la prossima settimana. Avevo incontrato mio fratellastro l'anno scorso.",
-      "imageLink": "half-brother.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "half-brother.jpg",
       "audioLink": "half-brother.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Una sorella che condivide un genitore, ma non entrambi, o una persona femminile che condivide un genitore comune con un'altra persona.",
       "example": "Ich habe eine Halbschwester aus der vorherigen Ehe meiner Mutter. Meine Halbschwester wird uns nächsten Monat besuchen. Ich traf meine Halbschwester letztes Jahr.",
       "example_translation": "Ho una sorellastra dal precedente matrimonio di mia madre. Mia sorellastra verrà a visitarci il prossimo mese. Avevo incontrato mia sorellastra l'anno scorso.",
-      "imageLink": "half-sister.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "half-sister.jpg",
       "audioLink": "half-sister.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "La madre del proprio coniuge, soprattutto in relazione al matrimonio del coniuge.",
       "example": "Meine Schwiegermutter ist eine großartige Köchin. Sie kochte ein leckeres Essen für uns gestern. Sie wird morgen wieder kochen.",
       "example_translation": "La mia suocera è una grande cuoca. Ha cucinato un pasto delizioso per noi ieri. Cuocherà di nuovo domani.",
-      "imageLink": "mother-in-law.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mother-in-law.jpg",
       "audioLink": "mother-in-law.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Collegamenti o associazioni tra persone o gruppi, soprattutto quelli basati su sangue, matrimonio o amicizia.",
       "example": "Ich habe gute Beziehungen zu meinen Nachbarn. Wir haben positive Beziehungen seit Jahren. Unsere Beziehungen werden sich in Zukunft weiter verbessern.",
       "example_translation": "Ho buone relazioni con i miei vicini di casa. Abbiamo avuto relazioni positive per anni. Le nostre relazioni continueranno a migliorare nel futuro.",
-      "imageLink": "relations.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "relations.jpg",
       "audioLink": "relations.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Figli degli stessi genitori, soprattutto quelli che non sono gemelli.",
       "example": "Ich habe zwei Geschwister. Sie spielten gestern miteinander. Sie werden morgen wieder spielen.",
       "example_translation": "Ho due fratelli. Stavano giocando insieme ieri. Gioceranno di nuovo domani.",
-      "imageLink": "siblings.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "siblings.jpg",
       "audioLink": "siblings.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "La sorella del marito o della moglie, o la moglie del fratello o della sorella.",
       "example": "Meine Schwägerin ist eine großartige Köchin. Sie kochte für uns gestern. Sie wird nächste Woche für uns kochen.",
       "example_translation": "Mia nuora è una grande cuoca. Ha cucinato per noi ieri. Cuocerà per noi di nuovo la prossima settimana.",
-      "imageLink": "sister-in-law.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sister-in-law.jpg",
       "audioLink": "sister-in-law.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Il marito della propria figlia o figlio.",
       "example": "Mein Schwiegersohn ist Zahnarzt. Er untersuchte meine Zähne letzten Monat. Er wird meine Frau's Zähne nächsten Monat untersuchen.",
       "example_translation": "Mio genero è un dentista. Ha esaminato i miei denti lo scorso mese. Esaminerà i denti di mia moglie il prossimo mese.",
-      "imageLink": "son-in-law.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "son-in-law.jpg",
       "audioLink": "son-in-law.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "La figlia del proprio coniuge di un precedente matrimonio.",
       "example": "Meine Stieftochter studiert im Ausland. Sie studierte Englisch letztes Jahr. Sie wird nächstes Jahr Betriebswirtschaft studieren.",
       "example_translation": "Mia figliastra studia all'estero. Ha studiato inglese l'anno scorso. Studerà economia l'anno prossimo.",
-      "imageLink": "stepdaughter.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stepdaughter.jpg",
       "audioLink": "stepdaughter.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Il marito di tua madre per un matrimonio successivo.",
       "example": "Mein Stiefvater ist sehr nett zu mir. Er half mir bei meinen Aufgaben, als ich auf der High School war. Er wird mich morgen zum Park bringen.",
       "example_translation": "Mio patrigno è molto gentile con me. Mi ha aiutato con i miei compiti quando ero al liceo. Mi porterà nel parco domani.",
-      "imageLink": "stepfather.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stepfather.jpg",
       "audioLink": "stepfather.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "La moglie di tuo padre per un matrimonio successivo.",
       "example": "Meine Stiefmutter ist eine großartige Köchin. Sie kochte Abendessen für uns gestern Abend. Sie wird Frühstück für uns morgen früh kochen.",
       "example_translation": "La mia matrigna è una grande cuoca. Ha cucinato la cena per noi ieri sera. Cuocherà la colazione per noi domani mattina.",
-      "imageLink": "stepmother.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stepmother.jpg",
       "audioLink": "stepmother.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Il figlio del tuo marito o della tua moglie per un matrimonio precedente.",
       "example": "Mein Stiefsohn ist sehr intelligent. Er studierte hart für sein Examen letzten Woche. Er wird nächstes Jahr auf die Universität gehen.",
       "example_translation": "Mio figliastro è molto intelligente. Ha studiato sodo per il suo esame la scorsa settimana. Andrà al college l'anno prossimo.",
-      "imageLink": "stepson.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "stepson.jpg",
       "audioLink": "stepson.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un coniuge è un partner in un matrimonio, sia maschio che femmina.",
       "example": "Ich heiratete meinen Ehepartner letztes Jahr, und wir werden unser Jubiläum nächstes Jahr feiern. Mein Ehepartner arbeitet derzeit im Ausland, aber er wird nächsten Monat zurückkehren. Wenn ich meinen Ehepartner nicht getroffen hätte, würde ich Single sein.",
       "example_translation": "Mi sono sposato con mio coniuge l'anno scorso e celebriamo il nostro anniversario l'anno prossimo. Mio coniuge lavora attualmente all'estero, ma tornerà il mese prossimo. Se non avessi incontrato mio coniuge, sarei single ora.",
-      "imageLink": "spouse.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "spouse.jpg",
       "audioLink": "spouse.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "I suoceri sono i genitori del proprio coniuge o la moglie o il marito del proprio figlio.",
       "example": "Ich hatte eine großartige Zeit mit meinen Schwiegereltern während der Ferien. Meine Schwiegereltern leben auf dem Land, und wir besuchten sie letzten Sommer. Wenn meine Schwiegereltern uns nicht geholfen hätten, hätten wir kein Haus kaufen können.",
       "example_translation": "Ho avuto un grande tempo con i miei suoceri durante le vacanze. I miei suoceri vivono in campagna e li abbiamo visitati l'estate scorsa. Se i miei suoceri non ci avessero aiutati, non saremmo stati in grado di comprare una casa.",
-      "imageLink": "in-laws.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "in-laws.jpg",
       "audioLink": "in-laws.mp3"
     }
   ]

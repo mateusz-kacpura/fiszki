@@ -9,7 +9,7 @@
       "definition_translation": "День недели между четвергом и субботой.",
       "example": "Me reuniré contigo el viernes por la tarde. Ayer fue viernes. Me reuní con ella el viernes pasado.",
       "example_translation": "Я встречусь с тобой в пятницуПослеобеда. Вчера был пятница. Я встретился с ней в прошлую пятницу.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Первый день недели, считающийся началом рабочей недели.",
       "example": "Empezaré mi nuevo trabajo el lunes. Estaba cansado el lunes por la mañana. Viajaré el lunes próximo.",
       "example_translation": "Я начну новую работу в понедельник. Я был утомлен в понедельник утром. Я поеду в понедельник на следующей неделе.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "День недели между пятницей и воскресеньем, часто считающийся днем досуга.",
       "example": "Iré a la playa el sábado. Se casaron el sábado pasado. Estudiaré el sábado por la mañana.",
       "example_translation": "Я пойду на пляж в субботу. Они поженились в прошлый субботу год. Я буду учиться в субботу утром.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "День недели между субботой и понедельником, часто считающийся днем отдыха.",
       "example": "Asistiré a la iglesia el domingo. Tuvieron un picnic el domingo por la tarde. Veré la televisión el domingo por la noche.",
       "example_translation": "Я пойду в церковь в воскресенье. Они устроили пикник в воскресенье днем. Я буду смотреть телевизор в воскресенье вечером.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Пятый день недели, следующий после среды и предшествующий пятнице.",
       "example": "Me reuniré contigo el jueves a las 5 pm. Me reuní contigo el jueves pasado. Habréme reunido contigo el jueves próximo año.",
       "example_translation": "Я встречусь с вами в четверг в 5 вечера. Я встретился с вами в прошлый четверг. К следующему году я встречусь с вами в четверг.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Второй день недели, следующий после понедельника и предшествующий среде.",
       "example": "Tengo una reunión el martes a las 2 pm. Tuve una reunión el martes pasado mes. Tendré una reunión el martes próximo semana.",
       "example_translation": "У меня есть встреча во вторник в 2 часа дня. У меня была встреча во вторник прошлого месяца. У меня будет встреча во вторник на следующей недели.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Третий день недели, следующий после вторника и предшествующий четвергу.",
       "example": "Estudié inglés el miércoles por la noche. Estudiaré inglés el miércoles por la mañana. Había estudiado inglés el miércoles por la tarde.",
       "example_translation": "Я изучал английский язык в среду вечером. Я изучу английский язык в среду утром. Я изучил английский язык в среду днем.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

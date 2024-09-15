@@ -9,7 +9,7 @@
       "definition_translation": "Un instrument musical à cordes joué en pincement ou en strumming, avec des frettes sur le manche, utilisé dans un large éventail de genres musicaux.",
       "example": "Ich habe seit fünf Jahren Gitarre gespielt, ich spiele sie jeden Tag und werde sie auf dem Konzert morgen spielen.",
       "example_translation": "J'ai joué de la guitare pendant cinq ans, je le joue tous les jours, et je le jouerai au concert demain.",
-      "imageLink": "guitar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "guitar.jpg",
       "audioLink": "guitar.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un instrument de percussion, en particulier avec une tête de parchemin ou synthétique, joué en le frappant avec des baguettes ou des brosses.",
       "example": "Ich habe drei Jahre lang in einer Band Schlagzeug gespielt, ich spiele Schlagzeug jede Woche und werde es auf dem Festival nächsten Monat spielen.",
       "example_translation": "J'ai joué du tambour dans un groupe pendant trois ans, je joue du tambour chaque semaine, et je jouerai du tambour au festival le mois prochain.",
-      "imageLink": "drum.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drum.jpg",
       "audioLink": "drum.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un ensemble d'instruments de percussion joués en les frappant avec des baguettes ou des brosses, utilisé dans un large éventail de genres musicaux.",
       "example": "Ich habe seit zwei Jahren Schlagzeuge gespielt, ich spiele sie jeden Tag und werde sie auf dem Konzert morgen spielen.",
       "example_translation": "J'ai joué des tambours pendant deux ans, je les joue tous les jours, et je les jouerai au concert demain.",
-      "imageLink": "drums.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "drums.jpg",
       "audioLink": "drums.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un objet utilisé pour produire des sons ou de la musique, comme un piano, une guitare ou un violon.",
       "example": "Ich habe seit fünf Jahren ein Musikinstrument gespielt, ich spiele es jeden Woche und werde es auf dem Konzert nächsten Monat spielen.",
       "example_translation": "J'ai joué d'un instrument musical pendant cinq ans, je le joue chaque semaine, et je le jouerai au concert le mois prochain.",
-      "imageLink": "instrument.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "instrument.jpg",
       "audioLink": "instrument.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un appareil électronique avec des touches qui sont pressées pour saisir des données ou des commandes dans un ordinateur.",
       "example": "Ich habe früher auf meiner Tastatur Spiele gespielt, als ich ein Kind war. Jetzt benutze ich sie, um Berichte zu tippen. Bis nächstes Jahr werde ich das Touch-Typing auf meiner Tastatur beherrschen.",
       "example_translation": "J'ai joué aux jeux sur mon clavier lorsque j'étais enfant. Maintenant, j'utilise pour taper des rapports. D'ici l'année prochaine, j'aurai maîtrisé la dactylographie tactile sur mon clavier.",
-      "imageLink": "keyboard-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "keyboard-1.jpg",
       "audioLink": "keyboard.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un instrument de musique joué en pressant des touches qui produisent du son.",
       "example": "Ich habe Klavier gespielt, seit ich fünf Jahre alt war. Jetzt spiele ich Klavier für meine Familie jede Woche. Bis nächstem Monat werde ich ein Klavierkonzert vor einemLive-Publikum aufführen.",
       "example_translation": "J'ai appris à jouer du piano lorsque j'avais cinq ans. Maintenant, je joue du piano pour ma famille chaque semaine. D'ici le mois prochain, j'aurai interprété un concerto de piano devant un public en direct.",
-      "imageLink": "piano.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "piano.jpg",
       "audioLink": "piano.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un instrument de musique à cordes joué avec un archet ou en piquant les cordes.",
       "example": "Ich habe jeden Morgen Geige geübt. Jetzt spiele ich Geige in einem Orchester. Bis nächstes Jahr werde ich die Violinsonate beherrschen.",
       "example_translation": "J'ai l'habitude de pratiquer le violon chaque matin. Maintenant, je joue du violon dans un orchestre. D'ici l'année prochaine, j'aurai maîtrisé la sonate de violon.",
-      "imageLink": "violin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "violin.jpg",
       "audioLink": "violin.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un instrument de musique traditionnel écossais avec un sac et des pipes qui produisent un son distinct.",
       "example": "Ich habe Dudelsack bei einem schottischen Festival gesehen. Jetzt lerne ich Dudelsack für ein kulturelles Ereignis. Bis nächsten Sommer werde ich die Kunst des Dudelsackspielens beherrschen.",
       "example_translation": "J'ai vu des cornemuses être jouées lors d'un festival écossais. Maintenant, j'apprends à jouer de la cornemuse pour un événement culturel. D'ici l'été prochain, j'aurai maîtrisé l'art de jouer de la cornemuse.",
-      "imageLink": "bagpipes.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bagpipes.jpg",
       "audioLink": "bagpipes.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "un instrument de musique de la famille des bois, sonné en soufflant de l'air à travers un trou sur le côté, joué en le tenant verticalement et en doigtant des trous pour produire des notes différentes",
       "example": "Ich habe in der Schule Flores spielte, wenn ich ein Kind war, ich spiele jetzt Flöte im Orchester und werde Flöte auf dem Konzert morgen spielen.",
       "example_translation": "J'ai joué de la flûte dans l'orchestre scolaire quand j'étais gosse, je joue de la flûte dans l'orchestre maintenant, et je jouerai de la flûte au concert demain.",
-      "imageLink": "flute.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "flute.jpg",
       "audioLink": "flute.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "un instrument de musique de la famille des bois, joué en soufflant de l'air à travers une anche simple, utilisé dans le jazz et d'autres formes de musique",
       "example": "John Coltrane war ein berühmter Saxophonist, er spielte Saxophon in der Jazzband und wird immer für seine ikonischen Saxophon-Soli erinnert.",
       "example_translation": "John Coltrane était un saxophoniste célèbre, il a joué du saxophone dans le groupe de jazz, et il sera toujours rappelé pour ses solos de saxophone iconiques.",
-      "imageLink": "saxophone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "saxophone.jpg",
       "audioLink": "saxophone.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "un instrument de musique en métal, joué en soufflant de l'air à travers des lèvres pincées, utilisé dans les orchestres, les groupes et le jazz",
       "example": "Ich habe in der Highschool Trompete gespielt, mein Bruder spielt Trompete in der Marschband, und meine Schwester wird nächstes Jahr Trompete im Orchester spielen.",
       "example_translation": "J'ai appris à jouer de la trompette au lycée, mon frère joue de la trompette dans le groupe de défilé, et ma sœur jouera de la trompette dans l'orchestre l'année prochaine.",
-      "imageLink": "trumpet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trumpet.jpg",
       "audioLink": "trumpet.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "un instrument de musique avec un clavier et des soufflets, joué en comprimant et en dépliant les soufflets pour produire du son",
       "example": "Die Akkordeonspielerin war der Star der Folkband, sie spielte Akkordeon auf dem Festival letztes Jahr, und sie wird Akkordeon auf der Hochzeitsfeier nächsten Monat spielen.",
       "example_translation": "Le joueur d'accordéon était la star du groupe folk, elle a joué de l'accordéon au festival l'année dernière, et elle jouera de l'accordéon à la réception de mariage le mois prochain.",
-      "imageLink": "accordion.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "accordion.jpg",
       "audioLink": "accordion.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Une guitare basse est un instrument à cordes joué principalement avec les doigts ou le pouce, en pincement, en claquant, en faisant rebondir, en strumming, en tapotant, en frappant ou en piquant avec un plectre, souvent par des musiciens de rock, pop, jazz et d'autres styles de musique.",
       "example": "Ich spielte E-Bass in einer Band, als ich auf dem College war, dann wechselte ich zum Schlagzeug. Jetzt denke ich daran, wieder Gitarre zu spielen. In Zukunft hoffe ich, meine eigene Band zu gründen.",
       "example_translation": "J'ai joué de la guitare basse dans un groupe lorsqu'j'étais à l'université, puis j'ai changé pour jouer de la batterie. Maintenant, je pense reprendre la guitare. À l'avenir, j'espère créer mon propre groupe.",
-      "imageLink": "bass-guitar.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bass-guitar.jpg",
       "audioLink": "bass guitar.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un violoncelle est un grand instrument de musique à cordes joué assis, avec un son riche et mélodieux, utilisé dans les orchestres, la musique de chambre et comme instrument solo.",
       "example": "Ich begann mit 10 Jahren Cello-Unterricht zu nehmen und spielte weiter bis zum Ende der Highschool. Früher übte ich stundenlang jeden Tag, jetzt spiele ich nur noch zum Spaß. In Zukunft hoffe ich, in einem professionellen Orchester zu spielen.",
       "example_translation": "J'ai commencé à prendre des leçons de violoncelle lorsque j'avais 10 ans et j'ai continué à jouer tout au long du lycée. Dans le passé, j'habitais à pratiquer pendant des heures chaque jour, mais maintenant je ne joue que pour m'amuser. À l'avenir, j'espère jouer dans un orchestre professionnel.",
-      "imageLink": "cello.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cello.jpg",
       "audioLink": "cello.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un piano à queue est un grand piano acoustique avec un corps horizontal en forme d'aile, produisant un son riche et résonant, utilisé pour la musique classique, le jazz et d'autres styles de musique.",
       "example": "Als ich ein Kind war, kaufte meine Eltern einen Konzertflügel für unser Wohnzimmer, und ich spielte stundenlang jeden Tag. Dann hörte ich auf, für einige Jahre zu spielen, aber jetzt nehme ich wieder Unterricht. In Zukunft hoffe ich, einen Konzertflügel in meinem eigenen Haus zu haben.",
       "example_translation": "Lorsque j'étais enfant, mes parents ont acheté un piano à queue pour notre salon, et je jouais pendant des heures chaque jour. Ensuite, j'ai arrêté de jouer pendant quelques années, mais maintenant je suis à nouveau en train de prendre des leçons. À l'avenir, j'espère posséder un piano à queue dans ma propre maison.",
-      "imageLink": "grand-piano.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "grand-piano.jpg",
       "audioLink": "grand piano.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un harmonica est un petit instrument de musique aérophone à anche libre, portable, joué en soufflant et en aspirant de l'air à travers lui, utilisé dans divers genres de musique, notamment le blues, le folk et le rock.",
       "example": "Ich lernte Mundharmonika spielen, als ich auf einer Roadtrip quer durch das Land war. Dann begann ich, mit einer Bluesband zu spielen, und jetzt bin ich als Mundharmonikaspieler in der Band bekannt. In Zukunft hoffe ich, mein eigenes Mundharmonika-Album zu veröffentlichen.",
       "example_translation": "J'ai appris à jouer de l'harmonica lorsque j'étais en voyage routier à travers le pays. Ensuite, j'ai commencé à jouer avec un groupe de blues, et maintenant je suis connu comme le joueur d'harmonica du groupe. À l'avenir, j'espère sortir mon propre album d'harmonica.",
-      "imageLink": "harmonica.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "harmonica.jpg",
       "audioLink": "harmonica.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un tambourin est un instrument de musique avec un cadre rond recouvert d'une membrane, généralement joué en le secouant ou en le frappant avec les mains.",
       "example": "Gestern spielte ich Tamburin in der Schulband. Heute übe ich mit meinen Freunden. Morgen werden wir auf dem Konzert auftreten.",
       "example_translation": "Hier, j'ai joué du tambourin dans l'orchestre de l'école. Aujourd'hui, je pratique avec mes amis. Demain, nous allons jouer au concert.",
-      "imageLink": "tambourine.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tambourine.jpg",
       "audioLink": "tambourine.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un cor est un instrument de cuivre joué en soufflant de l'air à travers les lèvres pincées, souvent utilisé dans les orchestres et la musique de jazz.",
       "example": "Mein Bruder spielte früher Horn in der Highschool. Jetzt ist er ein professioneller Musiker. In Zukunft möchte er eine Musikschule gründen.",
       "example_translation": "Mon frère jouait du cor au lycée. Maintenant, il est musicien professionnel. À l'avenir, il veut créer une école de musique.",
-      "imageLink": "horn-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "horn-1.jpg",
       "audioLink": "horn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un orgue est un instrument de musique avec des tuyaux, joué en utilisant des clés et des pédales, souvent utilisé dans les églises et la musique classique.",
       "example": "Die Orgel in unserer Kirche ist sehr alt. Letzten Sonntag spielte der Organist wunderbar. Nächste Woche werden wir ein Konzert geben, um Geld für ihre Restaurierung zu sammeln.",
       "example_translation": "L'orgue de notre église est très vieux. Dimanche dernier, l'organiste a joué magnifiquement. La semaine prochaine, nous aurons un concert pour collecter des fonds pour sa restauration.",
-      "imageLink": "organ-1.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "organ-1.jpg",
       "audioLink": "organ.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un triangle est un instrument de musique avec une tige métallique courbée en forme de triangle, joué en frappant avec une baguette, souvent utilisé dans les orchestres et les ensembles de percussion.",
       "example": "Ich wollte immer Triangel in einem professionellen Orchester spielen. Im College hatte ich die Gelegenheit, Unterricht zu nehmen. Jetzt bin ich Teil eines Community-Ensembles.",
       "example_translation": "J'ai toujours voulu jouer du triangle dans un orchestre professionnel. Au collège, j'ai eu l'opportunité de prendre des leçons. Maintenant, je fais partie d'un ensemble communautaire.",
-      "imageLink": "triangle.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "triangle.jpg",
       "audioLink": "triangle.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "un instrument de musique à cordes originaire de Russie, ayant un corps triangulaire et un long manche",
       "example": "Gestern sah ich einen Balkanläutespieler auf der Straße spielen. Heute werde ich eine Balkanläute kaufen, um zu lernen, wie man sie spielt. Nächste Woche werde ich schon einen Monat lang Balkanläute spielen.",
       "example_translation": "Hier, j'ai vu un joueur de balalaïka se produire dans la rue. Aujourd'hui, je vais acheter une balalaïka pour apprendre à jouer. La semaine prochaine, j'aurai joué de la balalaïka pendant un mois.",
-      "imageLink": "balalaika.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "balalaika.jpg",
       "audioLink": "balalaika.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "un instrument de musique à cordes avec un corps rond et un long manche, joué en pincant ou en strumant",
       "example": "Ich spielte Banjo auf der Party letzte Nacht. Jetzt repariere ich mein Banjo, um mich auf die nächste Show vorzubereiten. Bis nächstes Jahr werde ich Banjo spielen beherrschen.",
       "example_translation": "J'ai joué du banjo à la fête hier soir. Maintenant, je répare mon banjo pour me préparer pour le prochain spectacle. D'ici l'année prochaine, j'aurai maitrisé jouer du banjo.",
-      "imageLink": "banjo.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "banjo.jpg",
       "audioLink": "banjo.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "un instrument à vent en bois à double anche avec un tube long et étroit et une also conique",
       "example": "Der Fagottspieler saß hinten im Orchester. Heute habe ich versucht, Fagott zu spielen, aber es war schwieriger, als ich dachte. Bis nächstem Monat werde ich jeden Tag Fagott geübt haben.",
       "example_translation": "Le joueur de basson était assis à l'arrière de l'orchestre. Aujourd'hui, j'ai essayé de jouer du basson, mais c'était plus dur que je ne pensais. D'ici le mois prochain, j'aurai pratiqué jouer du basson tous les jours.",
-      "imageLink": "bassoon.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "bassoon.jpg",
       "audioLink": "bassoon.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "une paire de coquilles petites et peu profondes cliquées ensemble pour produire un son rythmique, notamment dans la musique flamenco",
       "example": "Ich verwendete Kastagnetten in meiner Tanzvorführung letzte Woche. Jetzt lerne ich, Kastagnetten mit meinen Füßen zu verwenden. Nächstes Jahr werde ich Kastagnetten mit meinen Händen und Füßen beherrschen.",
       "example_translation": "J'ai utilisé des castagnettes dans ma performance de danse la semaine dernière. Maintenant, j'apprends à utiliser des castagnettes avec mes pieds. L'année prochaine, j'aurai maitrisé utiliser des castagnettes avec mes mains et mes pieds.",
-      "imageLink": "castanets.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "castanets.jpg",
       "audioLink": "castanets.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un cimbalom est un type de dulcineau à marteau qui a pris naissance en Hongrie et est joué en frappant des touches avec une paire de batteurs.",
       "example": "Sie lernte Cimbalom spielen, als sie jung war, und jetzt ist sie eine geschickte Musikerin. Sie spielte Cimbalom auf der Hochzeit letzte Woche. Sie wird ihrer Tochter nächsten Jahr Cimbalom spielen lehren.",
       "example_translation": "Elle a appris à jouer du cimbalom à un âge précoce, et maintenant elle est une musicienne expérimentée. Elle a joué du cimbalom au mariage la semaine dernière. Elle enseignera à sa fille à jouer du cimbalom l'an prochain.",
-      "imageLink": "cimbalom.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cimbalom.jpg",
       "audioLink": "cimbalom.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un claquoir est un dispositif utilisé pour produire un bruit sec et soudain, généralement utilisé dans la production de films pour marquer le début d'une scène.",
       "example": "Der Regisseur schrie 'Aktion' und die Klapper wurde verwendet, um den Beginn der Szene zu markieren. Sie mag eine Klapper verwenden, um Aufmerksamkeit in einem lauten Raum zu erregen. Er wird ein digitales Klapper für zukünftige Filmproduktionen erfinden.",
       "example_translation": "Le réalisateur a crié 'action' et le claquoir a été utilisé pour marquer le début de la scène. Elle aime utiliser un claquoir pour attirer l'attention dans une salle bruyante. Il inventera un claquoir numérique pour les productions de films futures.",
-      "imageLink": "clapper.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clapper.jpg",
       "audioLink": "clapper.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "La clarinette est un instrument à vent à anche simple, utilisé dans de nombreux types de musique, notamment classique, jazz et folk.",
       "example": "Sie spielt Klarinette seit der High School, und jetzt ist sie in einem professionellen Orchester. Er lernte Klarinette spielen, um sein Date zu beeindrucken. Sie werden nächstes Monat ein Klarinettenquartett gründen.",
       "example_translation": "Elle a commencé à jouer de la clarinette au lycée, et maintenant elle est dans un orchestre professionnel. Il a appris à jouer de la clarinette pour impressionner sa partenaire. Ils vont commencer un quatuor de clarinette le mois prochain.",
-      "imageLink": "clarinet.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "clarinet.jpg",
       "audioLink": "clarinet.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Une cymbale est une plaque de métal frappée par un batteur pour produire un son sonore, souvent utilisée dans la musique rock, pop et jazz.",
       "example": "Der Schlagzeuger krachte das Becken, um das Lied zu beenden. Sie liebt den Klang des Beckens in Heavy-Metal-Musik. Er wird das Becken vor dem Konzert morgen stimmen.",
       "example_translation": "Le batteur a écrasé la cymbale pourterminer la chanson. Elle adore le son de la cymbale dans la musique heavy metal. Il accordera la cymbale avant le concert de demain.",
-      "imageLink": "cymbal.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "cymbal.jpg",
       "audioLink": "cymbal.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un instrument à cordes volumineux joué en tirant un archet ou en pincant les cordes, utilisé dans les orchestres et les groupes de jazz.",
       "example": "Ich spielte Kontrabass im Schulorchester, als ich ein Teenager war. Jetzt spiele ich es in einer Jazzband. Nächstes Jahr werde ich es in einem Symphonieorchester spielen.",
       "example_translation": "J'ai joué de la contrebasse dans l'orchestre de l'école lorsque j'étais adolescent. Maintenant, je joue dans un groupe de jazz. L'année prochaine, je jouerai dans un orchestre symphonique.",
-      "imageLink": "double-bass.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "double-bass.jpg",
       "audioLink": "double bass.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Une plaque de métal frappée avec un marteau ou un maillet pour produire un son fort et résonnant, généralement utilisée dans les orchestres ou comme signal.",
       "example": "Der Schlagzeuger schlug den Gong, um das Konzert zu eröffnen. Ich hatte noch nie einen Gong gesehen, aber ich werde ihn in meiner nächsten Musikkomposition verwenden. Vielleicht werde ich den Gong morgen wieder schlagen.",
       "example_translation": "Le percussionniste a frappé le gong pour signaler le début du concert. Je n'avais jamais vu de gong auparavant, mais j'utiliserai dans ma prochaine composition musicale. Peut-être que je frapperai le gong à nouveau demain.",
-      "imageLink": "gong.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "gong.jpg",
       "audioLink": "gong.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un instrument de clavier petit et portable similaire à un orgue, utilisé dans les églises et les maisons.",
       "example": "Meine Großmutter spielte früher das Harmonium in der Kirche, als ich ein Kind war. Jetzt spiele ich es in meinem Wohnzimmer. Ich werde nächste Woche ein neues Harmonium kaufen.",
       "example_translation": "Ma grand-mère jouait de l'harmonium à l'église lorsque j'étais gosse. Maintenant, je joue dans mon salon. Je vais acheter un nouvel harmonium la semaine prochaine.",
-      "imageLink": "harmonium.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "harmonium.jpg",
       "audioLink": "harmonium.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un instrument à cordes joué en pincant les cordes avec les doigts, utilisé dans les orchestres et comme instrument solo.",
       "example": "Die Harfenistin spielte eine beautiful Melodie auf ihrer Harfe. Ich lernte, die Harfe zu spielen, als ich 10 Jahre alt war. Sie wird die Harfe auf der Hochzeit nächstes Monat spielen.",
       "example_translation": "La harpiste a joué une mélodie belle sur sa harpe. J'ai appris à jouer de la harpe lorsque j'avais 10 ans. Elle jouera de la harpe lors de la cérémonie de mariage le mois prochain.",
-      "imageLink": "harp.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "harp.jpg",
       "audioLink": "harp.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un instrument de musique à cordes qui produit du son lorsque ses cordes sont pincées par des plumes ou des plectres, généralement joué en appuyant sur des touches d'un clavier.",
       "example": "Das Cembalo war ein beliebtes Instrument im Barockzeitalter. Letztes Jahr sah ich ein Cembalo bei einem Konzert. Wenn ich reich wäre, würde ich ein Cembalo kaufen und lernen, es zu spielen.",
       "example_translation": "Le clavecin était un instrument populaire pendant la période baroque. L'année dernière, j'ai vu un clavecin être joué lors d'un concert. Si j'étais riche, j'achèterais un clavecin et apprendrais à le jouer.",
-      "imageLink": "harpsichord.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "harpsichord.jpg",
       "audioLink": "harpsichord.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Une paire de tambours de taille variable, généralement joués en les frappant avec une baguette, utilisés dans les ensembles orchestraux et autres ensembles musicaux.",
       "example": "Die Pauken fügten der Musik viel Energie hinzu. Der Schlagzeuger spielte die Pauken während der Aufführung sehr gut. Bis nächsten Jahr werde ich gelernt haben, die Pauken professionell zu spielen.",
       "example_translation": "Les timbales ont ajouté beaucoup d'énergie à la musique. Le batteur a joué habilement les timbales pendant la représentation. D'ici l'année prochaine, j'aurai appris à jouer professionnellement des timbales.",
-      "imageLink": "kettledrums.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "kettledrums.jpg",
       "audioLink": "kettledrums.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un instrument de musique à cordes avec un corps en forme de poire, généralement joué en pincant les cordes avec les doigts ou un plectre.",
       "example": "Die Finger der Lautenspielerin bewegten sich schnell über die Saiten. Ich sah eine schöne Laute bei einem Mittelaltermarkt. Bis ich in Rente gehe, hoffe ich, die Laute perfekt zu spielen gelernt zu haben.",
       "example_translation": "Les doigts du joueur de luth se sont déplacés rapidement sur les cordes. J'ai vu un luth magnifique être joué lors d'un festival médiéval. D'ici à ma retraite, j'espère avoir maîtrisé le jeu du luth.",
-      "imageLink": "lute.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "lute.jpg",
       "audioLink": "lute.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un instrument de musique à cordes avec un petit dos rond et un manche fretté, généralement joué en pincant les cordes avec un plectre.",
       "example": "Der Mandolinen-Spieler bewegte sein Plektrum schnell über die Saiten. Ich sah eine Mandoline bei einem Bluegrass-Konzert. Wenn ich mehr Zeit hätte, würde ich lernen, die Mandoline zu spielen.",
       "example_translation": "Le plectre du joueur de mandoline s'est déplacé rapidement sur les cordes. J'ai vu une mandoline être jouée lors d'un concert de bluegrass. Si j'avais plus de temps, j'apprendrais à jouer de la mandoline.",
-      "imageLink": "mandolin.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "mandolin.jpg",
       "audioLink": "mandolin.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Les maracas sont un type d'instrument de musique, généralement en bois ou en plastique, utilisé pour créer des sons rythmiques.",
       "example": "Sie spielte die Maracas im Schulband letztes Jahr, dann übte sie jeden Tag und jetzt wird sie heute Abend bei dem Konzert auftreten.",
       "example_translation": "Elle a joué des maracas dans l'orchestre de l'école l'année dernière, puis elle a pratiqué tous les jours, et maintenant elle se produira au concert ce soir.",
-      "imageLink": "maracas.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "maracas.jpg",
       "audioLink": "maracas.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Le hautbois est un instrument de musique à anche double en bois, connu pour son son distinct et mélodieux.",
       "example": "Er lernte, die Oboe im College zu spielen, dann trat er einem professionellen Orchester bei und jetzt unterrichtet er Musik für Kinder.",
       "example_translation": "Il a appris à jouer du hautbois au collège, puis il a rejoint un orchestre professionnel, et maintenant il enseigne la musique aux enfants.",
-      "imageLink": "oboe.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "oboe.jpg",
       "audioLink": "oboe.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "L'ocarina est un instrument de musique petit et flûtée, souvent utilisé dans la musique folk.",
       "example": "Sie spielte die Okarina seit ihrer Kindheit, dann entdeckte sie ihre Schönheit in einem Videospiel und jetzt komponiert sie Musik für Filme.",
       "example_translation": "Elle avait joué de l'ocarina depuis l'enfance, puis elle a découvert sa beauté dans un jeu vidéo, et maintenant elle compose de la musique pour les films.",
-      "imageLink": "ocarina.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "ocarina.jpg",
       "audioLink": "ocarina.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "La flûte à bec est un instrument de musique en bois simple, souvent enseigné dans les classes de musique de l'école primaire.",
       "example": "Sie lernte, die Blockflöte in der dritten Klasse zu spielen, dann übte sie jeden Tag und jetzt ist sie Teil eines professionellen Ensembles.",
       "example_translation": "Elle a appris à jouer de la flûte à bec en troisième année, puis elle a pratiqué tous les jours, et maintenant elle fait partie d'un ensemble professionnel.",
-      "imageLink": "recorder.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "recorder.jpg",
       "audioLink": "recorder.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Une caisse claire est un type de tambour qui produit un son aigu et cristallin, souvent utilisé dans la musique orchestrale et militaire.",
       "example": "Der Schlagzeuger spielte das Rohrschlagzeug-Solo mit Erfolg, das Publikum brach in Applaus aus. Gestern hatte sie das Stück stundenlang geübt. Morgen wird sie es auf dem Konzert aufführen.",
       "example_translation": "Le batteur a joué avec expertise le solo de caisse claire, la foule a éclaté en applaudissements. Hier, elle avait répété la pièce pendant des heures. Demain, elle interprétera à la concert.",
-      "imageLink": "snare-drum.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "snare-drum.jpg",
       "audioLink": "snare drum.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un trombone est un instrument de cuivre utilisé dans la musique jazz, orchestrale et pop, caractérisé par sa commande de hauteur de ton contrôlée par un curseur.",
       "example": "Der Posaunist fügte dem Jazz-Ensemble einen reichen, matten Klang hinzu. Letzte Woche hatte er eine neue Posaune gekauft. In fünf Jahren wird er ein berühmter Posaunensolist werden.",
       "example_translation": "Le tromboniste a ajouté un son riche et mélodieux à l'ensemble de jazz. La semaine dernière, il avait acheté un nouveau trombone. Dans cinq ans, il deviendra un soliste de trombone renommé.",
-      "imageLink": "trombone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "trombone.jpg",
       "audioLink": "trombone.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Une tuba est un grand instrument de cuivre de faible tessiture utilisé dans la musique orchestrale, de concert et jazz, produisant un son profond et riche.",
       "example": "Die Tubistin lieferte einen starken Fundament-Klang zum Orchesterstück. Nächsten Monat wird sie mit einem Tubenquartett auftreten. In zwei Jahren wird sie Professorin für Tuba an einem Musik-Konservatorium werden.",
       "example_translation": "Le tubiste a fourni une solide base à la pièce orchestrale. Le mois prochain, elle se produira avec un quartette de tubas. Dans deux ans, elle deviendra professeure de tuba à un conservatoire de musique.",
-      "imageLink": "tuba.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tuba.jpg",
       "audioLink": "tuba.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Les cloches tubulaires sont un instrument de musique composé d'une série de tubes métalliques de longueurs variables, joués en les frappant avec un maillet ou un marteau.",
       "example": "Der Klang der Röhrenglocken erfüllte den Dom während des Weihnachtskonzerts. Letztes Jahr hatte ich eine Röhrenglocken-Solo-Aufführung gesehen. Nächste Woche werde ich ein Satz Röhrenglocken für meinen Musikunterricht kaufen.",
       "example_translation": "Le son des cloches tubulaires a rempli la cathédrale pendant le concert de Noël. L'année dernière, j'avais vu une performance solo de cloches tubulaires. La semaine prochaine, j'achèterai un ensemble de cloches tubulaires pour ma classe de musique.",
-      "imageLink": "tubular-bells.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "tubular-bells.jpg",
       "audioLink": "tubular bells.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "un instrument de musique avec une série de barres métalliques qui sont frappées par des marteaux pour produire un son de résonance",
       "example": "Der Musiker spielte das Vibraphon im Orchester mit Erfolg, hatte es bei dem Konzert gestern gespielt und wird es morgen auf dem Festival spielen.",
       "example_translation": "Le musicien a joué avec habileté du vibraphone dans l'orchestre, l'avait joué au concert hier, et le jouera au festival demain.",
-      "imageLink": "vibraphone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "vibraphone.jpg",
       "audioLink": "vibraphone.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "un instrument de musique avec une série de barres en bois qui sont frappées par des marteaux pour produire un son de résonance",
       "example": "Das Kind liebte es, Xylophon in Musikunterricht zu spielen, hat es seit Jahren gespielt und wird es in Zukunft weiterhin spielen.",
       "example_translation": "L'enfant aimait jouer du xylophone en classe de musique, l'a joué pendant des années, et continuera à le jouer à l'avenir.",
-      "imageLink": "xylophone.jpg",
+      "imageLink": "image_files\\English\\"imageLink": "xylophone.jpg",
       "audioLink": "xylophone.mp3"
     }
   ]
