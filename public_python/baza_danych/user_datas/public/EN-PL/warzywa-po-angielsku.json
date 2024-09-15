@@ -9,7 +9,7 @@
       "definition_translation": "warzywo skrobiowe",
       "example": "I love to eat mashed potatoes.",
       "example_translation": "Lubię jeść ziemniaki mąkie.",
-      "imageLink": "image_files\\English\\"imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\potato.jpg",
       "audioLink": "audio_files\\English\\potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Owoce soczyste, zwykle czerwone lub żółte, jedzone na surowo lub używane w gotowaniu.",
       "example": "She added a fresh tomato to the salad.",
       "example_translation": "Dodała świeży pomidor do sałatki.",
-      "imageLink": "image_files\\English\\"imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\tomato.jpg",
       "audioLink": "audio_files\\English\\tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Roślina lub część rośliny stosowana jako żywność, takiej jak liść, łodyga lub korzeń.",
       "example": "She added some fresh vegetables to the salad.",
       "example_translation": "Dodała świeże warzywa do sałatki.",
-      "imageLink": "image_files\\English\\"imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\vegetable.jpg",
       "audioLink": "audio_files\\English\\vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "mały, zwykle biały lub zielonkawy, nasion, który rośnie w strąku i jest jedzony jako warzywo",
       "example": "Can you lend me a bean from your salad?",
       "example_translation": "Czy mogę pożyczyć od ciebie fasolę z twojego sałatki?",
-      "imageLink": "image_files\\English\\"imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\bean.jpg",
       "audioLink": "audio_files\\English\\bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Długi, cienki, pomarańczowo-żółty warzywowy korzeń.",
       "example": "She chopped the carrot into small pieces for the salad.",
       "example_translation": "Ona pokroiła marchewkę na małe kawałki do sałatki.",
-      "imageLink": "image_files\\English\\"imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\carrot.jpg",
       "audioLink": "audio_files\\English\\carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Typ pieprzu powszechnie używanego w gotowaniu, szczególnie w kuchni meksykańskiej i indyjskiej.",
       "example": "I added some chilli peppers to the stir-fry for extra heat.",
       "example_translation": "Dodałem kilka pieprzyków chilli do smażenia, aby dodać więcej ostrości.",
-      "imageLink": "image_files\\English\\"imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\chilli.jpg",
       "audioLink": "audio_files\\English\\chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "roślina o silnym zapachu i smaku, używana w kuchni",
       "example": "Add some garlic to the soup for extra flavor.",
       "example_translation": "Dodaj trochę czosnku do zupy, aby nadać jej dodatkowego smaku.",
-      "imageLink": "image_files\\English\\"imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\garlic.jpg",
       "audioLink": "audio_files\\English\\garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "warzywo bulwiaste o silnym zapachu i smaku, często używane w gotowaniu",
       "example": "She chopped the onion and sautéed it in a pan.",
       "example_translation": "Ona pokroiła cebulę i podsmażyła ją na patelni.",
-      "imageLink": "image_files\\English\\"imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\onion.jpg",
       "audioLink": "audio_files\\English\\onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Zielona warzywa, która przypomina małe drzewo, z dużą, jadalną głową i grubym, drewnianym łodygiem.",
       "example": "I love eating broccoli with cheese sauce.",
       "example_translation": "Uwielbiam jeść brokuł z sosem serowym.",
-      "imageLink": "image_files\\English\\"imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\broccoli.jpg",
       "audioLink": "audio_files\\English\\broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "",
       "example": "",
       "example_translation": "",
-      "imageLink": "image_files\\English\\"imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\cabbage.jpg",
       "audioLink": "audio_files\\English\\cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "typ warzywa, podobny do dyni, często używany w gotowaniu",
       "example": "I'm going to grill some courgettes for dinner.",
       "example_translation": "Zamierzam zapiekac cukinie na obiad.",
-      "imageLink": "image_files\\English\\"imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\courgette.jpg",
       "audioLink": "audio_files\\English\\courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "długi, zielony warzyw, spożywany na świeżo lub kiszony",
       "example": "I love to add cucumber to my salad.",
       "example_translation": "Lubię dodawać ogórka do mojej sałaty.",
-      "imageLink": "image_files\\English\\"imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\cucumber.jpg",
       "audioLink": "audio_files\\English\\cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "zielona warzywa liściasta stosowana w sałatkach",
       "example": "She added some lettuce to the sandwich.",
       "example_translation": "Dodała sałatę do sandwicha.",
-      "imageLink": "image_files\\English\\"imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\lettuce.jpg",
       "audioLink": "audio_files\\English\\lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "mała, okrągła nasiona, która rośnie w strąku i jest spożywana jako warzywo",
       "example": "She planted peas in her garden.",
       "example_translation": "Ona zasadziła groch w swoim ogrodzie.",
-      "imageLink": "image_files\\English\\"imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\pea.jpg",
       "audioLink": "audio_files\\English\\pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "słodka lub ostra w smaku proszek lub przyprawarobiona z nasion pnącej rośliny",
       "example": "Add some pepper to the soup.",
       "example_translation": "Dodaj trochę pieprzu do zupy.",
-      "imageLink": "image_files\\English\\"imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\pepper.jpg",
       "audioLink": "audio_files\\English\\pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "duża, okrągła owoc z twardą skórą, często pomarańczowa",
       "example": "She carved a pumpkin for Halloween.",
       "example_translation": "Wyżłobiła dynię na Halloween.",
-      "imageLink": "image_files\\English\\"imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\pumpkin.jpg",
       "audioLink": "audio_files\\English\\pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": " Zielone warzywo z liśćmi, które są spożywane jako warzywo.",
       "example": "I love to eat spinach in smoothies.",
       "example_translation": "Lubię jeść szpinak w smoothies.",
-      "imageLink": "image_files\\English\\"imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\spinach.jpg",
       "audioLink": "audio_files\\English\\spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "typ kukurydzy, która jest spożywana jako warzywo",
       "example": "She boiled the sweetcorn and served it with butter.",
       "example_translation": "Ona ugotowała kukurydzę słodką i podała ją z masłem.",
-      "imageLink": "image_files\\English\\"imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\corn.jpg",
       "audioLink": "audio_files\\English\\sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "warzywo purpurowe",
       "example": "I love to cook aubergine in the summer.",
       "example_translation": "Uwielbiam gotować bakłażan latem.",
-      "imageLink": "image_files\\English\\"imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\aubergine.jpg",
       "audioLink": "audio_files\\English\\aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Warzywo z dużą, białą, jadalną główką w kształcie drzewa, z grubymi, zielonymi liśćmi.",
       "example": "She steamed the cauliflower and served it with cheese sauce.",
       "example_translation": "Ona ugotowała kalafiora i podała go z sosem serowym.",
-      "imageLink": "image_files\\English\\"imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\cauliflower.jpg",
       "audioLink": "audio_files\\English\\cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "długi, cienki, zielony warzyw z łagodnym smakiem cebulowym",
       "example": "She chopped the leek and sautéed it in butter.",
       "example_translation": "Ona pokroiła por i obsmażyła go w maśle.",
-      "imageLink": "image_files\\English\\"imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\leek.jpg",
       "audioLink": "audio_files\\English\\leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "twarda, dwuletnia roślina z dzwonkowatymi liśćmi, używana do dekoracji i nadawania smaku żywności",
       "example": "Add some parsley to the soup for extra flavor.",
       "example_translation": "Dodaj pietruszkę do zupy, aby dodać smaku.",
-      "imageLink": "image_files\\English\\"imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\parsley.jpg",
       "audioLink": "audio_files\\English\\parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "warzywo korzeniowe o silnym, pikańskim smaku i chrupkiej teksturze",
       "example": "She added sliced radish to the salad for some extra crunch.",
       "example_translation": "Dodała pokrojone rzeżuchy do sałatki dla dodatkowej chrupkości.",
-      "imageLink": "image_files\\English\\"imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\radish.jpg",
       "audioLink": "audio_files\\English\\radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "typ kapusty o głębokiej czerwonej barwie",
       "example": "The salad recipe includes red cabbage and carrots.",
       "example_translation": "Przepis na sałatkę obejmuje czerwoną kapustę i marchewki.",
-      "imageLink": "image_files\\English\\"imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\red-cabbage.jpg",
       "audioLink": "audio_files\\English\\red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "mała cebula, która jest zbierana przed pełnym dojrzeniem, z zielonym łodygiem i małą białą lub żółtawą cebulką",
       "example": "She chopped the spring onion and added it to the salad.",
       "example_translation": "Ona pokroiła szalotkę i dodała ją do sałatki.",
-      "imageLink": "image_files\\English\\"imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\spring-onion.jpg",
       "audioLink": "audio_files\\English\\spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "warzywo korzeniowe o słodkim i lekko gorzkim smaku",
       "example": "She added beetroot to her salad for extra flavor.",
       "example_translation": "Dodała buraka do sałatki dla dodatkowego smaku.",
-      "imageLink": "image_files\\English\\"imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\beetroot.jpg",
       "audioLink": "audio_files\\English\\beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "typ strączka używany jako żywność i w produkcji mleka i oleju",
       "example": "Soya milk is a popular alternative to dairy milk.",
       "example_translation": "Mleko sojowe jest popularną alternatywą dla mleka mlecznego.",
-      "imageLink": "image_files\\English\\"imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\soya-soy.jpg",
       "audioLink": "audio_files\\English\\soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "typ fasoli, szczególnie uprawianej do spożycia",
       "example": "She added a handful of broad beans to the salad.",
       "example_translation": "Dodała garść fasol szkolnych do sałatki.",
-      "imageLink": "image_files\\English\\"imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\broad-bean.jpg",
       "audioLink": "audio_files\\English\\broad-bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "mała, zielona, kwiatowa warzywo, które rośnie na wysokiej łodydze i jest spożywane gotowane lub na parze",
       "example": "She added some brussels sprouts to the roast chicken.",
       "example_translation": "Dodała kilka kapust brukselskich do pieczonego kurczaka.",
-      "imageLink": "image_files\\English\\"imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\brussels-sprout.jpg",
       "audioLink": "audio_files\\English\\brussels%20sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "roślina kolczasta, jadalna o dużym, mięsistym kwiecie",
       "example": "I love to eat artichokes in the summer.",
       "example_translation": "Lubię jeść karczoche w lecie.",
-      "imageLink": "image_files\\English\\"imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\artichoke.jpg",
       "audioLink": "audio_files\\English\\artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "zielona warzywa o długich, cienkich pędach, która jest jedzona jako przekąska",
       "example": "I love to grill asparagus in the summer.",
       "example_translation": "Uwielbiam grillować szparagi latem.",
-      "imageLink": "image_files\\English\\"imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\asparagus.jpg",
       "audioLink": "audio_files\\English\\asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "typ warzywa o chrupkiej łodydze i liściach często używane w kuchni",
       "example": "She chopped the celery and added it to the soup.",
       "example_translation": "Ona pokroiła seler i dodała go do zupy.",
-      "imageLink": "image_files\\English\\"imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\celery.jpg",
       "audioLink": "audio_files\\English\\celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "typ rośliny z niebieskimi kwiatami, używany jako substytut kawy",
       "example": "I love the flavor of chicory in my coffee.",
       "example_translation": "Uwielbiam smak cykori w mojej kawie.",
-      "imageLink": "image_files\\English\\"imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\chicory.jpg",
       "audioLink": "audio_files\\English\\chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "zioło o smaku cebuli, używane jako ozdoba lub w gotowaniu",
       "example": "Add some chives to the potato salad for extra flavor.",
       "example_translation": "Dodaj trochę szczypiorku do sałatki ziemniaczanej, aby dodać smaku.",
-      "imageLink": "image_files\\English\\"imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\chives.jpg",
       "audioLink": "audio_files\\English\\chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "typ rośliny o ostrym smaku, często używanej jako sałatka",
       "example": "Add some cress to the salad for extra flavor.",
       "example_translation": "Dodaj nieco rzeżuchy do sałatki, aby dodać więcej smaku.",
-      "imageLink": "image_files\\English\\"imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\cress.jpg",
       "audioLink": "audio_files\\English\\cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "typ zioła, często używany w marynowaniu",
       "example": "Add fresh dill to the salad for extra flavor.",
       "example_translation": "Dodaj świeży koper do sałatki, aby uzyskać dodatkowy smak.",
-      "imageLink": "image_files\\English\\"imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\dill.jpg",
       "audioLink": "audio_files\\English\\dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "roślina wieloletnia o żółtych kwiatach i pierzastych liściach, używana w kuchni i medycynie",
       "example": "Add a few stalks of fennel to the salad for extra flavor.",
       "example_translation": "Dodaj kilka łodyg kopru do sałatki dla dodatkowego smaku.",
-      "imageLink": "image_files\\English\\"imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\fennel.jpg",
       "audioLink": "audio_files\\English\\fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "roślina o silnym, pierującym smaku, używana jako przyprawa",
       "example": "She added a dash of horseradish to the sauce for extra flavor.",
       "example_translation": "Dodała chrzanu do sosu, aby nadać mu dodatkowy smak.",
-      "imageLink": "image_files\\English\\"imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\horseradish.jpg",
       "audioLink": "audio_files\\English\\horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "typ zielonej warzywy, która jest często spożywana w sałatkach",
       "example": "I added some kale to my smoothie for extra nutrition.",
       "example_translation": "Dodałem trochę jarmużu do mojego smoothie za dodatkową wartość odżywczą.",
-      "imageLink": "image_files\\English\\"imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\kale.jpg",
       "audioLink": "audio_files\\English\\kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "typ rośliny strączkowej, która jest często spożywana w zupach i gulaszach",
       "example": "She added a handful of lentils to the soup.",
       "example_translation": "Dodała garść soczewicy do zupy.",
-      "imageLink": "image_files\\English\\"imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\lentil.jpg",
       "audioLink": "audio_files\\English\\lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "miękka tkanka tłuszczowa w jamach kości",
       "example": "The doctor extracted the marrow from the bone to examine it.",
       "example_translation": "Lekarz wyjął szpik z kości, aby go zbadać.",
-      "imageLink": "image_files\\English\\"imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\marrow.jpg",
       "audioLink": "audio_files\\English\\marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Warzywo korzeniowe o słodkim i orzechowym smaku.",
       "example": "She added some parsnip to the stew for extra flavor.",
       "example_translation": "Dodała pasternaka do gulaszu, aby uzyskać ekstra smak.",
-      "imageLink": "image_files\\English\\"imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\parsnip.jpg",
       "audioLink": "audio_files\\English\\parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "typ rośliny o kwaśnym smaku, często używanej w tartach i pirożkach",
       "example": "She added some rhubarb to the pie crust.",
       "example_translation": "Dodała trochę rzeżuchy do ciasta tartowego.",
-      "imageLink": "image_files\\English\\"imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\rhubarb.jpg",
       "audioLink": "audio_files\\English\\rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "osoba z Szwecji",
       "example": "She married a Swede and moved to Stockholm.",
       "example_translation": "Poznała Szweda i przeprowadziła się do Sztokholmu.",
-      "imageLink": "image_files\\English\\"imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\swede.jpg",
       "audioLink": "audio_files\\English\\swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": " warzywo skrobiowe, często żółte lub pomarańczowe, rosnące pod ziemią",
       "example": "She roasted the sweet potatoes in the oven.",
       "example_translation": "Ona upiekła bataty w piecyku.",
-      "imageLink": "image_files\\English\\"imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\sweet-potato.jpg",
       "audioLink": "audio_files\\English\\sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "warzywo korzeniowe o kształcie okrągłym lub owalnym i słodkim, pieprzowym smaku",
       "example": "The turnip was too bitter to eat.",
       "example_translation": "Rzeżucha była zbyt gorzka, żeby ją zjeść.",
-      "imageLink": "image_files\\English\\"imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\turnip.jpg",
       "audioLink": "audio_files\\English\\turnip.mp3"
     }
   ]

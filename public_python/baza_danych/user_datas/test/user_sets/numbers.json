@@ -7,7 +7,7 @@
     "definition": "A set of numbers arranged in a particular order.",
     "example": "He studied the series of numbers to find the pattern.",
     "example_translation": "Przestudiował serię liczb, aby znaleźć wzór.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -18,7 +18,7 @@
     "definition": "A collection of distinct numbers.",
     "example": "The set of numbers included both positive and negative integers.",
     "example_translation": "Zbiór liczb obejmował zarówno liczby dodatnie, jak i ujemne.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -29,7 +29,7 @@
     "definition": "An ordered list of numbers following a particular pattern.",
     "example": "The sequence of numbers increases by three each time.",
     "example_translation": "Sekwencja liczb zwiększa się o trzy za każdym razem.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -40,7 +40,7 @@
     "definition": "An arrangement of numbers or items in a meaningful or important sequence.",
     "example": "The data was arranged in a significant order to highlight the trends.",
     "example_translation": "Dane zostały uporządkowane w porządku znaczącym, aby podkreślić trendy.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -51,7 +51,7 @@
     "definition": "A number multiplied by itself.",
     "example": "Four squared is sixteen.",
     "example_translation": "Cztery do kwadratu to szesnaście.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\squared.mp3"
   },
   {
@@ -62,7 +62,7 @@
     "definition": "Numbers that are not divisible by two.",
     "example": "One, three, and five are odd numbers.",
     "example_translation": "Jeden, trzy i pięć to liczby nieparzyste.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -73,7 +73,7 @@
     "definition": "Numbers that are divisible by two.",
     "example": "Two, four, and six are even numbers.",
     "example_translation": "Dwa, cztery i sześć to liczby parzyste.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -84,7 +84,7 @@
     "definition": "Numbers greater than one that have no positive divisors other than one and themselves.",
     "example": "Two, three, and five are prime numbers.",
     "example_translation": "Dwa, trzy i pięć to liczby pierwsze.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\prime-numbers.mp3"
   },
   {
@@ -95,7 +95,7 @@
     "definition": "Separated into parts by a specified number.",
     "example": "Fifteen divided by three is five.",
     "example_translation": "Piętnaście podzielone przez trzy to pięć.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\divided-by.mp3"
   },
   {
@@ -106,7 +106,7 @@
     "definition": "Except for; besides.",
     "example": "Apart from the weather, the trip was great.",
     "example_translation": "Poza pogodą, wycieczka była świetna.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -117,7 +117,7 @@
     "definition": "The greatest amount or degree possible.",
     "example": "The maximum temperature today is 30°C.",
     "example_translation": "Maksymalna temperatura dzisiaj to 30°C.",
-    "imageLink": "image_files\\English\\"imageLink": "maximum.jpg",
+    "imageLink": "image_files\\English\\maximum.jpg",
     "audioLink": "audio_files\\English\\maximum.mp3"
   },
   {
@@ -128,7 +128,7 @@
     "definition": "The least or smallest amount or degree possible.",
     "example": "The minimum requirement for this job is a bachelor's degree.",
     "example_translation": "Minimalne wymaganie na to stanowisko to stopień licencjata.",
-    "imageLink": "image_files\\English\\"imageLink": "minimum.jpg",
+    "imageLink": "image_files\\English\\minimum.jpg",
     "audioLink": "audio_files\\English\\minimum.mp3"
   },
   {
@@ -139,7 +139,7 @@
     "definition": "The greatest in amount, degree, or rank.",
     "example": "She reached the highest score in the exam.",
     "example_translation": "Osiągnęła najwyższy wynik na egzaminie.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -150,7 +150,7 @@
     "definition": "The smallest in amount, degree, or rank.",
     "example": "The lowest temperature recorded this winter was -15°C.",
     "example_translation": "Najniższa temperatura zarejestrowana tej zimy to -15°C.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -161,7 +161,7 @@
     "definition": "Nearly correct or exact; close in value but not precise.",
     "example": "The approximate distance between the two cities is 200 miles.",
     "example_translation": "Przybliżona odległość między tymi dwoma miastami wynosi 200 mil.",
-    "imageLink": "image_files\\English\\"imageLink": "approximate.jpg",
+    "imageLink": "image_files\\English\\approximate.jpg",
     "audioLink": "audio_files\\English\\approximate.mp3"
   },
   {
@@ -172,7 +172,7 @@
     "definition": "Not exact but close enough to be useful or reasonable.",
     "example": "Her estimate was roughly correct.",
     "example_translation": "Jej szacunek był z grubsza poprawny.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -183,7 +183,7 @@
     "definition": "Exact, accurate, and careful about details.",
     "example": "We need the precise measurements for the project.",
     "example_translation": "Potrzebujemy dokładnych pomiarów do projektu.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -194,7 +194,7 @@
     "definition": "A number that is completely accurate without approximation.",
     "example": "The exact number of participants was 156.",
     "example_translation": "Dokładna liczba uczestników wynosiła 156.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\exact-number.mp3"
   },
   {
@@ -205,7 +205,7 @@
     "definition": "To collect or gather into a whole.",
     "example": "The data was aggregated to provide an overall view.",
     "example_translation": "Dane zostały zebrane, aby przedstawić ogólny widok.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\aggregate.mp3"
   },
   {
@@ -216,7 +216,7 @@
     "definition": "Obtained by adding together all the numbers in a set.",
     "example": "The final score was reached by totalling a set of numbers from each round.",
     "example_translation": "Ostateczny wynik został osiągnięty przez zsumowanie zestawu liczb z każdej rundy.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -227,7 +227,7 @@
     "definition": "The final amount after all numbers are added together.",
     "example": "The total of the bill was $45.50.",
     "example_translation": "Suma rachunku wyniosła 45,50 $.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -238,7 +238,7 @@
     "definition": "The sum of a set of numbers divided by the count of numbers in the set.",
     "example": "The average score of the class was 75%.",
     "example_translation": "Średni wynik klasy wyniósł 75%.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -249,7 +249,7 @@
     "definition": "Items or records included in a list or register.",
     "example": "All entries must be submitted by the deadline.",
     "example_translation": "Wszystkie wpisy muszą zostać przesłane przed terminem.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -260,7 +260,7 @@
     "definition": "A number that is distinct and separate; an individual entity.",
     "example": "In statistics, discrete numbers are used to represent countable items.",
     "example_translation": "W statystyce liczby dyskretne są używane do reprezentowania policzalnych elementów.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -271,7 +271,7 @@
     "definition": "A single, distinct element or quantity.",
     "example": "The unit of measurement for length is the meter.",
     "example_translation": "Jednostką miary długości jest metr.",
-    "imageLink": "image_files\\English\\"imageLink": "unit.jpg",
+    "imageLink": "image_files\\English\\unit.jpg",
     "audioLink": "audio_files\\English\\unit.mp3"
   },
   {
@@ -282,7 +282,7 @@
     "definition": "A value that does not change.",
     "example": "In mathematics, π (pi) is a constant.",
     "example_translation": "W matematyce π (pi) jest stałą.",
-    "imageLink": "image_files\\English\\"imageLink": "constant.jpg",
+    "imageLink": "image_files\\English\\constant.jpg",
     "audioLink": "audio_files\\English\\constant.mp3"
   },
   {
@@ -293,7 +293,7 @@
     "definition": "An amount or number of something.",
     "example": "The quantity of apples needed for the recipe is five.",
     "example_translation": "Ilość jabłek potrzebna do przepisu to pięć.",
-    "imageLink": "image_files\\English\\"imageLink": "quantity.jpg",
+    "imageLink": "image_files\\English\\quantity.jpg",
     "audioLink": "audio_files\\English\\quantity.mp3"
   },
   {
@@ -304,7 +304,7 @@
     "definition": "Changed or altered, often in a continuous way.",
     "example": "The results varied depending on the conditions.",
     "example_translation": "Wyniki zmieniały się w zależności od warunków.",
-    "imageLink": "image_files\\English\\"imageLink": "varied.jpg",
+    "imageLink": "image_files\\English\\varied.jpg",
     "audioLink": "audio_files\\English\\varied.mp3"
   },
   {
@@ -315,7 +315,7 @@
     "definition": "The total number or quantity of something.",
     "example": "The amount of water in the tank is measured in liters.",
     "example_translation": "Ilość wody w zbiorniku jest mierzona w litrach.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -326,7 +326,7 @@
     "definition": "A number chosen by chance without any specific pattern.",
     "example": "A random number was selected for the lottery draw.",
     "example_translation": "Wylosowano losową liczbę do losowania loterii.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -337,7 +337,7 @@
     "definition": "The term used to refer to a numerical symbol.",
     "example": "The word figure can also mean a shape or form.",
     "example_translation": "Słowo liczba może również oznaczać kształt lub formę.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -348,7 +348,7 @@
     "definition": "To mention or allude to something.",
     "example": "The instructions refer to the previous chapter for more details.",
     "example_translation": "Instrukcje odnoszą się do poprzedniego rozdziału w celu uzyskania dodatkowych informacji.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -359,7 +359,7 @@
     "definition": "To determine a number through mathematical processes.",
     "example": "Calculate a number using the given formula.",
     "example_translation": "Oblicz liczbę za pomocą podanego wzoru.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -370,7 +370,7 @@
     "definition": "To roughly calculate or judge a number.",
     "example": "Estimate a number based on the available data.",
     "example_translation": "Oszać liczbę na podstawie dostępnych danych.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -381,7 +381,7 @@
     "definition": "To adjust a number to the nearest desired value, either higher or lower.",
     "example": "Round the number up to the nearest whole number.",
     "example_translation": "Zaokrąglij liczbę w górę do najbliższej liczby całkowitej.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -392,7 +392,7 @@
     "definition": "To add together all the numbers in a set.",
     "example": "Total a set of numbers to find the overall sum.",
     "example_translation": "Zsumuj zestaw liczb, aby znaleźć sumę całkowitą.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -403,7 +403,7 @@
     "definition": "Numbers can add up or match.",
     "example": "Ensure the numbers can tally before submitting the report.",
     "example_translation": "Upewnij się, że liczby mogą się sumować przed złożeniem raportu.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -414,7 +414,7 @@
     "definition": "Appear to be or give the impression of being.",
     "example": "He seemed to understand the concept well.",
     "example_translation": "Wydawał się dobrze rozumieć koncepcję.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -425,7 +425,7 @@
     "definition": "To subtract or take away an amount from a total.",
     "example": "You can deduct expenses from your income.",
     "example_translation": "Możesz odjąć wydatki od swoich dochodów.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\deduct.mp3"
   },
   {
@@ -436,7 +436,7 @@
     "definition": "The numerical amount, quantity, or range of something.",
     "example": "The values in the dataset vary greatly.",
     "example_translation": "Wartości w zestawie danych różnią się znacznie.",
-    "imageLink": "image_files\\English\\"imageLink": "values.jpg",
+    "imageLink": "image_files\\English\\values.jpg",
     "audioLink": "audio_files\\English\\values.mp3"
   },
   {
@@ -447,7 +447,7 @@
     "definition": "Elements, features, or factors that are liable to vary or change.",
     "example": "In an experiment, variables must be carefully controlled.",
     "example_translation": "W eksperymencie zmienne muszą być starannie kontrolowane.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -458,7 +458,7 @@
     "definition": "The rate or frequency of occurrence of something.",
     "example": "The incidence of flu cases has increased this year.",
     "example_translation": "Częstość występowania przypadków grypy wzrosła w tym roku.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -469,7 +469,7 @@
     "definition": "At short intervals; regularly or habitually.",
     "example": "She frequently travels for work.",
     "example_translation": "Często podróżuje służbowo.",
-    "imageLink": "image_files\\English\\"imageLink": "frequently.jpg",
+    "imageLink": "image_files\\English\\frequently.jpg",
     "audioLink": "audio_files\\English\\frequently.mp3"
   },
   {
@@ -480,7 +480,7 @@
     "definition": "Happens or takes place.",
     "example": "An error occurs when the program fails to run.",
     "example_translation": "Błąd występuje, gdy program nie uruchamia się.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -491,7 +491,7 @@
     "definition": "The great size or extent of something.",
     "example": "The magnitude of the earthquake was 7.0 on the Richter scale.",
     "example_translation": "Wielkość trzęsienia ziemi wynosiła 7,0 w skali Richtera.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\magnitude.mp3"
   },
   {
@@ -502,7 +502,7 @@
     "definition": "A class in a system of classification determined by size or magnitude.",
     "example": "The estimates are within an order of magnitude of each other.",
     "example_translation": "Szacunki mieszczą się w tej samej kolejności wielkości.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\order-of-magnitude.mp3"
   },
   {
@@ -513,7 +513,7 @@
     "definition": "The process of using mathematics to find an answer.",
     "example": "Making calculations is essential in engineering.",
     "example_translation": "Dokonywanie obliczeń jest niezbędne w inżynierii.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -524,7 +524,7 @@
     "definition": "Approximately correct or within a close range.",
     "example": "Your estimate is in the right area.",
     "example_translation": "Twoje oszacowanie jest we właściwym obszarze.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -535,7 +535,7 @@
     "definition": "Recommended or suggested.",
     "example": "You are advised to read the manual carefully.",
     "example_translation": "Zaleca się dokładne przeczytanie instrukcji.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -546,7 +546,7 @@
     "definition": "Display the steps taken to reach a final answer.",
     "example": "Always show the workings in your math homework.",
     "example_translation": "Zawsze pokazuj obliczenia w pracy domowej z matematyki.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -557,7 +557,7 @@
     "definition": "Reached a conclusion or solution.",
     "example": "They arrived at their answer after hours of discussion.",
     "example_translation": "Doszli do odpowiedzi po godzinach dyskusji.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -568,7 +568,7 @@
     "definition": "To determine by calculation.",
     "example": "You need to work out the total cost.",
     "example_translation": "Musisz obliczyć całkowity koszt.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -579,7 +579,7 @@
     "definition": "To make an approximate calculation or judgment.",
     "example": "Try to make a rough guess at the number of attendees.",
     "example_translation": "Spróbuj oszacować liczbę uczestników.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -590,7 +590,7 @@
     "definition": "Adjust a fraction to the nearest whole number either up or down.",
     "example": "Round 3/4 up to 1.",
     "example_translation": "Zaokrąglij 3/4 do 1.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -601,7 +601,7 @@
     "definition": "To sum or calculate the total.",
     "example": "Add up all the expenses to get the total.",
     "example_translation": "Zsumuj wszystkie wydatki, aby uzyskać sumę.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -612,7 +612,7 @@
     "definition": "To correspond or agree with the total.",
     "example": "The numbers on both reports should tally.",
     "example_translation": "Liczby w obu raportach powinny się zgadzać.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -623,7 +623,7 @@
     "definition": "To remove an amount from a total.",
     "example": "Deduct the discount from the total price.",
     "example_translation": "Odejmij rabat od całkowitej ceny.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -634,7 +634,7 @@
     "definition": "An approximate calculation or judgment.",
     "example": "Make a rough guess of how many people will come.",
     "example_translation": "Oszacuj, ile osób przyjdzie.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -645,7 +645,7 @@
     "definition": "Close to or similar in amount or value.",
     "example": "The two estimates are in the right area.",
     "example_translation": "Te dwa szacunki są mniej więcej tyle samo.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -656,7 +656,7 @@
     "definition": "The steps or processes used to arrive at an answer.",
     "example": "Show your workings to explain how you got the answer.",
     "example_translation": "Pokaż swoje działania, aby wyjaśnić, jak doszedłeś do odpowiedzi.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -667,7 +667,7 @@
     "definition": "Adjust the number 6.66 to the nearest whole number.",
     "example": "Round up 6.66 to 7.",
     "example_translation": "Zaokrąglij 6,66 do 7.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": ""
   },
   {
@@ -678,7 +678,7 @@
     "definition": "A long essay on a particular subject, especially one written for a university degree.",
     "example": "She is writing her dissertation on medieval literature.",
     "example_translation": "Pisze swoją rozprawę o literaturze średniowiecznej.",
-    "imageLink": "image_files\\English\\"imageLink": "dissertation.jpg",
+    "imageLink": "image_files\\English\\dissertation.jpg",
     "audioLink": "audio_files\\English\\dissertation.mp3"
   },
   {
@@ -689,7 +689,7 @@
     "definition": "To present or propose something for consideration or judgment.",
     "example": "Please submit your assignment by Friday.",
     "example_translation": "Proszę przesłać swoje zadanie do piątku.",
-    "imageLink": "image_files\\English\\"imageLink": "submit.jpg",
+    "imageLink": "image_files\\English\\submit.jpg",
     "audioLink": "audio_files\\English\\submit.mp3"
   },
   {
@@ -700,7 +700,7 @@
     "definition": "In a way that is clear enough to read.",
     "example": "Please write legibly so the teacher can read your answers.",
     "example_translation": "Proszę pisać czytelnie, aby nauczyciel mógł przeczytać twoje odpowiedzi.",
-    "imageLink": "image_files\\English\\"imageLink": "",
+    "imageLink": "",
     "audioLink": "audio_files\\English\\legibly.mp3"
   },
   {
@@ -711,7 +711,7 @@
     "definition": "To recognize or point out the difference between similar things.",
     "example": "It's important to distinguish between fact and opinion.",
     "example_translation": "Ważne jest, aby rozróżniać fakty od opinii.",
-    "imageLink": "image_files\\English\\"imageLink": "distinguish.jpg",
+    "imageLink": "image_files\\English\\distinguish.jpg",
     "audioLink": "audio_files\\English\\distinguish.mp3"
   }
 ]

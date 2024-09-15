@@ -9,7 +9,7 @@
       "definition_translation": "długi, cienki, beznodny zwierz, który nie ma powiek i ma rozdwojony język",
       "example": "The snake slithered through the grass.",
       "example_translation": "Wąż sunął przez trawę.",
-      "imageLink": "image_files\\English\\"imageLink": "snake.jpg",
+      "imageLink": "image_files\\English\\snake.jpg",
       "audioLink": "audio_files\\English\\snake.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "małe pobieżne zwierzę płazowe",
       "example": "The frog jumped across the pond.",
       "example_translation": "Żaba skoczyła przez staw.",
-      "imageLink": "image_files\\English\\"imageLink": "frog.jpg",
+      "imageLink": "image_files\\English\\frog.jpg",
       "audioLink": "audio_files\\English\\frog.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "wolno poruszający się gad z muszlą, typowo żyjący na lądzie",
       "example": "The tortoise slowly made its way across the desert.",
       "example_translation": "Żółw powoli przesuwał się przez pustynię.",
-      "imageLink": "image_files\\English\\"imageLink": "tortoise.jpg",
+      "imageLink": "image_files\\English\\tortoise.jpg",
       "audioLink": "audio_files\\English\\tortoise.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "gady z pancerzem, którego może się schować w celu ochrony",
       "example": "The turtle swam slowly across the pond.",
       "example_translation": "Żółw pływał powoli przez staw.",
-      "imageLink": "image_files\\English\\"imageLink": "turtle.jpg",
+      "imageLink": "image_files\\English\\turtle.jpg",
       "audioLink": "audio_files\\English\\turtle.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "duży gatunek płaza z długim, okrągłym ryjem i potężnymi szczękami, występujący w środowiskach słodkowodnych w południowych Stanach Zjednoczonych i Chinach.",
       "example": "The alligator was basking in the sun on the riverbank.",
       "example_translation": "Aligator był schlebiony w słońcu na brzegu rzeki.",
-      "imageLink": "image_files\\English\\"imageLink": "alligator.jpg",
+      "imageLink": "image_files\\English\\alligator.jpg",
       "audioLink": "audio_files\\English\\alligator.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "duży wąż występujący w tropikach",
       "example": "The anaconda is a formidable predator.",
       "example_translation": "Anakonda jest groźnym drapieżnikiem.",
-      "imageLink": "image_files\\English\\"imageLink": "anaconda.jpg",
+      "imageLink": "image_files\\English\\anaconda.jpg",
       "audioLink": "audio_files\\English\\anaconda.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "długi, cienki, giętki rurka w kształcie węża, zazwyczaj wykonana z piór lub tkaniny, używana do tańca lub jako dodatek modowy",
       "example": "She swirled her boa around her neck and sashayed onto the stage.",
       "example_translation": "Ona wywinęła boa wokół szyi i powlekła się na scenę.",
-      "imageLink": "image_files\\English\\"imageLink": "boa.jpg",
+      "imageLink": "image_files\\English\\boa.jpg",
       "audioLink": "audio_files\\English\\boa.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "duży gad z długim nosem i potężnymi szczękami, spotykany w regionach tropikalnych i subtropikalnych",
       "example": "The crocodile lay still in the muddy waters of the swamp.",
       "example_translation": "Krokodyl leżał nieruchomo w błotnistych wodach bagien.",
-      "imageLink": "image_files\\English\\"imageLink": "crocodile.jpg",
+      "imageLink": "image_files\\English\\crocodile.jpg",
       "audioLink": "audio_files\\English\\crocodile.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "gatunek reptilii o długim ogonie i czterech nogach, często spotykany w klimacie ciepłym",
       "example": "The lizard basked in the warm sunlight.",
       "example_translation": "Jaszczurka zestawiała się w ciepłych promieniach słonecznych.",
-      "imageLink": "image_files\\English\\"imageLink": "lizard.jpg",
+      "imageLink": "image_files\\English\\lizard.jpg",
       "audioLink": "audio_files\\English\\lizard.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Twarda zewnętrzna powłoka czegoś, np. mięczaka lub czołgu.",
       "example": "The turtle retreated into its shell for protection.",
       "example_translation": "Żółw wycofał się do swojej muszli w celu ochrony.",
-      "imageLink": "image_files\\English\\"imageLink": "shell.jpg",
+      "imageLink": "image_files\\English\\shell.jpg",
       "audioLink": "audio_files\\English\\shell.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "jadowity wąż Ameryki Północnej i Południowej, mający dzwonek na ogonie",
       "example": "The hiker was bitten by a rattlesnake while hiking in the woods.",
       "example_translation": "Wspinacz został ukąszony przez żmiję podczas wędrówki po lesie.",
-      "imageLink": "image_files\\English\\"imageLink": "rattlesnake.jpg",
+      "imageLink": "image_files\\English\\rattlesnake.jpg",
       "audioLink": "audio_files\\English\\rattlesnake.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "zwierzę kręgowe, które ma ochłodzone krwi, skórę łuskowatą i składa jaja, takie jak wąż, jaszczurka lub żółw",
       "example": "The zoo has a large collection of reptiles from around the world.",
       "example_translation": "Zoo ma dużą kolekcję gadów z całego świata.",
-      "imageLink": "image_files\\English\\"imageLink": "reptile.jpg",
+      "imageLink": "image_files\\English\\reptile.jpg",
       "audioLink": "audio_files\\English\\reptile.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "łaczkowaty płaz z ciałem wężowatym i długim ogonem, zwykle spotykany w pobliżu wody.",
       "example": "The salamander crawled slowly across the forest floor.",
       "example_translation": "Salamandra pełzała wolno po lesnym podłożu.",
-      "imageLink": "image_files\\English\\"imageLink": "salamander-1.jpg",
+      "imageLink": "image_files\\English\\salamander-1.jpg",
       "audioLink": "audio_files\\English\\salamander.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "mała larwa wodna żaby lub ropuchy, która przechodzi metamorfozę, aby stać się dorosłą żabą lub ropuchą",
       "example": "The tadpole swam in the pond.",
       "example_translation": "Kijanka pływała w stawie.",
-      "imageLink": "image_files\\English\\"imageLink": "tadpole.jpg",
+      "imageLink": "image_files\\English\\tadpole.jpg",
       "audioLink": "audio_files\\English\\tadpole.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "mały, ogonowy płaz z szorstką skórą",
       "example": "The toad hopped across the garden.",
       "example_translation": "Żaba skoczyła przez ogród.",
-      "imageLink": "image_files\\English\\"imageLink": "toad.jpg",
+      "imageLink": "image_files\\English\\toad.jpg",
       "audioLink": "audio_files\\English\\toad.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Zimnokrwiste zwierzęta, które żyją w wodzie i na lądzie.",
       "example": "The zoo has a wide variety of amphibians from around the world.",
       "example_translation": "Zoo ma szeroką różnorodność płazów z całego świata.",
-      "imageLink": "image_files\\English\\"imageLink": "amphibians.jpg",
+      "imageLink": "image_files\\English\\amphibians.jpg",
       "audioLink": "audio_files\\English\\amphibians.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "typ bez nogowego jaszczura",
       "example": "The blindworm slithered through the grass.",
       "example_translation": "Ślepczyk przeciągał się przez trawę.",
-      "imageLink": "image_files\\English\\"imageLink": "blindworm.jpg",
+      "imageLink": "image_files\\English\\blindworm.jpg",
       "audioLink": "audio_files\\English\\blindworm.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Jaszczurka, która może zmienić kolor, aby zmieszać się z otoczeniem.",
       "example": "The chameleon on the branch was almost invisible.",
       "example_translation": "Kameleon na gałęzi był prawie niewidoczny.",
-      "imageLink": "image_files\\English\\"imageLink": "chameleon.jpg",
+      "imageLink": "image_files\\English\\chameleon.jpg",
       "audioLink": "audio_files\\English\\chameleon.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "jadowita żmija występująca w Afryce i Azji",
       "example": "The cobra raised its head off the ground, ready to strike.",
       "example_translation": "Kobra podniosła głowę nad ziemią, gotowa do uderzenia.",
-      "imageLink": "image_files\\English\\"imageLink": "cobra.jpg",
+      "imageLink": "image_files\\English\\cobra.jpg",
       "audioLink": "audio_files\\English\\cobra.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "niejadowity wąż występujący w Europie i Azji",
       "example": "The grass snake is a protected species in many countries.",
       "example_translation": "Wąż łąkowy jest gatunkiem chronionym w wielu krajach.",
-      "imageLink": "image_files\\English\\"imageLink": "grass-snake.jpg",
+      "imageLink": "image_files\\English\\grass-snake.jpg",
       "audioLink": "audio_files\\English\\grass snake.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "mały półwodny salamandra",
       "example": "The newt crawled out of the pond.",
       "example_translation": "Traszka wpełzła z jeziora.",
-      "imageLink": "image_files\\English\\"imageLink": "newt.jpg",
+      "imageLink": "image_files\\English\\newt.jpg",
       "audioLink": "audio_files\\English\\newt.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "język programowania wysokiego poziomu, interpretowany",
       "example": "I'm learning Python to build a web scraper.",
       "example_translation": "Uczę się pita, aby zbudować parser stron internetowych.",
-      "imageLink": "image_files\\English\\"imageLink": "python.jpg",
+      "imageLink": "image_files\\English\\python.jpg",
       "audioLink": "audio_files\\English\\python.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Typ płaza z żółtymi lub pomarańczowymi plamami.",
       "example": "The spotted salamander was hiding under a rock.",
       "example_translation": "Plamisty salamander ukrywał się pod skałą.",
-      "imageLink": "image_files\\English\\"imageLink": "salamander.jpg",
+      "imageLink": "image_files\\English\\salamander.jpg",
       "audioLink": "audio_files\\English\\spotted salamander.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "typ żaby, która żyje w drzewach",
       "example": "The tree frog was perched on a leaf.",
       "example_translation": "Żaba drzewna siedziała na liściu.",
-      "imageLink": "image_files\\English\\"imageLink": "tree-frog.jpg",
+      "imageLink": "image_files\\English\\tree-frog.jpg",
       "audioLink": "audio_files\\English\\tree frog.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "żmija jadowita, występująca w Europie i Azji, znana ze swojej charakterystycznej trójkątnej głowy i organów czuciowych ciepła",
       "example": "The viper slithered silently through the grass.",
       "example_translation": "Żmija ślizgnęła się cicho przez trawę.",
-      "imageLink": "image_files\\English\\"imageLink": "viper.jpg",
+      "imageLink": "image_files\\English\\viper.jpg",
       "audioLink": "audio_files\\English\\viper.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "mitologiczna istota przedstawiana jako wąż podobny do zwierzęcia żyjącego w wodzie",
       "example": "The ancient civilization worshipped a water serpent as a symbol of fertility.",
       "example_translation": "Starożytna cywilizacja czciła wodnego węża jako symbol płodności.",
-      "imageLink": "image_files\\English\\"imageLink": "water-serpent.jpg",
+      "imageLink": "image_files\\English\\water-serpent.jpg",
       "audioLink": "audio_files\\English\\water serpent.mp3"
     }
   ]
