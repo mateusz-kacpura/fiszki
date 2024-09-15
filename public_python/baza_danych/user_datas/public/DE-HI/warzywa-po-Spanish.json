@@ -9,7 +9,7 @@
       "definition_translation": "यह एक स्टार्च वाली सब्जी है जो जमीन के नीचे विभिन्न आकार और आकार में उगती है, आमतौर पर भूरे या सफेद त्वचा और सफेद मांस के साथ。",
       "example": "Ich kochte die Kartoffel und stampfte sie. Gestern aß ich eine gebackene Kartoffel. Wenn ich Zeit habe, werde ich eine Kartoffel für das Abendessen backen.",
       "example_translation": "मैंने आलू को उबाला और मैश किया। कल मैंने एक आलू को बेक किया था। अगर मुझे समय मिलेगा तो मैं डिनर के लिए आलू को रोस्ट करूँगा।",
-      "imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\potato.jpg",
       "audioLink": "potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "यह एक रसीला लाल या पीला फल है जो बेल पर उगता है, अक्सर खाना पकाने और सलाद में उपयोग किया जाता है।",
       "example": "Ich schnitt die Tomate und fügte sie dem Salat hinzu. Gestern aß ich ein Tomaten-Sandwich. Wenn ich Zeit habe, werde ich Tomaten in meinem Garten anbauen.",
       "example_translation": "मैंने टमाटर को काटा और सलाद में डाल दिया। कल मैंने टमाटर सैंडविच खाया था। अगर मुझे समय मिलेगा तो मैं अपने बगीचे में टमाटर उगाऊँगा।",
-      "imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\tomato.jpg",
       "audioLink": "tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "कहीं भी पौधों या पौधों के हिस्सों का उपयोग खाद्य के रूप में किया जाता है, जैसे पत्तियां, डंठल, जड़, कंद या फल。",
       "example": "Ich liebe es, Gemüse in meinem Salat zu essen. Gestern kochte ich eine Gemüsesuppe. Wenn ich Zeit habe, werde ich einige Gemüse in meinem Garten pflanzen.",
       "example_translation": "मैं सलाद में सब्जियां खाना पसंद करता हूँ। कल मैंने सब्जी सूप पकाया था। अगर मुझे समय मिलेगा तो मैं अपने बगीचे में कुछ सब्जियां लगाऊँगा।",
-      "imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\vegetable.jpg",
       "audioLink": "vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "यह एक छोटा बीज है जो पोद में उगता है और खाने के लिए उपयोग किया जाता है, अक्सर हरा या पीला होता है।",
       "example": "Ich liebe es, Bohnen in meinem Chili zu essen. Gestern kochte ich ein Bohnen-Salat. Wenn ich Zeit habe, werde ich einige Bohnen in meinem Garten pflanzen.",
       "example_translation": "मैं अपने चिली में बीन खाना पसंद करता हूँ। कल मैंने बीन सलाद पकाया था। अगर मुझे समय मिलेगा तो मैं अपने बगीचे में कुछ बीन लगाऊँगा।",
-      "imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\bean.jpg",
       "audioLink": "bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "एक गाजर एक कुरकुरा, मीठा और पौष्टिक जड़ सब्जी है जिसका उपयोग सलाद, स्टू और सूप में आम तौर पर किया जाता है।",
       "example": "Ich aß einen Karottensalat gestern, ich esse ihn jetzt und ich werde ihn morgen wieder essen.",
       "example_translation": "मैंने कल एक गाजर की स्टिक खाई, मैं अभी इसका सेवन कर रहा हूँ, और मैं कल इसका सेवन करूँगा।",
-      "imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\carrot.jpg",
       "audioLink": "carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "एक मिर्च एक मसालेदार, तीखी और स्वादिष्ट फल है जिसका उपयोग व्यंजनों में गरमी और स्वाद जोड़ने के लिए आम तौर पर किया जाता है।",
       "example": "Ich fügte Chili meiner Suppe gestern hinzu, ich füge sie meinem Curry jetzt hinzu und ich werde sie meiner Pastasoße morgen hinzufügen.",
       "example_translation": "मैंने कल अपने सूप में मिर्चें डालीं, मैं अभी अपने करी में मिर्चें डाल रहा हूँ, और मैं कल अपने पास्ता सॉस में मिर्चें डालूँगा।",
-      "imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\chilli.jpg",
       "audioLink": "chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "लहसुन एक तीखी, स्वादिष्ट और सुगंधित बल्ब है जिसका उपयोग व्यंजनों में स्वाद और सुगंध जोड़ने के लिए आम तौर पर किया जाता है।",
       "example": "Ich hackte den Knoblauch gestern, ich dünste ihn jetzt und ich werde ihn morgen backen.",
       "example_translation": "मैंने कल लहसुन को मिंस किया, मैं अब इसे सॉटे कर रहा हूँ, और मैं कल इसे रोस्ट करूँगा।",
-      "imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\garlic.jpg",
       "audioLink": "garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "प्याज एक मीठा, तीखा और स्वादिष्ट बल्ब है जिसका उपयोग व्यंजनों में स्वाद और सुगंध जोड़ने के लिए आम तौर पर किया जाता है।",
       "example": "Ich hackte die Zwiebel gestern, ich karamellisiere sie jetzt und ich werde sie morgen einlegen.",
       "example_translation": "मैंने कल प्याज काटे, मैं अब इन्हें कैरामelize कर रहा हूँ, और मैं कल इन्हें अचार करूँगा।",
-      "imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\onion.jpg",
       "audioLink": "onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "एक हरा सब्जी जो गोभी के समान है, लेकिन छोटे, टाइट बुड्स और एक मजबूत, पृथ्वी के स्वाद है。",
       "example": "Ich aß Brokkoli zum Abendessen gestern, ich esse es zum Mittagessen heute und ich werde es zum Abendessen morgen essen.",
       "example_translation": "मैंने कल रात के डिनर के लिए ब्रोकली खाई, मैं आज दोपहर के लिए इसे खा रहा हूँ, और मैं कल रात के डिनर के लिए इसे खाऊंगा.",
-      "imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\broccoli.jpg",
       "audioLink": "broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "एक हरा, पत्तेदार सब्जी जो अक्सर सलाद और स्लाव में प्रयोग की जाती है, और फाइबर और विटामिन का अच्छा स्रोत है.",
       "example": "Ich zerkleinerte den Kohl und fügte ihn dem Coleslaw hinzu, dann werde ich morgen eine Suppe damit machen.",
       "example_translation": "मैंने पत्ता गोभी को काटा और इसे कोलेस्ला में डाल दिया, फिर मैं कल इसे सूप बनाने जा रहा हूँ.",
-      "imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\cabbage.jpg",
       "audioLink": "cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "एक प्रकार की गर्मी की स्क्वैश जो अक्सर ग्रिल्ड या सोटेड की जाती है और साइड डिश के रूप में परोसी जाती है.",
       "example": "Ich grillte das Zucchini und servierte es mit einem Löffel Joghurt, dann werde ich morgen damit einen Salat machen.",
       "example_translation": "मैंने कुकुम्बर को ग्रिल्ड किया और इसे दही की एक डॉलप के साथ परोसा, फिर मैं कल इसे सलाद बनाने जा रहा हूँ.",
-      "imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\courgette.jpg",
       "audioLink": "courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "एक लंबा, हरा सब्जी जो अक्सर सलाद और सैंडविच में प्रयोग की जाती है, और पानी और इलेक्ट्रोलाइट्स का अच्छा स्रोत है.",
       "example": "Ich schnitt die Gurke und fügte sie meinem Sandwich hinzu, dann werde ich morgen damit einen Saft machen.",
       "example_translation": "मैंने खीरा को स्लाइस किया और इसे मेरे सैंडविच में डाल दिया, फिर मैं कल इसे जूस बनाने जा रहा हूँ.",
-      "imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\cucumber.jpg",
       "audioLink": "cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "लेटस एक प्रकार का पत्तेदार साग है जिसका उपयोग सलाद और दूसरे व्यंजनों में किया जाता है.",
       "example": "Ich aß ein Sandwich mit Lattich gestern, ich esse jetzt einen Salat mit Lattich und ich werde morgen Lattichsuppe essen.",
       "example_translation": "कल मैंने लेटस के साथ सैंडविच खाया, сейчас मैं लेटस के साथ सलाद खा रहा हूँ, और कल मैं लेटस का सूप पियूँगा.",
-      "imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\lettuce.jpg",
       "audioLink": "lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "मटर एक छोटा, हरा, और गोल बीज है जिसका उपयोग पकाने में किया जाता है.",
       "example": "Ich pflanzte Erbsen in meinem Garten letztes Jahr, ich ernte Erbsen jetzt und ich werde morgen Erbsen zum Mittagessen essen.",
       "example_translation": "पिछले साल मैंने अपने बगीचे में मटर लगाये थे, अब मैं मटर की कटाई कर रहा हूँ, और कल मैं मटर अपने दोपहर के भोजन में खाऊँगा.",
-      "imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\pea.jpg",
       "audioLink": "pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "काली मिर्च एक मसला है जिसका उपयोग भोजन में स्वाद जोड़ने के लिए किया जाता है.",
       "example": "Ich fügte Pfeffer zu meiner Suppe hinzu gestern, ich mahl Pfeffer jetzt und ich werde morgen Pfeffer auf meine Eier streuen.",
       "example_translation": "कल मैंने अपने सूप में काली मिर्च डाला था, अब मैं काली मिर्च पीस रहा हूँ, और कल मैं अपने अंडे पर काली मिर्च छिड़कूँगा.",
-      "imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\pepper.jpg",
       "audioLink": "pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "कद्दू एक प्रकार का स्क्वैश है जिसका उपयोग पकाने और सजावट में किया जाता है.",
       "example": "Ich schnitzte einen Kürbis für Halloween letztes Jahr, ich koche jetzt Kürbissuppe und ich werde morgen Kürbiskuchen backen.",
       "example_translation": "पिछले साल मैंने हैलोवीन के लिए-कद्दू तराशा था, अब मैं कद्दू का सूप पका रहा हूँ, और कल मैं कद्दू का पाई बनाऊँगा.",
-      "imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\pumpkin.jpg",
       "audioLink": "pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "पालक एक पत्तेदार हरी सब्जी है जो आयरन और प्रोटीन में समृद्ध है। इसे सलाद, स्मूदी और साइड डिश के रूप में सautéed किया जाता है।",
       "example": "Ich aß Spinat gestern, ich esse jetzt Spinat und ich werde morgen Spinat essen. Gestern kochte meine Mutter Spinat mit Knoblauch und Zitronensaft. Heute fügte ich frischen Spinat meinem Frühstücksomelett hinzu. Morgen werde ich Spinat und Feta gefüllten Hähnchenbrust machen.",
       "example_translation": "मैं कल पालक खाया, मैं अब पालक खा रहा हूँ, और मैं कल पालक खाऊंगा। कल, मेरी माँ ने लहसुन और नींबू के रस के साथ पालक पकाया। आज, मैंने अपने नाश्ते के उत्पाद में ताज़ा पालक जोड़ा। कल, मैं एक पालक और फेटा स्टफ्ड चिकन स्तन बनाऊंगा।",
-      "imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\spinach.jpg",
       "audioLink": "spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "मकई एक प्रकार का मक्का है जिसका उपयोग कच्चे दाने और मक्का के नरम और मीठा होने पर किया जाता है। इसे अक्सर उबला या ग्रिल्ड किया जाता है और मक्खन और नमक से लगाया जाता है।",
       "example": "Ich liebe es, Süßmaise am Stück auf dem Landwirtschaftsfest zu essen. Gestern grillte ich Süßmaise mit Olivenöl und Chilipulver. Heute kochte ich Süßmaise und streute sie mit Butter und Salz. Morgen werde ich einen Salat mit Süßmaise und Avocado machen.",
       "example_translation": "मैं Каун्टी फेयर में कcob पर मकई खाना पसंद करता हूँ। कल, मैंने जैतून के तेल और चिली पाउडर के साथ मकई ग्रिल्ड की। आज, मैंने मकई उबला और मक्खन और नमक से लगाया। कल, मैं एक मकई और अवोकाडो सलाद बनाऊंगा।",
-      "imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\corn.jpg",
       "audioLink": "sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "बैंगन एक प्रकार की बैंगनी सब्जी है जिसका उपयोग अक्सर भूमध्यसागरीय और एशियाई व्यंजन में किया जाता है। इसमें मांस जैसा स्पर्श है और इसे अक्सर व्यंजनों में像是 एगप्लांट पार्मेसन और रतैटूली के रूप में använd'",
       "example": "Ich aß Auberginen-Paradies im italienischen Restaurant letzte Nacht. Gestern verwendete meine Mutter Aubergine in einem Gemüsecurry. Heute grillte ich Aubergine und servierte sie mit Hummus. Morgen werde ich einen Aubergine- und Mozzarellapanini machen.",
       "example_translation": "मैंने इतालवी रेस्टोरेंट में कल रात को बैंगन पार्मेसन खाया। कल, मेरी माँ ने μια सब्जी करी में बैंगन का उपयोग किया। आज, मैंने बैंगन ग्रिल्ड किया और इसे हुम्मस के साथ परोसा। कल, मैं एक बैंगन और मोज़ारेला पनिनी बनाऊंगा।",
-      "imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\aubergine.jpg",
       "audioLink": "aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "फूलगोभी एक प्रकार की सफ़ेद या हरी सब्जी है जिसमें कैलोरी कम होती है और विटामिन और मिनरल अधिक होते हैं। इसे अक्सर सलाद, सूप, और साइड डिश के रूप में सautéed किया जाता है。",
       "example": "Ich liebe es, Blumenkohlreis mit meinem Lieblings-Stir-Fry-Rezept zu essen. Gestern dämpfte ich Blumenkohl mit Knoblauch und Zitronensaft. Heute röstete ich Blumenkohl mit Olivenöl und Salz. Morgen werde ich Blumenkohl- und Käsesuppe machen.",
       "example_translation": "मैं अपने पसंदीदा स्टर-फ्राय रेसिपी के साथ फूलगोभी चावल खाना पसंद करता हूँ। कल, मैंने लहसुन और नींबू के रस के साथ फूलगोभी स्टीम्ड की। आज, मैंने जैतून के तेल और नमक के साथ फूलगोभी रोस्ट्ड की। कल, मैं एक फूलगोभी और चीज़ सूप बनाऊंगा।",
-      "imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\cauliflower.jpg",
       "audioLink": "cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "एक लीक एक सब्जी है जो प्याज परिवार से संबंधित है, हल्का और मीठा स्वाद है, अक्सर सूप, स्टू और सलाद में उपयोग किया जाता है.",
       "example": "Ich dünste den Lauch und Knoblauch an, um eine leckere Suppe zuzubereiten. Gestern schnitt ich den Lauch für den Salat klein. Bis nächste Woche werde ich Lauch in meinem Garten gepflanzt haben.",
       "example_translation": "मैंने लीक और लहसुन को सूप बनाने के लिए भुनाया. कल, मैंने सलाद में लीक जोड़ने के लिए काटा. अगले हफ्ते तक, मैंने अपने बगीचे में लीक लगाए होंगे.",
-      "imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\leek.jpg",
       "audioLink": "leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "अजमोद एक जड़ी है जिसके कर्लेड पत्ते हैं, विभिन्न व्यंजनों में ताज़ा स्वाद जोड़ने या गार्निश के रूप में प्रयोग किया जाता है.",
       "example": "Ich streute Petersilie über den Fisch, um ihm einen frischen Geschmack zu geben. Sie verwendete Petersilie, um eine aromatische Soße zuzubereiten. Bis nächsten Monat werde ich Petersilie in meinem Kräutergarten gepflanzt haben.",
       "example_translation": "मैंने मछली पर ताज़ा स्वाद देने के लिए ऊपर से अजमोद डाला. उसने सॉस बनाने के लिए अजमोद का इस्तेमाल किया. अगले महीने तक, मैंने अपने hrd गार्डन में अजमोद लगाया होगा.",
-      "imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\parsley.jpg",
       "audioLink": "parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "मूली एक जड़ सब्जी है जिसका स्वाद तीखा है, अक्सर सलाद, सूप और अन्य व्यंजनों में कच्चा या पका हुआ खाया जाता है.",
       "example": "Ich aß einen Rettich als Snack, um meinen Geschmack zu reinigen. Sie fügte Rettich zum Salat hinzu, um eine knackige Textur zu erhalten. Bis nächsten Sommer werde ich Rettiche in meinem Garten gezogen haben.",
       "example_translation": "मैंने अपने तालू को साफ करने के लिए मूली को नाश्ते के रूप में खाया. उसने सलाद में क्रंची टेक्सचर के लिए मूली जोड़ा. अगले गर्मियों तक, मैंने अपने बगीचे में मूली उगा होगा.",
-      "imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\radish.jpg",
       "audioLink": "radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "लाल पत्ता गोभी एक प्रकार की गोभी है जिसका स्वाद मीठा और हल्का खट्टा है, अक्सर सलाद, सूप और रंगीन गार्निश के रूप में प्रयोग किया जाता है.",
       "example": "Ich zerkleinerte Rotkohl, um ihn zum Slaw hinzuzufügen. Sie verwendete Rotkohl, um einen bunten Salat zuzubereiten. Bis nächsten Winter werde ich Rotkohl in meinem Gemüsegarten gezogen haben.",
       "example_translation": "मैंने स्लॉ में जोड़ने के लिए लाल पत्ता गोभी को काटा. उसने रंगीन सलाद बनाने के लिए लाल पत्ता गोभी का इस्तेमाल किया. अगले सर्दी तक, मैंने अपने सब्जी बगीचे में लाल पत्ता गोभी उगा होगा.",
-      "imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\red-cabbage.jpg",
       "audioLink": "red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "खाना पकाने में स्वादобав के रूप में उपयोग किया जाने वाला एक युवा प्याज पौधा, जिसका 小म सफ़ेद आधार और हरी पत्तियां होती हैं, जिसका बल्ब नहीं बना है।",
       "example": "Sie fügte einige Frühlingszwiebeln zur Suppe hinzu, um extra Geschmack zu erhalten. Gestern schnitt sie Frühlingszwiebeln für den Salat klein. Bis nächsten Jahr werde ich Frühlingszwiebeln in meinem Garten gepflanzt haben.",
       "example_translation": "उसने सूप में एक्स्ट्रा स्वाद के लिए कुछ प्याज पत्ता-add किए। कल, उसने सलाद के लिए प्याज पत्ता काटा था। अगले साल तक, वह अपने बगीचे में प्याज पत्ता लगाएगी।",
-      "imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\spring-onion.jpg",
       "audioLink": "spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "एक मीठा और पृथ्वी जड़ सब्जी, अक्सर अचार या रोस्टेड और सलाद, सूप, और प्राकृतिक खाद्य रंग के रूप में उपयोग किया जाता है।",
       "example": "Rübe ist eine großartige Zugabe zu jedem Salat. Sie aß Rübensuppe zum Mittagessen gestern. Bis Ende des Monats werden sie die Rübenernte geerntet haben.",
       "example_translation": "चुकंदर किसी भी सलाद में एक अच्छा अतिरिक्त है। उसने कल दोपहर के लिए चुकंदर सूप लिया था। माह के अंत तक, वे चुकंदर फसल काट लेंगे।",
-      "imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\beetroot.jpg",
       "audioLink": "beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "एशिया में पैदा होने वाली एक फलीदार पौधी, जिसके खाने योग्य बीज प्रोटीन और आइसोफ्लेवोन्स में उच्च होते हैं, और विभिन्न खाद्य उत्पादों में उपयोग किया जाता है।",
       "example": "Sojamilch ist ein beliebter Milchersatz. Sie aß Sojakürry zum Abendessen gestern. Bis nächsten Jahr werden sie ein neues Sojaprodukt entwickelt haben.",
       "example_translation": "सोया दूध एक लोकप्रिय डेयरी विकल्प है। उसने कल रात के लिए सोया करी खाई थी। अगले साल तक, वे एक नए सोया-आधारित उत्पाद विकसित कर लेंगे।",
-      "imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\soya-soy.jpg",
       "audioLink": "soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "एक तरह का बीन, जिसका बड़ा, चपटा पोड होता है, अक्सर भूमध्यसागरीय और भारतीय खाना पकाने में उपयोग किया जाता है, जिसका मृदु स्वाद और उच्च पोषण मूल्य होता है।",
       "example": "Breitbohnen sind ein wichtiger Bestandteil vieler mediterraner Gerichte. Sie aß Breitbohnen-Salat zum Mittagessen gestern. Bis Ende der Saison werden sie die Breitbohnen-Ernte geerntet haben.",
       "example_translation": "सेम कई भूमध्यसागरीय व्यंजनों में एक महत्वपूर्ण सामग्री हैं। उसने कल दोपहर के लिए सेम सलाद खाई थी। मौसम के अंत तक, वे सेम फसल काट लेंगे।",
-      "imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\broad-bean.jpg",
       "audioLink": "broad bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "एक हरी सब्जी जो एक लंबे स्टेम पर एक बुंड में उगती है, अक्सर पकाया जाता है और एक साइड डिश के रूप में खाया जाता है.",
       "example": "Ich aß Rosenkohl zum Abendessen gestern, ich werde ihn zum Mittagessen morgen essen und ich aß ihn zum Frühstück gestern.",
       "example_translation": "मैंने कल रात के लिए ब्रसेल्स स्प्राउट खाया, मैं कल दोपहर के लिए उन्हें खाऊंगा, और मैंने कल सुबह उन्हें खाया.",
-      "imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\brussels-sprout.jpg",
       "audioLink": "brussels sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "एक कांटेदार, फूल जैसी सब्जी जिसके खाने योग्य पत्ते और एक सोफ्ट सेंटर हैं, अक्सर एक एपेटाइज़र या साइड डिश के रूप में खाया जाता है.",
       "example": "Ich probierte Artischocken zum ersten Mal bei einem Abendessen, ich werde Artischocken für meine Familie nächste Woche kochen und ich aß Artischocken in einem Restaurant letzten Monat.",
       "example_translation": "मैंने एक डिनर पार्टी में पहली बार आर्टिचोक ट्राय किया, मैंnext सप्ताह अपने परिवार के लिए आर्टिचोक कुक करूंगा, और मैंने पिछले महीने एक रेस्तरां में आर्टिचोक खाया.",
-      "imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\artichoke.jpg",
       "audioLink": "artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "एक हरी सब्जी जिसके लंबे, पतले स्टेम और छोटे, नाजुक फूल हैं, अक्सर एक साइड डिश के रूप में खाया जाता है या सैलेड में डाला जाता है.",
       "example": "Ich liebe es, Spargel mit Butter zu essen, ich werde Spargel für meine Freunde nächstes Wochenende kochen, und ich hatte Spargel in einem Café letzte Woche.",
       "example_translation": "मैं मक्खन के साथ असपारागस खाना पसंद करता हूँ, मैंnext वीकेंड में अपने दोस्तों के लिए असपारागस कुक करूंगा, और मैंने पिछले सप्ताह एक कैफे में असपारागस खाया.",
-      "imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\asparagus.jpg",
       "audioLink": "asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "एक क्रंची, हरी सब्जी जिसका ताजा, हर्बल स्वाद है, अक्सर सैलेड, सूप और एक स्नैक के रूप में प्रयोग किया जाता है.",
       "example": "Ich mag es, Selleriestangen mit Erdnussbutter zu essen, ich werde Sellerie mein Suppenrezept nächstes Mal hinzufügen, und ich hatte Sellerie-Saft in einem Gesundheitsladen gestern.",
       "example_translation": "मैं मूंगफली के मक्खन के साथ सेलरी स्टिक्स खाना पसंद करता हूँ, मैं अगली बार अपने सूप रेसिपी में सेलरी डालूंगा, और मैंने कल एक हेल्थ स्टोर में सेलरी जूस पिया.",
-      "imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\celery.jpg",
       "audioLink": "celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "एक वार्षिक जड़ी बूटी जिसके फूल नीले या सफ़ेद होते हैं, सलाद और कॉफी के स्थानापन्न के रूप में इसके कड़वे पत्ते और जड़ें उगाई जाती हैं।",
       "example": "Sie fügte Zichorie ihrem Kaffee hinzu, um ihm einen einzigartigen Geschmack zu geben. Sie hatte Zichorie in ihrem Salat gestern. Sie wird Zichorie bei ihrem Kochen morgen verwenden.",
       "example_translation": "उसने अपने कॉफी में किकोरी，加 दिया ताकि उसे एक अनोखा स्वाद मिले। उसने कल अपने सलाद में किकोरी डाला था। वह कल अपने खाना पकाने में किकोरी का उपयोग करेगी।",
-      "imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\chicory.jpg",
       "audioLink": "chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "एक वार्षिक जड़ी बूटी जिसका स्वाद प्याज जैसा होता है, सलाद, सूप, और डिप में गार्निश या उपयोग के रूप में इसका उपयोग किया जाता है।",
       "example": "Sie streute Schnittlauch auf ihre gebackene Kartoffel. Er hackte Schnittlauch für den Salat. Sie werden Schnittlauch in ihrer Suppe morgen verwenden.",
       "example_translation": "उसने अपने बेक्ड पटेटो पर चाइव्स छिड़क दिया। उसने सलाद के लिए चाइव्स काटे। वे कल अपने सूप में चाइव्स का उपयोग करेंगे।",
-      "imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\chives.jpg",
       "audioLink": "chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "एक मसालेदार स्वाद वाली जड़ी बूटी जिसके पत्ते कर्ली होते हैं, सलाद, सैंडविच, और गार्निश के रूप में इसका उपयोग किया जाता है।",
       "example": "Sie fügte Kresse ihrem Salat hinzu, um einen frischen Geschmack zu erhalten. Er verwendete Kresse als Garnitur für seine Suppe. Sie werden Kresse in ihrem Garten morgen anbauen.",
       "example_translation": "उसने अपने सलाद में ताजा स्वाद के लिए कресс.add किया। उसने अपने सूप के लिए कресс का उपयोग किया। वे कल अपने बागान में कресс उगाएंगे।",
-      "imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\cress.jpg",
       "audioLink": "cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "एक जड़ी बूटी जिसके पत्ते और बीज सुवासित होते हैं, अचार, सूप, और सलाद में स्वाद के लिए इसका उपयोग किया जाता है।",
       "example": "Sie verwendete Dill, um Gurken einzulegen. Er fügte Dill seiner Suppe hinzu, um Geschmack zu erhalten. Sie werden Dill in ihrem Garten nächste Woche pflanzen.",
       "example_translation": "उसने कल अचार बनाने के लिए सोया का उपयोग किया। उसने अपने सूप में स्वाद के लिए सोया.add किया। वे अगले हफ्ते अपने बागान में सोया लगाएंगे।",
-      "imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\dill.jpg",
       "audioLink": "dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "सौंफ एक बहुवर्षीय जड़ी बूटी है जिसका मूल Địa中 सागर क्षेत्र में है। यह गाजर परिवार का सदस्य है और इसमें हल्का सौंफ का स्वाद है।",
       "example": "Ich fügte einige Fenchelsamen meinem Salat hinzu, um extra Geschmack zu erhalten. Ich trank Fenchel-Tee gestern Morgen. Ich werde Fenchel-Öl bei meinem Kochen morgen verwenden.",
       "example_translation": "मैंने सलाद में अतिरिक्त स्वाद के लिए कुछ सौंफ के बीज डाले। मैंने कल सुबह सौंफ चाय पी। मैं कल अपने खाना पकाने में सौंफ का तेल इस्तेमाल करूँगा।",
-      "imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\fennel.jpg",
       "audioLink": "fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "चुटकी एक जड़ सब्जी है जिसका उपयोग आम तौर पर सॉस के रूप में किया जाता है। इसमें तीखा स्वाद होता है और अक्सर रोस्ट बीफ या डिप के साथ परोसा जाता है।",
       "example": "Ich liebe den scharfen Geschmack von Meerrettich-Sauce. Sie rieb den Meerrettich für die Sauce. Sie werden Meerrettich mit dem Roastbeef servieren.",
       "example_translation": "मैं चुटकी सॉस के मसालेदार स्वाद से प्यार करता हूँ। उसने सॉस के लिए चुटकी को कद्दूकस किया। वे रोस्ट बीफ के साथ चुटकी परोसेंगे।",
-      "imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\horseradish.jpg",
       "audioLink": "horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "केल एक प्रकार की पत्तेदार हरी सब्जी है जिसमें उच्च मात्रा में पोषक तत्व और एंटीऑक्सीडेंट होते हैं। इसका उपयोग सालाद, स्मूदी और सॉटेड डिश में किया जाता है।",
       "example": "Ich fügte einige Grünkohl meinem Smoothie heute Morgen hinzu. Sie säuberte den Grünkohl mit Knoblauch für das Abendessen. Sie werden den Grünkohl nächste Woche ernten.",
       "example_translation": "मैंने आज सुबह अपने स्मूदी में कुछ केल डाला। उसने रात के खाने के लिए लहसुन के साथ केल सौटा दिया। वे अगले सप्ताह केल की फसल करेंगे।",
-      "imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\kale.jpg",
       "audioLink": "kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "दाल एक प्रकार की दलहन है जिसका उपयोग 흔प, स्ट्यू और करी में किया जाता है। इसमें उच्च मात्रा में प्रोटीन और फाइबर होता है और यह लोहे का एक अच्छा स्रोत है।",
       "example": "Ich kochte Linsen für das Abendessen letzte Nacht. Sie fügte Linsen ihrer Suppe hinzu, um extra Protein zu erhalten. Sie werden Linsen in ihrem Curry morgen verwenden.",
       "example_translation": "मैंने कल रात के खाने के लिए दाल पकाई। उसने सूप में प्रोटीन के लिए दाल डाली। वे कल दाल करी में उपयोग करेंगे।",
-      "imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\lentil.jpg",
       "audioLink": "lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "हड्डियों के कावेरूमें एक सॉफ्ट, फैटी टिशू जो रक्त कोशिका उत्पादन के लिए साइट के रूप में कार्य करता है",
       "example": "Der Arzt untersuchte das Knochenmark, um nach eventuellen Anomalien zu suchen. Sie hatte ihr Knochenmark ihrer Schwester gespendet. Sie wird ihr Knochenmark nächstes Jahr spenden.",
       "example_translation": "डॉक्टर ने हड्डी की मज्जा की जाँच की किसी असामान्यता के लिए. उसने अपनी बहन को हड्डी की मज्जा दान की थी. वह अगले साल हड्डी की मज्जा दान करेगी.",
-      "imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\marrow.jpg",
       "audioLink": "marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "एक जड़ सब्जी जिसका टेक्स्चर क्रंची और स्वाद मीठा होता है, अक्सर सूप और स्टू में इस्तेमाल किया जाता है",
       "example": "Sie fügte einer Pastinake extra Geschmack hinzu. Er hatte noch nie Pastinak probiert. Sie werden Pastinaksuppe morgen essen.",
       "example_translation": "उसने स्टू में एक्स्ट्रा फ्लेवर के लिए चукиंडा=add किया. उसने कभी चукиंडा का स्वाद नहीं लिया था. वे चукиंडा सूप कल खाएंगे.",
-      "imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\parsnip.jpg",
       "audioLink": "parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "एक प्रकार की सब्जी जिसका स्वाद खट्टा होता है, अक्सर पाई और टार्ट में इस्तेमाल किया जाता है",
       "example": "Sie benutzte Rhabarber, um einen leckeren Kuchen zu machen. Er liebte das Essen von Rhabarbermarmelade. Sie werden bald Rhabarber in ihrem Garten pflanzen.",
       "example_translation": "उसने पाई बनाने के लिए रासपबेरी का इस्तेमाल किया. उसने रासपबेरी जैम खाना पसंद किया. वे जल्द ही अपने बगीचे में रासपबेरी लगाएंगे.",
-      "imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\rhubarb.jpg",
       "audioLink": "rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "एक प्रकार की जड़ सब्जी, टरनिप के समान, अक्सर सूप और स्टू में इस्तेमाल किया जाता है",
       "example": "Sie fügte eine Rübe extra Geschmack hinzu. Er hatte noch nie Rübe gekocht. Sie werden今Rübensuppe essen.",
       "example_translation": "उसने स्टू में एक्स्ट्रा फ्लेवर के लिए स्वीड add किया. उसने कभी स्वीड नहीं पकाया था. वे आज रात स्वीड सूप खाएंगे.",
-      "imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\swede.jpg",
       "audioLink": "swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "एक प्रकार की जड़ स Sabzi है जिसमें फाइबर और पोषक तत्व अधिक होते हैं, अक्सर इसे पकाकर साइड डिश के रूप में खाया जाता है。",
       "example": "Ich aß eine Süßkartoffel zum Mittagessen gestern, ich werde eine Süßkartoffel zum Abendessen essen und ich hatte eine Süßkartoffel zum Frühstück letzte Woche gegessen.",
       "example_translation": "मैंने कल दोपहर में एक शकरकंद खाया था, मैं आज रात के खाने में एक खाऊंगा, और मैंने पिछले हफ्ते नाश्ते में एक खाया था।",
-      "imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\sweet-potato.jpg",
       "audioLink": "sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "एक मूल जड़ है जिसका सिरा गोल, सफ़ेद या बैंगनी रंग का होता है, अक्सर इसे कच्चा या सूप और स्टीव में पकाकर खाया जाता है。",
       "example": "Ich werde morgen auf dem Markt eine Rübstiele kaufen, ich kaufte gestern eine Rübstiele auf dem Hof und ich hatte letzte Woche eine Rübstiele in der Küche zubereitet.",
       "example_translation": "मैं कल बाज़ार में मूली खरीदूँगा, मैंने कल किसान में मूली निकाली थी, और मैंने पिछले हफ्ते रसोई में मूली निकाली थी।",
-      "imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\turnip.jpg",
       "audioLink": "turnip.mp3"
     }
   ]

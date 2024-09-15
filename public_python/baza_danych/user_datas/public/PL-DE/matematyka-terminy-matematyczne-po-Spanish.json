@@ -9,7 +9,7 @@
       "definition_translation": "Eine numerische Wert oder Menge, die als Ziffer oder Zahl ausgedrückt werden kann, verwendet für die Zählung oder Messung.",
       "example": "Napisałem swój numer telefonu na papierze. Wczoraj zapomniałem swojego numeru hasła. Następnej tygodniu dostęp do szczęśliwego numeru.",
       "example_translation": "Ich schrieb meine Telefonnummer auf das Papier. Gestern, ich vergaß meine Passwortnummer. Nächste Woche, ich werde meine Glückszahl bekommen.",
-      "imageLink": "number.jpg",
+      "imageLink": "image_files\\English\\number.jpg",
       "audioLink": "number.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Eine runde Form mit jedem Punkt auf dem Umfang gleichweit entfernt vom Zentrum.",
       "example": "Narysowałem koło na papierze. Krąg przyjaciół był bardzo pomocny. Koło będzie się rozwijać następnego roku.",
       "example_translation": "Ich zeichnete einen Kreis auf das Papier. Der Kreis der Freunde war sehr unterstützend. Der Kreis wird nächstes Jahr weiter wachsen.",
-      "imageLink": "circle-3.jpg",
+      "imageLink": "image_files\\English\\circle-3.jpg",
       "audioLink": "circle.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ein Viereck mit vier gleichen Seiten und vier rechten Winkeln.",
       "example": "Chodziłem wokół kwadratu w mieście. Kwadratowy pokój był bardzo przestronny. Kwadrat będzie restaurowany następnego miesiąca.",
       "example_translation": "Ich ging um das Quadrat in der Stadt herum. Das quadratische Zimmer war sehr geräumig. Das Quadrat wird nächste Monat renoviert werden.",
-      "imageLink": "square-2.jpg",
+      "imageLink": "image_files\\English\\square-2.jpg",
       "audioLink": "square.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ein massiver, leuchtender Ball aus Gas, der durch seine eigene Schwerkraft zusammengehalten wird.",
       "example": "Zobaczyłem jasną gwiazdę na niebie. Gwiazda filmu była bardzo utalentowana. Gwiazda będzie świecić jasno dzisiaj wieczorem.",
       "example_translation": "Ich sah einen hellen Stern am Himmel. Der Star des Films war sehr talentiert. Der Stern wird heute Nacht hell leuchten.",
-      "imageLink": "star-2.jpg",
+      "imageLink": "image_files\\English\\star-2.jpg",
       "audioLink": "star.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Von einer Seite zur anderen zu bewegen oder sich über etwas zu erstrecken, oder sich mit etwas zu kreuzen.",
       "example": "Przeszedłem przez jezdnię wczoraj, przechodzę przez nią teraz, i przeszedłem przez nią jutro.",
       "example_translation": "Ich überquerte die Straße gestern, ich überquere sie jetzt und ich werde sie morgen überqueren.",
-      "imageLink": "cross-1.jpg",
+      "imageLink": "image_files\\English\\cross-1.jpg",
       "audioLink": "cross.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Eine Einheit der Proportion, gleich einem Hundertstel des Ganzen.",
       "example": "Zysk firmy wzrósł o 10 procent w zeszłym roku, wzrasta o 15 procent w tym roku, i wzrośnie o 20 procent w przyszłym roku.",
       "example_translation": "Der Gewinn des Unternehmens stieg letztes Jahr um 10 Prozent, er steigt in diesem Jahr um 15 Prozent und wird nächstes Jahr um 20 Prozent steigen.",
-      "imageLink": "per-cent.jpg",
+      "imageLink": "image_files\\English\\per-cent.jpg",
       "audioLink": "per cent.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Das Ergebnis des Zusammenzählens von zwei oder mehr Zahlen oder Beträgen.",
       "example": "Sumowałem liczby wczoraj, sumuję je teraz, i będę je sumował jutro.",
       "example_translation": "Ich habe die Zahlen gestern zusammengezählt, ich zähle sie jetzt zusammen und ich werde sie morgen zusammenzählen.",
-      "imageLink": "sum-1.jpg",
+      "imageLink": "image_files\\English\\sum-1.jpg",
       "audioLink": "sum.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Der Vorgang, etwas zu etwas anderem hinzuzufügen, insbesondere in der Mathematik.",
       "example": "Nauczyłem się dodawania w szkole wczoraj, uczę się teraz, i będę się uczył jutro.",
       "example_translation": "Ich habe Addition in der Schule gestern gelernt, ich lerne sie jetzt und ich werde sie morgen lernen.",
-      "imageLink": "addition.jpg",
+      "imageLink": "image_files\\English\\addition.jpg",
       "audioLink": "addition.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Eine Form mit einer kreisförmigen Basis und schrägen Seiten, die sich an einem Punkt treffen.",
       "example": "Użyłem stożka do pomiaru objętości pojemnika. Wczoraj kupiłem stożek w lodziarni. Jutro zrobię stożek z papieru.",
       "example_translation": "Ich verwendete einen Kegel, um das Volumen des Behälters zu messen. Gestern kaufte ich einen Kegel im Eiscreme-Laden. Morgen werde ich einen Kegel aus Papier herstellen.",
-      "imageLink": "cone-1.jpg",
+      "imageLink": "image_files\\English\\cone-1.jpg",
       "audioLink": "cone.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Eine dreidimensionale Form mit sechs quadratischen Flächen von gleich großer Größe.",
       "example": "Zbudowałem szczeb z bloczków. Szczep został obrócony o 90 stopni. Matematyczny problem wymagał znalezienia objętości szczebia.",
       "example_translation": "Ich baute einen Würfel aus Blöcken auf. Der Würfel wurde um 90 Grad gedreht. Das Mathematik-Problem erforderte, dass ich das Volumen des Würfels herausfand.",
-      "imageLink": "cube.jpg",
+      "imageLink": "image_files\\English\\cube.jpg",
       "audioLink": "cube.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Die Länge einer geraden Linie, die durch den Mittelpunkt eines Kreises oder einer Kugel verläuft.",
       "example": "Średnica koła wynosi 10 cali. Lekarz zmierzył średnicę źrenic pacjenta. Średnica rury była zbyt mała.",
       "example_translation": "Der Durchmesser des Kreises beträgt 10 Zoll. Der Arzt maß den Durchmesser der Pupillen des Patienten. Der Durchmesser der Rohrleitung war zu klein.",
-      "imageLink": "diameter.jpg",
+      "imageLink": "image_files\\English\\diameter.jpg",
       "audioLink": "diameter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Eine Form, die einer Ei oder elliptisch geformt ist.",
       "example": "Owalny kształt stadionu pozwolił na więcej miejsc siedzących. Artysta namalował portret królowej w kształcie owalu. Logo firmy zawiera design owalny.",
       "example_translation": "Die ovalförmige Form des Stadions ermöglichte mehr Sitzplätze. Der Künstler malte ein ovales Porträt der Königin. Das Unternehmenlogo enthält ein ovales Design.",
-      "imageLink": "oval.jpg",
+      "imageLink": "image_files\\English\\oval.jpg",
       "audioLink": "oval.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Ein Polygon mit drei Seiten und drei Ecken. Es ist eine selbstenthaltene Form mit drei geraden Seiten, wobei die Summe der inneren Winkel immer 180 Grad beträgt.",
       "example": "Architekt zaprojektował budynek w kształcie trójkąta. Wczoraj ona zmierzyła boki trójkąta, aby upewnić się, że są równe. Do następnego roku budynek w kształcie trójkąta będzie gotowy.",
       "example_translation": "Der Architekt entwarf das Gebäude in Form eines Dreiecks. Gestern maß sie die Seiten des Dreiecks, um sicherzustellen, dass sie gleich waren. Bis nächstem Jahr wird das dreieckförmige Gebäude fertiggestellt sein.",
-      "imageLink": "triangle-1.jpg",
+      "imageLink": "image_files\\English\\triangle-1.jpg",
       "audioLink": "triangle.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Der Raum oder die Form, die durch zwei Linien oder Ebenen, die sich treffen, gebildet wird. Es ist ein Maß für die Menge der Rotation zwischen zwei Linien oder Ebenen.",
       "example": "Cieśla zmierzył kąt dachu, aby upewnić się, że jest on bezpieczny. Sportowiec musiał dostosować swój kąt, aby skoczyć wyżej. Do następnego tygodnia inżynier będzie miał obliczone dokładny kąt mostu.",
       "example_translation": "Der Zimmermann maß den Winkel des Daches, um sicherzustellen, dass es sicher war. Die Athletin musste ihren Winkel anpassen, um höher springen zu können. Bis nächster Woche wird der Ingenieur den exakten Winkel der Brücke berechnet haben.",
-      "imageLink": "angle.jpg",
+      "imageLink": "image_files\\English\\angle.jpg",
       "audioLink": "angle.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Ein Polyeder mit einer quadratischen Basis und vier dreieckigen Seiten, die am Apex zusammenkommen. Es ist eine Struktur mit einer breiten Basis und sich verjüngenden Seiten.",
       "example": "Starożytni Egipcjanie zbudowali piramidę Gizy jako grobowiec dla swego faraona. Struktura organizacyjna firmy przypomina piramidę. Do następnego miesiąca zespół będzie miał zbudowaną monument w kształcie piramidy.",
       "example_translation": "Die alten Ägypter bauten die Pyramide von Giza als Grab für ihren Pharao. Die Organisationsstruktur des Unternehmens ähnelt einer Pyramide. Bis nächstem Monat wird das Team ein pyramidförmiges Denkmal errichtet haben.",
-      "imageLink": "pyramid.jpg",
+      "imageLink": "image_files\\English\\pyramid.jpg",
       "audioLink": "pyramid.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Ein Viereck mit vier rechten Winkeln und vier Seiten von gleicher Länge. Es ist eine Form mit gegenüberliegenden Seiten von gleicher Länge.",
       "example": "Artysta narysował prostokąt, aby oprawić swój obraz. Rolnik ogrodził prostokątną pole, aby uprawiać ziemię. Do następnego roku firma będzie miała zaprojektowany budynek w kształcie prostokąta.",
       "example_translation": "Die Künstlerin zeichnete ein Rechteck, um ihr Gemälde zu rahmen. Der Bauer umzäunte ein rechteckförmiges Feld, um Getreide anzubauen. Bis nächstem Jahr wird das Unternehmen ein rechteckförmiges Gebäude entworfen haben.",
-      "imageLink": "rectangle.jpg",
+      "imageLink": "image_files\\English\\rectangle.jpg",
       "audioLink": "rectangle.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Etwas in einer bestimmten Position oder Lage zu setzen, zu legen oder zu stellen.",
       "example": "Postawiłem książkę na stole. Ustawiam teraz timer. Ustawię alarm zegarowy jutro.",
       "example_translation": "Ich stelle das Buch auf den Tisch. Ich stelle jetzt den Timer ein. Ich werde morgen den Wecker stellen.",
-      "imageLink": "set-4.jpg",
+      "imageLink": "image_files\\English\\set-4.jpg",
       "audioLink": "set.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Ein Symbol oder Wert, der sich ändern oder variieren kann.",
       "example": "Zmienna x jest używana w równaniu. Zmienna stopa procentowa wpływa na pożyczkę. Zmienna prognoza pogody jest zawsze niepewna.",
       "example_translation": "Die Variable x wird in der Gleichung verwendet. Der variabel Zinssatz beeinflusst das Darlehen. Die.variable Wettervorhersage ist immer ungewiss.",
-      "imageLink": "variable.jpg",
+      "imageLink": "image_files\\English\\variable.jpg",
       "audioLink": "variable.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Ein Winkel, dessen Maß weniger als 90 Grad beträgt.",
       "example": "Kąt ostry trójkąta wynosi 45 stopni. Architekt zaprojektował budynek z kątami ostrymi. Chirurg wykonał cięcie z kątem ostrym.",
       "example_translation": "Der spitze Winkel des Dreiecks beträgt 45 Grad. Der Architekt entwarf das Gebäude mit spitzen Winkeln. Der Chirurg machte einen spitzen Einschnitt.",
-      "imageLink": "acute-angle.jpg",
+      "imageLink": "image_files\\English\\acute-angle.jpg",
       "audioLink": "acute angle.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Eine Linie, die als Referenz für das Messen oder Plotten von Punkten in einem Koordinatensystem dient.",
       "example": "Oś współrzędnych jest niezbędna do kreślenia. Oś x i oś y tworzą płaszczyznę współrzędnych. Oś współrzędnych pomaga w lokalizacji punktów.",
       "example_translation": "Die Koordinatenachse ist für das Graphenzeichnen essentiell. Die x-Achse und y-Achse bilden eine Koordinatenebene. Die Koordinatenachse hilft bei der Lokalisierung von Punkten.",
-      "imageLink": "axis-of-coordinates.jpg",
+      "imageLink": "image_files\\English\\axis-of-coordinates.jpg",
       "audioLink": "axis of coordinates.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Eine Kardinalzahl ist eine Zahl, die die Größe einer Menge angibt, wie eins, zwei oder drei.",
       "example": "Liczba cardinalna zestawu to trzy. Wczoraj liczba cardinalna zestawu była dwie. Jutro liczba cardinalna zestawu będzie cztery.",
       "example_translation": "Die Kardinalzahl der Menge ist drei. Gestern war die Kardinalzahl der Menge zwei. Morgen wird die Kardinalzahl der Menge vier sein.",
-      "imageLink": "cardinal-number.jpg",
+      "imageLink": "image_files\\English\\cardinal-number.jpg",
       "audioLink": "cardinal number.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Der Umfang ist der Abstand um einen Kreis oder eine andere Form.",
       "example": "Obwód koła to 10 cali. Wczoraj obwód koła był 8 cali. Jutro obwód koła będzie 12 cali.",
       "example_translation": "Der Umfang des Kreises beträgt 10 Zoll. Gestern betrug der Umfang des Kreises 8 Zoll. Morgen wird der Umfang des Kreises 12 Zoll betragen.",
-      "imageLink": "circumference.jpg",
+      "imageLink": "image_files\\English\\circumference.jpg",
       "audioLink": "circumference.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Ein Koeffizient ist ein numerischer Wert, der verwendet wird, um eine Variable in einem algebraischen Ausdruck zu multiplizieren.",
       "example": "Współczynnik x w równaniu jest 2. Wczoraj współczynnik x w równaniu był 3. Jutro współczynnik x w równaniu będzie 4.",
       "example_translation": "Der Koeffizient von x in der Gleichung ist 2. Gestern war der Koeffizient von x in der Gleichung 3. Morgen wird der Koeffizient von x in der Gleichung 4 sein.",
-      "imageLink": "coefficient.jpg",
+      "imageLink": "image_files\\English\\coefficient.jpg",
       "audioLink": "coefficient.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Zirkel sind ein handheld Instrument, das verwendet wird, um Kreise und Bögen zu zeichnen.",
       "example": "Użyłem kompasu, aby narysować koło. Wczoraj użyłem kompasu, aby narysować łuk. Jutro będę używał kompasu, aby narysować koło.",
       "example_translation": "Ich verwendete Zirkel, um einen Kreis zu zeichnen. Gestern verwendete ich Zirkel, um einen Bogen zu zeichnen. Morgen werde ich Zirkel verwenden, um einen Kreis zu zeichnen.",
-      "imageLink": "compasses.jpg",
+      "imageLink": "image_files\\English\\compasses.jpg",
       "audioLink": "compasses.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Ein Vollwinkel ist ein Winkel, der 360 Grad misst, eine vollständige Rotation um einen Kreis.",
       "example": "Kąt pełny koła to 360 stopni. Wczoraj ukończyłem kąt pełny 360 stopni. Jutro ukończę kąt pełny 360 stopni.",
       "example_translation": "Der Vollwinkel eines Kreises beträgt 360 Grad. Ich habe gestern einen Winkel von 360 Grad komplettiert. Ich werde morgen einen Winkel von 360 Grad komplettieren.",
-      "imageLink": "complete-angle.jpg",
+      "imageLink": "image_files\\English\\complete-angle.jpg",
       "audioLink": "complete angle.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Ein Koordinatensystem ist ein System, das es uns ermöglicht, Punkte im Raum mit Hilfe eines Satzes von Koordinaten oder Achsen zu lokalisieren.",
       "example": "System współrzędnych jest używany do lokalizacji punktów w przestrzeni. Wczoraj użyłem systemu współrzędnych, aby nawigować. Jutro będę używał systemu współrzędnych, aby nawigować.",
       "example_translation": "Das Koordinatensystem wird verwendet, um Punkte im Raum zu lokalisieren. Ich habe gestern ein Koordinatensystem zur Navigation verwendet. Ich werde morgen ein Koordinatensystem zur Navigation verwenden.",
-      "imageLink": "coordinate-system.jpg",
+      "imageLink": "image_files\\English\\coordinate-system.jpg",
       "audioLink": "coordinate system.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Die Wurzel aus drei einer Zahl ist ein Wert, der, wenn er dreimal mit sich selbst multipliziert wird, die ursprüngliche Zahl ergibt.",
       "example": "Pierwiastek sześcienny 27 to 3. Wczoraj znalazłem pierwiastek sześcienny 27. Jutro znajdę pierwiastek sześcienny 27.",
       "example_translation": "Die Wurzel aus drei von 27 ist 3. Ich habe gestern die Wurzel aus drei von 27 gefunden. Ich werde morgen die Wurzel aus drei von 27 finden.",
-      "imageLink": "cube-root.jpg",
+      "imageLink": "image_files\\English\\cube-root.jpg",
       "audioLink": "cube root.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Ein Quader ist eine dreidimensionale feste Form mit sechs rechteckigen Flächen von gleicher Länge, Breite und Höhe.",
       "example": "Prostopadłościan ma sześć prostokątnych ścian. Wczoraj zbudowałem prostopadłościan. Jutro zbuduję prostopadłościan.",
       "example_translation": "Der Quader hat sechs rechteckige Flächen. Ich habe gestern einen Quader gebaut. Ich werde morgen einen Quader bauen.",
-      "imageLink": "cuboid.jpg",
+      "imageLink": "image_files\\English\\cuboid.jpg",
       "audioLink": "cuboid.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Ein Zylinder ist eine dreidimensionale feste Form mit zwei parallelen und kreisförmigen Basen, die durch eine gekrümmte Seitenfläche verbunden sind.",
       "example": "Wczoraj zobaczyłem walec w laboratorium chemicznym. Dziś używam walca, aby mieszać chemikalia. Jutro będę używał walca, aby zmierzyć objętość gazu.",
       "example_translation": "Gestern sah ich einen Zylinder im Chemielabor. Heute verwende ich einen Zylinder, um Chemikalien zu mischen. Morgen werde ich einen Zylinder verwenden, um das Volumen eines Gases zu messen.",
-      "imageLink": "cylinder.jpg",
+      "imageLink": "image_files\\English\\cylinder.jpg",
       "audioLink": "cylinder.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Eine Dezimalzahl ist eine Zahl, die in einem Dezimalsystem ausgedrückt wird, welches ein Stellenwertsystem mit Basis 10 ist, das Ziffern von 0 bis 9 verwendet, um Zahlen darzustellen.",
       "example": "Przekonwertowałem ułamek na liczbę dziesiętną, aby ułatwić obliczenia. Wczoraj nauczyłem się, jak dodawać liczby dziesiętne. Jutro będę ćwiczyć konwersję liczb dziesiętnych na ułamki.",
       "example_translation": "Ich konvertierte die Bruchzahl in eine Dezimalzahl, um die Berechnung zu erleichtern. Gestern lernte ich, wie man Dezimalzahlen addiert. Morgen werde ich üben, Dezimalzahlen in Bruchzahlen umzuwandeln.",
-      "imageLink": "decimal.jpg",
+      "imageLink": "image_files\\English\\decimal.jpg",
       "audioLink": "decimal.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Eine Differentialgleichung ist eine mathematische Gleichung, die eine unbekannte Funktion und ihre Ableitungen enthält und die Werte der Funktion und ihrer Ableitungen an verschiedenen Punkten im Raum und/oder in der Zeit verknüpft.",
       "example": "Rozwiązałem równanie różniczkowe, aby znaleźć prędkość obiektu. Wczoraj, nauczyłem się, jak rozdzielić zmienne w równaniu różniczkowym. Jutro, będę ćwiczyć rozwiązywanie równań różniczkowych za pomocą metod numerycznych.",
       "example_translation": "Ich löste die Differentialgleichung, um die Geschwindigkeit des Objekts zu finden. Gestern lernte ich, wie man Variablen in einer Differentialgleichung trennt. Morgen werde ich üben, Differentialgleichungen mit numerischen Methoden zu lösen.",
-      "imageLink": "differential-equation.jpg",
+      "imageLink": "image_files\\English\\differential-equation.jpg",
       "audioLink": "differential equation.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Eine Ziffer ist ein Symbol oder Zeichen, das verwendet wird, um eine Zahl in einem numerischen System darzustellen, wie zum Beispiel 0-9 im Dezimalsystem.",
       "example": "Wpisałem cyfrę 5 do kalkulatora. Wczoraj, nauczyłem się o ważności cyfr w programowaniu komputerowym. Jutro, będę ćwiczyć konwersję cyfr na słowa.",
       "example_translation": "Ich gab die Ziffer 5 in den Taschenrechner ein. Gestern lernte ich über die Bedeutung von Ziffern in der Computer-Programmierung. Morgen werde ich üben, Ziffern in Wörter umzuwandeln.",
-      "imageLink": "digit.jpg",
+      "imageLink": "image_files\\English\\digit.jpg",
       "audioLink": "digit.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Ein Anteil am Gewinn, der an die Aktionäre verteilt wird.",
       "example": "Spółka wypłaci dywidendę swoim akcjonariuszom w następnym kwartale.",
       "example_translation": "Das Unternehmen wird nächstes Quartal eine Dividende an seine Aktionäre zahlen.",
-      "imageLink": "divident.jpg",
+      "imageLink": "image_files\\English\\divident.jpg",
       "audioLink": "divident.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Die Handlung des Teilens oder Aufteilens von etwas.",
       "example": "Spółka ogłosiła duży podział swoich aktywów w zeszłym roku. Wczoraj, podzieliliśmy zadania między członków zespołu. Jutro, będziemy dzielić obciążenie pracy bardziej efektywnie.",
       "example_translation": "Das Unternehmen kündigte vor letztem Jahr eine große Teilung seiner Vermögenswerte an. Gestern haben wir die Aufgaben unter den Teammitgliedern aufgeteilt. Morgen werden wir die Arbeitsbelastung effizienter aufteilen.",
-      "imageLink": "division.jpg",
+      "imageLink": "image_files\\English\\division.jpg",
       "audioLink": "division.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Eine Zahl, durch die eine andere Zahl geteilt wird.",
       "example": "Dzielnik 10 to 2, ponieważ 10 podzielone przez 2 jest równe 5. Wczoraj, użyliśmy innego dzielnika, aby obliczyć wynik. Jutro, będziemy szukać dzielnika równania.",
       "example_translation": "Der Teiler von 10 ist 2, weil 10 durch 2 gleich 5 ist. Gestern haben wir einen anderen Teiler verwendet, um das Ergebnis zu berechnen. Morgen werden wir den Teiler der Gleichung finden.",
-      "imageLink": "divisor.jpg",
+      "imageLink": "image_files\\English\\divisor.jpg",
       "audioLink": "divisor.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Eine mathematische Notation, die angibt, um welche Potenz eine Zahl erhöht werden soll.",
       "example": "Eksponent 2 w wyrażeniu 2^3 to 3. Wczoraj, obliczyliśmy potęgę liczby. Jutro, będziemy podnosić liczbę do potęgi 4.",
       "example_translation": "Der Exponent von 2 im Ausdruck 2^3 ist 3. Gestern haben wir die Potenz der Zahl berechnet. Morgen werden wir die Zahl um die Potenz 4 erhöhen.",
-      "imageLink": "exponent-power.jpg",
+      "imageLink": "image_files\\English\\exponent-power.jpg",
       "audioLink": "exponent, power.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Ein Bruch ist eine Möglichkeit, einen Teil eines Ganzen als Quotient zweier Größen auszudrücken, wobei die obere Zahl angibt, wie viele gleiche Teile wir haben, und die untere Zahl angibt, in wie viele Teile das Ganze geteilt wird.",
       "example": "W klasie matematyki, nauczyliśmy się dodawać ułamki, potem będziemy od nich odejmować, a w końcu – mnożyć i dzielić.",
       "example_translation": "Im Mathe-Unterricht lernten wir, wie man Brüche addiert, dann werden wir lernen, wie man sie subtrahiert, und schließlich lernten wir, wie man sie multipliziert und dividiert.",
-      "imageLink": "fraction.jpg",
+      "imageLink": "image_files\\English\\fraction.jpg",
       "audioLink": "fraction.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Eine Funktion ist eine Beziehung zwischen einer Menge von Eingaben, die als Definitionsbereich bezeichnet wird, und einer Menge von möglichen Ausgaben, die als Wertebereich bezeichnet wird, bei der jede Eingabe genau einem Ausgabe entspricht.",
       "example": "Funkcja f(x) = 2x + 3 została użyta do modelowania wzrostu populacji, ale nie uwzględniała czynników środowiskowych, więc musieliśmy zdefiniować funkcję ponownie, aby uwzględnić te zmienne.",
       "example_translation": "Die Funktion f(x) = 2x + 3 wurde verwendet, um das Wachstum einer Population zu modellieren, aber sie nahm nicht die Umweltfaktoren mit ein, daher mussten wir die Funktion neu definieren, um diese Variablen einzuschließen.",
-      "imageLink": "function.jpg",
+      "imageLink": "image_files\\English\\function.jpg",
       "audioLink": "function.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Eine Hemisphäre ist eine Hälfte einer Kugel, entweder die nördliche oder südliche Hälfte der Erde oder eine Hälfte eines Himmelskörpers, wie zum Beispiel des Mondes.",
       "example": "Półkula północna Ziemi doświadcza zimy, gdy jest zwrócona od Słońca, a półkula południowa doświadcza lata, gdy jest zwrócona w stronę Słońca.",
       "example_translation": "Die nördliche Hemisphäre der Erde erfährt Winter, wenn sie von der Sonne weg geneigt ist, und die südliche Hemisphäre erfährt Sommer, wenn sie zur Sonne hin geneigt ist.",
-      "imageLink": "hemisphere.jpg",
+      "imageLink": "image_files\\English\\hemisphere.jpg",
       "audioLink": "hemisphere.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Ein Siebeneck ist ein Polygon mit sieben Seiten, das entweder konvex oder konkav sein kann und entweder regelmäßig oder unregelmäßig sein kann.",
       "example": "Heptagon w parku był popularnym miejscem piknikowym, a dzieci lubiły biegać wokół jego nieregularnego kształtu.",
       "example_translation": "Das Siebeneck im Park war ein beliebter Platz für Picknicks, und die Kinder liebten es, um seine unregelmäßige Form herumzulaufen.",
-      "imageLink": "heptagon.jpg",
+      "imageLink": "image_files\\English\\heptagon.jpg",
       "audioLink": "heptagon.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Ein Hexagon ist ein Polygon mit sechs Seiten und sechs Ecken, wo alle internen Winkel gleich 120 Grad sind.",
       "example": "Architekt zaprojektował patio w kształcie heksagonu, i zostało ukończone w zeszłym roku. Teraz jest używane na imprezy na świeżym powietrzu, a w przyszłym roku będzie rozszerzane.",
       "example_translation": "Der Architekt entwarf einen hexagonalen Patio, und es wurde letzten Jahr fertiggestellt. Jetzt wird es für Außenveranstaltungen genutzt, und nächstes Jahr wird es erweitert.",
-      "imageLink": "hexagon.jpg",
+      "imageLink": "image_files\\English\\hexagon.jpg",
       "audioLink": "hexagon.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Unendlichkeit ist ein Konzept, das verwendet wird, um etwas zu beschreiben, das kein Ende oder keine Grenze hat, sich in alle Richtungen ins Unendliche erstreckt.",
       "example": "Matematyk studiowała koncepcję nieskończoności, i ona wierzyła, że miała wiele zastosowań w nowoczesnej fizyce. Teraz pracuje nad nową teorią, a wkrótce będzie opublikowana.",
       "example_translation": "Die Mathematikerin studierte das Konzept der Unendlichkeit, und sie glaubte, dass es viele Anwendungen in der modernen Physik hatte. Jetzt arbeitet sie an einer neuen Theorie, und bald wird sie veröffentlicht.",
-      "imageLink": "infinity.jpg",
+      "imageLink": "image_files\\English\\infinity.jpg",
       "audioLink": "infinity.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Eine ganze Zahl ist eine ganze Zahl, entweder positiv, negativ oder null, ohne einen Bruchteil.",
       "example": "Programista użył zmiennej liczbowej całkowitej, aby przechować wiek użytkownika, i był inkrementowany o jeden każdego roku. Teraz jest używany do obliczania daty urodzin użytkownika, a w przyszłym roku będzie używany do wysyłania powiadomień.",
       "example_translation": "Der Programmierer verwendete eine ganze Variable, um das Alter des Benutzers zu speichern, und es wurde jedes Jahr um eins erhöht. Jetzt wird es verwendet, um den Geburtstag des Benutzers zu berechnen, und nächstes Jahr wird es verwendet, um eine Benachrichtigung zu senden.",
-      "imageLink": "integer.jpg",
+      "imageLink": "image_files\\English\\integer.jpg",
       "audioLink": "integer.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Ein Integral ist ein mathematisches Konzept, das verwendet wird, um die Kumulation einer Funktion über ein gegebenes Intervall zu beschreiben, um den Flächeninhalt unter Kurven zu finden.",
       "example": "Fizyk użył całki, aby obliczyć pole pod krzywą grafu prędkości, i było to bardzo blisko wyników eksperymentalnych. Teraz używa całki, aby modelować ruch pocisku, a wkrótce będzie stosowane do rozwiązywania problemów z życia codziennego.",
       "example_translation": "Der Physiker verwendete das Integral, um den Flächeninhalt unter der Kurve des Geschwindigkeitsgraphen zu berechnen, und es war sehr nah an den experimentellen Ergebnissen. Jetzt verwendet er es, um die Bewegung eines Projektils zu modellieren, und bald wird es auf reale Weltprobleme angewendet.",
-      "imageLink": "integral.jpg",
+      "imageLink": "image_files\\English\\integral.jpg",
       "audioLink": "integral.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Eine reelle Zahl, die nicht als Verhältnis von zwei ganzen Zahlen ausgedrückt werden kann, wie Pi oder die Wurzel aus 2.",
       "example": "Starożytni Grecy odkryli, że pierwiastek kwadratowy z 2 jest liczbą niewymierną. Dziś używamy liczb niewymiernych w wielu obliczeniach matematycznych. W przyszłości możemy odkryć nowe liczby niewymiernych.",
       "example_translation": "Die alten Griechen entdeckten, dass die Wurzel aus 2 eine irrationale Zahl ist. Heute verwenden wir irrationale Zahlen in vielen mathematischen Berechnungen. In Zukunft werden wir vielleicht neue irrationale Zahlen entdecken.",
-      "imageLink": "irrational-number.jpg",
+      "imageLink": "image_files\\English\\irrational-number.jpg",
       "audioLink": "irrational number.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Ein Teil einer Linie, der durch zwei verschiedene Punkte, genannt Endpunkte, begrenzt ist.",
       "example": "W geometrii odcinek jest pojęciem podstawowym. Nauczyciel narysował odcinek na tablicy. Do następnej lekcji uczniowie będą umieli obliczyć długość odcinka.",
       "example_translation": "In der Geometrie ist ein Streckenabschnitt ein grundlegendes Konzept. Der Lehrer zeichnete einen Streckenabschnitt an die Tafel. Bis zur nächsten Lektion haben die Schüler gelernt, die Länge eines Streckenabschnitts zu berechnen.",
-      "imageLink": "line-segment.jpg",
+      "imageLink": "image_files\\English\\line-segment.jpg",
       "audioLink": "line segment.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Die Potenz, auf die eine Basiszahl erhöht werden muss, um einen bestimmten Wert zu erzeugen, wird in der Mathematik und Physik verwendet.",
       "example": "Logarytm z 100 z bazą 10 jest równy 2. W przeszłości logarytmy były używane do obliczeń. Dziś używamy logarytmów w zaawansowanych konceptach matematycznych, takich jak rachunek różniczkowy. W przyszłości logarytmy będzie odgrywać kluczową rolę w analizie danych.",
       "example_translation": "Der Logarithmus von 100 mit Basis 10 ist 2. In der Vergangenheit wurden Logarithmen für Berechnungen verwendet. Heute verwenden wir Logarithmen in fortgeschrittenen mathematischen Konzepten, wie der Analysis. In Zukunft werden Logarithmen in der Datenanalyse eine entscheidende Rolle spielen.",
-      "imageLink": "logarithm.jpg",
+      "imageLink": "image_files\\English\\logarithm.jpg",
       "audioLink": "logarithm.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Die Operation, zwei oder mehr Zahlen zu kombinieren, um ein Produkt zu erhalten, wie 2 multipliziert mit 3 ergibt 6.",
       "example": "Mnożenie jest niezbędnym umiejętnością w szkole podstawowej. Wczoraj ćwiczyłem tablicę mnożenia. Do końca roku będę opanował mnożenie ułamków.",
       "example_translation": "Die Multiplikation ist eine wesentliche Fähigkeit in der Grundschule. Gestern übte ich Multiplikationstabellen. Bis zum Ende des Jahres werde ich die Multiplikation von Brüchen beherrscht haben.",
-      "imageLink": "multiplication.jpg",
+      "imageLink": "image_files\\English\\multiplication.jpg",
       "audioLink": "multiplication.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Eine natürliche Zahl ist eine ganze Zahl, die größer als null ist und keine Dezimalstellen hat.",
       "example": "Liczby naturalne 1, 2 i 3 są używane do liczenia obiektów. Wczoraj policzyłem 5 jabłek. Dziś policzę 10 piłek, a jutro policzę 20 zabawek.",
       "example_translation": "Die natürlichen Zahlen 1, 2 und 3 werden verwendet, um Objekte zu zählen. Gestern habe ich 5 Äpfel gezählt. Heute werde ich 10 Bälle zählen und morgen werde ich 20 Spielzeuge zählen.",
-      "imageLink": "natural-number.jpg",
+      "imageLink": "image_files\\English\\natural-number.jpg",
       "audioLink": "natural number.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Ein Zahlenstrahl ist eine visuelle Darstellung von Zahlen auf einer Linie, die verwendet wird, um Beziehungen zwischen Zahlen und Operationen zu demonstrieren.",
       "example": "Nauczyciel narysował oś liczbowych na tablicy, aby zilustrować koncepcję dodawania. W zeszłym tygodniu użyliśmy osi liczbowych do rozwiązywania problemów odejmowania. W przyszłym tygodniu będziemy używać osi liczbowych, aby nauczyć się mnożenia.",
       "example_translation": "Der Lehrer hat einen Zahlenstrahl an die Tafel gezeichnet, um das Konzept der Addition zu veranschaulichen. Letzte Woche haben wir einen Zahlenstrahl verwendet, um Subtraktionsprobleme zu lösen. Nächste Woche werden wir einen Zahlenstrahl verwenden, um die Multiplikation zu erlernen.",
-      "imageLink": "number-line.jpg",
+      "imageLink": "image_files\\English\\number-line.jpg",
       "audioLink": "number line.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Ein stumpfer Winkel ist ein Winkel, der größer als 90 Grad aber weniger als 180 Grad ist, typischerweise in Grad gemessen.",
       "example": "Kąt rozwarty trójkąta wynosił 120 stopni. Wczoraj zmierzyłem kąt rozwarty 135 stopni w rogu pokoju. W przyszłym roku będę studiował kąty rozwarte w klasie geometrii.",
       "example_translation": "Der stumpfe Winkel des Dreiecks betrug 120 Grad. Gestern habe ich einen stumpfen Winkel von 135 Grad in der Ecke des Zimmers gemessen. Nächstes Jahr werde ich stumpfe Winkel im Geometrieunterricht studieren.",
-      "imageLink": "obtuse-angle.jpg",
+      "imageLink": "image_files\\English\\obtuse-angle.jpg",
       "audioLink": "obtuse angle.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Ein Achteck ist ein Polygon mit acht Seiten, bei dem alle inneren Winkel 135 Grad betragen.",
       "example": "Budynek w kształcie ośmiokąta został zaprojektowany przez słynnego architekta. W zeszłym miesiącu zbudowałem ośmiokątny puzzle. W przyszłym tygodniu będę studiował właściwości ośmiokątów w klasie matematyki.",
       "example_translation": "Das achteckige Gebäude wurde von einem berühmten Architekten entworfen. Letzten Monat habe ich ein achteckiges Puzzle gebaut. Nächstes Woche werde ich die Eigenschaften von Achtecken im Mathematikunterricht studieren.",
-      "imageLink": "octagon.jpg",
+      "imageLink": "image_files\\English\\octagon.jpg",
       "audioLink": "octagon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Ein Wort, das die Position eines Elements in einer Serie oder Sequenz ausdrückt, wie zum Beispiel 'erst', 'zweit' oder 'dritt'.",
       "example": "Liczba porządkowa planety w naszym układzie słonecznym jest trzecia.",
       "example_translation": "Die Ordnungszahl des Planeten in unserem Sonnensystem ist die dritte.",
-      "imageLink": "ordinal-number.jpg",
+      "imageLink": "image_files\\English\\ordinal-number.jpg",
       "audioLink": "ordinal number.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Erstreckt sich in derselben Richtung und bleibt immer auf demselben Abstand voneinander entfernt, ohne sich jemals zu treffen.",
       "example": "Dwie linie są równoległe, więc nigdy się nie będą przecinać. Wczoraj narysowałem dwie równoległe linie na papierze. Jutro narysuję więcej równoległych linii.",
       "example_translation": "Die beiden Linien sind parallel, daher werden sie nie sich schneiden. Gestern habe ich zwei parallele Linien auf meinem Papier gezeichnet. Morgen werde ich noch mehr parallele Linien zeichnen.",
-      "imageLink": "parallel.jpg",
+      "imageLink": "image_files\\English\\parallel.jpg",
       "audioLink": "parallel.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Ein Vieleck mit gegenüberliegenden Seiten von gleicher Länge, die parallel zueinander sind.",
       "example": "Kształt czworokąta równoległoboku na obrazku ma dwie pary stron o tej samej długości. Wczoraj narysowałem czworokąt równoległobok na papierze. Jutro narysuję większy czworokąt równoległobok.",
       "example_translation": "Die Form des Parallelogramms im Bild hat zwei Paare von Seiten von gleicher Länge. Gestern habe ich ein Parallelogramm auf meinem Papier gezeichnet. Morgen werde ich ein größeres Parallelogramm zeichnen.",
-      "imageLink": "parallelogram.jpg",
+      "imageLink": "image_files\\English\\parallelogram.jpg",
       "audioLink": "parallelogram.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Ein Vieleck mit fünf Seiten, insbesondere eines, das regelmäßig ist und fünf gleich lange Seiten und Winkel hat.",
       "example": "Pięciokąt jest kształtem o pięciu stronach. Wczoraj narysowałem pięciokąt na papierze. W przyszłości narysuję pięciokąt z pięcioma równymi stronami.",
       "example_translation": "Das Fünfeck ist eine fünfseitige Form. Gestern habe ich ein Fünfeck auf meinem Papier gezeichnet. In Zukunft werde ich ein Fünfeck mit fünf gleich langen Seiten zeichnen.",
-      "imageLink": "pentagon.jpg",
+      "imageLink": "image_files\\English\\pentagon.jpg",
       "audioLink": "pentagon.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Eine gegebene Linie oder Ebene rechtwinklig oder senkrecht zu ihr verlaufend, insbesondere zu einer horizontalen Ebene.",
       "example": "Prostopadłe linie przecinały się w jednym punkcie. Wczoraj narysowałem prostopadłą linię na papierze. Jutro stworzę prostopadłą powierzchnię.",
       "example_translation": "Die senkrechten Linien schnitten sich in einem Punkt. Gestern habe ich eine senkrechte Linie auf dem Papier gezeichnet. Morgen werde ich eine senkrechte Fläche erstellen.",
-      "imageLink": "perpendicular.jpg",
+      "imageLink": "image_files\\English\\perpendicular.jpg",
       "audioLink": "perpendicular.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Eine positive ganze Zahl, die nur durch sich selbst und 1 teilbar ist.",
       "example": "Siedem jest liczbą pierwszą. Twierdzenie o liczbach pierwszych zostało opracowane w XIX wieku. Nauczyciel wyjaśni pojęcie liczb pierwszych jutro.",
       "example_translation": "Sieben ist eine Primzahl. Das Primzahltheorem wurde im 19. Jahrhundert entwickelt. Der Lehrer wird morgen das Konzept der Primzahlen erklären.",
-      "imageLink": "prime-number.jpg",
+      "imageLink": "image_files\\English\\prime-number.jpg",
       "audioLink": "prime number.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Ein transparentes optisches Element mit flachen, polierten Oberflächen, das Licht bricht.",
       "example": "Pryzmat załamał światło w tęczę. Naukowiec użył pryzmatu do badania właściwości światła. Nauczyciel udowodni używanie pryzmatu jutro.",
       "example_translation": "Das Prisma brach das Licht in einen Regenbogen. Der Wissenschaftler verwendete ein Prisma, um die Eigenschaften des Lichts zu studieren. Der Lehrer wird morgen die Verwendung eines Prismas demonstrieren.",
-      "imageLink": "prism.jpg",
+      "imageLink": "image_files\\English\\prism.jpg",
       "audioLink": "prism.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Ein Ding oder Stoff, der hergestellt oder raffiniert wird, um verkauft zu werden.",
       "example": "Firma wprowadziła nowy produkt w zeszłym tygodniu. Produkt był ogromnym sukcesem. Marketolog promuje produkt na targach.",
       "example_translation": "Das Unternehmen lancierte letzte Woche ein neues Produkt. Das Produkt war ein großer Erfolg. Der Marketer wird das Produkt auf der Messe promoten.",
-      "imageLink": "product-1.jpg",
+      "imageLink": "image_files\\English\\product-1.jpg",
       "audioLink": "product.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Ein mathematisches Konzept, das die Beziehung zwischen den Längen der Seiten eines rechtwinkligen Dreiecks beschreibt, indem es feststellt, dass das Quadrat der Länge der Hypotenuse gleich der Summe der Quadrate der Längen der anderen beiden Seiten ist.",
       "example": "W przeszłości twierdzenie Pitagorasa było używane do obliczania odległości statku od brzegu. Dziś jest ono używane do rozwiązywania problemów trójkątnych w fizyce i inżynierii. W przyszłości będzie ono wciąż fundamentem w matematyce i fizyce.",
       "example_translation": "In der Vergangenheit wurde der Satz des Pythagoras verwendet, um die Entfernung eines Schiffes vom Ufer zu berechnen. Heute wird er verwendet, um dreieckige Probleme in Physik und Ingenieurwesen zu lösen. In Zukunft wird es ein grundlegendes Konzept in Mathematik und Physik bleiben.",
-      "imageLink": "pythagorean-theorem.jpg",
+      "imageLink": "image_files\\English\\pythagorean-theorem.jpg",
       "audioLink": "Pythagorean theorem.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Eine Polynomialgleichung zweiten Grades, die in der Form ax^2 + bx + c = 0 ausgedrückt werden kann, wobei a, b und c Konstanten sind und x die Variable ist.",
       "example": "Ona rozwiązała równanie kwadratowe, aby znaleźć pierwiastki funkcji. Wczoraj miała trudności z rozkładaniem wielomianu, ale dziś mogła je rozwiązać łatwo. W przyszłości będzie ona używała tego umiejętności do rozwiązywania bardziej złożonych równań.",
       "example_translation": "Sie löste die quadratische Gleichung, um die Wurzeln der Funktion zu finden. Gestern hatte sie Schwierigkeiten, das Polynom zu faktorisieren, aber heute konnte sie es leicht lösen. In Zukunft wird sie diese Fähigkeit nutzen, um komplexere Gleichungen zu lösen.",
-      "imageLink": "quadratic-equation.jpg",
+      "imageLink": "image_files\\English\\quadratic-equation.jpg",
       "audioLink": "quadratic equation.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Das Ergebnis der Division einer Menge durch eine andere, oft durch das Symbol ÷ oder / dargestellt.",
       "example": "Iloczyn 12 podzielony przez 3 jest równy 4. Kiedy byłem dzieckiem, moja nauczycielka nauczyła mnie, jak obliczyć iloczyn dwóch liczb. W przyszłości będę używał tej umiejętności do rozwiązywania bardziej złożonych problemów.",
       "example_translation": "Der Quotient von 12 geteilt durch 3 ist 4. Als ich ein Kind war, lehrte meine Lehrerin mir, wie man den Quotient von zwei Zahlen berechnet. In Zukunft werde ich diese Fähigkeit nutzen, um komplexere Probleme zu lösen.",
-      "imageLink": "quotient.jpg",
+      "imageLink": "image_files\\English\\quotient.jpg",
       "audioLink": "quotient.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Ein Streckensegment, das den Mittelpunkt eines Kreises mit einem beliebigen Punkt auf dem Kreis verbindet, oft durch das Symbol r dargestellt.",
       "example": "Promień okręgu jest równy 5 cm. Wczoraj obliczyłem promień okręgu, aby znaleźć jego obwód. W przyszłości będę używał tego pojęcia do rozwiązywania problemów w geometrii.",
       "example_translation": "Der Radius des Kreises beträgt 5 cm. Gestern berechnete ich den Radius des Kreises, um seinen Umfang zu finden. In Zukunft werde ich dieses Konzept nutzen, um Probleme in der Geometrie zu lösen.",
-      "imageLink": "radius.jpg",
+      "imageLink": "image_files\\English\\radius.jpg",
       "audioLink": "radius.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Eine rationale Zahl ist eine Zahl, die als Quotient oder Bruch zweier ganzer Zahlen ausgedrückt werden kann, d.h. eine Zahl, die in der Form a/b geschrieben werden kann, wobei a und b ganze Zahlen sind und b ungleich null ist.",
       "example": "Liczba racjonalna 3/4 jest rozwiązaniem równania 4x = 3. Wczoraj rozwiązałem równanie z liczbą racjonalną. Jutro spróbuję rozwiązać inne.",
       "example_translation": "Die rationale Zahl 3/4 ist eine Lösung der Gleichung 4x = 3. Gestern habe ich eine Gleichung mit einer rationalen Zahl gelöst. Morgen werde ich versuchen, eine andere zu lösen.",
-      "imageLink": "rational-number.jpg",
+      "imageLink": "image_files\\English\\rational-number.jpg",
       "audioLink": "rational number.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Eine reelle Zahl ist ein Wert, der auf der Zahl linie dargestellt werden kann, einschließlich aller rationalen und irrationalen Zahlen.",
       "example": "Liczba pi jest liczbą nieracjonalną. Rok temu uczyłem się o liczbie rzeczywistej w mojej klasie matematycznej. W przyszłości będę studiował więcej o liczbie rzeczywistej.",
       "example_translation": "Die reelle Zahl pi ist eine irrationale Zahl. Im letzten Jahr habe ich in meinem Mathekurs über reelle Zahlen gelernt. In Zukunft werde ich mehr über reelle Zahlen studieren.",
-      "imageLink": "real-number.jpg",
+      "imageLink": "image_files\\English\\real-number.jpg",
       "audioLink": "real number.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Ein Reflexwinkel ist ein Winkel, der größer als 180 Grad aber kleiner als 360 Grad ist.",
       "example": "Kąt wklęsły trójkąta jest równy 270 stopni. Wczoraj mierzyłem kąt wklęsły w mojej klasie geometrii. W przyszłości będę uczył się więcej o kątach wklęsłych.",
       "example_translation": "Der Reflexwinkel des Dreiecks beträgt 270 Grad. Gestern habe ich in meinem Geometriekurs einen Reflexwinkel gemessen. In Zukunft werde ich mehr über Reflexwinkel lernen.",
-      "imageLink": "reflex-angle.jpg",
+      "imageLink": "image_files\\English\\reflex-angle.jpg",
       "audioLink": "reflex angle.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Ein Rhombus ist ein Viereck mit allen Seiten gleicher Länge, bei dem alle inneren Winkel keine rechten Winkel sind.",
       "example": "Romb ma cztery boki o równych długościach. Ostatnio rysowałem romb w mojej klasie matematycznej. Jutro obliczę pole rombu.",
       "example_translation": "Der Rhombus hat vier kongruente Seiten. Letzte Woche habe ich in meinem Mathekurs einen Rhombus gezeichnet. Morgen werde ich die Fläche eines Rhombus berechnen.",
-      "imageLink": "rhombus.jpg",
+      "imageLink": "image_files\\English\\rhombus.jpg",
       "audioLink": "rhombus.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Ein Winkel, der gleich 90 Grad ist, gebildet durch zwei Linien oder Ebenen, die sich im 90-Grad-Winkel schneiden.",
       "example": "Budowniczy użył kątomierza, aby zmierzyć kąt prosty narożnika pokoju. Wczoraj ona użyła specjalnego narzędzia, aby stworzyć kąt prosty. Do następnego tygodnia architekt zaprojektuje budynek z wieloma kątami prostymi.",
       "example_translation": "Der Bauarbeiter verwendete ein Winkelmesser, um den rechten Winkel der Ecke des Raums zu messen. Gestern verwendete sie ein spezielles Werkzeug, um einen rechten Winkel zu erstellen. Bis nächste Woche wird der Architekt ein Gebäude mit vielen rechten Winkeln entworfen haben.",
-      "imageLink": "right-angle.jpg",
+      "imageLink": "image_files\\English\\right-angle.jpg",
       "audioLink": "right angle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Der unterirdische Teil einer Pflanze, der Wasser und Nährstoffe aus dem Boden aufnimmt.",
       "example": "Rolnik podlewał korzenie drzewa, aby pomóc mu rosnąć silnie. Lekarz zbadał korzeń zęba, aby znaleźć przyczynę bólu. Do następnego roku nowe korzenie rośliny będą się rozwinęły.",
       "example_translation": "Der Bauer bewässerte die Wurzeln des Baums, um ihm zu helfen, stark zu wachsen. Der Arzt untersuchte die Wurzel des Zahns, um die Ursache des Schmerzes zu finden. Bis nächstes Jahr werden die neuen Wurzeln der Pflanze sich entwickelt haben.",
-      "imageLink": "root-1.jpg",
+      "imageLink": "image_files\\English\\root-1.jpg",
       "audioLink": "root.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Eine dreidimensionale Form, die um ihr Zentrum symmetrisch ist und alle Punkte auf ihrer Oberfläche gleich weit vom Zentrum entfernt sind.",
       "example": "Astronom badał sferę Ziemi, aby zrozumieć jej ruch obrotowy. Artystka stworzyła piękną sferę ze szkła. Do przyszłego miesiąca inżynier zaprojektuje budynek o kształcie sfery.",
       "example_translation": "Der Astronom studierte die Kugel der Erde, um ihre Rotation zu verstehen. Der Künstler schuf eine mooie Kugel aus Glas. Bis nächstem Monat wird der Ingenieur ein kugelförmiges Gebäude entworfen haben.",
-      "imageLink": "sphere.jpg",
+      "imageLink": "image_files\\English\\sphere.jpg",
       "audioLink": "sphere.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Ein Wert, der, wenn er mit sich selbst multipliziert wird, einen bestimmten Wert oder eine bestimmte Menge ergibt.",
       "example": "Matematyk obliczył pierwiastek kwadratowy liczby, aby rozwiązać równanie. Wczoraj użyła kalkulatora, aby znaleźć pierwiastek kwadratowy dużej liczby. Do przyszłego tygodnia student nauczy się obliczać pierwiastki kwadratowe ręcznie.",
       "example_translation": "Der Mathematiker berechnete die Quadratwurzel der Zahl, um die Gleichung zu lösen. Gestern verwendete sie einen Taschenrechner, um die Quadratwurzel einer großen Zahl zu finden. Bis nächste Woche wird der Schüler gelernt haben, Quadratwurzeln von Hand zu berechnen.",
-      "imageLink": "square-root.jpg",
+      "imageLink": "image_files\\English\\square-root.jpg",
       "audioLink": "square root.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Ein gerader Winkel ist ein Winkel, dessen Maß 180 Grad beträgt, gebildet durch zwei Linien, die von einem gemeinsamen Punkt ausgehen und parallel zueinander verlaufen.",
       "example": "Architekt zaprojektował budynek z kątami prostymi, aby uzyskać maksymalną przestrzeń. Wykonawca musiał zapewnić, aby ściany były budowane z kątami prostymi, aby zachować integralność konstrukcji. Inżynier zaprojektuje nowy system z kątami prostymi, aby poprawić efektywność.",
       "example_translation": "Der Architekt entwarf das Gebäude mit geraden Winkeln, um maximalen Raum zu schaffen. Der Unternehmer musste sicherstellen, dass die Wände mit geraden Winkeln gebaut wurden, um die Integrität der Struktur zu erhalten. Der Ingenieur wird ein neues System mit geraden Winkeln entwerfen, um die Effizienz zu verbessern.",
-      "imageLink": "straight-angle.jpg",
+      "imageLink": "image_files\\English\\straight-angle.jpg",
       "audioLink": "straight angle.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Eine Teilmenge ist eine Menge, die einige oder alle Elemente einer anderen Menge, genannt Elternmenge oder Obermenge, enthält.",
       "example": "Zbiór wszystkich studentów, którzy zdali egzamin, jest podzbiorem całej klasy. Nauczyciel zidentyfikował podzbiór studentów, którzy potrzebowali dodatkowej pomocy. Badacz analizuje podzbiór danych, aby wyciągnąć wnioski.",
       "example_translation": "Die Menge aller Schüler, die die Prüfung bestanden haben, ist eine Teilmenge der gesamten Klasse. Die Lehrerin identifizierte eine Teilmenge von Schülern, die extra Hilfe benötigten. Der Forscher wird die Teilmenge der Daten analysieren, um Schlussfolgerungen zu ziehen.",
-      "imageLink": "subset.jpg",
+      "imageLink": "image_files\\English\\subset.jpg",
       "audioLink": "subset.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Die Subtraktion ist eine mathematische Operation, die den Unterschied zwischen zwei Mengen darstellt, typischerweise durch das Minuszeichen (-) dargestellt.",
       "example": "Nauczyciel wyjaśnił koncepcję odejmowania studentom. Księgowy wykonał odejmowanie, aby obliczyć koszty całkowite. Naukowiec będzie używał odejmowania, aby znaleźć różnicę między dwiema wartościami.",
       "example_translation": "Die Lehrerin erklärte den Begriff der Subtraktion den Schülern. Der Buchhalter führte eine Subtraktion durch, um die Gesamtausgaben zu berechnen. Der Wissenschaftler wird die Subtraktion verwenden, um den Unterschied zwischen den beiden Werten zu finden.",
-      "imageLink": "subtraction.jpg",
+      "imageLink": "image_files\\English\\subtraction.jpg",
       "audioLink": "subtraction.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Der Satz des Thales ist ein grundlegender Satz in der Geometrie, der besagt, dass ein in einem Halbkreis eingeschriebener Winkel ein rechter Winkel ist.",
       "example": "Student użył twierdzenia Talesa, aby udowodnić, że kąt jest prostym. Matematyk aplikował twierdzenie Talesa, aby rozwiązać złożony problem geometrii. Inżynier będzie używał twierdzenia Talesa, aby zaprojektować nową strukturę architektoniczną.",
       "example_translation": "Der Schüler verwendete den Satz des Thales, um zu beweisen, dass der Winkel ein rechter Winkel war. Der Mathematiker wandte den Satz des Thales an, um das komplexe Geometrie-Problem zu lösen. Der Ingenieur wird den Satz des Thales verwenden, um eine neue architektonische Struktur zu entwerfen.",
-      "imageLink": "thales-theorem.jpg",
+      "imageLink": "image_files\\English\\thales-theorem.jpg",
       "audioLink": "Thales' theorem.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Ein Torus ist eine ringförmige Oberfläche, die durch Drehen eines Kreises im dreidimensionalen Raum um eine Achse erzeugt wird, die mit dem Kreis koplanar ist.",
       "example": "Matematyk badała właściwości torusa w swojej pracy badawczej. Wczoraj obliczyła powierzchnię torusa. Będzie eksplorować zastosowania torusa w fizyce jutro.",
       "example_translation": "Die Mathematikerin studierte die Eigenschaften eines Torus in ihrer Forschungsarbeit. Sie hatte gestern die Oberfläche eines Torus berechnet. Sie wird morgen die Anwendungen eines Torus in der Physik erkunden.",
-      "imageLink": "torus.jpg",
+      "imageLink": "image_files\\English\\torus.jpg",
       "audioLink": "torus.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Ein Trapez ist ein Viereck mit mindestens einem Paar paralleler Seiten und mindestens einem Paar nicht-paralleler Seiten.",
       "example": "Architekt zaprojektował budynek o kształcie trapezu, aby uzyskać maksymalną przestrzeń. Wczoraj narysował trapez w swoim notesie. Będzie analizować integralność konstrukcji mostu trapezowego jutro.",
       "example_translation": "Der Architekt entwarf ein trapezförmiges Gebäude, um den Raum zu maximieren. Er hatte gestern ein Trapez in seinem Notizbuch skizziert. Sie wird morgen die strukturelle Integrität einer Trapezbrücke analysieren.",
-      "imageLink": "trapezoid.jpg",
+      "imageLink": "image_files\\English\\trapezoid.jpg",
       "audioLink": "trapezoid.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Ein Vektor ist eine Größe mit sowohl Betrag als auch Richtung, oft grafisch als Pfeil in einem zweidimensionalen oder dreidimensionalen Raum dargestellt.",
       "example": "Fizyk obliczył wektor wynikowy sił działających na obiekt. Wczoraj zmierzył wartość wektora. Będą analizować wektor prędkości pocisku jutro.",
       "example_translation": "Der Physiker berechnete den resultierenden Vektor der auf das Objekt wirkenden Kräfte. Sie hatte gestern den Betrag eines Vektors gemessen. Sie werden morgen den Geschwindigkeitsvektor eines Projektils analysieren.",
-      "imageLink": "vector.jpg",
+      "imageLink": "image_files\\English\\vector.jpg",
       "audioLink": "vector.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Ein Nullwinkel ist ein Winkel, dessen Maß null Grad beträgt, was bedeutet, dass zwei Linien oder Ebenen zusammenfallen oder parallel sind.",
       "example": "Matematyk udowodnił, że suma kątów wewnętrznych trójkąta jest równa kątowi zero. Wczoraj obliczył miarę kąta zero. Będą analizować właściwości kąta zero w trigonometrii jutro.",
       "example_translation": "Der Mathematiker bewies, dass die Summe der Innenwinkel eines Dreiecks einem Nullwinkel entspricht. Er hatte gestern das Maß eines Nullwinkels berechnet. Sie werden morgen die Eigenschaften eines Nullwinkels in der Trigonometrie analysieren.",
-      "imageLink": "zero-angle.jpg",
+      "imageLink": "image_files\\English\\zero-angle.jpg",
       "audioLink": "zero angle.mp3"
     }
   ]

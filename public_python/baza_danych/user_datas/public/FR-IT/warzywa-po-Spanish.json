@@ -9,7 +9,7 @@
       "definition_translation": "Un vegetale amidaceo, Solanum tuberosum, coltivato sottoterra in una varietà di forme e dimensioni, spesso bianco o marrone.",
       "example": "J'ai mangé une pomme de terre au four pour déjeuner hier, je mangerai une pomme de terre bouillie pour dîner aujourd'hui, et je mangerai une pomme de terre écrasée pour petit déjeuner demain.",
       "example_translation": "Ho mangiato una patata al forno per pranzo ieri, mangerò una patata bollita per cena oggi, e mangerò una patata schiacciata per colazione domani.",
-      "imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\potato.jpg",
       "audioLink": "potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un frutto succoso, tipicamente rosso, commestibile che cresce su una vite e viene spesso utilizzato nella cottura.",
       "example": "J'ai cueilli une tomate mûre dans le jardin hier, je vais trancher une tomate pour la salade aujourd'hui, et je vais planter une nouvelle tomate au jardin demain.",
       "example_translation": "Ho raccolto un pomodoro maturo dal giardino ieri, taglierò un pomodoro per l'insalata oggi, e pianterò un nuovo seedling di pomodoro domani.",
-      "imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\tomato.jpg",
       "audioLink": "tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Qualsiasi delle diverse piante o parti di piante, come foglie, steli o radici, che sono commestibili e utilizzate nella cottura.",
       "example": "J'ai cultivé divers légumes dans mon jardin l'an dernier, je vais acheter des légumes au marché aujourd'hui, et je vais manger plus de légumes pour une diète plus saine demain.",
       "example_translation": "Ho coltivato una varietà di verdure nel mio giardino l'anno scorso, comprerò alcune verdure al mercato oggi, e mangerò più verdure per una dieta più sana domani.",
-      "imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\vegetable.jpg",
       "audioLink": "vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un piccolo seme, generalmente sferico o ovale, che cresce in baccelli, come un fagiolo kidney, fagiolo nero o fagiolo pinto, e spesso mangiato come un ortaggio.",
       "example": "J'ai planté des haricots dans mon jardin la semaine dernière, je les arrose tous les jours et je vais les récolter le mois prochain. Hier, j'ai vu des haricots germer du sol.",
       "example_translation": "Ho piantato fagioli nel mio giardino la settimana scorsa, sto irrigandoli ogni giorno e li raccoglierò il mese prossimo. Ieri, ho visto alcuni fagioli germogliare dal suolo.",
-      "imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\bean.jpg",
       "audioLink": "bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un vegetale radice croccante, dolce e succoso, spesso di colore arancione, utilizzato in insalate, stufati e zuppe.",
       "example": "J'ai râpé une carotte pour l'ajouter à la salade, je vais couper des carottes pour le ragoût demain, et j'ai mangé une carotte comme snack hier.",
       "example_translation": "Ho grattugiato una carota per aggiungerla all'insalata, taglierò alcune carote per lo stufato domani, e ho mangiato un bastoncino di carota come spuntino ieri.",
-      "imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\carrot.jpg",
       "audioLink": "carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un tipo di peperone, spesso rosso, verde o giallo, utilizzato per aggiungere calore e sapore ai piatti, soprattutto nella cucina messicana e asiatica.",
       "example": "J'ai ajouté des flocons de piment à la sauce spaghetti, je vais préparer un chili con carne pour dîner ce soir, et j'ai mangé un piment comme snack hier.",
       "example_translation": "Ho aggiunto fiocchi di peperoncino alla salsa di spaghetti, farò un peperoncino con carne per cena stasera, e ho mangiato un peperoncino come spuntino ieri.",
-      "imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\chilli.jpg",
       "audioLink": "chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "L'aglio è una pianta che appartiene alla famiglia delle cipolle e viene utilizzato come aroma nella cucina.",
       "example": "J'ai haché l'ail et l'ai sauté dans l'huile d'olive. Je vais hacher l'ail et le sauter dans l'huile d'olive. J'ai haché l'ail et l'ai sauté dans l'huile d'olive.",
       "example_translation": "Ho tritato l'aglio e l'ho soffritto in olio d'oliva. Triturerò l'aglio e lo soffrirò in olio d'oliva. Ho tritato l'aglio e l'ho soffritto in olio d'oliva.",
-      "imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\garlic.jpg",
       "audioLink": "garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Una cipolla è un tipo di verdura che viene comunemente usata nella cucina e ha un forte, dolce sapore.",
       "example": "J'ai haché l'oignon et l'ai ajouté à la soupe. Je vais hacher l'oignon et l'ajouter à la soupe. J'ai haché l'oignon et l'ai ajouté à la soupe.",
       "example_translation": "Ho tritato la cipolla e l'ho aggiunta alla zuppa. Triturerò la cipolla e la aggiungerò alla zuppa. Ho tritato la cipolla e l'ho aggiunta alla zuppa.",
-      "imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\onion.jpg",
       "audioLink": "onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Il broccolo è un verdure verde ricco di vitamine e spesso viene stufato o bollito.",
       "example": "J'ai cuit le brocoli à la vapeur et l'ai servi avec du riz. Je vais cuire le brocoli à la vapeur et le servir avec du riz. J'ai cuit le brocoli à la vapeur et l'ai servi avec du riz.",
       "example_translation": "Ho stufato il broccolo e l'ho servito con il riso. Stufurerò il broccolo e lo servirò con il riso. Ho stufato il broccolo e l'ho servito con il riso.",
-      "imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\broccoli.jpg",
       "audioLink": "broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Il cavolo è un tipo di verdura che è comunemente utilizzato nella cucina. È un raccolto di stagione fredda, il che significa che cresce meglio a temperature più fredde. Il cavolo è una buona fonte di vitamina C e fibra, ed è stato collegato a diversi benefici per la salute.",
       "example": "J'ai mangé de la soupe au chou pour déjeuner hier. Je mange une salade de chou pour dîner aujourd'hui. Je vais manger un stir-fry de chou pour petit déjeuner demain.",
       "example_translation": "Ho mangiato la zuppa di cavolo per pranzo ieri. Sto mangiando l'insalata di cavolo per cena oggi. Mangerò il cavolo saltato per colazione domani.",
-      "imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\cabbage.jpg",
       "audioLink": "cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "La zucchina è un tipo di zucca estiva che è comunemente utilizzato nella cucina. È un ortaggio versatile che può essere grigliato, saltato o cotto al forno. Le zucchine sono una buona fonte di vitamina C e potassio, e sono basso in calorie.",
       "example": "J'ai cultivé des courgettes dans mon jardin l'été dernier. Je cuisine des courgettes pour dîner ce soir. Je mangerai des courgettes pour déjeuner demain.",
       "example_translation": "Ho coltivato le zucchine nel mio giardino l'estate scorsa. Sto cucinando le zucchine per cena questa sera. Mangerò le zucchine per pranzo domani.",
-      "imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\courgette.jpg",
       "audioLink": "courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Il cetriolo è un tipo di verdura che è comunemente utilizzato nelle insalate e nei panini. È un ortaggio a basso contenuto calorico che è alto nel contenuto di acqua e elettroliti. I cetrioli sono anche una buona fonte di vitamina K e potassio.",
       "example": "J'ai mangé un sandwich au concombre pour déjeuner hier. Je vais manger une salade de concombre pour dîner ce soir. Je mangerai du jus de concombre pour petit déjeuner demain.",
       "example_translation": "Ho mangiato un panino con cetriolo per pranzo ieri. Sto mangiando l'insalata di cetriolo per cena stasera. Mangerò il succo di cetriolo per colazione domani.",
-      "imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\cucumber.jpg",
       "audioLink": "cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un verdura verde fogliosa comunemente utilizzata nelle insalate.",
       "example": "J'ai mangé une salade avec de la laitue pour déjeuner hier, je vais manger une pour dîner ce soir, et je vais manger une pour petit déjeuner demain.",
       "example_translation": "Ho mangiato un'insalata con lattuga per pranzo ieri, mangerò una per cena stasera e mangerò una per colazione domani.",
-      "imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\lettuce.jpg",
       "audioLink": "lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un seme sferico piccolo comunemente utilizzato come verdura.",
       "example": "J'ai écosé des pois pour dîner hier soir, je vais écoser des pois pour déjeuner aujourd'hui, et je vais écoser des pois pour petit déjeuner demain.",
       "example_translation": "Ho sbucciato piselli per cena ieri sera, sto sbucciando oggi per pranzo e sbuccerò domani per colazione.",
-      "imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\pea.jpg",
       "audioLink": "pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un dolce o piccante spezie fatto dai frutti essiccati di una pianta.",
       "example": "J'ai ajouté du poivre à mon steak pour dîner hier soir, je vais ajouter du poivre à mon pâtes pour déjeuner aujourd'hui, et je vais ajouter du poivre à mes œufs pour petit déjeuner demain.",
       "example_translation": "Ho aggiunto pepe alla mia bistecca per cena ieri sera, aggiungerò alla mia pasta per pranzo oggi e aggiungerò alle mie uova per colazione domani.",
-      "imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\pepper.jpg",
       "audioLink": "pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Una zucca è un tipo di zucca, un ingrediente popolare in molte cucine, spesso utilizzato in zuppe, torte e decorazioni.",
       "example": "J'ai sculpté une citrouille pour Halloween l'an dernier, je vais sculpter une pour Thanksgiving cette année, et j'ai déjà planifié de sculpter une pour Noël l'année prochaine.",
       "example_translation": "Ho intagliato una zucca per Halloween l'anno scorso, intagliero uno per il Ringraziamento quest'anno e ho già pianificato di intagliare uno per Natale l'anno prossimo.",
-      "imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\pumpkin.jpg",
       "audioLink": "pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Gli spinaci sono un tipo di verdura a foglia verde, ricchi di ferro e nutrienti, spesso utilizzati in insalate, frullati e piatti cotti.",
       "example": "J'ai mangé des épinards avec mes œufs hier, je vais manger des épinards avec mon omelette demain, et j'ai mangé des épinards avec mon pâtes depuis des mois.",
       "example_translation": "Ho mangiato gli spinaci con le uova ieri, mangerò con la mia omelette domani e ho mangiato con la mia pasta per mesi.",
-      "imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\spinach.jpg",
       "audioLink": "spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Il granturco è un tipo di mais, solitamente raccolto quando i chicchi sono morbidi e dolci, spesso mangiato bollito, grigliato o come popcorn.",
       "example": "J'ai grillé du maïs doux au barbecue le week-end dernier, je vais bouillir du maïs doux avec mon dîner ce soir, et j'ai mangé du maïs doux comme snack depuis des semaines.",
       "example_translation": "Ho grigliato il granturco al barbecue lo scorso weekend, lo bollirò con la mia cena stasera e ho mangiato come spuntino per settimane.",
-      "imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\corn.jpg",
       "audioLink": "sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un vegetale viola, spesso usato nella cottura, soprattutto nella cucina mediterranea.",
       "example": "J'ai cuit une aubergine hier, je cuisine une aubergine maintenant, et je vais cuisiner une aubergine demain.",
       "example_translation": "Ho cucinato una melanzana ieri, sto cucinando una melanzana ora e cucinerò una melanzana domani.",
-      "imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\aubergine.jpg",
       "audioLink": "aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un vegetale bianco o verdastro, spesso usato nelle zuppe e nelle insalate.",
       "example": "Ma mère faisait souvent de la soupe au chou-fleur lorsque j'étais enfant, maintenant je fais de la salade de chou-fleur, et la semaine prochaine, je ferai du gratin de chou-fleur.",
       "example_translation": "Mia madre faceva la zuppa di cavolfiore quando ero bambino, ora sto facendo l'insalata di cavolfiore e la settimana prossima farò il cavolfiore al gratin.",
-      "imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\cauliflower.jpg",
       "audioLink": "cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un vegetale verde alto, spesso usato nelle zuppe e stufati, con un sapore più delicato degli scalogni.",
       "example": "J'ai ajouté des poireaux à la stew hier, je fais sauter des poireaux maintenant, et je vais rôtir des poireaux demain.",
       "example_translation": "Ho aggiunto porri allo stufato ieri, sto saltando i porri ora e cucinerò i porri domani.",
-      "imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\leek.jpg",
       "audioLink": "leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Il prezzemolo è una popolare erba aromatica utilizzata in molti tipi di cucina. Ha un sapore fresco e verde e viene spesso utilizzato per aggiungere sapore a zuppe, insalate e altri piatti.",
       "example": "J'ai ajouté du persil frais à la soupe pour lui donner du goût. Hier, j'ai utilisé le persil pour garnir la salade. La semaine prochaine, je vais planter du persil dans mon jardin.",
       "example_translation": "Ho aggiunto del prezzemolo fresco alla zuppa per darle sapore extra. Ieri, ho utilizzato il prezzemolo per guarnire l'insalata. La prossima settimana, pianterò del prezzemolo nel mio giardino.",
-      "imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\parsley.jpg",
       "audioLink": "parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un ravanello è un vegetale radice che viene solitamente mangiato crudo. Ha una texture croccante e piccante e viene spesso utilizzato in insalate e come guarnizione.",
       "example": "J'adore manger des radis crus dans ma salade. Hier, j'ai fait du radis mariné pour utiliser comme topping pour mon sandwich. Le mois prochain, je vais cultiver des radis dans mon jardin.",
       "example_translation": "Adoro mangiare ravanelli crudi nella mia insalata. Ieri, ho pickled alcuni ravanelli per utilizzarli come topping per il mio panino. Il prossimo mese, coltiverò ravanelli nel mio giardino.",
-      "imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\radish.jpg",
       "audioLink": "radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Il cavolo rosso è un tipo di cavolo che ha un colore rosso profondo. Viene spesso utilizzato in insalate, cavoli e come aggiunta colorata a molti piatti.",
       "example": "J'aime utiliser le chou rouge dans mes salades pour un effet de couleur. Hier, j'ai mijoté du chou rouge avec des pommes pour faire une délicieuse garniture. La semaine prochaine, je vais faire une salade de chou rouge pour accompagner mon barbecue.",
       "example_translation": "Adoro utilizzare il cavolo rosso nelle mie insalate per un tocco di colore. Ieri, ho brasato del cavolo rosso con mele per fare un contorno delizioso. La prossima settimana, farò dello slaw di cavolo rosso per servirlo con il mio BBQ.",
-      "imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\red-cabbage.jpg",
       "audioLink": "red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una giovane cipolla raccolta prima che il bulbo si formi, spesso usata in insalate e cucina.",
       "example": "J'ai haché l'oignon nouveau et l'ai ajouté à la salade. J'avais haché l'oignon nouveau la veille. Je vais hacher l'oignon nouveau demain.",
       "example_translation": "Ho tritato la cipolla verde e l'ho aggiunta all'insalata. Avevo tritato la cipolla verde il giorno prima. Triturerò la cipolla verde domani.",
-      "imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\spring-onion.jpg",
       "audioLink": "spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un ortaggio con un sapore dolce e terroso, spesso conservato in salamoia o arrostito.",
       "example": "J'ai rôti la betterave et l'ai servie avec du fromage de chèvre. J'avais rôti la betterave la semaine dernière. Je vais rôtir la betterave pour le dîner de fête.",
       "example_translation": "Ho arrostito la barbabietola e l'ho servita con formaggio di capra. Avevo arrostito la barbabietola la settimana precedente. Arrostirò la barbabietola per la festa di cena.",
-      "imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\beetroot.jpg",
       "audioLink": "beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un legume usato in una varietà di prodotti alimentari, tra cui tofu e latte di soia.",
       "example": "J'ai ajouté de la sauce soja au stir-fry. J'avais ajouté du lait de soja à mon céréale. Je vais utiliser des haricots de soja dans la recette.",
       "example_translation": "Ho aggiunto salsa di soia al stir-fry. Avevo aggiunto latte di soia al mio cereale. Userò fagioli di soia nella ricetta.",
-      "imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\soya-soy.jpg",
       "audioLink": "soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un tipo di legume che viene comunemente utilizzato nella cucina, in particolare nella cucina mediterranea e medio-orientale.",
       "example": "J'ai cultivé des fèves dans mon jardin l'été dernier, et je les ai cuisinées avec de l'ail et du citron. Dans le passé, je n'aimais pas les fèves, mais maintenant j'adore. Je vais définitivement planter des fèves dans mon jardin à nouveau l'année prochaine.",
       "example_translation": "Ho coltivato fagioli nano nel mio giardino l'estate scorsa e li ho cucinati con aglio e limone. In passato, non mi piacevano i fagioli nano, ma ora li adoro. Certamente pianterò di nuovo fagioli nano nel mio giardino l'anno prossimo.",
-      "imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\broad-bean.jpg",
       "audioLink": "broad bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un tipo di ortaggio che appartiene alla famiglia del cavolo, comunemente utilizzato nella cucina europea.",
       "example": "Ma grand-mère cuisait toujours des choux de Bruxelles avec du beurre et du sel pour le dîner de Noël. Quand j'étais enfant, je n'aimais pas les choux de Bruxelles, mais maintenant je les mange régulièrement. Je vais rôtir des choux de Bruxelles au four avec de l'huile d'olive et du poivre pour le dîner de ce soir.",
       "example_translation": "La mia nonna cucinava sempre cavolfiori di Bruxelles con burro e sale per il pranzo di Natale. Quando ero un bambino, non mi piacevano i cavolfiori di Bruxelles, ma ora li mangio regolarmente. Stasera, rosterò cavolfiori di Bruxelles nel forno con olio d'oliva e pepe per la cena.",
-      "imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\brussels-sprout.jpg",
       "audioLink": "brussels sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un tipo di cardo che viene comunemente utilizzato nella cucina, in particolare nella cucina mediterranea.",
       "example": "J'ai mangé des artichauts pour la première fois dans un restaurant à Rome, et j'ai adoré. Les artichauts sont en saison pendant l'été, donc je vais définitivement en acheter quelques-uns au marché la semaine prochaine. Je vais cuire les artichauts à la vapeur avec du citron et de l'ail pour le dîner de ce soir.",
       "example_translation": "Ho mangiato i carciofi per la prima volta in un ristorante a Roma e li ho adorati. I carciofi sono in stagione durante l'estate, quindi cercherò di comprarne alcuni al mercato la prossima settimana. Stasera, cuocerò i carciofi al vapore con limone e aglio per la cena.",
-      "imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\artichoke.jpg",
       "audioLink": "artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Una pianta perenne con foglie piumose e steli eretti che portano piccoli fiori verdi-bianchi. Le giovani germogliazioni sono utilizzate come ortaggio.",
       "example": "J'ai mangé des asperges pour dîner hier soir. Je mangerai des asperges pour déjeuner demain. J'ai mangé des asperges pour petit déjeuner hier.",
       "example_translation": "Ho mangiato asparagi per cena ieri sera. Mangerò asparagi per pranzo domani. Ho mangiato asparagi per colazione ieri.",
-      "imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\asparagus.jpg",
       "audioLink": "asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Una pianta della famiglia del prezzemolo, con steli utilizzati come ortaggio, tipicamente in insalate o come guarnizione.",
       "example": "J'ai ajouté du céleri à la salade hier. Je vais ajouter du céleri à la soupe demain. J'ai ajouté du céleri au sandwich ce matin.",
       "example_translation": "Ho aggiunto sedano all'insalata ieri. Aggiungerò sedano alla zuppa domani. Ho aggiunto sedano al sandwich stamattina.",
-      "imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\celery.jpg",
       "audioLink": "celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Una pianta perenne con fiori blu o bianchi, coltivata per le sue foglie amare utilizzate in insalate.",
       "example": "J'ai mangé de la chicorée dans ma salade la semaine dernière. Je vais manger de la chicorée dans mon smoothie demain. J'ai mangé de la chicorée dans mon petit déjeuner hier.",
       "example_translation": "Ho mangiato cicoria nella mia insalata la settimana scorsa. Mangerò cicoria nel mio smoothie domani. Ho mangiato cicoria nella mia colazione ieri.",
-      "imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\chicory.jpg",
       "audioLink": "chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Le erbe cipolline sono un tipo di erba che viene comunemente utilizzato in cucina per aggiungere sapore ai piatti. Hanno un sapore dolce di cipolla e vengono spesso utilizzati come guarnizione o aggiunti a zuppe, insalate e salse.",
       "example": "Je vais utiliser des ciboulettes pour garnir la pomme de terre rôtie ce soir. Hier, j'ai ajouté des ciboulettes à la soupe pour ajouter de la saveur. D'ici l'année prochaine, j'aurai fait pousser mes propres ciboulettes dans le jardin.",
       "example_translation": "Userò le erbe cipolline per guarnire la patata al forno stasera. Ieri, ho aggiunto le erbe cipolline alla zuppa per aggiungere sapore. Entro l'anno prossimo, avrò coltivato le mie erbe cipolline nel giardino.",
-      "imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\chives.jpg",
       "audioLink": "chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Il crescione è un'erba a crescita rapida che viene spesso utilizzato in insalate e come guarnizione. Ha un sapore pepato e è ricco di vitamine e minerali.",
       "example": "J'adore ajouter du cresson à mes salades pour un éclat de saveur. Hier, j'ai planté des graines de cresson dans mon jardin. D'ici le mois prochain, je vais récolter du cresson frais dans mon jardin.",
       "example_translation": "Adoro aggiungere il crescione alle mie insalate per un'esplosione di sapore. Ieri, ho piantato semi di crescione nel mio giardino. Entro il prossimo mese, sarò pronto a raccogliere il crescione fresco dal mio giardino.",
-      "imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\cress.jpg",
       "audioLink": "cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "L'aneto è un'erba che viene spesso utilizzata in cucina e nella preparazione dei sottaceti. Ha un sapore fresco e luminoso e viene spesso utilizzato per aggiungere sapore al pesce, ai vegetali e alle salse.",
       "example": "Je vais utiliser de l'aneth pour aromatiser les pickles que je fais aujourd'hui. L'année dernière, j'ai utilisé de l'aneth pour assaisonner le saumon que j'ai grillé. D'ici l'été prochain, j'aurai maîtrisé l'art de la fermentation avec de l'aneth.",
       "example_translation": "Userò l'aneto per insaporire le cipolle che sto facendo oggi. L'anno scorso, ho utilizzato l'aneto per condire il salmone che ho grigliato. Entro l'estate prossima, avrò padroneggiato l'arte di preparare i sottaceti con l'aneto.",
-      "imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\dill.jpg",
       "audioLink": "dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Il finocchio è un'erba perenne con foglie giallo-verdi e sapore dolce di anice, utilizzato nella cottura, in particolare nella cucina mediterranea.",
       "example": "J'ai mangé de la soupe de fenouil dans le passé, je mange de la salade de fenouil maintenant, et je mangerai du thé de fenouil dans le futur.",
       "example_translation": "Ho mangiato zuppa di finocchio nel passato, sto mangiando insalata di finocchio adesso e mangerò tè di finocchio nel futuro.",
-      "imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\fennel.jpg",
       "audioLink": "fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Il rafano è una pianta perenne con un sapore caldo e pungente, utilizzato come condimento o ingrediente in vari piatti, come salse e marinature.",
       "example": "J'ai utilisé de la sauce de raifort sur mon steak hier soir, je vais ajouter du raifort à mon sandwich aujourd'hui, et je vais faire une marinade de raifort pour mon poulet demain.",
       "example_translation": "Ho usato la salsa di rafano sulla mia bistecca ieri sera, sto aggiungendo rafano al mio sandwich oggi e farò una marinatura di rafano per il mio pollo domani.",
-      "imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\horseradish.jpg",
       "audioLink": "horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Il cavolo riccio è un tipo di verdura verde, con foglie ricce o laccate, ricco di vitamine e antiossidanti, spesso utilizzato in insalate, smoothie e piatti saltati.",
       "example": "Je vais ajouter du chou kale à mon smoothie de petit déjeuner demain, j'ai ajouté du chou kale à ma salade de midi hier, et je mange des chips de chou kale maintenant.",
       "example_translation": "Aggiungerò il cavolo riccio al mio smoothie di colazione domani, ho aggiunto il cavolo riccio alla mia insalata di pranzo ieri e sto mangiando chips di cavolo riccio adesso.",
-      "imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\kale.jpg",
       "audioLink": "kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "La lenticchia è un tipo di legume che viene spesso utilizzato in zuppe, stufati e curry. È una buona fonte di proteine, fibre e nutrienti.",
       "example": "J'ai mangé de la soupe de lentilles pour déjeuner hier, je vais manger de la soupe de lentilles pour dîner ce soir, et j'ai mangé de la soupe de lentilles pour petit déjeuner tous les dimanches.",
       "example_translation": "Ho mangiato zuppa di lenticchie per pranzo ieri, la mangerò per cena stasera, e l'ho mangiata per colazione ogni domenica.",
-      "imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\lentil.jpg",
       "audioLink": "lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Il midollo è il tessuto spugnoso trovato nelle cavità delle ossa, responsabile della produzione di cellule del sangue.",
       "example": "Le docteur a aspiré la moelle de mon os du hanche pour l'examiner pour tout signe de cancer. Il l'aspirera à nouveau la semaine prochaine et l'a déjà fait plusieurs fois auparavant.",
       "example_translation": "Il dottore ha aspirato il midollo dall'osso dell'anca per esaminarlo per segni di cancro. Lo aspirerà di nuovo la prossima settimana, e lo ha aspirato diverse volte prima.",
-      "imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\marrow.jpg",
       "audioLink": "marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "La pastinaca è un vegetale radice che è simile alla carota, ma ha un sapore più dolce e più nocciolato.",
       "example": "J'ai rôti des panais au four hier soir, je vais les rôtir à nouveau demain, et je les ai rôtis chaque semaine pendant des mois.",
       "example_translation": "Ho arrostito le pastinache nel forno ieri sera, le arrostirò di nuovo domani, e le ho arrostite ogni settimana per mesi.",
-      "imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\parsnip.jpg",
       "audioLink": "parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un ortaggio dalla gusto aspro, spesso utilizzato in torte e marmellate, con una forma triangolare distinta delle foglie.",
       "example": "J'ai mangé un crumble de rharmol hier soir, et je vais en manger un autre ce soir, car j'en ai déjà mangé beaucoup auparavant.",
       "example_translation": "Ho mangiato un crumble di rabarbaro ieri sera, e mangerò un altro domani sera, perché ho già mangiato molti volte prima.",
-      "imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\rhubarb.jpg",
       "audioLink": "rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un tipo di ortaggio radice, spesso utilizzato in zuppe e stufati, con un sapore dolce e leggermente pepato.",
       "example": "Je vais ajouter de la rutabaga à la soupe de légumes ce soir, j'y ai ajouté hier soir, et j'y avais ajouté la nuit précédente.",
       "example_translation": "Suderò la zuppa di ortaggi questa sera, l'ho sudata ieri sera, e l'avevo sudata la sera prima.",
-      "imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\swede.jpg",
       "audioLink": "swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un ortaggio radice amidaceo, spesso utilizzato in forno e in rosticceria, con un sapore dolce e nocciolato.",
       "example": "J'ai cuit des patates douces pour dîner, je vais les cuire pour déjeuner, et j'en avais cuit pour petit déjeuner.",
       "example_translation": "Ho cotto patate dolci per cena, le cucinerò per pranzo, e le avevo cotte per colazione.",
-      "imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\sweet-potato.jpg",
       "audioLink": "sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un ortaggio radice, tipicamente bianco o viola, con un sapore dolce e pepatoso.",
       "example": "J'ai retourné le navet dans le jardin hier, je vais le retourné à nouveau demain, et j'y avais retourné la semaine dernière.",
       "example_translation": "Ho scavato la rapa nel giardino ieri, lo scaverò di nuovo domani, e l'avevo scavata la settimana scorsa.",
-      "imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\turnip.jpg",
       "audioLink": "turnip.mp3"
     }
   ]

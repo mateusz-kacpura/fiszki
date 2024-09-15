@@ -9,7 +9,7 @@
       "definition_translation": "La ropa es un término colectivo para los artículos llevados en el cuerpo, típicamente hechos de telas, piel de animal o materiales sintéticos.",
       "example": "Wczoraj wieczorem ubrałem się w najlepsze ubrania na imprezę, noszę ubrania casual na każdą robotę i ubiorę garnitur na rozmowę o pracę jutro.",
       "example_translation": "Me puse mi ropa mejor para la fiesta anoche, hoy y todos los días llevo ropa casual al trabajo, y llevaré un traje a la entrevista de trabajo mañana.",
-      "imageLink": "clothes.jpg",
+      "imageLink": "image_files\\English\\clothes.jpg",
       "audioLink": "clothes.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un abrigo es un tipo de ropa que se lleva en el cuerpo superior, típicamente hecho de tela gruesa u otros materiales, diseñado para proporcionar calor y protección.",
       "example": "Wczoraj roku ubrałem płaszcz zimowy w góry, noszę płaszcz skórzanek, jeżdżąc motocyklem, i ubiorę płaszcz przeciwdeszczowy na festiwal muzyczny za tydzień.",
       "example_translation": "Me puse un abrigo de invierno en las montañas el año pasado, hoy llevo un abrigo de cuero para montar mi motocicleta, y llevaré un abrigo de lluvia al festival de música la semana que viene.",
-      "imageLink": "coat.jpg",
+      "imageLink": "image_files\\English\\coat.jpg",
       "audioLink": "coat.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un vestido es un tipo de prenda que se lleva las mujeres, típicamente consistente en una falda y un cuerpo, diseñado para llevarse en ocasiones formales o semiformal.",
       "example": "Wczoraj miesiąc ubrałem się w piękną suknię na ślub, noszę suknie do pracy w piątki, i ubiorę długą suknię na operę za miesiąc.",
       "example_translation": "Me puse un vestido hermoso en la boda el mes pasado, hoy llevo vestidos al trabajo los viernes, y llevaré un vestido largo a la ópera el mes que viene.",
-      "imageLink": "dress.jpg",
+      "imageLink": "image_files\\English\\dress.jpg",
       "audioLink": "dress.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un sombrero es un cubrecabeza con una corona plana y una visera estrecha, que se lleva 일반mente para decorar o proteger la cabeza del sol.",
       "example": "Wczoraj ubrałem kapelusz na imprezę, noszę kapelusz do pracy każdego dnia, i ubiorę kapelusz na plażę jutro.",
       "example_translation": "Me puse un sombrero en la fiesta ayer, llevo un sombrero al trabajo todos los días, y llevaré un sombrero a la playa mañana.",
-      "imageLink": "hat.jpg",
+      "imageLink": "image_files\\English\\hat.jpg",
       "audioLink": "hat.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Los vaqueros son un tipo de pantalones hechos de denim, que se lleva 일반mente para ocasiones informales.",
       "example": "Kupiłem parę dżinsów tydzień temu, noszę dżinsy do szkoły każdego dnia, i kupię kolejną parę dżinsów za miesiąc.",
       "example_translation": "Compré un par de vaqueros la semana pasada, llevo vaqueros al colegio todos los días, y compraré otro par de vaqueros el próximo mes.",
-      "imageLink": "jeans.jpg",
+      "imageLink": "image_files\\English\\jeans.jpg",
       "audioLink": "jeans.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Una camisa es un tipo de prenda con cuello y mangas, que se lleva общ적으로 en el cuerpo superior.",
       "example": "Wczoraj roku ubrałem koszulę na ślub, noszę koszulę do pracy każdy poniedziałek, i ubiorę koszulę na imprezę za tydzień.",
       "example_translation": "Me puse una camisa en la boda del año pasado, llevo una camisa al trabajo todos los lunes, y llevaré una camisa a la fiesta la próxima semana.",
-      "imageLink": "shirt.jpg",
+      "imageLink": "image_files\\English\\shirt.jpg",
       "audioLink": "shirt.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un zapato es un calzado que cubre y protege el pie, típicamente hecho de cuero, plástico o otros materiales.",
       "example": "Wczoraj wieczorem ubrałem nowy but na imprezę. Za jutro ubiorę ulubiony but na ślub. Ona ubrała wysokie buty na biuro wczoraj.",
       "example_translation": "Me puse mi zapato nuevo en la fiesta anoche. Me pondré mi zapato favorito en la boda mañana. Ella se puso su zapato de tacón alto en la oficina ayer.",
-      "imageLink": "shoe.jpg",
+      "imageLink": "image_files\\English\\shoe.jpg",
       "audioLink": "shoe.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Una falda es un tipo de ropa que se lleva puesto por las mujeres, típicamente desde la cintura hasta la cadera o rodilla, y a menudo decorada con patrones o diseños.",
       "example": "Ona ubrała piękną spódnice na balAbsolwentów wczoraj roku. Za jutro kupię nową spódnice dla mojej siostry. Oni ubrali tradycyjne spódnice na festiwal kultury wczoraj.",
       "example_translation": "Ella llevaba una hermosa falda al baile de fin de curso el año pasado. Compraré una nueva falda para el cumpleaños de mi hermana mañana. Ellos llevaron su falda tradicional al festival cultural ayer.",
-      "imageLink": "skirt.jpg",
+      "imageLink": "image_files\\English\\skirt.jpg",
       "audioLink": "skirt.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Una camiseta es una camisa informal, manga corta, típicamente hecha de algodón, poliéster o una mezcla de materiales, a menudo decorada con logotipos, gráficos o texto.",
       "example": "Wczoraj ubrałem koszulkę do siłowni. Za dzisiaj ona ubierze nową koszulkę na koncert. Oni ubrali swoją ulubioną koszulkę na piknik za weekend.",
       "example_translation": "Me puse una camiseta en el gimnasio ayer. Ella se pondrá una nueva camiseta al concierto esta noche. Ellos llevaron su camiseta favorita al picnic el fin de semana pasado.",
-      "imageLink": "t-shirt.jpg",
+      "imageLink": "image_files\\English\\t-shirt.jpg",
       "audioLink": "T-shirt.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "un vestido externo que cubre las piernas, generalmente hecho de tela o cuero, llevado por personas de diversas profesiones o como parte de un uniforme",
       "example": "Wczoraj ubrałem spodnie do biura, noszę spodnie do biura dzisiaj, i ubiorę spodnie do biura jutro.",
       "example_translation": "Me puse pantalones en la oficina ayer, me pongo pantalones en la oficina hoy, y me pondré pantalones en la oficina mañana.",
-      "imageLink": "trousers.jpg",
+      "imageLink": "image_files\\English\\trousers.jpg",
       "audioLink": "trousers.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "una cubierta para el pie y la pierna, generalmente hecha de cuero o goma, llevada para protección o como declaración de moda",
       "example": "Zawiązałem swoje buty wczoraj, wiążę swoje buty dziś, i zawiążę swoje buty jutro.",
       "example_translation": "Me até la bota ayer, me estoy atando la bota hoy, y me ataré la bota mañana.",
-      "imageLink": "boot.jpg",
+      "imageLink": "image_files\\English\\boot.jpg",
       "audioLink": "boot.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "un sombrero de ajuste cercano, con visera, generalmente hecho de tela o cuero, llevado para el calor o como declaración de moda",
       "example": "Wczoraj nosiłem czapkę na mecz, dzisiaj noszę czapkę na mecz, i będę nosił czapkę na mecz jutro.",
       "example_translation": "Me puse una gorra en el juego ayer, me pongo una gorra en el juego hoy, y me pondré una gorra en el juego mañana.",
-      "imageLink": "cap.jpg",
+      "imageLink": "image_files\\English\\cap.jpg",
       "audioLink": "cap.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un guante es un prendimiento que cubre la mano, muñeca y antebrazo, utilizado para protección, calor o como declaración de moda.",
       "example": "Wczoraj nosiłem rękawiczkę, aby chronić swoją dłoń podczas ogrodnictwa. Teraz noszę rękawiczki, aby trzymać ręce ciepłe. Będę nosił rękawiczki, aby jeździć na rowerze jutro.",
       "example_translation": "Me puse un guante para proteger mi mano mientras jardinaba ayer. Ahora llevo guantes para mantener mis manos calientes. Llevaré guantes para montar mi bicicleta mañana.",
-      "imageLink": "glove.jpg",
+      "imageLink": "image_files\\English\\glove.jpg",
       "audioLink": "glove.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Una chaqueta es un prendimiento exterior sin mangas o con mangas, normalmente llevado en el torso, a menudo llevado para protección, ornamentación o como parte de un uniforme.",
       "example": "Wczoraj nosiłem kurtkę, aby chronić się przed deszczem. Teraz noszę kurtkę, aby iść na wycieczkę górską. Będę nosił kurtkę, aby uczestniczyć w oficjalnym wydarzeniu jutro.",
       "example_translation": "Me puse una chaqueta para protegerme de la lluvia ayer. Ahora llevo una chaqueta para ir de excursión. Llevaré una chaqueta para asistir a un evento formal mañana.",
-      "imageLink": "jacket.jpg",
+      "imageLink": "image_files\\English\\jacket.jpg",
       "audioLink": "jacket.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un suéter es un prendimiento que cubre el torso, normalmente hecho de lana o algodón, llevado para caliente o como prendimiento informal.",
       "example": "Wczoraj nosiłem sweter, aby trzymać się ciepło zimą. Teraz noszę sweter, aby relaksować się w domu. Będę nosił sweter, aby jeździć na nartach jutro.",
       "example_translation": "Me puse un suéter para mantenerme caliente durante el invierno ayer. Ahora llevo un suéter para relajarme en casa. Llevaré un suéter para ir esquiar mañana.",
-      "imageLink": "jumper.jpg",
+      "imageLink": "image_files\\English\\jumper.jpg",
       "audioLink": "jumper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Una pequeña bolsa o sobre cosido o adjunto a la ropa, utilizado para llevar objetos pequeños.",
       "example": "Znalazłem swoje klucze w kieszeni. Będę wkładał telefon do kieszeni. Miałem swoją.wallet w kieszeni wczoraj.",
       "example_translation": "Encontré mis llaves en mi bolsillo. Pondré mi teléfono en mi bolsillo. Tuve mi billetera en mi bolsillo ayer.",
-      "imageLink": "pocket.jpg",
+      "imageLink": "image_files\\English\\pocket.jpg",
       "audioLink": "pocket.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un abrigo impermeable o resistente al agua que se lleva para proteger la ropa de la lluvia.",
       "example": "Dzisiaj nosiłem płaszcz przeciwdeszczowy do pracy. Będę kupował nowy płaszcz przeciwdeszczowy na zimę. Zapomniałem swojego płaszcza przeciwdeszczowego w domu.",
       "example_translation": "Me puse un impermeable para ir al trabajo hoy. Compraré un nuevo impermeable para el invierno. Olvidé mi impermeable en casa.",
-      "imageLink": "raincoat.jpg",
+      "imageLink": "image_files\\English\\raincoat.jpg",
       "audioLink": "raincoat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un trozo de tela que se lleva alrededor del cuello, típicamente para abrigo o como accesorio de moda.",
       "example": "Nosiłem szal zimą. Ona będzie mi dawała szal na urodziny. Zgubiłem swój ulubiony szal.",
       "example_translation": "Me pongo una bufanda en invierno. Ella me dará una bufanda por mi cumpleaños. Perdí mi bufanda favorita.",
-      "imageLink": "scarf.jpg",
+      "imageLink": "image_files\\English\\scarf.jpg",
       "audioLink": "scarf.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Los pantalones cortos son un tipo de ropa exterior que se lleva en la parte inferior del cuerpo, que suele extenderse desde la cintura hasta los muslos, y se suelen llevar en clima cálido o para actividades al aire libre.",
       "example": "Wczoraj nosiłem szorty na plaży, będzie nosił szorty do parku jutro, i nosiłem szorty na wycieczce górskiej w zeszłym tygodniu.",
       "example_translation": "Me puse pantalones cortos en la playa ayer, me pondré pantalones cortos en el parque mañana, y me puse pantalones cortos en la caminata la semana pasada.",
-      "imageLink": "shorts.jpg",
+      "imageLink": "image_files\\English\\shorts.jpg",
       "audioLink": "shorts.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un calcetín es una pieza de ropa que se lleva en el pie, generalmente hecha de tela, y se lleva a menudo con zapatos.",
       "example": "Wczoraj nosiłem skarpetkę do łóżka, będę nosił skarpetki do siłowni jutro, i nosiłem skarpetkę do biura wczoraj.",
       "example_translation": "Me puse un calcetín en la cama anoche, me pondré calcetines en el gimnasio mañana, y me puse calcetines en la oficina ayer.",
-      "imageLink": "sock.jpg",
+      "imageLink": "image_files\\English\\sock.jpg",
       "audioLink": "sock.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un traje es un conjunto de ropa exterior que consiste en una chaqueta, pantalones y a veces una chaleco, generalmente se lleva para ocasiones formales.",
       "example": "Włożyłem komplet na weselu w zeszłym tygodniu, będę nosił komplet na rozmowie o pracę jutro, i nosiłem komplet na konferencji w zeszłym roku.",
       "example_translation": "Me puse un traje en la boda la semana pasada, me pondré un traje en la entrevista de trabajo mañana, y me puse un traje en la conferencia el año pasado.",
-      "imageLink": "suit.jpg",
+      "imageLink": "image_files\\English\\suit.jpg",
       "audioLink": "suit.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un suéter es un tipo de ropa que se lleva en el torso, generalmente hecho de tela gruesa y cálida.",
       "example": "Włożyłem sweter na imprezę wczoraj wieczorem, bo było zimno. Będę nosił sweter do parku jutro, jeśli będzie padać. Włożyłem sweter do szkoły wczoraj, bo było zimą.",
       "example_translation": "Me puse un suéter en la fiesta de anoche porque hacía frío. Me pondré un suéter en el parque mañana si llueve. Me puse un suéter en la escuela ayer porque era invierno.",
-      "imageLink": "sweater.jpg",
+      "imageLink": "image_files\\English\\sweater.jpg",
       "audioLink": "sweater.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un traje de baño es un tipo de ropa que se lleva para nadar o otras actividades acuáticas.",
       "example": "Kupiłem nowy kostium kąpielowy na wakacje. Będę nosił kostium kąpielowy na plażę jutro. Włożyłem kostium kąpielowy do basenu w zeszłym tygodniu.",
       "example_translation": "Compré un traje de baño nuevo para mis vacaciones. Me pondré mi traje de baño en la playa mañana. Me puse mi traje de baño en la piscina la semana pasada.",
-      "imageLink": "swimming-costume.jpg",
+      "imageLink": "image_files\\English\\swimming-costume.jpg",
       "audioLink": "swimming costume.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un traje de baño es un tipo de ropa que se lleva para nadar o otras actividades acuáticas.",
       "example": "Włożyłem stroj kąpielowy do parku wodnego wczoraj. Będę nosił stroj kąpielowy na plażę następnego tygodnia. Kupiłem nowy stroj kąpielowy na moją podróż na Hawaje.",
       "example_translation": "Me puse un traje de baño en el parque acuático ayer. Me pondré mi traje de baño en la playa la próxima semana. Compré un traje de baño nuevo para mi viaje a Hawái.",
-      "imageLink": "swimsuit.jpg",
+      "imageLink": "image_files\\English\\swimsuit.jpg",
       "audioLink": "swimsuit.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una corbata es una pieza de tela larga que se lleva alrededor del cuello, típicamente por hombres, para agregar decoración a una camisa.",
       "example": "Wiązałem krawat rano, będę wiązał go jutro, i wiązałem go wczoraj.",
       "example_translation": "Me até la corbata esta mañana, me ataré la corbata mañana, y me até la corbata ayer.",
-      "imageLink": "tie.jpg",
+      "imageLink": "image_files\\English\\tie.jpg",
       "audioLink": "tie.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Las mallas son un tipo de ropa que se lleva puesto por mujeres y niñas, cubriendo las piernas desde la cintura hasta el pie.",
       "example": "Ona włożyła pończochy na imprezę wczoraj wieczorem, będzie nosiła je na imprezę następnego tygodnia, i nosiła je na imprezę w zeszłym roku.",
       "example_translation": "Ella se puso mallas en la fiesta de anoche, se pondrá mallas en la fiesta de la semana que viene, y se puso mallas en la fiesta del año pasado.",
-      "imageLink": "tights.jpg",
+      "imageLink": "image_files\\English\\tights.jpg",
       "audioLink": "tights.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Las zapatillas son un tipo de zapato atlético diseñado para deportes o actividades físicas específicas.",
       "example": "Zawiązałem buty sportowe rano, będę wiązał je jutro, i zawiązałem je wczoraj.",
       "example_translation": "Me até las zapatillas esta mañana, me ataré las zapatillas mañana, y me até las zapatillas ayer.",
-      "imageLink": "trainers.jpg",
+      "imageLink": "image_files\\English\\trainers.jpg",
       "audioLink": "trainers.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un uniforme es un conjunto de ropa que se lleva para identificarse con un grupo, organización o profesión en particular.",
       "example": "Włożyłem mundur do szkoły co dzień. Włożyłem mundur do pracy teraz. Będę nosił mundur na imprezę jutro.",
       "example_translation": "Yo llevaba un uniforme a la escuela todos los días. Ahora estoy llevando un uniforme al trabajo. Mañana llevaré un uniforme a la fiesta.",
-      "imageLink": "uniform.jpg",
+      "imageLink": "image_files\\English\\uniform.jpg",
       "audioLink": "uniform.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Una blusa es una camisa holgada, generalmente llevada por mujeres, souvent con cuello y botones en la parte delantera.",
       "example": "Kupiłem bluzkę wczoraj. Ona nosi bluzkę dzisiaj. Oni będą nosić bluzki na ślub następnego tygodnia.",
       "example_translation": "Compré una blusa ayer. Ella está llevando una blusa hoy. Ellos llevarán blusas a la boda la próxima semana.",
-      "imageLink": "blouse.jpg",
+      "imageLink": "image_files\\English\\blouse.jpg",
       "audioLink": "blouse.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un cuello es una parte de una camisa o vestido que se ajusta alrededor del cuello.",
       "example": "Pies nosi kołnierz z metką. Koszula ma kołnierz, który jest bardzo sztywny. Ona będzie nosiła kołnierz ze szpilką jutro.",
       "example_translation": "El perro lleva un cuello con una etiqueta. La camisa tiene un cuello que es muy rígido. Ella llevará un cuello con broche mañana.",
-      "imageLink": "collar.jpg",
+      "imageLink": "image_files\\English\\collar.jpg",
       "audioLink": "collar.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "El talón es la parte posterior del pie humano, debajo de la tobillo.",
       "example": "Uderzyłem piętę, gdy upadłem, uderzam piętę, gdy chodzę, uderzę piętę, jeśli nie będę ostrożny.",
       "example_translation": "Me lastimé el tobillo cuando me caí, estoy lastimando mi tobillo mientras camino, me lastimaré el tobillo si no tengo cuidado.",
-      "imageLink": "heel.jpg",
+      "imageLink": "image_files\\English\\heel.jpg",
       "audioLink": "heel.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Las bragas son un tipo de ropa interior femenina que cubren los glúteos y muslos.",
       "example": "Ona nosiła swoje ulubione majteczki do łóżka, ona nosi swoje ulubione majteczki do łóżka, ona będzie nosić swoje ulubione majteczki do łóżka tej nocy.",
       "example_translation": "Ella llevó sus bragas favoritas a la cama, Ella está llevando sus bragas favoritas a la cama, Ella llevará sus bragas favoritas a la cama esta noche.",
-      "imageLink": "knickers.jpg",
+      "imageLink": "image_files\\English\\knickers.jpg",
       "audioLink": "knickers.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Los pantalones son un tipo de ropa que cubre las piernas, normalmente extendiéndose desde la cintura hasta los tobillos.",
       "example": "On nosił swoje ulubione spodnie na imprezę, on nosi swoje ulubione spodnie na imprezę, on będzie nosić swoje ulubione spodnie na imprezę jutro.",
       "example_translation": "Él llevó sus pantalones favoritos a la fiesta, Él está llevando sus pantalones favoritos a la fiesta, Él llevará sus pantalones favoritos a la fiesta mañana.",
-      "imageLink": "pants.jpg",
+      "imageLink": "image_files\\English\\pants.jpg",
       "audioLink": "pants.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un suéter es un tipo de suéter casual que se lleva sobre el torso superior, generalmente hecho de tela cálida y suave.",
       "example": "Włożyłem sweter, aby się ogrzać zimą. Będę nosić sweter na imprezę tej nocy. Włożyłem sweter na wycieczkę w góry rok temu.",
       "example_translation": "Me puse un suéter para mantenerme caliente en el invierno frío. Me pondré un suéter para la fiesta esta noche. Me puse un suéter en las montañas el año pasado.",
-      "imageLink": "pullover.jpg",
+      "imageLink": "image_files\\English\\pullover.jpg",
       "audioLink": "pullover.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Una sandalia es un tipo de calzado que deja el pie expuesto y se lleva habitualmente en clima cálido.",
       "example": "Kupiłem nowy sandał na wakacje nad morzem. Ona nosi sandały do basenu każdego lata. Będą nosić sandały na plażę następnego tygodnia.",
       "example_translation": "Compré una nueva sandalia para las vacaciones en la playa. Ella se pone sandalias en la piscina cada verano. Ellas se pondrán sandalias en la playa la próxima semana.",
-      "imageLink": "sandal.jpg",
+      "imageLink": "image_files\\English\\sandal.jpg",
       "audioLink": "sandal.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Una manga es una parte de una prenda que cubre el brazo, que suele extenderse desde el hombro hasta la muñeca.",
       "example": "Podwinąłem rękaw, aby pokazać nowy tatuaż. Ona always nosi długie rękawy zimą. Będą mieć krótkie rękawy w nowych mundurach.",
       "example_translation": "Doblé mi manga para mostrar mi nuevo tatuaje. Ella siempre lleva mangas largas en invierno. Ellas tendrán mangas cortas en sus nuevos uniformes.",
-      "imageLink": "sleeve.jpg",
+      "imageLink": "image_files\\English\\sleeve.jpg",
       "audioLink": "sleeve.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un zapato suave y ligero, por lo general hecho de algodón o lana, llevado al interior, especialmente por la noche o en clima frío.",
       "example": "Ona włożyła kapcie, aby zrobić przekąskę w kuchni o północy. Wczoraj, ona włożyła kapcie po kąpieli. Jutro, ona będzie nosić kapcie w salonie.",
       "example_translation": "Ella llevó sus zapatillas a la cocina para preparar un snack a medianoche. Ayer, se puso sus zapatillas después de ducharse. Mañana, llevará sus zapatillas al salón.",
-      "imageLink": "slippers.jpg",
+      "imageLink": "image_files\\English\\slippers.jpg",
       "audioLink": "slippers.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Una camisa casual, generalmente de manga larga, hecha de tejido grueso y cálido, a menudo con capucha y llevada para fines informales o atléticos.",
       "example": "On nosił bluzę na siłownię, aby ćwiczyć. Wczoraj, ona zdjęła bluzę, bo było za gorąco. Następny tydzień, będą nosić bluzy w parku.",
       "example_translation": "Él llevó una sudadera al gimnasio para hacer ejercicio. Ayer, ella se quitó la sudadera porque hacía demasiado calor. La próxima semana, llevarán sus sudaderas al parque.",
-      "imageLink": "sweatshirt.jpg",
+      "imageLink": "image_files\\English\\sweatshirt.jpg",
       "audioLink": "sweatshirt.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Pantalones cortos y ajustados llevados para nadar, generalmente hechos de tela de secado rápido.",
       "example": "On włożył szorty pływackie, aby pójść na plażę. Lato temu, ona kupiła nowe szorty pływackie na wakacje. Lato przyszłe, będą nosić szorty pływackie w basenie.",
       "example_translation": "Él se puso sus traje de baño para ir a la playa. El verano pasado, ella compró nuevos trajes de baño para sus vacaciones. El próximo verano, llevarán sus trajes de baño a la piscina.",
-      "imageLink": "swimming-trunks.jpg",
+      "imageLink": "image_files\\English\\swimming-trunks.jpg",
       "audioLink": "swimming trunks.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "La parte superior o más alta de algo, especialmente un edificio o la cabeza de una persona.",
       "example": "Będę wchodził na szczyt góry. Wczoraj, byłem na szczycie wzgórza. Będę na szczycie schodów za minutę.",
       "example_translation": "Voy a subir a la cima de la montaña. Ayer, estaba en la cima de la colina. Estaré en la cima de las escaleras en un minuto.",
-      "imageLink": "top.jpg",
+      "imageLink": "image_files\\English\\top.jpg",
       "audioLink": "top.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un traje cómodo y holgado, generalmente llevado para actividades atléticas o informales, compuesto por una parte superior y pantalones hechos de un tejido sintético.",
       "example": "Noszę kostium sportowy na siłownię. Ona założyła kostium sportowy do parku. Oni będą nosić kostiumy sportowe na maraton jutro.",
       "example_translation": "Estoy llevando un traje de entrenamiento al gimnasio. Ella llevó un traje de entrenamiento al parque. Ellos llevarán trajes de entrenamiento al maratón mañana.",
-      "imageLink": "tracksuit.jpg",
+      "imageLink": "image_files\\English\\tracksuit.jpg",
       "audioLink": "tracksuit.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Una prenda interior llevada junto a la piel, generalmente por hombres o niños, que cubre los genitales y las nalgas.",
       "example": "Noszę majtki każdego dnia. On nosił majtki do łóżka. Oni będą nosić majtki na plażę jutro.",
       "example_translation": "Yo llevo calzoncillos todos los días. Él llevó calzoncillos a la cama. Ellos llevarán calzoncillos a la playa mañana.",
-      "imageLink": "underpants.jpg",
+      "imageLink": "image_files\\English\\underpants.jpg",
       "audioLink": "underpants.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Ropa que se lleva próxima a la piel, típicamente debajo de otras ropas, como sujetadores, bragas y calcetines.",
       "example": "Wczoraj kupiłem nową bieliznę. Dzisiaj jej noszę. Jutro będę prał ją.",
       "example_translation": "Ayer, compré un par de ropa interior nueva. Hoy, la estoy llevando. Mañana, la lavaré.",
-      "imageLink": "underwear.jpg",
+      "imageLink": "image_files\\English\\underwear.jpg",
       "audioLink": "underwear.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un pedazo de tela que se lleva sobre la parte delantera de la ropa para protegerla de manchas y salpicaduras.",
       "example": "Moja mama nosiła fartuch, kiedy gotowała obiad. Później umyła go. Będzie go nosić ponownie jutro.",
       "example_translation": "Mi madre llevó un delantal mientras cocinaba la cena. Lo lavó después. Lo llevará de nuevo mañana.",
-      "imageLink": "apron.jpg",
+      "imageLink": "image_files\\English\\apron.jpg",
       "audioLink": "apron.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un tipo de traje de baño que cubre las áreas del pecho y la ingle, típicamente llevado por mujeres.",
       "example": "Kupiłem nowy bikini na wakacje. Noszę go na plaży. Będę go nosić ponownie latem przyszłym.",
       "example_translation": "Compré un bikini nuevo para mis vacaciones. Lo llevé a la playa. Lo llevaré de nuevo el próximo verano.",
-      "imageLink": "bikini.jpg",
+      "imageLink": "image_files\\English\\bikini.jpg",
       "audioLink": "bikini.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Pantalones cortos holgados que se llevan como ropa interior por los hombres, típicamente con una cinturilla elástica.",
       "example": "Noszę szorty bokserskie do łóżka każdej nocy. Noszę szorty bokserskie do siłowni. Będę nosić szorty bokserskie w niedzielę.",
       "example_translation": "Me puse calzoncillos para dormir anoche, me pongo calzoncillos para ir al gimnasio, me pondré calzoncillos el domingo.",
-      "imageLink": "boxer-shorts.jpg",
+      "imageLink": "image_files\\English\\boxer-shorts.jpg",
       "audioLink": "boxer shorts.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Una pieza de ropa que se lleva las mujeres para soutener y cubrir los senos.",
       "example": "Kupiłem nowy stanik wczoraj. Noszę go do pracy. Będę go nosić na imprezę dzisiaj wieczorem.",
       "example_translation": "Compré un sujetador nuevo ayer, me pongo un sujetador para ir al trabajo, me pondré un sujetador para la fiesta esta noche.",
-      "imageLink": "bra.jpg",
+      "imageLink": "image_files\\English\\bra.jpg",
       "audioLink": "bra.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Ropa interior ajustada para hombres, típicamente hecha de algodón o materiales sintéticos.",
       "example": "Noszę majtki slip na plaży. Noszę majtki slip do spania. Będę nosić majtki slip do siłowni jutro.",
       "example_translation": "Me puse calzoncillos en la playa, me pongo calzoncillos para dormir, me pondré calzoncillos para ir al gimnasio mañana.",
-      "imageLink": "briefs.jpg",
+      "imageLink": "image_files\\English\\briefs.jpg",
       "audioLink": "briefs.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un jersey es un tipo de prenda tejida que tiene una parte delantera abierta y se lleva typicalmente sobre una camisa o vestido.",
       "example": "Noszę kardigan, aby się ogrzać w chłodnej pogodzie. Noszę kardigan do pracy dzisiaj. Będę nosić kardigan na imprezę dzisiaj wieczorem.",
       "example_translation": "Me puse un jersey para mantenerme caliente en el clima frío. Estoy llevando un jersey al trabajo hoy. Llevaré un jersey a la fiesta esta noche.",
-      "imageLink": "cardigan.jpg",
+      "imageLink": "image_files\\English\\cardigan.jpg",
       "audioLink": "cardigan.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Un disfraz es un conjunto de ropa que se lleva para crear una cierta imagen o personaje, a menudo para una actuación o fiesta.",
       "example": "Noszę kostium na Halloweenowy bal ostatniego roku. Przygotowuję kostium na urodziny przyjaciela. Będę nosić kostium na spektakl teatralny dzisiaj wieczorem.",
       "example_translation": "Me puse un disfraz en la fiesta de Halloween el año pasado. Estoy haciendo un disfraz para la fiesta de cumpleaños de mi amigo. Llevaré un disfraz al espectáculo de teatro esta noche.",
-      "imageLink": "costume-1.jpg",
+      "imageLink": "image_files\\English\\costume-1.jpg",
       "audioLink": "costume.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un puño es un adorno o dobladillo al final de una manga, o un tipo de cierre para sostener una manga.",
       "example": "Podwinąłem rękawy, aby pokazać mój rękawek. Naprawiam rękawek na mojej koszuli. Będę nosić rękawek z moim garniturem na ślub.",
       "example_translation": "Me subí las mangas para mostrar mi puño. Estoy arreglando el puño de mi camisa. Llevaré un puño con mi traje al matrimonio.",
-      "imageLink": "cuff.jpg",
+      "imageLink": "image_files\\English\\cuff.jpg",
       "audioLink": "cuff.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un casco es una forma de equipo de protección llevado en la cabeza para protegerla de lesiones, especialmente en deportes o actividades militares.",
       "example": "Włożyłem kask, gdy jechałem rowerem wczoraj. Będę nosić kask, gdy pojadę rowerem jutro. Noszę kask każdemu razem, gdy jeżdżę rowerem.",
       "example_translation": "Me puse un casco cuando conduje mi bicicleta ayer. Me pondré un casco cuando conduzca mi bicicleta mañana. Me pongo un casco cada vez que conduzco mi bicicleta.",
-      "imageLink": "helmet.jpg",
+      "imageLink": "image_files\\English\\helmet.jpg",
       "audioLink": "helmet.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Una capucha es una cubierta para la cabeza y el cuello, normalmente adherida a una chaqueta o abrigo.",
       "example": "Włożyłem kaptur, gdy zaczęło padać. Będę włożyć kaptur, gdy pójdę narciarstwo następnego miesiąca. Mam kaptur na mojej kurtce.",
       "example_translation": "Subí mi capucha cuando empezó a llover. Me pondré una capucha cuando vaya a esquiar el mes próximo. Tengo una capucha en mi chaqueta.",
-      "imageLink": "hood.jpg",
+      "imageLink": "image_files\\English\\hood.jpg",
       "audioLink": "hood.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Las medias hasta la rodilla son un tipo de calcetín que cubre la pierna hasta la rodilla, a menudo llevadas para fines atléticos o de moda.",
       "example": "Włożyłem getry, gdy grałem w piłkę nożną wczoraj. Będę nosić getry, gdy pobiegnę maraton następnego roku. Mam getry w mojej torbie sportowej.",
       "example_translation": "Me puse medias hasta la rodilla cuando jugué fútbol ayer. Me pondré medias hasta la rodilla cuando corra un maratón el año próximo. Tengo medias hasta la rodilla en mi bolsa de gimnasio.",
-      "imageLink": "knee-socks.jpg",
+      "imageLink": "image_files\\English\\knee-socks.jpg",
       "audioLink": "knee socks.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Una prenda suelta, generalmente de largo hasta el suelo, para dormir o relajarse, típicamente hecha de algodón o seda.",
       "example": "Włożyłem moją ulubioną nocną sukienkę do łóżka wczoraj. Będę nosić ją ponownie dziś wieczorem. Noszę ją każdego wieczoru minionego tygodnia.",
       "example_translation": "Me puse mi camisón favorito para dormir anoche. Me lo pondré de nuevo esta noche. Me lo puse todas las noches la semana pasada.",
-      "imageLink": "nightgown.jpg",
+      "imageLink": "image_files\\English\\nightgown.jpg",
       "audioLink": "nightgown.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Una prenda suelta, generalmente corta, para dormir o relajarse, típicamente hecha de algodón o seda.",
       "example": "Ona włożyła swoją nocniczkę przed pójściem do łóżka. Będzie nosić ją ponownie jutro. Noszę ją każdego wieczoru minionego miesiąca.",
       "example_translation": "Ella se puso su camiseta de dormir antes de ir a la cama. Se la pondrá de nuevo mañana. La llevó todas las noches el mes pasado.",
-      "imageLink": "nightie.jpg",
+      "imageLink": "image_files\\English\\nightie.jpg",
       "audioLink": "nightie.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Pantalones y una parte superior holgados, llevados para dormir o relajarse.",
       "example": "On włożył swoją piżamę do pokoju telewizyjnego, aby obejrzeć telewizję. Będzie nosić ją ponownie dziś wieczorem. Noszę ją każdego wieczoru minionego roku.",
       "example_translation": "Él se puso sus pijamas en la sala de estar para ver televisión. Se los pondrá de nuevo esta noche. Se los puso todas las noches el año pasado.",
-      "imageLink": "pyjamas.jpg",
+      "imageLink": "image_files\\English\\pyjamas.jpg",
       "audioLink": "pyjamas.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "un tipo de zapato atlético casual, típicamente hecho de cuero o materiales sintéticos, con una suela de goma y cordones o cierre de velcro",
       "example": "Włożyłem moje adidasy do siłowni wczoraj, noszę je teraz w parku i będę nosić je na plaży jutro.",
       "example_translation": "Me puse mis zapatillas en el gimnasio ayer, las estoy llevando al parque ahora y las llevaré a la playa mañana.",
-      "imageLink": "sneakers.jpg",
+      "imageLink": "image_files\\English\\sneakers.jpg",
       "audioLink": "sneakers.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "una prenda suelta y absorbente que se lleva después de bañarse o nadar, típicamente hecha de algodón, poliéster o una combinación de ambos",
       "example": "Włożyłem szlafrok po prysznicu, noszę go teraz, gdy idę do sypialni i będę nosić go, gdy wyjdę z sauny.",
       "example_translation": "Me puse mi albornoz después de la ducha, lo llevaba cuando entré en el dormitorio y lo llevaré cuando salga del sauna.",
-      "imageLink": "bathrobe.jpg",
+      "imageLink": "image_files\\English\\bathrobe.jpg",
       "audioLink": "bathrobe.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "un tipo de corbata que consiste en una cinta o tira de tela atada en forma de lazo alrededor del cuello",
       "example": "Włożyłem muszkę na ślub wczoraj, noszę ją teraz na formalną kolację i będę nosić ją na operę jutro.",
       "example_translation": "Me puse una pajarita en la boda ayer, estoy llevando una al cena formal ahora y llevaré una al ópera mañana.",
-      "imageLink": "bow-tie.jpg",
+      "imageLink": "image_files\\English\\bow-tie.jpg",
       "audioLink": "bow tie.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Los pantalones son un tipo de pantalones cortos, generalmente hechos de cuero u otros materiales duraderos, llevados por jinetes, especialmente jinetes de caballo.",
       "example": "Jeźdźczyni nosiła spodenki, aby zabezpieczyć swoje nogi przed koniem. Ona nosiła spodenki na lekcjach jazdy konnej. On będzie nosił spodenki na pokazie konnym następnego miesiąca.",
       "example_translation": "La jinete se puso pantalones para proteger sus piernas del caballo. Ella ha estado llevando pantalones para lecciones de equitación. Él se pondrá pantalones en el show de caballos el próximo mes.",
-      "imageLink": "breeches.jpg",
+      "imageLink": "image_files\\English\\breeches.jpg",
       "audioLink": "breeches.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Una capa es un prenda exterior sin mangas, generalmente llevada sobre el hombro, a menudo como una pieza de ropa ceremonial o simbólica.",
       "example": "Superbohater nosił płaszcz, aby latać nad miastem. Ona nosiła płaszcz na imprezach kostiumowych. Oni będą nosić płaszcze na balu maskowym za rok.",
       "example_translation": "El superhéroe se puso una capa para volar sobre la ciudad. Ella ha estado llevando una capa a fiestas de disfraces. Ellos se pondrán capas en la fiesta de máscaras el próximo año.",
-      "imageLink": "cape.jpg",
+      "imageLink": "image_files\\English\\cape.jpg",
       "audioLink": "cape.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un tapón es un bloqueo o obstrucción en una tubería o sistema, especialmente uno causado por un acumulamiento de sedimentos o residuos.",
       "example": "Hydraulik musiał usunąć zator z odpływu, aby naprawić zlew. Ona zablokowała odpływ włosami i mydłem tydzień temu. Do następnego roku odpływ będzie ponownie zablokowany, jeśli nie czyścimy go regularnie.",
       "example_translation": "El plomero tuvo que despejar el tapón en el drenaje para arreglar el fregadero. Ella había tapado el drenaje con pelo y jabón la semana pasada. Para el próximo año, el drenaje estará tapado de nuevo si no lo limpiamos regularmente.",
-      "imageLink": "clog.jpg",
+      "imageLink": "image_files\\English\\clog.jpg",
       "audioLink": "clog.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Un corsé es un prendimiento ajustado que se lleva para dar forma o constreñir el torso, especialmente uno que se lleva las mujeres para crear una figura esbelta.",
       "example": "Kiedyś kobiety nosiły korse, aby uczynić swoje talie wyglądać mniejsze. Ona nosiła korse przez miesiące, aby przygotować się do ślubu. Do następnego roku korse będą ponownie modne.",
       "example_translation": "En el pasado, las mujeres llevaban corsés para hacer que sus cinturas parecieran más pequeñas. Ella ha estado llevando un corsé durante meses para prepararse para su boda. Para el próximo año, los corsés estarán de moda nuevamente.",
-      "imageLink": "corset.jpg",
+      "imageLink": "image_files\\English\\corset.jpg",
       "audioLink": "corset.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Las medias de malla son un tipo de medias con un patrón de malla, que se llevan comúnmente por moda o como un artículo de ropa provocativo.",
       "example": "Aktorka nosiła pończochy siatkowe na scenie, aby wyrazić buntowniczą osobowość swojej postaci. Ona nosiła pończochy siatkowe do pracy każdego piątku. Do następnego miesiąca pończochy siatkowe będą stałym elementem jej garderoby.",
       "example_translation": "La actriz llevaba medias de malla en el escenario para expresar la personalidad rebelde de su personaje. Ella ha estado llevando medias de malla al trabajo todos los viernes. Para el próximo mes, las medias de malla serán una parte fundamental en su guardarropa.",
-      "imageLink": "fishnet-tights.jpg",
+      "imageLink": "image_files\\English\\fishnet-tights.jpg",
       "audioLink": "fishnet tights.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Un cinturón es un tipo de prenda que se lleva alrededor de la cintura para sostener la ropa, a menudo utilizado por mujeres en el pasado.",
       "example": "Noszę gorset, aby trzymać swoją spódnicę w latach 50. Ona będzie nosić gorset na imprezie kostiumowej dziś wieczorem. Ona nosiła gorset do pracy każdego dnia.",
       "example_translation": "Llevé un cinturón para sostener mi falda en la década de 1950. Llevaré un cinturón a la fiesta de disfraces esta noche. Ella llevó un cinturón al trabajo todos los días.",
-      "imageLink": "girdle.jpg",
+      "imageLink": "image_files\\English\\girdle.jpg",
       "audioLink": "girdle.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Los abrigo de piernas son un tipo de ropa que se lleva sobre las piernas para mantenerlas calientes, a menudo utilizado por bailarines o atletas.",
       "example": "Baletnice nosiły ochraniacze nóg, aby ogrzać swoje nogi podczas ćwiczeń. Ja będę nosić ochraniacze nóg na zimowej konkurencji tanecznej. Ona nosi ochraniacze nóg na każdej lekcji gimnastyki.",
       "example_translation": "Los bailarines de ballet llevaron abrigo de piernas para mantener las piernas calientes durante los ensayos. Llevaré abrigo de piernas a la competencia de danza invernal fría. Ella lleva abrigo de piernas a clase de gimnasio todos los días.",
-      "imageLink": "leg-warmers.jpg",
+      "imageLink": "image_files\\English\\leg-warmers.jpg",
       "audioLink": "leg warmers.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Una enaguas es un tipo de falda interior que se lleva las mujeres, a menudo para agregar volumen o forma a una falda o vestido.",
       "example": "Ona nosiła spódnice pod swoją suknią ślubną, aby uczynić ją pełniejszą. Ja będę nosić spódnice na imprezie wiktoriańskiej dziś wieczorem. Rekonstruktor nosił spódnice pod swoimi kostiumami.",
       "example_translation": "Ella llevó enaguas debajo de su vestido de boda para hacer que pareciera más lleno. Llevaré enaguas a la fiesta temática victoriana esta noche. La reenactora histórica llevó enaguas debajo de su traje de época.",
-      "imageLink": "petticoat.jpg",
+      "imageLink": "image_files\\English\\petticoat.jpg",
       "audioLink": "petticoat.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Un abrigo hecho de la piel de una oveja, normalmente llevado como capa externa protectora en clima frío.",
       "example": "Noszę skórzana kurtkę na wycieczkę narciarską zimą ubiegłą. Będę nosić ją na festiwalu za weekend. Miałem ją na wycieczkę kempingową rok temu.",
       "example_translation": "Llevé un abrigo de piel de oveja al viaje de esquí el invierno pasado. Voy a llevarlo al festival el próximo fin de semana. Lo había llevado al viaje de campamento el año pasado.",
-      "imageLink": "sheepskin-coat.jpg",
+      "imageLink": "image_files\\English\\sheepskin-coat.jpg",
       "audioLink": "sheepskin coat.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Una prenda sin mangas que se lleva sobre una camisa, típicamente para ocasiones formales o ceremoniales.",
       "example": "Włożyłem kamizelkę na ceremonię ślubu. Będę nosić ją na wieczór wręczania nagród. Miałem ją na ceremonii absolutorium.",
       "example_translation": "Me puse un chaleco para la ceremonia de boda. Voy a llevarlo a la noche de premios. Lo había llevado a la ceremonia de graduación.",
-      "imageLink": "vest.jpg",
+      "imageLink": "image_files\\English\\vest.jpg",
       "audioLink": "vest.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Una cubierta para la cabeza y el cabello, típicamente llevada por mujeres.",
       "example": "Ona nosiła czapkę na imprezę w ogrodzie. Ona będzie nosiła ją na chrzest. Ona nosiła ją na wydarzenie charytatywne.",
       "example_translation": "Ella se puso un capó para la fiesta en el jardín. Va a llevarlo al baby shower. Lo había llevado al evento benéfico.",
-      "imageLink": "bonnet.jpg",
+      "imageLink": "image_files\\English\\bonnet.jpg",
       "audioLink": "bonnet.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Una prenda suelta y cómoda que se lleva para relajarse o dormir, generalmente hecha de un tejido suave como algodón o seda.",
       "example": "Ona włożyła szlafrok i zeszła na dół, by zrobić herbatę. Ona nosiła swój szlafrok przez całą rano. Ona będzie nosiła swój szlafrok do łóżka dzisiaj wieczorem.",
       "example_translation": "Se puso su bata y fue abajo a hacer té. Llevaba su bata toda la mañana. Llevará su bata a la cama esta noche.",
-      "imageLink": "dressing-gown.jpg",
+      "imageLink": "image_files\\English\\dressing-gown.jpg",
       "audioLink": "dressing gown.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Una chaqueta casual con capucha, generalmente hecha de algodón o materiales sintéticos.",
       "example": "On nosił bluzę z kapturem na siłownię. Ona nosiła bluzę z kapturem każdego dnia tej недели. Oni będą nosić bluzy z kapturem na koncert jutro.",
       "example_translation": "Él llevó una sudadera con capucha al gimnasio. Ella ha llevado una sudadera con capucha todos los días esta semana. Ellos llevarán sudaderas con capucha al concierto mañana.",
-      "imageLink": "hoodie.jpg",
+      "imageLink": "image_files\\English\\hoodie.jpg",
       "audioLink": "hoodie.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Una prenda suelta y informal que se lleva en casa, generalmente hecha de un tejido suave como algodón o toalla.",
       "example": "Ona włożyła piżamę i zaczęła robić śniadanie. On nosił piżamę przez całą rano. Oni będą nosić piżamy na rodzinne spotkanie dzisiaj wieczorem.",
       "example_translation": "Ella se puso su bata de casa y empezó a hacer el desayuno. Él llevaba una bata de casa toda la mañana. Ellos llevarán batas de casa a la reunión familiar esta noche.",
-      "imageLink": "housecoat.jpg",
+      "imageLink": "image_files\\English\\housecoat.jpg",
       "audioLink": "housecoat.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Un tipo de suéter o parte superior con un cuello alto y redondo que se dobla en el cuello.",
       "example": "Noszę sweter z kołnierzykiem, aby się ogrzać zimą. Będę nosić sweter z kołnierzykiem na imprezę dzisiaj wieczorem. Ona nosiła sweter z kołnierzykiem każdego dnia tej недели.",
       "example_translation": "Me puse un cuello de tortuga para mantenerme caliente durante el invierno. Me pondré un cuello de tortuga en la fiesta esta noche. Ella ha estado usando un cuello de tortuga todos los días esta semana.",
-      "imageLink": "turtleneck.jpg",
+      "imageLink": "image_files\\English\\turtleneck.jpg",
       "audioLink": "turtleneck.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Una falda que se lleva debajo de otra falda o vestido, normalmente para agregar volumen o calor.",
       "example": "Narzeczona nosiła spódnice niższą, aby dodać objętość do sukni ślubnej. Ona szukała spódnicy niższej, aby nosić ją pod swoją ulubioną spódnicą. Oni będą nosić spódnice niższe na kostiumowe przyjęcie.",
       "example_translation": "La novia se puso una falda interior para agregar volumen a su vestido de boda. Ha estado buscando una falda interior para llevar debajo de su falda favorita. Ellos se pondrán faldas interiores en la fiesta de disfraces.",
-      "imageLink": "underskirt.jpg",
+      "imageLink": "image_files\\English\\underskirt.jpg",
       "audioLink": "underskirt.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Una prenda sin mangas, que se lleva típicamente alrededor de la cintura, a menudo como parte de un traje de tres piezas.",
       "example": "On nosił kamizelkę na formalną imprezę. Ona szukała kamizelki, aby dopasować do garnituru. Oni będą nosić kamizelki na ślub.",
       "example_translation": "Él se puso un chaleco en el evento formal. Ella ha estado buscando un chaleco para combinar con su traje. Ellos se pondrán chalecos en la boda.",
-      "imageLink": "waistcoat.jpg",
+      "imageLink": "image_files\\English\\waistcoat.jpg",
       "audioLink": "waistcoat.mp3"
     }
   ]

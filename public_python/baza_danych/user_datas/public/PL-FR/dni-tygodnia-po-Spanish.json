@@ -9,7 +9,7 @@
       "definition_translation": "Le jour de la semaine entre jeudi et samedi, généralement considéré comme le cinquième jour de la semaine.",
       "example": "Czekam na piątek, kiedy wreszcie mogę zrobić przerwę w pracy. Wczoraj był czwartek, dziś jest piątek, a jutro będzie sobota. Do następnego piątku, skończę swój projekt.",
       "example_translation": "Je me réjouis de vendredi, lorsque je pourrai enfin prendre une pause dans le travail. Hier était jeudi, aujourd'hui est vendredi, et demain sera samedi. D'ici vendredi prochain, j'aurai terminé mon projet.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Le jour de la semaine entre dimanche et mardi, généralement considéré comme le premier jour de la semaine.",
       "example": "Nienawidzę poniedziałków, zawsze wydają się ciężkie po relaksującym weekendzie. Ostatni poniedziałek, poszedłem do siłowni, ale ten poniedziałek, wezmę dzień wolny. Do następnego poniedziałku, rozpocznę nową pracę.",
       "example_translation": "Je déteste les lundis, ils ont toujours l'air de traîner après un week-end relaxant. Lundi dernier, je suis allé au gym, mais ce lundi, je prendrai un jour de congé. D'ici lundi prochain, j'aurai commencé mon nouveau travail.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Le jour de la semaine entre vendredi et dimanche, généralement considéré comme le sixième jour de la semaine.",
       "example": "Lubię soboty, zawsze są tak relaksujące. Ostatnią sobotę, poszedłem na plażę, ale tej soboty, pójdę do parku. Do następnej soboty, skończę swój projekt.",
       "example_translation": "J'adore les samedis, ils sont toujours si relaxants. Samedi dernier, je suis allé à la plage, mais ce samedi, je vais au parc. D'ici samedi prochain, j'aurai terminé mon projet.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Le jour de la semaine entre samedi et lundi, généralement considéré comme le septième jour de la semaine.",
       "example": "Niedziele są zawsze tak leniwe, uwielbiam spać dłużej. Ostatnią niedzielę, oglądałem film, ale tej niedzieli, pójdę do kościoła. Do następnej niedzieli, skończę swoje zadania domowe.",
       "example_translation": "Les dimanches sont toujours si paresseux, j'adore dormir tard. Dimanche dernier, j'ai regardé un film, mais ce dimanche, je vais à l'église. D'ici dimanche prochain, j'aurai fini mes devoirs.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Le cinquième jour de la semaine, dans le calendrier occidental, suivant le mercredi et précédant le vendredi.",
       "example": "Spotkam się z tobą w czwartek, aby omówić projekt. Ostatni czwartek, poszedłem do kina. Do następnego czwartku, skończę raport.",
       "example_translation": "Je vous rencontrerai jeudi pour discuter du projet. Le jeudi dernier, je suis allé au cinéma. D'ici jeudi prochain, j'aurai terminé le rapport.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Le deuxième jour de la semaine, dans le calendrier occidental, suivant le lundi et précédant le mercredi.",
       "example": "Mam spotkanie we wtorek rano. Ostatni wtorek, poszedłem do siłowni. Do następnego wtorku, skończę projekt.",
       "example_translation": "J'ai une réunion le mardi matin. Le mardi dernier, je suis allé au gymnase. D'ici le mardi prochain, j'aurai terminé le projet.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Le troisième jour de la semaine, dans le calendrier occidental, suivant le mardi et précédant le jeudi.",
       "example": "Spotkam się z tobą w środę po południu. Ostatnią środę, poszedłem do biblioteki. Do następnej środy, skończę esej.",
       "example_translation": "Je vous verrai le mercredi après-midi. Le mercredi dernier, je suis allé à la bibliothèque. D'ici le mercredi prochain, j'aurai terminé le devoir.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

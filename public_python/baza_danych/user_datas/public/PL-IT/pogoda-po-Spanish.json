@@ -9,7 +9,7 @@
       "definition_translation": "Avendo una bassa temperatura; fresco o freddo.",
       "example": "Byłem zimny wczoraj, więc założyłem płaszcz. Jestem zimny dzisiaj, więc będę nosił czapkę. Będę zimny jutro, więc będę nosił rękawiczki.",
       "example_translation": "Ero freddo ieri, quindi ho indossato un cappotto. Sono freddo oggi, quindi indosserò un cappello. Sarò freddo domani, quindi indosserò guanti.",
-      "imageLink": "cold-1.jpg",
+      "imageLink": "image_files\\English\\cold-1.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Mancante di calore di sentimento; ostile o senza emozione.",
       "example": "Była zimna wobec mnie, kiedy się spotkaliśmy. Jest zimna wobec mnie teraz. Będzie zimna wobec mnie w przyszłości.",
       "example_translation": "Lei era fredda con me quando l'ho incontrata. Lei è fredda con me ora. Lei sarà fredda con me nel futuro.",
-      "imageLink": "cold-3.jpg",
+      "imageLink": "image_files\\English\\cold-3.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Avendo una alta temperatura; caldo o bollente.",
       "example": "Byłem gorąco wczoraj, więc piłem wodę. Jestem gorąco dzisiaj, więc wezmę prysznic. Będę gorąco jutro, więc będę nosił lekkie ubranie.",
       "example_translation": "Ero caldo ieri, quindi ho bevuto acqua. Sono caldo oggi, quindi farò una doccia. Sarò caldo domani, quindi indosserò vestiti leggeri.",
-      "imageLink": "hot-2.jpg",
+      "imageLink": "image_files\\English\\hot-2.jpg",
       "audioLink": "hot.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Precipitazione nella forma di gocce d'acqua, tipicamente dalle nuvole, che cadono a terra.",
       "example": "Padał deszcz wczoraj, ale będzie padał znowu jutro. Lubiłem bawić się w deszczu, kiedy byłam dzieckiem. Będzie padał deszcz, kiedy przyjedziemy.",
       "example_translation": "È piovuto pesantemente ieri, ma pioverà di nuovo domani. Mi piaceva giocare nella pioggia quando ero bambino. Sarà piovuto quando arriveremo.",
-      "imageLink": "rain.jpg",
+      "imageLink": "image_files\\English\\rain.jpg",
       "audioLink": "rain.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Vapore acqueo atmosferico congelato in cristalli di ghiaccio, cadendo a terra, spesso in fiocchi o fiocchi.",
       "example": "Śnieg padał w ostatniej zimie, ale już nie pada tak często. Kiedy byłem dzieckiem, lubiłem robić bałwany w śniegu. Będzie padał śnieg znowu następnego roku.",
       "example_translation": "È nevicato l'inverno scorso, ma non neve molto più. Quando ero ragazzo, mi piaceva fare uomini di neve nella neve. Nevicherà di nuovo l'anno prossimo.",
-      "imageLink": "snow.jpg",
+      "imageLink": "image_files\\English\\snow.jpg",
       "audioLink": "snow.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "La stagione più calda dell'anno, nell'emisfero boreale da giugno ad agosto e nell'emisfero australe da dicembre a febbraio.",
       "example": "Uwielbiam podróżować latem, ponieważ pogoda jest idealna. W zeszłym latem pojechałem z rodziną na plażę. Będzie gorąco ponownie następnego lata.",
       "example_translation": "Mi piace viaggiare in estate perché il tempo è perfetto. L'estate scorsa, sono andato al mare con la mia famiglia. Sarà di nuovo caldo l'estate prossima.",
-      "imageLink": "summer.jpg",
+      "imageLink": "image_files\\English\\summer.jpg",
       "audioLink": "summer.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Il sole è la stella attorno alla quale la Terra e altri pianeti nel nostro sistema solare orbitano. È una grande palla di gas caldo e luminoso che fornisce luce e calore al nostro pianeta.",
       "example": "Wczoraj widziałem słońce wschodzące nad górami. Dzisiaj cieszę się ciepłym słońcem na skórze. Jutro obejrzę słońce zachodzące nad oceanem.",
       "example_translation": "Ieri, ho visto il sole sorgere sopra le montagne. Oggi, sto godendomi il sole caldo sulla mia pelle. Domani, guarderò il sole tramontare sull'oceano.",
-      "imageLink": "sun.jpg",
+      "imageLink": "image_files\\English\\sun.jpg",
       "audioLink": "sun.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "La calore è una sensazione di comfort e accoglienza, spesso associata a una temperatura moderata o mite. Può anche riferirsi alla personalità di una persona, descrivendo qualcuno che è amichevole e affettuoso.",
       "example": "Ciepłe uściski od babci sprawiły, że czułem się kochany. Ciepła woda w basenie była idealna do pływania. W ciepłym lecie będziemy chodzili na plażę codziennie.",
       "example_translation": "L'abbraccio caldo della mia nonna mi ha fatto sentire amato. L'acqua calda nella piscina era perfetta per nuotare. Nell'estate calda, andremo alla spiaggia ogni giorno.",
-      "imageLink": "warm-1.jpg",
+      "imageLink": "image_files\\English\\warm-1.jpg",
       "audioLink": "warm.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Il meteo si riferisce allo stato dell'atmosfera in un luogo e momento specifici, incluso la temperatura, l'umidità, la nuvolosità, il vento e le precipitazioni. Può essere soleggiato, piovoso, nuvoloso o qualsiasi altra condizione che influisce sulla nostra vita quotidiana.",
       "example": "Prognoza pogody powiedziała, że będzie padał deszcz jutro, więc wziąłem parasol. Wczorajsza pogoda była idealna na piknik. W przyszłości będziemy mieli coraz bardziej ekstremalne warunki pogodowe ze względu na zmianę klimatu.",
       "example_translation": "La previsione del meteo ha detto che sarebbe piovuto domani, quindi ho portato un ombrello. Il meteo di ieri era perfetto per un picnic. Nel futuro, avremo condizioni meteorologiche più estreme a causa del cambiamento climatico.",
-      "imageLink": "weather.jpg",
+      "imageLink": "image_files\\English\\weather.jpg",
       "audioLink": "weather.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un movimento naturale dell'aria nell'atmosfera, specialmente uno forte.",
       "example": "Wiatr wiał silnie wczoraj. Wiało silnie dzisiaj. Będzie wiał silnie jutro.",
       "example_translation": "Il vento soffiava forte ieri. Soffia forte oggi. Soffierà forte domani.",
-      "imageLink": "wind.jpg",
+      "imageLink": "image_files\\English\\wind.jpg",
       "audioLink": "wind.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "La stagione dell'anno tra l'autunno e la primavera, caratterizzata dal tempo freddo.",
       "example": "Weszliśmy na narty w zimie zeszłego roku. Wchodzimy na narty w zimie tego roku. Wędlemy na narty w zimie przyszłego roku.",
       "example_translation": "Siamo andati a sciare in inverno l'anno scorso. Stiamo andando a sciare in inverno quest'anno. Andrà a sciare in inverno l'anno prossimo.",
-      "imageLink": "winter.jpg",
+      "imageLink": "image_files\\English\\winter.jpg",
       "audioLink": "winter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Una massa visibile di vapore d'acqua nel cielo.",
       "example": "Widziałem chmurę w niebie wczoraj. Widzę chmurę w niebie dzisiaj. Zobaczę chmurę w niebie jutro.",
       "example_translation": "Ho visto una nuvola nel cielo ieri. Vedo una nuvola nel cielo oggi. Vedrò una nuvola nel cielo domani.",
-      "imageLink": "cloud.jpg",
+      "imageLink": "image_files\\English\\cloud.jpg",
       "audioLink": "cloud.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Avere un aspetto nuvoloso o condizione; non chiaro o trasparente",
       "example": "Pogoda była pochmurna wczoraj, ale dzisiaj jest słoneczna. Będzie pochmurna ponownie jutro.",
       "example_translation": "Il tempo era nuvoloso ieri, ma oggi è soleggiato. Sarà nuvoloso di nuovo domani.",
-      "imageLink": "cloudy.jpg",
+      "imageLink": "image_files\\English\\cloudy.jpg",
       "audioLink": "cloudy.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Una massa nuvolosa di piccole gocce d'acqua sospese nell'aria vicino al suolo",
       "example": "Mgła znad oceanu uniemożliwiła nam widzenie. Musimy czekać, aż mgła się rozejrzy.",
       "example_translation": "La nebbia si è spostata fuori dall'oceano, rendendo difficile la vista. Dovremo aspettare che la nebbia si tenga pulita prima di poter andare.",
-      "imageLink": "fog.jpg",
+      "imageLink": "image_files\\English\\fog.jpg",
       "audioLink": "fog.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Avendo o caratterizzato dalla nebbia; non chiaro o trasparente",
       "example": "Mglista poranna uniemożliwiła nam jazdę. Było mglisto na zewnątrz, więc został w domu. Będzie mglisto ponownie dziś wieczorem.",
       "example_translation": "La mattina nebbiosa ha reso difficile guidare. Era nebbioso fuori, quindi ci siamo fermati dentro. Sarà nebbioso di nuovo stasera.",
-      "imageLink": "foggy.jpg",
+      "imageLink": "image_files\\English\\foggy.jpg",
       "audioLink": "foggy.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Acqua congelata nella sua forma solida, generalmente trasparente o bianca, formata dalla condensazione del vapore acqueo nell'atmosfera.",
       "example": "Ośrodek narciarski był otwarty cały rok, dzięki sztucznemu lodowi. Jeździłem na łyżwach, kiedy byłem dzieckiem. Pójdę łyżwiarstwa zimą przyszłego roku.",
       "example_translation": "La stazione sciistica era aperta tutto l'anno, grazie alla pista di ghiaccio artificiale. Patinavo sul ghiaccio quando ero un ragazzo. Andrò a pattinare il prossimo inverno.",
-      "imageLink": "ice-1.jpg",
+      "imageLink": "image_files\\English\\ice-1.jpg",
       "audioLink": "ice.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "La stagione dell'anno tra l'inverno e l'estate, durante la quale il clima diventa più caldo e le piante iniziano a crescere.",
       "example": "Lubię spacerować w parku wiosną. Kwiaty kwitły wiosną 2010 roku. Odwiedzę moją rodzinę wiosną przyszłego roku.",
       "example_translation": "Mi piace passeggiare nel parco durante la primavera. I fiori stavano fiorendo nella primavera del 2010. Visiterò la mia famiglia la prossima primavera.",
-      "imageLink": "spring.jpg",
+      "imageLink": "image_files\\English\\spring.jpg",
       "audioLink": "spring.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una condizione meteorologica severa caratterizzata da venti forti, pioggia intensa, tuoni e fulmini.",
       "example": "Burza zniszczyła wiele domów w mieście. Burza szybko się zbliżała. Zostanę w domu podczas burzy.",
       "example_translation": "La tempesta ha distrutto molte case nel paese. La tempesta si stava avvicinando velocemente. Rimarrò a casa durante la tempesta.",
-      "imageLink": "storm.jpg",
+      "imageLink": "image_files\\English\\storm.jpg",
       "audioLink": "storm.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Avendo una grande quantità di sole; caldo e allegro.",
       "example": "Słoneczna pogoda uczyniła naszą wycieczkę na plażę idealną. Słońce świeciło bardzo mocno wczoraj. Będzie słonecznie jutro.",
       "example_translation": "Il tempo soleggiato ha reso il nostro viaggio al mare perfetto. Il sole splendeva intensamente ieri. Avremo una giornata soleggiata domani.",
-      "imageLink": "sunny.jpg",
+      "imageLink": "image_files\\English\\sunny.jpg",
       "audioLink": "sunny.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un temporale caratterizzato dalla presenza di fulmini, tuoni e pioggia forte.",
       "example": "Burza elektromagnetyczna wczoraj była bardzo straszna. Mieliśmy ostrzeżenie przed burzą elektromagnetyczną wczoraj. Prognoza mówi, że będziemy mieli burzę elektromagnetyczną jutro.",
       "example_translation": "Il temporale di last night era molto spaventoso. Abbiamo avuto un avviso di temporale ieri. La previsione dice che avremo un temporale domani.",
-      "imageLink": "thunderstorm-1.jpg",
+      "imageLink": "image_files\\English\\thunderstorm-1.jpg",
       "audioLink": "thunderstorm.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Coperto o saturo di acqua o di un'altra sostanza liquida.",
       "example": "Mokry pies wytrząsał się energicznie. Podłoga była mokra po wylewie. Mokre ubrania zajmą długo, aby wyschnąć.",
       "example_translation": "Il cane bagnato si è scrollato vigorosamente. Il pavimento era bagnato dopo lo spettacolo. I vestiti bagnati ci metteranno molto tempo a seccare.",
-      "imageLink": "wet.jpg",
+      "imageLink": "image_files\\English\\wet.jpg",
       "audioLink": "wet.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "avendo un forte vento; molto ventilato",
       "example": "Był to wietrzny dzień, więc nie mogliśmy latać latawcem. Dzisiaj jest wietrznie, a jutro również będzie wietrznie.",
       "example_translation": "Era un giorno ventoso, quindi non potevamo volare un aquilone. Oggi è ventoso e domani sarà nuovamente ventoso.",
-      "imageLink": "windy.jpg",
+      "imageLink": "image_files\\English\\windy.jpg",
       "audioLink": "windy.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "per spostare l'aria fuori dalla bocca o per far muovere l'aria con una corrente d'aria",
       "example": "Ona dmucha nos. On dmuchnął w gwizdek. Oni dmuchną świece.",
       "example_translation": "Lei soffia il naso. Lui ha soffiato il fischio. Loro soffieranno le candele.",
-      "imageLink": "blow.jpg",
+      "imageLink": "image_files\\English\\blow.jpg",
       "audioLink": "blow.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "un vento gentile, soprattutto un piacevole in una giornata calda",
       "example": "Delikatna bryza wiejąca przez drzewa. Chłodna bryza nas orzeźwiła. Jutro będzie ciepła bryza.",
       "example_translation": "Una brezza gentile soffiò attraverso gli alberi. La brezza fresca ci rinfrescò. Domani ci sarà una brezza calda.",
-      "imageLink": "breeze.jpg",
+      "imageLink": "image_files\\English\\breeze.jpg",
       "audioLink": "breeze.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "La qualità di essere caldo; alta temperatura; intensità di passione o eccitazione.",
       "example": "Ciepło było nie do zniesienia latem. Ogrzewaliśmypokój piecem. Ogrzejemy wodę do basenu.",
       "example_translation": "Il calore era insopportabile in estate. Abbiamo riscaldato la stanza con una fornace. Riscaldremo l'acqua per la piscina.",
-      "imageLink": "heat.jpg",
+      "imageLink": "image_files\\English\\heat.jpg",
       "audioLink": "heat.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Una scarica elettrica brillante nell'atmosfera, accompagnata da tuono.",
       "example": "Błyskawica uderzyła w drzewo podczas burzy. Widzieliśmy błyskawicę przecinającą niebo. Błyskawica uderzy szybko.",
       "example_translation": "Il fulmine ha colpito l'albero durante la tempesta. Abbiamo visto il lampo attraverso il cielo. Il fulmine colpirà di nuovo presto.",
-      "imageLink": "lightning.jpg",
+      "imageLink": "image_files\\English\\lightning.jpg",
       "audioLink": "lightning.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un periodo dell'anno caratterizzato da un particolare insieme di condizioni meteorologiche o attività.",
       "example": "Zima jest moim ulubionym sezonem. Będziemy przyprawiać mięso solą i pieprzem. Nowy sezon programu TV rozpocznie się wkrótce.",
       "example_translation": "L'inverno è la mia stagione preferita. Condiremo la carne con sale e pepe. La nuova stagione dello spettacolo televisivo inizierà presto.",
-      "imageLink": "season.jpg",
+      "imageLink": "image_files\\English\\season.jpg",
       "audioLink": "season.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Il momento del mattino quando il sole appare sopra l'orizzonte, spesso accompagnato da un caldo bagliore nel cielo.",
       "example": "Uwielbiam obserwować wschód słońca z góry. Wczoraj obserwowałem wschód słońca z plaży. Jutro obserwuję wschód słońca z mojego podwórka.",
       "example_translation": "Adoro guardare l'alba dalla cima della montagna. Ieri, ho guardato l'alba dalla spiaggia. Domani, guarderò l'alba dal mio giardino.",
-      "imageLink": "sunrise.jpg",
+      "imageLink": "image_files\\English\\sunrise.jpg",
       "audioLink": "sunrise.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Il momento della sera quando il sole scompare sotto l'orizzonte, spesso accompagnato da un caldo bagliore nel cielo.",
       "example": "Uwielbiam obserwować zachód słońca z góry. Wczoraj obserwowałem zachód słońca z plaży. Jutro obserwuję zachód słońca z mojego podwórka.",
       "example_translation": "Adoro guardare il tramonto dalla cima della montagna. Ieri, ho guardato il tramonto dalla spiaggia. Domani, guarderò il tramonto dal mio giardino.",
-      "imageLink": "sunset.jpg",
+      "imageLink": "image_files\\English\\sunset.jpg",
       "audioLink": "sunset.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "La luce calda e luminosa del sole, spesso associata alla felicità e alla calma.",
       "example": "Słoneczne światło wpadające przez okno rozjaśniło pokój. Słoneczne światło sprawiło, że kwiaty zakwitły. Słoneczne światło uczyni nasz dzień piękniejszym.",
       "example_translation": "Il sole che attraversa la finestra ha illuminato la stanza. Il sole ha fatto fiorire i fiori. Il sole renderà la nostra giornata più bella.",
-      "imageLink": "sunshine.jpg",
+      "imageLink": "image_files\\English\\sunshine.jpg",
       "audioLink": "sunshine.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "un rumore assordante che accompagna la folgore, tipicamente durante una tempesta",
       "example": "Wczoraj słyszałem głośny grzmot na niebie. Dziś, prognoza pogody mówi, że nie będzie grzmotu. Do następnego tygodnia burza, która przyniosła grzmot, minie.",
       "example_translation": "Ieri, ho sentito un forte tuono nel cielo. Oggi, le previsioni del tempo dicono che non ci sarà tuono. Entro la prossima settimana, la tempesta che ha portato il tuono sarà passata.",
-      "imageLink": "thunder.jpg",
+      "imageLink": "image_files\\English\\thunder.jpg",
       "audioLink": "thunder.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "la luce del giorno, soprattutto quando il sole splende",
       "example": "Podczas lata, jest więcej światła dziennego rano. O południu, światło dziennie jest najsilniejsze. Wieczorem, światło dziennie zaczyna słabnąć.",
       "example_translation": "Durante l'estate, c'è più luce del giorno al mattino. A mezzogiorno, la luce del giorno è più forte. La sera, la luce del giorno inizia a svanire.",
-      "imageLink": "daylight.jpg",
+      "imageLink": "image_files\\English\\daylight.jpg",
       "audioLink": "daylight.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "un potente stormo rotante che si forma sopra acque oceaniche calde, caratterizzato da venti forti e pesanti piogge",
       "example": "Huragan uderzył w wybrzeże wczorajszej nocy. Wczoraj, wydano ostrzeżenie przed huraganem. Do przyszłego roku, obszar będzie odzyskał po huraganie.",
       "example_translation": "L'uragano ha colpito la costa la scorsa notte. L'avviso di uragano è stato emesso ieri. Entro l'anno prossimo, l'area si sarà ripresa dall'uragano.",
-      "imageLink": "hurricane.jpg",
+      "imageLink": "image_files\\English\\hurricane.jpg",
       "audioLink": "hurricane.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "La luce morbida, argentata della luna, soprattutto come si vede di notte.",
       "example": "Para wzięła romantyczną przechadzkę w świetle księżyca, trzymając się za ręce i patrząc na gwiazdy. Taniec podczas wesela odbył się w świetle księżyca. Będą spacerować w świetle księżyca w rocznicę ślubu.",
       "example_translation": "La coppia ha fatto una passeggiata romantica nella luce lunare, tenendosi per mano e guardando le stelle. Hanno ballato sotto la luce lunare alla ricevimento del loro matrimonio. Faranno una passeggiata nella luce lunare nel loro anniversario.",
-      "imageLink": "moonlight.jpg",
+      "imageLink": "image_files\\English\\moonlight.jpg",
       "audioLink": "moonlight.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uno spettro naturale di colori che appare nel cielo dopo una pioggia, tipicamente nella forma di un arco.",
       "example": "Dziecko zobaczyło tęczę na niebie po burzy i poczuło się szczęśliwe. Będą widzieć tęczę nad wodospadem podczas następnej podróży. Fotograf zrobił piękną fotografię tęczy.",
       "example_translation": "Il bambino ha visto un arcobaleno nel cielo dopo la tempesta e si è sentito felice. Vedranno un arcobaleno sopra la cascata sulla loro prossima gita. La fotografa ha catturato un arcobaleno impressionante nella sua fotocamera.",
-      "imageLink": "rainbow.jpg",
+      "imageLink": "image_files\\English\\rainbow.jpg",
       "audioLink": "rainbow.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "La quantità di pioggia che cade in un'area o luogo particolare in un determinato periodo di tempo.",
       "example": "Miasto doświadczyło obfitych opadów deszczu wczorajszej nocy, powodując powodzi w niektórych obszarach. Kraj doświadczył intensywnych opadów deszczu przez wiele tygodni, wpływając na produkcję rolnej. Prognoza pogody przewiduje umiarkowane opady deszczu w weekend.",
       "example_translation": "La città ha sperimentato una forte pioggia la scorsa notte, causando inondazioni in einige aree. Il paese sta sperimentando una pioggia intensa da settimane, influenzando la produzione agricola. La previsione del tempo predice una pioggia moderata per il fine settimana.",
-      "imageLink": "rainfall.jpg",
+      "imageLink": "image_files\\English\\rainfall.jpg",
       "audioLink": "rainfall.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Tempestoso si riferisce a una situazione meteorologica caratterizzata da venti forti, pioggia forte e spesso tuoni e fulmini. Può anche descrivere una situazione o stato emotivo che è turbolento o instabile.",
       "example": "Burzliwa pogoda uczyniła trudnym wyjście na zewnątrz, ale musieliśmy iść do szkoły. Wczoraj, burzliwa pogoda była tak zła, że musieliśmy zostać w domu. Jutro, burzliwa pogoda ma być lepsza.",
       "example_translation": "Il tempo tempestoso ha reso difficile uscire, ma dovevamo camminare a scuola. Ieri, il tempo tempestoso era così brutto che abbiamo dovuto restare a casa. Domani, il tempo tempestoso dovrebbe migliorare.",
-      "imageLink": "stormy.jpg",
+      "imageLink": "image_files\\English\\stormy.jpg",
       "audioLink": "stormy.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "La luce solare è la luce naturale che proviene dal sole, soprattutto quando brilla attraverso le nuvole o in una stanza. Può anche riferirsi a un'atmosfera luminosa e allegra.",
       "example": "Światło słoneczne wpadające przez okno sprawiło, że pokój wyglądał ciepło i przytulnie. Wczoraj, bawiliśmy się na zewnątrz w świetle słonecznym aż do czasu kolacji. Jutro, pójdziemy na spacer w świetle słonecznym, aby cieszyć się świeżym powietrzem.",
       "example_translation": "La luce solare che si riversava attraverso la finestra ha reso la stanza sentire calda e accogliente. Ieri, abbiamo giocato fuori nella luce solare fino a quando non è stato il momento di cena. Domani, faremo una passeggiata nella luce solare per goderci l'aria fresca.",
-      "imageLink": "sunlight.jpg",
+      "imageLink": "image_files\\English\\sunlight.jpg",
       "audioLink": "sunlight.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Il crepuscolo è il momento della giornata quando il sole è sotto l'orizzonte e la luce è debole e soffice. Può anche riferirsi a un'atmosfera romantica o pacifica.",
       "example": "Wczoraj, patrzyliśmy, jak gwiazdy pojawiają się w zmierzchu. Dziś, wzięliśmy spacer w zmierzchu i zobaczyliśmy, jak miasto zapalało oświetlenie. Jutro, pójdziemy na piknik w zmierzchu, aby cieszyć się widokiem.",
       "example_translation": "Abbiamo guardato le stelle uscire durante il crepuscolo la scorsa notte. Ieri, abbiamo fatto una passeggiata durante il crepuscolo e visto le luci della città accendersi. Domani, faremo un picnic al crepuscolo per goderci la vista.",
-      "imageLink": "twilight.jpg",
+      "imageLink": "image_files\\English\\twilight.jpg",
       "audioLink": "twilight.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Una violenta tempesta di neve con venti forti e visibilità ridotta, spesso accompagnata da forti venti e intense nevicate.",
       "example": "Śnieżna zamieć zimy zeszłej spowodowała powszechne zakłócenia w transporcie i życiu codziennym. W przeszłości, śnieżne zamiecie były częstsze w tym regionie. Do przyszłej zimy, będziemy mieli lepszą infrastrukturę, aby złagodzić skutki śnieżnych zamieci.",
       "example_translation": "La bufera di neve dell'inverno scorso ha causato interruzioni diffuse al trasporto e alla vita quotidiana. In passato, le bufere di neve erano più frequenti in questa regione. Per l'inverno prossimo, avremo infrastrutture migliori per mitigare gli effetti delle bufere di neve.",
-      "imageLink": "blizzard.jpg",
+      "imageLink": "image_files\\English\\blizzard.jpg",
       "audioLink": "blizzard.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un periodo prolungato di tempo anormalmente caldo, spesso accompagnato da alta umidità e siccità.",
       "example": "Fala upału latem ubiegłym roku spowodowała powszechną suszę i braki wody. W przyszłości falę upałów będą częstsze z powodu zmian klimatu. Podczas fali upału konieczne jest, aby utrzymywać odpowiedni poziom nawodnienia i podejmować środki ostrożności przed udarem słonecznym.",
       "example_translation": "L'ondata di calore dell'estate scorsa ha portato a diffuse siccità e scarsità d'acqua. Nel futuro, le ondate di calore diventeranno più frequenti a causa dei cambiamenti climatici. Durante l'ondata di calore, è essenziale mantenersi idratati e prendere precauzioni contro il colpo di calore.",
-      "imageLink": "heatwave.jpg",
+      "imageLink": "image_files\\English\\heatwave.jpg",
       "audioLink": "heatwave.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un periodo prolungato di bassa pioggia anormalmente bassa, che spesso porta a scarsità d'acqua e influenza l'agricoltura e gli ecosistemi.",
       "example": "Susza w zeszłym roku spowodowała straty w uprawach i braki żywności. W przeszłości susze były częstsze w tym regionie. Do następnego roku wprowadzimy środki, aby złagodzić skutki suszy.",
       "example_translation": "La siccità dell'anno scorso ha colpito le colture e ha portato a carenze alimentari. In passato, le siccità erano più frequenti in questa regione. Entro l'anno prossimo, implementeremo misure per mitigare gli effetti delle siccità.",
-      "imageLink": "drought.jpg",
+      "imageLink": "image_files\\English\\drought.jpg",
       "audioLink": "drought.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Piccole palle di ghiaccio che cadono dal cielo durante un temporale.",
       "example": "Grad uderzył w dach z dużym hałasem. Wczoraj gradu wystąpił podczas meczu piłkarskiego. Jeśli graduje jutro, pozostaniemy w domu.",
       "example_translation": "La grandine ha colpito il tetto con un rumore forte. Ieri, ha grandinato durante la partita di calcio. Se grandinerà domani, resteremo a casa.",
-      "imageLink": "hail-1.jpg",
+      "imageLink": "image_files\\English\\hail-1.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Chiudere o salutare qualcuno con grande entusiasmo.",
       "example": "Tłum oklaskiwał nowego prezydenta. Oeklaskiwała taksówkę na ulicy. Będą nas oklaskiwać jako bohaterów, kiedy powrócimy.",
       "example_translation": "La folla ha accolto il nuovo presidente. Ha chiamato un taxi sulla strada. Ci accoglieranno come eroi quando torneremo.",
-      "imageLink": "hail.jpg",
+      "imageLink": "image_files\\English\\hail.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Una piccola palla di ghiaccio che cade dal cielo durante un temporale di grandine.",
       "example": "Gradziki zniszczyły przednią szybę samochodu. Rolnik zebrał gradziki z pola. Gradziki mogą spowodować znaczne szkody w uprawach.",
       "example_translation": "I chiodi di grandine hanno rotto il parabrezza dell'auto. Il farmers ha raccolto i chiodi di grandine dal campo. I chiodi di grandine possono causare danni significativi ai raccolti.",
-      "imageLink": "hailstone.jpg",
+      "imageLink": "image_files\\English\\hailstone.jpg",
       "audioLink": "hailstone.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Una tempesta che produce grandine, solitamente accompagnata da venti forti e pioggia intensa.",
       "example": "Latem 2007 roku burza gradowa zniszczyła uprawy w całym regionie. Burza gradowa przeminie jutro, więc nie musimy się martwić. Gdy już burza gradowa nadeszła, szukaliśmy schronienia.",
       "example_translation": "Nell'estate del 2007, una tempesta di grandine ha danneggiato i raccolti in tutta la regione. La tempesta di grandine passerà domani, quindi non dobbiamo preoccuparci. Quando la tempesta di grandine arrivò, avevamo già trovato rifugio.",
-      "imageLink": "hailstorm.jpg",
+      "imageLink": "image_files\\English\\hailstorm.jpg",
       "audioLink": "hailstorm.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Una colonna d'aria che ruota rapidamente che tocca il suolo, caratterizzata da elevate velocità del vento e potere distruttivo.",
       "example": "Trąba powietrzna zniszczyła stary spichlerz w ciągu kilku sekund. Trąba powietrzna uderzy nas za pięć minut, więc musimy szukać schronienia. Gdy trąba powietrzna minęła, miasto zostało zniszczone.",
       "example_translation": "La turbine ha distrutto il vecchio fienile in un paio di secondi. La turbine ci colpirà tra cinque minuti, quindi dobbiamo cercare rifugio. Quando la turbine era passata, la città era rimasta in rovina.",
-      "imageLink": "whirlwind.jpg",
+      "imageLink": "image_files\\English\\whirlwind.jpg",
       "audioLink": "whirlwind.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Una caduta lenta e costante di pioggia, spesso in un'atmosfera nebbiosa o nuvolosa.",
       "example": "Mżawka uczyniła ulice śliskimi i niebezpiecznymi. Będzie mżawka cały poranek, więc nie zapomnij parasola. Wczoraj mżawka przestała wieczorem, i wyszedło słońce.",
       "example_translation": "La pioviggine ha reso le strade scivolose e pericolose. Pioverà per tutta la mattina, quindi non dimenticare l'ombrello. Ieri, la pioviggine si è fermata la sera, e il sole è uscito.",
-      "imageLink": "drizzle.jpg",
+      "imageLink": "image_files\\English\\drizzle.jpg",
       "audioLink": "drizzle.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un forte vento che solleva grandi quantità di polvere e sabbia, riducendo la visibilità e causando problemi respiratori.",
       "example": "Całe życie mieszkałem w Arizonie, więc jestem przyzwyczajony do radzenia sobie z burzami piaskowymi. Kiedy byłam dzieckiem, musieliśmy zostawać w domu podczas burz piaskowych, bo powietrze było tak złe. Teraz zawsze noszę ze sobą maskę, aby być przygotowanym na wypadek, gdyby burza piaskowa nagle nadeszła.",
       "example_translation": "Ho vissuto in Arizona tutta la vita, quindi sono abituato a gestire le tempeste di polvere. Quando ero bambino, dovevamo rimanere dentro durante le tempeste di polvere perché l'aria era così cattiva. Ora, mi assicuro di portare con me una maschera in ogni momento nel caso in cui una tempesta di polvere colpisca improvvisamente.",
-      "imageLink": "dust-storm.jpg",
+      "imageLink": "image_files\\English\\dust-storm.jpg",
       "audioLink": "dust storm.mp3"
     }
   ]

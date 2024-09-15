@@ -9,7 +9,7 @@
       "definition_translation": "Ein stärkehaltiges Gemüse, das unterirdisch wächst und oft gekocht, püriert oder fritiert wird.",
       "example": "I will eat a baked potato for lunch tomorrow, but I ate a mashed potato for dinner last night, and I am eating a fried potato now.",
       "example_translation": "Ich werde morgen ein gebackenes Kartoffel zum Mittagessen essen, aber ich aß letzte Nacht ein püriertes Kartoffel zum Abendessen, und ich esse jetzt ein fritiertes Kartoffel.",
-      "imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\potato.jpg",
       "audioLink": "potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Eine süße und saftige Frucht, die an einer Ranke wächst und oft frisch gegessen oder in der Küche verwendet wird.",
       "example": "I will eat a fresh tomato for breakfast tomorrow, but I ate a cooked tomato for dinner last night, and I am eating a raw tomato now.",
       "example_translation": "Ich werde morgen ein frisches Tomaten zum Frühstück essen, aber ich aß letzte Nacht ein gekochtes Tomaten zum Abendessen, und ich esse jetzt ein rohes Tomaten.",
-      "imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\tomato.jpg",
       "audioLink": "tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Jedes von verschiedenen Pflanzen oder Pflanzenteilen, die als Nahrung verwendet werden, wie zum Beispiel Bohnen, Kartoffeln und Blattgrün.",
       "example": "I will eat a variety of vegetables for lunch tomorrow, but I ate a single vegetable for dinner last night, and I am eating a serving of vegetables now.",
       "example_translation": "Ich werde morgen eine Vielzahl von Gemüsen zum Mittagessen essen, aber ich aß letzte Nacht ein einziges Gemüse zum Abendessen, und ich esse jetzt eine Portion Gemüsen.",
-      "imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\vegetable.jpg",
       "audioLink": "vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ein kleiner, meist grüner oder weißer Samen, der an einer Ranke wächst und oft gekocht oder in der Küche verwendet wird.",
       "example": "I will eat a plate of baked beans for breakfast tomorrow, but I ate a can of green beans for dinner last night, and I am eating a serving of black beans now.",
       "example_translation": "Ich werde morgen ein Teller Baked Beans zum Frühstück essen, aber ich aß letzte Nacht ein Dose grüne Bohnen zum Abendessen, und ich esse jetzt eine Portion schwarze Bohnen.",
-      "imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\bean.jpg",
       "audioLink": "bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Eine Karotte ist ein Wurzelgemüse, das typischerweise orange ist, das oft roh oder in verschiedenen Gerichten gekocht wird.",
       "example": "I will eat a carrot stick for snack, I ate a carrot cake for breakfast, and I will grow carrots in my garden this summer.",
       "example_translation": "Ich werde einen Karottenstock als Snack essen, ich aß ein Karottenkuchen zum Frühstück und ich werde Karotten in meinem Garten diesen Sommer anbauen.",
-      "imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\carrot.jpg",
       "audioLink": "carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Ein Chili ist eine Art Paprika, die oft verwendet wird, um Hitze oder Geschmack zu Lebensmitteln hinzuzufügen, insbesondere in scharfen Gerichten.",
       "example": "I will add chilli flakes to my pasta sauce, I added chilli peppers to my stir-fry yesterday, and I will grow chilli plants in my greenhouse next year.",
       "example_translation": "Ich werde Chili-Flocken zu meiner Pastasoße hinzufügen, ich fügte Chili-Pfeffer zu meiner Stir-fry gestern hinzu und ich werde Chilipflanzen in meinem Gewächshaus nächstes Jahr anbauen.",
-      "imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\chilli.jpg",
       "audioLink": "chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Knoblauch ist eine Art von stark duftendem Pflanzen, die oft als Geschmacksgeber in der Kochkunst, insbesondere in der mediterranen Küche, verwendet wird.",
       "example": "I will crush garlic cloves for my soup, I sautéed garlic with olive oil yesterday, and I will plant garlic bulbs in my garden this autumn.",
       "example_translation": "Ich werde Knoblauchzehen für meine Suppe zerreiben, ich sautierte gestern Knoblauch mit Olivenöl und ich werde Knoblauchzwiebeln in meinem Garten diesem Herbst pflanzen.",
-      "imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\garlic.jpg",
       "audioLink": "garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Eine Zwiebel ist eine Art von Gemüse, die oft in der Kochkunst, insbesondere in herzhaften Gerichten, verwendet wird und bekannt ist für ihren starken Geschmack und ihre knackige Textur.",
       "example": "I will chop onions for my salad, I caramelized onions with sugar yesterday, and I will roast onions in my oven this winter.",
       "example_translation": "Ich werde Zwiebeln für meinen Salat hacken, ich karamellisierte gestern Zwiebeln mit Zucker und ich werde Zwiebeln in meinem Ofen diesen Winter rösten.",
-      "imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\onion.jpg",
       "audioLink": "onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Ein grünes Gemüse mit einem großen, dichten, runden Kopf und einem dicken Stiel, wird typischerweise gedünstet oder gekocht.",
       "example": "I ate broccoli for dinner last night. I am eating broccoli for lunch today. I will eat broccoli for breakfast tomorrow.",
       "example_translation": "Ich aß Brokkoli zum Abendessen letzte Nacht. Ich esse Brokkoli zum Mittagessen heute. Ich werde Brokkoli zum Frühstück morgen essen.",
-      "imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\broccoli.jpg",
       "audioLink": "broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Ein rundes oder ovales Gemüse mit einem kurzen, stämmigen Stiel und einem dichten, kompakten Kopf aus Blättern, wird oft in Salaten oder als Beilage verwendet.",
       "example": "My grandmother used to make a delicious cabbage soup when I was a child. I am making a cabbage salad for the party tonight. She will make cabbage rolls for the holiday dinner tomorrow.",
       "example_translation": "Meine Großmutter hat mir früher bei mir zu Hause eine leckere Kohlsuppe zubereitet. Ich mache heute Abend einen Kohlsalat für die Party. Sie wird morgen Abend Kohlrouladen für das Weihnachtsessen zubereiten.",
-      "imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\cabbage.jpg",
       "audioLink": "cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Ein kleines, meist dunkelgrünes, zylindrisches Gemüse mit einer weichen Schale und einem zarten, saftigen Fleisch, wird oft gegrillt oder in der Pfanne gebraten.",
       "example": "I grilled courgettes with olive oil and garlic for dinner last night. She is sautéing courgettes with onions and tomatoes for lunch today. They will bake courgettes with cheese and breadcrumbs for the party tomorrow.",
       "example_translation": "Ich grillte Zucchini mit Olivenöl und Knoblauch zum Abendessen letzte Nacht. Sie brät Zucchini mit Zwiebeln und Tomaten zum Mittagessen heute. Sie werden Zucchini mit Käse und Paniermehl für die Party morgen backen.",
-      "imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\courgette.jpg",
       "audioLink": "courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Ein langes, dünnes, grünes Gemüse mit einer glatten, essbaren Haut und einem knackigen, erfrischenden Fleisch, wird oft roh in Salaten oder als Snack gegessen.",
       "example": "I ate a cucumber sandwich for lunch yesterday. She is eating a cucumber salad for dinner tonight. They will make cucumber juice for breakfast tomorrow.",
       "example_translation": "Ich aß ein Gurkensandwich zum Mittagessen gestern. Sie isst heute Abend einen Gurkensalat zum Abendessen. Sie werden morgen Frühstück Gurken Saft machen.",
-      "imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\cucumber.jpg",
       "audioLink": "cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Lattich ist ein blattgrünes Gemüse, das häufig in Salaten, Sandwiches und als Garnitur verwendet wird.",
       "example": "I ate a sandwich with lettuce and tomato for lunch. Yesterday, I bought lettuce at the market. Next week, I will plant lettuce in my garden.",
       "example_translation": "Ich aß ein Sandwich mit Lattich und Tomate zum Mittagessen. Gestern kaufte ich Lattich auf dem Markt. Nächste Woche werde ich Lattich in meinem Garten pflanzen.",
-      "imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\lettuce.jpg",
       "audioLink": "lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Eine Erbse ist ein kleiner, kugelförmiger Samen, der in einer Hülse wächst und häufig in Suppen, Eintöpfen und Salaten verwendet wird.",
       "example": "I added peas to the stir-fry last night. Peas are a great source of protein. By next summer, I will have harvested peas from my garden.",
       "example_translation": "Ich fügte Erbsen zum Stir-Fry letzten Abend hinzu. Erbsen sind eine großartige Quelle für Eiweiß. Bis nächsten Sommer werde ich Erbsen aus meinem Garten geerntet haben.",
-      "imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\pea.jpg",
       "audioLink": "pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Pfeffer ist ein Gewürz, das aus den getrockneten Früchten der Pflanze Piper nigrum hergestellt wird und häufig verwendet wird, um Speisen Geschmack zu verleihen.",
       "example": "I sprinkled pepper on my omelette this morning. Pepper is a staple in many cuisines. By next year, I will have grown pepper plants in my backyard.",
       "example_translation": "Ich streute Pfeffer auf mein Omelett heute Morgen. Pfeffer ist ein Grundnahrungsmittel in vielen Küchen. Bis nächstem Jahr werde ich Pfefferpflanzen in meinem Hinterhof angebaut haben.",
-      "imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\pepper.jpg",
       "audioLink": "pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Ein Kürbis ist ein Typ von Kürbissen, der häufig in der Küche, insbesondere in Suppen, Kuchen und als Dekoration verwendet wird.",
       "example": "I carved a pumpkin for Halloween last year. Pumpkins are a nutritious food source. By next fall, I will have harvested pumpkins from my patch.",
       "example_translation": "Ich schnitzte einen Kürbis für Halloween letzten Jahr. Kürbisse sind eine nahrhafte Nahrungsmittelquelle. Bis nächsten Herbst werde ich Kürbisse aus meinem Beet geerntet haben.",
-      "imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\pumpkin.jpg",
       "audioLink": "pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Spinat ist ein blattgrünes Gemüse, das reich an Eisen und Calcium ist. Es wird häufig in Suppen, Salaten und als Kochgrün verwendet.",
       "example": "I ate spinach with my eggs yesterday, I am eating it in my salad now, and I will eat it in my smoothie tomorrow.",
       "example_translation": "Ich aß Spinat mit meinen Eiern gestern, ich esse es jetzt in meinem Salat und ich werde es morgen in meinem Smoothie essen.",
-      "imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\spinach.jpg",
       "audioLink": "spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Süßmais ist eine Art Mais, die geerntet wird, wenn die Körner unreif sind und der Mais weich und süß ist. Er wird häufig gekocht oder gegrillt gegessen.",
       "example": "I bought sweetcorn from the market yesterday, I am grilling it now, and I will eat it with butter tomorrow.",
       "example_translation": "Ich kaufte Süßmais vom Markt gestern, ich grille es jetzt und ich werde es morgen mit Butter essen.",
-      "imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\corn.jpg",
       "audioLink": "sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Aubergine ist ein purpurfarbenes Gemüse, das häufig in der Küche verwendet wird, insbesondere in der mediterranen und asiatischen Küche. Es wird häufig gegrillt oder angebraten.",
       "example": "I cooked aubergine with garlic yesterday, I am making aubergine curry now, and I will roast aubergine tomorrow.",
       "example_translation": "Ich kochte Aubergine mit Knoblauch gestern, ich mache jetzt Aubergine-Curry und ich werde Aubergine morgen rösten.",
-      "imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\aubergine.jpg",
       "audioLink": "aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Blumenkohl ist ein weißes, kreuzblütiges Gemüse, das häufig in Salaten, Suppen und als Beilage verwendet wird. Es wird häufig gedämpft oder geröstet.",
       "example": "I steamed cauliflower yesterday, I am roasting it now, and I will make cauliflower soup tomorrow.",
       "example_translation": "Ich dämpfte Blumenkohl gestern, ich röste es jetzt und ich werde Blumenkohl-Suppe morgen machen.",
-      "imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\cauliflower.jpg",
       "audioLink": "cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Ein Lauch ist ein Gemüse, das zur Zwiebelfamilie gehört, mit einem langen, dünnen, weißen Stiel und flachen, grünen Blättern.",
       "example": "I saw my grandmother cooking leeks in the kitchen yesterday, I will cook leeks in the kitchen tomorrow, and I cooked leeks in the kitchen last week.",
       "example_translation": "Ich sah meine Großmutter gestern in der Küche Lauch kochen, ich werde morgen in der Küche Lauch kochen, und ich kochte letzte Woche in der Küche Lauch.",
-      "imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\leek.jpg",
       "audioLink": "leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Petersilie ist ein helles grünes, krauses Blätterkraut, das frisch oder getrocknet als Garnitur oder Geschmacksverstärker in Suppen, Salaten und Soßen verwendet wird.",
       "example": "I used parsley to garnish the soup yesterday, I will use parsley to garnish the salad tomorrow, and I used parsley to flavor the sauce last week.",
       "example_translation": "Ich verwendete Petersilie, um die Suppe gestern zu garnieren, ich werde morgen Petersilie verwenden, um den Salat zu garnieren, und ich verwendete Petersilie letzte Woche, um die Soße zu würzen.",
-      "imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\parsley.jpg",
       "audioLink": "parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Ein Radieschen ist ein kleines, rundes, scharf schmeckendes Wurzelgemüse mit einer knackigen Textur, oft roh in Salaten oder als Garnitur gegessen.",
       "example": "I ate a radish in my salad yesterday, I will eat a radish in my sandwich tomorrow, and I ate a radish as a snack last week.",
       "example_translation": "Ich aß ein Radieschen in meinem Salat gestern, ich werde morgen ein Radieschen in meinem Sandwich essen, und ich aß ein Radieschen als Snack letzte Woche.",
-      "imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\radish.jpg",
       "audioLink": "radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Rotkohl ist eine Art von Kohl mit einer tiefen rot-violetten Farbe, der in Salaten, Slaws und als Beilage verwendet wird, oft pikant oder fermentiert.",
       "example": "I used red cabbage in my salad yesterday, I will use red cabbage in my slaw tomorrow, and I used red cabbage as a side dish last week.",
       "example_translation": "Ich verwendete Rotkohl in meinem Salat gestern, ich werde morgen Rotkohl in meinem Slaw verwenden, und ich verwendete Rotkohl als Beilage letzte Woche.",
-      "imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\red-cabbage.jpg",
       "audioLink": "red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Eine Frühlingszwiebel ist eine junge Zwiebel, die vor der Bildung der Zwiebel geerntet wird oder manchmal nachdem die Zwiebel gebildet wurde, aber bevor sie reif ist. Sie hat einen milden Geschmack und eine knackige Texture.",
       "example": "I added some chopped spring onions to the salad yesterday. I will add some chopped spring onions to the salad today. I added some chopped spring onions to the salad last week.",
       "example_translation": "Ich fügte einige gehackte Frühlingszwiebeln zum Salat gestern hinzu. Ich werde einige gehackte Frühlingszwiebeln zum Salat heute hinzufügen. Ich fügte einige gehackte Frühlingszwiebeln zum Salat letzten Woche hinzu.",
-      "imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\spring-onion.jpg",
       "audioLink": "spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Rübe ist ein Wurzelgemüse, das typischerweise rot oder goldfarben ist und einen süßen und erdigen Geschmack hat. Es wird oft eingelegt oder geröstet und in Salaten und Suppen verwendet.",
       "example": "I roasted the beetroot for dinner last night. I will roast the beetroot for dinner tonight. I roasted the beetroot for dinner yesterday.",
       "example_translation": "Ich röstete die Rübe zum Abendessen gestern Abend. Ich werde die Rübe zum Abendessen heute Abend rösten. Ich röstete die Rübe zum Abendessen gestern.",
-      "imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\beetroot.jpg",
       "audioLink": "beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Soja, auch bekannt als Soja, ist eine Art Hülsenfrucht, die häufig in der Kochkunst, insbesondere in der ostasiatischen Küche verwendet wird. Es ist eine gute Quelle für Proteine und wird oft anstelle von Fleisch in vegetarischen und veganen Gerichten verwendet.",
       "example": "I used soya milk in my cereal this morning. I will use soya milk in my cereal tomorrow morning. I used soya milk in my cereal yesterday morning.",
       "example_translation": "Ich benutzte Soja-Milch in meinem Müsli heute Morgen. Ich werde Soja-Milch in meinem Müsli morgen früh benutzen. Ich benutzte Soja-Milch in meinem Müsli gestern Morgen.",
-      "imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\soya-soy.jpg",
       "audioLink": "soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Eine Weiße Riesenbohne ist eine Art Hülsenfrucht, die auch als Fava-Bohne bekannt ist. Sie hat eine große, flache Hülse, die mehrere Samen enthält, und wird oft in der Kochkunst verwendet, insbesondere in der mediterranen Küche.",
       "example": "I cooked broad beans for dinner last week. I will cook broad beans for dinner next week. I cooked broad beans for dinner yesterday.",
       "example_translation": "Ich kochte Weiße Riesenbohnen zum Abendessen letzten Woche. Ich werde Weiße Riesenbohnen zum Abendessen nächste Woche kochen. Ich kochte Weiße Riesenbohnen zum Abendessen gestern.",
-      "imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\broad-bean.jpg",
       "audioLink": "broad bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Ein Gemüse, das einem kleinen Kohl ähnelt, mit einem starken, süßen Geschmack und einem dichten, kompakten Kopf.",
       "example": "I had Brussels sprouts for dinner last night, and I will eat them again tomorrow. By next week, I will have eaten them many times.",
       "example_translation": "Ich hatte Rosenkohl zum Abendessen gestern Abend, und ich werde ihn morgen wieder essen. Bis nächste Woche werde ich ihn viele Male gegessen haben.",
-      "imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\brussels-sprout.jpg",
       "audioLink": "brussels sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Ein dorniger, blumenartiger Gemüse mit essbaren Blättern und einem fleischigen Zentrum.",
       "example": "I bought an artichoke at the market yesterday, and I am going to cook it tonight. By next month, I will have cooked many artichokes.",
       "example_translation": "Ich kaufte eine Artischocke auf dem Markt gestern, und ich werde sie heute Abend kochen. Bis nächsten Monat werde ich viele Artischocken gekocht haben.",
-      "imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\artichoke.jpg",
       "audioLink": "artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Ein zarter, zarter Trieb einer mehrjährigen Pflanze, als Gemüse gegessen.",
       "example": "I steamed asparagus for dinner last week, and I will grill it this weekend. By next summer, I will have eaten asparagus many times.",
       "example_translation": "Ich dampfte Spargel zum Abendessen letzte Woche, und ich werde ihn dieses Wochenende grillen. Bis nächsten Sommer werde ich Spargel viele Male gegessen haben.",
-      "imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\asparagus.jpg",
       "audioLink": "asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Eine Art Pflanze mit knackigen, süßen Stängeln und Blättern, die in Salaten und Suppen verwendet wird.",
       "example": "I chopped celery for the salad yesterday, and I will use it in the soup tomorrow. By next winter, I will have added celery to many dishes.",
       "example_translation": "Ich hackte Sellerie für den Salat gestern, und ich werde es morgen in der Suppe verwenden. Bis nächsten Winter werde ich Sellerie vielen Gerichten hinzugefügt haben.",
-      "imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\celery.jpg",
       "audioLink": "celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Eine mehrjährige krautige Pflanze der Korbblütlerfamilie, mit blauen oder weißen Blüten und essbaren Blättern.",
       "example": "I added chicory to my coffee for a unique flavor. Yesterday, I chicoried my coffee, but tomorrow I will chicory it again.",
       "example_translation": "Ich fügte Zichorie meinem Kaffee für einen einzigartigen Geschmack hinzu. Gestern chicoriete ich meinen Kaffee, aber morgen werde ich ihn wieder chicorieren.",
-      "imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\chicory.jpg",
       "audioLink": "chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Eine mehrjährige Pflanze der Zwiebelfamilie, mit essbaren Blättern und Blüten, die als Garnitur oder Geschmacksverstärker verwendet werden.",
       "example": "I sprinkled chives on my baked potato. I will chive my baked potato tomorrow, but yesterday I had already chived it.",
       "example_translation": "Ich streute Schnittlauch auf meine gebackene Kartoffel. Ich werde meine gebackene Kartoffel morgen schneideln, aber gestern hatte ich sie bereits geschneidelt.",
-      "imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\chives.jpg",
       "audioLink": "chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Ein schnellwachsendes einjähriges Kraut der Senfgurkenfamilie, mit pfeffrig schmeckenden Blättern, die in Salaten und als Garnitur verwendet werden.",
       "example": "I added cress to my salad for extra flavor. Yesterday, I cressed my salad, but tomorrow I will cress it again.",
       "example_translation": "Ich fügte Kresse meinem Salat für extra Geschmack hinzu. Gestern kreßte ich meinen Salat, aber morgen werde ich ihn wieder kressen.",
-      "imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\cress.jpg",
       "audioLink": "cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Ein duftendes einjähriges Kraut der Petersilienfamilie, mit fiederigen Blättern und Samen, die zum Würzen von Gurken und anderen Gerichten verwendet werden.",
       "example": "I used dill to pickle cucumbers. Yesterday, I dilled cucumbers, but tomorrow I will dill them again.",
       "example_translation": "Ich verwendete Dill, um Gurken einzulegen. Gestern dillte ich Gurken, aber morgen werde ich sie wieder dillen.",
-      "imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\dill.jpg",
       "audioLink": "dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Fenchel ist ein ausdauernder Kraut mit gelbgrünen, fiederartigen Blättern und gelben Blüten. Es stammt aus der Mittelmeerregion und wird häufig in der italienischen und mittelöstlichen Küche verwendet.",
       "example": "I will add some fennel to the sauce I'm making for dinner tonight. Yesterday, I sautéed fennel with garlic and parsley. By next winter, I will have harvested enough fennel to last until spring.",
       "example_translation": "Ich werde dem Abendessen heute Abend einige Fenchel hinzufügen. Gestern habe ich Fenchel mit Knoblauch und Petersilie gesauté. Bis nächsten Winter werde ich genug Fenchel geerntet haben, um bis zum Frühling zu halten.",
-      "imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\fennel.jpg",
       "audioLink": "fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Meerrettich ist ein Wurzelgemüse, das ursprünglich aus Europa und Asien stammt. Es hat einen scharfen, pfeffrig schmeckenden Geschmack und wird oft als Gewürz verwendet, um Fleisch und Gemüse zu würzen.",
       "example": "I grated horseradish onto my steak last night. When I was a child, my grandmother used to make a sauce with horseradish and sour cream. By next summer, I will have mastered the art of preparing horseradish.",
       "example_translation": "Ich habe gestern Abend Meerrettich auf mein Steak gerieben. Als ich ein Kind war, machte meine Großmutter eine Sauce mit Meerrettich und saurer Sahne. Bis nächsten Sommer werde ich die Kunst des Zubreitens von Meerrettich beherrschen.",
-      "imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\horseradish.jpg",
       "audioLink": "horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Grünkohl ist ein grünes, blättriges Gemüse, das reich an Nährstoffen ist und oft in Salaten, Suppen und Smoothies verwendet wird.",
       "example": "I will add kale to my smoothie tomorrow morning. Yesterday, I sautéed kale with garlic and olive oil. By next month, I will have prepared kale chips for my family.",
       "example_translation": "Ich werde morgen früh Grünkohl zu meinem Smoothie hinzufügen. Gestern habe ich Grünkohl mit Knoblauch und Olivenöl gesauté. Bis nächsten Monat werde ich Grünkohl-Chips für meine Familie zubereitet haben.",
-      "imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\kale.jpg",
       "audioLink": "kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Linsen sind eine Art von Hülsenfrüchten, die reich an Eiweiß und Ballaststoffen sind. Sie werden oft in Suppen, Eintöpfen und Currys verwendet und sind ein beliebtes Zutaten in indischer und mittelöstlicher Küche.",
       "example": "I will cook lentils for dinner tonight. When I was a child, my mother used to make a lentil soup every Sunday. By next year, I will have mastered the art of cooking lentils.",
       "example_translation": "Ich werde heute Abend Linsen für das Abendessen kochen. Als ich ein Kind war, machte meine Mutter jeden Sonntag eine Linsensuppe. Bis nächstes Jahr werde ich die Kunst des Kochens von Linsen beherrschen.",
-      "imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\lentil.jpg",
       "audioLink": "lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Ein Mark ist eine Art Gemüse, typischerweise weiß oder gelblich in Farbe, mit einem süßen und stärkehaltigen Geschmack.",
       "example": "Yesterday, I cooked marrow for dinner. Today, I'm cooking marrow for lunch. Tomorrow, I will cook marrow for breakfast.",
       "example_translation": "Gestern habe ich Mark zum Abendessen gekocht. Heute koche ich Mark zum Mittagessen. Morgen werde ich Mark zum Frühstück kochen.",
-      "imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\marrow.jpg",
       "audioLink": "marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Eine Pastinake ist ein Wurzelgemüse, ähnlich einer Karotte, aber süßer und nussiger im Geschmack.",
       "example": "I have been growing parsnips in my garden for years. Last week, I harvested some parsnips. Next season, I will plant more parsnips.",
       "example_translation": "Ich habe Jahre lang Pastinaken in meinem Garten angebaut. Letzte Woche habe ich einige Pastinaken geerntet. Nächste Saison werde ich mehr Pastinaken pflanzen.",
-      "imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\parsnip.jpg",
       "audioLink": "parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Rhabarber ist eine Art Gemüse, oft in Kuchen und Marmeladen verwendet, mit einem sauren und leicht süßen Geschmack.",
       "example": "My grandmother always made a rhubarb pie for our family gatherings. Last year, I tried rhubarb jam for the first time. Next summer, I'll make rhubarb sorbet.",
       "example_translation": "Meine Großmutter machte immer einen Rhabarberkuchen für unsere Familientreffen. Letztes Jahr habe ich Rhabarbermarmelade zum ersten Mal probiert. Nächsten Sommer werde ich Rhabarbersorbet machen.",
-      "imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\rhubarb.jpg",
       "audioLink": "rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Eine Rübe ist eine Art Wurzelgemüse, ähnlich einer Rübe, aber größer und süßer im Geschmack.",
       "example": "I love eating swede in my soup. Yesterday, I added swede to my stew. Next week, I'll make a swede gratin.",
       "example_translation": "Ich liebe es, Rübe in meiner Suppe zu essen. Gestern habe ich Rübe in meinem Eintopf hinzugefügt. Nächste Woche werde ich eine Rübegratin machen.",
-      "imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\swede.jpg",
       "audioLink": "swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Ein stärkehaltiges Wurzelgemüse, oft größer und süßer als eine regelmäßige Kartoffel, mit einer dickeren, essbaren Schale, die oft orange oder gelb in Farbe ist.",
       "example": "I ate a sweet potato yesterday, I am eating a sweet potato now, and I will eat a sweet potato tomorrow.",
       "example_translation": "Ich aß eine Süßkartoffel gestern, ich esse eine Süßkartoffel jetzt, und ich werde eine Süßkartoffel morgen essen.",
-      "imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\sweet-potato.jpg",
       "audioLink": "sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Ein Wurzelgemüse mit einer weißen oder purpurnen Wurzel und grünen Blättern, oft gekocht oder gemüßert gegessen.",
       "example": "I grew up eating turnips in the winter, my mother used to cook turnips every Sunday, and I will plant turnips in my garden next spring.",
       "example_translation": "Ich wuchs auf, indem ich in den Winter Rüben aß, meine Mutter kochte jeden Sonntag Rüben, und ich werde nächstes Frühjahr Rüben in meinem Garten pflanzen.",
-      "imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\turnip.jpg",
       "audioLink": "turnip.mp3"
     }
   ]

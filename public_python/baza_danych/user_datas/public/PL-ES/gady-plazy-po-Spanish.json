@@ -9,7 +9,7 @@
       "definition_translation": "Un animal largo, delgado, sin patas, que no tiene párpados ni orejas externas, y se mueve retorciendo su cuerpo.",
       "example": "Widziałem węża pełzającego przez trawę. Zobaczę węża jutro. Widziałem węża w zeszłym tygodniu.",
       "example_translation": "Vi una serpiente deslizándose por la hierba. Veré una serpiente mañana. Había visto una serpiente la semana pasada.",
-      "imageLink": "snake.jpg",
+      "imageLink": "image_files\\English\\snake.jpg",
       "audioLink": "snake.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un pequeño anfibio saltador, típicamente verde, con piel suave y patas posteriores largas.",
       "example": "Złapałem żabę wczoraj. Złapę żabę za tydzień. Złapałem żabę latem zeszłym.",
       "example_translation": "Atrapé una rana ayer. Atraparé una rana la próxima semana. Había atrapado una rana el último verano.",
-      "imageLink": "frog.jpg",
+      "imageLink": "image_files\\English\\frog.jpg",
       "audioLink": "frog.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un reptil de movimiento lento con una concha en forma de cúpula, típicamente encontrado en tierra.",
       "example": "Widziałem żółwia przecinającego drogę. Zobaczę żółwia jutro. Widziałem żółwia w zeszłym miesiącu.",
       "example_translation": "Vi una tortuga cruzando la carretera. Veré una tortuga mañana. Había visto una tortuga el mes pasado.",
-      "imageLink": "tortoise.jpg",
+      "imageLink": "image_files\\English\\tortoise.jpg",
       "audioLink": "tortoise.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Una tortuga es un reptil de movimiento lento con una concha en la que puede retirar su cabeza y piernas para protegerse.",
       "example": "Wczoraj widziałem żółwika pływającego w oceanie. Dziś on jest rozgrzewający się na plaży. Jutro znów będzie składał jaja w piasku.",
       "example_translation": "Ayer, vi una tortuga nadando en el océano. Hoy, está tomando el sol en la playa. Mañana, pondrá huevos en la arena.",
-      "imageLink": "turtle.jpg",
+      "imageLink": "image_files\\English\\turtle.jpg",
       "audioLink": "turtle.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un caimán es un reptil grande con una larga nariz y mandíbulas poderosas, encontrado en entornos de agua dulce en el sur de los Estados Unidos.",
       "example": "W przeszłości aligatory były zagrożone, ale teraz są dobrze rozwinięte w Everglades. Obecnie prowadzone są działania ochronne, aby chronić ich siedliska. W przyszłości mamy nadzieję zobaczyć je dalej kwitnąć.",
       "example_translation": "En el pasado, los caimanes estaban en peligro de extinción, pero ahora están prosperando en los Everglades. Actualmente, hay esfuerzos de conservación en lugar para proteger sus hábitats. En el futuro, esperamos verlos continuar floreciendo.",
-      "imageLink": "alligator.jpg",
+      "imageLink": "image_files\\English\\alligator.jpg",
       "audioLink": "alligator.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Una anaconda es una serpiente grande y no venenosa encontrada en los humedales de América del Sur, conocida por su capacidad para constreñir y asfixiar a su presa.",
       "example": "W lesie amazońskim ananowce są apex predatorami, żywiącymi się kapibarás i innymi małymi ssakami. Istniały one od milionów lat i nadal kwitną. Do 2050 roku mamy nadzieję lepiej chronić ich siedliska.",
       "example_translation": "En la selva amazónica, las anacondas son depredadores apex, alimentándose de capibaras y otros pequeños mamíferos. Han estado en el planeta por millones de años, y siguen prosperando hoy. Para el año 2050, esperamos haber protegido mejor sus hábitats.",
-      "imageLink": "anaconda.jpg",
+      "imageLink": "image_files\\English\\anaconda.jpg",
       "audioLink": "anaconda.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Una boa es un tipo de serpiente que es nativa de las regiones tropicales de América Central y del Sur.",
       "example": "Widziałem boa dusiciela w zoo wczoraj. Będzie jeść swoją ofiarę całą dzisiaj. Do następnego tygodnia będzie strawił swoją ofiarę.",
       "example_translation": "Vi una boa constrictor en el zoológico ayer. Se comerá su presa entera hoy. Para la próxima semana, habrá digerido su comida.",
-      "imageLink": "boa.jpg",
+      "imageLink": "image_files\\English\\boa.jpg",
       "audioLink": "boa.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un cocodrilo es un reptil grande que vive en hábitats de agua dulce, como ríos y lagos, y es conocido por su cola poderosa y sus mandíbulas fuertes.",
       "example": "Widzieliśmy krokodyla pływającego w rzece w zeszłym weekendzie. Będzie się ogrzewał dziś. Do przyszłego roku będzie jeszcze większy.",
       "example_translation": "Vimos un cocodrilo nadando en el río el fin de semana pasado. Estará tomando el sol hoy. Para el próximo año, habrá crecido aún más.",
-      "imageLink": "crocodile.jpg",
+      "imageLink": "image_files\\English\\crocodile.jpg",
       "audioLink": "crocodile.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un lagarto es un tipo de reptil que tiene una cola larga y vive típicamente en tierra, y se encuentra a menudo en climas cálidos y soleados.",
       "example": "Złapałem jaszczurkę w ogródku wczoraj. On jest ogrzewający się dziś. Do jutra ucieknie.",
       "example_translation": "Atrapé un lagarto en el patio trasero ayer. Está tomando el sol hoy. Para mañana, habrá escapado.",
-      "imageLink": "lizard.jpg",
+      "imageLink": "image_files\\English\\lizard.jpg",
       "audioLink": "lizard.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Una cubierta exterior dura de un animal, como un molusco o una tortuga.",
       "example": "Żółw wycofał swoją głowę do muszli dla ochrony. Ona łuska groch dla zupy. Muszla kraba była trudna do złamania.",
       "example_translation": "La tortuga retiró su cabeza en su concha para protegerse. Ella pela guisantes para la sopa. La concha del cangrejo era difícil de romper.",
-      "imageLink": "shell.jpg",
+      "imageLink": "image_files\\English\\shell.jpg",
       "audioLink": "shell.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Una serpiente venenosa de las Américas, caracterizada por un cascabel en su cola.",
       "example": "Wczoraj widziałem żmiję na szlaku turystycznym. Miałem blisko spotkanie z żmiją na pustyni. Żmija będzie grzechotała ogonem przed atakiem.",
       "example_translation": "Vimos una serpiente de cascabel en el sendero de senderismo ayer. Tuve un encuentro cercano con una serpiente de cascabel en el desierto. La serpiente de cascabel sacudirá su cola antes de atacar.",
-      "imageLink": "rattlesnake.jpg",
+      "imageLink": "image_files\\English\\rattlesnake.jpg",
       "audioLink": "rattlesnake.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un animal de sangre fría que tiene escamas, pone huevos y tiene un corazón de tres cámaras.",
       "example": "Węże, jaszczurki i żółwie są wszystkie gadami. Budynek gadów w zoo był moim ulubionym wystawem. Wiele gadów jest zachowanych w formalinie.",
       "example_translation": "Las serpientes, lagartos y tortugas son todos reptiles. La casa de reptiles en el zoológico fue mi exposición favorita. Muchos reptiles se conservan en formaldehído.",
-      "imageLink": "reptile.jpg",
+      "imageLink": "image_files\\English\\reptile.jpg",
       "audioLink": "reptile.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Una salamandra es un tipo de anfibio que tiene un cuerpo delgado, una cola larga y generalmente cuatro patas. Vive en agua y en tierra, y puede regenerar sus extremidades si están heridas.",
       "example": "Widziałem salamandrę wychodzącą z stawu ostatnim tygodniu. Będzie miała nowe nogi do następnego miesiąca. Do następnego roku, będzie przemieściła się do nowego habitat.",
       "example_translation": "Vi una salamandra saliendo del estanque la semana pasada. Habrá crecido nuevas patas para el mes próximo. Para el próximo año, habrá cambiado a un nuevo hábitat.",
-      "imageLink": "salamander-1.jpg",
+      "imageLink": "image_files\\English\\salamander-1.jpg",
       "audioLink": "salamander.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un renacuajo es la etapa larval de una rana o sapo, caracterizada por su apariencia de pez y capacidad para nadar.",
       "example": "Obserwowałem, jak kijanki pływały w akwarium. Będą przetransformowane w żaby do następnej wiosny. Do następnego lata, będą dorosłe żaby.",
       "example_translation": "Vi como los renacuajos nadaban en el acuario. Habrán se transformado en ranas para la próxima primavera. Para el próximo verano, habrán crecido en ranas adultas.",
-      "imageLink": "tadpole.jpg",
+      "imageLink": "image_files\\English\\tadpole.jpg",
       "audioLink": "tadpole.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un sapo es un tipo de anfibio que tiene una piel seca y áspera y patas cortas, y vive en tierra.",
       "example": "Widziałem ropuchę skaczącą przez ogród wczoraj. Będzie znaleźć nowe miejsce schronienia do tego wieczoru. Do jutra, będzie zjadła swoją wagę w owadach.",
       "example_translation": "Vi un sapo saltando por el jardín ayer. Habrá encontrado un nuevo escondite para esta noche. Para mañana, habrá comido su peso en insectos.",
-      "imageLink": "toad.jpg",
+      "imageLink": "image_files\\English\\toad.jpg",
       "audioLink": "toad.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Los anfibios son un grupo de animales de sangre fría que pertenecen a la clase Amphibia. Son vertebrados que viven en agua y en tierra, y tienen una piel húmeda y lisa.",
       "example": "Do XIX wieku, naukowcy odkryli wiele gatunków płazów i nadal je badają dzisiaj. Płazy kwitły w swoich naturalnych siedliskach, ale teraz są zagrożone. W przyszłości, będziemy musieli ciężko pracować, aby ochronić te zdumiewające stworzenia.",
       "example_translation": "A fines del siglo 19, los científicos habían descubierto muchas especies de anfibios, y siguen estudiándolos hoy en día. Los anfibios prosperaban en sus hábitats naturales, pero ahora enfrentan muchas amenazas. En el futuro, tendremos que trabajar duro para proteger a estas increíbles criaturas.",
-      "imageLink": "amphibians.jpg",
+      "imageLink": "image_files\\English\\amphibians.jpg",
       "audioLink": "amphibians.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un cecilio es un tipo de lagarto sin patas que se encuentra en muchas partes del mundo. Tiene un cuerpo esbelto y una nariz puntiaguda, y a menudo se confunde con una serpiente.",
       "example": "Widziałem ślepczyka w lesie, kiedy szedłem. Ślepczyki często są spotykane w wilgotnych, wilgotnych miejscach, a są doskonałymi kopaczami. W przyszłości, mam nadzieję nauczyć się więcej o tych fascynujących stworzeniach.",
       "example_translation": "Estaba caminando en el bosque cuando vi un cecilio arrastrándose por el suelo. Los cecilios se encuentran a menudo en lugares húmedos y húmedos, y son excelentes excavadores. En el futuro, espero aprender más sobre estas fascinantes criaturas.",
-      "imageLink": "blindworm.jpg",
+      "imageLink": "image_files\\English\\blindworm.jpg",
       "audioLink": "blindworm.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un camaleón es un tipo de lagarto que se conoce por su capacidad para cambiar de color. Tiene una cola larga y curva y una lengua que utiliza para cazar insectos.",
       "example": "Widziałem chameleona zmieniającego kolor przed moimi oczami, a było to zdumiewające. Chameleony były na naszej planecie miliony lat, a nadal są fascynujących nas dzisiaj. W przyszłości, naukowcy będą kontynuować badanie tych niesamowitych stworzeń.",
       "example_translation": "Vi un camaleón cambiando de color ante mis ojos, y fue increíble. Los camaleones han estado en nuestro planeta durante millones de años, y todavía nos fascinan hoy en día. En el futuro, los científicos continuarán estudiando a estas increíbles criaturas.",
-      "imageLink": "chameleon.jpg",
+      "imageLink": "image_files\\English\\chameleon.jpg",
       "audioLink": "chameleon.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Una gran serpiente venenosa de la familia Elapidae, encontrada en África y Asia.",
       "example": "Widziałem kobrę w zoo wczoraj, było to ogromne. Zobaczę kolejną jutro, a widziałem jedną tydzień temu.",
       "example_translation": "Vi una cobra en el zoológico ayer, era enormea. Veré otra mañana, y vi una la semana pasada.",
-      "imageLink": "cobra.jpg",
+      "imageLink": "image_files\\English\\cobra.jpg",
       "audioLink": "cobra.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Una serpiente no venenosa encontrada en various hábitats, incluyendo praderas y humedales.",
       "example": "Złapałem węża łąkowego w ogrodzie minionego lata, złapię kolejnego następnego lata, a złapałem jednego latem przedtem.",
       "example_translation": "Atrapé una culebra de hierba en el jardín el verano pasado, atraparé otra el próximo verano, y atrapé una el verano anterior.",
-      "imageLink": "grass-snake.jpg",
+      "imageLink": "image_files\\English\\grass-snake.jpg",
       "audioLink": "grass snake.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un pequeño salamandra semi-acuático, típicamente con un cuerpo delgado y una cola larga.",
       "example": "Wczoraj zobaczyłem traszkę w stawie, zobaczę ją jeszcze jutro, a zobaczyłem ją ostatnio tydzień temu.",
       "example_translation": "Vi un tritón en el estanque ayer, veré otro mañana, y vi uno la semana pasada.",
-      "imageLink": "newt.jpg",
+      "imageLink": "image_files\\English\\newt.jpg",
       "audioLink": "newt.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un lenguaje de programación de alto nivel, interpretado. Python es un lenguaje de propósito general que se utiliza ampliamente para el desarrollo, cálculo científico y análisis de datos.",
       "example": "Napisałem skrypt pythona, aby zautomatyzować zadanie. Napiszę skrypt pythona, aby zautomatyzować zadanie. Napisałem skrypt pythona, aby zautomatyzować zadanie.",
       "example_translation": "Escribí un script de pitón para automatizar la tarea. Escribiré un script de pitón para automatizar la tarea. Había escrito un script de pitón para automatizar la tarea.",
-      "imageLink": "python.jpg",
+      "imageLink": "image_files\\English\\python.jpg",
       "audioLink": "python.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Una especie de salamandra que tiene manchas o marcasdistinctas en su cuerpo. Las salamandras manchadas suelen encontrarse en entornos húmedos y son nocturnas.",
       "example": "Salamandra plamista powoli pełzała po podłodze lasu. Salamandra plamista będzie pełzała po podłodze lasu. Salamandra plamista pełzała po podłodze lasu.",
       "example_translation": "La salamandra manchada se arrastró lentamente por el suelo del bosque. La salamandra manchada se arrastrará lentamente por el suelo del bosque. La salamandra manchada se había arrastrado lentamente por el suelo del bosque.",
-      "imageLink": "salamander.jpg",
+      "imageLink": "image_files\\English\\salamander.jpg",
       "audioLink": "spotted salamander.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un tipo de rana que vive en los árboles y ha adaptado un estilo de vida arbóreo. Las ranas arbóreas tienen almohadillas especiales en los dedos que les permiten trepar y posarse en ramas.",
       "example": "Żaba drzewna skakała z gałęzi na gałąź. Żaba drzewna będzie skakała z gałęzi na gałąź. Żaba drzewna skakała z gałęzi na gałąź.",
       "example_translation": "La rana arbórea saltó de rama en rama. La rana arbórea saltará de rama en rama. La rana arbórea había saltado de rama en rama.",
-      "imageLink": "tree-frog.jpg",
+      "imageLink": "image_files\\English\\tree-frog.jpg",
       "audioLink": "tree frog.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una serpiente venenosa encontrada en various hábitats, incluyendo desiertos, bosques y praderas.",
       "example": "Wędrowiec ostrożnie unikał żmii w szczeblinach skał. Wczoraj ujrzała żmiję w lesie. W następnym roku uda się do ośrodka żmijowego.",
       "example_translation": "El senderista evitó cuidadosamente la víbora en las grietas de roca. Ayer, vio una víbora en el bosque. El próximo año, visitará el santuario de viboras.",
-      "imageLink": "viper.jpg",
+      "imageLink": "image_files\\English\\viper.jpg",
       "audioLink": "viper.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Una criatura mitológica o legendaria descrita como un ser serpentino que vive en el agua.",
       "example": "Starożytna cywilizacja czciła węża wodnego jako boga. Wierzyli, że wąż wodny chronił ich wieś. W przyszłości wąż wodny będzie symbolem ich kultury.",
       "example_translation": "La civilización antigua adoraba a una serpiente de agua como deidad. Creían que la serpiente de agua protegía su aldea. En el futuro, la serpiente de agua será un símbolo de su cultura.",
-      "imageLink": "water-serpent.jpg",
+      "imageLink": "image_files\\English\\water-serpent.jpg",
       "audioLink": "water serpent.mp3"
     }
   ]

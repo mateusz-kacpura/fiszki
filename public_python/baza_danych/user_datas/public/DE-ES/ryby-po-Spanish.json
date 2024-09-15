@@ -9,7 +9,7 @@
       "definition_translation": "Un animal de sangre fría que vive en agua, respira con branquias y tiene un cuerpo estilizado, típicamente escamas y a menudo aletas.",
       "example": "Ich fing einen Fisch im See gestern, ich werde Fisch zum Abendessen essen heute Nacht, und ich werde wieder angeln gehen morgen.",
       "example_translation": "Atrapé un pescado en el lago ayer, comeré pescado para cenar esta noche, y iré a pescar de nuevo mañana.",
-      "imageLink": "fish.jpg",
+      "imageLink": "image_files\\English\\fish.jpg",
       "audioLink": "fish.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un gran pez marino con una apariencia distintiva, encontrado en el Océano Atlántico y ampliamente utilizado como alimento.",
       "example": "Ich kaufte Kabeljau auf dem Markt gestern, meine Mutter kochte Kabeljau zum Abendessen letzte Nacht, und ich werde Kabeljau in einem Restaurant essen morgen.",
       "example_translation": "Compré algunos bacalaos en el mercado ayer, mi madre cocinó bacalao para cenar anoche, y comeré bacalao en un restaurante mañana.",
-      "imageLink": "cod.jpg",
+      "imageLink": "image_files\\English\\cod.jpg",
       "audioLink": "cod.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un gran pez con carne rosada-roja, nativo de los océanos Pacífico y Atlántico y valorizado por su sabor y valor nutricional.",
       "example": "Ich grillte Lachs zum Mittagessen gestern, mein Freund wird Lachs zum Abendessen kochen heute Nacht, und ich werde geräucherten Lachs in einem Café essen morgen.",
       "example_translation": "Asé salmón para almuerzo ayer, mi amigo cocinará salmón para cenar esta noche, y comeré salmón ahumado en un café mañana.",
-      "imageLink": "salmon.jpg",
+      "imageLink": "image_files\\English\\salmon.jpg",
       "audioLink": "salmon.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un tiburón es un gran pez carnívoro con un cuerpo aerodinámico y una boca llena de dientes afilados.",
       "example": "Ich sah einen Hai schwimmen im Ozean gestern, ich sehe einen Hai schwimmen im Ozean jetzt, und ich werde einen Hai schwimmen im Ozean sehen morgen.",
       "example_translation": "Vi un tiburón nadando en el océano ayer, veo un tiburón nadando en el océano ahora y veré un tiburón nadando en el océano mañana.",
-      "imageLink": "shark.jpg",
+      "imageLink": "image_files\\English\\shark.jpg",
       "audioLink": "shark.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "El atún es un pez de rápido movimiento, plateado, encontrado en aguas cálidas de los océanos, a menudo atrapado para alimentación.",
       "example": "Ich aß ein Thunfisch-Sandwich zum Mittagessen, ich esse ein Thunfisch-Salat zum Abendessen, und ich werde ein Thunfisch-Sushi-Roll morgen essen.",
       "example_translation": "Comí un sandwich de atún para almuerzo, estoy comiendo una ensalada de atún para cena y comeré un roll de sushi de atún mañana.",
-      "imageLink": "tuna-1.jpg",
+      "imageLink": "image_files\\English\\tuna-1.jpg",
       "audioLink": "tuna.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": " Generar significa producir o hacer eclosionar huevos, especialmente en gran número.",
       "example": "Die Fische laichten im Fluss letztes Jahr, sie laichen im Fluss jetzt, und sie werden im Fluss nächsten Jahr laichen.",
       "example_translation": "Los peces generaron en el río el año pasado, están generando en el río ahora y generarán en el río el año próximo.",
-      "imageLink": "spawn.jpg",
+      "imageLink": "image_files\\English\\spawn.jpg",
       "audioLink": "spawn.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un pez de agua dulce con un cuerpo delgado y carne rosada, a menudo capturado para alimentación o deporte.",
       "example": "Ich fing eine Forelle im Fluss letzten Wochenende. Es war lecker gegrillt. Ich werde wieder Forellenangeln gehen nächsten Monat.",
       "example_translation": "Atrapé una trucha en el río el fin de semana pasado. Fue delicioso asado. Iré a pescar truchas de nuevo el próximo mes.",
-      "imageLink": "trout.jpg",
+      "imageLink": "image_files\\English\\trout.jpg",
       "audioLink": "trout.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un pez u otro organismo que se alimenta de algas, a menudo utilizado para controlar el crecimiento de algas en acuarios o estanques.",
       "example": "Der Algenfresser in meinem Aquarium hilft, das Wasser sauber zu halten. Ich muss den Algenfresser jeden Tag füttern. Der Algenfresser wird in ein paar Monaten größer sein.",
       "example_translation": "El comedor de algas en mi acuario ayuda a mantener el agua limpia. Tengo que alimentar al comedor de algas todos los días. El comedor de algas crecerá más grande en unos meses.",
-      "imageLink": "algae-eater.jpg",
+      "imageLink": "image_files\\English\\algae-eater.jpg",
       "audioLink": "algae eater.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un pez pequeño y aceitoso a menudo utilizado como saborizante o ingrediente en alimentos como pizza o aderezos para ensaladas.",
       "example": "Ich liebe Anchovis auf meiner Pizza. Anchovis sind sehr salzig. Ich werde Anchovis für das Salatdressing nächste Woche kaufen.",
       "example_translation": "Me encantan las anchoas en mi pizza. Las anchoas son muy saladas. Compraré anchoas para el aderezo de ensalada la próxima semana.",
-      "imageLink": "anchovy.jpg",
+      "imageLink": "image_files\\English\\anchovy.jpg",
       "audioLink": "anchovy.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un tipo de pez, típicamente encontrado en ríos y arroyos, caracterizado por sus crecimientos tipo barba alrededor de su boca.",
       "example": "Gestern fing ich eine Barbe, während ich im Fluss angelte. Heute werde ich versuchen, noch einen zu fangen. Hoffentlich werde ich einen morgen auch fangen.",
       "example_translation": "Ayer, atrapé un barbo mientras pescaba en el río. Hoy, voy a tratar de coger otro. Espero coger uno mañana también.",
-      "imageLink": "barbel.jpg",
+      "imageLink": "image_files\\English\\barbel.jpg",
       "audioLink": "barbel.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Desagradablemente frío y húmedo; sombrío o deprimente.",
       "example": "Das düstere Winterwetter machte es schwierig, nach draußen zu gehen. In der Vergangenheit habe ich Winter geliebt, aber jetzt finde ich ihn düster. Ich hoffe, der nächste Winter wird nicht so düster sein.",
       "example_translation": "El clima sombrío del invierno hizo que fuera difícil aventurarse fuera. En el pasado, solía amar el invierno, pero ahora lo encuentro sombrío. Espero que el próximo invierno no sea tan sombrío.",
-      "imageLink": "bleak.jpg",
+      "imageLink": "image_files\\English\\bleak.jpg",
       "audioLink": "bleak.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un tipo de pez de agua dulce, a menudo cazado por deporte o comida, caracterizado por su cuerpo esbelto y escamas grandes.",
       "example": "Ich habe immer einen Brachsen fangen wollen, während ich im See Angelte. Letzten Sommer habe ich endlich einen gefangen. Vielleicht nächsten Sommer werde ich einen sogar größeren Brachsen fangen.",
       "example_translation": "Siempre he querido coger una brema mientras pescaba en el lago. El verano pasado, finalmente cogí uno. Quizás el próximo verano, cogeré una brema aún más grande.",
-      "imageLink": "bream.jpg",
+      "imageLink": "image_files\\English\\bream.jpg",
       "audioLink": "bream.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un lubo es un tipo de pez de agua dulce que pertenece a la familia de los bacalaos. Se encuentra en aguas frías de Europa, Asia y América del Norte.",
       "example": "Ich habe eine Quappe beim Eisfischen im letzten Winter gefangen. Aktuell versuche ich, eine weitere zu fangen. Bis zum nächsten Jahr werde ich viele Quappen gefangen haben.",
       "example_translation": "Me pillé un lubo mientras pesqué en hielo el invierno pasado. Actualmente, estoy tratando de pillar otro. Para el próximo año, habré pescado muchos lubos.",
-      "imageLink": "burbot.jpg",
+      "imageLink": "image_files\\English\\burbot.jpg",
       "audioLink": "burbot.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Una carpa es un tipo de pez de agua dulce que es nativo de Europa y Asia. A menudo se considera un pez molestoso debido a su capacidad para competir con especies nativas.",
       "example": "Der Karpfen schwamm im seichten Wasser. Jetzt schwimmt er im tiefen Wasser. Bis nächsten Monat wird der Karpfen im See schwimmen.",
       "example_translation": "La carpa estaba nadando en el agua superficial. Ahora, está nadando en el agua profunda. Para el próximo mes, la carpa estará nadando en el lago.",
-      "imageLink": "carp.jpg",
+      "imageLink": "image_files\\English\\carp.jpg",
       "audioLink": "carp.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un pez gato es un tipo de pez de agua dulce que se caracteriza por sus barbillas como bigotes y aletas espinosas. Se encuentra en aguas cálidas y templadas en todo el mundo.",
       "example": "Ich habe den ganzen Tag nach Welsen gefischt. Gerade jetzt fange ich einen Wels. Bis morgen werde ich viele Welse gefangen haben.",
       "example_translation": "He estado pescando peces gato todo el día. Ahora, estoy pillando un pez gato. Para mañana, habré pescado muchos peces gato.",
-      "imageLink": "catfish.jpg",
+      "imageLink": "image_files\\English\\catfish.jpg",
       "audioLink": "catfish.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Una persona o animal regordeta o gordo, especialmente un salmón o trucha joven.",
       "example": "Der Aitel, den ich gefangen habe, war ein ziemlicher Kämpfer. Ich habe einen Aitel gestern gefangen. Ich werde einen Aitel morgen fangen.",
       "example_translation": "El rucio que cogí era un luchador. Cogí un rucio ayer. Cogeré un rucio mañana.",
-      "imageLink": "chub.jpg",
+      "imageLink": "image_files\\English\\chub.jpg",
       "audioLink": "chub.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un pez largo y esbelto con cuerpo de serpiente, encontrada en agua dulce y salada.",
       "example": "Der Aal glitt durch das Wasser. Ich habe einen Aal gesehen, der gestern schwamm. Ich werde einen Aal nächste Woche essen.",
       "example_translation": "La anguila se deslizó a través del agua. Vi una anguila nadando ayer. Comeré una anguila la próxima semana.",
-      "imageLink": "eel.jpg",
+      "imageLink": "image_files\\English\\eel.jpg",
       "audioLink": "eel.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una estructura delgada, plana, a menudo triangular en la espalda de un pez, utilizada para equilibrio y estabilidad.",
       "example": "Die Flosse des Hais war scharf. Ich habe eine Flosse gesehen, die gestern das Wasser durchbrach. Ich werde die Flosse nächstes Semester studieren.",
       "example_translation": "La aleta del tiburón era afilada. Vi una aleta rompiendo el agua ayer. Estudiaré la aleta el próximo semestre.",
-      "imageLink": "fin.jpg",
+      "imageLink": "image_files\\English\\fin.jpg",
       "audioLink": "fin.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un pez plano es un tipo de pez que tiene un cuerpo aplanado, a menudo encontrado en aguas someras.",
       "example": "Ich habe einen Plattfisch gefangen, während ich im See angerietet. Ich werde einen Plattfisch zum Abendessen heute kochen. Sie hatte einen Plattfisch zum Frühstück gegessen.",
       "example_translation": "Caché un pez plano mientras pescaba en el lago ayer. Cocinaré un pez plano para cenar esta noche. Ella había comido un pez plano para desayunar.",
-      "imageLink": "flatfish.jpg",
+      "imageLink": "image_files\\English\\flatfish.jpg",
       "audioLink": "flatfish.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un lenguado es un tipo de pez plano que tiene un sabor suave y se come a menudo en restaurantes.",
       "example": "Ich habe eine Flunder im Fischrestaurant letzte Woche bestellt. Sie wird bei der Prüfung scheitern, wenn sie nicht studiert. Sie fluchten im Wasser, um dem Hai zu entkommen.",
       "example_translation": "Pedí un lenguado en el restaurante de mariscos la semana pasada. Ella se ahogará en el examen si no estudia. Ellos se debatieron en el agua para escapar del tiburón.",
-      "imageLink": "flounder.jpg",
+      "imageLink": "image_files\\English\\flounder.jpg",
       "audioLink": "flounder.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Una dorada es un tipo de pez que es nativo del mar Mediterráneo y tiene una raya dorada distinctive en su cabeza.",
       "example": "Ich sah einen Goldkopf im Aquarium gestern. Sie haben einen Goldkopf beim Schnorcheln in Griechenland gefangen. Sie hat noch nie einen Goldkopf probiert.",
       "example_translation": "Vi una dorada nadando en el acuario ayer. Cogieron una dorada mientras buceaban en Grecia. Ella nunca ha probado una dorada antes.",
-      "imageLink": "gilthead.jpg",
+      "imageLink": "image_files\\English\\gilthead.jpg",
       "audioLink": "gilthead.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un tipo de pez, generalmente encontrado en agua fresca, que tiene un cuerpo esbelto y una boca característica.",
       "example": "Ich fing einen Gründling beim Angeln im Fluss. Gestern hatte ich einen großen Gründling gefangen, aber jetzt fange ich einen kleinen. Nächste Woche werde ich einen anderen Gründling fangen.",
       "example_translation": "Cogí un góbio mientras pescaba en el río. Ayer, había cogido un góbio grande, pero ahora cojo uno pequeño. La próxima semana, cogeré otro góbio.",
-      "imageLink": "gudgeon.jpg",
+      "imageLink": "image_files\\English\\gudgeon.jpg",
       "audioLink": "gudgeon.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un pez pequeño y colorido, popular en acuarios.",
       "example": "Ich habe einen Guppy in meinem Aquarium. Gestern hatte ich zwei Guppys, aber jetzt habe ich fünf. Nächstes Jahr werde ich zehn Guppys haben.",
       "example_translation": "Tengo un guppy en mi acuario. Ayer, tenía dos guppies, pero ahora tengo cinco. El próximo año, tendré diez guppies.",
-      "imageLink": "guppy.jpg",
+      "imageLink": "image_files\\English\\guppy.jpg",
       "audioLink": "guppy.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un tipo de pez, a menudo utilizado en la cocina, que tiene un sabor suave y una textura firme.",
       "example": "Ich liebe es, Schellfisch zum Mittagessen zu essen. Gestern hatte ich Schellfisch zum Mittagessen, aber jetzt bevorzuge ich ihn zum Abendessen. Nächsten Monat werde ich Schellfisch zum Frühstück haben.",
       "example_translation": "Me encanta comer eglefino para cenar. Ayer, tenía eglefino para almuerzo, pero ahora lo prefiero para cenar. El próximo mes, tendré eglefino para desayunar.",
-      "imageLink": "haddock.jpg",
+      "imageLink": "image_files\\English\\haddock.jpg",
       "audioLink": "haddock.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un tipo de pescado de sabor suave, a menudo utilizado en la cocina, especialmente en la región del Mediterráneo.",
       "example": "Ich hatte Seehecht zum Abendessen letzten Nacht, es war lecker. Ich werde Seehecht zum Abendessen nächste Woche haben. Ich hatte Seehecht zum Abendessen, als ich in Spanien war.",
       "example_translation": "Yo tuve colín para cenar la noche pasada, estaba delicioso. Tendré colín para cenar la próxima semana. Tuve colín para cenar cuando estuve en España.",
-      "imageLink": "hake.jpg",
+      "imageLink": "image_files\\English\\hake.jpg",
       "audioLink": "hake.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un tipo de pescado de carne blanca firme, a menudo utilizado en la cocina, especialmente en sándwiches y ensaladas.",
       "example": "Ich liebe es, Heilbutt-Sandwiches am Strand zu essen. Meine Mutter wird Heilbutt zum Abendessen morgen kochen. Ich aß Heilbutt im Restaurant letzte Woche.",
       "example_translation": "Me encanta comer sándwiches de halibut en la playa. Mi madre cocinará halibut para cenar mañana. Comí halibut en el restaurante la semana pasada.",
-      "imageLink": "halibut.jpg",
+      "imageLink": "image_files\\English\\halibut.jpg",
       "audioLink": "halibut.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un tipo de pescado pequeño y aceitoso, a menudo encurtido o curado y utilizado como aperitivo o snack.",
       "example": "Ich aß Hering zum Frühstück, als ich in Norwegen war. Meine Oma wird Hering für die Party heute Abend vorbereiten. Ich werde Hering auf dem Fest nächsten Jahr essen.",
       "example_translation": "Comí arenque para desayunar cuando estaba en Noruega. Mi abuela preparará arenque para la fiesta esta noche. Comeré arenque en el festival el año que viene.",
-      "imageLink": "herring.jpg",
+      "imageLink": "image_files\\English\\herring.jpg",
       "audioLink": "herring.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "un pez similar a una anguila con una ventosa en la cabeza, utilizado como alimento.",
       "example": "Das Neunauge hing sich an den Hai an. Gestern sah ich ein Neunauge im Aquarium. Bis nächstem Jahr werde ich ein Neunauge gefangen haben.",
       "example_translation": "La lamprea se attachesó al tiburón. Ayer, vi una lamprea en el acuario. Para el próximo año, habré atrapado una lamprea.",
-      "imageLink": "lamprey.jpg",
+      "imageLink": "image_files\\English\\lamprey.jpg",
       "audioLink": "lamprey.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "un pez que nada rápido con un cuerpo brillante, a menudo comido como alimento.",
       "example": "Ich kochte eine Makrele zum Abendessen. Die Makrelen schwimmen im Ozean. Bis morgen werde ich eine Makrele gegrillt haben.",
       "example_translation": " Cociné un jurel para cenar. Los jureles están nadando en el océano. Para mañana, habré asado un jurel.",
-      "imageLink": "mackerel.jpg",
+      "imageLink": "image_files\\English\\mackerel.jpg",
       "audioLink": "mackerel.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "un tipo de pez similar a una anguila, a menudo encontrado en aguas tropicales.",
       "example": "Die Muräne schwamm schnell durch das Korallenriff. Gestern sah ich eine Muräne im Aquarium. Bis nächsten Monat werde ich eine Muräne gefangen haben.",
       "example_translation": "El mujol nadó rápidamente a través del arrecife de coral. Ayer, vi un mujol en el acuario. Para el próximo mes, habré atrapado un mujol.",
-      "imageLink": "moray.jpg",
+      "imageLink": "image_files\\English\\moray.jpg",
       "audioLink": "moray.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Una perca es un tipo de pez de agua dulce, típicamente encontrado en ríos y lagos, caracterizado por su cuerpo alargado y aletas afiladas.",
       "example": "Ich fing einen Barsch beim Angeln im See gestern. Ich werde einen Barsch beim Angeln im See morgen fangen. Ich fange einen Barsch beim Angeln im See jetzt.",
       "example_translation": "Atrapé una perca mientras pescaba en el lago ayer. Atraparé una perca mientras pescaba en el lago mañana. Atrapo una perca mientras pescaba en el lago ahora.",
-      "imageLink": "perch.jpg",
+      "imageLink": "image_files\\English\\perch.jpg",
       "audioLink": "perch.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un lucio es un tipo de pez de agua dulce, típicamente encontrado en ríos y lagos, caracterizado por su cuerpo largo y delgado y dientes afilados.",
       "example": "Ich sah einen Hecht im Fluss letzten Woche schwimmen. Ich werde einen Hecht im Fluss nächste Woche schwimmen sehen. Ich sehe einen Hecht im Fluss jetzt schwimmen.",
       "example_translation": "Vi un lucio nadando en el río la semana pasada. Veré un lucio nadando en el río la semana próxima. Veo un lucio nadando en el río ahora.",
-      "imageLink": "pike.jpg",
+      "imageLink": "image_files\\English\\pike.jpg",
       "audioLink": "pike.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Una piraña es un tipo de pez de agua dulce, típicamente encontrado en ríos y lagos, caracterizado por su pequeño tamaño y dientes afilados.",
       "example": "Die Piranha griff den Fisch im Aquarium gestern an. Die Piranha wird den Fisch im Aquarium morgen angreifen. Die Piranha greift den Fisch im Aquarium jetzt an.",
       "example_translation": "La piraña atacó el pez en el acuario ayer. La piraña atacará el pez en el acuario mañana. La piraña ataca el pez en el acuario ahora.",
-      "imageLink": "piranha.jpg",
+      "imageLink": "image_files\\English\\piranha.jpg",
       "audioLink": "piranha.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un tipo de pez plano, a menudo utilizado como pescado comestible, encontrado en el Océano Atlántico y el Mar Mediterráneo.",
       "example": "Ich fing eine Scholle beim Angeln gestern, es war lecker gegrillt. Ich werde eine weitere morgen fangen, und mein Freund fing eine letzte Woche.",
       "example_translation": "Atrapé un lenguado mientras pescaba ayer, estaba delicioso a la parrilla. Cogeré otro mañana, y mi amigo atrapó uno la semana pasada.",
-      "imageLink": "plaice.jpg",
+      "imageLink": "image_files\\English\\plaice.jpg",
       "audioLink": "plaice.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un tipo de pez de agua dulce, a menudo considerado una plaga debido a su capacidad para prosperar en aguas contaminadas.",
       "example": "Die Rotaugen verseuchten den See, was es schwierig machte, andere Fische zu fangen. Wir werden versuchen, sie nächste Woche zu entfernen, aber sie waren letzten Monat auch da.",
       "example_translation": "El rutilo invadió el lago, haciendo difícil pescar otros peces. Intentaremos eliminarlos la próxima semana, pero también estaban presentes el mes pasado.",
-      "imageLink": "roach.jpg",
+      "imageLink": "image_files\\English\\roach.jpg",
       "audioLink": "roach.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un pez pequeño y grasoso, a menudo enlatado y utilizado como fuente de alimento.",
       "example": "Ich öffnete eine Dose Sardinen zum Mittagessen, und sie waren sehr lecker. Meine Großmutter aß Sardinen zum Frühstück, und mein Bruder wird sie morgen essen.",
       "example_translation": "Abrí una lata de sardinas para almorzar, y estaban muy sabrosas. Mi abuela solía comer sardinas para desayunar, y mi hermano las comerá mañana.",
-      "imageLink": "sardine.jpg",
+      "imageLink": "image_files\\English\\sardine.jpg",
       "audioLink": "sardine.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un pejegato es un tipo de raya que tiene una nariz larga y estrecha que se utiliza para encontrar y cazar presas.",
       "example": "Die Biologin studierte den Sägefisch in seinem natürlichen Habitat, beobachtete, wie er seine Säge benutzte, um elektrische Signale von seinem Beutetier zu detektieren. Letztes Jahr sah sie einen Sägefisch im Aquarium, und gestern wird sie einen anderen in der Wildnis sehen.",
       "example_translation": "El biólogo estudió el pejegato en su hábitat natural, observando cómo utilizaba su sierra para detectar señales eléctricas de sus presas. El año pasado, ella vio un pejegato en el acuario, y ayer, ella verá otro en el medio silvestre.",
-      "imageLink": "sawfish.jpg",
+      "imageLink": "image_files\\English\\sawfish.jpg",
       "audioLink": "sawfish.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "En física, un escalar es una cantidad que tiene solo magnitud, sin dirección.",
       "example": "Der Physiker verwendete Skalargrößen, um die Bewegung des Objekts zu beschreiben, erklärte, dass es eine skalare Beschleunigung durch Schwerkraft hatte. Sie wird skalare Felder verwenden, um das elektromagnetische Feld in Zukunft zu modellieren.",
       "example_translation": "El físico utilizó cantidades escalares para describir el movimiento del objeto, explicando que tenía una aceleración escalar debida a la gravedad. Ella utilizará campos escalares para modelar el campo electromagnético en el futuro.",
-      "imageLink": "scalar.jpg",
+      "imageLink": "image_files\\English\\scalar.jpg",
       "audioLink": "scalar.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Una escala es una serie de notas musicales en un patrón específico, utilizada para crear armonía y melodía.",
       "example": "Der Musiker übte jeden Tag die C-Dur-Tonleiter, um seine Klavierfähigkeiten zu verbessern. Letzte Woche spielte sie ein Lied in der G-Moll-Tonleiter, und nächste Woche wird sie ein Stück in der Fis-Dur-Tonleiter komponieren.",
       "example_translation": "La música practicó la escala de do mayor todos los días para mejorar sus habilidades en el piano. La semana pasada, ella tocó una canción en la escala de sol menor, y la próxima semana, ella compondrá una pieza en la escala de fa sostenido.",
-      "imageLink": "scale.jpg",
+      "imageLink": "image_files\\English\\scale.jpg",
       "audioLink": "scale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un caballito de mar es un animal marino que pertenece a la familia Syngnathidae, caracterizado por su cabeza de caballo, cola enrollada y capacidad de nadar erecto.",
       "example": "Ich sah ein Seepferd im Aquarium gestern schwimmen. Ich werde ein Seepferd im Aquarium morgen schwimmen sehen. Ich sehe ein Seepferd im Aquarium jetzt schwimmen.",
       "example_translation": "Vi a un caballito de mar nadando en el acuario ayer. Veré a un caballito de mar nadando en el acuario mañana. Veo a un caballito de mar nadando en el acuario ahora.",
-      "imageLink": "seahorse.jpg",
+      "imageLink": "image_files\\English\\seahorse.jpg",
       "audioLink": "seahorse.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Lengua se refiere al fondo o lado inferior de algo, como un pie o un zapato, o un tipo de pez plano.",
       "example": "Die Sohle meines Schuhs war abgenutzt. Ich werde die Sohle meines Schuhs morgen reinigen. Ich habe die Sohle meines Schuhs gestern gereinigt.",
       "example_translation": "La lengua de mi zapato estaba gastada. Limpie la lengua de mi zapato mañana. Limpie la lengua de mi zapato ayer.",
-      "imageLink": "sole.jpg",
+      "imageLink": "image_files\\English\\sole.jpg",
       "audioLink": "sole.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un espadín es un pez pequeño y grasoso, a menudo capturado para la comida o utilizado como cebo.",
       "example": "Ich habe eine Sprotte beim Angeln letzte Woche gefangen. Ich werde eine Sprotte heute Abend essen. Ich habe eine Sprotte gestern Mittag gegessen.",
       "example_translation": "Atrapé un espadín mientras pescaba la semana pasada. Comeré un espadín para cenar esta noche. Comí un espadín para almuerzo ayer.",
-      "imageLink": "sprat.jpg",
+      "imageLink": "image_files\\English\\sprat.jpg",
       "audioLink": "sprat.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un pequeño pez de agua dulce con una hilera distinta de espinas a lo largo de su espalda, encontrado en Europa y Asia",
       "example": "Ich habe einen Stichling im Fluss gefangen, als ich ein Kind war. Ich werde einen Stichling im Fluss morgen fangen. Sie hatte einen Stichling im Fluss letzte Woche gefangen.",
       "example_translation": "Atrapé un gasterósteo en el río cuando era niño. Atraparé un gasterósteo en el río mañana. Ella había atrapado un gasterósteo en el río la semana pasada.",
-      "imageLink": "stickleback.jpg",
+      "imageLink": "image_files\\English\\stickleback.jpg",
       "audioLink": "stickleback.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un gran pez con un cuerpo largo y delgado y una nariz distintiva, encontrado en ríos y áreas costeras",
       "example": "Der Stör schwamm flussaufwärts, um zu laichen. Der Stör wird nächsten Monat flussabwärts wandern. Sie hatten einen Stör im Fluss letztes Jahr gefangen.",
       "example_translation": "El esturión nadó río arriba para desovar. El esturión migrará río abajo el mes próximo. Ellos habían atrapado un esturión en el río el año pasado.",
-      "imageLink": "sturgeon.jpg",
+      "imageLink": "image_files\\English\\sturgeon.jpg",
       "audioLink": "sturgeon.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un gran pez con un cuerpo aplanado y aletas pequeñas, a menudo encontrado cerca de la superficie del agua",
       "example": "Der Sonnefisch schwamm nahe der Oberfläche. Der Sonnefisch wird morgen von den Fischern gefangen. Sie hatten einen Sonnefisch im Ozean letzten Sommer gesehen.",
       "example_translation": "El pez luna nadó cerca de la superficie. El pez luna será atrapado por los pescadores mañana. Ellos habían visto un pez luna en el océano el verano pasado.",
-      "imageLink": "sunfish.jpg",
+      "imageLink": "image_files\\English\\sunfish.jpg",
       "audioLink": "sunfish.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "un pez marino grande con un pico largo y una forma distintiva, apreciado por su carne",
       "example": "Ich habe einen Schwertfisch beim Tiefseefischen letzten Jahres gefangen, und ich werde einen weiteren nächsten Sommer fangen, aber ich fange heute keinen.",
       "example_translation": "Atrapé un pez espada mientras pescaba en alta mar el año pasado, y atraparé otro el próximo verano, pero no estoy atrapando ninguno hoy.",
-      "imageLink": "swordfish.jpg",
+      "imageLink": "image_files\\English\\swordfish.jpg",
       "audioLink": "swordfish.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "un pez de agua dulce con cuerpo aplanado y boca pequeña, encontrado en ríos y lagos",
       "example": "Ich habe früher Kaulbarsche im Fluss bei meinem Dorf gefangen, als ich ein Kind war, und ich fange sie heute noch, aber ich fange keine morgen.",
       "example_translation": "Solía atrapar tenca en el río cerca de mi aldea cuando era niño, y todavía las atrapo hoy, pero no atraparé ninguna mañana.",
-      "imageLink": "tench.jpg",
+      "imageLink": "image_files\\English\\tench.jpg",
       "audioLink": "tench.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "un pez de agua dulce grande con cuerpo largo y delgado y un sabor distinto, encontrado en ríos y lagos",
       "example": "Ich werde versuchen, einen Zander im See nächstes Wochenende zu fangen, und ich habe versucht, einen letzten Jahr zu fangen, aber ich fange heute keinen.",
       "example_translation": "¿Voy a intentar atrapar un lúcio en el lago el próximo fin de semana, y traté de atrapar uno el año pasado, pero no estoy atrapando ninguno hoy.",
-      "imageLink": "zander.jpg",
+      "imageLink": "image_files\\English\\zander.jpg",
       "audioLink": "zander.mp3"
     }
   ]

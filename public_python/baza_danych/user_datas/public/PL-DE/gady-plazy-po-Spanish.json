@@ -9,7 +9,7 @@
       "definition_translation": "Ein langes, dünnes, beinloses Tier, das keine Lidern oder äußeren Ohren hat und sich auf dem Boden durch Seitwärtsbiegen seines Körpers bewegt.",
       "example": "Wczoraj zobaczyłem węża w lesie. Zobaczę węża w lesie jutro. Widziałem węża w lesie przedtem.",
       "example_translation": "Ich sah eine Schlange im Wald gestern. Ich werde eine Schlange im Wald morgen sehen. Ich habe eine Schlange im Wald vorher gesehen.",
-      "imageLink": "snake.jpg",
+      "imageLink": "image_files\\English\\snake.jpg",
       "audioLink": "snake.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Ein kleiner, typischerweise grüner, hüpfender Amphibie mit einer langen Zunge und gefurchten Füßen.",
       "example": "Żaba skoczyła do stawu. Żaba skoczy do stawu. Żaba skoczyła do stawu.",
       "example_translation": "Der Frosch sprang in den Teich. Der Frosch wird in den Teich springen. Der Frosch hat in den Teich gesprungen.",
-      "imageLink": "frog.jpg",
+      "imageLink": "image_files\\English\\frog.jpg",
       "audioLink": "frog.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ein langsam bewegendes Reptil mit einem Panzer, typischerweise auf dem Land gefunden, das seinen Kopf und Gliedmaßen in den Panzer zur Schutz zurückzieht.",
       "example": "Żółw spacerował wolno przez pustynię. Żółw będzie spacerował wolno przez pustynię. Żółw spacerował wolno przez pustynię przedtem.",
       "example_translation": "Die Schildkröte ging langsam über die Wüste. Die Schildkröte wird langsam über die Wüste gehen. Die Schildkröte hat langsam über die Wüste gegangen.",
-      "imageLink": "tortoise.jpg",
+      "imageLink": "image_files\\English\\tortoise.jpg",
       "audioLink": "tortoise.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ein Reptil mit einem Panzer, typischerweise im Meer gefunden, das mit seinen Flossen schwimmt und seinen Kopf und Gliedmaßen in den Panzer zur Schutz zurückzieht.",
       "example": "Żółw morski szybko pływał przez ocean. Żółw morski będzie szybko pływał przez ocean. Żółw morski szybko pływał przez ocean przedtem.",
       "example_translation": "Die Schildkröte schwamm schnell durch den Ozean. Die Schildkröte wird schnell durch den Ozean schwimmen. Die Schildkröte hat schnell durch den Ozean geschwommen.",
-      "imageLink": "turtle.jpg",
+      "imageLink": "image_files\\English\\turtle.jpg",
       "audioLink": "turtle.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Ein großes Reptil mit einer langen Schnauze und einem starken Schwanz, ursprünglich aus den Süßwasserumgebungen im Südosten der Vereinigten Staaten.",
       "example": "Aligator mieszkał w bagieniu przez wiele lat. Został zobaczony przez wielu turystów. Będzie usunięty przez ekspertów od dzikiej przyrody.",
       "example_translation": "Der Alligator hatte Jahre lang im Sumpf gelebt. Es wurde von vielen Touristen gesehen. Es wird von den Wildtierspezialisten entfernt werden.",
-      "imageLink": "alligator.jpg",
+      "imageLink": "image_files\\English\\alligator.jpg",
       "audioLink": "alligator.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Eine große, ungiftige Schlange, die in den Feuchtgebieten Südamerikas gefunden wird, bekannt für ihre massive Größe und ihre constricting Fähigkeiten.",
       "example": "Anakonda owijała się wokół pnia drzewa. Połykała swoją ofiarę całą. Udusi swoją następną ofiarę.",
       "example_translation": "Die Anakonda hatte sich um den Baumstamm gewickelt. Es hat sein Beutetier ganz verschluckt. Es wird sein nächstes Opfer erstickt.",
-      "imageLink": "anaconda.jpg",
+      "imageLink": "image_files\\English\\anaconda.jpg",
       "audioLink": "anaconda.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Eine ungiftige Schlange, die in den tropischen Regionen Zentral- und Südamerikas gefunden wird, bekannt für ihren schlanken Körper und ihre constricting Fähigkeiten.",
       "example": "Boa przesuwała się przez gęsty las. Spała w ciepłym słońcu. Poluje na swoją ofiarę w nocy.",
       "example_translation": "Die Boa hatte sich durch den dichten Wald geschlängelt. Es hat in der warmen Sonne geschlafen. Es wird seine Beute in der Nacht jagen.",
-      "imageLink": "boa.jpg",
+      "imageLink": "image_files\\English\\boa.jpg",
       "audioLink": "boa.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Ein großes Reptil mit einer langen Schnauze und einem starken Schwanz, das in tropischen und subtropischen Regionen auf der ganzen Welt gefunden wird, bekannt für seine fleischfressende Ernährung und sein aggressives Verhalten.",
       "example": "Krokodyl mieszkał w sawannie afrykańskiej. Atakował swoją ofiarę w wodzie. Będzie chroniony przez starania konserwacyjne.",
       "example_translation": "Das Krokodil hatte in der afrikanischen Savanne gelebt. Es hat sein Beutetier im Wasser attackiert. Es wird durch Artenschutzanstrengungen geschützt werden.",
-      "imageLink": "crocodile.jpg",
+      "imageLink": "image_files\\English\\crocodile.jpg",
       "audioLink": "crocodile.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Ein Reptil der Ordnung Squamata, das Schlangen, Eidechsen und Wurm-Eidechsen einschließt, oft mit einem langen, schlanken Körper, einem kurzen Hals und einem Schwanz, der wieder nachgewachsen kann, wenn er verloren geht.",
       "example": "Jaszczurka wystawiała się na wietrze na skałach. Wystawiała się wczoraj i będzie się wystawiała jutro także. Kiedy się wystawiała, ptak przleciał koło niej.",
       "example_translation": "Die Eidechse sonnte sich in der warmen Sonne auf dem Felsen. Sie hatte sich dort gestern gesonnt und wird sich dort morgen auch wieder sonnen. Während sie sich sonnte, flog ein Vogel vorbei.",
-      "imageLink": "lizard.jpg",
+      "imageLink": "image_files\\English\\lizard.jpg",
       "audioLink": "lizard.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Die harte äußere Hülle eines Weichtieres, wie einer Schnecke oder eines Muschels, oder eine Struktur, die einer solchen Hülle ähnelt.",
       "example": "Podniosła muszlę z plaży i dokładnie ją zbadała. Podniosła ją wczoraj i będzie podnosić ją jutro także. Kiedy się nią zajmowała, fala uderzyła w brzeg.",
       "example_translation": "Sie hob eine Schale am Strand auf und untersuchte sie genau. Sie hatte gestern eine aufgehoben und wird morgen eine andere aufheben. Während sie sie untersuchte, schlug eine Welle gegen das Ufer.",
-      "imageLink": "shell.jpg",
+      "imageLink": "image_files\\English\\shell.jpg",
       "audioLink": "shell.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Eine giftige Schlange der Gattung Crotalus, die in den Amerikas vorkommt, die durch ein Rasseln an ihrem Schwanz gekennzeichnet ist, das sie bei Bedrohung schüttelt.",
       "example": "Wędrowiec zobaczył żmiję na szlaku i ostrożnie się wycofał. Wczoraj zobaczył żmiję, a jutro zobaczy ją ponownie. Gdy się jej przyglądał, wąż zniknął.",
       "example_translation": "Der Wanderer sah eine Klapperschlange auf dem Pfad und ging langsam zurück. Er hatte gestern eine gesehen und wird morgen noch eine weitere sehen. Während er zusah, glitt die Schlange weg.",
-      "imageLink": "rattlesnake.jpg",
+      "imageLink": "image_files\\English\\rattlesnake.jpg",
       "audioLink": "rattlesnake.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Ein kaltblütiges Tier, das eine schuppige Haut, Eier legt und ein dreikammeriges Herz hat, wie eine Schlange, Eidechse oder Schildkröte.",
       "example": "Ogrodnik karmił gada kawałkiem mięsa. Wczoraj go karmił, a jutro znowu go nakarmi. Gdy go karmił, dziecko zadało mu pytanie.",
       "example_translation": "Der Zoologe fütterte das Reptil mit einem Stück Fleisch. Sie hatte es gestern gefüttert und wird es morgen wieder füttern. Während sie es fütterte, fragte ein Kind sie etwas.",
-      "imageLink": "reptile.jpg",
+      "imageLink": "image_files\\English\\reptile.jpg",
       "audioLink": "reptile.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Ein Salamander ist eine Art von Amphibie, die einen schlanken Körper, einen langen Schwanz und normalerweise vier Beine hat. Sie werden oft in oder nahe dem Wasser gefunden und haben eine feuchte, glatte Haut.",
       "example": "Dziecko złapało salamandrę w stawie i trzymało ją w słoju. Wczoraj złapała salamandrę w ogrodzie. Do następnego lata złapie wiele salamander.",
       "example_translation": "Das Kind fing einen Salamander im Teich und behielt ihn in einem Glas. Gestern hatte sie einen Salamander im Garten gefangen. Bis nächsten Sommer wird sie viele Salamander gefangen haben.",
-      "imageLink": "salamander-1.jpg",
+      "imageLink": "image_files\\English\\salamander-1.jpg",
       "audioLink": "salamander.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Eine Kaulquappe ist das Larvalstadium eines Frosches oder Kröten, das durch einen fischähnlichen Körper und einen langen Schwanz gekennzeichnet ist. Es durchläuft eine Metamorphose, um ein adultes Frosch oder Kröte zu werden.",
       "example": "Larwy żab w stawie rosną szybko. Były larwami żab w zeszłym tygodniu, a teraz już mają nogi. W przyszłym miesiącu będą już dorosłymi żabami.",
       "example_translation": "Die Kaulquappen im Teich wachsen schnell. Sie waren Kaulquappen letzte Woche, aber jetzt haben sie bereits Beine gewachsen. Nächsten Monat werden sie vollentwickelte Frösche sein.",
-      "imageLink": "tadpole.jpg",
+      "imageLink": "image_files\\English\\tadpole.jpg",
       "audioLink": "tadpole.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Eine Kröte ist eine Art von Amphibie, die einen stämmigen Körper, kurze Beine und trockene, warzige Haut hat. Sie wird oft in Gärten und Wäldern gefunden.",
       "example": "Ropucha przeskakiwała przez ścieżkę w ogrodzie. Wczoraj widziałem ropuchę siedzącą na liściu. Do następnego roku ropucha przemieści się do nowego miejsca.",
       "example_translation": "Die Kröte hoppelte über den Gartenweg. Gestern sah ich eine Kröte auf einem Blatt sitzen. Bis nächstem Jahr wird die Kröte in ein neues Habitat gezogen sein.",
-      "imageLink": "toad.jpg",
+      "imageLink": "image_files\\English\\toad.jpg",
       "audioLink": "toad.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Amphibien sind eine Gruppe von kaltblütigen Tieren, die einen Lebenszyklus haben, der sowohl aquatische als auch terrestrische Umgebungen umfasst. Sie sind durch ihre feuchte, glatte Haut und die Fähigkeit, durch ihre Haut zu atmen, gekennzeichnet.",
       "example": "Płazy są ważną częścią naszego ekosystemu. Były pierwszymi płazami, które ewoluowały na Ziemi. Do końca tego wieku wiele płazów będzie wyginęło.",
       "example_translation": "Amphibien sind ein essentieller Teil unseres Ökosystems. Sie waren die ersten Amphibien, die auf der Erde evolvierten. Bis zum Ende dieses Jahrhunderts werden viele Amphibien ausgestorben sein.",
-      "imageLink": "amphibians.jpg",
+      "imageLink": "image_files\\English\\amphibians.jpg",
       "audioLink": "amphibians.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Ein Blindwurm ist ein beinloses Tier, das einer Schlange ähnelt, aber tatsächlich eine Art Eidechse ist, die keine Augen oder Gliedmaßen hat.",
       "example": "Widziałem ślepaka pełzającego po ziemi, kiedy wspinałem się po górach. Wyszedł z dziury. Wróci do swojej dziury tej nocy.",
       "example_translation": "Ich sah einen Blindwurm auf dem Boden kriechen, als ich in den Bergen wanderte. Er war aus einem Loch gekrochen. Er wird heute Nacht in sein Loch zurückkriechen.",
-      "imageLink": "blindworm.jpg",
+      "imageLink": "image_files\\English\\blindworm.jpg",
       "audioLink": "blindworm.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Ein Chamäleon ist eine Art Eidechse, die die Fähigkeit hat, ihre Farbe zu ändern, um sich mit ihrer Umgebung anzupassen.",
       "example": "Kameleon zmienił kolor na zielony, kiedy usiadł na liściu. Zmieni kolor na brązowy, kiedy usiądzie na gałęzi. Zmienił kolor na szary, kiedy usiadł na skale.",
       "example_translation": "Das Chamäleon änderte seine Farbe zu Grün, als es auf einem Blatt saß. Es wird seine Farbe zu Braun ändern, wenn es auf einem Zweig sitzt. Es änderte seine Farbe zu Grau, als es auf einem Felsen saß.",
-      "imageLink": "chameleon.jpg",
+      "imageLink": "image_files\\English\\chameleon.jpg",
       "audioLink": "chameleon.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Eine Kobra ist eine Art giftiger Schlange, die in Afrika und Asien gefunden wird, bekannt für ihre Fähigkeit, ihr Kapuze auszubreiten, wenn sie bedroht wird.",
       "example": "Widziałem kobrę rozwierającą kaptur, kiedy czuła się zagrożona w pustyni. Ugodzi ofiarę, gdy będzie głodna. Ugodziła ofiarę wczoraj wieczorem.",
       "example_translation": "Ich sah eine Kobra, die ihr Kapuze ausbreitete, als sie sich in der Wüste bedroht fühlte. Es wird sein Opfer angreifen, wenn es hungrig ist. Es hatte sein Opfer letzte Nacht angegriffen.",
-      "imageLink": "cobra.jpg",
+      "imageLink": "image_files\\English\\cobra.jpg",
       "audioLink": "cobra.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Eine Graschlange ist eine ungiftige Schlange, die in Europa und Asien gefunden wird, bekannt für ihre Fähigkeit, zu schwimmen, und ihre grünlich-gelbe Farbe.",
       "example": "Widziałem węża trawnego płynącego w jeziorze, kiedy łowiłem ryby. Będzie się kąpać w słońcu, gdy będzie ciepło. Kąpał się w słońcu w zeszłym tygodniu.",
       "example_translation": "Ich sah eine Graschlange schwimmen, als ich angeln war. Es wird sich in der Sonne sonnen, wenn es sich warm fühlt. Es hatte sich letzte Woche in der Sonne gesonnt.",
-      "imageLink": "grass-snake.jpg",
+      "imageLink": "image_files\\English\\grass-snake.jpg",
       "audioLink": "grass snake.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Ein kleiner semi-aquatischer Salamander mit schlankem Körper und langem Schwanz, gefunden in Teichen und langsamen Gewässern.",
       "example": "Wczoraj, widziałem jęża płynącego w stawie. Dziś, obserwuję jęża kąpiącego się w słońcu. Jutro, spróbuję złapać jęża.",
       "example_translation": "Gestern sah ich einen Molch im Teich schwimmen. Heute sehe ich einen Molch in der Sonne sonnen. Morgen werde ich versuchen, einen Molch zu fangen.",
-      "imageLink": "newt.jpg",
+      "imageLink": "image_files\\English\\newt.jpg",
       "audioLink": "newt.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Eine hohe, interpretierte Programmiersprache, insbesondere für die Web-Entwicklung und Datenanalyse.",
       "example": "Używałem do kodowania w Pythonie, zanim nauczyłem się JavaScriptu. Teraz, studiuję zaawansowane koncepcje Pythona. W przyszłości, rozwinę model uczenia maszynowego używając Pythona.",
       "example_translation": "Ich programmierte früher in Python, bevor ich JavaScript lernte. Jetzt studiere ich erweiterte Python-Konzepte. In Zukunft werde ich ein Machine-Learning-Modell mit Python entwickeln.",
-      "imageLink": "python.jpg",
+      "imageLink": "image_files\\English\\python.jpg",
       "audioLink": "python.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Ein Typ von Salamander, der durch seine charakteristischen Flecken gekennzeichnet ist, typischerweise in feuchten Umgebungen gefunden.",
       "example": "Salamandra plamista kryła się pod kamieniem. Salamandra plamista wolno wychodzi z swojej nory. Salamandra plamista wyjdzie z wody wkrótce.",
       "example_translation": "Der Fleckenmolch versteckte sich unter einem Stein. Der Fleckenmolch krabbelt langsam aus seinem Bau hervor. Der Fleckenmolch wird bald aus dem Wasser auftauchen.",
-      "imageLink": "salamander.jpg",
+      "imageLink": "image_files\\English\\salamander.jpg",
       "audioLink": "spotted salamander.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Ein Typ von Frosch, der in Bäumen lebt, typischerweise in warmen und feuchten Klimazonen gefunden.",
       "example": "Wczoraj, widziałem żabę drzewiastą siedzącą na liściu. Dziś, obserwuję żabę drzewiastą skaczącą z gałęzi na gałąź. W przyszłości, będę studiował zwyczaje żab drzewiastych.",
       "example_translation": "Ich sah einen Baumfrosch auf einem Blatt sitzen gestern. Heute sehe ich einen Baumfrosch von Ast zu Ast springen. In Zukunft werde ich die Gewohnheiten von Baumfröschen studieren.",
-      "imageLink": "tree-frog.jpg",
+      "imageLink": "image_files\\English\\tree-frog.jpg",
       "audioLink": "tree frog.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Eine giftige Schlange, die eine Wärmesensoren-Grube zwischen ihren Augen hat und in warmen Regionen, insbesondere in Afrika und Asien, gefunden wird.",
       "example": "Żmija głośno zaszczekała, gdy zmysłem wykryła obecność swojej ofiary. Użądliła swoją ofiarę w przeszłości i zrobi to znowu w przyszłości, jeśli poczuje się zagrożona. Obecnie, baskuje w ciepłym słońcu.",
       "example_translation": "Die Viper zischte laut, als sie die Anwesenheit ihrer Beute spürte. Sie hatte in der Vergangenheit ihr Opfer gebissen und würde es wieder tun, wenn es sich bedroht fühlte. Derzeit sonnte sie sich in der warmen Sonne.",
-      "imageLink": "viper.jpg",
+      "imageLink": "image_files\\English\\viper.jpg",
       "audioLink": "viper.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Ein legendäres Lebewesen, das in Körpern von Wasser leben soll, oft als eine schlangenartige Kreatur mit übernatürlichen Kräften dargestellt.",
       "example": "W starożytnych mitach, wąż wodny był бояny przez wszystkich, którzy żyli nad jeziorem. Mówiono, że jego atakował wiele łodzi w przeszłości, a lokalni mieszkańcy obawiali się, że zrobi to znów w przyszłości. Obecnie, zespół badaczy studiował jego zwyczaje.",
       "example_translation": "In alten Mythen wurde die Wasserschlange von allen gefürchtet, die nahe am See lebten. Es hieß, dass sie viele Boote in der Vergangenheit angegriffen hatte, und die Einheimischen machten sich Sorgen, dass es wieder in der Zukunft zuschlagen würde. Derzeit studierte ein Team von Forschern die Gewohnheiten der Kreatur.",
-      "imageLink": "water-serpent.jpg",
+      "imageLink": "image_files\\English\\water-serpent.jpg",
       "audioLink": "water serpent.mp3"
     }
   ]

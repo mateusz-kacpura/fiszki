@@ -9,7 +9,7 @@
       "definition_translation": "Le jour de la semaine entre jeudi et samedi, généralement considéré comme le cinquième jour de la semaine.",
       "example": "I'm looking forward to Friday, when I can finally take a break from work. Yesterday was Thursday, today is Friday, and tomorrow will be Saturday. By next Friday, I'll have finished my project.",
       "example_translation": "Je me réjouis de vendredi, lorsque je pourrai enfin prendre une pause dans le travail. Hier était jeudi, aujourd'hui est vendredi, et demain sera samedi. D'ici vendredi prochain, j'aurai terminé mon projet.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Le jour de la semaine entre dimanche et mardi, généralement considéré comme le premier jour de la semaine.",
       "example": "I hate Mondays, they always feel like a drag after a relaxing weekend. Last Monday, I went to the gym, but this Monday, I'll take a day off. By next Monday, I'll have started my new job.",
       "example_translation": "Je déteste les lundis, ils ont toujours l'air de traîner après un week-end relaxant. Lundi dernier, je suis allé au gym, mais ce lundi, je prendrai un jour de congé. D'ici lundi prochain, j'aurai commencé mon nouveau travail.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Le jour de la semaine entre vendredi et dimanche, généralement considéré comme le sixième jour de la semaine.",
       "example": "I love Saturdays, they're always so relaxing. Last Saturday, I went to the beach, but this Saturday, I'll go to the park. By next Saturday, I'll have finished my project.",
       "example_translation": "J'adore les samedis, ils sont toujours si relaxants. Samedi dernier, je suis allé à la plage, mais ce samedi, je vais au parc. D'ici samedi prochain, j'aurai terminé mon projet.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Le jour de la semaine entre samedi et lundi, généralement considéré comme le septième jour de la semaine.",
       "example": "Sundays are always so lazy, I love sleeping in. Last Sunday, I watched a movie, but this Sunday, I'll go to church. By next Sunday, I'll have finished my homework.",
       "example_translation": "Les dimanches sont toujours si paresseux, j'adore dormir tard. Dimanche dernier, j'ai regardé un film, mais ce dimanche, je vais à l'église. D'ici dimanche prochain, j'aurai fini mes devoirs.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Le cinquième jour de la semaine, dans le calendrier occidental, suivant le mercredi et précédant le vendredi.",
       "example": "I will meet you on Thursday to discuss the project. Last Thursday, I went to the movies. By next Thursday, I will have finished the report.",
       "example_translation": "Je vous rencontrerai jeudi pour discuter du projet. Le jeudi dernier, je suis allé au cinéma. D'ici jeudi prochain, j'aurai terminé le rapport.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Le deuxième jour de la semaine, dans le calendrier occidental, suivant le lundi et précédant le mercredi.",
       "example": "I have a meeting on Tuesday morning. Last Tuesday, I went to the gym. By next Tuesday, I will have finished the project.",
       "example_translation": "J'ai une réunion le mardi matin. Le mardi dernier, je suis allé au gymnase. D'ici le mardi prochain, j'aurai terminé le projet.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Le troisième jour de la semaine, dans le calendrier occidental, suivant le mardi et précédant le jeudi.",
       "example": "I will see you on Wednesday afternoon. Last Wednesday, I went to the library. By next Wednesday, I will have finished the essay.",
       "example_translation": "Je vous verrai le mercredi après-midi. Le mercredi dernier, je suis allé à la bibliothèque. D'ici le mercredi prochain, j'aurai terminé le devoir.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

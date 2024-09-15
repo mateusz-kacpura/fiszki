@@ -9,7 +9,7 @@
       "definition_translation": "Uma faca é um instrumento de corte composto por uma lâmina afiada anexada a um cabo.",
       "example": "Wczoraj użyłem noża, aby pokroić jabłko, teraz używam noża, aby pokroić chleb, a jutro będę używał noża, aby pokroić mięso.",
       "example_translation": "Eu usei uma faca para cortar a maçã ontem, estou usando uma faca para cortar o pão agora, e usarei uma faca para cortar a carne amanhã.",
-      "imageLink": "knife.jpg",
+      "imageLink": "image_files\\English\\knife.jpg",
       "audioLink": "knife.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Uma tigela é um contêiner redondo com tampa aberta usado para segurar ou servir comida.",
       "example": "Wczoraj położyłem płatki owsiane do miski, teraz wkładam zupę do miski, a jutro będę wkładał owoce do miski.",
       "example_translation": "Eu coloquei o cereal em uma tigela ontem, estou colocando a sopa em uma tigela agora, e colocarei a fruta em uma tigela amanhã.",
-      "imageLink": "bowl.jpg",
+      "imageLink": "image_files\\English\\bowl.jpg",
       "audioLink": "bowl.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Um cozinheiro é um dispositivo ou eletrodoméstico usado para cozinhar comida.",
       "example": "Moja mama użyła kuchenki, aby ugotować obiad wczoraj, teraz używam kuchenki, aby ugotować lunch, a moja siostra będzie używać kuchenki, aby ugotować śniadanie jutro.",
       "example_translation": "Minha mãe usou um cozinheiro para cozinhar o jantar ontem, estou usando um cozinheiro para cozinhar o almoço agora, e minha irmã usará um cozinheiro para cozinhar o café da manhã amanhã.",
-      "imageLink": "cooker.jpg",
+      "imageLink": "image_files\\English\\cooker.jpg",
       "audioLink": "cooker.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Um armário é um guarda-roupa alto, autônomo usado para armazenar comida, pratos ou outros equipamentos de cozinha.",
       "example": "Wczoraj przechowywałem talerze w szafie, teraz przechowuję filiżanki w szafie, a jutro będę przechowywał szklanki w szafie.",
       "example_translation": "Eu armazenei os pratos no armário ontem, estou armazenando os copos no armário agora, e armazenarei os copos no armário amanhã.",
-      "imageLink": "cupboard.jpg",
+      "imageLink": "image_files\\English\\cupboard.jpg",
       "audioLink": "cupboard.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Uma gaveta é um contêiner usado para armazenar coisas, geralmente encontrado em um móvel como um guarda-roupa ou mesa.",
       "example": "Otworzyłem szufladę, aby wziąć pióro. Wczoraj zamknąłem szufladę po włożeniu dokumentów do środka. Jutro otworzę szufladę, aby wziąć mój ulubiony książkę.",
       "example_translation": "Eu abri a gaveta para pegar uma caneta. Ontem, eu fechei a gaveta após colocar os documentos dentro. Amanhã, eu abrirei a gaveta para pegar meu livro favorito.",
-      "imageLink": "drawer.jpg",
+      "imageLink": "image_files\\English\\drawer.jpg",
       "audioLink": "drawer.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Um garfo é um utensílio usado para comer, consistindo de um cabo e uma cabeça com garfos.",
       "example": "Wziąłem widelec, aby jeść sałatkę. Wczoraj upuściłem widelec na podłogę. Jutro będę używał widełca, aby jeść śniadanie.",
       "example_translation": "Eu peguei um garfo para comer minha salada. Ontem, eu derrubei o garfo no chão. Amanhã, eu usarei um garfo para comer meu café da manhã.",
-      "imageLink": "fork.jpg",
+      "imageLink": "image_files\\English\\fork.jpg",
       "audioLink": "fork.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Uma geladeira é um aparelho elétrico usado para manter alimentos e bebidas frias ou geladas.",
       "example": "Otworzyłem lodówkę, aby wziąć zimny napój. Wczoraj czyściłem lodówkę, aby usunąć zły zapach. Jutro będę wkładał resztki do lodówki.",
       "example_translation": "Eu abri a geladeira para pegar uma bebida fria. Ontem, eu limpei a geladeira para se livrar do mau cheiro. Amanhã, eu coloquei os restos na geladeira.",
-      "imageLink": "fridge.jpg",
+      "imageLink": "image_files\\English\\fridge.jpg",
       "audioLink": "fridge.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Uma mesa de cozinha é uma mesa usada para preparar e comer alimentos em uma cozinha.",
       "example": "Usiadłem do stołu kuchennego, aby jeść śniadanie. Wczoraj położyłem wazon na stole kuchennym. Jutro będę robił przypisanki na stole kuchennym.",
       "example_translation": "Eu sentei-me à mesa de cozinha para comer meu café da manhã. Ontem, eu coloquei o vaso na mesa de cozinha. Amanhã, farei meu trabalho de casa na mesa de cozinha.",
-      "imageLink": "kitchen-table.jpg",
+      "imageLink": "image_files\\English\\kitchen-table.jpg",
       "audioLink": "kitchen table.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Um eletrodoméstico de cozinha que usa ondas eletromagnéticas para esquentar e cozinhar alimentos rapidamente.",
       "example": "Użyłem mikrofalówki, aby podgrzać kawę rano, potem będę używał mikrofalówki, aby ugotować obiad wieczorem, a jutro będę używał mikrofalówki, aby ogrzać resztki.",
       "example_translation": "Eu usei o micro-ondas para esquentar meu café essa manhã, então vou usá-lo para cozinhar o jantar hoje à noite, e amanhã vou usá-lo para esquentar os alimentos sobras.",
-      "imageLink": "microwave-oven.jpg",
+      "imageLink": "image_files\\English\\microwave-oven.jpg",
       "audioLink": "microwave (oven).mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Um pedaço plano de madeira, metal ou vidro anexado à uma parede ou colocado no chão, usado para segurar objetos.",
       "example": "Położyłem książki na półce w salonie, potem będę wkładał dekoracje na półkę w kuchni, a jutro będę dodawał książek na półkę w sypialni.",
       "example_translation": "Eu coloquei os livros na prateleira na sala de estar, e então vou colocar as decorações na prateleira na cozinha, e amanhã vou adicionar mais livros à prateleira no quarto.",
-      "imageLink": "shelf.jpg",
+      "imageLink": "image_files\\English\\shelf.jpg",
       "audioLink": "shelf.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Um recipiente em forma de tigela fixo com uma torneira, usado para lavar as mãos, pratos ou outros objetos.",
       "example": "Umiałem ręce w zlewozmywaku po kolacji, potem umyję naczynia w zlewozmywaku, a jutro naprawię przecieki w zlewozmywaku w łazience.",
       "example_translation": "Eu lavei as minhas mãos na pia após o jantar, então vou lavar os pratos na pia, e amanhã vou consertar a pia com vazamento no banheiro.",
-      "imageLink": "sink-1.jpg",
+      "imageLink": "image_files\\English\\sink-1.jpg",
       "audioLink": "sink.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Um utensílio com uma tigela arredondada ou oval e um cabo, usado para comer ou servir alimentos.",
       "example": "Użyłem łyżki, aby zjeść zupę wczoraj, potem użyję łyżki, aby podać deser dziś wieczorem, a jutro użyję łyżki, aby wymieszać składniki do receptury.",
       "example_translation": "Eu usei uma colher para comer a sopa ontem, então vou usar uma colher para servir o sobremesa hoje à noite, e amanhã vou usar uma colher para misturar os ingredientes para a receita.",
-      "imageLink": "spoon.jpg",
+      "imageLink": "image_files\\English\\spoon.jpg",
       "audioLink": "spoon.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um recipiente, normalmente com uma parte superior aberta, usado para armazenar ou guardar algo.",
       "example": "Wrzuciłem śmieci do kosza. Jutro wyciągnę kosz. Ona już opróżniła kosz.",
       "example_translation": "Joguei o lixo na lixeira. Vou tirar a lixeira amanhã. Ela já havia esvaziado a lixeira.",
-      "imageLink": "bin.jpg",
+      "imageLink": "image_files\\English\\bin.jpg",
       "audioLink": "bin.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Uma máquina para lavar louças automaticamente.",
       "example": "Załadowałem zmywarkę wczoraj wieczorem. Zmywarka jest uszkodzona. Ona teraz wyjmie naczynia z zmywarki.",
       "example_translation": "Carreguei a lava-louças ontem à noite. A lava-louças está quebrada. Ela vai descarregar a lava-louças agora.",
-      "imageLink": "dishwasher.jpg",
+      "imageLink": "image_files\\English\\dishwasher.jpg",
       "audioLink": "dishwasher.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Uma chaleira que é aquecida por eletricidade.",
       "example": "Włączyłem czajnik elektryczny. Czajnik elektryczny jest bardzo szybki. Ona kupi czajnik elektryczny jutro.",
       "example_translation": "Eu conectei a chaleira elétrica. A chaleira elétrica é muito rápida. Ela vai comprar uma chaleira elétrica amanhã.",
-      "imageLink": "electric-kettle.jpg",
+      "imageLink": "image_files\\English\\electric-kettle.jpg",
       "audioLink": "electric kettle.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Um aparelho elétrico para armazenar alimentos a uma temperatura muito baixa.",
       "example": "Włożyłem mięso do zamrażarki. Zamrażarka nie działa. Ona odtaje zamrażarkę jutro.",
       "example_translation": "Eu coloquei a carne no congelador. O congelador não está funcionando. Ela vai descongelar o congelador amanhã.",
-      "imageLink": "freezer.jpg",
+      "imageLink": "image_files\\English\\freezer.jpg",
       "audioLink": "freezer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Uma frigideira é um tipo de utensílio de cozinha usado para fritar, saltear e dourar alimentos. É normalmente feita de metal, muitas vezes com um revestimento antiaderente, e tem um cabo para fácil levantamento.",
       "example": "Użyłem patelni, aby ugotować śniadanie wczoraj. Używam patelni, aby przygotować kolację dziś wieczorem. Użyję patelni, aby ugotować lunch jutro.",
       "example_translation": "Eu usei uma frigideira para cozinhar café da manhã ontem. Estou usando uma frigideira para fazer jantar hoje à noite. Vou usar uma frigideira para cozinhar almoço amanhã.",
-      "imageLink": "frying-pan.jpg",
+      "imageLink": "image_files\\English\\frying-pan.jpg",
       "audioLink": "frying pan.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Um forno é um eletrodoméstico de cozinha usado para cozinhar e aquecer alimentos. Ele usa calor seco para cozinhar alimentos e pode ser usado para assar, grelhar e queimar.",
       "example": "Upiekłem ciasto w piekarniku w zeszłym tygodniu. Teraz nagrzewam piekarnik, aby ugotować kurczaka na obiad. Użyję piekarnika, aby zrobić ciasteczka jutro.",
       "example_translation": "Eu assei um bolo no forno semana passada. Estou pré-aquecendo o forno para cozinhar um frango assado hoje à noite. Vou usar o forno para fazer biscoitos amanhã.",
-      "imageLink": "oven.jpg",
+      "imageLink": "image_files\\English\\oven.jpg",
       "audioLink": "oven.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Uma panela é um recipiente usado para cozinhar e armazenar alimentos e líquidos. É normalmente feita de metal, cerâmica ou vidro, e tem um cabo para fácil levantamento.",
       "example": "Gotowałem wodę w garnku wczoraj. Używam garnka, aby zrobić zupę dziś wieczorem. Użyję garnka, aby ugotować ryż jutro.",
       "example_translation": "Eu cozi água em uma panela ontem. Estou usando uma panela para fazer sopa hoje à noite. Vou usar uma panela para cozinhar arroz amanhã.",
-      "imageLink": "pot.jpg",
+      "imageLink": "image_files\\English\\pot.jpg",
       "audioLink": "pot.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Uma caçarola é um tipo de utensílio de cozinha usado para aquecer e cozinhar molhos, sopas e outros líquidos. É normalmente feita de metal, muitas vezes com um revestimento antiaderente, e tem um cabo para fácil levantamento.",
       "example": "Użyłem sosjarni, aby podgrzać sos wczoraj. Używam sosjarni, aby zrobić sos dziś wieczorem. Użyję sosjarni, aby przygotować zupę jutro.",
       "example_translation": "Eu usei uma caçarola para aquecer o molho ontem. Estou usando uma caçarola para cozinhar um molho hoje à noite. Vou usar uma caçarola para fazer uma sopa amanhã.",
-      "imageLink": "saucepan.jpg",
+      "imageLink": "image_files\\English\\saucepan.jpg",
       "audioLink": "saucepan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Um registro ou válvula para controlar o fluxo de um líquido, especialmente água.",
       "example": "Wyłączyłem kran, aby oszczędzić wodę. Włączyłem kran, aby umyć ręce. Wyłączę kran, gdy skończę.",
       "example_translation": "Eu desliguei a torneira para conservar água. Eu ligo a torneira para lavar minhas mãos. Eu desligarei a torneira quando terminar.",
-      "imageLink": "tap.jpg",
+      "imageLink": "image_files\\English\\tap.jpg",
       "audioLink": "tap.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Um vaso com bico ou puxador, usado para servir chá.",
       "example": "Wylałem herbatę z czajnika do filiżanki. Kupię nowy czajnik dla swojej siostry. Kupiłem piękny czajnik w sklepie antyków.",
       "example_translation": "Eu despejei chá da bule para o meu copo. Eu comprarei uma nova bule para minha irmã. Eu comprei uma bela bule em uma loja de antiguidades.",
-      "imageLink": "teapot.jpg",
+      "imageLink": "image_files\\English\\teapot.jpg",
       "audioLink": "teapot.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um dispositivo para abrir latas de metal ou outros recipientes.",
       "example": "Użyłem otwieracza do puszek, aby otworzyć puszkę z fasolą. Kupię nowy otwieracz do puszek, bo mój jest złamany. Mogę otworzyć puszkę za pomocą otwieracza do puszek.",
       "example_translation": "Eu usei um abridor de lata para abrir a lata de feijão. Eu comprarei um novo abridor de lata porque o meu está quebrado. Eu posso abrir a lata com o abridor de lata.",
-      "imageLink": "tin-opener.jpg",
+      "imageLink": "image_files\\English\\tin-opener.jpg",
       "audioLink": "tin opener.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um aparelho elétrico para tostar fatias de pão.",
       "example": "Włączyłem toster, aby zrobić tosty. Kupię nowy toster, bo mój jest stary. Wyczyściłem toster, aby usunąć okruchy.",
       "example_translation": "Eu conectei a tostadeira para fazer alguns tostos. Eu comprarei uma nova tostadeira porque a minha é antiga. Eu limpei a tostadeira para remover as migalhas.",
-      "imageLink": "toaster.jpg",
+      "imageLink": "image_files\\English\\toaster.jpg",
       "audioLink": "toaster.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Um material artificial flexível feito de uma rede de fibras naturais ou sintéticas, usado para fazer roupas, estofamento e outros artigos.",
       "example": "Wytarła stół szmatką. Wczoraj wytarła szmatkę. Wytarła szmatkę jutro.",
       "example_translation": "Ela esfregou a tabela com um pano. Ontem, ela lavou o pano. Ela irá passar o pano amanhã.",
-      "imageLink": "cloth.jpg",
+      "imageLink": "image_files\\English\\cloth.jpg",
       "audioLink": "cloth.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Um aparelho elétrico que faz café a partir de grãos de café moídos.",
       "example": "Kupiła nowy ekspres do kawy. Wczoraj użyła ekspresu do kawy, aby zrobić kawę. Wyczyści ekspres do kawy jutro.",
       "example_translation": "Ela comprou uma nova máquina de café. Ontem, ela usou a máquina de café para fazer café. Ela irá limpar a máquina de café amanhã.",
-      "imageLink": "coffeemaker.jpg",
+      "imageLink": "image_files\\English\\coffeemaker.jpg",
       "audioLink": "coffee maker.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Um dispositivo usado para remover a rolha de uma garrafa de vinho.",
       "example": "Użyła śrubokrętu, aby otworzyć wino. Wczoraj kupił nowy śrubokręt. Użyje śrubokrętu, aby otworzyć szampan jutro.",
       "example_translation": "Ele usou um abridor de garrafa para abrir o vinho. Ontem, ele comprou um novo abridor de garrafa. Ele irá usar o abridor de garrafa para abrir champanhe amanhã.",
-      "imageLink": "corkscrew.jpg",
+      "imageLink": "image_files\\English\\corkscrew.jpg",
       "audioLink": "corkscrew.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Um instrumento usado para medir peso, especialmente na culinária ou ciência.",
       "example": "Użyła wagi, aby zważyć składniki. Wczoraj kalibrowała wagę. Użyje wagi, aby zmierzyć wagę dziecka jutro.",
       "example_translation": "Ela usou as balanças para pesar os ingredientes. Ontem, ela calibrou as balanças. Ela irá usar as balanças para medir o peso do bebê amanhã.",
-      "imageLink": "scales.jpg",
+      "imageLink": "image_files\\English\\scales.jpg",
       "audioLink": "scales.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Um banco é um pedaço de mobília composto por um assento único, geralmente sem costas ou braços, projetado para ser sentado.",
       "example": "Usiadłem na taborecie, aby odpocząć nogami. Wczoraj usiadłem na taborecie, aby zawiązać buty. Usiądę na taborecie, aby przeczytać książkę jutro.",
       "example_translation": "Eu me sentei no banco para descansar meus pés. Ontem, eu me sentei no banco para amarrar meus sapatos. Amanhã, eu vou me sentar no banco para ler um livro.",
-      "imageLink": "stool.jpg",
+      "imageLink": "image_files\\English\\stool.jpg",
       "audioLink": "stool.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Uma mangueira de forno é uma ferramenta de cozinha em forma de cilindro ou retângulo, feita de papel ou silicone, usada para moldar e dar forma a pães, pastéis e outros produtos assados.",
       "example": "Użyłem rękawka do pieczenia, aby zrobić idealną bagietkę. Wczoraj kupiłem nowy rękawek do pieczenia, aby spróbować nowego przepisu. Użyję rękawka do pieczenia, aby zrobić tort jutro.",
       "example_translation": "Eu usei uma mangueira de forno para fazer um baguete perfeito. Ontem, eu comprei uma nova mangueira de forno para tentar uma nova receita. Amanhã, eu vou usar uma mangueira de forno para fazer um bolo.",
-      "imageLink": "baking-sleeve.jpg",
+      "imageLink": "image_files\\English\\baking-sleeve.jpg",
       "audioLink": "baking sleeve.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Um cortador de biscoitos é uma ferramenta de cozinha usada para cortar formas de massa, geralmente em forma de círculo ou retângulo, para fazer biscoitos e outros produtos assados doces.",
       "example": "Użyłem tłoczka do ciastek, aby zrobić serce kształtne ciasteczka. Wczoraj pożyczyłem tłoczek do ciastek od sąsiada, aby zrobić ciasto do pizzy. Jutro użyję tłoczka do ciastek, aby zrobić partię ciastek.",
       "example_translation": "Eu usei um cortador de biscoitos para fazer biscoitos em forma de coração. Ontem, eu emprestei um cortador de biscoitos do meu vizinho para fazer uma crosta de torta. Amanhã, eu vou usar um cortador de biscoitos para fazer um lote de biscoitos.",
-      "imageLink": "biscuit-cutter.jpg",
+      "imageLink": "image_files\\English\\biscuit-cutter.jpg",
       "audioLink": "biscuit cutter.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Um cortador de pão é uma ferramenta de cozinha usada para fatiar pão em pedaços uniformes, muitas vezes usada em padarias comerciais e restaurantes para portionar pão para os clientes.",
       "example": "Piekarz użył krojcownika chleba, aby pokroić świeżo upieczony bochenek. Wczoraj kupiłem nowy krojcownik chleba, aby zrobić jednolite kanapki. Jutro użyję krojcownika chleba, aby zrobić croutony.",
       "example_translation": "O padeiro usou um cortador de pão para fatiar o pão fresquinho. Ontem, eu comprei um novo cortador de pão para fazer sanduíches uniformes. Amanhã, eu vou usar um cortador de pão para fazer croutons.",
-      "imageLink": "bread-cutter.jpg",
+      "imageLink": "image_files\\English\\bread-cutter.jpg",
       "audioLink": "bread cutter.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Um recipiente usado para segurar e dar forma a um bolo enquanto está sendo assado.",
       "example": "Ona namaściła formę na tort i wlała masę. Ona użyła formy na tort wczoraj, aby upiec tort na urodziny brata. Ona będzie używać formy na tort jutro, aby zrobić tort na imprezę.",
       "example_translation": "Ela untou a forma de bolo e despejou a massa. Ela havia usado a forma de bolo ontem para assar um bolo de aniversário para o seu irmão. Ela usará a forma de bolo novamente amanhã para fazer um bolo para a festa.",
-      "imageLink": "cake-tin.jpg",
+      "imageLink": "image_files\\English\\cake-tin.jpg",
       "audioLink": "cake tin.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Um prato grande e fundo usado para cozinhar e servir uma variedade de alimentos, como estufados, casseroles e carnes assadas.",
       "example": "Ona włożyła naczynie do zapiekanek do pieca i ustawiła timer. Ona umyła naczynie do zapiekanek ręcznie wczoraj wieczorem. Ona będzie używać naczynia do zapiekanek w przyszłym tygodniu, aby ugotować posiłek dla rodziny.",
       "example_translation": "Ela colocou o prato de cerâmica no forno e ajustou o timer. Ela havia lavado o prato de cerâmica à mão ontem à noite. Ela usará o prato de cerâmica na próxima semana para cozinhar uma refeição para a sua família.",
-      "imageLink": "casserole.jpg",
+      "imageLink": "image_files\\English\\casserole.jpg",
       "audioLink": "casserole dish.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uma faca usada para cortar e picar alimentos, especialmente em uma cozinha.",
       "example": "On podniósł nóż kuchenny i zaczął siekać warzywa. Ona naostrzyła nóż kuchenny wcześnie tej doby. Oni będą używać noża kuchennego jutro, aby przygotować kolację.",
       "example_translation": "Ele pegou a faca de cortar e começou a picar os vegetais. Ela havia afiado a faca de cortar mais cedo naquela manhã. Eles usarão a faca de cortar amanhã para preparar o jantar.",
-      "imageLink": "chopping-knife.jpg",
+      "imageLink": "image_files\\English\\chopping-knife.jpg",
       "audioLink": "chopping knife.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Um par de pequenos pauzinhos, geralmente afilados, usados como utensílios de comida, especialmente na culinária asiática oriental.",
       "example": "Ona miała trudności z używaniem pałeczek, aby podnieść makarony. On nauczył się używać pałeczek, gdy był dzieckiem. Oni będą używać pałeczek tej nocy, aby zjeść sushi.",
       "example_translation": "Ela lutou para usar os hashi para pegar os macarrões. Ele havia aprendido a usar os hashi quando era criança. Eles usarão os hashi esta noite para comer sushi.",
-      "imageLink": "chopsticks.jpg",
+      "imageLink": "image_files\\English\\chopsticks.jpg",
       "audioLink": "chopsticks.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Um utensílio de cozinha usado para drenar alimentos, como macarrão ou legumes, permitindo que a água passe pela enquanto mantém os alimentos dentro.",
       "example": "Użyłem dzialeka, aby odsączyć spaghetti, potem dodałem sos. Wczoraj umyłem dzialek w zlewie. Jutro użyję dzialeka, aby umyć brokuł.",
       "example_translation": "Eu usei um escorredor para drenar o spaghetti, então adicionei um pouco de molho. Ontem, eu lavei o escorredor na pia. Amanhã, vou usar o escorredor para enxaguar o brócolis.",
-      "imageLink": "colander.jpg",
+      "imageLink": "image_files\\English\\colander.jpg",
       "audioLink": "colander.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Uma superfície plana usada para cortar, fatiar ou preparar alimentos, geralmente feita de madeira, plástico ou outros materiais.",
       "example": "Pokroiłem cebulę na desce do krojenia, potem zmieliłem czosnek. Wczoraj umyłem deskę do krojenia mydłem. Jutro użyję deski do krojenia, aby przygotować sałatkę.",
       "example_translation": "Eu cortei as cebolas na tábua de corte, então piquei o alho. Ontem, eu lavei a tábua de corte com sabão. Amanhã, vou usar a tábua de corte para preparar uma salada.",
-      "imageLink": "cutting-board.jpg",
+      "imageLink": "image_files\\English\\cutting-board.jpg",
       "audioLink": "cutting board.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Um utensílio de cozinha usado para peneirar e aerar a farinha, geralmente consistindo em uma rede de arame ou tela perfurada.",
       "example": "Użyłem przeciéru, aby zmieszać składniki, potem dodałem cukru. Wczoraj wyczyściłem przeciér z pędzlem. Jutro użyję przeciéru, aby zrobić tort.",
       "example_translation": "Eu usei uma peneira de farinha para misturar os ingredientes, então adicionei um pouco de açúcar. Ontem, eu limpei a peneira de farinha com uma escova. Amanhã, vou usar a peneira de farinha para fazer um bolo.",
-      "imageLink": "flour-sifter.jpg",
+      "imageLink": "image_files\\English\\flour-sifter.jpg",
       "audioLink": "flour sifter.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Um aparelho de cozinha usado para fatiar alimentos, como carnes, queijos ou pão, em pedaços finos.",
       "example": "Użyłem maszyny do krojenia, aby pokroić indyka, potem podałem z serem. Wczoraj umyłem maszynę do krojenia mydłem. Jutro użyję maszyny do krojenia, aby przygotować kanapki.",
       "example_translation": "Eu usei uma fatias de alimentos para cortar o peru, então servi com queijo. Ontem, eu lavei a fatias de alimentos com sabão. Amanhã, vou usar a fatias de alimentos para preparar um sanduíche.",
-      "imageLink": "food-slicer.jpg",
+      "imageLink": "image_files\\English\\food-slicer.jpg",
       "audioLink": "food slicer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Um embudo é um tubo ou cano que é amplo em uma extremidade e estreito na outra, usado para despejar líquidos ou pós em uma abertura pequena.",
       "example": "Użyłem lejka, aby nalać oleju do silnika. Wczoraj, użyłem lejka, aby nalać soku do butelki. Jutro, będę używał lejka, aby nalać wody do wiadra.",
       "example_translation": "Eu usei um embudo para despejar óleo no motor. Ontem, eu usei um embudo para despejar suco em uma garrafa. Amanhã, eu usarei um embudo para despejar água em um balde.",
-      "imageLink": "funnel.jpg",
+      "imageLink": "image_files\\English\\funnel.jpg",
       "audioLink": "funnel.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Um premolho de alho é uma ferramenta de cozinha usada para esmagar dentes de alho em uma polpa, tornando mais fácil de usar na cozinha.",
       "example": "Używam prasy do czosnku, aby zmielić czosnek do sosu makaronowego. Ona użyła prasy do czosnku, aby zrobić chleb czosnkowy. Oni będą używać prasy do czosnku, aby przygotować czosnek do przepisu.",
       "example_translation": "Eu uso um premolho de alho para esmagar alho para molho de macarrão. Ela usou um premolho de alho para fazer pão de alho. Eles usarão um premolho de alho para preparar alho para a receita.",
-      "imageLink": "garlic-press.jpg",
+      "imageLink": "image_files\\English\\garlic-press.jpg",
       "audioLink": "garlic press.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Um ralo é uma ferramenta de cozinha usada para ralar ou gratar alimentos, como queijo ou legumes, em pequenos pedaços.",
       "example": "Używam taratora, aby zetrzeć ser do sałaty. Ona użyła taratora, aby zetrzeć marchewki do ciasta. Oni będą używać taratora, aby zetrzeć cukinię do chleba.",
       "example_translation": "Eu uso um ralo para ralar queijo para salada. Ela usou um ralo para ralar cenouras para bolo. Eles usarão um ralo para ralar abobrinha para pão.",
-      "imageLink": "grater.jpg",
+      "imageLink": "image_files\\English\\grater.jpg",
       "audioLink": "grater.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Uma cola de sorvete é uma ferramenta de cozinha usada para dar porções de sorvete em bolas ou colheres, tornando mais fácil de servir e comer.",
       "example": "Używam łyżki do lodów, aby wydawać deser. Ona użyła łyżki do lodów, aby serwować lody na imprezie. Oni będą używać łyżki do lodów, aby zrobić sundae.",
       "example_translation": "Eu uso uma cola de sorvete para dar porções de sobremesa. Ela usou uma cola de sorvete para servir sorvete na festa. Eles usarão uma cola de sorvete para fazer sundaes.",
-      "imageLink": "ice-cream-scoop.jpg",
+      "imageLink": "image_files\\English\\ice-cream-scoop.jpg",
       "audioLink": "ice-cream scoop.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Uma concha é uma colher em forma de tigela com um cabo longo, usada para servir sopa ou outros líquidos.",
       "example": "Ona ladła zupę do misek. Wczoraj, ona ladła zupę do misek. Jutro, ona będzie ladować zupę do misek.",
       "example_translation": "Ela serviu a sopa em tigelas. Ontem, ela havia servido a sopa em tigelas. Amanhã, ela servirá a sopa em tigelas.",
-      "imageLink": "ladle.jpg",
+      "imageLink": "image_files\\English\\ladle.jpg",
       "audioLink": "ladle.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Um espremedor de limão é uma ferramenta de cozinha usada para extrair suco de limões ou outros frutos cítricos.",
       "example": "Ona użyła sprężyny cytrynowej, aby zrobić świeżą lemoniadę. Wczoraj, ona użyła sprężyny cytrynowej, aby zrobić świeżą lemoniadę. Jutro, ona będzie używać sprężyny cytrynowej, aby zrobić świeżą lemoniadę.",
       "example_translation": "Ela usou um espremedor de limão para fazer limonada fresca. Ontem, ela havia usado um espremedor de limão para fazer limonada fresca. Amanhã, ela usará um espremedor de limão para fazer limonada fresca.",
-      "imageLink": "lemon-squeezer.jpg",
+      "imageLink": "image_files\\English\\lemon-squeezer.jpg",
       "audioLink": "lemon squeezer.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Uma mandolina é uma ferramenta de cozinha com uma superfície plana, inclinada, usada para fatiar frutas ou legumes em pedaços finos.",
       "example": "Ona użyła mandoliny, aby pokroić marchewki. Wczoraj, ona użyła mandoliny, aby pokroić marchewki. Jutro, ona będzie używać mandoliny, aby pokroić marchewki.",
       "example_translation": "Ela usou uma mandolina para fatiar as cenouras. Ontem, ela havia usado uma mandolina para fatiar as cenouras. Amanhã, ela usará uma mandolina para fatiar as cenouras.",
-      "imageLink": "mandoline.jpg",
+      "imageLink": "image_files\\English\\mandoline.jpg",
       "audioLink": "mandoline.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Uma colher de medir é uma colher usada para medir a quantidade de um ingrediente, especialmente em cozinha ou padaria.",
       "example": "Ona użyła łyżeczki do odmierzania, aby zmierzyć mąkę. Wczoraj, ona użyła łyżeczki do odmierzania, aby zmierzyć mąkę. Jutro, ona będzie używać łyżeczki do odmierzania, aby zmierzyć mąkę.",
       "example_translation": "Ela usou uma colher de medir para medir a farinha. Ontem, ela havia usado uma colher de medir para medir a farinha. Amanhã, ela usará uma colher de medir para medir a farinha.",
-      "imageLink": "measuring-spoon.jpg",
+      "imageLink": "image_files\\English\\measuring-spoon.jpg",
       "audioLink": "measuring spoon.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Uma substância ou dispositivo usado para tornar a carne mais macia, como papaina ou um martelo de carne.",
       "example": "Użyłem rozpuszczalnika mięsa, aby zmiękczyć stek. Wczoraj, użyłem młotka mięsnego, aby zbić mięso. Jutro, będę używać papainy, aby zmiękczyć kurczaka.",
       "example_translation": "Eu usei um amaciador de carne para tornar o bife mais macio. Ontem, usei um martelo de carne para bater a carne. Amanhã, vou usar papaina para amaciar o frango.",
-      "imageLink": "meat-tenderizer.jpg",
+      "imageLink": "image_files\\English\\meat-tenderizer.jpg",
       "audioLink": "meat tenderizer.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Um eletrodoméstico ou dispositivo de cozinha usado para picar ou moer alimentos, especialmente carne, em pequenos pedaços.",
       "example": "Użyłem miksera, aby zmielić wołowinę na burgery. Ona będzie mieszać cebulę do zupy. On mieszał czosnek do sosu.",
       "example_translation": "Eu usei um moedor para moer a carne de vaca para os hamburgueres. Ela vai picar as cebolas para a sopa. Ele tem picado o alho para o molho.",
-      "imageLink": "mincer.jpg",
+      "imageLink": "image_files\\English\\mincer.jpg",
       "audioLink": "mincer.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Um vaso em forma de tigela e uma ferramenta em forma de clube usadas juntas para moer, triturar ou misturar alimentos, especialmente especiarias e ervas.",
       "example": "Użyłem moździerza i tłuczka do mielenia przypraw do curry. Ona zmiesza zioła w moździerzu i tłuczku. On rozdrabniał czosnek w moździerzu i tłuczku.",
       "example_translation": "Eu usei um almofariz e pilão para moer as especiarias para o curry. Ela vai misturar as ervas no almofariz e pilão. Ele tem triturado o alho no almofariz e pilão.",
-      "imageLink": "mortar-and-pestle.jpg",
+      "imageLink": "image_files\\English\\mortar-and-pestle.jpg",
       "audioLink": "mortar and pestle.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Um dispositivo ou ferramenta usado para quebrar nozes, especialmente nozes de cedro ou nozes-pecã.",
       "example": "Użyłem łamacza orzechów, aby otworzyć orzechy włoskie do ciasta. Ona będzie łamać pekanów do sałatki. On rozdrabniał orzechy laskowe w łamaczu orzechów.",
       "example_translation": "Eu usei um quebrador de nozes para abrir as nozes de cedro para o bolo. Ela vai quebrar as nozes-pecã para a salada. Ele tem triturado as avelãs no quebrador de nozes.",
-      "imageLink": "nutcracker.jpg",
+      "imageLink": "image_files\\English\\nutcracker.jpg",
       "audioLink": "nutcracker.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Uma tábua de massa é uma superfície plana e lisa usada para esticar massa e pastelaria, geralmente feita de madeira ou mármore.",
       "example": "Użyłem deski do ciasta, aby rozwałkować ciasto na kruche ciasto. Za pomocą deski do ciasta zrobięcrofty jutro. Ona użyła deski do ciasta, aby przygotować dekoracje do ciasta.",
       "example_translation": "Eu usei uma tábua de massa para esticar a massa para a crosta de torta. Eu usarei uma tábua de massa para fazer os croissants amanhã. Ela havia usado uma tábua de massa para preparar as decorações do bolo.",
-      "imageLink": "pastry-board.jpg",
+      "imageLink": "image_files\\English\\pastry-board.jpg",
       "audioLink": "pastry board.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Um descascador é uma ferramenta de cozinha usada para remover a pele ou camada exterior de frutas e legumes.",
       "example": "Użyłem obieracza, aby usunąć skórki z jabłek. Ona użyła obieracza, aby obrać marchewki do sałatki. Oni będą używać obieracza, aby obrać ziemniaki do frytek.",
       "example_translation": "Eu uso um descascador para remover a pele das maçãs. Ela usou um descascador para descascar as cenouras para a salada. Eles usarão um descascador para descascar as batatas para as fritas.",
-      "imageLink": "peeler.jpg",
+      "imageLink": "image_files\\English\\peeler.jpg",
       "audioLink": "peeler.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Um moedor de pimenta é uma ferramenta de cozinha usada para moer grãos de pimenta em pó.",
       "example": "Użyłem młynka do pieprzu, aby zmielić ziarna pieprzu do przepisu. Ona użyła młynka do pieprzu, aby dodać smaku do steka. Oni będą używać młynka do pieprzu, aby dodać smaku do zupy.",
       "example_translation": "Eu uso um moedor de pimenta para moer os grãos de pimenta para a receita. Ela usou um moedor de pimenta para temperar o bife. Eles usarão um moedor de pimenta para acrescentar sabor à sopa.",
-      "imageLink": "pepper-mill.jpg",
+      "imageLink": "image_files\\English\\pepper-mill.jpg",
       "audioLink": "pepper mill.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Um saco de confeitar é uma ferramenta de cozinha usada para decorar bolos e pastelaria pipando glacê ou outros materiais através de uma pequena boca.",
       "example": "Użyłem torebki do dekoracji, aby udekorować tort urodzinowy. Ona użyła torebki do dekoracji, aby stworzyć intratne wzory na weselnym ciastku. Oni będą używać torebki do dekoracji, aby zrobić festiwalowe muffinki.",
       "example_translation": "Eu usei um saco de confeitar para decorar o bolo de aniversário. Ela usou um saco de confeitar para criar os designs intricados no bolo de casamento. Eles usarão um saco de confeitar para fazer os cupcakes festivos.",
-      "imageLink": "piping-bag.jpg",
+      "imageLink": "image_files\\English\\piping-bag.jpg",
       "audioLink": "piping bag.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Um rolo de massa é uma ferramenta cilíndrica usada para dar forma e achatamento de massa, pasta ou outros materiais na cozinha e na padaria.",
       "example": "Ona wałkowała ciasto na idealną korę do ciasta. Wczoraj użyła ona wałka z marmuru, aby zrobić smaczne ciasto. Jutro kupi nowy wałek, aby zrobić tort.",
       "example_translation": "Ela havia rolado a massa com um rolo de massa para fazer uma crosta de torta perfeita. Ontem, ela havia usado um rolo de massa de mármore para fazer uma pastelaria deliciosa. Amanhã, ela comprará um novo rolo de massa para fazer um bolo.",
-      "imageLink": "rolling-pin.jpg",
+      "imageLink": "image_files\\English\\rolling-pin.jpg",
       "audioLink": "rolling pin.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Um aparador é um móvel usado para armazenar e exibir pratos, copos e outros itens em uma sala de jantar ou cozinha.",
       "example": "Umieściliśmy fine china na bufecie na uroczystą kolację. W przeszłości oni używali bufetu, aby przechować starożytne naczynia babci. W przyszłości kupią nowy bufet, aby dopasować do dekoracji kuchni.",
       "example_translation": "Eles haviam colocado a porcelana fina no aparador para a festa de jantar. No passado, eles haviam usado o aparador para armazenar os pratos antigos da avó. No futuro, eles comprarão um novo aparador para combinar com a decoração da cozinha.",
-      "imageLink": "sideboard.jpg",
+      "imageLink": "image_files\\English\\sideboard.jpg",
       "audioLink": "sideboard.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Uma peneira é um utensílio de cozinha usado para separar partículas sólidas de diferentes tamanhos, ou para peneirar farinha ou outros ingredientes pulverulentos.",
       "example": "Użyłem sitka, aby przesiać mąkę do przepisu. Wczoraj użyła sitka, aby oddzielić ryż od kamieni. Jutro kupię nowe sitko, aby zrobić delikatną ciastkę.",
       "example_translation": "Ela havia usado uma peneira para peneirar a farinha para a receita do bolo. Ontem, ela havia usado uma peneira grossa para separar o arroz das pedras. Amanhã, ela comprará uma peneira fina para fazer uma pastelaria delicada.",
-      "imageLink": "sieve.jpg",
+      "imageLink": "image_files\\English\\sieve.jpg",
       "audioLink": "sieve.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Uma prateleira de especiarias é um utensílio de cozinha usado para armazenar e organizar especiarias, ervas e outros temperos.",
       "example": "Użyłem stojaka na przyprawy, aby umieścić swoje ulubione zioła i przyprawy. W przeszłości oni używali drewnianego stojaka na przyprawy, aby przechować tajemnicze mieszanki przyprawowej babci. W przyszłości kupią nowy stojak na przyprawy, aby dopasować do dekoracji kuchni.",
       "example_translation": "Ela havia preenchido a prateleira de especiarias com suas ervas e especiarias favoritas. No passado, eles haviam usado uma prateleira de especiarias de madeira para armazenar as misturas de tempero secretas da avó. No futuro, eles comprarão uma nova prateleira de especiarias para combinar com a decoração da cozinha.",
-      "imageLink": "spice-rack.jpg",
+      "imageLink": "image_files\\English\\spice-rack.jpg",
       "audioLink": "spice rack.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Uma colher usada para provar comida enquanto está sendo cozida para verificar o sabor e a textura.",
       "example": "Szef kuchni użył łyżki do smakowania, aby dostosować przyprawy zupy. Wczoraj, ona sprawdziła sos łyżką do smakowania. Ona będzie używać łyżki do smakowania, aby sprawdzić smak dania jutro.",
       "example_translation": "O chef usou uma colher de prova para ajustar o tempero da sopa. Ontem, ela provou o molho com uma colher de prova. Ela usará uma colher de prova para testar o sabor do prato amanhã.",
-      "imageLink": "tasting-spoon.jpg",
+      "imageLink": "image_files\\English\\tasting-spoon.jpg",
       "audioLink": "tasting spoon.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Um dispositivo que mede o tempo gasto em uma atividade ou tarefa específica.",
       "example": "Zawodnik użył timera, aby śledzić swój czas biegu. Wczoraj, ona ustawiła timer na 30 minut. Ona będzie używać timera, aby monitorować swoją rutynę ćwiczeń jutro.",
       "example_translation": "A atleta usou um cronômetro para acompanhar seu tempo de corrida. Ela ajustou o cronômetro para 30 minutos ontem. Ela usará um cronômetro para monitorar sua rotina de exercícios amanhã.",
-      "imageLink": "timer.jpg",
+      "imageLink": "image_files\\English\\timer.jpg",
       "audioLink": "timer.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Uma ferramenta de cozinha usada para misturar e combinar alimentos, especialmente massas e molhos.",
       "example": "Piekarz użył trzepaczki, aby ubić masło i cukier. Wczoraj, ona trzepała jaja w misce. Ona będzie używać trzepaczki, aby połączyć składniki sosu jutro.",
       "example_translation": "A padeira usou um fouet para cremar a manteiga e o açúcar. Ela bateu os ovos em uma tigela ontem. Ela irá bater o molho para combinar os ingredientes amanhã.",
-      "imageLink": "whisk.jpg",
+      "imageLink": "image_files\\English\\whisk.jpg",
       "audioLink": "whisk.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Uma superfície em uma cozinha ou oficina onde tarefas são realizadas, como preparação de alimentos ou artesanato.",
       "example": "Szef kuchni przygotował składniki na blacie. Wczoraj, ona wyła blaıt. Oni będą installować nowe blaty w kuchni jutro.",
       "example_translation": "O chef preparou os ingredientes na superfície de trabalho. Ela limpou a superfície de trabalho ontem. Eles irão instalar novas superfícies de trabalho na cozinha amanhã.",
-      "imageLink": "worktop.jpg",
+      "imageLink": "image_files\\English\\worktop.jpg",
       "audioLink": "worktop.mp3"
     }
   ]

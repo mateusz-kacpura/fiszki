@@ -9,7 +9,7 @@
       "definition_translation": "Une réponse ou une réplique à une question ou un problème.",
       "example": "Ich antwortete auf den Anruf, aber niemand war da. Ich antworte auf deine Frage später. Ich hatte gestern auf die E-Mail geantwortet.",
       "example_translation": "J'ai répondu au téléphone, mais personne n'était là. Je réponderai à votre question plus tard. J'avais répondu à l'email hier.",
-      "imageLink": "answer.jpg",
+      "imageLink": "image_files\\English\\answer.jpg",
       "audioLink": "answer.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Poser une question à quelqu'un, ou demander quelque chose.",
       "example": "Ich bat um Hilfe, aber niemand kam. Ich werde meine Lehrerin um Feedback bitten. Ich hatte meine Eltern um Erlaubnis gebeten.",
       "example_translation": "J'ai demandé de l'aide, mais personne n'est venu. Je demanderai à mon enseignant pour des retours. J'avais demandé à mes parents la permission.",
-      "imageLink": "ask.jpg",
+      "imageLink": "image_files\\English\\ask.jpg",
       "audioLink": "ask.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Exister ou avoir une existence, ou identifier comme quelque chose.",
       "example": "Ich bin froh, hier zu sein. Ich war müde, also schlief ich. Ich werde morgen da sein.",
       "example_translation": "Je suis heureux d'être ici. J'étais fatigué, donc j'étais en train de dormir. Je serai là demain.",
-      "imageLink": "be.jpg",
+      "imageLink": "image_files\\English\\be.jpg",
       "audioLink": "be.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Obtenir quelque chose en échange d'un paiement.",
       "example": "Ich kaufte gestern ein neues Handy. Ich werde auf dem Weg nach Hause Milch kaufen. Ich hatte ein Buch online gekauft.",
       "example_translation": "J'ai acheté un nouveau téléphone hier. Je vais acheter du lait sur mon chemin du retour. J'avais acheté un livre en ligne.",
-      "imageLink": "buy.jpg",
+      "imageLink": "image_files\\English\\buy.jpg",
       "audioLink": "buy.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "pouvoir faire quelque chose",
       "example": "Ich konnte schwimmen, als ich ein Kind war, ich kann schwimmen, und ich werde alt sein, wenn ich schwimmen kann.",
       "example_translation": "Je pouvais nager lorsque j'étais enfant, je peux nager maintenant, et je pourrai nager lorsque je serai vieux.",
-      "imageLink": "can.jpg",
+      "imageLink": "image_files\\English\\can.jpg",
       "audioLink": "can.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "tenir ou supporter quelque chose en se déplaçant",
       "example": "Ich trug mein Gepäck zur Station, ich trage meine Tasche jeden Tag zur Schule, und ich werde mein Kind morgen auf den Schultern tragen.",
       "example_translation": "J'ai porté mes bagages à la gare, je porte mon sac à l'école tous les jours, et je porterai mon enfant sur mes épaules demain.",
-      "imageLink": "carry.jpg",
+      "imageLink": "image_files\\English\\carry.jpg",
       "audioLink": "carry.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "prendre possession de quelque chose soudainement ou rapidement",
       "example": "Ich fing den Ball in der Luft auf, ich fange jeden Morgen den Bus, und ich werde einen Schnupfen bekommen, wenn ich keinen Mantel trage.",
       "example_translation": "J'ai attrapé le ballon dans les airs, j'attrape le bus tous les matins, et j'attraperai un rhume si je ne porte pas de manteau.",
-      "imageLink": "catch.jpg",
+      "imageLink": "image_files\\English\\catch.jpg",
       "audioLink": "catch.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "rendre quelque chose différent ou devenir différent",
       "example": "Ich änderte meine Kleidung nach der Party, ich ändere mein Handy jeden Jahr, und ich werde nächsten Monat meinen Job ändern.",
       "example_translation": "J'ai changé mes vêtements après la fête, je change mon téléphone chaque année, et je changerai d'emploi le mois prochain.",
-      "imageLink": "change-6.jpg",
+      "imageLink": "image_files\\English\\change-6.jpg",
       "audioLink": "change.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Sélectionner quelque chose ou quelqu'un parmi une plage d'options ou de possibilités.",
       "example": "Ich wählte dieses Restaurant, weil es gute Bewertungen hatte. Ich wähle heute ein neues Handy. Ich werde morgen einen anderen Weg wählen.",
       "example_translation": "J'ai choisi ce restaurant parce qu'il avait de bons avis. Je choisis un nouveau téléphone aujourd'hui. Je choisirai une route différente demain.",
-      "imageLink": "choose.jpg",
+      "imageLink": "image_files\\English\\choose.jpg",
       "audioLink": "choose.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Libre de saleté, de tache ou d'impuretés ; non souillé.",
       "example": "Ich putzte mein Zimmer gestern. Ich putze jetzt die Küche. Ich werde morgen das Badezimmer putzen.",
       "example_translation": "J'ai nettoyé ma chambre hier. Je nettoie la cuisine maintenant. Je nettoierai la salle de bain demain.",
-      "imageLink": "clean.jpg",
+      "imageLink": "image_files\\English\\clean.jpg",
       "audioLink": "clean.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Fermer ou rapprocher les bords ou les parties de quelque chose, généralement pour enfermer ou couvrir quelque chose.",
       "example": "Ich schloss die Tür gestern. Ich schließe das Fenster gerade. Ich werde die Vorhänge morgen schließen.",
       "example_translation": "J'ai fermé la porte hier. Je ferme la fenêtre maintenant. Je fermerai les rideaux demain.",
-      "imageLink": "close.jpg",
+      "imageLink": "image_files\\English\\close.jpg",
       "audioLink": "close.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "La propriété possédée par un objet de produire des sensations différentes sur l'œil en raison de la façon dont il réfléchit ou émet de la lumière.",
       "example": "Die Farbe des Himmels ist blau. Die Farbe ihres Haars ist braun. Die Farbe des Autos wird rot sein.",
       "example_translation": "La couleur du ciel est bleue. La couleur de ses cheveux est brune. La couleur de la voiture sera rouge.",
-      "imageLink": "colour.jpg",
+      "imageLink": "image_files\\English\\colour.jpg",
       "audioLink": "colour.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Se déplacer vers quelque chose ou quelqu'un, souvent dans une direction spécifique.",
       "example": "Ich kam zur Party gestern Abend, ich komme zum Treffen morgen und ich werde dir nächste Woche besuchen kommen.",
       "example_translation": "Je suis venu à la fête hier soir, je viens à la réunion demain, et je viendrai vous visiter la semaine prochaine.",
-      "imageLink": "come.jpg",
+      "imageLink": "image_files\\English\\come.jpg",
       "audioLink": "come.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Préparer et chauffer de la nourriture pour la manger.",
       "example": "Ich kochte gestern Abendessen für meine Familie, ich koche heute Mittagessen für meine Freunde und ich werde morgen Frühstück für meine Kinder kochen.",
       "example_translation": "J'ai cuisiné le dîner pour ma famille hier soir, je cuisine le déjeuner pour mes amis aujourd'hui, et je cuisinerai le petit déjeuner pour mes enfants demain.",
-      "imageLink": "cook.jpg",
+      "imageLink": "image_files\\English\\cook.jpg",
       "audioLink": "cook.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Déplacer son corps de manière rythmée, généralement en musique.",
       "example": "Ich tanzte auf der Party gestern Abend, ich tanze jetzt zu meinem Lieblingslied und ich werde auf meiner Hochzeit nächstes Jahr tanzen.",
       "example_translation": "J'ai dansé à la fête hier soir, je danse à ma chanson préférée maintenant, et je danserai à mon mariage l'année prochaine.",
-      "imageLink": "dance-2.jpg",
+      "imageLink": "image_files\\English\\dance-2.jpg",
       "audioLink": "dance.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Cesser de vivre, devenir mort.",
       "example": "Die Pflanze ist letzten Woche gestorben, ich bin besorgt, dass mein Hund bald sterben könnte, und ich hoffe, dass ich nicht in meinem Schlaf sterbe.",
       "example_translation": "La plante est morte la semaine dernière, je crains que mon chien ne meure bientôt, et j'espère que je ne mourrai pas dans mon sommeil ce soir.",
-      "imageLink": "die.jpg",
+      "imageLink": "image_files\\English\\die.jpg",
       "audioLink": "die.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Réaliser une action, en particulier une action habituelle ou régulière.",
       "example": "Ich habe meine Hausaufgaben gestern gemacht, ich mache meine Hausaufgaben jeden Tag und ich werde meine Hausaufgaben morgen machen.",
       "example_translation": "J'ai fait mes devoirs hier, je fais mes devoirs tous les jours, et je ferai mes devoirs demain.",
-      "imageLink": "do.jpg",
+      "imageLink": "image_files\\English\\do.jpg",
       "audioLink": "do.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Nettoyer et organiser un endroit, en particulier une maison.",
       "example": "Ich habe die Reinigung gestern gemacht, ich mache die Reinigung jede Woche und ich werde die Reinigung morgen machen.",
       "example_translation": "J'ai fait le ménage hier, je fais le ménage chaque semaine, et je ferai le ménage demain.",
-      "imageLink": "do-the-cleaning.jpg",
+      "imageLink": "image_files\\English\\do-the-cleaning.jpg",
       "audioLink": "do the cleaning.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Préparer et cuisiner des aliments.",
       "example": "Ich habe das Kochen gestern gemacht, ich mache das Kochen jeden Tag und ich werde das Kochen morgen machen.",
       "example_translation": "J'ai fait la cuisine hier, je fais la cuisine tous les jours, et je ferai la cuisine demain.",
-      "imageLink": "do-the-cooking.jpg",
+      "imageLink": "image_files\\English\\do-the-cooking.jpg",
       "audioLink": "do the cooking.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Laver et nettoyer des vêtements et d'autres articles en tissu.",
       "example": "Ich habe die Wäsche gestern gemacht, ich mache die Wäsche jede Woche und ich werde die Wäsche morgen machen.",
       "example_translation": "J'ai fait la lessive hier, je fais la lessive chaque semaine, et je ferai la lessive demain.",
-      "imageLink": "do-the-washing.jpg",
+      "imageLink": "image_files\\English\\do-the-washing.jpg",
       "audioLink": "do the washing.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "produire un tableau ou un diagramme en faisant des lignes et des marques sur le papier",
       "example": "Ichzeichnete ein Bild meines Katers gestern, ich werde ein Karte zeichnen morgen, und ich bin gerade dabei, ein Porträt zu zeichnen.",
       "example_translation": "J'ai dessiné une image de mon chat hier, je vais dessiner une carte demain, et je dessine un portrait maintenant.",
-      "imageLink": "draw.jpg",
+      "imageLink": "image_files\\English\\draw.jpg",
       "audioLink": "draw.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "avaler un liquide, généralement par la bouche",
       "example": "Ich trank einen Kaffee heute Morgen, ich werde ein Glas Wein heute Abend trinken, und ich trinke gerade Wasser.",
       "example_translation": "J'ai bu une tasse de café ce matin, je vais boire un verre de vin ce soir, et je bois de l'eau maintenant.",
-      "imageLink": "drink.jpg",
+      "imageLink": "image_files\\English\\drink.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "exploiter les commandes d'un véhicule, en particulier d'une voiture, afin de le faire bouger",
       "example": "Ich fuhr zum Laden gestern, ich werde zum Park fahren morgen, und ich fahre gerade zur Arbeit.",
       "example_translation": "J'ai conduit à la boutique hier, je vais conduire au parc demain, et je conduis au travail maintenant.",
-      "imageLink": "drive.jpg",
+      "imageLink": "image_files\\English\\drive.jpg",
       "audioLink": "drive.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "prendre de la nourriture dans le corps, en particulier en la mettant dans la bouche et en l'avalant",
       "example": "Ich aß ein Sandwich zum Mittagessen gestern, ich werde ein Salat zum Abendessen essen, und ich esse gerade einen Snack.",
       "example_translation": "J'ai mangé un sandwich pour déjeuner hier, je vais manger une salade pour dîner ce soir, et je mange une collation maintenant.",
-      "imageLink": "eat.jpg",
+      "imageLink": "image_files\\English\\eat.jpg",
       "audioLink": "eat.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Prendre un grand plaisir ou délices dans quelque chose.",
       "example": "Ich genoss die Party letzte Nacht. Ich genieße das sonnige Wetter heute. Ich werde meine Urlaub nächste Woche genießen.",
       "example_translation": "J'ai apprécié la fête hier soir. J'apprécie le temps ensoleillé aujourd'hui. J'apprécierai mes vacances la semaine prochaine.",
-      "imageLink": "enjoy.jpg",
+      "imageLink": "image_files\\English\\enjoy.jpg",
       "audioLink": "enjoy.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Avoir une réaction émotionnelle ou une sensation.",
       "example": "Ich fühlte mich traurig, als ich die Nachricht hörte. Ich fühle mich heute glücklich. Ich werde morgen ängstlich fühlen.",
       "example_translation": "J'ai senti triste lorsque j'ai entendu les nouvelles. Je me sens heureux aujourd'hui. Je me sentirai anxieux demain.",
-      "imageLink": "feel.jpg",
+      "imageLink": "image_files\\English\\feel.jpg",
       "audioLink": "feel.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Découvrir ou trouver quelque chose.",
       "example": "Ich fand meine Schlüssel auf dem Tisch. Ich finde das Buch interessant. Ich werde bald einen neuen Job finden.",
       "example_translation": "J'ai trouvé mes clés sur la table. Je trouve le livre intéressant. Je trouverai un nouveau travail bientôt.",
-      "imageLink": "find.jpg",
+      "imageLink": "image_files\\English\\find.jpg",
       "audioLink": "find.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Compléter ou mettre fin à quelque chose.",
       "example": "Ich beendete meine Hausaufgaben letzte Nacht. Ich beende mein Projekt heute. Ich werde mein Studium nächstes Jahr beenden.",
       "example_translation": "J'ai fini mes devoirs hier soir. Je finis mon projet aujourd'hui. Je finirai mon diplôme l'année prochaine.",
-      "imageLink": "finish.jpg",
+      "imageLink": "image_files\\English\\finish.jpg",
       "audioLink": "finish.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Obtenir ou acquérir quelque chose, ou causer que quelque chose soit apporté ou envoyé à un endroit particulier.",
       "example": "Ich bekam ein neues Buch gestern, ich bin gerade dabei, mich für die Party heute Abend zurechtzumachen, und ich werde morgen einen Kaffee bekommen.",
       "example_translation": "J'ai obtenu un nouveau livre hier, je me prépare pour la soirée ce soir, et je prendrai un café demain matin.",
-      "imageLink": "get.jpg",
+      "imageLink": "image_files\\English\\get.jpg",
       "audioLink": "get.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Se lever d'une position couchée, assise ou à genoux, ou se réveiller du sommeil.",
       "example": "Ich stand um 7 Uhr morgens auf, ich werde morgen früh aufstehen, und ich stand schnell auf, als ich die Türklingel hörte.",
       "example_translation": "Je me suis levé à 7h ce matin, je me lèverai tôt demain, et je me suis levé rapidement lorsque j'ai entendu la sonnette.",
-      "imageLink": "get-up.jpg",
+      "imageLink": "image_files\\English\\get-up.jpg",
       "audioLink": "get up.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Transférer volontairement la possession de quelque chose à quelqu'un, ou fournir quelque chose à quelqu'un.",
       "example": "Ich gab ihr ein Buch gestern, ich gebe heute ein Referat und ich werde ihn später anrufen.",
       "example_translation": "Je lui ai donné un livre hier, je donnerai une présentation demain, et je lui donnerai un coup de téléphone plus tard.",
-      "imageLink": "give.jpg",
+      "imageLink": "image_files\\English\\give.jpg",
       "audioLink": "give.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Se déplacer d'un endroit à un autre, ou voyager d'un endroit à un autre.",
       "example": "Ich ging gestern zum Laden, ich gehe heute Abend ins Kino und ich werde nächste Woche zum Strand gehen.",
       "example_translation": "Je suis allé au magasin hier, je vais au cinéma ce soir, et je vais à la plage la semaine prochaine.",
-      "imageLink": "go.jpg",
+      "imageLink": "image_files\\English\\go.jpg",
       "audioLink": "go.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Sortir signifie quitter un endroit ou un bâtiment, particulièrement le soir pour s'amuser.",
       "example": "Ich ging gestern Abend ins Kino. Heute gehe ich mit Freunden aus. Morgen werde ich einen Spaziergang machen.",
       "example_translation": "Je suis sorti au cinéma hier soir. Aujourd'hui, je sors avec des amis. Demain, je sortirai pour une promenade.",
-      "imageLink": "go-out.jpg",
+      "imageLink": "image_files\\English\\go-out.jpg",
       "audioLink": "go out.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Avoir signifie posséder ou détenir quelque chose, soit physiquement soit de manière abstraite.",
       "example": "Ich hatte letztes Jahr ein Buch. Jetzt habe ich ein neues Buch. In Zukunft werde ich viele Bücher haben.",
       "example_translation": "J'avais un livre l'année dernière. Maintenant, j'ai un nouveau livre. À l'avenir, j'aurai beaucoup de livres.",
-      "imageLink": "have.jpg",
+      "imageLink": "image_files\\English\\have.jpg",
       "audioLink": "have.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Entendre signifie percevoir du son avec ses oreilles.",
       "example": "Ich hörte gestern die Nachrichten. Jetzt höre ich die Musik spielen. Morgen werde ich die Stimme meines Freundes hören.",
       "example_translation": "J'ai entendu les nouvelles hier. Maintenant, j'entends la musique qui joue. Demain, j'entendrai la voix de mon ami.",
-      "imageLink": "hear.jpg",
+      "imageLink": "image_files\\English\\hear.jpg",
       "audioLink": "hear.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Aider signifie assister ou soutenir quelqu'un ou quelque chose.",
       "example": "Ich half meinem Freund letzten Woche umzuziehen. Heute helfe ich meiner Schwester mit ihren Hausaufgaben. Morgen werde ich meiner Familie bei den Hausarbeiten helfen.",
       "example_translation": "J'ai aidé mon ami à déménager la semaine dernière. Aujourd'hui, j'aide ma sœur avec ses devoirs. Demain, j'aiderai ma famille avec les tâches ménagères.",
-      "imageLink": "help.jpg",
+      "imageLink": "image_files\\English\\help.jpg",
       "audioLink": "help.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Demander la présence de quelqu'un à un événement ou une réunion.",
       "example": "Ich lud meine Freunde gestern zur Party ein, ich werde sie nächste Woche zum Essen einladen und ich habe sie zu meiner Hochzeit nächstes Jahr eingeladen.",
       "example_translation": "J'ai invité mes amis à la fête hier, j'inviterai à dîner la semaine prochaine, et j'ai invité à mon mariage l'année prochaine.",
-      "imageLink": "invite.jpg",
+      "imageLink": "image_files\\English\\invite.jpg",
       "audioLink": "invite.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Frapper ou heurter quelque chose avec le pied ou la jambe.",
       "example": "Ich trat den Ball im Spiel gestern, ich trete jeden Morgen den Ball und ich werde den Ball im Finale nächsten Monat treten.",
       "example_translation": "J'ai frappé le ballon au jeu hier, je frappe le ballon tous les matins, et je frapperai le ballon au championnat le mois prochain.",
-      "imageLink": "kick.jpg",
+      "imageLink": "image_files\\English\\kick.jpg",
       "audioLink": "kick.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Acquérir des connaissances ou des compétences par l'étude, l'instruction ou l'expérience.",
       "example": "Ich lernte als Kind Fahrrad fahren, ich lerne jetzt Französisch sprechen und ich werde nächstes Jahr Gitarre spielen lernen.",
       "example_translation": "J'ai appris à monter à vélo lorsque j'étais enfant, j'apprends à parler français maintenant, et j'apprendrai à jouer de la guitare l'année prochaine.",
-      "imageLink": "learn.jpg",
+      "imageLink": "image_files\\English\\learn.jpg",
       "audioLink": "learn.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "S'éloigner d'un endroit ou d'une personne.",
       "example": "Ich verließ meine Heimatstadt, als ich 20 war, ich verlasse jeden Morgen um 8 Uhr meine Wohnung, um zur Arbeit zu gehen, und ich werde nächste Woche in den Urlaub fahren.",
       "example_translation": "J'ai quitté ma ville natale lorsque j'avais 20 ans, je quitte pour aller au travail à 8 heures chaque jour, et je quitterai pour les vacances la semaine prochaine.",
-      "imageLink": "leave-1.jpg",
+      "imageLink": "image_files\\English\\leave-1.jpg",
       "audioLink": "leave.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Avoir un sentiment fort d'affection ou de tendresse envers quelqu'un ou quelque chose.",
       "example": "Ich mochte sie, als ich sie zum ersten Mal traf. Ich mag strand gehen. Ich werde nächsten Jahr nach Paris reisen.",
       "example_translation": "J'ai aimé d'elle depuis le moment où je l'ai rencontrée. J'aime aller à la plage. J'aimerai voyager à Paris l'année prochaine.",
-      "imageLink": "like.jpg",
+      "imageLink": "image_files\\English\\like.jpg",
       "audioLink": "like.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Donner attention au son ou à quelqu'un qui parle pour entendre ce qui est dit ou pour comprendre quelque chose.",
       "example": "Ich hörte der Vorlesung aufmerksam zu. Ich hatte vorher die Anweisungen gehört. Ich werde morgen das Podcast hören.",
       "example_translation": "J'ai écouté la conférence avec attention. J'avais écouté les instructions avant. J'écouterai le podcast demain.",
-      "imageLink": "listen.jpg",
+      "imageLink": "image_files\\English\\listen.jpg",
       "audioLink": "listen.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Diriger son regard dans une direction spécifiée ou vers une chose particulière pour la voir.",
       "example": "Ich schaute aus dem Fenster. Ich hatte vorher auf die Karte geschaut. Ich werde nächsten Monat nach einem neuen Job suchen.",
       "example_translation": "J'ai regardé par la fenêtre. J'avais regardé la carte avant. Je chercherai un nouveau travail le mois prochain.",
-      "imageLink": "look.jpg",
+      "imageLink": "image_files\\English\\look.jpg",
       "audioLink": "look.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un sentiment fort d'affection, d'attachement ou de dévotion envers une personne, un endroit ou une chose.",
       "example": "Ich liebte sie, als ich sie zum ersten Mal traf. Ich liebe Zeit mit meiner Familie zu verbringen. Ich werde nächstes Jahr nach Japan reisen.",
       "example_translation": "J'ai aimé d'elle depuis le moment où je l'ai rencontrée. J'aime passer du temps avec ma famille. J'aimerai voyager au Japon l'année prochaine.",
-      "imageLink": "love.jpg",
+      "imageLink": "image_files\\English\\love.jpg",
       "audioLink": "love.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Créer quelque chose en combinant des matériaux ou des parties.",
       "example": "Ich machte einen Kuchen für den Geburtstag meines Freundes. Ich erstelle einen Plan für das Wochenende. Ich werde sicherstellen, dass ich die Besprechung besuche.",
       "example_translation": "J'ai fait un gâteau pour l'anniversaire de mon ami. Je fais un plan pour le week-end. Je vais m'assurer d'assister à la réunion.",
-      "imageLink": "make.jpg",
+      "imageLink": "image_files\\English\\make.jpg",
       "audioLink": "make.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Rencontrer quelqu'un ou quelque chose.",
       "example": "Ich traf meinen Freund im Park. Ich treffe meine Kollegen im Büro. Ich werde dich am Flughafen treffen.",
       "example_translation": "J'ai rencontré mon ami au parc. Je rencontre mes collègues au bureau. Je vous rencontrerai à l'aéroport.",
-      "imageLink": "meet-2.jpg",
+      "imageLink": "image_files\\English\\meet-2.jpg",
       "audioLink": "meet.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Entrer en contact ou en communication avec quelqu'un ou quelque chose.",
       "example": "Ich traf sie auf der Party. Ich treffe neue Leute jeden Tag. Ich werde die Herausforderung annehmen.",
       "example_translation": "Je l'ai rencontrée à la fête. Je rencontre de nouvelles personnes tous les jours. Je vais relever le défi.",
-      "imageLink": "meet-3.jpg",
+      "imageLink": "image_files\\English\\meet-3.jpg",
       "audioLink": "meet.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Satisfaire ou remplir une condition ou un requis.",
       "example": "Das Unternehmen erfüllt die Standards. Ich erfülle die Frist. Ich werde die Erwartungen erfüllen.",
       "example_translation": "L'entreprise répond aux normes. Je rencontre le délai. Je vais répondre aux attentes.",
-      "imageLink": "meet-1.jpg",
+      "imageLink": "image_files\\English\\meet-1.jpg",
       "audioLink": "meet.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Besoin de sentir ou avoir une envie ou une exigence pour quelque chose.",
       "example": "Ich brauchte ein Buch zu lesen, also ging ich in die Bibliothek. Ich brauche es jetzt, aber ich werde es morgen noch mehr brauchen.",
       "example_translation": "J'avais besoin d'un livre à lire, donc j'ai été à la bibliothèque. J'en ai besoin maintenant, mais j'en aurai besoin plus demain.",
-      "imageLink": "need.jpg",
+      "imageLink": "image_files\\English\\need.jpg",
       "audioLink": "need.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Non fermé ou verrouillé ; permettant l'accès ou le passage.",
       "example": "Der Laden ist sonntags geöffnet. Ich öffnete die Tür und ging hinein. Ich werde es morgen wieder öffnen.",
       "example_translation": "Le magasin est ouvert le dimanche. J'ai ouvert la porte et suis entré. Je l'ouvrirai à nouveau demain.",
-      "imageLink": "open-3.jpg",
+      "imageLink": "image_files\\English\\open-3.jpg",
       "audioLink": "open.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Appliquer de la peinture à une surface using un pinceau ou un outil autre.",
       "example": "Ich habe das Zimmer gestern gemalt. Meine Schwester wird die Küche morgen malen. Sie malte die Wände letztes Jahr.",
       "example_translation": "J'ai peint la chambre hier. Ma sœur peindra la cuisine demain. Elle a peint les murs l'an dernier.",
-      "imageLink": "paint-1.jpg",
+      "imageLink": "image_files\\English\\paint-1.jpg",
       "audioLink": "paint.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Appliquer de la peinture à une surface using un pinceau ou un outil autre.",
       "example": "Der Künstler hat ein schönes Landschaftsbild gemalt. Ich werde die Tür nächste Woche wieder malen. Sie malte die Decke letzten Monat.",
       "example_translation": "L'artiste a peint un beau paysage. Je peindrai la porte à nouveau la semaine prochaine. Elle a peint le plafond le mois dernier.",
-      "imageLink": "paint.jpg",
+      "imageLink": "image_files\\English\\paint.jpg",
       "audioLink": "paint.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "donner de l'argent en échange de biens ou de services",
       "example": "Ich habe die Rechnung gestern bezahlt, ich werde sie morgen bezahlen, und ich bezahle sie gerade now.",
       "example_translation": "J'ai payé la facture hier, je paierai demain et je le paie maintenant.",
-      "imageLink": "pay.jpg",
+      "imageLink": "image_files\\English\\pay.jpg",
       "audioLink": "pay.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "s'engager dans une activité pour le plaisir et la récréation",
       "example": "Ich habe gestern Fußball gespielt, ich spiele es jeden Wochenende, und ich werde es morgen spielen.",
       "example_translation": "J'ai joué au football hier, je le joue chaque week-end et je le jouerai demain.",
-      "imageLink": "play-5.jpg",
+      "imageLink": "image_files\\English\\play-5.jpg",
       "audioLink": "play.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "jouer un rôle ou une partie dans une performance",
       "example": "Ich habe die Hauptrolle in dem Stück gestern Abend gespielt, ich spiele es jede Nacht, und ich werde es morgen spielen.",
       "example_translation": "J'ai joué le rôle principal dans la pièce de théâtre la nuit dernière, je le joue chaque nuit et je le jouerai demain.",
-      "imageLink": "play-1.jpg",
+      "imageLink": "image_files\\English\\play-1.jpg",
       "audioLink": "play.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "effectuer une activité ou un exercice répétitivement afin d'améliorer ou de maîtriser",
       "example": "Ich habe meine Klavierstunde gestern geübt, ich übe es jeden Tag, und ich werde es morgen üben.",
       "example_translation": "J'ai pratiqué ma leçon de piano hier, je la pratique chaque jour et je la pratiquerai demain.",
-      "imageLink": "practise.jpg",
+      "imageLink": "image_files\\English\\practise.jpg",
       "audioLink": "practise.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Placer ou mettre quelque chose dans une position ou un emplacement particulier. Mettre quelque chose dans un endroit ou une position spécifique, notamment de manière soigneuse ou délibérée.",
       "example": "Ich habe das Buch auf den Tisch gestellt. Ich werde den Schlüssel in meine Tasche stellen. Sie stellte die Blumen in eine Vase.",
       "example_translation": "J'ai mis le livre sur la table. Je mettrai la clé dans ma poche. Elle a mis les fleurs dans un vase.",
-      "imageLink": "put.jpg",
+      "imageLink": "image_files\\English\\put.jpg",
       "audioLink": "put.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Lire et comprendre des mots ou des phrases écrites. Interpréter ou comprendre le sens du langage écrit.",
       "example": "Ich habe das Buch gestern gelesen. Sie wird den Brief lesen, wenn sie ankommt. Sie lasen die Anweisungen sorgfältig durch.",
       "example_translation": "J'ai lu le livre hier. Elle lira la lettre lorsqu'elle arrivera. Ils ont lu les instructions soigneusement.",
-      "imageLink": "read.jpg",
+      "imageLink": "image_files\\English\\read.jpg",
       "audioLink": "read.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Rappeler ou rappeler à l'esprit une information ou un événement passé. Avoir un souvenir de quelque chose.",
       "example": "Ich werde mein Jubiläum erinnern. Sie erinnerte sich an ihr Passwort. Sie erinnerten sich an das Treffen gestern.",
       "example_translation": "Je me rappellerai de mon anniversaire. Elle se souvint de son mot de passe. Ils se souvinrent de la réunion hier.",
-      "imageLink": "remember.jpg",
+      "imageLink": "image_files\\English\\remember.jpg",
       "audioLink": "remember.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "S'asseoir sur un animal, généralement un cheval, pour voyager ou pour prendre du plaisir. Voyager à bord d'un véhicule, en particulier un vélo ou une moto.",
       "example": "Ich fahre mein Fahrrad zur Schule. Sie wird morgen das Pferd reiten. Sie fuhren mit dem Bus in die Stadt.",
       "example_translation": "Je monte mon vélo jusqu'à l'école. Elle montera le cheval demain. Ils ont pris le bus pour aller en ville.",
-      "imageLink": "ride.jpg",
+      "imageLink": "image_files\\English\\ride.jpg",
       "audioLink": "ride.mp3"
     }
   ]

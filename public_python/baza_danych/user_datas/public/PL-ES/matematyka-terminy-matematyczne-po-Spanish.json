@@ -9,7 +9,7 @@
       "definition_translation": "Un valor o cantidad matemática, especialmente un entero o número positivo.",
       "example": "Mam zapamiętać numer telefonu, czy mogłabyś powtórzyć? Wczoraj zapomniałem kodu PIN i nie mogłem wypłacić pieniędzy. Do końca roku zakończę swoje zadanie obróbki danych.",
       "example_translation": "Tengo que memorizar el número de teléfono, ¿puedes repetirlo? Ayer, olvidé mi número de PIN y no pude retirar dinero. Para fines de año, habré terminado mi proyecto de análisis de números.",
-      "imageLink": "number.jpg",
+      "imageLink": "image_files\\English\\number.jpg",
       "audioLink": "number.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Una forma redonda sin principio ni fin, continuando indefinidamente en todas las direcciones.",
       "example": "Mój krąg przyjaciół jest bardzo wsparciem. W geometrii koło jest zamkniętą krzywą. Do końca roku zakończę rysowanie koła wokół całego miasta.",
       "example_translation": "El círculo de amigos que tengo es muy solidario. En geometría, un círculo es una curva cerrada. Para fines de año, habré terminado dibujando un círculo alrededor de toda la ciudad.",
-      "imageLink": "circle-3.jpg",
+      "imageLink": "image_files\\English\\circle-3.jpg",
       "audioLink": "circle.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Una figura con cuatro lados de igual longitud, donde todos los ángulos internos son ángulos rectos.",
       "example": "Pierwiastek kwadratowy z 16 to 4. Rynek kwadratowy jest popularnym punktem turystycznym. Do przyszłego roku zbuduję kwadratowy dom z pięknym ogrodem.",
       "example_translation": "La raíz cuadrada de 16 es 4. La plaza del pueblo es un lugar turístico popular. Para el próximo año, habré construido una casa cuadrada con un hermoso jardín.",
-      "imageLink": "square-2.jpg",
+      "imageLink": "image_files\\English\\square-2.jpg",
       "audioLink": "square.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Una bola masiva y luminosa de gas que se mantiene unida por su propia gravedad. Las estrellas son objetos celestes que son visibles desde la Tierra y se ven típicamente como puntos de luz en el cielo nocturno.",
       "example": "Gwiazda świeciła jasno w nocnym niebie. Astronom studiował gwiazdę przez wiele lat. Do roku 2050 ludzie będą kolonizować gwiazdę w pobliżu.",
       "example_translation": "La estrella brilló intensamente en el cielo nocturno. El astrónomo había estudiado la estrella durante muchos años. Para el año 2050, los humanos habrán colonizado una estrella cercana.",
-      "imageLink": "star-2.jpg",
+      "imageLink": "image_files\\English\\star-2.jpg",
       "audioLink": "star.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un símbolo o forma con dos líneas intersectantes, utilizado como representación del cristianismo o como símbolo de protección o bendición.",
       "example": "Krzyż wisiał wokół jej szyi był prezentem od babci. Katolicki ksiądz niosął duży krzyż podczas procesji. Wędrowcy musieli przekroczyć rzekę, aby dotrzeć do góry.",
       "example_translation": "La cruz que colgaba alrededor de su cuello era un regalo de su abuela. El sacerdote cristiano llevaba una gran cruz durante la procesión. Los excursionistas tuvieron que cruzar el río para alcanzar la montaña.",
-      "imageLink": "cross-1.jpg",
+      "imageLink": "image_files\\English\\cross-1.jpg",
       "audioLink": "cross.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Una unidad de porcentaje, igual a una centésima parte de un todo, utilizada para expresar una proporción o tasa.",
       "example": "Zyski firmy wzrosły o 20 procent w zeszłym roku. Uczeń zdobył 85 procent na egzaminie. Stopa oprocentowania pożyczki wynosiła 5 procent rocznego.",
       "example_translation": "Los beneficios de la empresa aumentaron un 20 por ciento el año pasado. El estudiante obtuvo un 85 por ciento en el examen. La tasa de interés del préstamo era del 5 por ciento anual.",
-      "imageLink": "per-cent.jpg",
+      "imageLink": "image_files\\English\\per-cent.jpg",
       "audioLink": "per cent.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "La cantidad total o cantidad obtenida al sumar dos o más números o cantidades.",
       "example": "Zsumuję liczby, aby uzyskać łączną kwotę. Wczoraj zsumowałem liczby, aby uzyskać łączną kwotę. Jutro zsumuję liczby, aby uzyskać łączną kwotę.",
       "example_translation": "Voy a sumar los números para obtener el total. Ayer, sumé los números para obtener el total. Mañana, sumaré los números para obtener el total.",
-      "imageLink": "sum-1.jpg",
+      "imageLink": "image_files\\English\\sum-1.jpg",
       "audioLink": "sum.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "El acto de agregar algo a algo más, especialmente en matemáticas.",
       "example": "Nauczyłem się dodawania w szkole podstawowej. Moja siostra jest dobrą w dodawaniu. Nauczy ona mnie dodawania jutro.",
       "example_translation": "Aprendí adición en la escuela primaria. Mi hermana es buena en adición. Ella me enseñará adición mañana.",
-      "imageLink": "addition.jpg",
+      "imageLink": "image_files\\English\\addition.jpg",
       "audioLink": "addition.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Una forma con una base circular y lados inclinados que se encuentran en un punto.",
       "example": "Zjadłem lodowy stożek na plaży. Kupiła stożek w sklepie. Będą robili stożki na imprezę.",
       "example_translation": "Me comí un cono de helado en la playa. Ella compró un cono en la tienda. Ellos harán conos para la fiesta.",
-      "imageLink": "cone-1.jpg",
+      "imageLink": "image_files\\English\\cone-1.jpg",
       "audioLink": "cone.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un cubo es un objeto sólido tridimensional limitado por seis caras cuadradas, con tres caras que se encuentran en cada vértice.",
       "example": "Podniosłem liczbę do sześcianu, aby uzyskać objętość, sześcian pasował idealnie do pudełka, a sześcian będzie użyty w lekcji matematyki jutro.",
       "example_translation": "Cubiqué el número para obtener el volumen, el cubo se ajustó perfectamente en la caja, y el cubo se utilizará en la lección de matemáticas mañana.",
-      "imageLink": "cube.jpg",
+      "imageLink": "image_files\\English\\cube.jpg",
       "audioLink": "cube.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "El diámetro de un círculo es la distancia más larga posible a través del círculo, pasando por su centro.",
       "example": "Zmierzyłem średnicę koła, średnica rury była zbyt mała, a średnica księżyca wynosi około 2159 mil.",
       "example_translation": "Medí el diámetro del círculo, el diámetro de la tubería era demasiado pequeño, y el diámetro de la luna es de aproximadamente 2,159 millas.",
-      "imageLink": "diameter.jpg",
+      "imageLink": "image_files\\English\\diameter.jpg",
       "audioLink": "diameter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un ovalo es una forma que es aproximadamente elíptica, pero no perfectamente simétrica, con dos ejes de simetría.",
       "example": "Narysowałem owalny kształt, owalny basen był otoczony przez drzewa, a owalna bieżnia była używana podczas igrzysk olimpijskich.",
       "example_translation": "Dibujé una forma oval, la piscina ovalada estaba rodeada de árboles, y la pista oval se utilizó para los juegos olímpicos.",
-      "imageLink": "oval.jpg",
+      "imageLink": "image_files\\English\\oval.jpg",
       "audioLink": "oval.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un polígono con tres lados y tres ángulos, que generalmente tiene tres vértices.",
       "example": "Narysowałem trójkąt na tablicy, potem zbudowałem go za pomocą kłód, a jutro obliczę jego powierzchnię.",
       "example_translation": "Dibujé un triángulo en la pizarra, luego lo construí con palitos, y finalmente calcularé su área mañana.",
-      "imageLink": "triangle-1.jpg",
+      "imageLink": "image_files\\English\\triangle-1.jpg",
       "audioLink": "triangle.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "El espacio o forma formada por dos líneas, rayos o planos que se encuentran o se intersectan.",
       "example": "Zmierzyłem kąt dachu, potem dostosowałem go, a teraz będzie idealny.",
       "example_translation": "Medí el ángulo del techo, luego lo ajusté, y ahora sera perfecto.",
-      "imageLink": "angle.jpg",
+      "imageLink": "image_files\\English\\angle.jpg",
       "audioLink": "angle.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un poliedro con una base cuadrada y cuatro lados triangulares que se encuentran en el ápice.",
       "example": "Starożytni Egipcjanie zbudowali piramidę, potem użyli jej jako grobowca, a ostatecznie stała się cudem.",
       "example_translation": "Los antiguos egipcios construyeron una pirámide, luego la usaron como tumba, y finalmente se convirtió en una maravilla.",
-      "imageLink": "pyramid.jpg",
+      "imageLink": "image_files\\English\\pyramid.jpg",
       "audioLink": "pyramid.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un cuadrilátero que tiene cuatro ángulos rectos y cuatro lados de longitud desigual, siendo iguales los lados opuestos.",
       "example": "Architekt zaprojektował prostokąt o długości 10 metrów i szerokości 5 metrów. Wczoraj zmierzyła prostokąt, aby upewnić się, że jest on poprawny. Jutro zbuduje większy prostokąt.",
       "example_translation": "El arquitecto diseñó un rectángulo con una longitud de 10 metros y un ancho de 5 metros. Ayer, ella midió el rectángulo para asegurarse de que fuera correcto. Mañana, ella construirá un rectángulo más grande.",
-      "imageLink": "rectangle.jpg",
+      "imageLink": "image_files\\English\\rectangle.jpg",
       "audioLink": "rectangle.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Una colección de objetos únicos, conocidos como elementos o miembros, que pueden ser cualquier cosa, incluyendo números, letras, personas o otros objetos.",
       "example": "Nauczycielka poprosiła uczniów, aby położyli swoje książki na stole. Wczoraj uczniowie ustawili swoje cele dla projektu. Jutro ustawią swoje prezentacje.",
       "example_translation": "El maestro pidió a los estudiantes que colocaran sus libros en la mesa. Ayer, los estudiantes establecieron sus metas para el proyecto. Mañana, ellos configurarán sus presentaciones.",
-      "imageLink": "set-4.jpg",
+      "imageLink": "image_files\\English\\set-4.jpg",
       "audioLink": "set.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una ubicación de almacenamiento con nombre que contiene un valor que puede cambiar durante la ejecución de un programa.",
       "example": "Programista zadeklarował zmienną do przechowywania danych wejściowych użytkownika. Wczoraj zmienna była inicjowana z wartością domyślną. Jutro zmienna będzie aktualizowana z nowymi danymi.",
       "example_translation": "El programador declaró una variable para almacenar la entrada del usuario. Ayer, la variable se inicializó con un valor predeterminado. Mañana, la variable se actualizará con nuevos datos.",
-      "imageLink": "variable.jpg",
+      "imageLink": "image_files\\English\\variable.jpg",
       "audioLink": "variable.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un ángulo agudo es un ángulo cuya medida está entre 0 y 90 grados.",
       "example": "Budowniczy dokładnie zmierzył ostry kąt dachu, aby upewnić się, że jest on poprawny. Wczoraj zmierzył go ponownie, aby sprawdzić. Do końca tygodnia cały dach będzie gotowy.",
       "example_translation": "El constructor midió cuidadosamente el ángulo agudo del techo para asegurarse de que fuera correcto. Ayer, lo midió de nuevo para verificar. Para la próxima semana, todo el techo estará completado.",
-      "imageLink": "acute-angle.jpg",
+      "imageLink": "image_files\\English\\acute-angle.jpg",
       "audioLink": "acute angle.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "El eje de coordenadas es un conjunto de tres líneas que se intersectan en un punto, llamado origen, y se utilizan para ubicar puntos en el espacio.",
       "example": "Nauczyciel matematyki narysował oś współrzędnych na tablicy, aby wyjaśnić pojęcie rysowania wykresów. W zeszłym roku miałem trudności zrozumienia tego, ale teraz jest jasne. Do końca semestru opanuję to.",
       "example_translation": "El maestro de matemáticas dibujó el eje de coordenadas en la pizarra para explicar el concepto de graficar. El año pasado, me costó entenderlo, pero ahora está claro. Para fin de semestre, lo habré dominado.",
-      "imageLink": "axis-of-coordinates.jpg",
+      "imageLink": "image_files\\English\\axis-of-coordinates.jpg",
       "audioLink": "axis of coordinates.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un número cardinal es un número que indica cantidad, como uno, dos o tres.",
       "example": "Liczba cardinalna zbioru wynosi pięć, co oznacza, że ma pięć elementów. Wczoraj policzyłem liczbę studentów w klasie i było ich trzydzieści pięć. Do następnego miesiąca nauczmy się o liczbach porządkowych.",
       "example_translation": "El número cardinal del conjunto es cinco, lo que significa que tiene cinco elementos. Ayer, conté el número de estudiantes en la clase, y había treinta y cinco. Para el próximo mes, habremos aprendido sobre números ordinales.",
-      "imageLink": "cardinal-number.jpg",
+      "imageLink": "image_files\\English\\cardinal-number.jpg",
       "audioLink": "cardinal number.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "La circunferencia de un círculo es la distancia alrededor del círculo. Es una medida del tamaño del círculo.",
       "example": "Pomierzyłem obwód koła, aby upewnić się, że pasuje do ramy roweru. Będę mieszał obwód rury, aby upewnić się, że pasuje do zaworu. Mierzyłem obwód okręgu, aby obliczyć jego powierzchnię.",
       "example_translation": "Medí la circunferencia de la rueda para asegurarme de que se adaptara al marco de la bicicleta. Mediré la circunferencia del tubo para asegurarme de que se adapte a la válvula. Había medido la circunferencia del círculo para calcular su área.",
-      "imageLink": "circumference.jpg",
+      "imageLink": "image_files\\English\\circumference.jpg",
       "audioLink": "circumference.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un coeficiente es un valor numérico que se multiplica por una variable o una expresión en una ecuación o fórmula.",
       "example": "Współczynnik tarcia jest używany do obliczenia siły niezbędnej do poruszenia obiektu. Współczynnik determinacji był używany do analizy korelacji między zmiennymi. Będę obliczał współczynnik zmienności, aby zrozumieć rozrzut danych.",
       "example_translation": "El coeficiente de fricción se utiliza para calcular la fuerza necesaria para mover un objeto. El coeficiente de determinación se utilizó para analizar la correlación entre las variables. Calcularé el coeficiente de variación para entender la dispersión de los datos.",
-      "imageLink": "coefficient.jpg",
+      "imageLink": "image_files\\English\\coefficient.jpg",
       "audioLink": "coefficient.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Los compases son una herramienta de navegación utilizada para determinar la dirección, especialmente en situaciones en las que el sol o las estrellas no son visibles.",
       "example": "Użyłem kompasów, aby nawigować przez las. Wędrowcy użyli kompasów, aby znaleźć drogę powrotną do obozu. Ona będzie używać kompasów, aby zorientować swój plan.",
       "example_translation": "Usé compases para navegar por el bosque. Los excursionistas utilizaron compases para encontrar su camino de regreso al campamento. Ella utilizará compases para orientar su mapa.",
-      "imageLink": "compasses.jpg",
+      "imageLink": "image_files\\English\\compasses.jpg",
       "audioLink": "compasses.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un ángulo cuya medida es de 360 grados, lo que significa que forma un círculo completo.",
       "example": "Pełny kąt okręgu był kluczowy w projekcie struktury architektonicznej. Będzie miał pełny kąt w następnej wersji. Ona miała pełny kąt w myśli, gdy malowała krajobraz.",
       "example_translation": "El ángulo completo del círculo fue crucial en el diseño de la estructura arquitectónica. Tendrá un ángulo completo en la próxima versión. Ella tenía ángulos completos en su mente mientras pintaba el paisaje.",
-      "imageLink": "complete-angle.jpg",
+      "imageLink": "image_files\\English\\complete-angle.jpg",
       "audioLink": "complete angle.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un sistema utilizado para ubicar puntos en el espacio, definido por un conjunto de tres líneas perpendiculares que se intersectan en un solo punto, llamado origen.",
       "example": "Matematyk użył układu współrzędnych, aby narysować wykres. Ona będzie używać układu współrzędnych, aby rozwiązać problem. Nauczyliśmy się o układach współrzędnych w naszej klasie geometrii.",
       "example_translation": "El matemático utilizó un sistema de coordenadas para trazar el gráfico. Ella utilizará un sistema de coordenadas para resolver el problema. Habían aprendido sobre sistemas de coordenadas en su clase de geometría.",
-      "imageLink": "coordinate-system.jpg",
+      "imageLink": "image_files\\English\\coordinate-system.jpg",
       "audioLink": "coordinate system.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un valor que, al multiplicarse por sí mismo tres veces, da un número o valor especificado.",
       "example": "Pierwiastek sześcienny z 27 to 3, ponieważ 3 pomnożone przez siebie trzy razy daje 27. Ona będzie znaleźć pierwiastek sześcienny z liczby. Nauczyliśmy się obliczać pierwiastki sześciennie w naszej klasie algebry.",
       "example_translation": "La raíz cúbica de 27 es 3, ya que 3 multiplicado por sí mismo tres veces da 27. Ella encontrará la raíz cúbica del número. Habían aprendido a calcular raíces cúbicas en su clase de álgebra.",
-      "imageLink": "cube-root.jpg",
+      "imageLink": "image_files\\English\\cube-root.jpg",
       "audioLink": "cube root.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un cuboide es una forma sólida tridimensional con seis caras rectangulares, donde cada cara es un rectángulo con todos los ángulos rectos.",
       "example": "Architekt zaprojektował budynek o kształcie prostopadłościanu z płaskim dachem. Prostopadłościany pudełko było ciężkie do podniesienia. Do przyszłego roku zbudują prostopadłościany wieżowiec.",
       "example_translation": "El arquitecto diseñó un edificio cuboide con techo plano. La caja cuboide era pesada de levantar. Para el próximo año, construirán un rascacielos con forma de cuboide.",
-      "imageLink": "cuboid.jpg",
+      "imageLink": "image_files\\English\\cuboid.jpg",
       "audioLink": "cuboid.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un cilindro es una forma sólida tridimensional con dos bases paralelas y circulares conectadas por un lado curvo.",
       "example": "Inżynier zaprojektował zbiornik o kształcie walca. Walec zrolował się po wzgórzu. Do następnego miesiąca wyprodukują walec kontenery.",
       "example_translation": "El ingeniero diseñó un tanque con forma de cilindro. El cilindro rodó colina abajo. Para el próximo mes, fabricarán contenedores con forma de cilindro.",
-      "imageLink": "cylinder.jpg",
+      "imageLink": "image_files\\English\\cylinder.jpg",
       "audioLink": "cylinder.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un decimal es un número expresado en el sistema decimal, donde cada dígito puede tener uno de los diez valores, desde 0 hasta 9.",
       "example": "Kropka dziesiętna była na końcu liczby. Ona przekonwertowała ułamek na liczbę dziesiętną. Komputer przetworzył dane dziesiętne szybko.",
       "example_translation": "El punto decimal estaba al final del número. Ella convirtió la fracción a un decimal. La computadora procesó los datos decimales rápidamente.",
-      "imageLink": "decimal.jpg",
+      "imageLink": "image_files\\English\\decimal.jpg",
       "audioLink": "decimal.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Una ecuación diferencial es una ecuación matemática que implica una función desconocida y sus derivadas, y relaciona los valores de la función y sus derivadas en diferentes puntos del espacio.",
       "example": "W matematyce, równania różniczkowe są stosowane do modelowania wzrostu populacji, natomiast w fizyce, są one używane do opisu ruchu obiektów. W zeszłym roku rozwiązałem równanie różniczkowe, aby przewidzieć trajektorię pocisku. W przyszłym roku, użyję równań różniczkowych do modelowania rozprzestrzeniania się choroby.",
       "example_translation": "En matemáticas, las ecuaciones diferenciales se utilizan para modelar el crecimiento de la población, mientras que en física, se utilizan para describir el movimiento de objetos. El año pasado, resolví una ecuación diferencial para predecir la trayectoria de un proyectil. El próximo año, utilizaré ecuaciones diferenciales para modelar la propagación de una enfermedad.",
-      "imageLink": "differential-equation.jpg",
+      "imageLink": "image_files\\English\\differential-equation.jpg",
       "audioLink": "differential equation.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un dígito es un símbolo o carácter individual en un sistema numérico, como un número en el sistema decimal o una letra en el sistema hexadecimal.",
       "example": "Numer telefonu ma 10 cyfr. Wczoraj, wpisałem 5 cyfr, aby odblokować mój telefon. W przyszłości, będę musiał zapamiętać 12 cyfr dla mojej nowej karty kredytowej.",
       "example_translation": "El número de teléfono tiene 10 dígitos. Ayer, escribí 5 dígitos para desbloquear mi teléfono. En el futuro, necesitaré recordar 12 dígitos para mi nueva tarjeta de crédito.",
-      "imageLink": "digit.jpg",
+      "imageLink": "image_files\\English\\digit.jpg",
       "audioLink": "digit.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un dividendo es un pago realizado por una corporación a sus accionistas, usualmente como una forma de distribuir ganancias.",
       "example": "Spółka wypłaci dywidendę w wysokości 1 dolara za akcję w przyszłym kwartale. W zeszłym roku, otrzymałem dywidendę w wysokości 500 dolarów z mojej inwestycji. W przyszłości, spodziewam się otrzymać wyższą dywidendę z moich akcji.",
       "example_translation": "La empresa pagará un dividendo de $1 por acción el próximo trimestre. El año pasado, recibí un dividendo de $500 de mi inversión. En el futuro, espero recibir un dividendo más alto de mis acciones.",
-      "imageLink": "divident.jpg",
+      "imageLink": "image_files\\English\\divident.jpg",
       "audioLink": "divident.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "La acción de dividir o el estado de estar dividido, un proceso de separar o categorizar algo en grupos o partes, una rama de las matemáticas que se ocupa de la operación de dividir números",
       "example": "Podział firmy na mniejsze działy poprawił efektywność, podzielę budżet projektu do końca tygodnia, a myśmy podzielili zyski równo między partnerami.",
       "example_translation": "La división de la empresa en departamentos más pequeños mejoró la eficiencia, dividiré el presupuesto del proyecto para el final de la semana, y dividimos las ganancias igualmente entre los socios.",
-      "imageLink": "division.jpg",
+      "imageLink": "image_files\\English\\division.jpg",
       "audioLink": "division.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un número por el cual otro número puede ser dividido sin dejar un resto, un factor de un número que lo divide exactamente sin dejar un resto",
       "example": "Liczba 4 jest dzielnikiem liczby 12, nauczyciel poprosił nas o znajomość wszystkich dzielników liczby 24, a kalkulator może znaleźć największy wspólny dzielnik dwóch liczb.",
       "example_translation": "El número 4 es un divisor de 12, el maestro nos pidió encontrar todos los divisores de 24, y la calculadora puede encontrar el máximo común divisor de dos números.",
-      "imageLink": "divisor.jpg",
+      "imageLink": "image_files\\English\\divisor.jpg",
       "audioLink": "divisor.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un pequeño número que indica cuántas veces debe multiplicarse un número base por sí mismo, una operación matemática en la que se eleva un número a una potencia",
       "example": "Potęga 2 w równaniu jest równa 3, potęga 10 w wyrażeniu jest równa 5, a chcemy znaleźć wartość x w równaniu z potęgą 2.",
       "example_translation": "El exponente de 2 en la ecuación es 3, la potencia de 10 en la expresión es 5, y necesitamos encontrar el valor de x en la ecuación con exponente 2.",
-      "imageLink": "exponent-power.jpg",
+      "imageLink": "image_files\\English\\exponent-power.jpg",
       "audioLink": "exponent, power.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Una fracción es una forma de expresar una parte de un todo. Es una forma de mostrar una parte de algo que se divide en partes iguales.",
       "example": "Wczoraj zjadłem ułamek pizzy, jutro zjem inny ułamek na lunch, a zjem pozostałą część jutra.",
       "example_translation": "Me comí una fracción de la pizza anoche, comeré otra fracción para almuerzo hoy y acabaré con la fracción restante mañana.",
-      "imageLink": "fraction.jpg",
+      "imageLink": "image_files\\English\\fraction.jpg",
       "audioLink": "fraction.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Una función es una relación entre un conjunto de entradas, llamado dominio, y un conjunto de salidas posibles, llamado rango.",
       "example": "Funkcją kalkulatora jest wykonywanie operacji matematycznych, użyłem go do obliczenia funkcji x kwadrat, a on pomoże mi w przyszłości narysować funkcję.",
       "example_translation": "La función de una calculadora es realizar operaciones matemáticas, la usé para calcular la función de x al cuadrado, y me ayudará a graficar la función en el futuro.",
-      "imageLink": "function.jpg",
+      "imageLink": "image_files\\English\\function.jpg",
       "audioLink": "function.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un hemisferio es la mitad de la Tierra, dividida por el Ecuador o un meridiano, y también es un término utilizado en geometría para describir una semiesfera.",
       "example": "Półkula północna doświadcza zimy, podróżowałem na półkulę południową i zobaczyłem konstelację Oriona na niebie, a w przyszłości odwiedzę półkulę wschodnią.",
       "example_translation": "El hemisferio norte experimenta el invierno, viajé al hemisferio sur y vi la constelación de Orión en el cielo, y en el futuro, visitaré el hemisferio oriental.",
-      "imageLink": "hemisphere.jpg",
+      "imageLink": "image_files\\English\\hemisphere.jpg",
       "audioLink": "hemisphere.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un heptágono es un polígono con siete lados. Es un tipo de polígono que tiene siete vértices y siete lados de igual longitud.",
       "example": "Starożytni Grecy badali właściwości heptagonów, odkryli, że można zbudować heptagon za pomocą cyrkla i linijki. Dziś heptagony są stosowane w architekturze i designie, aby stworzyć wizualnie atrakcyjne struktury. Do roku 2050 heptagony będą powszechną cechą miast przyszłości.",
       "example_translation": "Los antiguos griegos estudiaron las propiedades de los heptágonos y descubrieron que es posible construir un heptágono utilizando una compás y regla. Hoy en día, los heptágonos se utilizan en arquitectura y diseño para crear estructuras visualmente atractivas. Para el año 2050, los heptágonos serán una característica común en las ciudades futuristas.",
-      "imageLink": "heptagon.jpg",
+      "imageLink": "image_files\\English\\heptagon.jpg",
       "audioLink": "heptagon.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un hexágono es un polígono con seis lados. Es un tipo de polígono que tiene seis vértices y seis lados de igual longitud.",
       "example": "Heksagon to częsty kształt spotykany w naturze, na przykład w komórkach plastra miodu. Heksagony są również używane w architekturze do tworzenia silnych i stabilnych konstrukcji. Do roku 2025 heksagony będą używane do projektowania budynków zrównoważonych i ekologicznych.",
       "example_translation": "El hexágono es una forma común encontrada en la naturaleza, como en las celdas de un panal. Los hexágonos también se utilizan en arquitectura para crear estructuras fuertes y estables. Para el año 2025, los hexágonos se utilizarán para diseñar edificios sostenibles y ecológicos.",
-      "imageLink": "hexagon.jpg",
+      "imageLink": "image_files\\English\\hexagon.jpg",
       "audioLink": "hexagon.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "El infinito es un concepto en matemáticas que representa una cantidad sin fin ni límite. A menudo se representa matemáticamente utilizando el símbolo ∞.",
       "example": "Pojęcie nieskończoności fascynowało matematyków i filozofów przez wieki. Nieskończoność jest używana w rachunku różniczkowym do opisu granic i ograniczeń. W przyszłości nieskończoność będzie odgrywać kluczową rolę w rozwoju matematyki i nauki.",
       "example_translation": "El concepto de infinito ha fascinado a matemáticos y filósofos durante siglos. El infinito se utiliza en cálculo para describir límites y fronteras. En el futuro, el infinito seguirá desempeñando un papel crucial en el desarrollo de las matemáticas y la ciencia.",
-      "imageLink": "infinity.jpg",
+      "imageLink": "image_files\\English\\infinity.jpg",
       "audioLink": "infinity.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un número entero, ya sea positivo, negativo o cero, y no una fracción o decimal.",
       "example": "Liczba całkowita 5 jest liczbą pierwszą. Wczoraj obliczyłem sumę liczb całkowitych od 1 do 10. Do następnego roku będę umiał mnożyć liczby całkowite.",
       "example_translation": "El entero 5 es un número primo. Ayer, calculé la suma de enteros desde 1 hasta 10. Para el próximo año, habré aprendido a multiplicar enteros.",
-      "imageLink": "integer.jpg",
+      "imageLink": "image_files\\English\\integer.jpg",
       "audioLink": "integer.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Relativo o siendo una cosa completa, entera o integral; siendo parte de un todo, en lugar de un elemento independiente.",
       "example": "Całościowa część systemu jest silnikiem. Firma będzie integrować nową technologię z ich całościowym systemem. Do 2025 roku całościowe rozwiązanie będzie wdrożone na całym świecie.",
       "example_translation": "La parte integral del sistema es el motor. La empresa integrará la nueva tecnología en su sistema integral. Para 2025, la solución integral se implementará en todo el mundo.",
-      "imageLink": "integral.jpg",
+      "imageLink": "image_files\\English\\integral.jpg",
       "audioLink": "integral.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un número real que no puede expresarse como una fracción simple, como pi o la raíz cuadrada de 2.",
       "example": "Liczby niewymierne zostały odkryte przez starożytnych greckich matematyków. Stosunek obwodu koła do jego średnicy jest liczbą niewymierną. Do końca kursu będę umiał obliczać liczby niewymierne.",
       "example_translation": "Los números irracionales fueron descubiertos por matemáticos griegos antiguos. La razón de la circunferencia de un círculo a su diámetro es un número irracional. Al final del curso, podré calcular números irracionales.",
-      "imageLink": "irrational-number.jpg",
+      "imageLink": "image_files\\English\\irrational-number.jpg",
       "audioLink": "irrational number.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Una parte de una línea que está delimitada por dos puntos distintos y contiene todos los puntos de la línea entre ellos.",
       "example": "Nauczyciel poprosił ucznia o narysowanie odcinka prostej na tablicy. Wczoraj narysowała odcinek prostej na wykresie. Jutro będą uczyć się rysowania odcinków prostych w różnych kątach.",
       "example_translation": "La maestra le pidió al estudiante que dibujara un segmento de línea en la pizarra. Ayer, ella dibujó un segmento de línea en el gráfico. Mañana, ellos aprenderán sobre dibujar segmentos de línea en diferentes ángulos.",
-      "imageLink": "line-segment.jpg",
+      "imageLink": "image_files\\English\\line-segment.jpg",
       "audioLink": "line segment.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "La potencia a la que debe ser elevado un número base para producir un valor dado, especialmente la potencia a la que debe ser elevado el número base 10 para producir un valor dado.",
       "example": "Matematyk obliczył logarytm liczby, aby rozwiązać równanie. W przeszłości używali logarytmów do obliczeń danych astronomicznych. W przyszłości logarytmy będą używane w zaawansowanych algorytmach komputerowych.",
       "example_translation": "El matemático calculó el logaritmo del número para resolver la ecuación. En el pasado, ellos usaron logaritmos para calcular datos de astronomía. En el futuro, los logaritmos se utilizarán en algoritmos informáticos avanzados.",
-      "imageLink": "logarithm.jpg",
+      "imageLink": "image_files\\English\\logarithm.jpg",
       "audioLink": "logarithm.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "El proceso de combinar un número con sí mismo tantas veces como unidades hay en otro número, o el producto de tal proceso.",
       "example": "Uczeń ćwiczył tabliczki mnożenia, aby poprawić swoje umiejętności matematyczne. Wczoraj pomnożyli dwie liczby, aby uzyskać produkt. Jutro będą uczyć się mnożenia ułamków.",
       "example_translation": "El estudiante practicó tablas de multiplicación para mejorar sus habilidades matemáticas. Ayer, ellos multiplicaron dos números para obtener el producto. Mañana, ellos aprenderán sobre la multiplicación de fracciones.",
-      "imageLink": "multiplication.jpg",
+      "imageLink": "image_files\\English\\multiplication.jpg",
       "audioLink": "multiplication.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un número natural es un entero positivo, comenzando desde 1 y extendiéndose hasta el infinito, como 1, 2, 3, y así sucesivamente.",
       "example": "Liczby naturalne 1, 2 i 3 były użyte w problemie matematycznym. Wczoraj napisałem sekwencję liczb naturalnych. Jutro będą uczyć się o właściwościach liczb naturalnych.",
       "example_translation": "Los números naturales 1, 2 y 3 se utilizaron en el problema matemático. Ayer, ella escribió una secuencia de números naturales. Mañana, aprenderán sobre las propiedades de los números naturales.",
-      "imageLink": "natural-number.jpg",
+      "imageLink": "image_files\\English\\natural-number.jpg",
       "audioLink": "natural number.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Una línea numérica es una representación visual de números en una línea recta, utilizada para comparar y ordenar números.",
       "example": "Nauczyciel narysował linię liczbowych na tablicy, aby wyjaśnić pojęcie ułamków. Uczeń użył linii liczbowych, aby znaleźć środek między dwiema liczbami. Do końca roku będę umiał stworzyć własne linie liczbowych.",
       "example_translation": "La maestra dibujó una línea numérica en la pizarra para explicar el concepto de fracciones. El estudiante utilizó una línea numérica para encontrar el punto medio entre dos números. Para fin de año, podrán crear sus propias líneas numéricas.",
-      "imageLink": "number-line.jpg",
+      "imageLink": "image_files\\English\\number-line.jpg",
       "audioLink": "number line.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un ángulo obtuso es un tipo de ángulo que es mayor que 90 grados pero menor que 180 grados, a menudo representado por el símbolo >.",
       "example": "Kąt rozwarty w trójkącie wynosił 120 stopni. Ona zmierzyła kąt rozwarty dachu. Do następnego tygodnia będą uczyć się, jak obliczyć sumę kątów rozwartych.",
       "example_translation": "El ángulo obtuso en el triángulo era de 120 grados. Ella midió el ángulo obtuso del techo. Para la próxima semana, aprenderán cómo calcular la suma de ángulos obtusos.",
-      "imageLink": "obtuse-angle.jpg",
+      "imageLink": "image_files\\English\\obtuse-angle.jpg",
       "audioLink": "obtuse angle.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un polígono con ocho lados, especialmente uno que es regular y tiene todos los lados y ángulos iguales.",
       "example": "Architekt zaprojektował budynek o kształcie ośmiokąta z ośmioma równymi stronami. Wcześniej zbudowała dom o podobnym kształcie. Będzie projektował kolejny ośmiokąt przyszłego roku.",
       "example_translation": "El arquitecto diseñó un edificio de forma octogonal con ocho lados iguales. Anteriormente, había construido una casa con una forma similar. Ella diseñará otro edificio octogonal el año que viene.",
-      "imageLink": "octagon.jpg",
+      "imageLink": "image_files\\English\\octagon.jpg",
       "audioLink": "octagon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Un número que expresa la posición o rango de algo en una secuencia, como primero, segundo o tercero.",
       "example": "Liczba porządkowa 'pierwszy' wskazuje pozycję zwycięzcy w konkursie. W zeszłym roku byłem trzeci, ale w tym roku będę pierwszy. Następnie będę drugi.",
       "example_translation": "El número ordinal 'primero' indica la posición del ganador en una competencia. El año pasado, yo era tercero, pero este año seré primero. El año que viene, seré segundo.",
-      "imageLink": "ordinal-number.jpg",
+      "imageLink": "image_files\\English\\ordinal-number.jpg",
       "audioLink": "ordinal number.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Se extiende en la misma dirección, pero no se encuentran o intersectan, especialmente en cualquier punto.",
       "example": "Linie równoległe na papierze nigdy się nie spotykają, ale są równoległe do siebie. Wcześniej rysowałem dwie linie równoległe, a teraz rysuję kolejną parę. Będę rysował więcej linii równoległych jutro.",
       "example_translation": "Las líneas paralelas en el papel nunca se encuentran, pero eran paralelas entre sí. Anteriormente, había dibujado dos líneas paralelas, y ahora estoy dibujando otra pareja. Dibujaré más líneas paralelas mañana.",
-      "imageLink": "parallel.jpg",
+      "imageLink": "image_files\\English\\parallel.jpg",
       "audioLink": "parallel.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Un cuadrilátero con lados opuestos que son paralelos y iguales en longitud.",
       "example": "Nauczyciel narysował czworokąt równoległoboczny na tablicy, aby zilustrowaćConcept of geometry. Wczoraj budowałem czworokąt równoległoboczny używając liniałki i cyrkla. Jutro będziemy uczyć się, jak obliczyć pole czworokąta równoległobocznego.",
       "example_translation": "El maestro dibujó un paralelogramo en la pizarra para ilustrar el concepto de geometría. Ayer, construí un paralelogramo utilizando una regla y brújula. Mañana, aprenderemos a calcular el área de un paralelogramo.",
-      "imageLink": "parallelogram.jpg",
+      "imageLink": "image_files\\English\\parallelogram.jpg",
       "audioLink": "parallelogram.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Un polígono con cinco lados, especialmente uno con cinco lados iguales y ángulos iguales.",
       "example": "Pentagon jest siedzibą amerykańskiego departamentu obrony. Starożytni Grecy studiowali własności pięciokątów. Do końca tego semestru będziemy uczyć się, jak obliczyć obwód pięciokąta.",
       "example_translation": "El Pentágono es la sede del Departamento de Defensa de EE. UU. Los antiguos griegos estudiaron las propiedades de los pentágonos. Para fines de este semestre, habremos aprendido a calcular el perímetro de un pentágono.",
-      "imageLink": "pentagon.jpg",
+      "imageLink": "image_files\\English\\pentagon.jpg",
       "audioLink": "pentagon.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "En un ángulo recto con respecto a una línea o superficie dada; intersectando en un ángulo recto.",
       "example": "Drabina była prostopadła do ściany. Dwie linie są prostopadłe do siebie. Do następnego roku opanuję koncept linii prostopadłych.",
       "example_translation": "La escalera era perpendicular a la pared. Las dos líneas son perpendiculares entre sí. Para el próximo año, habré dominado el concepto de líneas perpendiculares.",
-      "imageLink": "perpendicular.jpg",
+      "imageLink": "image_files\\English\\perpendicular.jpg",
       "audioLink": "perpendicular.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Un número primo es un entero positivo que solo es divisible entre sí mismo y 1.",
       "example": "Wczoraj znalazłem liczbę pierwszą, rozwiązując problem matematyczny. Dziś będę próbował znaleźć kolejną. Jutro będę używał liczby pierwszej do zaszyfrowania wiadomości.",
       "example_translation": "Ayer, encontré un número primo mientras resolvía un problema de matemáticas. Hoy, intentaré encontrar otro. Mañana, utilizaré un número primo para cifrar un mensaje.",
-      "imageLink": "prime-number.jpg",
+      "imageLink": "image_files\\English\\prime-number.jpg",
       "audioLink": "prime number.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Un prisma es un elemento óptico transparente con superficies planas y pulidas que refractan la luz.",
       "example": "Naukowiec użył pryzmatu do rozdzielenia białego światła na jego składowe kolory. Pryzmat był bardzo przydatny w eksperymencie. Pryzmat będzie używany ponownie w przyszłości.",
       "example_translation": "El científico utilizó un prisma para separar la luz blanca en sus colores componentes. El prisma fue muy útil en el experimento. El prisma se utilizará nuevamente en el futuro.",
-      "imageLink": "prism.jpg",
+      "imageLink": "image_files\\English\\prism.jpg",
       "audioLink": "prism.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Un producto es un resultado ooutcome de un proceso o actividad.",
       "example": "Firma wprowadziła nowy produkt tydzień temu. Produkt był bardzo popularny wśród klientów. Produkt będzie ulepszony przyszłego roku.",
       "example_translation": "La empresa lanzó un nuevo producto la semana pasada. El producto fue muy popular entre los clientes. El producto se mejorará el próximo año.",
-      "imageLink": "product-1.jpg",
+      "imageLink": "image_files\\English\\product-1.jpg",
       "audioLink": "product.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "El teorema de Pitágoras es un concepto fundamental en geometría que describe la relación entre las longitudes de los lados de un triángulo rectángulo.",
       "example": "Uczeń wykorzystał twierdzenie Pitagorasa do obliczenia długości przeciwprostokątnej. Ona już wcześniej używała tego twierdzenia i będzie je stosować ponownie w swoich zadaniach matematycznych. Nauczyciel nauczy ich, jak zastosować twierdzenie w następnym tygodniu.",
       "example_translation": "El estudiante utilizó el teorema de Pitágoras para calcular la longitud de la hipotenusa. Ella lo había utilizado antes y lo utilizaría de nuevo en su tarea de matemáticas. El maestro les enseñará cómo aplicar el teorema la próxima semana.",
-      "imageLink": "pythagorean-theorem.jpg",
+      "imageLink": "image_files\\English\\pythagorean-theorem.jpg",
       "audioLink": "Pythagorean theorem.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Una ecuación cuadrática es una ecuación polinómica de grado dos, que se puede escribir en la forma ax^2 + bx + c = 0, donde a, b y c son constantes.",
       "example": "Uczeń miał trudności z rozwiązaniem równania kwadratowego, ale w końcu znalazł rozwiązanie. Ona już wcześniej rozwiązywała podobne równania i będzie rozwiązywać kolejne w swojej klasie algebry. Nauczyciel będzie przeglądał metodę rozwiązywania równań kwadratowych w następnym miesiącu.",
       "example_translation": "El estudiante luchó por resolver la ecuación cuadrática, pero finalmente encontró las soluciones. Ella había resuelto ecuaciones similares antes y resolvería más en su clase de álgebra. El maestro repasará el método para resolver ecuaciones cuadráticas el próximo mes.",
-      "imageLink": "quadratic-equation.jpg",
+      "imageLink": "image_files\\English\\quadratic-equation.jpg",
       "audioLink": "quadratic equation.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un cociente es el resultado de dividir una cantidad por otra, a menudo expresada como una fracción o un decimal.",
       "example": "Uczeń obliczył iloraz 12 i 3 i otrzymał 4. Ona już wcześniej obliczała ilorazy i będzie je obliczać w swojej klasie matematycznej. Nauczyciel będzie wyjaśniał, jak znaleźć iloraz dwóch wielomianów w następnym tygodniu.",
       "example_translation": "El estudiante calculó el cociente de 12 y 3, y obtuvo 4. Ella había calculado cocientes antes y calcularía más en su clase de matemáticas. El maestro explicará cómo encontrar el cociente de dos polinomios la próxima semana.",
-      "imageLink": "quotient.jpg",
+      "imageLink": "image_files\\English\\quotient.jpg",
       "audioLink": "quotient.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Un segmento de línea que une el centro de un círculo a cualquier punto de su circunferencia.",
       "example": "Promień koła wynosił 5 cm. Wczoraj obliczyłem promień koła. Jutro obliczę promień koła.",
       "example_translation": "El radio del círculo era de 5 cm. Ayer, calculé el radio del círculo. Mañana, calcularé el radio del círculo.",
-      "imageLink": "radius.jpg",
+      "imageLink": "image_files\\English\\radius.jpg",
       "audioLink": "radius.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Un número que se puede expresar como el cociente o fracción de dos enteros, como 3/4 o 22/7.",
       "example": "Liczba racjonalna 3/4 jest ułamkiem. Wczoraj napisałem liczbę racjonalną jako dziesiętną. Jutro dodam liczbę racjonalną do innej liczby racjonalnej.",
       "example_translation": "El número racional 3/4 es una fracción. Ayer, escribí un número racional como decimal. Mañana, agregaré un número racional a otro número racional.",
-      "imageLink": "rational-number.jpg",
+      "imageLink": "image_files\\English\\rational-number.jpg",
       "audioLink": "rational number.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Un número que se puede representar en la línea de números, incluyendo todos los números racionales e irracionales.",
       "example": "Liczba rzeczywista pi jest liczbą nieracjonalną. Wczoraj użyłem liczby rzeczywistej w równaniu matematycznym. Jutro naryszuję liczbę rzeczywistą na płaszczyźnie współrzędnych.",
       "example_translation": "El número real pi es un número irracional. Ayer, utilicé un número real en una ecuación matemática. Mañana, graficaré un número real en un plano de coordenadas.",
-      "imageLink": "real-number.jpg",
+      "imageLink": "image_files\\English\\real-number.jpg",
       "audioLink": "real number.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Un ángulo mayor de 180 grados pero menor de 360 grados, es decir, un ángulo que es mayor que una línea recta pero menor que un círculo completo.",
       "example": "Kąt refleksyjny utworzony przez wskazówki zegara o godzinie 6 jest równy 360 stopniom. Wczoraj narysowałem kąt refleksyjny w swoim zadaniu matematycznym. Jutro będę studiował, jak obliczyć kąty refleksyjne.",
       "example_translation": "El ángulo reflexivo formado por las manos de un reloj a las 6 en punto es de 360 grados. Ayer, dibujé un ángulo reflexivo en mi tarea de matemáticas. Mañana, estudiaré cómo calcular ángulos reflexivos.",
-      "imageLink": "reflex-angle.jpg",
+      "imageLink": "image_files\\English\\reflex-angle.jpg",
       "audioLink": "reflex angle.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Un cuadrilátero con todos los lados de igual longitud, donde los lados opuestos son paralelos y los ángulos opuestos son iguales.",
       "example": "Narysowałem romb z wszystkimi bokami o długości 5 cm na moim papierze. Romb ma cztery kąty prostokątne. Ona będzie narysować romb z przekątną o długości 10 cm jutro.",
       "example_translation": "Dibujé un rombo con todos los lados de 5 cm en mi papel. El rombo tiene cuatro ángulos rectos. Ella dibujará un rombo con una diagonal de 10 cm mañana.",
-      "imageLink": "rhombus.jpg",
+      "imageLink": "image_files\\English\\rhombus.jpg",
       "audioLink": "rhombus.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Un ángulo de 90 grados, formado por dos líneas o planos que se intersectan en un ángulo de 90 grados.",
       "example": "Dwie linie tworzą kąt prosty w rogach pokoju. Stolarz używa kąta prostego do budowy ramy prostokątnej. Nauczyciel wyjaśnił, jak narysować kąt prosty za pomocą kołka.",
       "example_translation": "Las dos líneas forman un ángulo recto en la esquina de la habitación. El carpintero utiliza un ángulo recto para construir el marco rectangular. El maestro explicó cómo dibujar un ángulo recto usando un transportador.",
-      "imageLink": "right-angle.jpg",
+      "imageLink": "image_files\\English\\right-angle.jpg",
       "audioLink": "right angle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Una raíz es parte de una planta que crece bajo tierra, anclando la planta y absorbiendo agua y nutrientes.",
       "example": "Korzeń drzewa został uszkodzony podczas burzy, więc musiał zostać usunięty. Drzewo miało system korzeniowy, który był rozległy i złożony. Korzeń problemu nie został zaadresowany, więc on trwał.",
       "example_translation": "La raíz del árbol fue dañada durante la tormenta, por lo que tuvo que ser eliminada. El árbol tenía un sistema de raíces que era extenso y complejo. La raíz del problema no fue abordada, por lo que persistió.",
-      "imageLink": "root-1.jpg",
+      "imageLink": "image_files\\English\\root-1.jpg",
       "audioLink": "root.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Una esfera es una forma tridimensional que es completamente redonda y no tiene esquinas ni bordes.",
       "example": "Ziemia jest sférmą, więc nie ma krawędzi ani rogów. Piłka była idealną sférą, co pozwoliło jej płynnie toczyć się. Sféra wpływu firmy jest ogromna i globalna.",
       "example_translation": "La Tierra es una esfera, por lo que no tiene bordes ni esquinas. La bola era una esfera perfecta, lo que le permitía rodar suavemente. La esfera de influencia de la empresa es vasta y global.",
-      "imageLink": "sphere.jpg",
+      "imageLink": "image_files\\English\\sphere.jpg",
       "audioLink": "sphere.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "La raíz cuadrada de un número es un valor que, cuando se multiplica por sí mismo, da el número original.",
       "example": "Pierwiastek kwadratowy 16 to 4, bo 4 pomnożone przez 4 daje 16. Musiała policzyć pierwiastek kwadratowy liczby, aby rozwiązać równanie. Pierwiastek kwadratowy problemu polegał na znalezieniu odpowiedniego rozwiązania.",
       "example_translation": "La raíz cuadrada de 16 es 4, porque 4 multiplicado por 4 es 16. Ella tuvo que calcular la raíz cuadrada del número para resolver la ecuación. La raíz cuadrada del problema fue encontrar la solución correcta.",
-      "imageLink": "square-root.jpg",
+      "imageLink": "image_files\\English\\square-root.jpg",
       "audioLink": "square root.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Un ángulo recto es un ángulo cuya medida es igual a 180 grados. Se forma cuando dos líneas se extienden hasta encontrarse en un punto, creando una línea recta.",
       "example": "Malarz upewnił się, że kąt prosty między dwiema ścianami był idealny. Wczoraj mierzyłem kąt prosty w rogu. Jeśli nie naprawimy kątu prostego dachu, zawali się on.",
       "example_translation": "El pintor aseguró que el ángulo recto entre las dos paredes fuera perfecto. Ayer, medí el ángulo recto de la esquina. Si no arreglamos el ángulo recto del techo, se derrumbará.",
-      "imageLink": "straight-angle.jpg",
+      "imageLink": "image_files\\English\\straight-angle.jpg",
       "audioLink": "straight angle.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Un subconjunto es un conjunto que contiene algunos o todos los elementos de otro conjunto, y es parte de ese conjunto. Es un grupo más pequeño de elementos dentro de un grupo más grande.",
       "example": "Zbiór liczb nieparzystych jest podzbiorem zbioru wszystkich liczb całkowitych. W zeszłym tygodniu uczyłem się podzbioru liczb pierwszych. Do następnego roku opanuję podzbiór wyrażeń algebraicznych.",
       "example_translation": "El conjunto de números impares es un subconjunto del conjunto de todos los enteros. La semana pasada, estudié el subconjunto de números primos. Para el próximo año, habré dominado el subconjunto de expresiones algebraicas.",
-      "imageLink": "subset.jpg",
+      "imageLink": "image_files\\English\\subset.jpg",
       "audioLink": "subset.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "La sustracción es una operación matemática que representa la operación de encontrar la diferencia entre dos números o cantidades. Es lo opuesto a la adición.",
       "example": "Uczyłem się odejmowania w szkole podstawowej. Wczoraj użyłem odejmowania, aby znaleźć różnicę między oszczędnościami a wydatkami. Do końca miesiąca opanuję odejmowanie dziesiętne.",
       "example_translation": "Aprendí sustracción en la escuela primaria. Ayer, utilicé sustracción para encontrar la diferencia entre mis ahorros y gastos. Para fines de mes, habré dominado la sustracción con decimales.",
-      "imageLink": "subtraction.jpg",
+      "imageLink": "image_files\\English\\subtraction.jpg",
       "audioLink": "subtraction.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Un concepto matemático que describe la relación entre el diámetro de un círculo y las longitudes de sus cuerdas.",
       "example": "W starożytnej Grecji twierdzenie Talesa było używane do obliczania odległości statków od brzegu. Dziś jest jeszcze używane w różnych dziedzinach, takich jak fizyka i inżynieria. Do 2050 roku twierdzenie Talesa będzie niezbędnym narzędziem w eksploracji kosmosu.",
       "example_translation": "En la antigua Grecia, el teorema de Tales se utilizó para calcular la distancia de los barcos desde la costa. Hoy en día, todavía se utiliza en various campos como la física e ingeniería. Para 2050, el teorema de Tales será una herramienta esencial para la exploración espacial.",
-      "imageLink": "thales-theorem.jpg",
+      "imageLink": "image_files\\English\\thales-theorem.jpg",
       "audioLink": "Thales' theorem.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Una superficie con forma de rosquilla generada por rotar un círculo en el espacio tridimensional.",
       "example": "Inżynier zaprojektował tunel w kształcie torusa, aby zmniejszyć opór powietrza. Torus był popularnym kształtem w architekturze przez wieki. Do roku 2100 naukowcy spodziewają się stworzyć zamieszkaną torus w kosmosie.",
       "example_translation": "El ingeniero diseñó un túnel con forma de rosquilla para reducir la resistencia del viento. La rosquilla ha sido una forma popular en arquitectura durante siglos. Para el año 2100, los científicos esperan crear un hábitat en forma de rosquilla en el espacio.",
-      "imageLink": "torus.jpg",
+      "imageLink": "image_files\\English\\torus.jpg",
       "audioLink": "torus.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Un cuadrilátero con dos pares de lados opuestos, donde un par es paralelo y el otro par no es paralelo.",
       "example": "Artystka namalowała trapez, aby stworzyć wrażenie głębi w swoim obrazie. Trapez jest podstawową koncepcją w geometrii. Do następnego roku opanuję sztukę rysowania trapezów.",
       "example_translation": "La artista dibujó una forma de trapecio para crear una sensación de profundidad en su pintura. El trapecio es un concepto fundamental en geometría. Para el próximo año, habré dominado el arte de dibujar trapecios.",
-      "imageLink": "trapezoid.jpg",
+      "imageLink": "image_files\\English\\trapezoid.jpg",
       "audioLink": "trapezoid.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Una cantidad con magnitud y dirección, a menudo representada gráficamente por una flecha en un diagrama. En física, los vectores se utilizan para describir cantidades como desplazamiento, velocidad y aceleración.",
       "example": "Wektor prędkości samochodu zmienił się, gdy skręcił w zakręcie. Profesor narysował diagram, aby pokazać siłę działającą na obiekt. Do 2050 roku naukowcy przewidują, że będziemy w stanie wykorzystać energię wektora Słońca.",
       "example_translation": "El vector de velocidad del coche cambió cuando dobló la esquina. El profesor dibujó un diagrama para ilustrar la fuerza vectorial que actúa sobre el objeto. Para el año 2050, los científicos predicen que habremos desarrollado un método para aprovechar el vector de energía del sol.",
-      "imageLink": "vector.jpg",
+      "imageLink": "image_files\\English\\vector.jpg",
       "audioLink": "vector.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Un ángulo cuya medida es cero grados, formado por dos líneas o planos que coinciden.",
       "example": "Kąt zero między dwiema liniami uczynił je nieodróżnialnymi. W geometrii kąt zero jest tworzony, gdy dwie linie się pokrywają. Ustawiając kąt na zero, możemy idealnie wyalignować dwie powierzchnie.",
       "example_translation": "El ángulo cero entre las dos líneas las hizo indistinguibles. En geometría, un ángulo cero se forma cuando dos líneas coinciden. Al establecer el ángulo en cero, podemos alinear las dos superficies perfectamente.",
-      "imageLink": "zero-angle.jpg",
+      "imageLink": "image_files\\English\\zero-angle.jpg",
       "audioLink": "zero angle.mp3"
     }
   ]

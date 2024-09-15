@@ -9,7 +9,7 @@
       "definition_translation": "Il quinto giorno della settimana, dopo il giovedì e prima del sabato.",
       "example": "I'm planning a party on Friday evening. Last Friday, I went to the movies. I will meet my friends on Friday next week.",
       "example_translation": "Sto pianificando una festa la sera del venerdì. Il venerdì scorso, sono andato al cinema. Mi incontrerò con i miei amici il venerdì prossimo settimana.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Il primo giorno della settimana, dopo la domenica e prima del martedì.",
       "example": "I always feel tired on Mondays. Last Monday, I had a meeting at work. I will start my new project on Monday next week.",
       "example_translation": "Mi sento sempre stanco il lunedì. Il lunedì scorso, ho avuto una riunione al lavoro. Inizierò il mio nuovo progetto il lunedì prossimo settimana.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Il settimo giorno della settimana, dopo il venerdì e prima della domenica.",
       "example": "I love going out on Saturdays. Last Saturday, I went to the park. I will attend a concert on Saturday next week.",
       "example_translation": "Adoro uscire il sabato. Il sabato scorso, sono andato al parco. Parteciperò a un concerto il sabato prossimo settimana.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Il settimo e ultimo giorno della settimana, dopo il sabato.",
       "example": "I always relax on Sundays. Last Sunday, I had a barbecue. I will go to the beach on Sunday next week.",
       "example_translation": "Mi rilasso sempre la domenica. La domenica scorsa, ho fatto un barbecue. Andrò al mare la domenica prossima settimana.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Il quarto giorno della settimana, dopo il mercoledì e prima del venerdì.",
       "example": "I have a class on Thursdays. Last Thursday, I had a test. I will meet my friends on Thursday next week.",
       "example_translation": "Ho una lezione il giovedì. Il giovedì scorso, ho avuto un esame. Mi incontrerò con i miei amici il giovedì prossimo settimana.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Il secondo giorno della settimana, dopo il lunedì e prima del mercoledì.",
       "example": "I have a meeting on Tuesdays. Last Tuesday, I went to the gym. I will start my new job on Tuesday next week.",
       "example_translation": "Ho una riunione il martedì. Il martedì scorso, sono andato in palestra. Inizierò il mio nuovo lavoro il martedì prossimo settimana.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Il terzo giorno della settimana, dopo il martedì e prima del giovedì.",
       "example": "I have a class on Wednesdays. Last Wednesday, I had a project deadline. I will attend a seminar on Wednesday next week.",
       "example_translation": "Ho una lezione il mercoledì. Il mercoledì scorso, ho avuto una scadenza del progetto. Parteciperò a un seminario il mercoledì prossimo settimana.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

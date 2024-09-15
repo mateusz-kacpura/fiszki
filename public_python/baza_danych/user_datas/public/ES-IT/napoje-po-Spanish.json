@@ -9,7 +9,7 @@
       "definition_translation": "una bebida fermentada hecha de cereales maltados, típicamente cebada, y aromatizada con lúpulo",
       "example": "Bebí una cerveza ayer, estoy bebiendo una cerveza ahora y beberé una cerveza mañana.",
       "example_translation": "Bebí una cerveza ayer, estoy bebiendo una cerveza ahora, y beberé una cerveza mañana.",
-      "imageLink": "beer.jpg",
+      "imageLink": "image_files\\English\\beer.jpg",
       "audioLink": "beer.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "una bebida caliente hecha de las semillas tostadas de una planta tropical",
       "example": "Bebí un café esta mañana, estoy bebiendo un café ahora y beberé un café esta noche.",
       "example_translation": "Bebí un café esta mañana, estoy bebiendo un café ahora, y beberé un café esta noche.",
-      "imageLink": "coffee.jpg",
+      "imageLink": "image_files\\English\\coffee.jpg",
       "audioLink": "coffee.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "una bebida dulce y carbonatada con sabor a vainilla y que contiene cafeína",
       "example": "Bebí una Coca ayer, estoy bebiendo una Coca ahora y beberé una Coca en la fiesta.",
       "example_translation": "Bebí una Coca-Cola ayer, estoy bebiendo una Coca-Cola ahora, y beberé una Coca-Cola en la fiesta.",
-      "imageLink": "coke.jpg",
+      "imageLink": "image_files\\English\\coke.jpg",
       "audioLink": "Coke.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ingerir un líquido, como agua o jugo, en el cuerpo a través de la boca.",
       "example": "Bebí agua ayer, bebo jugo ahora y beberé leche mañana.",
       "example_translation": "Bebí agua ayer, bebo jugo ahora, y beberé leche mañana.",
-      "imageLink": "drink-1.jpg",
+      "imageLink": "image_files\\English\\drink-1.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Una sustancia líquida que se contiene naturalmente en frutas o verduras, utilizada como bebida.",
       "example": "Bebí jugo de naranja ayer, bebo jugo de manzana ahora y beberé jugo de uva mañana.",
       "example_translation": "Bebí jugo de naranja ayer, bebo jugo de manzana ahora, y beberé jugo de uva mañana.",
-      "imageLink": "juice.jpg",
+      "imageLink": "image_files\\English\\juice.jpg",
       "audioLink": "juice.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un líquido producido por las glándulas mamarias de los mamíferos hembras, utilizado como alimento.",
       "example": "Bebí leche cuando era niño, bebo leche ahora y beberé leche cuando sea anciano.",
       "example_translation": "Bebí leche cuando era niño, bebo leche ahora, y beberé leche cuando sea anciano.",
-      "imageLink": "milk.jpg",
+      "imageLink": "image_files\\English\\milk.jpg",
       "audioLink": "milk.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "una bebida dulce y ácida hecha con el jugo de naranjas",
       "example": "Bebí jugo de naranja para desayunar, estoy bebiendo ahora y beberé mañana.",
       "example_translation": "Bebí jugo de naranja para desayunar, ahora lo estoy bebiendo, y lo beberé mañana.",
-      "imageLink": "orange-juice.jpg",
+      "imageLink": "image_files\\English\\orange-juice.jpg",
       "audioLink": "orange juice.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "una bebida caliente o fría hecha con las hojas de la planta de té",
       "example": "Bebí té ayer, estoy bebiendo ahora y beberé esta noche.",
       "example_translation": "Bebí té ayer, ahora lo estoy bebiendo, y lo beberé esta noche.",
-      "imageLink": "tea.jpg",
+      "imageLink": "image_files\\English\\tea.jpg",
       "audioLink": "tea.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "una bebida sabrosa hecha con el jugo de tomates",
       "example": "Bebí jugo de tomate con mi desayuno, estoy bebiendo con mi almuerzo y beberé con mi cena.",
       "example_translation": "Bebí jugo de tomate con mi desayuno, ahora lo estoy bebiendo con mi almuerzo, y lo beberé con mi cena.",
-      "imageLink": "tomato-juice.jpg",
+      "imageLink": "image_files\\English\\tomato-juice.jpg",
       "audioLink": "tomato juice.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Una sustancia líquida clara, incolora, inodora y sin sabor que forma los mares, lagos, ríos y lluvia y es la base de los fluidos de los organismos vivos.",
       "example": "Bebí agua de la botella. Beberé agua de la fuente. Había bebido agua del grifo.",
       "example_translation": "Bebí agua de la botella. Beberé agua de la fuente. Había bebido agua del grifo.",
-      "imageLink": "water.jpg",
+      "imageLink": "image_files\\English\\water.jpg",
       "audioLink": "water.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Una bebida fermentada hecha de uvas, cuyo jugo ha sido convertido en alcohol por la acción de la levadura.",
       "example": "Bebí vino en la cena. Beberé vino en la fiesta. Había bebido vino en la boda.",
       "example_translation": "Bebí vino en la cena. Beberé vino en la fiesta. Había bebido vino en la boda.",
-      "imageLink": "wine.jpg",
+      "imageLink": "image_files\\English\\wine.jpg",
       "audioLink": "wine.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un líquido incoloro, volátil y inflamable obtenido por fermentación de azúcares, utilizado como disolvente y en various aplicaciones industriales y medicinales.",
       "example": "Bebo alcohol ocasionalmente. Beberé alcohol en el bar. Había bebido alcohol en el club.",
       "example_translation": "Bebo alcohol ocasionalmente. Beberé alcohol en el bar. Había bebido alcohol en el club.",
-      "imageLink": "alcohol.jpg",
+      "imageLink": "image_files\\English\\alcohol.jpg",
       "audioLink": "alcohol.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Una bebida dulce y refrescante hecha de manzanas, a menudo consumida como una opción saludable.",
       "example": "Bebí jugo de manzana ayer, bebo jugo de manzana cada mañana, y beberé jugo de manzana mañana.",
       "example_translation": "Bebí jugo de manzana ayer, bebo jugo de manzana todas las mañanas y beberé jugo de manzana mañana.",
-      "imageLink": "apple-juice.jpg",
+      "imageLink": "image_files\\English\\apple-juice.jpg",
       "audioLink": "apple juice.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un tipo de vino espumoso originario de la región de Champaña en Francia, a menudo servido en celebraciones y ocasiones especiales.",
       "example": "Abrimos champán anoche para celebrar nuestro aniversario, abriremos champán en nuestra boda, y abriremos champán en Nochevieja.",
       "example_translation": "Abrimos champaña anoche para celebrar nuestro aniversario, vamos a abrir champaña en nuestra boda y abrirán champaña en la víspera de Año Nuevo.",
-      "imageLink": "champagne.jpg",
+      "imageLink": "image_files\\English\\champagne.jpg",
       "audioLink": "champagne.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Una bebida dulce y efervescente saborizada con vainilla y canela, a menudo consumida como una bebida refrescante.",
       "example": "Bebí cola en la fiesta, bebo cola con mi pizza, y beberé cola en la playa.",
       "example_translation": "Bebí cola en la fiesta, bebo cola con mi pizza y beberé cola en la playa.",
-      "imageLink": "cola.jpg",
+      "imageLink": "image_files\\English\\cola.jpg",
       "audioLink": "cola.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Tomar líquido en el cuerpo a través de la boca.",
       "example": "Bebí café ayer, bebo todos los días, y beberé mañana.",
       "example_translation": "Bebo café ayer, lo bebo todas las mañanas y lo beberé mañana.",
-      "imageLink": "drink-2.jpg",
+      "imageLink": "image_files\\English\\drink-2.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Una bebida dulce hecha con chocolate derretido, leche y azúcar, servida caliente.",
       "example": "Sorbí chocolate caliente mientras veía la nieve caer el invierno pasado, bebo en días fríos, y disfrutaré en la próxima Navidad.",
       "example_translation": "Me tomé chocolate caliente mientras veía la nieve caer el invierno pasado, lo bebo en días fríos y lo disfrutaré la próxima Navidad.",
-      "imageLink": "hot-chocolate.jpg",
+      "imageLink": "image_files\\English\\hot-chocolate.jpg",
       "audioLink": "hot chocolate.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una bebida dulce hecha con jugo de limón, azúcar y agua.",
       "example": "Bebí limonada en el picnic el verano pasado, la hago para mis invitados hoy, y la venderé en la feria el próximo mes.",
       "example_translation": "Me tomé limonada en el picnic el verano pasado, la hago para mis invitados hoy y la venderé en la feria el próximo mes.",
-      "imageLink": "lemonade.jpg",
+      "imageLink": "image_files\\English\\lemonade.jpg",
       "audioLink": "lemonade.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Una bebida dulce y espumosa hecha con leche, helado y usualmente sabores, servida típicamente fría.",
       "example": "Bebí un batido en el diner ayer, estoy bebiendo un batido ahora, y beberé un batido mañana.",
       "example_translation": "Bebí un batido de leche en el diner ayer, estoy bebiendo un batido de leche ahora, y beberé un batido de leche mañana.",
-      "imageLink": "milkshake.jpg",
+      "imageLink": "image_files\\English\\milkshake.jpg",
       "audioLink": "milkshake.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Agua que es naturalmente rica en minerales, a menudo embotellada y vendida como una bebida saludable natural.",
       "example": "Bebí una botella de agua mineral después del entrenamiento ayer, estoy bebiendo una botella de agua mineral ahora, y beberé una botella de agua mineral después del entrenamiento mañana.",
       "example_translation": "Bebí una botella de agua mineral después del entrenamiento ayer, estoy bebiendo una botella de agua mineral ahora, y beberé una botella de agua mineral después del entrenamiento mañana.",
-      "imageLink": "mineral-water.jpg",
+      "imageLink": "image_files\\English\\mineral-water.jpg",
       "audioLink": "mineral water.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Una bebida dulce y carbonatada, típicamente saborizada y servida fría.",
       "example": "Bebí una bebida suave en la fiesta ayer, estoy bebiendo una bebida suave ahora y beberé una bebida suave en la fiesta mañana.",
       "example_translation": "Bebí una bebida suave en la fiesta ayer, estoy bebiendo una bebida suave ahora, y beberé una bebida suave en la fiesta mañana.",
-      "imageLink": "soft-drink.jpg",
+      "imageLink": "image_files\\English\\soft-drink.jpg",
       "audioLink": "soft drink.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un cóctel es una bebida mezclada que suele contener alcohol, jugo de fruta y otros saborizantes, servida en un vaso con hielo.",
       "example": "Pedí un cóctel en el bar la noche pasada. El bartender está mezclando un cóctel para la fiesta tonight. Creará un nuevo cóctel para el menú del restaurante el próximo mes.",
       "example_translation": "Pedí un cóctel en el bar anoche. El bartender está mezclando un cóctel para la fiesta esta noche. Creará un nuevo cóctel para el menú del restaurante el próximo mes.",
-      "imageLink": "cocktail.jpg",
+      "imageLink": "image_files\\English\\cocktail.jpg",
       "audioLink": "cocktail.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "El cacao es un polvo hecho de granos de cacao tostados, utilizado para hacer chocolate y otros alimentos dulces.",
       "example": "Bebí cacao caliente cada mañana. Ella usó polvo de cacao para hornear la tarta ayer. Él hará un delicioso cacao caliente para el festival de invierno próximo año.",
       "example_translation": "Bebí cacao caliente todas las mañanas. Ella usó polvo de cacao para hornear la torta ayer. Él hará un delicioso cacao caliente para el festival de invierno el año que viene.",
-      "imageLink": "cocoa.jpg",
+      "imageLink": "image_files\\English\\cocoa.jpg",
       "audioLink": "cocoa.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Una bebida con gas es una bebida carbonatada que hace burbujas o espuma, como soda o agua con gas.",
       "example": "Prefiero bebidas con gas al agua quieta. Ella amó la bebida con gas en la fiesta el fin de semana pasado. Ellos lanzarán un nuevo producto de bebida con gas el próximo verano.",
       "example_translation": "Prefiero bebidas con gas que agua estancada. Ella amó la bebida con gas en la fiesta el fin de semana pasado. Ellos lanzarán un nuevo producto de bebida con gas el próximo verano.",
-      "imageLink": "fizzy-drink.jpg",
+      "imageLink": "image_files\\English\\fizzy-drink.jpg",
       "audioLink": "fizzy drink.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un tipo de café que se puede preparar rápidamente añadiendo agua caliente a un polvo o granulos.",
       "example": "Siempre tengo un paquete de café instantáneo en mi oficina para un impulso de energía rápido. Ayer, hice una taza de café instantáneo durante mi descanso. Para el próximo mes, habré cambiado a café fresco.",
       "example_translation": "Siempre tengo un paquete de café instantáneo en mi oficina para un estímulo de energía rápido. Ayer, hice una taza de café instantáneo durante mi descanso. Para el mes que viene, habré cambiado a café recién hecho.",
-      "imageLink": "instant-coffee.jpg",
+      "imageLink": "image_files\\English\\instant-coffee.jpg",
       "audioLink": "instant coffee.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un líquido espiritual claro, incoloro y sin sabor, típicamente hecho con granos como trigo o centeno, y a menudo saborizado con frutas o hierbas.",
       "example": "Probé vodka por primera vez en una fiesta el año pasado. Ahora, prefiero vodka sobre otros espíritus. Para el próximo verano, habré experimentado con diferentes cócteles basados en vodka.",
       "example_translation": "Probé el vodka por primera vez en una fiesta el año pasado. Ahora, prefiero el vodka sobre otros espíritus. Para el próximo verano, habré experimentado con cócteles diferentes basados en vodka.",
-      "imageLink": "vodka.jpg",
+      "imageLink": "image_files\\English\\vodka.jpg",
       "audioLink": "vodka.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un tipo de espíritu hecho con mosto de grano fermentado, típicamente envejecido en barricas de madera, con un sabor y aroma características.",
       "example": "Mi abuelo siempre bebía whisky en ocasiones especiales. El fin de semana pasado, probé whisky por primera vez y me encantó. Para la próxima Navidad, habré aprendido a apreciar los diferentes tipos de whisky.",
       "example_translation": "Mi abuelo siempre bebía whisky en ocasiones especiales. El fin de semana pasado, probé el whisky por primera vez y me encantó. Para la próxima Navidad, habré aprendido a apreciar los diferentes tipos de whisky.",
-      "imageLink": "whisky.jpg",
+      "imageLink": "image_files\\English\\whisky.jpg",
       "audioLink": "whisky.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una compota es un plato hecho de fruta fresca o seca, a menudo servido como postre o guarnición, caracterizado por su textura dulce y tierna.",
       "example": "Comí una deliciosa compota en la fiesta de noche. Ahora estoy haciendo una compota para la reunión familiar de esta noche. Para el próximo año, habré perfeccionado mi receta de compota.",
       "example_translation": "Me comí una deliciosa compota en la fiesta de cena anoche. Ahora estoy haciendo una compota para la reunión familiar de esta noche. Para el próximo año, habré perfeccionado mi receta de compota.",
-      "imageLink": "compote.jpg",
+      "imageLink": "image_files\\English\\compote.jpg",
       "audioLink": "compote.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "El café descafeinado es un tipo de café que ha tenido la mayoría de su cafeína eliminada, lo que lo hace una opción popular para aquellos que desean disfrutar del sabor del café sin los efectos estimulantes.",
       "example": "Mi abuela siempre prefería café descafeinado porque no podía dormir por la noche. Después de probar café descafeinado, me di cuenta de que no era mi taza de café. Para cuando tenga 60 años, probablemente cambiaré a café descafeinado.",
       "example_translation": "Mi abuela siempre prefirió el café descafeinado porque no podía dormir por la noche. Después de probar el café descafeinado, me di cuenta de que no era mi taza de té. Para cuando tenga 60 años, probablemente cambiaré a café descafeinado.",
-      "imageLink": "decaffeinated-coffee.jpg",
+      "imageLink": "image_files\\English\\decaffeinated-coffee.jpg",
       "audioLink": "decaffeinated coffee.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Una seudocerveza es una bebida refrescante hecha mezclando cerveza con una bebida no alcohólica, como soda de limón-lima o jugo de fruta, a menudo servida durante el clima cálido.",
       "example": "Me encanta beber shandy en un día caliente de verano. Ayer, pedí un shandy en el bar de la playa. Para el próximo verano, habré perfeccionado mi propia receta de shandy.",
       "example_translation": "Me encanta beber seudocerveza en un día de verano caliente. Ayer, pedí una seudocerveza en el bar de la playa. Para el próximo verano, habré perfeccionado mi propia receta de seudocerveza.",
-      "imageLink": "shandy.jpg",
+      "imageLink": "image_files\\English\\shandy.jpg",
       "audioLink": "shandy.mp3"
     }
   ]

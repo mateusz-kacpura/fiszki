@@ -9,7 +9,7 @@
       "definition_translation": "itens usados para cobrir o corpo, como camisas, calças, vestidos e assim por diante",
       "example": "Me puse mi ropa favorita para la fiesta de anoche, me pondré ropa para la playa mañana y me puse ropa para la escuela ayer.",
       "example_translation": "Eu usei minhas roupas favoritas no partido ontem à noite, vou usá-las na praia amanhã e usei-as na escola ontem.",
-      "imageLink": "clothes.jpg",
+      "imageLink": "image_files\\English\\clothes.jpg",
       "audioLink": "clothes.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "um vestido externo usado para se manter quente, tipicamente feito de tecido grosso",
       "example": "Me puse un abrigo para el festival de invierno del año pasado, me pondré para las montañas la próxima semana y me puse para el parque ayer.",
       "example_translation": "Eu usei um casaco no festival de inverno do ano passado, vou usá-lo nas montanhas na próxima semana e usei-o no parque ontem.",
-      "imageLink": "coat.jpg",
+      "imageLink": "image_files\\English\\coat.jpg",
       "audioLink": "coat.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "um vestido único para mulheres, tipicamente usado para ocasiões especiais",
       "example": "Me puse un vestido para la boda del mes pasado, me pondré para la fiesta del próximo fin de semana y me puse para la ceremonia de ayer.",
       "example_translation": "Eu usei um vestido no casamento do mês passado, vou usá-lo no partido no próximo fim de semana e usei-o na cerimônia ontem.",
-      "imageLink": "dress.jpg",
+      "imageLink": "image_files\\English\\dress.jpg",
       "audioLink": "dress.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "um cobertura para a cabeça, tipicamente feito de tecido ou palha, usado para proteção ou como acessório de moda",
       "example": "Me puse un sombrero para la playa de ayer, me pondré para la fiesta de jardín del próximo domingo y me puse para el museo la semana pasada.",
       "example_translation": "Eu usei um chapéu na praia ontem, vou usá-lo no partido do jardim no próximo domingo e usei-o no museu na semana passada.",
-      "imageLink": "hat.jpg",
+      "imageLink": "image_files\\English\\hat.jpg",
       "audioLink": "hat.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "calças feitas de denim ou outra fazenda forte, projetadas para uso casual",
       "example": "Me puse vaqueros para la fiesta de anoche, los vaqueros los uso para trabajar todos los días y me pondré vaqueros para la playa mañana.",
       "example_translation": "Eu usei calças para a festa ontem à noite, eu uso calças para trabalho todos os dias e usarei calças para a praia amanhã.",
-      "imageLink": "jeans.jpg",
+      "imageLink": "image_files\\English\\jeans.jpg",
       "audioLink": "jeans.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "uma roupa usada na parte superior do corpo, normalmente tendo um colarinho e mangas",
       "example": "Me puse una camisa para la oficina de ayer, uso una camisa para el gimnasio todas las mañanas y me pondré una camisa para la boda del próximo semana.",
       "example_translation": "Eu usei uma camisa para o escritório ontem, eu uso uma camisa para a academia todas as manhãs e usarei uma camisa para o casamento na próxima semana.",
-      "imageLink": "shirt.jpg",
+      "imageLink": "image_files\\English\\shirt.jpg",
       "audioLink": "shirt.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "uma cobertura para o pé, normalmente feita de couro, materiais sintéticos ou outros materiais",
       "example": "Me puse zapatos para el parque la semana pasada, los zapatos los uso para trabajar todos los días y me pondré zapatos para la excursión de senderismo del próximo mes.",
       "example_translation": "Eu usei sapatos para o parque no fim de semana passado, eu uso sapatos para trabalho todos os dias e usarei sapatos para a viagem de caminhada no próximo mês.",
-      "imageLink": "shoe.jpg",
+      "imageLink": "image_files\\English\\shoe.jpg",
       "audioLink": "shoe.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "uma roupa usada por mulheres, normalmente fluindo da cintura e pendendo abaixo dos joelhos",
       "example": "Me puse una falda para la fiesta de anoche, la falda la uso para la iglesia todos los domingos y me pondré una falda para el show de baile del próximo año.",
       "example_translation": "Eu usei uma saia para a festa ontem à noite, eu uso uma saia para a igreja todas as domingos e usarei uma saia para o show de dança no próximo ano.",
-      "imageLink": "skirt.jpg",
+      "imageLink": "image_files\\English\\skirt.jpg",
       "audioLink": "skirt.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Uma camiseta é um tipo de roupa casual que cobre o corpo superior, tipicamente feita de algodão, poliéster ou uma mistura de fibras.",
       "example": "Me puse una camiseta para la fiesta de anoche. Me pondré una camiseta para el partido de mañana. Me puse una camiseta para la playa de ayer.",
       "example_translation": "Eu usei uma camiseta na festa ontem à noite. Eu usarei uma camiseta no jogo amanhã. Eu usei uma camiseta na praia ontem.",
-      "imageLink": "t-shirt.jpg",
+      "imageLink": "image_files\\English\\t-shirt.jpg",
       "audioLink": "T-shirt.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Calças são um tipo de roupa que cobre o corpo inferior, tipicamente feita de tecido, e é usada desde a cintura para baixo.",
       "example": "Me puse pantalones para la oficina de ayer. Me pondré pantalones para la boda de mañana. Me puse pantalones para la excursión de senderismo la semana pasada.",
       "example_translation": "Eu usei calças no escritório ontem. Eu usarei calças no casamento amanhã. Eu usei calças na viagem de caminhada da semana passada.",
-      "imageLink": "trousers.jpg",
+      "imageLink": "image_files\\English\\trousers.jpg",
       "audioLink": "trousers.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Uma bota é um tipo de calçado que cobre o pé e o tornozelo, tipicamente feita de couro ou materiais sintéticos.",
       "example": "Me puse botas en la granja ayer. Me pondré botas en el concierto mañana. Me puse botas en la nieve el invierno pasado.",
       "example_translation": "Eu usei botas na fazenda ontem. Eu usarei botas no concerto amanhã. Eu usei botas na neve no inverno passado.",
-      "imageLink": "boot.jpg",
+      "imageLink": "image_files\\English\\boot.jpg",
       "audioLink": "boot.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Um gorro é um tipo de acessório para a cabeça que cobre o topo da cabeça, tipicamente feito de tecido ou plástico.",
       "example": "Me puse una gorra en el partido de béisbol la semana pasada. Me pondré una gorra en el desfile mañana. Me puse una gorra en el viaje de pesca ayer.",
       "example_translation": "Eu usei um gorro no jogo de beisebol da semana passada. Eu usarei um gorro no desfile amanhã. Eu usei um gorro na viagem de pesca ontem.",
-      "imageLink": "cap.jpg",
+      "imageLink": "image_files\\English\\cap.jpg",
       "audioLink": "cap.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Uma luva é um vestuário usado na mão para fornecer calor, proteção ou aderência.",
       "example": "Me puse un guante para jugar golf ayer, me pongo guantes para jugar golf, me pondré un guante para jugar golf mañana.",
       "example_translation": "Eu usei uma luva para jogar golfe ontem, eu uso luvas para jogar golfe, eu usarei uma luva para jogar golfe amanhã.",
-      "imageLink": "glove.jpg",
+      "imageLink": "image_files\\English\\glove.jpg",
       "audioLink": "glove.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Uma jaqueta é um tipo de roupa usada no corpo superior, geralmente tendo mangas e uma abertura na frente.",
       "example": "Me puse una chaqueta para salir, estoy poniéndome una chaqueta, me pondré una chaqueta para salir.",
       "example_translation": "Eu pus uma jaqueta para sair, eu estou colocando uma jaqueta, eu vou colocar uma jaqueta para sair.",
-      "imageLink": "jacket.jpg",
+      "imageLink": "image_files\\English\\jacket.jpg",
       "audioLink": "jacket.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Um pullover é um tipo de roupa usada no corpo superior, geralmente sem mangas e sem colarinho.",
       "example": "Ella se puso un suéter para ir a la escuela, ella se pone un suéter para ir a la escuela, ella se pondrá un suéter para ir a la escuela.",
       "example_translation": "Ela usou um pullover para a escola, ela usa um pullover para a escola, ela usará um pullover para a escola.",
-      "imageLink": "jumper.jpg",
+      "imageLink": "image_files\\English\\jumper.jpg",
       "audioLink": "jumper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Um bolso é uma pequena bolsa ou envelope costurada em ou anexada a roupa, usado para carregar itens pequenos.",
       "example": "Puse mi teléfono en mi bolsillo, estoy poniendo mi teléfono en mi bolsillo, pondré mi teléfono en mi bolsillo.",
       "example_translation": "Eu pus meu telefone no meu bolso, eu estou colocando meu telefone no meu bolso, eu vou colocar meu telefone no meu bolso.",
-      "imageLink": "pocket.jpg",
+      "imageLink": "image_files\\English\\pocket.jpg",
       "audioLink": "pocket.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Uma capa de chuva é um casaco à prova de água ou resistente à água usado para proteger o corpo da chuva",
       "example": "Me puse un impermeable para protegerme de la lluvia fuerte ayer. Me pondré un impermeable para el festival mañana. He llevado un impermeable cada vez que llueve.",
       "example_translation": "Eu usei uma capa de chuva para proteger-me da chuva pesada ontem. Vou usar uma capa de chuva para o festival amanhã. Eu uso uma capa de chuva todas as vezes que chove.",
-      "imageLink": "raincoat.jpg",
+      "imageLink": "image_files\\English\\raincoat.jpg",
       "audioLink": "raincoat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Um lenço é um pedaço de tecido usado em volta do pescoço para se esquentar ou como acessório de moda",
       "example": "Ella se anudó una bufanda alrededor del cuello para mantener el calor. Él se pondrá una bufanda para la fiesta esta noche. Han llevado bufandas al festival de invierno cada año.",
       "example_translation": "Ela amarrou um lenço em volta do pescoço para se manter quente. Ele vai usar um lenço para a festa esta noite. Eles usaram lenços para o festival de inverno todos os anos.",
-      "imageLink": "scarf.jpg",
+      "imageLink": "image_files\\English\\scarf.jpg",
       "audioLink": "scarf.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Calças curtas são um tipo de calça curta usada em tempo quente para confort e conveniência",
       "example": "Me puse pantalones cortos en la playa ayer. Ella se pondrá pantalones cortos para el picnic mañana. Han llevado pantalones cortos al parque todos los domingos.",
       "example_translation": "Eu usei calças curtas para a praia ontem. Ela vai usar calças curtas para o piquenique amanhã. Eles usam calças curtas para o parque todos os domingos.",
-      "imageLink": "shorts.jpg",
+      "imageLink": "image_files\\English\\shorts.jpg",
       "audioLink": "shorts.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Uma meia é uma peça de roupa usada no pé, geralmente feita de algodão ou materiais sintéticos",
       "example": "Me puse un calcetín en mi pie izquierdo ayer. Ella se pondrá calcetines para ir al gimnasio mañana. Han llevado calcetines al sendero de hiking todos los fines de semana.",
       "example_translation": "Eu usei uma meia no meu pé esquerdo ontem. Ela vai usar meias para a academia amanhã. Eles usam meias para a trilha de caminhada todos os fins de semana.",
-      "imageLink": "sock.jpg",
+      "imageLink": "image_files\\English\\sock.jpg",
       "audioLink": "sock.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Um conjunto de roupas, normalmente incluindo uma jaqueta e calças, usado para ocasiões formais ou negócios.",
       "example": "Me puse un traje para la entrevista de trabajo ayer, me lo pondré para la fiesta de la oficina mañana, y me lo puse para la boda el año pasado.",
       "example_translation": "Eu usei um terno para a entrevista de emprego ontem, vou usá-lo para a festa da empresa amanhã e usei-o para o casamento no ano passado.",
-      "imageLink": "suit.jpg",
+      "imageLink": "image_files\\English\\suit.jpg",
       "audioLink": "suit.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Um vestuário quente, feito de malha, normalmente usado sobre uma camisa, muitas vezes feito de lã ou algodão.",
       "example": "He llevado un suéter al viaje de esquí la semana pasada, me lo estoy poniendo ahora, y me lo pondré al viaje de camping el mes que viene.",
       "example_translation": "Eu usei um suéter para a viagem de snowboarding semana passada, estou usando agora e usarei para a viagem de camping no mês que vem.",
-      "imageLink": "sweater.jpg",
+      "imageLink": "image_files\\English\\sweater.jpg",
       "audioLink": "sweater.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um vestuário usado para nadar, normalmente feito de material leve e rápido para secar.",
       "example": "Me puse un traje de baño para ir a la playa ayer, me lo pondré para ir a la piscina mañana, y me lo puse para ir al parque acuático el verano pasado.",
       "example_translation": "Eu usei um traje de banho para a praia ontem, vou usá-lo para a piscina amanhã e usei-o para o parque aquático no verão passado.",
-      "imageLink": "swimming-costume.jpg",
+      "imageLink": "image_files\\English\\swimming-costume.jpg",
       "audioLink": "swimming costume.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um vestuário usado para nadar, normalmente feito de material leve e rápido para secar, muitas vezes usado por mulheres.",
       "example": "Ella se puso un traje de baño femenino para ir a la playa el verano pasado, se lo pondrá para ir a la fiesta de la piscina la próxima semana, y se lo puso para ir a la clase de aeróbicos acuáticos ayer.",
       "example_translation": "Ela usou um maiô para a praia no verão passado, vai usá-lo para a festa da piscina na semana que vem e usou-o para a aula de aeróbicos na piscina ontem.",
-      "imageLink": "swimsuit.jpg",
+      "imageLink": "image_files\\English\\swimsuit.jpg",
       "audioLink": "swimsuit.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "um comprimento de tecido usado ao redor do pescoço, tipicamente como parte do traje formal de um homem",
       "example": "Me até la corbata para la entrevista de trabajo. Me estoy atando la corbata para la boda. Me ataré la corbata para la fiesta.",
       "example_translation": "Eu amarrei minha gravata para a entrevista de emprego. Estou amarrando minha gravata para o casamento. Vou amarrar minha gravata para a festa.",
-      "imageLink": "tie.jpg",
+      "imageLink": "image_files\\English\\tie.jpg",
       "audioLink": "tie.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "vestimentas justas que cobrem as pernas, tipicamente feitas de tecido elástico",
       "example": "Me puse medias para la presentación de danza. Me estoy poniendo medias para la fiesta. Me pondré medias para el ballet.",
       "example_translation": "Eu usei meias para o desempenho de dança. Estou usando meias para a festa. Vou usar meias para o balé.",
-      "imageLink": "tights.jpg",
+      "imageLink": "image_files\\English\\tights.jpg",
       "audioLink": "tights.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "sapatos esportivos leves projetados para corrida, jogging ou outras formas de exercício",
       "example": "Me puse mis zapatillas para el maratón. Me estoy poniendo mis zapatillas para ir al gimnasio. Me pondré mis zapatillas para la pista.",
       "example_translation": "Eu coloquei meus tênis para o maratona. Estou usando meus tênis para a academia. Vou usar meus tênis para a pista.",
-      "imageLink": "trainers.jpg",
+      "imageLink": "image_files\\English\\trainers.jpg",
       "audioLink": "trainers.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "um conjunto de roupas usado por membros de um grupo ou organização particular",
       "example": "Me puse mi uniforme para ir a la escuela. Me estoy poniendo mi uniforme para ir a trabajar. Me pondré mi uniforme para el desfile.",
       "example_translation": "Eu usei meu uniforme para a escola. Estou usando meu uniforme para o trabalho. Vou usar meu uniforme para o desfile.",
-      "imageLink": "uniform.jpg",
+      "imageLink": "image_files\\English\\uniform.jpg",
       "audioLink": "uniform.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Uma blusa é um tipo de roupa superior que é tipicamente usada por mulheres. É geralmente feita de um tecido leve e tem botões ou outros fechos na frente.",
       "example": "Me puse una blusa para ir a trabajar ayer. Me estoy poniendo una blusa para la fiesta esta noche. Me pondré una blusa para la boda la próxima semana.",
       "example_translation": "Eu usei uma blusa para trabalhar ontem. Estou usando uma blusa para a festa esta noite. Vou usar uma blusa para o casamento no próximo fim de semana.",
-      "imageLink": "blouse.jpg",
+      "imageLink": "image_files\\English\\blouse.jpg",
       "audioLink": "blouse.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Um colarinho é uma parte de uma camisa ou vestido que se ajusta ao redor do pescoço. Pode ser formal ou informal e é frequentemente decorado com botões ou bordados.",
       "example": "El perro llevaba un cuello con una etiqueta con su nombre. Tuve que planchar el cuello de mi camisa antes de la reunión. Ella agregará un nuevo cuello a su vestido para el desfile de moda.",
       "example_translation": "O cão usava um colarinho com uma etiqueta de nome. Tive que passar a ferro o colarinho da minha camisa antes da reunião. Ela vai acrescentar um novo colarinho ao seu vestido para o desfile de moda.",
-      "imageLink": "collar.jpg",
+      "imageLink": "image_files\\English\\collar.jpg",
       "audioLink": "collar.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Um cabo é a parte traseira de um sapato que eleva o calcanhar do pé acima dos dedos. Pode ser alto ou baixo e é frequentemente usado por mulheres para moda ou ocasiões formais.",
       "example": "Me encanta llevar tacones altos a las fiestas. Ella rompió el talón de su zapato en las escaleras. Él llevará un talón bajo al matrimonio.",
       "example_translation": "Eu amo usar saltos altos para festas. Ela quebrou o cabo do sapato nas escadas. Ele vai usar um cabo baixo para o casamento.",
-      "imageLink": "heel.jpg",
+      "imageLink": "image_files\\English\\heel.jpg",
       "audioLink": "heel.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Calcinhas são um tipo de roupa íntima usada por mulheres, geralmente feita de tecido e usada para confort e modéstia.",
       "example": "Ella llevó bragas y sujetador coincidentes a la fiesta. Compré nuevas bragas para las vacaciones. Ellos llevarán bragas debajo de sus trajes para la obra de teatro.",
       "example_translation": "Ela usou calcinhas e sutiã combinando para a festa. Eu comprei novas calcinhas para as férias. Eles vão usar calcinhas debaixo de seus figurinos para a peça.",
-      "imageLink": "knickers.jpg",
+      "imageLink": "image_files\\English\\knickers.jpg",
       "audioLink": "knickers.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "um vestido exterior que cobre as pernas, geralmente feito de tecido ou material semelhante",
       "example": "Me puse pantalones para la fiesta anoche. Me pondré pantalones para la oficina mañana. Ella llevó pantalones al gimnasio ayer.",
       "example_translation": "Eu usei calças para a festa ontem à noite. Vou usar calças para o escritório amanhã. Ela usou calças para a academia ontem.",
-      "imageLink": "pants.jpg",
+      "imageLink": "image_files\\English\\pants.jpg",
       "audioLink": "pants.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "um vestido sem abertura na frente, que é colocado puxando-o sobre a cabeça",
       "example": "Me puse un suéter para mantenerme caliente. Ella llevará un suéter al parque mañana. Él llevó un suéter al partido de fútbol la semana pasada.",
       "example_translation": "Eu puxei um suéter para manter o calor. Ela usará um suéter para o parque amanhã. Ele usou um suéter para o jogo de futebol da semana passada.",
-      "imageLink": "pullover.jpg",
+      "imageLink": "image_files\\English\\pullover.jpg",
       "audioLink": "pullover.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "um calçado que expõe o pé e é mantido por tiras",
       "example": "Me puse sandalias para ir a la playa ayer. Ella llevará sandalias a la fiesta esta noche. Ellos llevaron sandalias para el viaje de senderismo el mes pasado.",
       "example_translation": "Eu usei sandálias para a praia ontem. Ela usará sandálias para a festa esta noite. Eles usaram sandálias para a viagem de caminhada do mês passado.",
-      "imageLink": "sandal.jpg",
+      "imageLink": "image_files\\English\\sandal.jpg",
       "audioLink": "sandal.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "a parte do vestido que cobre o braço",
       "example": "Me subí la manga para mostrar mi tatuaje. Ella llevará una blusa con manga larga a la fiesta esta noche. Él llevó una chaqueta con manga corta al partido de juego ayer.",
       "example_translation": "Eu rolei minha manga para mostrar meu tatuagem. Ela usará uma camisa com manga longa para a festa esta noite. Ele usou um casaco com manga curta para o jogo ontem.",
-      "imageLink": "sleeve.jpg",
+      "imageLink": "image_files\\English\\sleeve.jpg",
       "audioLink": "sleeve.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Um chinelo é um tipo de calçado projetado para ser usado internamente, tipicamente feito de materiais macios e tendo uma sola macia.",
       "example": "Me puse mis zapatillas para la fiesta anoche, Me pondré mis zapatillas para la fiesta esta noche, y me puse mis zapatillas para la fiesta ayer.",
       "example_translation": "Eu usei meu chinelos para a festa ontem à noite, eu usarei meu chinelos para a festa esta noite, e eu usei meu chinelos para a festa ontem.",
-      "imageLink": "slippers.jpg",
+      "imageLink": "image_files\\English\\slippers.jpg",
       "audioLink": "slippers.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Um moletom é uma camisa casual, de manga longa, tipicamente feita de tecido grosso e macio, frequentemente usada para fins atléticos ou casuais.",
       "example": "Me puse una sudadera para ir al gimnasio ayer, Me pondré una sudadera para ir al gimnasio mañana, y me puse una sudadera para ir al gimnasio la semana pasada.",
       "example_translation": "Eu usei um moletom para a academia ontem, eu usarei um moletom para a academia amanhã, e eu usei um moletom para a academia na semana passada.",
-      "imageLink": "sweatshirt.jpg",
+      "imageLink": "image_files\\English\\sweatshirt.jpg",
       "audioLink": "sweatshirt.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Calções de natação são um tipo de shorts projetados para nadar, tipicamente feitos de tecido leve e rápido de secagem.",
       "example": "Me puse traje de baño para ir a la playa el verano pasado, Me pondré traje de baño para ir al pool mañana, y me puse traje de baño para ir al parque acuático ayer.",
       "example_translation": "Eu usei calções de natação para a praia no verão passado, eu usarei calções de natação para a piscina amanhã, e eu usei calções de natação para o parque aquático ontem.",
-      "imageLink": "swimming-trunks.jpg",
+      "imageLink": "image_files\\English\\swimming-trunks.jpg",
       "audioLink": "swimming trunks.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Uma blusa é um tipo de roupa que cobre o corpo superior, tipicamente consistindo em uma blusa ou camisa.",
       "example": "Me puse un top para la fiesta la semana pasada, Me pondré un top para la fiesta el próximo mes, y me puse un top para la fiesta ayer.",
       "example_translation": "Eu usei uma blusa para a festa na semana passada, eu usarei uma blusa para a festa no mês que vem, e eu usei uma blusa para a festa ontem.",
-      "imageLink": "top.jpg",
+      "imageLink": "image_files\\English\\top.jpg",
       "audioLink": "top.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Um traje de treino é um tipo de roupa casual projetada para atividades atléticas ou ao ar livre, tipicamente consistindo em uma jaqueta e calças feitas de um tecido leve e respirável.",
       "example": "Me puse un traje de deporte para ir al gimnasio ayer, me pondré uno para ir al parque mañana y me puse uno para correr la semana pasada.",
       "example_translation": "Eu usei um traje de treino para a academia ontem, vou usá-lo para o parque amanhã, e usei-o para a trilha de jogging na semana passada.",
-      "imageLink": "tracksuit.jpg",
+      "imageLink": "image_files\\English\\tracksuit.jpg",
       "audioLink": "tracksuit.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Cuecas são um tipo de roupa íntima usada junto à pele, tipicamente feita de um tecido macio e respirável, e projetada para proporcionar confort e higiene.",
       "example": "Me puse los calzoncillos antes de acostarme, me pondré unos para ir a la playa mañana y me puse unos para ir a la fiesta la noche pasada.",
       "example_translation": "Eu coloquei minhas cuecas antes de ir para a cama, vou usá-las para a praia amanhã, e usei-as para a festa ontem à noite.",
-      "imageLink": "underpants.jpg",
+      "imageLink": "image_files\\English\\underpants.jpg",
       "audioLink": "underpants.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Roupa íntima refere-se à roupa usada junto à pele, tipicamente incluindo cuecas, sutiãs e outros itens projetados para confort e higiene.",
       "example": "Necesito hacer la colada, así que puedo lavar mi ropa interior, me compraré ropa interior nueva la semana que viene y me puse mi ropa interior favorita para ir a la fiesta la noche pasada.",
       "example_translation": "Eu preciso fazer a lavagem, para que possa lavar minhas roupas íntimas, vou comprar roupas íntimas novas na semana que vem, e usei minhas roupas íntimas favoritas para a festa ontem à noite.",
-      "imageLink": "underwear.jpg",
+      "imageLink": "image_files\\English\\underwear.jpg",
       "audioLink": "underwear.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Um avental é um pedaço de tecido usado sobre a frente do corpo para proteger a roupa de manchas e respingos, tipicamente usado na cozinha, jardinagem ou outras atividades.",
       "example": "Me puse un delantal antes de cocinar la cena, me pondré uno para ir al asado mañana y me puse uno para ir a la clase de arte la semana pasada.",
       "example_translation": "Eu coloquei um avental antes de cozinhar o jantar, vou usar um avental para o churrasco amanhã, e usei um avental para a aula de arte na semana passada.",
-      "imageLink": "apron.jpg",
+      "imageLink": "image_files\\English\\apron.jpg",
       "audioLink": "apron.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Um biquíni é um tipo de roupa de banho que consiste em duas peças, uma cobrindo os seios e outra cobrindo a área do quadril.",
       "example": "Ella se puso un bikini rojo para ir a la playa ayer. Se pondrá un bikini azul para ir a la fiesta esta noche. Se puso un bikini amarillo para ir al piscina la semana pasada.",
       "example_translation": "Ela usou um biquíni vermelho na praia ontem. Ela usará um biquíni azul na festa hoje à noite. Ela usou um biquíni amarelo na piscina semana passada.",
-      "imageLink": "bikini.jpg",
+      "imageLink": "image_files\\English\\bikini.jpg",
       "audioLink": "bikini.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Calções de boxer são um tipo de roupa íntima que são soltos e têm uma faixa elástica na cintura.",
       "example": "Él se puso boxers para ir a la cama anoche. Se pondrá boxers para ir al gimnasio mañana. Se puso boxers para ir al parque ayer.",
       "example_translation": "Ele usou calções de boxer para dormir ontem à noite. Ele usará calções de boxer para o ginásio amanhã. Ele usou calções de boxer para o parque ontem.",
-      "imageLink": "boxer-shorts.jpg",
+      "imageLink": "image_files\\English\\boxer-shorts.jpg",
       "audioLink": "boxer shorts.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Um soutien é um tipo de roupa íntima projetado para dar apoio e cobrir os seios de uma mulher.",
       "example": "Ella se puso un sostén rosa para ir a la fiesta la semana pasada. Se pondrá un sostén negro para ir al matrimonio esta noche. Se puso un sostén blanco para ir al oficina ayer.",
       "example_translation": "Ela usou um soutien rosa para a festa semana passada. Ela usará um soutien preto para o casamento hoje à noite. Ela usou um soutien branco para o escritório ontem.",
-      "imageLink": "bra.jpg",
+      "imageLink": "image_files\\English\\bra.jpg",
       "audioLink": "bra.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Cuecas são um tipo de roupa íntima que fornecem cobertura e apoio para a área genital.",
       "example": "Él se puso calzonetas para ir al gimnasio ayer. Se pondrá calzonetas para ir a la playa mañana. Se puso calzonetas para ir al oficina la semana pasada.",
       "example_translation": "Ele usou cuecas para o ginásio ontem. Ele usará cuecas para a praia amanhã. Ele usou cuecas para o escritório semana passada.",
-      "imageLink": "briefs.jpg",
+      "imageLink": "image_files\\English\\briefs.jpg",
       "audioLink": "briefs.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Um casaco é um tipo de roupa tricotada que tem botões ou uma fieira na frente e é normalmente usado sobre uma camisa ou vestido.",
       "example": "Me puse un suéter para abrigarme ayer. Me pondré un suéter para ir a la fiesta esta noche. Ella se puso un suéter para ir a la reunión en el oficina la semana pasada.",
       "example_translation": "Eu usei um casaco para me manter quente ontem. Eu vou usar um casaco para a festa esta noite. Ela usou um casaco para a reunião de escritório na semana passada.",
-      "imageLink": "cardigan.jpg",
+      "imageLink": "image_files\\English\\cardigan.jpg",
       "audioLink": "cardigan.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Um figurino é um conjunto de roupas usadas para criar uma impressão particular ou para representar um personagem ou ocupação.",
       "example": "El actor se puso un disfraz para interpretar al rey. El niño se puso un disfraz para ir a una fiesta de Halloween. Ella diseñó un disfraz para el desfile de moda.",
       "example_translation": "O ator usou um figurino para representar um rei. A criança usou um figurino para uma festa do Halloween. Ela projetou um figurino para o desfile de moda.",
-      "imageLink": "costume-1.jpg",
+      "imageLink": "image_files\\English\\costume-1.jpg",
       "audioLink": "costume.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Um punho é uma banda ou correia, geralmente na extremidade de uma manga, usada para fechar ou decorar uma roupa.",
       "example": "La camisa tenía un puño que estaba suelto. Ajustó el puño de su manga. El puño de su vestido era delicado.",
       "example_translation": "A camisa tinha um punho que estava solto. Ele ajustou o punho da sua manga. O punho do vestido dela era delicado.",
-      "imageLink": "cuff.jpg",
+      "imageLink": "image_files\\English\\cuff.jpg",
       "audioLink": "cuff.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Um capacete é um capacete de proteção usado para prevenir lesões na cabeça, especialmente em esportes ou combate.",
       "example": "El ciclista llevaba un casco para proteger su cabeza. Se puso un casco para montar una motocicleta. El soldado llevaba un casco en la batalla.",
       "example_translation": "O ciclista usou um capacete para proteger a cabeça. Ela colocou um capacete para andar de motocicleta. O soldado usou um capacete na batalha.",
-      "imageLink": "helmet.jpg",
+      "imageLink": "image_files\\English\\helmet.jpg",
       "audioLink": "helmet.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "A cobertura superior de um veículo, tipicamente dobrável para permitir acesso ao motor.",
       "example": "Abrí el capó de mi coche para revisar el aceite. Ayer, abrí el capó para reparar el radiador. Mañana, abriré el capó para cambiar el filtro de aire.",
       "example_translation": "Eu abri o capô do meu carro para verificar o óleo. Ontem, abri o capô para consertar o radiador. Amanhã, vou abrir o capô para trocar o filtro de ar.",
-      "imageLink": "hood.jpg",
+      "imageLink": "image_files\\English\\hood.jpg",
       "audioLink": "hood.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Coberturas tubulares para as pernas, tipicamente alcançando até pouco acima do joelho, usadas para aquecer ou como item de moda.",
       "example": "Me puse medias hasta la rodilla para ir al resort de esquí ayer. Hoy, estoy llevando medias hasta la rodilla a la escuela. La próxima semana, llevaré medias hasta la rodilla al viaje de senderismo.",
       "example_translation": "Eu usei meias de joelho no resort de esqui ontem. Hoje, estou usando meias de joelho na escola. Na próxima semana, vou usar meias de joelho na viagem de caminhada.",
-      "imageLink": "knee-socks.jpg",
+      "imageLink": "image_files\\English\\knee-socks.jpg",
       "audioLink": "knee socks.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Um vestido solto, geralmente desconexo, para dormir ou relaxar, tipicamente feito de tecido leve e macio.",
       "example": "Me puse mi camisón favorito para ver una película anoche. Hoy, estoy llevando un nuevo camisón a la cama. Mañana, llevaré un camisón bonito a la pijamada.",
       "example_translation": "Eu pus meu camisola favorito para assistir um filme ontem à noite. Hoje, estou usando um novo camisola para dormir. Amanhã, vou usar um belo camisola para a festa de pijama.",
-      "imageLink": "nightgown.jpg",
+      "imageLink": "image_files\\English\\nightgown.jpg",
       "audioLink": "nightgown.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Um vestido solto, geralmente curto, para dormir ou relaxar, tipicamente feito de tecido leve e macio.",
       "example": "Me puse mi camisolín favorito para prepararme para la cama. Ayer, llevé un nuevo camisolín a la fiesta de pijamas. Mañana, llevaré un camisolín acogedor al viaje de campamento.",
       "example_translation": "Eu pus meu babador favorito para me preparar para dormir. Ontem, usei um novo babador para a festa de sono. Amanhã, vou usar um babador aconchegante para a viagem de camping.",
-      "imageLink": "nightie.jpg",
+      "imageLink": "image_files\\English\\nightie.jpg",
       "audioLink": "nightie.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Calças largas e confortáveis e uma parte de cima solta, projetadas para dormir ou descansar.",
       "example": "Me puse pijamas para ir a la cama anoche, siempre llevo pijamas a la cama, y llevaré pijamas a la cama mañana noche.",
       "example_translation": "Eu usei pijamas para dormir ontem à noite, eu uso pijamas para dormir todas as noites, e eu usarei pijamas para dormir amanhã à noite.",
-      "imageLink": "pyjamas.jpg",
+      "imageLink": "image_files\\English\\pyjamas.jpg",
       "audioLink": "pyjamas.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Um tipo de sapato atlético casual com sola de borracha e upper de canvas ou sintético.",
       "example": "Me até las zapatillas y salí a correr, llevo zapatillas al gimnasio, y compraré nuevas zapatillas la próxima semana.",
       "example_translation": "Eu amarrei meus tênis e fui correr, eu uso tênis na academia, e eu comprarei novos tênis na próxima semana.",
-      "imageLink": "sneakers.jpg",
+      "imageLink": "image_files\\English\\sneakers.jpg",
       "audioLink": "sneakers.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Um roupão solto e absorvente usado após um banho ou chuveiro.",
       "example": "Me puse la bata después de la ducha, llevo una bata para relajarme, y recibiré una nueva bata para mi cumpleaños.",
       "example_translation": "Eu pus meu roupão de banho após o chuveiro, eu uso um roupão de banho para relaxar, e eu vou ganhar um novo roupão de banho para o meu aniversário.",
-      "imageLink": "bathrobe.jpg",
+      "imageLink": "image_files\\English\\bathrobe.jpg",
       "audioLink": "bathrobe.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Um tipo de gravata que consiste em uma fita atada em forma de laço.",
       "example": "El camarero llevaba una pajarita para trabajar, aprendí a atar una pajarita para una boda, y llevaré una pajarita a un evento formal.",
       "example_translation": "O garçom usava uma gravata borboleta no trabalho, eu aprendi a amarrar uma gravata borboleta para um casamento, e eu vou usar uma gravata borboleta em um evento formal.",
-      "imageLink": "bow-tie.jpg",
+      "imageLink": "image_files\\English\\bow-tie.jpg",
       "audioLink": "bow tie.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "calças soltas, geralmente feitas de denim, com seções de bíblia e braçadeira e cliques metálicos, usadas por trabalhadores, artistas e crianças.",
       "example": "Me puse pantalones de peto para pintar la casa, y ahora están cubiertos de manchas. Solía llevar pantalones de peto a la escuela cuando era niño, y mis amigos pensaban que eran geniales. Para el próximo verano, habré llevado pantalones de peto a todos los festivales de música.",
       "example_translation": "Eu usei calças de ganga para pintar a casa, e agora elas estão cobertas de manchas. Eu costumava usar calças de ganga para ir à escola quando eu era criança, e meus amigos achavam que eram legais. No próximo verão, eu terei usado calças de ganga em todos os festivais de música.",
-      "imageLink": "dungarees.jpg",
+      "imageLink": "image_files\\English\\dungarees.jpg",
       "audioLink": "dungarees.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "um tipo de sandália casual, geralmente feita de borracha ou plástico, com uma tira que vai entre o dedo grande e o segundo dedo.",
       "example": "Me encanta llevar chanclas a la playa, pero no son cómodas para caminar. Ella llevaba chanclas a la fiesta, y tenía los pies fríos. Para el próximo mes, habré comprado nuevas chanclas para el verano.",
       "example_translation": "Eu amo usar chinelos na praia, mas eles não são confortáveis para caminhar. Ela usou chinelos para ir à festa, e seus pés estavam frios. Até o próximo mês, eu terei comprado novos chinelos para o verão.",
-      "imageLink": "flip-flops.jpg",
+      "imageLink": "image_files\\English\\flip-flops.jpg",
       "audioLink": "flip-flops.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "um casaco feito da pele e pele de animais, usado para se aquecer e como uma declaração de moda.",
       "example": "Ella llevaba un abrigo de piel alParty de lujo, y era muy caro. Intenté probar un abrigo de piel en la tienda, pero no me gustó. Para el próximo invierno, habré comprado un nuevo abrigo de piel para las fiestas navideñas.",
       "example_translation": "Ela usou um casaco de pele para o jantar de gala, e foi muito caro. Eu tentei um casaco de pele na loja, mas eu não gostei. Até o próximo inverno, eu terei comprado um novo casaco de pele para as festas.",
-      "imageLink": "fur-coat.jpg",
+      "imageLink": "image_files\\English\\fur-coat.jpg",
       "audioLink": "fur coat.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "calças largas com uma bíblia e uma tira que vai sobre os ombros, usadas por trabalhadores e crianças.",
       "example": "Solía llevar overalls al cuidado infantil cuando era niño, y eran tan cómodos. Ella llevaba overalls al jardín, y se ensuciaron. Para la próxima primavera, habré llevado overalls a todos los eventos al aire libre.",
       "example_translation": "Eu costumava usar macacão no berçário quando eu era criança, e eles eram tão confortáveis. Ela usou macacão no jardim, e eles ficaram sujos. Até o próximo springs, eu terei usado macacão em todos os eventos ao ar livre.",
-      "imageLink": "overalls.jpg",
+      "imageLink": "image_files\\English\\overalls.jpg",
       "audioLink": "overalls.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "um vestido que se ajusta às pernas e corpo inferior, geralmente usado por mulheres",
       "example": "Me puse medias a la oficina ayer, pero las llevaré alParty mañana y las llevé al enlace la semana pasada.",
       "example_translation": "Eu usei meia-calça no escritório ontem, mas eu as usarei na festa amanhã e eu as usei no casamento semana passada.",
-      "imageLink": "pantyhose.jpg",
+      "imageLink": "image_files\\English\\pantyhose.jpg",
       "audioLink": "pantyhose.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "um vestido que cobre as pernas, geralmente usado por mulheres",
       "example": "Ella colgó sus medias en la cuerda de tender, pero las llevará alParty de tonight y las llevó al enlace el año pasado.",
       "example_translation": "Ela pendurou suas meias na corda de roupa, mas ela as usará na festa de jantar esta noite e ela as usou no casamento do ano passado.",
-      "imageLink": "stockings.jpg",
+      "imageLink": "image_files\\English\\stockings.jpg",
       "audioLink": "stockings.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "um chapéu alto, de coroa plana, anteriormente usado por homens, especialmente no século 19",
       "example": "Él llevaba un sombrero de copa al baile de máscaras, pero lo llevará al reencuentro histórico el próximo mes y lo llevó al enlace el siglo pasado.",
       "example_translation": "Ele usou um chapéu de copa para o baile de máscaras, mas ele o usará na reencenação histórica do mês que vem e ele o usou no casamento do século passado.",
-      "imageLink": "top-hat.jpg",
+      "imageLink": "image_files\\English\\top-hat.jpg",
       "audioLink": "top hat.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "um pedaço de tecido usado por mulheres para cobrir o rosto, especialmente como parte do traje de noiva",
       "example": "La novia llevaba un velo en la ceremonia de boda, pero lo llevará a la recepción de esta noche y lo llevó a la sesión de fotos la semana pasada.",
       "example_translation": "A noiva usou um véu na cerimônia de casamento, mas ela o usará na recepção esta noite e ela o usou na sessão de fotos semana passada.",
-      "imageLink": "veil.jpg",
+      "imageLink": "image_files\\English\\veil.jpg",
       "audioLink": "veil.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Um colete é um tipo de vestuário sem mangas, geralmente usado sobre uma camisa e gravata, e faz parte do vestuário formal.",
       "example": "Me pondré un chaleco alParty de esta noche, complementará mi traje. Ayer, me puse un chaleco en la boda. Si tengo tiempo, compraré un chaleco para la ceremonia de la próxima semana.",
       "example_translation": "Eu vou usar um colete para a festa esta noite, isso vai complementar meu terno. Ontem, eu usei um colete para o casamento. Se eu tiver tempo, eu comprarei um colete para a cerimônia da próxima semana.",
-      "imageLink": "singlet.jpg",
+      "imageLink": "image_files\\English\\singlet.jpg",
       "audioLink": "vest.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Uma balaclava é um tipo de acessório de cabeça que cobre a cabeça, pescoço e parte do rosto, frequentemente usado em clima frio.",
       "example": "Me puse un paso montaña mientras esquiaba el invierno pasado, me mantuvo la cabeza caliente. Mañana, me pondré un paso montaña para proteger mi cara del viento frío. Ella comprará un paso montaña para su hijo para llevar durante el viaje de snowboard.",
       "example_translation": "Eu usei uma balaclava enquanto esquiava no último inverno, isso manteve a minha cabeça quente. De manhã, eu usarei uma balaclava para proteger o meu rosto do vento frio. Ela vai comprar uma balaclava para o seu filho usar durante a viagem de snowboarding.",
-      "imageLink": "balaclava.jpg",
+      "imageLink": "image_files\\English\\balaclava.jpg",
       "audioLink": "balaclava.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Os calções são um tipo de calças que se ajustam apertadamente às pernas, frequentemente usadas por ciclistas e cavaleiros.",
       "example": "La jinete llevaba bragas para proteger sus piernas mientras montaba a caballo. En el pasado, los hombres llevaban bragas con medias a eventos formales. El ciclista llevará bragas para reducir la resistencia del viento durante la carrera.",
       "example_translation": "A cavaleira usou calções para proteger as suas pernas enquanto montava a cavalo. No passado, os homens usavam calções com meias em eventos formais. O ciclista usará calções para reduzir a resistência do vento durante a corrida.",
-      "imageLink": "breeches.jpg",
+      "imageLink": "image_files\\English\\breeches.jpg",
       "audioLink": "breeches.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Uma capa é um tipo de vestuário exterior sem mangas que pende do pescoço, frequentemente usada por super-heróis e personagens fictícios.",
       "example": "Superman lleva una capa para volar y salvar al mundo. En el pasado, los reyes y nobles llevaban capas como símbolo de poder. El diseñador de moda creará una capa para el personaje en la película.",
       "example_translation": "Superman usa uma capa para voar e salvar o mundo. Nos velhos tempos, os reis e nobres usavam capas como símbolo de poder. O designer de moda criará uma capa para o personagem no filme.",
-      "imageLink": "cape.jpg",
+      "imageLink": "image_files\\English\\cape.jpg",
       "audioLink": "cape.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "um bloqueio ou obstáculo em um cano ou tubo, especialmente em um dreno ou esgoto",
       "example": "El cabello obstruyó el drenaje, así que tuve que llamar a un plomero. Obstruyo el fregadero con grasa. El drenaje se obstruirá si no lo limpias regularmente.",
       "example_translation": "O cabelo tapou o dreno, então eu tive que chamar um encanador. Eu tapo a pia com gordura. O dreno vai tapar se você não limpá-lo regularmente.",
-      "imageLink": "clog.jpg",
+      "imageLink": "image_files\\English\\clog.jpg",
       "audioLink": "clog.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "um vestido usado para dar forma ou constringir o torso, tipicamente usado por mulheres",
       "example": "Ella llevaba un corsé debajo de su vestido de boda. Tengo que llevar un corsé a la fiesta esta noche. La era victoriana era conocida por sus corsés ajustados.",
       "example_translation": "Ela usou um espartilho sob seu vestido de noiva. Eu tenho que usar um espartilho para a festa esta noite. A era vitoriana era conhecida por seus espartilhos apertados.",
-      "imageLink": "corset.jpg",
+      "imageLink": "image_files\\English\\corset.jpg",
       "audioLink": "corset.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "um tipo de meia com um padrão de malha, muitas vezes usado para moda ou como um item de roupa provocante",
       "example": "La bailarina llevaba medias de rejilla en el escenario. Compré medias de rejilla para la fiesta de Halloween. La modelo llevaba medias de rejilla en la pasarela.",
       "example_translation": "A dançarina usou meia rede no palco. Eu comprei meia rede para a festa de Halloween. A modelo de moda usou meia rede na passarela.",
-      "imageLink": "fishnet-tights.jpg",
+      "imageLink": "image_files\\English\\fishnet-tights.jpg",
       "audioLink": "fishnet tights.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "um cinto ou faixa usado em volta da cintura, tipicamente por mulheres, para apoiar a costas ou melhorar a postura",
       "example": "Ella llevaba una faja debajo de su vestido para suavizar su silueta. Tengo que llevar una faja para apoyar mi espalda. La faja me ayudó a mantener una buena postura.",
       "example_translation": "Ela usou um cueiro sob seu vestido para suavizar sua silhueta. Eu tenho que usar um cueiro para apoiar minhas costas. O cueiro ajudou ela manter uma boa postura.",
-      "imageLink": "girdle.jpg",
+      "imageLink": "image_files\\English\\girdle.jpg",
       "audioLink": "girdle.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Coberturas justas usadas sobre as pernas, típicamente feitas de tecido ou materiais sintéticos, para mantê-las quentes.",
       "example": "Llevaba calentadores de pierna para mantener mis piernas calientes durante la presentación de danza de invierno. Los llevaré de nuevo mañana. Los llevé la semana pasada también.",
       "example_translation": "Eu usei aquecedores de perna para manter minhas pernas quentes durante a performance de dança de inverno. Eu usarei novamente amanhã. Eu os usei semana passada também.",
-      "imageLink": "leg-warmers.jpg",
+      "imageLink": "image_files\\English\\leg-warmers.jpg",
       "audioLink": "leg warmers.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Um tipo de saia interna usada por mulheres, típicamente feita de tecido leve, freqüentemente decorada com renda ou outros acabamentos.",
       "example": "Mi abuela solía llevar una envoltura debajo de su vestido cuando era joven. Ahora, mi hermana la lleva debajo de su vestido de boda. En el pasado, las mujeres siempre llevaban envolturas.",
       "example_translation": "Minha avó costumava usar uma anágua sob seu vestido quando era jovem. Agora, minha irmã usa uma sob seu vestido de noiva. No passado, as mulheres sempre as usavam.",
-      "imageLink": "petticoat.jpg",
+      "imageLink": "image_files\\English\\petticoat.jpg",
       "audioLink": "petticoat.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Um tipo de casaco feito da pele de carneiros, freqüentemente usado para sequestro e proteção contra os elementos.",
       "example": "Compré un abrigo de piel de oveja para llevar durante los meses de invierno. Me mantendrá caliente en los días nevados. Llevé uno el invierno pasado y estaba muy caliente.",
       "example_translation": "Eu comprei um casaco de pele de carneiro para usar durante os meses de inverno. Ele me manterá quente nos dias nevados. Eu usei um no último inverno e era muito quente.",
-      "imageLink": "sheepskin-coat.jpg",
+      "imageLink": "image_files\\English\\sheepskin-coat.jpg",
       "audioLink": "sheepskin coat.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Um vestido sem mangas usado ao redor do torso, freqüentemente usado para sequestro ou como um estatement de moda.",
       "example": "Llevo un chaleco debajo de mi chaqueta cuando hace frío fuera. Mi amigo llevará uno a la fiesta esta noche. Llevo uno a conciertos y recibo muchos cumplidos.",
       "example_translation": "Eu uso um colete sob minha jaqueta quando está frio lá fora. Meu amigo usará um para a festa hoje à noite. Eu usei um para o concerto semana passada e recebi muitos elogios.",
-      "imageLink": "vest.jpg",
+      "imageLink": "image_files\\English\\vest.jpg",
       "audioLink": "vest.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Um capacete é um tipo de chapéu que cobre a cabeça e o pescoço, geralmente usado por mulheres e crianças.",
       "example": "Ella llevó una toquilla para proteger su cabello del sol. Ayer, ella había llevado una toquilla a la iglesia. Mañana, ella llevará una toquilla al jardín.",
       "example_translation": "Ela usou um capacete para proteger seu cabelo do sol. Ontem, ela havia usado um capacete para ir à igreja. Amanhã, ela usará um capacete para ir ao jardim.",
-      "imageLink": "bonnet.jpg",
+      "imageLink": "image_files\\English\\bonnet.jpg",
       "audioLink": "bonnet.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Um roupão é um vestido solto e absorvente usado após banho ou nadar, geralmente feito de material de toalha.",
       "example": "Él se puso una bata de baño después de su ducha. Ella había llevado una bata de baño para relajarse en casa. Ellos llevarán batas de baño al spa.",
       "example_translation": "Ele colocou um roupão após seu chuveiro. Ela havia usado um roupão para relaxar em casa. Eles usarão roupões para o spa.",
-      "imageLink": "dressing-gown.jpg",
+      "imageLink": "image_files\\English\\dressing-gown.jpg",
       "audioLink": "dressing gown.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Um moletom é um tipo de suéter com capuz, freqüentemente usado para fins casuais ou atléticos.",
       "example": "Él llevó una sudadera con capucha al gimnasio. Ella había llevado una sudadera con capucha a clase. Ellos llevarán sudaderas con capucha al concierto.",
       "example_translation": "Ele usou um moletom para ir ao ginásio. Ela havia usado um moletom para ir à aula. Eles usarão moletoms para o concerto.",
-      "imageLink": "hoodie.jpg",
+      "imageLink": "image_files\\English\\hoodie.jpg",
       "audioLink": "hoodie.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Um roupão de casa é um vestido solto e informal usado em casa, geralmente feito de material leve.",
       "example": "Ella llevó una bata de casa para cocinar la cena. Él había llevado una bata de casa para ver la televisión. Ellos llevarán batas de casa para relajarse en la casa.",
       "example_translation": "Ela usou um roupão de casa para cozinhar jantar. Ele havia usado um roupão de casa para assistir TV. Eles usarão roupões de casa para relaxar em casa.",
-      "imageLink": "housecoat.jpg",
+      "imageLink": "image_files\\English\\housecoat.jpg",
       "audioLink": "housecoat.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Um colar alto que dobra e cobre o pescoço, normalmente usado como parte de um suéter ou cardigã.",
       "example": "Yo llevé un suéter de pescuezo alto a la fiesta, y estaba muy abrigado. Yo llevaré un pescuezo alto a la oficina mañana, y llevé un pescuezo alto al gimnasio la noche anterior.",
       "example_translation": "Eu usei um suéter de gola rulê para a festa, e estava muito quente. Eu usarei um gola rulê para o escritório amanhã, e usei um gola rulê para a academia na noite passada.",
-      "imageLink": "turtleneck.jpg",
+      "imageLink": "image_files\\English\\turtleneck.jpg",
       "audioLink": "turtleneck.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Uma saia usada sob outra saia, normalmente para acrescentar volume ou para proteger a saia exterior das pernas do usuário.",
       "example": "La novia llevó una falda debajo de su vestido de boda para darle un aspecto más completo. Ella llevará una falda debajo al baile de graduación, y llevó una falda debajo al baile la año pasado.",
       "example_translation": "A noiva usou um saiote sob o vestido de noiva para dar-lhe um aspecto mais cheio. Ela usará um saiote para o baile de formatura, e usou um saiote para o baile no ano passado.",
-      "imageLink": "underskirt.jpg",
+      "imageLink": "image_files\\English\\underskirt.jpg",
       "audioLink": "underskirt.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Um vestido sem mangas usado ao redor da cintura, normalmente como parte de um terno ou uniforme.",
       "example": "El hombre de negocios llevó un chaleco a la reunión, y parecía muy profesional. Él llevará un chaleco a la boda, y llevó un chaleco a la entrevista de trabajo la semana pasada.",
       "example_translation": "O homem de negócios usou um colete para a reunião, e pareceu muito profissional. Ele usará um colete para o casamento, e usou um colete para a entrevista de emprego na semana passada.",
-      "imageLink": "waistcoat.jpg",
+      "imageLink": "image_files\\English\\waistcoat.jpg",
       "audioLink": "waistcoat.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "Un animal pequeño que tiene seis patas, un cuerpo y usualmente alas. Los insectos se encuentran a menudo en jardines, bosques y otras áreas al aire libre.",
       "example": "The bee was an insect that was important for pollinating flowers. Yesterday, I saw an insect crawling on the kitchen counter. If I were a scientist, I would study insects all day.",
       "example_translation": "La abeja era un insecto que era importante para la polinización de flores. Ayer, vi un insecto gateando sobre la encimera de la cocina. Si fuera un científico, estudiaría insectos todo el día.",
-      "imageLink": "insect.jpg",
+      "imageLink": "image_files\\English\\insect.jpg",
       "audioLink": "insect.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un insecto pequeño que vive en colonias y es conocido por su naturaleza laboriosa.",
       "example": "The ant was carrying a crumb back to its anthill. I watched as the ant worked tirelessly to build its home. By next year, the ant will have built a complex underground society.",
       "example_translation": "La hormiga estaba llevando una migaja de regreso a su hormiguero. Vi cómo la hormiga trabajaba incansablemente para construir su hogar. Para el próximo año, la hormiga habrá construido una sociedad subterránea compleja.",
-      "imageLink": "ant.jpg",
+      "imageLink": "image_files\\English\\ant.jpg",
       "audioLink": "ant.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un insecto volador que recoge néctar de flores y produce miel.",
       "example": "The bee buzzed around the flowers in the garden. I was stung by a bee when I was a child. By next summer, the bee will have made a lot of honey.",
       "example_translation": "La abeja zumbó alrededor de las flores en el jardín. Me picó una abeja cuando era niño. Para el próximo verano, la abeja habrá hecho mucha miel.",
-      "imageLink": "bee.jpg",
+      "imageLink": "image_files\\English\\bee.jpg",
       "audioLink": "bee.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un insecto pequeño, como un escarabajo o una hormiga, que tiene una concha exterior dura y vive en o debajo del suelo.",
       "example": "I saw a bug crawling on the kitchen counter yesterday, and I will squash it tomorrow, but it's hiding under the sink today.",
       "example_translation": "Vi a un insecto arrastrándose por la encimera de la cocina ayer, y lo aplastaré mañana, pero está escondido debajo del fregadero hoy.",
-      "imageLink": "bug.jpg",
+      "imageLink": "image_files\\English\\bug.jpg",
       "audioLink": "bug.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un insecto volador con alas grandes, a menudo de colores brillantes, comúnmente encontrado en climas cálidos.",
       "example": "I watched a butterfly fluttering around the flowers in the garden yesterday, I will observe it flying overhead tomorrow, and it was perched on a leaf today.",
       "example_translation": "Vi a una mariposa revoloteando alrededor de las flores en el jardín ayer, observaré volar sobre mi cabeza mañana, y estaba posada en una hoja hoy.",
-      "imageLink": "butterfly.jpg",
+      "imageLink": "image_files\\English\\butterfly.jpg",
       "audioLink": "butterfly.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un insecto grande, plano, ovalado con una concha exterior dura, comúnmente encontrado en lugares oscuros y húmedos.",
       "example": "I saw a cockroach scurrying across the kitchen floor yesterday, I will exterminate it tomorrow, and it was hiding in the shadows today.",
       "example_translation": "Vi a una cucaracha correteando por el suelo de la cocina ayer, la exterminaré mañana, y estaba escondida en las sombras hoy.",
-      "imageLink": "cockroach.jpg",
+      "imageLink": "image_files\\English\\cockroach.jpg",
       "audioLink": "cockroach.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Una cosa viva, especialmente un animal, típicamente con una extremidad articulada específica o extremidades.",
       "example": "The creature walked on four legs, the tourists watched in awe. It had walked on four legs since morning, and will walk on four legs again tomorrow.",
       "example_translation": "La criatura caminó sobre cuatro patas, los turistas observaron con asombro. Había caminado sobre cuatro patas desde la mañana, y caminará sobre cuatro patas de nuevo mañana.",
-      "imageLink": "creature.jpg",
+      "imageLink": "image_files\\English\\creature.jpg",
       "audioLink": "creature.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Moverse a través del aire, usando alas.",
       "example": "The bird will fly south for the winter, it flies every year, and flew last year too. If it's lucky, it will fly again next year.",
       "example_translation": "El pájaro volará hacia el sur para el invierno, vuela cada año, y voló el año pasado también. Si tiene suerte, volará de nuevo el próximo año.",
-      "imageLink": "fly.jpg",
+      "imageLink": "image_files\\English\\fly.jpg",
       "audioLink": "fly.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un insecto volador pequeño que pica a humanos y animales, a menudo causando picazón y hinchazón.",
       "example": "The mosquito bit me last night, it bites everyone in the summer, and will bite us again next summer. I wish it had not bitten me yesterday.",
       "example_translation": "El zancudo me picó anoche, pica a todos en verano, y nos picará de nuevo el próximo verano. Ojalá no me hubiera picado ayer.",
-      "imageLink": "mosquito.jpg",
+      "imageLink": "image_files\\English\\mosquito.jpg",
       "audioLink": "mosquito.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "un animal pequeño de ocho patas que teje una red para cazar insectos, a menudo encontrado en jardines o casas",
       "example": "Yesterday, I saw a spider crawling on the wall. Today, it is making a web in the corner. Tomorrow, it will catch many flies.",
       "example_translation": "Ayer, vi una araña gateando por la pared. Hoy, está haciendo una red en la esquina. Mañana, cogerá muchas moscas.",
-      "imageLink": "spider.jpg",
+      "imageLink": "image_files\\English\\spider.jpg",
       "audioLink": "spider.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "una red de hilos tejida por una araña para cazar insectos",
       "example": "The spider created a beautiful web in the morning. Now, it is waiting for prey to get caught in the web. Later, it will repair the web if it gets damaged.",
       "example_translation": "La araña creó una hermosa red en la mañana. Ahora, está esperando a que se caigan presas en la red. Más tarde, reparará la red si se daña.",
-      "imageLink": "web.jpg",
+      "imageLink": "image_files\\English\\web.jpg",
       "audioLink": "web.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "un tipo de insecto con una cáscara dura externa, a menudo encontrado en jardines o bosques",
       "example": "I saw a beetle crawling on a leaf yesterday. Today, it is flying around the garden. Tomorrow, it will lay eggs on a tree.",
       "example_translation": "Vi un escarabajo gateando en una hoja ayer. Hoy, está volando alrededor del jardín. Mañana, pondrá huevos en un árbol.",
-      "imageLink": "beetle.jpg",
+      "imageLink": "image_files\\English\\beetle.jpg",
       "audioLink": "beetle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "un pequeño insecto saltador que vive en los cuerpos de mamíferos y aves, alimentándose de su sangre.",
       "example": "The dog was infested with fleas after walking in the park. It had been bitten by fleas last week. It will need to be treated for fleas again next month.",
       "example_translation": "El perro estaba infestado de pulgas después de caminar en el parque. Había sido mordido por pulgas la semana pasada. Necesitará ser tratado para pulgas de nuevo el mes que viene.",
-      "imageLink": "flea.jpg",
+      "imageLink": "image_files\\English\\flea.jpg",
       "audioLink": "flea.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "causar un dolor agudo y repentino, generalmente al introducir una sustancia venenosa o irritante en la piel.",
       "example": "The bee sting hurt a lot. She was stung by a wasp last year. He will sting the insect if it comes too close.",
       "example_translation": "La picadura de la abeja dolía mucho. Ella había sido picada por una avispa el año pasado. Él picará al insecto si se acerca demasiado.",
-      "imageLink": "sting.jpg",
+      "imageLink": "image_files\\English\\sting.jpg",
       "audioLink": "sting.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "un insecto volador con una cintura estrecha y una picadura, típicamente amarillo y negro en color.",
       "example": "The wasp flew around the picnic area. She was stung by a wasp on her arm. They will build a nest for the wasps next spring.",
       "example_translation": "La avispa volaba alrededor del área de picnic. Ella había sido picada por una avispa en su brazo. Construirán un nido para las avispas la próxima primavera.",
-      "imageLink": "wasp.jpg",
+      "imageLink": "image_files\\English\\wasp.jpg",
       "audioLink": "wasp.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un mantis es un insecto depredador que pertenece al orden Mantodea. Se caracteriza por su cabeza triangular, cuerpo alargado y patas delanteras espinosas utilizadas para cazar y mantener presa.",
       "example": "Yesterday, I saw a praying mantis in the garden. Today, I will watch it again. By tomorrow, I will have learned more about its habits.",
       "example_translation": "Ayer, vi un mantis en el jardín. Hoy, lo observaré de nuevo. Para mañana, habré aprendido más sobre sus hábitos.",
-      "imageLink": "mantis.jpg",
+      "imageLink": "image_files\\English\\mantis.jpg",
       "audioLink": "mantis.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Una polilla es un insecto volador que pertenece al orden Lepidoptera. A menudo se considera una criatura nocturna, atraída por fuentes de luz y con antenas plumosas o filamentosas.",
       "example": "The moth flew around the lamp last night. Today, it will rest in a dark corner. By next week, it will have laid its eggs.",
       "example_translation": "La polilla voló alrededor de la lámpara anoche. Hoy, descansará en un rincón oscuro. Para la próxima semana, habrá puesto sus huevos.",
-      "imageLink": "moth.jpg",
+      "imageLink": "image_files\\English\\moth.jpg",
       "audioLink": "moth.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un escarabajo de la papa es un insecto pequeño que se alimenta de plantas de papa, causando daño a las hojas y tubérculos. A menudo se encuentra en jardines y campos agrícolas.",
       "example": "The farmer had to remove the potato beetles from his field yesterday. Today, he will apply pesticides. By next year, he will have found a more organic solution.",
       "example_translation": "El agricultor tuvo que eliminar los escarabajos de la papa de su campo ayer. Hoy, aplicará pesticidas. Para el próximo año, habrá encontrado una solución más orgánica.",
-      "imageLink": "potato-beetle.jpg",
+      "imageLink": "image_files\\English\\potato-beetle.jpg",
       "audioLink": "potato beetle.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un gusano de seda es la larva de una polilla que se cultiva ampliamente para su seda.",
       "example": "The farmer carefully harvested the silkworms to obtain their precious silk. He had raised them since they were eggs and now they were fully grown. By next season, he will have cultivated a new batch.",
       "example_translation": "El agricultor cosechó cuidadosamente los gusanos de seda para obtener su valiosa seda. Los había criado desde que eran huevos y ahora estaban completamente crecidos. Para la próxima temporada, habrá cultivado un nuevo lote.",
-      "imageLink": "silkworm.jpg",
+      "imageLink": "image_files\\English\\silkworm.jpg",
       "audioLink": "silkworm.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Una termita es un tipo de insecto que se alimenta de madera y puede causar daños significativos a edificios y estructuras.",
       "example": "The homeowners were shocked to discover that termites had infested their basement. They had been eating away at the wooden beams for years. Now, they will need to call an exterminator to eliminate the termites before they spread further.",
       "example_translation": "Los propietarios de la casa se sorprendieron al descubrir que las termitas habían infestado su sótano. Habían estado comiendo las vigas de madera durante años. Ahora, necesitarán llamar a un exterminador para eliminar las termitas antes de que se propaguen más.",
-      "imageLink": "termite.jpg",
+      "imageLink": "image_files\\English\\termite.jpg",
       "audioLink": "termite.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Una chinche es un insecto pequeño y plano parásito que se alimenta de la sangre humana, normalmente encontrado en la ropa de cama y colchones.",
       "example": "The travelers were horrified to find bedbugs in their hotel room. They had been bitten multiple times during the night. Now, they will need to wash and dry their clothes immediately to prevent the bedbugs from spreading.",
       "example_translation": "Los viajeros se horrorizaron al encontrar chinches en su habitación de hotel. Habían sido mordidos múltiples veces durante la noche. Ahora, necesitarán lavar y secar sus ropas inmediatamente para prevenir que las chinches se propaguen.",
-      "imageLink": "bedbug.jpg",
+      "imageLink": "image_files\\English\\bedbug.jpg",
       "audioLink": "bedbug.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un tipo de abeja grande y peluda que es social y vive en colonias, conocida por su ruido de zumbido fuerte.",
       "example": "The bumblebee flew around the garden, collecting nectar from the flowers. Yesterday, it was accidentally swatted at by a child playing outside. Tomorrow, it will return to its hive to share the bounty with its colony.",
       "example_translation": "La abeja carpintera voló alrededor del jardín, recogiendo néctar de las flores. Ayer, fue golpeada accidentalmente por un niño que jugaba afuera. Mañana, regresará a su colmena para compartir la abundancia con su colonia.",
-      "imageLink": "bumblebee.jpg",
+      "imageLink": "image_files\\English\\bumblebee.jpg",
       "audioLink": "bumblebee.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "La larva de una mariposa o polilla, que pasa por una serie de instares antes de pupar y emerger como un adulto completamente formado.",
       "example": "The caterpillar crawled along the leaf, leaving behind a trail of silk threads. As it grew, it shed its skin several times, eventually forming a chrysalis from which a beautiful butterfly emerged. In the future, it will lay eggs on a nearby plant to start the cycle anew.",
       "example_translation": "La oruga se arrastró a lo largo de la hoja, dejando atrás un rastro de hilos de seda. A medida que crecía, se despojó de su piel varias veces, eventualmente formando una crisálida de la que emergió una hermosa mariposa. En el futuro, pondrá huevos en una planta cercana para iniciar el ciclo de nuevo.",
-      "imageLink": "caterpillar.jpg",
+      "imageLink": "image_files\\English\\caterpillar.jpg",
       "audioLink": "caterpillar.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un insecto alado grande que produce un sonido distinto y agudo, que emerge típicamente del suelo después de un período prolongado de dormancia.",
       "example": "The cicada sat on a branch, its loud song filling the air. Last summer, it emerged from the ground, shedding its skin and taking flight for the first time. Next year, it will burrow underground again, waiting for the perfect moment to resurface.",
       "example_translation": "La cicada se sentó en una rama, su canción fuerte llenando el aire. El verano pasado, emergió del suelo, despojándose de su piel y volando por primera vez. El próximo año, volverá a excavar bajo tierra, esperando el momento perfecto para reaparecer.",
-      "imageLink": "cicada.jpg",
+      "imageLink": "image_files\\English\\cicada.jpg",
       "audioLink": "cicada.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una libélula es un insecto con un cuerpo largo y alas grandes que suelen ser coloridas y transparentes.",
       "example": "I saw a dragonfly hovering above the pond yesterday. It is currently hovering near the flowers. By next summer, it will have flown away.",
       "example_translation": "Vi una libélula revoloteando sobre el estanque ayer. Ahora está revoloteando cerca de las flores. Para el próximo verano, habrá volado hacia otro lugar.",
-      "imageLink": "dragonfly.jpg",
+      "imageLink": "image_files\\English\\dragonfly.jpg",
       "audioLink": "dragonfly.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un dron es un vehículo aéreo no tripulado, generalmente controlado a distancia, utilizado para vigilancia, fotografía o otros fines.",
       "example": "I used a drone to take aerial photos of the city last weekend. Now, I'm editing the footage. By next month, I will have completed the project.",
       "example_translation": "Usé un dron para tomar fotos aéreas de la ciudad el fin de semana pasado. Ahora estoy editando las imágenes. Para el próximo mes, habré completado el proyecto.",
-      "imageLink": "drone.jpg",
+      "imageLink": "image_files\\English\\drone.jpg",
       "audioLink": "drone.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un tábano es un tipo de mosca que pica o molesta, especialmente un crítico persistente o una molestia.",
       "example": "The journalist was a gadfly to the government, constantly questioning their policies. She was a gadfly to the company, exposing their wrongdoing. She will continue to be a gadfly to the institution, fighting for transparency.",
       "example_translation": "La periodista fue un tábano para el gobierno, cuestionando constantemente sus políticas. Fue un tábano para la empresa, expuesto su mala conducta. Continuará siendo un tábano para la institución, luchando por la transparencia.",
-      "imageLink": "gadfly.jpg",
+      "imageLink": "image_files\\English\\gadfly.jpg",
       "audioLink": "gadfly.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un langostino es un tipo de insecto que pertenece al orden Orthoptera. Tiene un cuerpo largo y delgado, patas traseras grandes y dos pares de alas.",
       "example": "The grasshopper jumped over the fence yesterday, it jumps over the fence every day, and it will jump over the fence tomorrow.",
       "example_translation": "El langostino saltó sobre la valla ayer, salta sobre la valla todos los días y saltará sobre la valla mañana.",
-      "imageLink": "grasshopper.jpg",
+      "imageLink": "image_files\\English\\grasshopper.jpg",
       "audioLink": "grasshopper.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Una avispa es un tipo de avispa conocida por su dolorosa picadura. Es típicamente amarilla y negra en color y construye nidos grandes en árboles o debajo de aleros.",
       "example": "The hornet stung me when I disturbed its nest last week, it stings when threatened, and it will sting again if I'm not careful.",
       "example_translation": "La avispa me picó cuando perturbé su nido la semana pasada, pica cuando se siente amenazada y picará de nuevo si no tengo cuidado.",
-      "imageLink": "hornet.jpg",
+      "imageLink": "image_files\\English\\hornet.jpg",
       "audioLink": "hornet.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Una mariquita, también conocida como escarabajo de la suerte, es un escarabajo pequeño y ovalado con una concha roja y negra característica. Es conocida por su capacidad para controlar poblaciones de áfidos.",
       "example": "The ladybird landed on the leaf yesterday, it lands on leaves every summer, and it will land on leaves again next year.",
       "example_translation": "La mariquita aterrizó en la hoja ayer, aterriza en hojas cada verano y aterrizará en hojas de nuevo el próximo año.",
-      "imageLink": "ladybird.jpg",
+      "imageLink": "image_files\\English\\ladybird.jpg",
       "audioLink": "ladybird.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un insecto parecido a una langosta que migra en enjambres y devora vegetación, especialmente cultivos.",
       "example": "The farmer's fields were ravaged by a swarm of locusts. They had been plagued by locusts every summer. The government will take measures to prevent locusts from destroying crops in the future.",
       "example_translation": "Los campos del granjero fueron arrasados por una plaga de langostas. Habían sido azotados por langostas cada verano. El gobierno tomará medidas para evitar que las langostas destruyan cultivos en el futuro.",
-      "imageLink": "locust.jpg",
+      "imageLink": "image_files\\English\\locust.jpg",
       "audioLink": "locust.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un insecto pequeño y alado que vive como parásito en los cuerpos de humanos y otros mamíferos, alimentándose de su piel y sangre.",
       "example": "The child had lice in her hair. She had been infested with lice for weeks. The doctor prescribed a shampoo to get rid of the lice.",
       "example_translation": "El niño tenía piojos en su cabello. Había estado infestado de piojos durante semanas. El doctor prescribió un champú para deshacerse de los piojos.",
-      "imageLink": "louse.jpg",
+      "imageLink": "image_files\\English\\louse.jpg",
       "audioLink": "louse.mp3"
     }
   ]

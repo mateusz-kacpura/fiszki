@@ -9,7 +9,7 @@
       "definition_translation": "Un animale a sangue caldo che depone uova, caratterizzato da penne, becco senza denti e scheletro leggero.",
       "example": "L'oiseau chantait dans l'arbre hier, il chante aujourd'hui et il chantera demain.",
       "example_translation": "L'uccello cantava nell'albero ieri, canta oggi e canterà domani.",
-      "imageLink": "bird.jpg",
+      "imageLink": "image_files\\English\\bird.jpg",
       "audioLink": "bird.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un volatile domestico allevato per le sue uova o carne, specialmente un giovane.",
       "example": "Ma grand-mère élevait des poulets dans son jardin lorsqu'elle était jeune, elle les élève maintenant et elle les élèvera dans le futur.",
       "example_translation": "La mia nonna allevava polli nel suo cortile quando era giovane, li alleva ora e li alleva nel futuro.",
-      "imageLink": "chicken.jpg",
+      "imageLink": "image_files\\English\\chicken.jpg",
       "audioLink": "chicken.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un uccello acquatico con un becco largo e piatto, gambette corte e piedi palmati, trovato in varie habitat.",
       "example": "Les canards nageaient dans le lac hier, ils nagent aujourd'hui et ils nageront demain.",
       "example_translation": "Le anatre nuotavano nel lago ieri, nuotano oggi e nuoteranno domani.",
-      "imageLink": "duck.jpg",
+      "imageLink": "image_files\\English\\duck.jpg",
       "audioLink": "duck.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un'oca è un tipo di grande uccello acquatico con un caratteristico richiamo stridulo, trovato in zone umide e praterie in molte parti del mondo.",
       "example": "J'ai vu une oie volant au-dessus de ma tête hier, mais aujourd'hui je vais voir une oie marchant dans le parc, et demain je vais voir une oie nageant dans le lac.",
       "example_translation": "Ho visto un'oca volare sopra la testa ieri, ma oggi vedrò un'oca camminare nel parco, e domani vedrò un'oca nuotare nel lago.",
-      "imageLink": "goose.jpg",
+      "imageLink": "image_files\\English\\goose.jpg",
       "audioLink": "goose.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un pappagallo è un tipo di uccello intelligent, sociale e dai colori vivaci, noto per la sua abilità di imitare la parlata umana e altri suoni.",
       "example": "Ma sœur avait un perroquet comme animal de compagnie lorsqu'elle était enfant, mais maintenant elle a un perroquet comme cadeau, et bientôt elle aura un perroquet comme compagnon.",
       "example_translation": "Mia sorella aveva un pappagallo come animale domestico quando era bambina, ma ora ha un pappagallo come regalo, e presto avrà un pappagallo come compagno.",
-      "imageLink": "parrot.jpg",
+      "imageLink": "image_files\\English\\parrot.jpg",
       "audioLink": "parrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un pinguino è un tipo di uccello inetto al volo che vive nell'Emisfero Sud, noto per le sue piume nere e bianche distinte e per la sua andatura barcollante.",
       "example": "Je vais voir un pingouin nageant dans l'océan demain, mais hier j'ai vu un pingouin marchant sur la glace, et aujourd'hui je vois un pingouin jouant avec ses amis.",
       "example_translation": "Vedrò un pinguino nuotare nell'oceano domani, ma ieri ho visto un pinguino camminare sul ghiaccio, e oggi vedo un pinguino giocare con i suoi amici.",
-      "imageLink": "penguin.jpg",
+      "imageLink": "image_files\\English\\penguin.jpg",
       "audioLink": "penguin.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un grande uccello con collo e gambe lunghe, trovato nelle zone umide e praterie.",
       "example": "La cigogne avait nidifié sur le toit pendant des années, et la famille aimait la regarder voler chaque été. L'an dernier, elle avait cassé son aile et ne pouvait plus voler. D'ici l'an prochain, elle aura appris à voler à nouveau.",
       "example_translation": "La cicogna aveva nidificato sul tetto per anni, e la famiglia amava guardarla volare via ogni estate. L'anno scorso, si era rotta l'ala e non poteva volare. L'anno prossimo, avrà imparato a volare di nuovo.",
-      "imageLink": "stork.jpg",
+      "imageLink": "image_files\\English\\stork.jpg",
       "audioLink": "stork.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un grande uccello originario del Nord America, spesso addomesticato e allevato per la sua carne.",
       "example": "Nous avons toujours de la dinde pour dîner de Thanksgiving, mais l'an dernier nous avons essayé quelque chose de nouveau. Ma mère avait cuisiné une délicieuse dinde lorsque j'étais enfant, et je cuirai une dinde pour ma famille l'an prochain.",
       "example_translation": "Abbiamo sempre il tacchino per il pranzo del Ringraziamento, ma l'anno scorso abbiamo provato qualcosa di nuovo. Mia madre aveva cotto un delizioso tacchino quando ero bambino, e cucinerò uno per la mia famiglia l'anno prossimo.",
-      "imageLink": "turkey-2.jpg",
+      "imageLink": "image_files\\English\\turkey-2.jpg",
       "audioLink": "turkey.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un'ala è un tipo di pinna o estensione che si protende dal corpo di un animale o di una macchina, usata per il movimento o l'equilibrio.",
       "example": "L'oiseau a étendu son aile pour s'envoler. La semaine dernière, j'avais cassé mon aile et ne pouvait plus voler, mais d'ici la semaine prochaine, j'aurai appris à voler à nouveau. L'avion a deux ailes de chaque côté.",
       "example_translation": "L'uccello ha spiegato le ali per volare via. La settimana scorsa, mi ero rotto l'ala e non potevo volare, ma entro la prossima settimana, avrò imparato a volare di nuovo. L'aereo ha due ali su entrambi i lati.",
-      "imageLink": "wing.jpg",
+      "imageLink": "image_files\\English\\wing.jpg",
       "audioLink": "wing.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un grande uccello nero con un richiamo forte e aspro, che si trova nei boschi e nei campi.",
       "example": "Le corbeau a crié très fort dans l'arbre, puis s'est envolé. Hier, j'ai vu un corbeau perché sur la clôture. D'ici l'an prochain, les corbeaux auront probablement pris possession du parc.",
       "example_translation": "La cornacchia ha gridato forte nell'albero, poi è volata via. Ieri, ho visto una cornacchia appollaiata sulla recinzione. Entro l'anno prossimo, probabilmente le cornacchie avranno preso il controllo del parco.",
-      "imageLink": "crow.jpg",
+      "imageLink": "image_files\\English\\crow.jpg",
       "audioLink": "crow.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un uccello grigio-bruno con un richiamo distinto, noto per deporre le sue uova nei nidi di altri uccelli.",
       "example": "Le cri du coucou résonnait dans la forêt. L'été dernier, nous avons aperçu un coucou dans le jardin. Au printemps, le coucou aura regagné son trajet migratoire.",
       "example_translation": "Il richiamo del cuccù ha echeggiato attraverso la foresta. L'estate scorsa, abbiamo avvistato un cuccù nel giardino. Entro la primavera, il cuccù sarà ritornato sulla sua rotta migratoria.",
-      "imageLink": "cuckoo.jpg",
+      "imageLink": "image_files\\English\\cuckoo.jpg",
       "audioLink": "cuckoo.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un grande uccello da preda potente con un'ampia apertura alare, che si trova nei monti e nelle foreste.",
       "example": "L'aigle planait au-dessus de nos têtes, ses ailes déployées. L'année dernière, un aigle avait construit son nid sur la falaise. D'ici à nächsten mois, l'aigle aura appris à chasser sa proie.",
       "example_translation": "L'aquila ha planato in alto, le ali spiegate. L'anno scorso, un'aquila ha costruito un nido sulla scogliera. Entro il mese prossimo, l'aquila avrà imparato a cacciare la sua preda.",
-      "imageLink": "eagle.jpg",
+      "imageLink": "image_files\\English\\eagle.jpg",
       "audioLink": "eagle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Una luce, struttura soffice, soprattutto sui corpi degli uccelli, utilizzata per l'isolamento, il sostegno o il volo.",
       "example": "La plume de l'oiseau était douce et soyeuse. Hier, j'ai vu un oiseau se plumer. Demain, l'oiseau aura des plumes nouvelles.",
       "example_translation": "La piuma dell'uccello era soffice e setosa. Ieri, ho visto un uccello che si strappava la piuma. Domani, l'uccello crescerà nuove piume.",
-      "imageLink": "feather.jpg",
+      "imageLink": "image_files\\English\\feather.jpg",
       "audioLink": "feather.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un uccello femmina adulto, soprattutto un volatile domestico tenuto per le sue uova.",
       "example": "La poule a pondu un œuf dans le nid. Hier, j'ai vu une poule picorant le sol. Demain, la poule rooster dans l'arbre.",
       "example_translation": "La gallina ha deposto un uovo nel nido. Ieri, ho visto una gallina che beccava per terra. Domani, la gallina si riposerà nell'albero.",
-      "imageLink": "hen.jpg",
+      "imageLink": "image_files\\English\\hen.jpg",
       "audioLink": "hen.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Produrre uova, soprattutto come processo naturale delle uccelli femmine.",
       "example": "La poule pondra des œufs au printemps. Hier, le canard a pondu des œufs dans l'étang. Demain, l'oie pondra des œufs dans le nid.",
       "example_translation": "La gallina deporrà le uova in primavera. Ieri, l'anatra ha deposto le uova nella vasca. Domani, l'oca deporrà le uova nel nido.",
-      "imageLink": "lay-eggs.jpg",
+      "imageLink": "image_files\\English\\lay-eggs.jpg",
       "audioLink": "lay eggs.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un uccello notturno da preda con una testa rotonda, occhi rivolti in avanti e ciuffi alle orecchie, noto per il suo volo silenzioso e la capacità di ruotare la testa di 270 gradi.",
       "example": "Hier, j'ai vu un hibou perché dans un arbre. Aujourd'hui, il est assis sur une branche, et demain il s'envolera.",
       "example_translation": "Ieri, ho visto un gufo appollaiato su un albero. Oggi, sta seduto su un ramo, e domani volerà via.",
-      "imageLink": "owl.jpg",
+      "imageLink": "image_files\\English\\owl.jpg",
       "audioLink": "owl.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un uccello robusto con una testa piccola, un corpo florido e un caratteristico richiamo coo, spesso trovato in aree urbane.",
       "example": "J'ai nourri un pigeon de quelques miettes hier. Aujourd'hui, il marche autour de la place, et demain il regagnera son nid.",
       "example_translation": "Ieri, ho dato da mangiare a un piccione dei crusche. Oggi, sta camminando intorno alla piazza, e domani volerà indietro al suo nido.",
-      "imageLink": "pigeon.jpg",
+      "imageLink": "image_files\\English\\pigeon.jpg",
       "audioLink": "pigeon.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un grande uccello acquatico predatore con piumaggio grigio e bianco, spesso trovato vicino alle aree costiere e che si nutre di cibo.",
       "example": "J'ai regardé une mouette voler hier. Aujourd'hui, elle cherche sa nourriture sur la plage, et demain elle regagnera sa colonie.",
       "example_translation": "Ieri, ho visto un gabbiano volare sopra la testa. Oggi, sta cercando cibo sulla spiaggia, e domani volerà indietro alla sua colonia.",
-      "imageLink": "seagull.jpg",
+      "imageLink": "image_files\\English\\seagull.jpg",
       "audioLink": "seagull.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un uccello di piccole dimensioni, con corpo rotondo e becco corto e appuntito, trovato in una varietà di ambienti, spesso in stormi.",
       "example": "Le moineau perché sur le rebord de la fenêtre chantait bruyamment. Hier, j'ai vu un moineau construire son nid. D'ici à l'été prochain, j'aurai vu de nombreux moineaux dans mon jardin.",
       "example_translation": "Il passero si è posato sulla finestra, cinguettando forte. Ieri, ho visto un passero costruire il suo nido. Nell'estate prossima, avrò visto molti passeri nel mio giardino.",
-      "imageLink": "sparrow.jpg",
+      "imageLink": "image_files\\English\\sparrow.jpg",
       "audioLink": "sparrow.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un grande uccello maestoso con collo lungo e piumaggio bianco, spesso found in laghi, fiumi e zone umide.",
       "example": "Le cygne glissait sans effort sur le lac. L'année dernière, un cygne avait construit son nid sur notre propriété. Au moment où je prendrai ma retraite, j'aurai vu de nombreux cygnes dans la nature.",
       "example_translation": "Il cigno si è lasciato trasportare senza sforzo attraverso il lago. L'anno scorso, un cigno ha fatto il suo nido sulla nostra proprietà. Quando mi ritirerò, avrò visto molti cigni nel loro habitat naturale.",
-      "imageLink": "swan.jpg",
+      "imageLink": "image_files\\English\\swan.jpg",
       "audioLink": "swan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "La parte della bocca dura e appuntita di un uccello, usata per mangiare, afferrare e altre funzioni.",
       "example": "Le bec du rouge-gorge était suffisamment fort pour ouvrir la noix. Le bec du perroquet était coloré et courbe. D'ici next month, j'aurai vu de nombreux becs de différente forme et taille.",
       "example_translation": "Il becco del merlo era abbastanza forte da rompere la noce. Il becco del pappagallo era colorato e curvo. Nel mese prossimo, avrò visto molti becchi di forme e dimensioni diverse.",
-      "imageLink": "beak.jpg",
+      "imageLink": "image_files\\English\\beak.jpg",
       "audioLink": "beak.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Una colomba è un tipo di uccello noto per il suo dolce canto e natura pacifica.",
       "example": "J'ai vu une tourterelle perché sur le rebord de la fenêtre hier, je vois des tourterelles volant dans le parc chaque matin, et je lâcherai une tourterelle à mon mariage l'année prochaine.",
       "example_translation": "Ho visto una colomba appollaiata sulla finestra ieri, vedo colombi volare nel parco ogni mattina e rilascerò una colomba al mio matrimonio l'anno prossimo.",
-      "imageLink": "dove.jpg",
+      "imageLink": "image_files\\English\\dove.jpg",
       "audioLink": "dove.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un predatore è un animale che naturalmente si nutre di altri, spesso per cibo o sopravvivenza.",
       "example": "Les lions sont des prédateurs qui errent dans la savane, le requin était un prédateur traquant sa proie dans l'océan, et l'araignée sera un prédateur attendant sa prochaine repas.",
       "example_translation": "I leoni sono predatori che vagano nella savana, lo squalo era un predatore che inseguiva la sua preda nell'oceano e il ragno sarà un predatore in attesa della sua prossima pietanza.",
-      "imageLink": "predator.jpg",
+      "imageLink": "image_files\\English\\predator.jpg",
       "audioLink": "predator.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un falco è un tipo di uccello da preda noto per la sua vista acuta e il suo volo rapido.",
       "example": "Le faucon a survolé le ciel hier, les faucons sont connus pour voler silencieusement, et je vais regarder un faucon chasser sa proie demain.",
       "example_translation": "Il falco ha volato nel cielo ieri, i falchi sono noti per volare in silenzio e guarderò un falco cacciare la sua preda domani.",
-      "imageLink": "hawk.jpg",
+      "imageLink": "image_files\\English\\hawk.jpg",
       "audioLink": "hawk.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un piccolo uccello canoro che è spesso visto volare alto nel cielo.",
       "example": "J'ai vu une alouette volant haut dans le ciel hier, mais aujourd'hui elle est perchée sur une branche. Demain, j'essaierai d'apercevoir à nouveau.",
       "example_translation": "Ho visto un'allodola volare alto nel cielo ieri, ma oggi è appollaiata su un ramo. Domani, cercherò di lanciare un'altra occhiata.",
-      "imageLink": "lark.jpg",
+      "imageLink": "image_files\\English\\lark.jpg",
       "audioLink": "lark.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un uccello con piume nere e bianche, noto per rubare oggetti lucenti.",
       "example": "La pie avait volé une bague du campement, mais hier je l'ai vu la lâcher dans la forêt. Maintenant, j'essaie de la retrouver à nouveau.",
       "example_translation": "La gazza aveva rubato un anello dal campeggio, ma ieri l'ho visto lasciarlo cadere nella foresta. Ora, sto cercando di trovarlo di nuovo.",
-      "imageLink": "magpie.jpg",
+      "imageLink": "image_files\\English\\magpie.jpg",
       "audioLink": "magpie.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Una struttura costruita dagli uccelli per deporre le loro uova o crescere i loro piccoli.",
       "example": "J'ai trouvé un nid dans l'arbre hier, mais aujourd'hui il est vide. Demain, je vais vérifier à nouveau si les oiseaux sont revenus.",
       "example_translation": "Ho trovato un nido nell'albero ieri, ma oggi è vuoto. Domani, controllerò di nuovo per vedere se gli uccelli sono tornati.",
-      "imageLink": "nest-1.jpg",
+      "imageLink": "image_files\\English\\nest-1.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una struttura o luogo creato o utilizzato da un uccello, insetto o animale per deporre le uova o per riposare, nascondersi o proteggere se stesso o i suoi piccoli.",
       "example": "Le rouge-gorge a construit un nid dans le jardin, hier il finissait de le construire, aujourd'hui il nourrit ses jeunes et demain il s'envolera avec eux.",
       "example_translation": "Il pettirosso ha costruito un nido nel giardino, ieri stava finendo di costruirlo, oggi sta nutrendo i suoi piccoli e domani volerà via con loro.",
-      "imageLink": "nest.jpg",
+      "imageLink": "image_files\\English\\nest.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Le piume che ricoprono un uccello, soprattutto quando sono brillantemente colorate o hanno un modello distinto.",
       "example": "Le plumage du paon était si vibrant qu'il a attiré l'attention de tous les visiteurs du zoo, la semaine dernière il perdait ses vieilles plumes, maintenant il expose ses nouvelles couleurs et next month il commencera à mue à nouveau.",
       "example_translation": "Il piumaggio del pavone era così vibrante che ha attirato l'attenzione di tutti i visitatori dello zoo, la settimana scorsa stava perdendo le sue vecchie piume, ora sta mostrando i suoi nuovi colori e il prossimo mese inizierà a mutare di nuovo.",
-      "imageLink": "plumage.jpg",
+      "imageLink": "image_files\\English\\plumage.jpg",
       "audioLink": "plumage.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un grande uccello nero con un richiamo caratteristico, trovato nell'emisfero settentrionale, noto per la sua intelligenza e la sua abilità nel risolvere problemi.",
       "example": "Le corbeau était perché sur le rebord de la fenêtre, hier il cherchait de la nourriture, aujourd'hui il me regarde écrire et demain il s'envolera pour trouver son partenaire.",
       "example_translation": "Il corvo si è posato sulla soglia della finestra, ieri stava cercando cibo, oggi sta guardando me scrivere e domani volerà via per trovare la sua compagna.",
-      "imageLink": "raven.jpg",
+      "imageLink": "image_files\\English\\raven.jpg",
       "audioLink": "raven.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un grande uccello marino con un corpo bianco e ali lunghe, noto per la sua capacità di rimanere in volo per lunghi periodi.",
       "example": "L'oiseau de mauvais augure planait au-dessus de nous, ses ailes battant régulièrement tandis qu'il chevauchait les courants de vent. Dans le passé, l'oiseau de mauvais augure était un spectacle commun dans ces eaux. D'ici l'année prochaine, nous aurons vu beaucoup plus d'oiseaux de mauvais augure.",
       "example_translation": "L'albatro volò sopra la nostra testa, le sue ali battendo costantemente mentre cavalcava le correnti di vento. In passato, l'albatro era una vista comune in queste acque. Entro l'anno prossimo, avremo visto molti altri albatri.",
-      "imageLink": "albatross.jpg",
+      "imageLink": "image_files\\English\\albatross.jpg",
       "audioLink": "albatross.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un uccello dai colori vivaci che si nutre di insetti, in particolare api e vespe.",
       "example": "Le guêpier perché sur une branche, ses plumes étincelantes dans la lumière du soleil tandis qu'il attendait son prochain repas. Les guêpiers sont connus pour leur agilité en vol. D'ici notre retour, le guêpier aura migré vers des climats plus chauds.",
       "example_translation": "Il galletto europeo si appollaiò su un ramo, le sue piume luminose nel sole mentre aspettava la sua prossima pietanza. I galletti europei sono noti per la loro agilità in volo. Quando torneremo, il galletto europeo avrà migrato verso climi più caldi.",
-      "imageLink": "bee-eater.jpg",
+      "imageLink": "image_files\\English\\bee-eater.jpg",
       "audioLink": "bee eater.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un grosso fagiano con piumaggio nero, trovato in brughiere e lande.",
       "example": "La grande grouse noire paradait sur la lande, ses plumes de queue déployées dans un spectacle dramatique. Dans le passé, les grandes grouses noires étaient courantes dans ces parties. D'ici le printemps prochain, nous aurons vu beaucoup plus de grandes grouses noires.",
       "example_translation": "Il fagiano nero si pavoneggiò attraverso la brughiera, le sue piume della coda spiegate in una spettacolare esibizione. In passato, i fagiani neri erano comuni in queste parti. Entro la prossima primavera, avremo visto molti altri fagiani neri.",
-      "imageLink": "black-grouse.jpg",
+      "imageLink": "image_files\\English\\black-grouse.jpg",
       "audioLink": "black grouse.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un grande uccello guadatore con piumaggio nero, trovato in zone umide e prati.",
       "example": "La cigogne noire volait au-dessus des terres marécageuses, à la recherche de sa proie. Hier, elle avait volé au-dessus du lac, et demain elle volera au-dessus de la forêt.",
       "example_translation": "La cicogna nera ha volato sulla terra paludosa, cercando la sua preda. Ieri aveva volato sul lago, e domani volerà sulla foresta.",
-      "imageLink": "black-stork.jpg",
+      "imageLink": "image_files\\English\\black-stork.jpg",
       "audioLink": "black stork.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un gabbiano di media grandezza con testa nera e corpo bianco, trovato in aree costiere e parchi urbani.",
       "example": "Le goéland à tête noire plongeait vers le bas pour voler les nourritures des baigneurs. La semaine dernière, il avait plongé vers le bas pour attraper un poisson dans la mer, et le mois prochain il plongera vers le bas pour explorer la ville.",
       "example_translation": "Il gabbiano testanera si è tuffato giù per rubare cibo ai bagnanti. La scorsa settimana, si era tuffato giù per catturare un pesce in mare, e il mese prossimo si tufferà giù per esplorare la città.",
-      "imageLink": "black-headed-gull.jpg",
+      "imageLink": "image_files\\English\\black-headed-gull.jpg",
       "audioLink": "black-headed gull.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un comune uccello canoro con piumaggio nero lucido, trovato in giardini e boschi.",
       "example": "Le merle chantait sa mélodie douce depuis la branche du pommier. L'été dernier, il avait chanté son chant du matin depuis la haie, et l'hiver prochain il chantera son chant du soir depuis le toit.",
       "example_translation": "Il merlo ha cantato la sua melodia dolce dal ramo dell'albero di mele. L'estate scorsa, aveva cantato la sua canzone mattutina dal siepe, e il prossimo inverno canterà la sua canzone serale dal tetto.",
-      "imageLink": "blackbird.jpg",
+      "imageLink": "image_files\\English\\blackbird.jpg",
       "audioLink": "blackbird.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un uccello piccolo e colorato vivacemente, nativo dell'Europa e dell'Asia, noto per le sue piume blu e gialle.",
       "example": "J'ai vu une mésange bleue dans le jardin hier, et je verrai une autre demain, mais je n'en ai pas vu une la semaine dernière.",
       "example_translation": "Ho visto un cinciarello in giardino ieri, e vedrò un altro domani, ma non ne ho visto uno la settimana scorsa.",
-      "imageLink": "blue-tit.jpg",
+      "imageLink": "image_files\\English\\blue-tit.jpg",
       "audioLink": "blue tit.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Un uccello grande e nomade con una cresta distintiva e un debole per le bacche fermentate.",
       "example": "Le jaseur boréal a été vu dans la forêt, où il sera vu à nouveau l'année prochaine, et il a été vu l'hiver dernier.",
       "example_translation": "Il beccamoschino boemo è stato visto nella foresta, dove sarà visto di nuovo l'anno prossimo, e è stato visto l'inverno scorso.",
-      "imageLink": "bohemian-waxwing.jpg",
+      "imageLink": "image_files\\English\\bohemian-waxwing.jpg",
       "audioLink": "bohemian waxwing.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un gufo notturno piccolo che si trova nelle parti settentrionali dell'Europa, dell'Asia e del Nord America.",
       "example": "L'hibou boréal est connu pour son vol silencieux, et il chassera ce soir, mais il n'a pas chassé hier.",
       "example_translation": "Il gufo boreale è noto per il suo volo silenzioso, e caccia stanotte, ma non ha cacciato ieri notte.",
-      "imageLink": "boreal-owl.jpg",
+      "imageLink": "image_files\\English\\boreal-owl.jpg",
       "audioLink": "boreal owl.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "un uccello piccolo, normalmente colorato vivacemente, originario dell'Australia; un uccello da compagnia popolare",
       "example": "J'avais une perruche ondulée comme animal de compagnie lorsque j'étais enfant, elle était très colorée et amicale. J'ai une perruche ondulée maintenant, elle est encore très ludique. J'aurai une perruche ondulée l'année prochaine, elle sera un excellent compagnon.",
       "example_translation": "Avevo un parrocchetto come animale domestico quando ero un bambino, era molto colorato e amichevole. Ho un parrocchetto adesso, è ancora molto giocoso. Prenderò un parrocchetto l'anno prossimo, sarà un grande compagno.",
-      "imageLink": "budgerigar.jpg",
+      "imageLink": "image_files\\English\\budgerigar.jpg",
       "audioLink": "budgerigar.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "un uccello canoro con un corpo robusto e un cappello nero distintivo sulla sua testa, trovato in boschi e giardini",
       "example": "J'ai vu un roitelet dans le jardin la semaine dernière, il mangeait des graines du distributeur d'oiseaux. Je verrai un roitelet dans la forêt le mois prochain, il chantera sa belle chanson. J'avais vu un roitelet dans le parc l'année dernière, il était très timide et se cachait derrière un arbre.",
       "example_translation": "Ho visto un ciuffolotto in giardino la settimana scorsa, stava mangiando semi dal mangiatoia degli uccelli. Vedrò un ciuffolotto nella foresta il mese prossimo, canterà la sua bella canzone. Avevo visto un ciuffolotto nel parco l'anno scorso, era molto timido e si era nascosto dietro un albero.",
-      "imageLink": "bullfinch.jpg",
+      "imageLink": "image_files\\English\\bullfinch.jpg",
       "audioLink": "bullfinch.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "un uccello da preda di media taglia, con ali ampie, normalmente marrone o grigio nel colore",
       "example": "J'ai vu une buse volant au-dessus de ma tête hier, elle planait haut dans le ciel. Je verrai une buse perchée sur une branche d'arbre demain, elle scanne le sol pour trouver une proie. J'avais vu une buse chassant dans les champs la semaine dernière, elle était très rapide et agile.",
       "example_translation": "Ho visto una poiana volare sopra la mia testa ieri, stava volando alto nel cielo. Vedrò una poiana appollaiata su un ramo di albero domani, starà scandagliando il terreno alla ricerca di preda. Avevo visto una poiana cacciare nei campi la settimana scorsa, era molto veloce e agile.",
-      "imageLink": "buzzard.jpg",
+      "imageLink": "image_files\\English\\buzzard.jpg",
       "audioLink": "buzzard.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un canarino è un uccello canoro piccolo noto per la sua bella voce cantante e piumaggio giallo vivace.",
       "example": "Le canari chantait des mélodies suaves le matin, chante avec ses amis en ce moment, et chantera une joyeuse aria le soir.",
       "example_translation": "Il canarino cantava melodie dolci al mattino, canta con i suoi amici al presente e trillerà un motifs felice alla sera.",
-      "imageLink": "canary.jpg",
+      "imageLink": "image_files\\English\\canary.jpg",
       "audioLink": "canary.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un fringuello è un piccolo a medio-sized finch con un caratteristico patch alare bianco e un canto forte e allegro.",
       "example": "Le pinson sautait autour du jardin hier, mange des graines en ce moment, et construira un nid dans les buissons la semaine prochaine.",
       "example_translation": "Il fringuello saltellava intorno al giardino ieri, sta mangiando semi al presente e costruirà un nido nei cespugli la prossima settimana.",
-      "imageLink": "chaffinch.jpg",
+      "imageLink": "image_files\\English\\chaffinch.jpg",
       "audioLink": "chaffinch.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un gallo è un gallo maschio, noto per il suo forte canto e comportamento aggressivo durante la stagione degli amori.",
       "example": "Le coq chantait fort le matin, chante à l'aube, et fera étalage de son plumage dans la ferme demain.",
       "example_translation": "Il gallo cantava forte al mattino, canta all'alba e si pavoneggerà in cortile domani.",
-      "imageLink": "cock.jpg",
+      "imageLink": "image_files\\English\\cock.jpg",
       "audioLink": "cock.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un piccolo uccello canoro bruno che si riproduce in boschi aperti e cespugli, con un canto DISTINCTIVO e l'abitudine di muovere costantemente la coda.",
       "example": "Le pouillot véloce arrivera au printemps, chantent leur chanson en ce moment, et aura construit son nid d'ici l'automne prochain.",
       "example_translation": "Il frittellino arriverà in primavera, canta la sua canzone nel presente e avrà costruito il suo nido entro l'autunno prossimo.",
-      "imageLink": "common-chiffchaff.jpg",
+      "imageLink": "image_files\\English\\common-chiffchaff.jpg",
       "audioLink": "common chiffchaff.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Un grande uccello passerotto statuario con piumaggio grigio e bianco, collo lungo e una danza di corteggiamento DISTINCTIVA.",
       "example": "La grue cendrée a dansé dans les marais pendant des siècles, continuera à le faire en ce moment, et prospérera à l'avenir.",
       "example_translation": "La gru comune ha ballato nelle zone umide per secoli, continuerà a farlo nel presente e prospererà nel futuro.",
-      "imageLink": "common-crane.jpg",
+      "imageLink": "image_files\\English\\common-crane.jpg",
       "audioLink": "common crane.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Un uccello di media taglia, principalmente nero, con scudo frontale rosso, spesso trovato in zone umide e vicino all'acqua.",
       "example": "La poule d'eau naguait dans le lac hier, nage en ce moment, et nagera demain.",
       "example_translation": "La gallinella comune ha nuotato nel lago ieri, nuota in esso oggi e nuoterà in esso domani.",
-      "imageLink": "common-moorhen.jpg",
+      "imageLink": "image_files\\English\\common-moorhen.jpg",
       "audioLink": "common moorhen.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un uccello migratore piccolo con un canto melodioso, trovato in giardini, boschi e macchie.",
       "example": "Le rossignol chantera sa mélodie suave le soir, a chanté sa mélodie suave la nuit dernière, et aura chanté sa mélodie suave d'ici demain soir.",
       "example_translation": "L'usignolo comune canterà la sua melodia dolce nel pomeriggio, ha cantato la sua melodia dolce ieri sera e avrà cantato la sua melodia dolce entro domani sera.",
-      "imageLink": "common-nightingale.jpg",
+      "imageLink": "image_files\\English\\common-nightingale.jpg",
       "audioLink": "common nightingale.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Un piccolo fringuello con un patch rosso sulla fronte, trovato in foreste di conifere e tundra.",
       "example": "Le sizerin voltigera entre les arbres de sapin, a voltigé entre les arbres de sapin hier, et voltigera entre les arbres de sapin d'ici la semaine prochaine.",
       "example_translation": "L'organetto volerà tra gli alberi di abete, ha volato tra gli alberi di abete ieri e avrà volato tra gli alberi di abete la prossima settimana.",
-      "imageLink": "common-redpoll.jpg",
+      "imageLink": "image_files\\English\\common-redpoll.jpg",
       "audioLink": "common redpoll.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un uccello canoro migratore con un patch bianco sulla gola, trovato in campagna aperta, macchie e siepi.",
       "example": "Le gruir commun arrivera au jardin, était arrivé au jardin l'an dernier, et aura arrivé au jardin d'ici l'été prochain.",
       "example_translation": "Il bottaiolo arriverà nel giardino, è arrivato nel giardino la scorsa primavera e sarà arrivato nel giardino la prossima estate.",
-      "imageLink": "common-whitethroat.jpg",
+      "imageLink": "image_files\\English\\common-whitethroat.jpg",
       "audioLink": "common whitethroat.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un grande uccello grigio-marrone con una banda bianca distinctive sul collo, trovato nei boschi e nelle città in Europa e Asia.",
       "example": "J'ai vu un pigeon ramier commun perché sur une branche d'arbre, mais il a volé lorsque je me suis approché. Hier, j'avais vu un pigeon ramier commun picorant des miettes sur le trottoir. D'ici l'année prochaine, j'aurai vu des centaines d'entre eux dans le parc.",
       "example_translation": "Ho visto un piccione dei boschi comune appollaiato su un ramo d'albero, ma è volato via quando mi sono avvicinato. Ieri, avevo visto uno beccare briciole sul marciapiede. La prossima primavera, avrò visto centinaia di loro nel parco.",
-      "imageLink": "common-wood-pigeon.jpg",
+      "imageLink": "image_files\\English\\common-wood-pigeon.jpg",
       "audioLink": "common wood pigeon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Un grande avvoltoio del Nuovo Mondo con una testa calva caratteristica e un'apertura alare di fino a 3 metri, trovato nelle Ande e in altre regioni montuose.",
       "example": "Le condor planait au-dessus de nos têtes, ses ailes battant lentement. L'an dernier, nous avions repéré un condor nichant sur une falaise. D'ici l'année prochaine, le condor aura envoyé en vol ses petits.",
       "example_translation": "Il condor ha volato alto nel cielo, le sue ali battendo lentamente. L'anno scorso, avevamo avvistato un condor che nidificava sulla facciata della scogliera. Entro il tempo in cui torneremo l'anno prossimo, il condor avrà lasciato nidificare i suoi giovani.",
-      "imageLink": "condor.jpg",
+      "imageLink": "image_files\\English\\condor.jpg",
       "audioLink": "condor.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Un grande uccello marino con un collo lungo e un becco uncino, trovato near aree costiere e fiumi, noto per la sua capacità di tuffarsi e catturare pesci.",
       "example": "Le cormoran a plongé dans l'eau, émergeant un moment plus tard avec un poisson gigotant dans son bec. Hier, j'ai vu un cormoran perché sur un rocher, séchant ses ailes. D'ici l'été prochain, j'aurai observé des cormorans nichant sur les falaises.",
       "example_translation": "Il cormorano si è tuffato nell'acqua, emergendo un momento dopo con un pesce che lottava nel suo becco. Ieri, ho visto un cormorano appollaiato su una roccia, asciugando le sue ali. La prossima estate, avrò guardato i cormorani che nidificavano sulle scogliere.",
-      "imageLink": "cormorant.jpg",
+      "imageLink": "image_files\\English\\cormorant.jpg",
       "audioLink": "cormorant.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Un ravanello è un tipo di uccello che appartiene alla famiglia Rallidae. È un uccello di piccole o medie dimensioni con un corpo rotondo e una coda breve.",
       "example": "J'ai vu un râle dans le marais hier. Il construira son nid dans les roseaux le mois prochain. Le râle avait construit son nid dans les roseaux l'an dernier.",
       "example_translation": "Ho visto un ravanello nella palude ieri. Costruirà il suo nido tra le canne il mese prossimo. Il ravanello aveva costruito il suo nido tra le canne l'anno scorso.",
-      "imageLink": "crake.jpg",
+      "imageLink": "image_files\\English\\crake.jpg",
       "audioLink": "crake.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Una gru è un grande uccello acquatico lungo collo con un richiamo caratteristico. È un uccello sociale che vive in zone umide e praterie.",
       "example": "La grue migrera en Afrique l'hiver prochain. Elle avait migré en Afrique l'hiver dernier. La grue a migrate en Afrique chaque hiver.",
       "example_translation": "La gru migrerà in Africa il prossimo inverno. È migrata in Africa l'inverno scorso. La gru ha migrato in Africa ogni inverno.",
-      "imageLink": "crane.jpg",
+      "imageLink": "image_files\\English\\crane.jpg",
       "audioLink": "crane.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "L'allodola crestata è una specie di uccello che appartiene alla famiglia Alaudidae. Ha una cresta distinctive sulla sommità della sua testa e un canto melodioso.",
       "example": "L'alouette huppée chantera sa chanson à l'aube demain. Elle avait chanté sa chanson à l'aube hier. L'alouette huppée chante sa chanson à l'aube chaque jour.",
       "example_translation": "L'allodola crestata canterà la sua canzone all'alba di domani. Ha cantato la sua canzone all'alba di ieri. L'allodola crestata ha cantato la sua canzone all'alba ogni giorno.",
-      "imageLink": "crested-lark.jpg",
+      "imageLink": "image_files\\English\\crested-lark.jpg",
       "audioLink": "crested lark.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Un piccolo uccello con un cresta distintiva sulla testa, trovato nei boschi conifere.",
       "example": "Le méson huppé était vu volant entre les arbres, sa crête oscillant. Hier, j'ai vu un méson huppé perché sur une branche. Si je vais dans les bois demain, j'essaierai de repérer un méson huppé.",
       "example_translation": "Il cincià crestato è stato visto volare tra gli alberi, la sua cresta oscillava su e giù. Ieri, ho visto un cincià crestato appollaiato su un ramo. Se vado nei boschi domani, cercherò di avvistare un cincià crestato.",
-      "imageLink": "crested-tit.jpg",
+      "imageLink": "image_files\\English\\crested-tit.jpg",
       "audioLink": "crested tit.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Un grande uccello bruno con un becco lungo e curvo, trovato in prati umidi e brughiere.",
       "example": "Le cri plaintif du courlis résonnait sur la lande. L'été dernier, nous avons vu un courlis marchant dans les prairies. D'ici le printemps prochain, j'espère entendre à nouveau le cri du courlis.",
       "example_translation": "Il grido struggente del chiurlo ha echeggiato attraverso la brughiera. L'estate scorsa, abbiamo visto un chiurlo guadare nell'acqua bassa. Per la prossima primavera, spero di sentire di nuovo il grido del chiurlo.",
-      "imageLink": "curlew.jpg",
+      "imageLink": "image_files\\English\\curlew.jpg",
       "audioLink": "curlew.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Un giovane cigno, specialmente uno che è ancora coperto di soffice, morbido piumino.",
       "example": "Le cygneau nageait près de sa mère, impatient d'apprendre. La semaine dernière, j'ai vu un cygneau prenant son premier envol. D'ici l'hiver prochain, le cygneau aura grandi en un beau cygne.",
       "example_translation": "Il cignetto ha nuotato vicino alla madre, ansioso di imparare. La scorsa settimana, ho visto un cignetto fare il suo primo volo. Per l'inverno prossimo, il cignetto sarà cresciuto in un bellissimo cigno.",
-      "imageLink": "cygnet.jpg",
+      "imageLink": "image_files\\English\\cygnet.jpg",
       "audioLink": "cygnet.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Un grande e potente gufo con una testa larga e orecchie rivolte in avanti, trovato in boschi e praterie del Vecchio Mondo.",
       "example": "Le hulotte grande perchée sur une branche, observait sa proie. Elle l'a observée pendant des heures et continuera à observer jusqu'à ce qu'elle frappe. Elle frappera bientôt.",
       "example_translation": "Il gufo reale si è posato su un ramo, guardando la sua preda. Ha guardato per ore, e continuerà a guardare fino a quando non colpirà. Colpirà presto.",
-      "imageLink": "eagle-owl.jpg",
+      "imageLink": "image_files\\English\\eagle-owl.jpg",
       "audioLink": "eagle owl.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Un grande uccello impossibile a volare originario dell'Australia, con un piumaggio morbido e piumato e un colore marrone caratteristico.",
       "example": "L'émeu a couru à travers l'outback, ses pattes puissantes la portant à des vitesses incroyables. Elle courra pendant des heures, puis se reposerait. Elle se reposerait bientôt.",
       "example_translation": "L'emu ha attraversato l'outback, le sue potenti gambe portandola a velocità incredibili. Correrà per ore, e poi si riposerà. Si riposerà presto.",
-      "imageLink": "emu.jpg",
+      "imageLink": "image_files\\English\\emu.jpg",
       "audioLink": "emu.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un uccello da preda veloce e agile, con un corpo snello e ali lunghe e appuntite, utilizzato per la caccia e le corse.",
       "example": "Le faucon a survolé les cieux, ses ailes battant rapidement tandis qu'il poursuivait sa proie. Il attrapera bientôt sa proie, puis retournera à son nid. Il est retourné à son nid hier.",
       "example_translation": "Il falco ha volato attraverso i cieli, le sue ali battendo rapidamente mentre inseguiva la sua preda. Coglierà la sua preda presto, e poi tornerà al suo nido. È tornato al suo nido ieri.",
-      "imageLink": "falcon.jpg",
+      "imageLink": "image_files\\English\\falcon.jpg",
       "audioLink": "falcon.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Un fenicottero è un tipo di uccello che cammina nell'acqua noto per le sue piume rosa brillanti e la forma distintiva del becco.",
       "example": "J'ai vu un flamant au zoo hier. Le flamant mange maintenant. Le flamant migrera en Afrique le mois prochain.",
       "example_translation": "Ho visto un fenicottero allo zoo ieri. Il fenicottero sta mangiando ora. Il fenicottero migrerà in Africa il mese prossimo.",
-      "imageLink": "flamingo.jpg",
+      "imageLink": "image_files\\English\\flamingo.jpg",
       "audioLink": "flamingo.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Un oche maschio è un maschio di oca, specialmente uno domestico, noto per il suo comportamento aggressivo durante la stagione di riproduzione.",
       "example": "Le jarrier m'a poursuivi à la ferme la semaine dernière. Le jarrier est très protecteur de son partenaire. Le jarrier attaquera quiconque approchera de son nid.",
       "example_translation": "L'oche maschio mi ha inseguito alla fattoria la scorsa settimana. L'oche maschio è molto protettivo verso la sua compagna. L'oche maschio attaccherà chiunque si avvicini al suo nido.",
-      "imageLink": "gander.jpg",
+      "imageLink": "image_files\\English\\gander.jpg",
       "audioLink": "gander.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "L'usignolo degli orti è un piccolo uccello passeriforme comune nei giardini e nei boschi, noto per la sua canzone melodica.",
       "example": "J'ai entendu un fauvier chanter dans mon jardin hier matin. Le fauvier construit son nid dans les buissons. Le fauvier migrera en Afrique l'hiver.",
       "example_translation": "Ho sentito un usignolo degli orti cantare nel mio cortile posteriore la mattina scorsa. L'usignolo degli orti costruisce il suo nido nei cespugli. L'usignolo degli orti migrerà in Africa in inverno.",
-      "imageLink": "garden-warbler.jpg",
+      "imageLink": "image_files\\English\\garden-warbler.jpg",
       "audioLink": "garden warbler.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Un'anatra piccola, con piumaggio scuro, che migra in estate in Eurasia e Africa, con una testa distinctive stirata di nero e bianco.",
       "example": "La sarcelle était une rareté dans les zones humides, mais nous avons eu la chance de la repérer l'été dernier. Elle niche ici depuis des années, et nous espérons la revoir l'année prochaine. D'ici là, nous l'aurons observée pendant dix ans.",
       "example_translation": "Il codone era un'avvistamento raro nelle zone umide, ma siamo stati fortunati a vederne uno l'ultimo estate. Ha nidificato lì per anni e speriamo di vederlo di nuovo l'anno prossimo. A quel punto, lo avremo osservato per un decennio.",
-      "imageLink": "garganey.jpg",
+      "imageLink": "image_files\\English\\garganey.jpg",
       "audioLink": "garganey.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Un uccello piccolo, con colori vivaci, con una cresta distintiva gialla sulla testa, trovato nelle foreste di conifere d'Europa e Asia.",
       "example": "Le roitelet a perché sur la branche de sapin, son plumage brillant se détachant contre les aiguilles vertes. Il construira bientôt son nid ici, et nous ne pouvons pas attendre de voir les petits oiseaux. D'ici l'hiver prochain, ils auront pris leur envol.",
       "example_translation": "Il regolo si è posato sul ramo di abete, il suo piumaggio luminoso risaltava contro le aghi verde. Costruirà il suo nido qui presto, e non vediamo l'ora di vedere gli uccellini. L'inverno prossimo, saranno volati via.",
-      "imageLink": "goldcrest.jpg",
+      "imageLink": "image_files\\English\\goldcrest.jpg",
       "audioLink": "goldcrest.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Un grande uccello da preda, con una nuca distinctive marrone dorato, trovato nelle montagne e nella campagna aperta dell'Emisfero Boreale.",
       "example": "L'aigle royal a survolé la vallée, son cri perçant résonnant contre les falaises. Elle a niché ici pendant des années, et nous espérons le revoir l'été prochain. D'ici là, ses poussins auront appris à voler.",
       "example_translation": "L'aquila reale volò attraverso la valle, il suo grido piercingo rimbalzava contro le scogliere. Ha nidificato qui per anni, e speriamo di vederla di nuovo l'estate prossima. A quel punto, i suoi pulcini avranno imparato a volare.",
-      "imageLink": "golden-eagle.jpg",
+      "imageLink": "image_files\\English\\golden-eagle.jpg",
       "audioLink": "golden eagle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Un uccello con piumaggio giallo chiaro e nero, originario dell'Africa e dell'Europa meridionale.",
       "example": "Le loriolot doré a chanté une mélodie suave ce matin, il chantera à nouveau ce soir, et il a chanté une berceuse hier soir.",
       "example_translation": "L'oriolo dorato cantò una dolce melodia nel mattino, canterà di nuovo nel pomeriggio e cantò una ninna nanna la scorsa notte.",
-      "imageLink": "golden-oriole.jpg",
+      "imageLink": "image_files\\English\\golden-oriole.jpg",
       "audioLink": "golden oriole.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Un uccello piccolo con faccia gialla vivace e un canto caratteristico, originario dell'Europa e dell'Asia.",
       "example": "Le chardonneret s'est posé sur la branche, il se posera sur le fil demain, et il s'est posé sur la clôture hier.",
       "example_translation": "Il cardellino si è posato sul ramo, si poserà sul filo domani e si è posato sulla recinzione ieri.",
-      "imageLink": "goldfinch.jpg",
+      "imageLink": "image_files\\English\\goldfinch.jpg",
       "audioLink": "goldfinch.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Un giovane oca, in particolare uno che ha appena schiuso.",
       "example": "Le jeune oie marchait derrière sa mère, il marchera sur l'herbe demain, et il a marché sur le sentier hier.",
       "example_translation": "L'anatroccolo ha camminato dietro sua madre, camminerà sull'erba domani e ha camminato sul sentiero ieri.",
-      "imageLink": "gosling.jpg",
+      "imageLink": "image_files\\English\\gosling.jpg",
       "audioLink": "gosling.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Un grande uccello acquatico con una testa nera e bianca striata, trovato nei laghi e nei fiumi in Europa e Asia.",
       "example": "Le grèbe huppé nageait dans le lac, ses plumes de tête affichant avec fierté son huppe. Il fait cela depuis des années, et continuera à le faire à l'avenir. Hier, il a été vu faisant la même chose.",
       "example_translation": "Lo svasso collorosso stava nuotando nel lago, le piume della testa mostravano orgogliosamente la sua cresta. Ha fatto questo per anni e continuerà a farlo in futuro. Ieri, è stato visto fare lo stesso.",
-      "imageLink": "great-crested-grebe.jpg",
+      "imageLink": "image_files\\English\\great-crested-grebe.jpg",
       "audioLink": "great crested grebe.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Un piccolo uccello dai colori vivaci con un canto distinto, trovato nei giardini e nei boschi in Europa e Asia.",
       "example": "La mésange charbonnière chantait sa mélodie suave dans le jardin, elle fait cela chaque matin, et continuera à le faire demain. Hier, elle a été vue s'envolant du nourrisseur.",
       "example_translation": "La cincia stava cantando la sua dolce melodia nel giardino, ha fatto questo ogni mattina e continuerà a farlo domani. Ieri, è stato visto volare via dal mangiatoia.",
-      "imageLink": "great-tit.jpg",
+      "imageLink": "image_files\\English\\great-tit.jpg",
       "audioLink": "great tit.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Un grande airone bianco con un becco giallo, trovato in zone umide e aree costiere in Africa, Asia ed Europa.",
       "example": "L'aigrette blanche pataugeait dans l'eau peu profonde, elle le fera à l'aube demain, et l'a fait hier. Son long cou était courbé tandis qu'elle cherchait des poissons.",
       "example_translation": "L'airone bianco maggiore stava guadando nell'acqua bassa, farà questo all'alba di domani e ha fatto lo stesso ieri. Il suo collo lungo era piegato mentre cercava i pesci.",
-      "imageLink": "great-white-egret.jpg",
+      "imageLink": "image_files\\English\\great-white-egret.jpg",
       "audioLink": "great white egret.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Un tipo di uccello acquatico con un collo lungo e una testa a strisce nere e bianche distinctive.",
       "example": "J'ai vu un grèbe nageant dans le lac hier. Maintenant, il niche sur la rive. L'année prochaine, il migrera vers l'Afrique.",
       "example_translation": "Ho visto una folaga nuotare nel lago ieri. Ora sta costruendo il nido sulla riva. L'anno prossimo, migrerà in Africa.",
-      "imageLink": "grebe.jpg",
+      "imageLink": "image_files\\English\\grebe.jpg",
       "audioLink": "grebe.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Un grande uccello acquatico con un piumaggio grigio e bianco, spesso visto fermo nell'acqua bassa.",
       "example": "L'héron gris traquait sa proie dans la marais. Il avait attendu des heures, mais a finalement attrapé un poisson. Il fera la même chose demain.",
       "example_translation": "L'airone cenerino stava cacciando la sua preda nella palude. Aveva aspettato per ore, ma finalmente ha catturato un pesce. Farà lo stesso domani.",
-      "imageLink": "heron.jpg",
+      "imageLink": "image_files\\English\\heron.jpg",
       "audioLink": "grey heron.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Una grande oca selvatica con un piumaggio grigio e marrone, spesso vista in zone umide e praterie.",
       "example": "L'oie cendrée volait au-dessus, criant fort. Elle avait migré pendant des semaines, mais a finalement atteint sa destination. Elle y restera jusqu'au printemps.",
       "example_translation": "L'oca selvatica stava volando sopra la testa, emettendo un forte schiamazzo. Aveva migrato per settimane, ma finalmente ha raggiunto la sua destinazione. Rimarrà lì fino a primavera.",
-      "imageLink": "greylag-goose.jpg",
+      "imageLink": "image_files\\English\\greylag-goose.jpg",
       "audioLink": "greylag goose.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Un grande uccello con un corpo rotondo e una struttura distinctive a forma di elmetto sulla testa, originario dell'Africa e spesso tenuto come animale domestico.",
       "example": "J'ai vu une pintade errant sur la ferme hier. J'en avais vu une avant, mais il faudra attendre un moment avant de voir une autre. D'ici l'année prochaine, j'aurai vu de nombreuses pintades.",
       "example_translation": "Ho visto un fagiano della Guinea vagare intorno alla fattoria ieri. Avevo visto uno prima, ma passerà del tempo prima di vederne un altro. L'anno prossimo, avrò visto molti fagiani della Guinea.",
-      "imageLink": "guinea-fowl.jpg",
+      "imageLink": "image_files\\English\\guinea-fowl.jpg",
       "audioLink": "guinea fowl.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Un grande, robusto fringuello con un becco forte, trovato in boschi e giardini, che si nutre di semi e frutti.",
       "example": "Le gros bec se était perché sur la branche du chêne, cassant la noix avec son bec puissant. Il avait mangé les graines du jardin tout le matin. D'ici l'hiver prochain, il aura mangé toutes les graines.",
       "example_translation": "Il cocco si era posato sul ramo del quercia, aprendo la noce con il suo becco potente. Aveva stato mangiando i semi dal giardino tutta la mattina. L'inverno prossimo, avrà mangiato tutti i semi.",
-      "imageLink": "hawfinch.jpg",
+      "imageLink": "image_files\\English\\hawfinch.jpg",
       "audioLink": "hawfinch.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Un gallo di media taglia con un piumaggio marrone e una striscia nera distinctive sopra l'occhio, trovato in boschi e lande.",
       "example": "J'ai vu une gélinotte des bois traverser le sol de la forêt hier. J'avais déjà vu une gélinotte des bois, mais ce sera un moment avant que je n'en voie une autre. D'ici l'été prochain, j'aurai vu de nombreuses gélinottes des bois.",
       "example_translation": "Ho visto un gallo cedrone scattare attraverso il pavimento del bosco ieri. Avevo visto uno prima, ma passerà del tempo prima di vederne un altro. L'estate prossima, avrò visto molti galli cedroni.",
-      "imageLink": "hazel-grouse.jpg",
+      "imageLink": "image_files\\English\\hazel-grouse.jpg",
       "audioLink": "hazel grouse.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "L'upupa è un uccello di media grandezza con una cresta distintiva sulla testa, trovato in regioni calde del mondo.",
       "example": "L'oiseau huppe a été considéré comme sacré dans de nombreuses cultures, j'ai vu une huppe dans le parc hier, et j'essaierai d'attirer une huppe dans mon jardin l'été prochain.",
       "example_translation": "L'uccello upupa è stato considerato sacro in molte culture, ho visto un upupa nel parco ieri, e cercherò di attirare un upupa nel mio giardino il prossimo estate.",
-      "imageLink": "hoopoe.jpg",
+      "imageLink": "image_files\\English\\hoopoe.jpg",
       "audioLink": "hoopoe.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Il colibrì è un uccello minuscolo, molto colorato, che può librarsi in aria, trovato in regioni calde delle Americhe.",
       "example": "Les ailes du colibri battaient à une vitesse incroyable, j'ai regardé un colibri boire du nectar dans une fleur, et j'espère apercevoir un colibri lors de mon prochain voyage au Costa Rica.",
       "example_translation": "Le ali del colibrì battono ad una velocità incredibile, ho guardato un colibrì bere nettare da un fiore, e spero di avvistare un colibrì nel mio prossimo viaggio in Costa Rica.",
-      "imageLink": "hummingbird.jpg",
+      "imageLink": "image_files\\English\\hummingbird.jpg",
       "audioLink": "hummingbird.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "L'ibis è un uccello con un lungo becco, che passeggiando, si trova in regioni calde e tropicali del mondo.",
       "example": "L'ibis est un symbole de l'Égypte antique, j'ai vu un vol d'ibis voler au-dessus de ma tête, et j'essaierai de repérer un ibis lors de ma prochaine visite au zoo.",
       "example_translation": "L'ibis è un simbolo dell'antico Egitto, ho visto un branco di ibis volare sopra la testa, e cercherò di avvistare un ibis nella mia prossima visita allo zoo.",
-      "imageLink": "ibis.jpg",
+      "imageLink": "image_files\\English\\ibis.jpg",
       "audioLink": "ibis.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Un grande uccello nero con una nuca grigia, trovato nelle foreste e nei boschi, noto per la sua natura audace e curiosa.",
       "example": "Le crave perchait sur le rebord de la fenêtre, regardant les miettes sur la table. Hier, un crave avait volé un morceau de pain au marché. D'ici l'année prochaine, le crave aura construit un nid dans le vieil chêne.",
       "example_translation": "Il gracchio si è posato sulla finestra, guardando le briciole sulla tavola. Ieri, un gracchio aveva rubato un pezzo di pane dal banco del mercato. Entro l'anno prossimo, il gracchio avrà costruito un nido nell'antica quercia.",
-      "imageLink": "jackdaw.jpg",
+      "imageLink": "image_files\\English\\jackdaw.jpg",
       "audioLink": "jackdaw.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Un uccello dalle colori vivaci con una cresta distinctive e una natura audace e curiosa, trovato nei boschi e nei giardini.",
       "example": "Le geai a exhibé ses plumes colorées en volant à travers le jardin. La semaine dernière, un geai avait construit un nid dans le chêne. D'ici l'été, le geai aura migré vers ses terres de reproduction.",
       "example_translation": "La gazza ha lampeggiato le sue piume luminose mentre volava attraverso il giardino. La scorsa settimana, una gazza aveva costruito un nido nell'albero di quercia. Per l'estate, la gazza sarà migrata nei suoi terreni di riproduzione.",
-      "imageLink": "jay.jpg",
+      "imageLink": "image_files\\English\\jay.jpg",
       "audioLink": "jay.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Un piccolo, agile falco con un corpo snello e un volo veloce e sfrecciante, trovato nella campagna aperta e nei prati.",
       "example": "Le faucon crécerelle a plongé pour attraper un souriceau dans le champ. Hier, un faucon crécerelle avait perché sur une borne, surveillant le paysage. D'ici le printemps prochain, le faucon crécerelle aura regagné son site de nidification.",
       "example_translation": "L'allocco si è tuffato giù per catturare un topo nel campo. Ieri, un allocco si era posato sulla staccionata, esaminando il paesaggio. Per la prossima primavera, l'allocco sarà tornato al suo sito di nidificazione.",
-      "imageLink": "kestrel.jpg",
+      "imageLink": "image_files\\English\\kestrel.jpg",
       "audioLink": "kestrel.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Un martin pescatore è un tipo di uccello noto per il suo piumaggio brillante e la sua capacità di tuffarsi in acqua per catturare pesci.",
       "example": "J'ai vu un marteau voler au-dessus du lac hier. Il construira un nid près de la rivière le mois prochain. J'ai vu des marteaux attrapant des poissons le matin.",
       "example_translation": "Ho visto un martin pescatore volare sopra il lago ieri. Costruirà un nido vicino al fiume il mese prossimo. Ho visto martin pescatori catturare pesci nel mattino.",
-      "imageLink": "kingfisher.jpg",
+      "imageLink": "image_files\\English\\kingfisher.jpg",
       "audioLink": "kingfisher.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Un kiwi è un tipo di frutto originario della Cina e noto per la sua pelle marrone epelosa e la sua polpa verde e succosa.",
       "example": "J'ai mangé un kiwi ce matin. Les kiwis seront en vente au marché la semaine prochaine. Elle a mangé des kiwis tous les matins depuis un an.",
       "example_translation": "Ho mangiato un kiwi per colazione oggi. I kiwi saranno in vendita al mercato la settimana prossima. Ha mangiato kiwi ogni mattina per un anno.",
-      "imageLink": "kiwi.jpg",
+      "imageLink": "image_files\\English\\kiwi.jpg",
       "audioLink": "kiwi.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "Una pavoncella è un tipo di uccello noto per la sua cresta caratteristica e il suo verso alto e stridulo.",
       "example": "J'ai vu un vanneau voler au-dessus des champs hier. Les vanneaux migreront vers l'Afrique le mois prochain. Ils ont observé des vanneaux nichant sur le sol pendant des années.",
       "example_translation": "Ho visto una pavoncella volare sopra i campi ieri. Le pavoncelle migreranno in Africa il mese prossimo. Hanno osservato pavoncelle che nidificano a terra per anni.",
-      "imageLink": "lapwing.jpg",
+      "imageLink": "image_files\\English\\lapwing.jpg",
       "audioLink": "lapwing.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "Un gabbiano di medie dimensioni con dorso e ali nere, trovato in una varietà di habitat, tra cui aree costiere, prati e centri urbani.",
       "example": "Le goéland brun a été vu volant au-dessus, son cri distinct résonnant dans l'air. Il était venu de la côte pour fouiller les poubelles à la recherche de nourriture. D'ici le printemps prochain, il sera retourné à ses terrains de reproduction.",
       "example_translation": "Il gabbiano Vulcano è stato visto volare sopra la testa, il suo richiamo distintivo riverberava nell'aria. Era volato dalla costa per cercare cibo nei cestini della spazzatura. Entro la prossima primavera, sarà tornato ai suoi terreni di riproduzione.",
-      "imageLink": "lesser-black-backed-gull.jpg",
+      "imageLink": "image_files\\English\\lesser-black-backed-gull.jpg",
       "audioLink": "lesser black-backed gull.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Un'aquila grande, bruno-scuro con un'apertura alare di fino a 2 metri, trovata in foreste e prati, principalmente alimentandosi di piccoli mammiferi e uccelli.",
       "example": "L'aigle pomarin avait niché dans le même arbre depuis des années, son regard perçant scrutant le paysage à la recherche de proies. Il avait plongé dernier semana pour attraper un lapin incaut. D'ici l'hiver, il sera parti vers le sud pour fuir le climat rude.",
       "example_translation": "L'aquila macchiata minore aveva nidificato nello stesso albero per anni, il suo sguardo penetrante scandagliava il paesaggio in cerca di preda. Era calata giù per afferrare un coniglio inaspettato la settimana scorsa. Quando arriverà l'inverno, sarà volata a sud per sfuggire al clima rigido.",
-      "imageLink": "lesser-spotted-eagle.jpg",
+      "imageLink": "image_files\\English\\lesser-spotted-eagle.jpg",
       "audioLink": "lesser spotted eagle.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Un piccolo uccello canoro bruno-rosso con una corona bianca distintiva, trovato in giardini, boschi e siepi, principalmente alimentandosi di semi e frutta.",
       "example": "La linotte était perchée sur la clôture du jardin, son chant mélodieux emplissant l'air. Elle avait mangé les graines du nourrisseur d'oiseaux la semaine dernière. D'ici l'été prochain, elle aura élevé une nouvelle nichée de poussins.",
       "example_translation": "Il lino era appollaiato sulla recinzione del giardino, la sua canzone melodiosa riempiva l'aria. Aveva mangiato i semi dal mangiatoia degli uccelli la settimana scorsa. Entro la prossima estate, avrà allevato una nuova covata di pulcini.",
-      "imageLink": "linnet.jpg",
+      "imageLink": "image_files\\English\\linnet.jpg",
       "audioLink": "linnet.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "Un asino orechio lungo è un uccello notturno della preda che appartiene al genere Plecotus, caratterizzato dalle sue lunghe orecchie e dalla sua capacità di volare in silenzio.",
       "example": "Dans le passé, les humains croyaient que les hiboux moyen-duc étaient un présage de mauvais augure. Actuellement, les scientifiques étudient les habitats des hiboux moyen-duc pour comprendre leur comportement. À l'avenir, nous apprendrons plus sur l'importance des hiboux moyen-duc dans notre écosystème.",
       "example_translation": "Nel passato, gli esseri umani credevano che gli asini orechio lungo fossero un segno di cattiva sorte. Attualmente, gli scienziati stanno studiando gli habitat degli asini orechio lungo per comprendere il loro comportamento. Nel futuro, impareremo di più sull'importanza degli asini orechio lungo nel nostro ecosistema.",
-      "imageLink": "long-eared-owl.jpg",
+      "imageLink": "image_files\\English\\long-eared-owl.jpg",
       "audioLink": "long-eared owl.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "Un'anatra selvatica è un'anatra grande che si trova dappertutto nel mondo, conosciuta per la sua testa verde e il suo becco giallo.",
       "example": "Dans le passé, les canards colverts migraient vers les climats plus chauds pendant l'hiver. Aujourd'hui, ils sont communément trouvés dans les parcs urbains. À l'avenir, les efforts de conservation aideront à protéger la population de canards colverts.",
       "example_translation": "Nel passato, le anatre selvatiche migravano verso climi più caldi durante l'inverno. Oggi, sono comunemente trovate nei parchi urbani. Nel futuro, gli sforzi di conservazione aiuteranno a proteggere la popolazione delle anatre selvatiche.",
-      "imageLink": "mallard.jpg",
+      "imageLink": "image_files\\English\\mallard.jpg",
       "audioLink": "mallard.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "Una cincia palustre è un piccolo uccello passero che si trova negli habitat delle zone umide, caratterizzato dal suo piumaggio grigio e marrone e dal suo canto distintivo.",
       "example": "Dans le passé, les mésanges lagunes étaient trouvées uniquement dans les zones humides reculées. Actuellement, elles sont des visiteuses fréquentes des nourrisseurs d'oiseaux de jardin. À l'avenir, le changement climatique pourrait affecter leur habitat et leur population.",
       "example_translation": "Nel passato, le cincie palustri si trovavano solo in zone umide remote. Attualmente, sono visitatori comuni alle mangiatoie dei giardini. Nel futuro, il cambiamento climatico potrebbe influire sul loro habitat e sulla popolazione.",
-      "imageLink": "marsh-tit.jpg",
+      "imageLink": "image_files\\English\\marsh-tit.jpg",
       "audioLink": "marsh tit.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "Un usignolo è un piccolo uccello notturno con un canto melodioso, trovato in Europa e Asia.",
       "example": "Dans le passé, les rossignols chantaient dans les bois près de mon village. Maintenant, ils chantent le matin et le soir, et continueront de le faire à l'avenir.",
       "example_translation": "In passato, gli usignoli cantavano nei boschi vicino al mio villaggio. Ora, cantano al mattino e alla sera, e continueranno a farlo in futuro.",
-      "imageLink": "nightingale.jpg",
+      "imageLink": "image_files\\English\\nightingale.jpg",
       "audioLink": "nightingale.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Un succiacapre è un uccello notturno con una livrea criptica, trovato in regioni calde e temperate.",
       "example": "Hier soir, j'ai vu un engoulevent volant dans l'obscurité. Plus tôt, j'avais vu perché sur une branche d'arbre, et je le verrai à nouveau demain soir.",
       "example_translation": "La scorsa notte, ho visto un succiacapre volare nel buio. Prima, l'avevo visto appollaiato su un ramo d'albero, e lo vedrò di nuovo domani notte.",
-      "imageLink": "nightjar.jpg",
+      "imageLink": "image_files\\English\\nightjar.jpg",
       "audioLink": "nightjar.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "Un falco pescatore è un grande uccello rapace mangiatore di pesci, trovato vicino ai laghi e alle aree costiere.",
       "example": "Hier, j'ai vu un balbuzard plongeant dans le lac pour attraper un poisson. Aujourd'hui, il est assis sur une branche d'arbre, et demain il volera au-dessus de l'océan.",
       "example_translation": "Ieri, ho visto un falco pescatore tuffarsi nel lago per prendere un pesce. Oggi, sta seduto su un ramo d'albero, e domani volerà sopra l'oceano.",
-      "imageLink": "osprey.jpg",
+      "imageLink": "image_files\\English\\osprey.jpg",
       "audioLink": "osprey.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "Un tipo di uccello che appartiene alla famiglia dei fagiani, solitamente con un piumaggio grigio e marrone e un becco curvo.",
       "example": "Hier, j'ai vu une perdrix perchée sur une branche d'arbre. Aujourd'hui, elle prend une sieste dans un buisson. Demain, j'essaierai de l'attraper.",
       "example_translation": "Ieri, ho visto uno starnazzino appollaiato su un ramo d'albero. Oggi, sta facendo un sonnellino nel cespuglio. Domani, cercherò di catturarlo.",
-      "imageLink": "partridge.jpg",
+      "imageLink": "image_files\\English\\partridge.jpg",
       "audioLink": "partridge.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Un grande uccello dai vivaci colori con un richiamo caratteristico e una coda a ventaglio, nativo delle foreste dell'India e del Sud-est asiatico.",
       "example": "Le paon a déployé ses magnifiques plumes de queue hier. Aujourd'hui, il expose fièrement son plumage. L'année prochaine, il aura des couleurs encore plus vives.",
       "example_translation": "Il pavone ha dispiegato le sue magnifiche penne della coda ieri. Oggi, sta esibendo orgogliosamente il suo piumaggio. L'anno prossimo, avrà colori ancora più vivaci.",
-      "imageLink": "peacock.jpg",
+      "imageLink": "image_files\\English\\peacock.jpg",
       "audioLink": "peacock.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Un grande uccello acquatico con un becco a tasca caratteristico, trovato in regioni calde e tropicali, che si nutre di pesci e altri animali acquatici.",
       "example": "Le pélican a plongé dans le lac hier. Aujourd'hui, il nage près de la rive. Demain, il s'envolera vers son nid.",
       "example_translation": "Il pellicano si è tuffato nel lago ieri. Oggi, sta nuotando vicino alla riva. Domani, volerà indietro al suo nido.",
-      "imageLink": "pelican.jpg",
+      "imageLink": "image_files\\English\\pelican.jpg",
       "audioLink": "pelican.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Un grande falco delle dimensioni di una cornacchia con una costruzione snella e ali lunghe e appuntite, solitamente grigio e bianco con un cappuccio nero e occhi gialli.",
       "example": "Le faucon pèlerin a été utilisé dans la fauconnerie pendant des siècles. Au Moyen Âge, il était un oiseau populaire parmi les nobles. Aujourd'hui, des efforts de conservation sont en place pour protéger le faucon pèlerin et ses habitats.",
       "example_translation": "Il falco pellegrino è stato utilizzato nella falconeria per secoli. Nel Medioevo, era un uccello popolare tra i nobili. Oggi, ci sono sforzi di conservazione in atto per proteggere il falco pellegrino e i suoi habitat.",
-      "imageLink": "peregrine-falcon.jpg",
+      "imageLink": "image_files\\English\\peregrine-falcon.jpg",
       "audioLink": "peregrine falcon.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Un grande uccello che vive a terra con piume iridescenti, originario dell'Asia, noto per la sua livrea vibrante e richiami distintivi.",
       "example": "Le faisan a été introduit en Europe comme oiseau de chasse au 19e siècle. Aujourd'hui, c'est une espèce populaire parmi les chasseurs. En Chine, le faisan est considéré comme un mets délicieux et est souvent servi lors de banquets.",
       "example_translation": "Il fasano è stato introdotto in Europa come uccello da caccia nel 19° secolo. Oggi, è una specie popolare tra i cacciatori. In Cina, il fasano è considerato un piatto prelibato e viene spesso servito ai banchetti.",
-      "imageLink": "pheasant.jpg",
+      "imageLink": "image_files\\English\\pheasant.jpg",
       "audioLink": "pheasant.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Uccelli domestici allevati per le uova, la carne o le piume, come polli, tacchini, anatre e oche.",
       "example": "Le fermier élève de la volaille sur sa ferme pour les vendre au marché. Dans le passé, la volaille était un aliment de base dans de nombreuses cultures. Aujourd'hui, il y a des inquiétudes quant au traitement de la volaille dans les fermes d'élevage intensif.",
       "example_translation": "Il contadino alleva pollame nella sua fattoria per venderlo al mercato. Nel passato, il pollame era un alimento base in molte culture. Oggi, ci sono preoccupazioni sul trattamento del pollame nei factory farm.",
-      "imageLink": "poultry.jpg",
+      "imageLink": "image_files\\English\\poultry.jpg",
       "audioLink": "poultry.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Una specie di gufo trovata nell'emisfero occidentale, caratterizzata dalle sue dimensioni ridotte e piumaggio distintivo.",
       "example": "Le hibou nain a été aperçu dans le vieux chêne hier soir, il repère sa proie au crépuscule et il repérera un lapin demain matin.",
       "example_translation": "Il barbagianni nano era stato avvistato nel vecchio olmo la scorsa notte, aveva individuato la sua preda al crepuscolo e individuerà un coniglio domattina.",
-      "imageLink": "pygmy-owl.jpg",
+      "imageLink": "image_files\\English\\pygmy-owl.jpg",
       "audioLink": "pygmy owl.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Un uccello piccolo, terricolo, nativo dell'Asia e dell'Europa, noto per il suo ciuffo caratteristico e piumaggio marrone.",
       "example": "La caille volera vers le sud pour l'hiver, elle a volé vers le nord au printemps et elle vole vers l'est pour fuir la tempête.",
       "example_translation": "La quaglia volerà a sud per l'inverno, aveva volato a nord in primavera e vola a est per sfuggire alla tempesta.",
-      "imageLink": "quail.jpg",
+      "imageLink": "image_files\\English\\quail.jpg",
       "audioLink": "quail.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Un uccello acquatico trovato in acque fresche e salmastre, caratterizzato dal collo rosso e corona nera.",
       "example": "Le grèbe à cou roux plonge dans le lac pour attraper des poissons, il plongea dans la rivière pour fuir le prédateur et il plongera dans l'océan pour explorer ses profondeurs.",
       "example_translation": "L'svasso dal collo rosso si tuffa nel lago per catturare pesci, si era tuffato nel fiume per sfuggire al predatore e si tufferà nell'oceano per esplorarne le profondità.",
-      "imageLink": "red-necked-grebe.jpg",
+      "imageLink": "image_files\\English\\red-necked-grebe.jpg",
       "audioLink": "red-necked grebe.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Un uccello insettivoro di piccole dimensioni con un corpo rotondo e un petto rosso, trovato in Europa e Africa settentrionale.",
       "example": "J'ai vu un roitelet dans mon jardin hier. Il était en train de manger des vers. Il mangera des vers à nouveau demain. Il a mangé des vers la semaine dernière.",
       "example_translation": "Ho visto un pettirosso nel mio cortile ieri. Stava mangiando vermi. Mangerà vermi ancora domani. Ha mangiato vermi la settimana scorsa.",
-      "imageLink": "robin.jpg",
+      "imageLink": "image_files\\English\\robin.jpg",
       "audioLink": "robin.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Un dispositivo o strumento utilizzato per arrotolare o appiattire qualcosa, come uno strumento cilindrico per appiattire l'impasto o un dispositivo per stendere la carta.",
       "example": "J'ai utilisé un rouleau pour aplatir la pâte. Je vais l'utiliser pour dérouler le papier. J'ai utilisé pour dérouler le tapis hier.",
       "example_translation": "Ho usato un rullatore per appiattire l'impasto. Lo userò per stendere la carta. L'ho usato per stendere il tappeto ieri.",
-      "imageLink": "roller.jpg",
+      "imageLink": "image_files\\English\\roller.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "Un grande uccello nero della famiglia dei corvi, trovato nell'Europa settentrionale e centrale e in Asia.",
       "example": "J'ai vu un corbeau volant au-dessus de moi. Il faisait un bruit très fort. Il volera au-dessus de moi demain encore. Il a volé au-dessus de moi la semaine dernière.",
       "example_translation": "Ho visto un corvo volare sopra la mia testa. Stava facendo un rumore forte. Vorerà sopra la mia testa novamente domani. È volato sopra la mia testa la settimana scorsa.",
-      "imageLink": "rook.jpg",
+      "imageLink": "image_files\\English\\rook.jpg",
       "audioLink": "rook.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "un piccolo fringuello con schiena e ali grigio-brune e testa e petto giallo-verdi",
       "example": "Hier, j'ai vu un tarin perché sur une branche. Aujourd'hui, il vole autour du jardin. Demain, il migrera vers le sud.",
       "example_translation": "Ieri, ho visto un lugano appollaiato su un ramo. Oggi, sta volando attorno al giardino. Domani, migrerà a sud.",
-      "imageLink": "siskin.jpg",
+      "imageLink": "image_files\\English\\siskin.jpg",
       "audioLink": "siskin.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "un uccello dalle zampe lunghe, camuffato, che abita paludi e zone umide",
       "example": "Le chasseur a stalké la bécassine dans le marais, mais elle a volé soudainement. Plus tard, il a repéré une autre bécassine se baignant.",
       "example_translation": "Il cacciatore ha dato la caccia alla befana nella zona umida, ma è volata via improvvisamente. Più tardi, ha visto un'altra befana fare il bagno.",
-      "imageLink": "snipe.jpg",
+      "imageLink": "image_files\\English\\snipe.jpg",
       "audioLink": "snipe.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "un piccolo falco veloce che cattura piccoli uccelli in mezzo all'aria",
       "example": "L'épervier a plongé sur sa proie, mais le moineau a échappé. Plus tard, il a attrapé un pigeon en ville.",
       "example_translation": "Lo sparviere si è tuffato sulla preda, ma il passero è sfuggito. Più tardi, ha catturato un piccione in città.",
-      "imageLink": "sparrowhawk.jpg",
+      "imageLink": "image_files\\English\\sparrowhawk.jpg",
       "audioLink": "sparrowhawk.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Un piccolo uccello agile con una testa distinta a strisce nere e bianche e una lunga coda sottile, trovato in boschi aperti e giardini.",
       "example": "J'ai vu un gobemouche à collier perché sur une branche, ses yeux perçants scrutant le sol à la recherche d'insectes. Hier, j'avais vu voler au-dessus de moi, ses ailes battant rapidement. Demain, j'essaierai de le repérer à nouveau.",
       "example_translation": "Ho visto una balia macchiata appollaiata su un ramo, i suoi occhi penetranti scandagliando il terreno in cerca di insetti. Ieri, l'avevo vista volare sopra la testa, le ali battendo rapidamente. Domani, cercherò di avvistare di nuovo.",
-      "imageLink": "spotted-flycatcher.jpg",
+      "imageLink": "image_files\\English\\spotted-flycatcher.jpg",
       "audioLink": "spotted flycatcher.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Un grande uccello robusto con una schiena distinta a strisce nere e bianche e un forte becco conico, trovato in foreste di conifere.",
       "example": "Le casse-noix tacheté a ouvert la coque d'une noix de pin avec son bec fort. Hier, il avait stocké les noix dans son cache. Demain, il ouvrira encore une autre.",
       "example_translation": "La nocciola macchiata ha aperto lashell della noce di pino con il suo becco forte. Ieri, aveva immagazzinato le noci nel suo deposito. Domani, aprirà un'altra.",
-      "imageLink": "spotted-nutcracker.jpg",
+      "imageLink": "image_files\\English\\spotted-nutcracker.jpg",
       "audioLink": "spotted nutcracker.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Un uccello di piccole o medie dimensioni con un piumaggio nero lucente e una coda quadrata corta, trovato in una vasta gamma di habitat, compresi aree urbane.",
       "example": "Un troupeau d'étourneaux est descendu sur le parc, leurs plumes irisées scintillant au soleil. Hier, j'avais vu la colonie nidifiant dans un arbre voisin. Demain, ils prendront à nouveau leur envol.",
       "example_translation": "Un branco di storni è disceso sulla piazza, le loro piume iridescenti scintillando nella luce del sole. Ieri, li avevo visti fare la loro tappa notturna in un albero vicino. Domani, voleranno di nuovo.",
-      "imageLink": "starling.jpg",
+      "imageLink": "image_files\\English\\starling.jpg",
       "audioLink": "starling.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Un inghiottire è un uccello piccolo e veloce con una coda bifida, noto per la sua agilità e velocità nel volo.",
       "example": "J'ai vu une hirondelle construisant son nid dans les tuiles du toit. Hier, elle volait au-dessus de moi, et demain elle migrera en Afrique.",
       "example_translation": "Ho visto un inghiottire costruire il suo nido sotto il tetto della casa. Ieri stava volando sopra la testa, e domani migrerà in Africa.",
-      "imageLink": "swallow.jpg",
+      "imageLink": "image_files\\English\\swallow.jpg",
       "audioLink": "swallow.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Veloce si riferisce a qualcosa che si muove o accade rapidamente, o a un tipo di uccello che vola velocemente.",
       "example": "Le courant rapide a emporté le nageur en aval. La réponse rapide à l'urgence était impressionnante. L'année prochaine, le martin et aura migré au sud.",
       "example_translation": "La corrente veloce ha portato il nuotatore a valle. La risposta veloce all'emergenza è stata impressionante. L'anno prossimo, il veloce sarà volato a sud.",
-      "imageLink": "swift.jpg",
+      "imageLink": "image_files\\English\\swift.jpg",
       "audioLink": "swift.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "L'allocco è un gufo di media grandezza con un piumaggio marrone, trovato in boschi e giardini in Europa e Asia.",
       "example": "J'ai entendu le hibou moyen-duc hululer dans les bois voisins. Le hibou moyen-duc perchait sur une branche, guettant sa proie. À la tombée de la nuit, le hibou moyen-duc aura attrapé son dîner.",
       "example_translation": "Ho sentito il canto di un allocco nei boschi vicini. L'allocco si è posato sul ramo, osservando la sua preda. Al calare della notte, l'allocco avrà catturato la sua cena.",
-      "imageLink": "tawny-owl.jpg",
+      "imageLink": "image_files\\English\\tawny-owl.jpg",
       "audioLink": "tawny owl.mp3"
     }
   ]

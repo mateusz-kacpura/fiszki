@@ -9,7 +9,7 @@
       "definition_translation": "Струнный музыкальный инструмент, играющийся при помощи щипков или стрummings, используемый в широком диапазоне музыкальных жанров.",
       "example": "J'ai joué de la guitare dans un groupe lorsqu' j'étais à l'université. Maintenant, je joue à la maison. Je jouerai à la guitare au festival le mois prochain.",
       "example_translation": "Я играл на гитаре в группе, когда был в колледже. Теперь я играю на ней дома. Я буду играть на ней на фестивале nächsten месяц.",
-      "imageLink": "guitar.jpg",
+      "imageLink": "image_files\\English\\guitar.jpg",
       "audioLink": "guitar.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Музыкальный инструмент, звучащий при ударе, обычно с палкой или молотком.",
       "example": "J'ai tambouriné sur la table avec mes doigts. Elle joue du tambour dans l'orchestre. Il tambourinera au défilé demain.",
       "example_translation": "Я барабанил на столе своими пальцами. Она играет на барабане в оркестре. Он будет барабанить на параде завтра.",
-      "imageLink": "drum.jpg",
+      "imageLink": "image_files\\English\\drum.jpg",
       "audioLink": "drum.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Множественная форма барабана, относящаяся к набору барабанов или барабанному набору.",
       "example": "J'ai joué des tambours depuis que j'étais enfant. Les tambours étaient très forts au concert. Elle a joué des tambours pendant des années.",
       "example_translation": "Я играю на барабанах с тех пор, как был ребенком. Барабаны были очень громкими на концерте. Она играет на барабанах уже несколько лет.",
-      "imageLink": "drums.jpg",
+      "imageLink": "image_files\\English\\drums.jpg",
       "audioLink": "drums.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Инструмент или устройство, используемое для производства музыки, такой как гитара, скрипка или фортепиано.",
       "example": "L'instrument était magnifiquement conçu. Elle jouait de l'instrument avec habileté. Il utilisera l'instrument pour composer de la musique.",
       "example_translation": "Инструмент был красиво изготовлен. Она играла на инструменте с мастерством. Он будет использовать инструмент для сочинения музыки.",
-      "imageLink": "instrument.jpg",
+      "imageLink": "image_files\\English\\instrument.jpg",
       "audioLink": "instrument.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Клавиатура - это устройство ввода, которое используется для ввода данных в компьютер или другое электронное оборудование.",
       "example": "J'ai acheté un nouveau clavier hier, je l'utilise maintenant et je l'utiliserai pour taper mon essai demain.",
       "example_translation": "Я купил новый комплект клавиш вчера, я использую его сейчас, и яbudу использовать его для набора эссе завтра.",
-      "imageLink": "keyboard-1.jpg",
+      "imageLink": "image_files\\English\\keyboard-1.jpg",
       "audioLink": "keyboard.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Пианино - это музыкальный инструмент, который играется путем нажатия клавиш, производящих звук.",
       "example": "J'ai appris à jouer du piano lorsqu' j'étais enfant, je joue tous les jours et je jouerai au piano au mariage de ma sœur le mois prochain.",
       "example_translation": "Я научился играть на пианино, когда я был ребенком, я играю на нем каждый день, и я буду играть на нем на свадьбе моей сестры nächsten месяц.",
-      "imageLink": "piano.jpg",
+      "imageLink": "image_files\\English\\piano.jpg",
       "audioLink": "piano.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Скрипка - это деревянный струнный инструмент, который играется смычком или путем щипков струн пальцами.",
       "example": "Ma sœur a joué du violon dans l'orchestre scolaire, elle joue magnifiquement maintenant et elle jouera au concert l'année prochaine.",
       "example_translation": "Моя сестра играла на скрипке в школьном оркестре, она играет на ней красочно сейчас, и она будет играть на ней на концерте в следующем году.",
-      "imageLink": "violin.jpg",
+      "imageLink": "image_files\\English\\violin.jpg",
       "audioLink": "violin.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Волынка - это традиционный шотландский инструмент, который играется путем вдувания воздуха в мешок, который надувает трубу, производя отличный звук.",
       "example": "J'ai vu des cornemuses être jouées à un festival écossais, j'ai essayé de les jouer hier et j'apprendrai à les jouer l'été prochain.",
       "example_translation": "Я видел, как играют на волынке на шотландском фестивале, я пытался играть на них вчера, и я научусь играть на них следующим летом.",
-      "imageLink": "bagpipes.jpg",
+      "imageLink": "image_files\\English\\bagpipes.jpg",
       "audioLink": "bagpipes.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Флейта - это музыкальный инструмент, который играется, дувая воздух через отверстие эмбушюра, производя высокий звук.",
       "example": "Elle avait toujours rêvé de jouer de la flûte dans un orchestre, et enfin, elle a eu la chance. Hier, elle a répété pendant des heures pour perfectionner son solo. Demain, elle se produira devant mille personnes.",
       "example_translation": "Она всегда мечтала играть на флейте в оркестре, и finally, она получила шанс. Вчера она практиковалась несколько часов, чтобы совершить свой сольный номер. Завтра она будет выступать перед тысячей людей.",
-      "imageLink": "flute.jpg",
+      "imageLink": "image_files\\English\\flute.jpg",
       "audioLink": "flute.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Саксофон - это деревянный инструмент, который часто используется в джазе и блюзе, характеризуется своей изогнутой металлической корпусом и одинарным тростиным мундштуком.",
       "example": "Le saxophoniste a soufflé dans l'instrument avec passion, créant une mélodie âme qui a magnétisé le public. Il avait joué du saxophone depuis qu'il était adolescent, et maintenant il était un musicien professionnel.",
       "example_translation": "Саксофонист дул в инструмент с страстью, создавая душевную мелодию, которая зачаровала аудиторию. Он играл на саксофоне с тех пор, как был подростком, и теперь он был профессиональным музыкантом.",
-      "imageLink": "saxophone.jpg",
+      "imageLink": "image_files\\English\\saxophone.jpg",
       "audioLink": "saxophone.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Труба - это медный инструмент, который играется, создавая вибрацию воздуха через мундштук, производя яркий и громкий звук.",
       "example": "Le trompettiste a fait résonner un fanfare éclatant dans le stade, annonçant l'arrivée de la reine. Elle avait appris à jouer de la trompette lorsqu'elle était enfant, et maintenant elle était une musicienne renommée.",
       "example_translation": "Громкий фанфар трубача эхом разносился по стадиону, объявляя о прибытии королевы. Она научилась играть на трубе, когда была ребенком, и теперь она была известным музыкантом.",
-      "imageLink": "trumpet.jpg",
+      "imageLink": "image_files\\English\\trumpet.jpg",
       "audioLink": "trumpet.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Аккордеон - это музыкальный инструмент, который состоит из клавиатуры и меха, играется, сжимая и расширяя мех, производя богатый и динамичный звук.",
       "example": "Le joueur d'accordéon a rempli la salle de son énergie avec sa polka animée, faisant danser tout le monde. Elle avait maîtrisé l'accordéon après des années de pratique, et maintenant elle était une artiste populaire.",
       "example_translation": "Живая полька аккордеониста заполнила комнату энергией,forcing всех на ноги танцевать. Она овладела аккордеоном после лет практики, и теперь она была популярным исполнителем.",
-      "imageLink": "accordion.jpg",
+      "imageLink": "image_files\\English\\accordion.jpg",
       "audioLink": "accordion.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Струнный музыкальный инструмент, который играется путём щипков или стрhů, с низким звучанием.",
       "example": "J'ai joué de la guitare basse dans le groupe scolaire lorsque j'étais au lycée. Maintenant, je joue de la guitare basse dans un groupe de rock, et je jouerai au festival de musique le mois prochain.",
       "example_translation": "Я играл на бас-гитаре в школьном оркестре, когда был в старшей школе. Теперь я играю на ней в рок-группе, и я поиграю на ней на музыкальном фестивале nächsten miesiąca.",
-      "imageLink": "bass-guitar.jpg",
+      "imageLink": "image_files\\English\\bass-guitar.jpg",
       "audioLink": "bass guitar.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Большой струнный музыкальный инструмент, который играется сидя, с богатым, мягким звучанием.",
       "example": "Ma sœur a pris des leçons de violoncelle lorsqu'elle était enfant. Maintenant, elle joue du violoncelle dans un orchestre symphonique, et elle donnera des leçons de violoncelle aux enfants l'année prochaine.",
       "example_translation": "Моя сестра брала уроки виолончели, когда была ребенком. Теперь она играет на виолончели в симфоническом оркестре, и она будет преподавать уроки виолончели детям в следующем году.",
-      "imageLink": "cello.jpg",
+      "imageLink": "image_files\\English\\cello.jpg",
       "audioLink": "cello.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Большой рояль с горизонтальным, крыلوобразным звукоснимателем, производящий богатый и резонансный звук.",
       "example": "J'ai joué du piano à queue au concert hall hier soir. Mon professeur m'avait enseigné comment jouer du piano à queue lorsque j'étais enfant, et je jouerai au mariage la semaine prochaine.",
       "example_translation": "Я играл на рояле в концертном зале вчера вечером. Мой учитель учил меня, как играть на рояле, когда я был ребенком, и я поиграю на нем на свадьбе на следующей неделе.",
-      "imageLink": "grand-piano.jpg",
+      "imageLink": "image_files\\English\\grand-piano.jpg",
       "audioLink": "grand piano.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Маленький, портативный музыкальный инструмент, который играется, выдувая и втягивая воздух через него, производящий сладкий и успокаивающий звук.",
       "example": "J'ai joué de l'harmonica au coin de la rue hier. Mon ami m'avait enseigné comment jouer de l'harmonica lorsque j'étais adolescent, et je jouerai au parc le mois prochain.",
       "example_translation": "Я играл на гармонике на углу улицы вчера. Мой друг учил меня, как играть на гармонике, когда я был подростком, и я поиграю на ней в парке через месяц.",
-      "imageLink": "harmonica.jpg",
+      "imageLink": "image_files\\English\\harmonica.jpg",
       "audioLink": "harmonica.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Тамбурин - это музыкальный инструмент, состоящий из круглого корпуса с парами металлических звеньев, называемых зилами, используемых для перкуссии, особенно в латиноамериканской музыке.",
       "example": "Le batteur a commencé à jouer du tambourin dans le rythme salsa. Elle jouera du tambourin au festival demain. Ils ont joué du tambourin pendant le carnaval hier soir.",
       "example_translation": "Барабанщик начал играть на тамбурине в ритме салсы. Она будет играть на тамбурине на фестивале завтра. Они играли на тамбурине во время карнавала прошлым вечером.",
-      "imageLink": "tambourine.jpg",
+      "imageLink": "image_files\\English\\tambourine.jpg",
       "audioLink": "tambourine.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Рога - это медное инструмент, состоящее из круглой трубы, изогнутой в спиральную форму, используемой для производства громкого, богатого звука.",
       "example": "Le musicien a soufflé dans le cor très fort. Elle soufflera dans le cor au défilé la semaine prochaine. Ils ont soufflé dans le cor pendant la procession l'année dernière.",
       "example_translation": "Музыкант громко blew рога. Она будет吹ать рога на параде на следующей неделе. Они blew рога во время процессии в прошлом году.",
-      "imageLink": "horn-1.jpg",
+      "imageLink": "image_files\\English\\horn-1.jpg",
       "audioLink": "horn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Орган - это музыкальный инструмент, обычно играемый pressing клавиш или педалей, используемый в церковных службах, концертах и других выступлениях.",
       "example": "L'organiste a joué de l'orgue pendant la cérémonie de mariage. Elle jouera de l'orgue au service religieux demain. Ils ont joué de l'orgue pendant le concert hier soir.",
       "example_translation": "Органист играл на органе во время церемонии бракосочетания. Она будет играть на органе на церковной службе завтра. Они играли на органе во время концерта прошлым вечером.",
-      "imageLink": "organ-1.jpg",
+      "imageLink": "image_files\\English\\organ-1.jpg",
       "audioLink": "organ.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Треугольник - это музыкальный инструмент, состоящий из металлической стержня, согнутой в форму треугольника, ударяемой металлическим стержнем для производства острого, звонкого звука.",
       "example": "Le percussionniste a frappé le triangle très fort. Elle frappera le triangle à la répétition d'orchestre demain. Ils ont frappé le triangle pendant la performance musicale la semaine dernière.",
       "example_translation": "Перкуссионист ударил треугольник громко. Она будет ударять треугольник на репетиции оркестра завтра. Они ударили треугольник во время музыкального выступления на прошлой неделе.",
-      "imageLink": "triangle.jpg",
+      "imageLink": "image_files\\English\\triangle.jpg",
       "audioLink": "triangle.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Струнный музыкальный инструмент, происходящий из России, с треугольным корпусом и длинной шеей, играемый путём щипания струн.",
       "example": "Elle a joué de la balalaïka avec beauté au festival culturel. Elle jouera de la balalaïka au concert ce soir. Elle avait joué de la balalaïka avec grande habileté dans son enfance.",
       "example_translation": "Она красиво играла на балалайке на культурном фестивале. Она будет играть на балалайке на концерте今 вечером. Она играла на балалайке с великим мастерством в детстве.",
-      "imageLink": "balalaika.jpg",
+      "imageLink": "image_files\\English\\balalaika.jpg",
       "audioLink": "balalaika.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Струнный музыкальный инструмент с круглым корпусом и длинной шеей, играемый путём щипания или стрummings струн, происходящий из Африки.",
       "example": "Il a gratté le banjo bruyamment au festival de musique country. Il jouera du banjo à la fête demain. Elle avait joué du banjo avec habileté dans le groupe de bluegrass.",
       "example_translation": "Он громко играл на банджо на фестивале кантри-музыки. Он будет играть на банджо на вечеринке завтра. Она играла на банджо с мастерством в.bluegrass-ансамбле.",
-      "imageLink": "banjo.jpg",
+      "imageLink": "image_files\\English\\banjo.jpg",
       "audioLink": "banjo.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Большой, двойной камерный инструмент с деревянным ветром, используемый в оркестровой и камерной музыке, известный своим отличительным низкочастотным звуком.",
       "example": "Le bassoniste a joué du basson avec élégance dans l'orchestre symphonique. Elle jouera du basson au concert ce soir. Il avait joué du basson avec précision dans l'ensemble de bois.",
       "example_translation": "Басунист элегантно играл на фаготе в симфоническом оркестре. Она будет играть на фаготе в концертном зале今 вечером. Он играл на фаготе с точностью в ансамбле деревянных духовых инструментов.",
-      "imageLink": "bassoon.jpg",
+      "imageLink": "image_files\\English\\bassoon.jpg",
       "audioLink": "bassoon.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Пара небольших инструментов, схожих по форме с раковиной,held в руке и щелкаемых друг по другу, чтобы произвести ритмический звук, типично используемых в музыке и танце фламенко.",
       "example": "Elle a cliqueté les castagnettes bruyamment au spectacle de danse flamenco. Il jouera des castagnettes au festival espagnol demain. Ils ont joué des castagnettes avec passion dans la troupe de danse.",
       "example_translation": "Она громко щелкнула кастаньетами на фламенко-танцевальном выступлении. Он будет играть на кастаньетах на испанском фестивале завтра. Они играли на кастаньетах с страстью в танцевальной труппе.",
-      "imageLink": "castanets.jpg",
+      "imageLink": "image_files\\English\\castanets.jpg",
       "audioLink": "castanets.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Цимбал - это тип струнного музыкального инструмента, происходящего из Венгрии, состоящего из трапециевидного звукового корпуса с набором металлических струн, растянутых через него.",
       "example": "Le groupe folklorique hongrois traditionnel a joué du cymbalum avec grande habileté. Le joueur de cymbalum avait pratiqué pendant des années. Ils joueront du cymbalum au festival l'année prochaine.",
       "example_translation": "Традиционный венгерский фольклорный ансамбль играл на цимбале с большим мастерством. Игрок на цимбале практиковал в течение многих лет. Они будут выступать на цимбале на фестивале в следующем году.",
-      "imageLink": "cimbalom.jpg",
+      "imageLink": "image_files\\English\\cimbalom.jpg",
       "audioLink": "cimbalom.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Хлопушка - это устройство, используемое для создания внезапного, громкого шума, обычно сделанное из двух кусков дерева или металла, которые стучатся вместе.",
       "example": "Le réalisateur a utilisé un clapoir pour signaler le début de la scène. Les acteurs ont applaudi en rythme avec la musique. Elle utilisera un clapoir pour attirer l'attention de tout le monde.",
       "example_translation": "Режиссер фильма использовал хлопушку, чтобы указать начало сцены. Актеры аплодировали вместе с музыкой. Она будет использовать хлопушку, чтобы привлечь внимание всех.",
-      "imageLink": "clapper.jpg",
+      "imageLink": "image_files\\English\\clapper.jpg",
       "audioLink": "clapper.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Кларнет - это деревянный музыкальный инструмент с одним тростью, используемый в оркестрах, группах и джазовых ансамблях, известный своим богатым, теплым звучанием.",
       "example": "Le clarinettiste de l'orchestre était très talentueux. Elle avait appris à jouer de la clarinette lorsqu'elle était adolescente. Ils présenteront un solo de clarinette au concert.",
       "example_translation": "Игрок на кларнете в оркестре был очень талантлив. Она научилась играть на кларнете, когда она была подростком. Они будут представлять соло на кларнете на концерте.",
-      "imageLink": "clarinet.jpg",
+      "imageLink": "image_files\\English\\clarinet.jpg",
       "audioLink": "clarinet.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Тарелка - это музыкальный инструмент, состоящий из металлической пластины, которая ударяется, чтобы произвести громкий,звонкий звук, часто используемый в оркестрах, группах и барабанных установках.",
       "example": "Le batteur a frappé la cymbale à la fin de la chanson. La cymbale était trop bruyante pour le public. Elle utilisera une cymbale dans la section de percussion.",
       "example_translation": "Барабанщик разбил тарелку в конце песни. Тарелка была слишком громкой для аудитории. Она будет использовать тарелку в секции ударных инструментов.",
-      "imageLink": "cymbal.jpg",
+      "imageLink": "image_files\\English\\cymbal.jpg",
       "audioLink": "cymbal.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Большой струнный инструмент, игранный путем щипка или смычка, используемый в оркестрах и джазовых группах.",
       "example": "L'orchestre a mis en vedette un musicien talentueux jouant de la contrebasse, ajoutant de la profondeur à la musique. L'an dernier, elle avait joué de la contrebasse dans un groupe de jazz. L'année prochaine, elle jouera de la contrebasse dans un orchestre philharmonique.",
       "example_translation": "Оркестр представил талантливого музыканта, играющего на контрабасе, добавляя глубину музыке. В прошлом году она играла на контрабасе в джазовой группе. В следующем году она будет играть на контрабасе в филармоническом оркестре.",
-      "imageLink": "double-bass.jpg",
+      "imageLink": "image_files\\English\\double-bass.jpg",
       "audioLink": "double bass.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Металлический ударный инструмент с звонким звуком, используемый в различных формах музыки и церемонии.",
       "example": "Le moine bouddhiste a frappé le gong pour signaler le début de la méditation. La semaine dernière, elle avait joué du gong pendant une performance musicale. Le mois prochain, il frappera le gong pour annoncer la cérémonie.",
       "example_translation": "Бuddийский монах ударил в гонг, чтобы сигнализировать о начале медитации. На прошлой неделе она играла на гонге во время музыкального выступления. В следующем месяце он ударит в гонг, чтобы объявить о церемонии.",
-      "imageLink": "gong.jpg",
+      "imageLink": "image_files\\English\\gong.jpg",
       "audioLink": "gong.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Маленький переносной орган, обычно играемый руками, используемый в индийской и западной классической музыке.",
       "example": "Le joueur d'harmonium a accompagné le chanteur avec une belle mélodie. L'année dernière, elle a appris à jouer de l'harmonium dans une école de musique. L'année prochaine, il jouera de l'harmonium dans un concert hall.",
       "example_translation": "Игрок на гармонии сопровождал певца с красивой мелодией. В прошлом году она научилась играть на гармонии в музыкальной школе. В следующем году он будет выступать с гармонией в концертном зале.",
-      "imageLink": "harmonium.jpg",
+      "imageLink": "image_files\\English\\harmonium.jpg",
       "audioLink": "harmonium.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Струнный инструмент с арфовидной шейкой, играемый пальцами, щипающими струны.",
       "example": "La harpiste a joué un beau solo sur sa harpe pendant le concert. La semaine dernière, elle a pratiqué jouer de la harpe pendant des heures. Le mois prochain, il jouera un duo de harpe avec son collègue.",
       "example_translation": "Арфистка исполнила красивый сольный концерт на своей арфе во время концерта. На прошлой неделе она практиковалась играть на арфе часами. В следующем месяце он будет исполнять дуэт на арфе со своим коллегой.",
-      "imageLink": "harp.jpg",
+      "imageLink": "image_files\\English\\harp.jpg",
       "audioLink": "harp.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "струнный инструмент, который играется посредством нажатия клавиш, похожий на фортепиано, но с более деликатным звуком",
       "example": "Le compositeur a utilisé un clavecin pour créer un son de l'époque baroque. Elle a joué du clavecin depuis qu'elle était enfant. Le clavecin sera restauré à son état d'origine.",
       "example_translation": "Композитор использовал клавесин, чтобы создать звук барокко. Она играла на клавесине с тех пор, как была ребенком. Клавесин будет восстановлен до его原始ного состояния.",
-      "imageLink": "harpsichord.jpg",
+      "imageLink": "image_files\\English\\harpsichord.jpg",
       "audioLink": "harpsichord.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "тип барабана, особенно большой, используемый в оркестре, с круглым корпусом и одним/single головой",
       "example": "Les timbales ont résonné bruyamment dans la symphonie. Elle avait toujours été fascinée par les timbales. Les timbales seront jouées par le nouveau musicien.",
       "example_translation": "Литавры громко звучали в симфонии. Она всегда была очарована литаврами. Литавры будут играть новый музыкант.",
-      "imageLink": "kettledrums.jpg",
+      "imageLink": "image_files\\English\\kettledrums.jpg",
       "audioLink": "kettledrums.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "струнный инструмент с грушевидным корпусом и фреттовым грифом, играется путем плектра струн пальцами",
       "example": "Le joueur de luth a enchanté le public avec sa musique. Elle avait appris à jouer du luth lorsqu'elle était enfant. Le luth sera exposé au musée.",
       "example_translation": "Игрок на люте очаровал аудиторию своей музыкой. Она научилась играть на люте в детстве. Люта будет выставлена в музее.",
-      "imageLink": "lute.jpg",
+      "imageLink": "image_files\\English\\lute.jpg",
       "audioLink": "lute.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "маленький струнный инструмент, играемый путем плектра или расщепления струн пальцами или плектром",
       "example": "Le joueur de mandoline a ajouté une touche vivante au groupe. Elle avait toujours aimé le son de la mandoline. La mandoline sera jouée au festival.",
       "example_translation": "Игрок на мандолине добавил живой оттенок к группе. Она всегда любил звук мандолины. Мандолина будет играть на фестивале.",
-      "imageLink": "mandolin.jpg",
+      "imageLink": "image_files\\English\\mandolin.jpg",
       "audioLink": "mandolin.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Маракасы - это тип музыкального инструмента, происходящий из Латинской Америки, состоящий из полого тыквы или деревянной оболочки, заполненной бусинами, бобами или маленькими камнями, используемый для создания звука треска.",
       "example": "J'ai secoué les maracas vigoureusement pendant la parade du carnaval hier, je les secouerai à nouveau demain, et j'ai secoué les maracas tous les jours cette semaine.",
       "example_translation": "Я энергично тряс маракасы во время карнавальной процессии вчера, я буду трясти их снова завтра, и я тряс их каждый день на этой неделе.",
-      "imageLink": "maracas.jpg",
+      "imageLink": "image_files\\English\\maracas.jpg",
       "audioLink": "maracas.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Обое - это двойной рожок деревянный инструмент, широко используемый в оркестровой и камерной музыке, известный своим характерным, печальным звуком.",
       "example": "Le hautboïste a joué un beau solo sur l'hautbois pendant le concert hier soir, elle joue de l'hautbois avec grande habileté, et elle jouera à nouveau la semaine prochaine.",
       "example_translation": "Обоистка сыгралаbeautiful соло на обое во время концерта_LAST ночь, она играет на обое с большим мастерством, и она будет играть на нем снова на следующей неделе.",
-      "imageLink": "oboe.jpg",
+      "imageLink": "image_files\\English\\oboe.jpg",
       "audioLink": "oboe.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Окарина - это маленький, похожий на флейту музыкальный инструмент с свистящим ртом, используемый в различных культурах по всему миру, часто в традиционной и фольклорной музыке.",
       "example": "J'ai joué une mélodie suave sur l'ocarina pendant le voyage de camping, je la jouerai à nouveau à la plage l'été prochain, et j'ai joué de l'ocarina tous les ans au festival de musique.",
       "example_translation": "Я сыграл сладкую мелодию на окарине во время туристического похода, я буду играть на ней снова на пляже следующим летом, и я играл на ней каждый год на музыкальном фестивале.",
-      "imageLink": "ocarina.jpg",
+      "imageLink": "image_files\\English\\ocarina.jpg",
       "audioLink": "ocarina.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Флейта - это простой, деревянный музыкальный инструмент, широко используемый в начальном музыкальном образовании, известный своим сладким, нежным звуком.",
       "example": "Les enfants ont appris à jouer de la flûte à bec en classe de musique aujourd'hui, ils la joueront à nouveau demain, et ils ont joué de la flûte à bec toutes les semaines ce mois-ci.",
       "example_translation": "Дети учились играть на флейте на музыкальном уроке сегодня, они будут играть на ней снова завтра, и они играли на ней каждую неделю этом месяце.",
-      "imageLink": "recorder.jpg",
+      "imageLink": "image_files\\English\\recorder.jpg",
       "audioLink": "recorder.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Малый барабан - это тип барабана, который производитsharp, хрустящий звук при ударе, часто используемый в военной и оркестровой музыке.",
       "example": "Le tambour d'accord est souvent joué en combinaison avec le grosse caisse dans la musique rock. Hier, j'ai acheté un nouveau tambour d'accord pour mon ensemble de batterie. D'ici l'année prochaine, j'aurai maîtrisé la technique de jouer du tambour d'accord.",
       "example_translation": "Малый барабан часто играется в комбинации с басовым барабаном в рок-музыке. Вчера я купил новый малый барабан для моего набора барабанов. К следующему году я овладею техникой игры на малом барабане.",
-      "imageLink": "snare-drum.jpg",
+      "imageLink": "image_files\\English\\snare-drum.jpg",
       "audioLink": "snare drum.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Тромбон - это медный музыкальный инструмент с длинной U-образной трубой, производящей богатый, низкочастотный звук.",
       "example": "La section de trombones de l'orchestre a joué une belle mélodie. J'ai joué du trombone depuis cinq ans, et j'aime toujours ça. D'ici que je diplômé, j'aurai maîtrisé le trombone.",
       "example_translation": "Секция тромбонов в оркестре сыграла красивую мелодию. Я играю на тромбоне пять лет, и я все еще люблю это. К моменту выпуска я овладею тромбоном.",
-      "imageLink": "trombone.jpg",
+      "imageLink": "image_files\\English\\trombone.jpg",
       "audioLink": "trombone.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Туба - это большой, низкочастотный медный музыкальный инструмент, производящий глубокий, богатый звук.",
       "example": "Le tubiste du groupe était très talentueux. J'ai vu un concert de tuba la semaine dernière, et c'était incroyable. Le mois prochain, je vais commencer à prendre des leçons de tuba.",
       "example_translation": "Игрок на тубе в группе был очень талантлив. Я увидел концерт тубы на прошлой неделе, и это было потрясающе. В следующем месяце я начну брать уроки тубы.",
-      "imageLink": "tuba.jpg",
+      "imageLink": "image_files\\English\\tuba.jpg",
       "audioLink": "tuba.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Трубчатые колокола - это тип музыкального инструмента, состоящего из набора вертикально подвешенных труб разной длины, производящих звонкий звук при ударе.",
       "example": "Les cloches tubulaires ont ajouté une touche agréable à la composition musicale. J'ai toujours aimé le son des cloches tubulaires dans la musique d'église. L'année prochaine, j'essaierai de jouer des cloches tubulaires dans un orchestre local.",
       "example_translation": "Трубчатые колокола добавили nice.touch к музыкальной композиции. Я всегда любил звук трубчатых колоколов в церковной музыке. В следующем году я постараюсь играть на трубчатых колоколах в местном оркестре.",
-      "imageLink": "tubular-bells.jpg",
+      "imageLink": "image_files\\English\\tubular-bells.jpg",
       "audioLink": "tubular bells.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Вибрафон - это музыкальный инструмент, состоящий из набора металлических планок разной высоты, которые ударяют молотком, чтобы произвести богатый, звучащий звук.",
       "example": "J'ai joué du vibraphone dans l'orchestre de l'école lorsque j'étais étudiant. Maintenant, je le joue professionnellement, et je vais performer au concert demain.",
       "example_translation": "Я играл на вибрафоне в школьном оркестре, когда был студентом. Теперь я играю на нем профессионально, и я выступлю на концерте завтра.",
-      "imageLink": "vibraphone.jpg",
+      "imageLink": "image_files\\English\\vibraphone.jpg",
       "audioLink": "vibraphone.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Ксилофон - это музыкальный инструмент с серией деревянных планок разной высоты, которые ударяют молотком, чтобы произвести яркий, звонкий звук.",
       "example": "L'enfant aimait jouer du xylophone à la maternelle. Plus tard, elle a appris à le jouer à l'école de musique, et maintenant elle enseigne aux autres à le jouer.",
       "example_translation": "Ребенок любил играть на ксилофоне в детском саду. Позже она научилась играть на нем в музыкальной школе, и теперь она учит других играть на нем.",
-      "imageLink": "xylophone.jpg",
+      "imageLink": "image_files\\English\\xylophone.jpg",
       "audioLink": "xylophone.mp3"
     }
   ]

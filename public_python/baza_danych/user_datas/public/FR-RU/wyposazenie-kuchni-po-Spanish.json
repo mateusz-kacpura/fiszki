@@ -9,7 +9,7 @@
       "definition_translation": "резальный инструмент, состоящий из острия лезвия, прикрепленного к рукоятке.",
       "example": "J'ai utilisé un couteau pour couper la pomme. Je vais utiliser un couteau pour couper le pain. J'avais utilisé un couteau pour couper la viande.",
       "example_translation": "Я использовал нож, чтобы нарезать яблоко. Я буду использовать нож, чтобы нарезать хлеб. Я использовал нож, чтобы нарезать мясо.",
-      "imageLink": "knife.jpg",
+      "imageLink": "image_files\\English\\knife.jpg",
       "audioLink": "knife.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "круглая, открытая сверху емкость, обычно используемая для хранения или сервировки пищи.",
       "example": "J'ai mis le fruit dans un bol. Elle va mettre la salade dans un bol. Ils avaient mis la soupe dans un bol.",
       "example_translation": "Я положил фрукты в миску. Она будет класть салат в миску. Они положили суп в миску.",
-      "imageLink": "bowl.jpg",
+      "imageLink": "image_files\\English\\bowl.jpg",
       "audioLink": "bowl.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "кухонное устройство, используемое для приготовления пищи, особенно электрические или газовые плиты.",
       "example": "J'ai allumé la cuisinière pour faire bouillir de l'eau. Elle va utiliser la cuisinière pour cuisiner le dîner. Ils avaient utilisé la cuisinière pour chauffer la nourriture.",
       "example_translation": "Я включил плиту, чтобы кипятить воду. Она будет использовать плиту, чтобы готовить ужин. Они использовали плиту, чтобы нагреть пищу.",
-      "imageLink": "cooker.jpg",
+      "imageLink": "image_files\\English\\cooker.jpg",
       "audioLink": "cooker.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "предмет мебели с полками, используемый для хранения продуктов, посуды или других домашних вещей.",
       "example": "J'ai ouvert l'armoire pour prendre une assiette. Elle va mettre les plats dans l'armoire. Ils avaient stocké la nourriture dans l'armoire.",
       "example_translation": "Я открыл шкаф, чтобы взять тарелку. Она будет класть посуду в шкаф. Они хранили продуктов в шкафе.",
-      "imageLink": "cupboard.jpg",
+      "imageLink": "image_files\\English\\cupboard.jpg",
       "audioLink": "cupboard.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Выдвижной ящик - это контейнер, используемый для хранения вещей, обычно найденный в куске мебели, таком как шкаф или стол.",
       "example": "J'ai ouvert le tiroir pour retrouver mes clés perdues. J'avais placé les documents dans le tiroir hier. Je vais mettre les papiers dans le tiroir demain.",
       "example_translation": "Я открыл выдвижной ящик, чтобы найти пропавшие ключи. Я поместил их в выдвижной ящик昨ий день. Я поместил документы в выдвижной ящик завтра.",
-      "imageLink": "drawer.jpg",
+      "imageLink": "image_files\\English\\drawer.jpg",
       "audioLink": "drawer.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Вилка - это прибор с двумя или тремя зубцами, используемый для еды.",
       "example": "J'ai pris une fourchette pour manger mon dîner. Elle va utiliser une fourchette pour manger sa salade. Nous avions utilisé des fourchettes pour manger notre repas.",
       "example_translation": "Я взял вилку, чтобы поесть свою ужин. Она будет использовать вилку, чтобы поесть свой салат. Мы использовали вилки, чтобы поесть нашу еду.",
-      "imageLink": "fork.jpg",
+      "imageLink": "image_files\\English\\fork.jpg",
       "audioLink": "fork.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Холодильник - это большое электрическое устройство, используемое для хранения пищевых продуктов в холодном состоянии.",
       "example": "J'ai ouvert le réfrigérateur pour prendre une boisson froide. Ils vont acheter un nouveau réfrigérateur la semaine prochaine. Elle avait nettoyé le réfrigérateur hier.",
       "example_translation": "Я открыл холодильник, чтобы взять холодный напиток. Они купят новый холодильник на следующей неделе. Она очищала холодильник вчера.",
-      "imageLink": "fridge.jpg",
+      "imageLink": "image_files\\English\\fridge.jpg",
       "audioLink": "fridge.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Кухонный стол - это кусок мебели, используемый для еды, работы и общения на кухне.",
       "example": "Nous nous sommes réunis autour de la table de cuisine pour dîner. Elle avait nettoyé la table de cuisine hier. Ils vont acheter une nouvelle table de cuisine le mois prochain.",
       "example_translation": "Мы собрались вокруг кухонного стола на ужин. Она очищала кухонный стол вчера. Они купят новый кухонный столfollowing месяц.",
-      "imageLink": "kitchen-table.jpg",
+      "imageLink": "image_files\\English\\kitchen-table.jpg",
       "audioLink": "kitchen table.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "прибор для приготовления пищи, использующий электромагнитные волны для быстрого нагрева или приготовления еды",
       "example": "J'ai réchauffé les restes au four micro-ondes hier. J'utilise le four micro-ondes pour cuire mon déjeuner tous les jours. Je vais acheter un nouveau four micro-ondes la semaine prochaine.",
       "example_translation": "Я разогрел оставшиеся пишу в микроволновой печи вчера. Я использую микроволновую печь для приготовления обеда каждый день. Я куплю новую микроволновую печь на следующей неделе.",
-      "imageLink": "microwave-oven.jpg",
+      "imageLink": "image_files\\English\\microwave-oven.jpg",
       "audioLink": "microwave (oven).mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "плоская, обычно прямоугольная конструкция, прикрепленная к стене, используемая для хранения объектов",
       "example": "J'ai mis le livre sur l'étagère du haut. Elle avait nettoyé l'étagère de la cuisine. La nouvelle étagère sera livrée demain.",
       "example_translation": "Я положил книгу на верхнюю полку. Она очистила полку в кухне. Новая полка будет доставлена завтра.",
-      "imageLink": "shelf.jpg",
+      "imageLink": "image_files\\English\\shelf.jpg",
       "audioLink": "shelf.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "санитарное устройство, используемое для мытья рук, посуды и т.д.",
       "example": "Elle a lavé ses mains dans l'évier. Il a réparé la fuite dans l'évier hier. L'évier était bouché par de la graisse.",
       "example_translation": "Она помыла руки в раковине. Он починил течь в раковине вчера. Раковина была забита жиром.",
-      "imageLink": "sink-1.jpg",
+      "imageLink": "image_files\\English\\sink-1.jpg",
       "audioLink": "sink.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "приспособление, состоящее из небольшой, обычно овальной или круглой чаши, прикрепленной к ручке, используемой для перемешивания, сервировки и еды пищи",
       "example": "Elle a mangé sa soupe avec une cuillère. Il a utilisé une cuillère pour mélanger le mélange. Le bébé a laissé tomber sa cuillère sur le sol.",
       "example_translation": "Она ела свой суп с ложкой. Он использовал ложку для перемешивания смеси. Младенец уронил ее ложку на пол.",
-      "imageLink": "spoon.jpg",
+      "imageLink": "image_files\\English\\spoon.jpg",
       "audioLink": "spoon.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Контейнер, используемый для хранения или хранения чего-либо, особенно отходов или мусора.",
       "example": "J'ai vidé la poubelle hier, mais elle est déjà pleine à nouveau. Je vais sortir les ordures demain. J'ai sorti les ordures la semaine dernière.",
       "example_translation": "Я опустошила мусорную корзину вчера, но она уже снова полна. Я выбросаю мусор завтра. Я выбросал мусор на прошлой неделе.",
-      "imageLink": "bin.jpg",
+      "imageLink": "image_files\\English\\bin.jpg",
       "audioLink": "bin.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Машина, которая автоматически моет и чистит посуду.",
       "example": "J'ai chargé le lave-vaisselle hier soir, mais il n'a pas démarré. Je vais le réparer aujourd'hui. J'ai réparé le lave-vaisselle hier.",
       "example_translation": "Я загрузил посудомоечную машину прошлой ночью, но она не включилась. Я исправлю это сегодня. Я исправил посудомоечную машину вчера.",
-      "imageLink": "dishwasher.jpg",
+      "imageLink": "image_files\\English\\dishwasher.jpg",
       "audioLink": "dishwasher.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Чайник, работающий от электричества и используемый для кипячения воды.",
       "example": "J'ai branché la bouilloire électrique ce matin, mais elle n'a pas fait bouillir. Je vais en acheter une nouvelle aujourd'hui. J'ai acheté une nouvelle bouilloire électrique hier.",
       "example_translation": "Я ввел электрический чайник сегодня утром, но он не кипел. Я куплю новый сегодня. Я купил новый электрический чайник вчера.",
-      "imageLink": "electric-kettle.jpg",
+      "imageLink": "image_files\\English\\electric-kettle.jpg",
       "audioLink": "electric kettle.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Прибор, который сохраняет пищу в замороженном состоянии при очень низкой температуре.",
       "example": "J'ai mis la viande au congélateur la semaine dernière, mais j'ai oublié de le mettre en marche. Je vais le dégeler aujourd'hui. J'ai dégivré le congélateur hier.",
       "example_translation": "Я положил мясо в морозильник на прошлой неделе, но забыл включить его. Я разморозит сегодня. Я разморозил морозильник вчера.",
-      "imageLink": "freezer.jpg",
+      "imageLink": "image_files\\English\\freezer.jpg",
       "audioLink": "freezer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Сковорода - это тип посуды для приготовления пищи, используемый для жарки, обжарки и поджарки пищи на среднем или высоком огне.",
       "example": "J'ai utilisé une poêle à frire pour cuire le steak hier, mais aujourd'hui je vais le cuire au four. Demain, j'utiliserai une poêle à frire à nouveau pour cuire le petit déjeuner.",
       "example_translation": "Я использовал сковороду, чтобы приготовить стейк вчера, но сегодня я приготовлю его в духовке. Завтра я опять буду использовать сковороду, чтобы приготовить завтрак.",
-      "imageLink": "frying-pan.jpg",
+      "imageLink": "image_files\\English\\frying-pan.jpg",
       "audioLink": "frying pan.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Духовка - это кухонная прибор, используемый для выпечки, запекания и нагрева пищи.",
       "example": "J'ai préchauffé le four pour cuire un gâteau, puis j'ai rôti des légumes dedans. La semaine prochaine, j'utiliserai le four pour réchauffer les restes.",
       "example_translation": "Я разогрел духовку, чтобы испечь торт, затем я запекал в ней некоторые овощи. На следующей неделе я буду использовать духовку, чтобы разогреть оставшиеся от еды.",
-      "imageLink": "oven.jpg",
+      "imageLink": "image_files\\English\\oven.jpg",
       "audioLink": "oven.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Кастрюля - это контейнер, используемый для приготовления или хранения пищи и жидкостей.",
       "example": "J'ai fait bouillir de l'eau dans une marmite hier, puis j'ai utilisé pour cuire la soupe. Demain, j'utiliserai une marmite pour stocker les restes.",
       "example_translation": "Я кипятил воду в кастрюле вчера, а затем использовал ее, чтобы приготовить суп. Завтра я буду использовать кастрюлю, чтобы хранить оставшиеся от еды.",
-      "imageLink": "pot.jpg",
+      "imageLink": "image_files\\English\\pot.jpg",
       "audioLink": "pot.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Сотейник - это тип кастрюли, используемый для приготовления и нагрева соусов, супов и других жидкостей.",
       "example": "J'ai utilisé une casserole pour chauffer la sauce hier, puis j'ai utilisé pour cuire la soupe. Demain, j'utiliserai une casserole pour faire une nouvelle sauce.",
       "example_translation": "Я использовал сотейник, чтобы разогреть соус вчера, а затем использовал его, чтобы приготовить суп. Завтра я буду использовать сотейник, чтобы сделать новый соус.",
-      "imageLink": "saucepan.jpg",
+      "imageLink": "image_files\\English\\saucepan.jpg",
       "audioLink": "saucepan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Кран или клапан для регулирования потока жидкости, обычно воды или газа.",
       "example": "J'ai tourné le robinet pour remplir le bain. Hier, j'ai tourné le robinet pour me laver les mains. Demain, je vais tourner le robinet pour arroser les plantes.",
       "example_translation": "Я повернул кран, чтобы наполнить ванну. Вчера я повернул кран, чтобы помыть руки. Завтра я поверну кран, чтобы полить растения.",
-      "imageLink": "tap.jpg",
+      "imageLink": "image_files\\English\\tap.jpg",
       "audioLink": "tap.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Сосуд, обычно сделанный из керамики или металла, используемый для заваривания и сервировки чая.",
       "example": "J'ai fait une tasse de thé dans la théière. Ma grand-mère utilisait une théière chaque matin pour faire du thé. Je vais acheter une nouvelle théière pour l'anniversaire de ma sœur.",
       "example_translation": "Я заварил чашку чая в чайнике. Моя бабушка обычно заваривала чай в чайнике каждый утром. Я куплю новый чайник на день рождения сестры.",
-      "imageLink": "teapot.jpg",
+      "imageLink": "image_files\\English\\teapot.jpg",
       "audioLink": "teapot.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Устройство, используемое для открытия металлических контейнеров, особенно тех, которые используются для консервов.",
       "example": "J'ai utilisé un ouvre-boîte pour ouvrir la boîte de haricots. Ma mère garde toujours un ouvre-boîte dans son tiroir de cuisine. Je vais avoir besoin d'un ouvre-boîte pour ouvrir la boîte de tomates.",
       "example_translation": "Я использовал консервный нож, чтобы открыть банку с фасолью. Моя мать всегда хранит консервный нож в ящике кухонного стола. Мне понадобится консервный нож, чтобы открыть банку с помидорами.",
-      "imageLink": "tin-opener.jpg",
+      "imageLink": "image_files\\English\\tin-opener.jpg",
       "audioLink": "tin opener.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Маленькое электрическое устройство, используемое для приготовления тостов из ломтиков хлеба.",
       "example": "J'ai branché le grille-pain pour faire du toast. Mon frère brûle toujours son toast dans le grille-pain. Je vais nettoyer le grille-pain avant de faire le petit déjeuner.",
       "example_translation": "Я включил тостер, чтобы сделать тост. Мой брат всегда сгорает свой тост в тостере. Я очистлю тостер перед приготовлением завтрака.",
-      "imageLink": "toaster.jpg",
+      "imageLink": "image_files\\English\\toaster.jpg",
       "audioLink": "toaster.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Гибкий искусственный материал, изготовленный из волокон, используемый для производства одежды, обивки и других текстильных продуктов.",
       "example": "Elle a acheté un beau tissu pour sa nouvelle robe. Hier, elle l'avait cousu. Demain, elle le portera au party.",
       "example_translation": "Она купила красивую ткань для своей новой рубашки. Вчера онашила ее. Завтра она наденет ее на вечеринку.",
-      "imageLink": "cloth.jpg",
+      "imageLink": "image_files\\English\\cloth.jpg",
       "audioLink": "cloth.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Электрический прибор, который варит кофе из молотого кофе.",
       "example": "Elle a acheté une cafetière pour sa nouvelle cuisine. La semaine dernière, elle l'a utilisée pour faire du café pour ses invités. La semaine prochaine, elle l'utilisera pour faire du café pour sa famille.",
       "example_translation": "Она купила кофемашину для своей новой кухни. На прошлой неделе она использовала ее, чтобы сделать кофе для своих гостей. На следующей неделе она будет использовать ее, чтобы сделать кофе для своей семьи.",
-      "imageLink": "coffeemaker.jpg",
+      "imageLink": "image_files\\English\\coffeemaker.jpg",
       "audioLink": "coffee maker.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Устройство для снятия пробки с винной бутылки.",
       "example": "Il a utilisé un tire-bouchon pour ouvrir la bouteille de vin. Hier, il l'avait ouverte avec un tire-bouchon. Demain, il l'ouvrira à nouveau avec un tire-bouchon.",
       "example_translation": "Он использовал открыватель для пробки, чтобы открыть винную бутылку. Вчера он открыл ее с помощью открывателя для пробки. Завтра он снова откроет ее с помощью открывателя для пробки.",
-      "imageLink": "corkscrew.jpg",
+      "imageLink": "image_files\\English\\corkscrew.jpg",
       "audioLink": "corkscrew.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Устройство для измерения веса объектов или людей.",
       "example": "Elle a utilisé les balances pour se peser. La semaine dernière, elle avait pesé son bagage sur les balances. La semaine prochaine, elle pèsera sa nourriture sur les balances.",
       "example_translation": "Она использовала весы, чтобы измерить свой вес. На прошлой неделе она взвешивала свой багаж на весах. На следующей неделе она будет взвешивать свою еду на весах.",
-      "imageLink": "scales.jpg",
+      "imageLink": "image_files\\English\\scales.jpg",
       "audioLink": "scales.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Табурет - это простой сиденье без спинки или рук, обычно с низкой спинкой и короткими ногами.",
       "example": "Je me suis assis sur un tabouret dans la cuisine, mangeant un sandwich. Je vais m'asseoir sur un tabouret dans la cuisine, mangeant un sandwich. Je me suis assis sur un tabouret dans la cuisine, mangeant un sandwich.",
       "example_translation": "Я сел на табурет в кухне, ел сэндвич. Я буду сидеть на табурете в кухне, ел сэндвич. Я сел на табурет в кухне, ел сэндвич.",
-      "imageLink": "stool.jpg",
+      "imageLink": "image_files\\English\\stool.jpg",
       "audioLink": "stool.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Формочка для выпечки - это специальный защитник, используемый для предотвращения прилипания выпечки к форме.",
       "example": "J'ai utilisé une manche à glacer pour chemiser le moule à gâteau. Je vais utiliser une manche à glacer pour chemiser le moule à muffins. J'ai utilisé une manche à glacer pour chemiser le moule à pain.",
       "example_translation": "Я использовал формочку для выпечки, чтобы выровнять форму для торта. Я использую формочку для выпечки, чтобы выровнять форму для маффинов. Я использовал формочку для выпечки, чтобы выровнять форму для хлеба.",
-      "imageLink": "baking-sleeve.jpg",
+      "imageLink": "image_files\\English\\baking-sleeve.jpg",
       "audioLink": "baking sleeve.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Формочка для бисквита - это специальный инструмент, используемый для вырезания форм из теста или слоеного теста.",
       "example": "J'ai utilisé un coulant à biscuits pour faire des cookies en forme de cœur. Je vais utiliser un coulant à biscuits pour faire des biscuits en forme d'étoile. J'ai utilisé un coulant à biscuits pour faire des biscuits ronds.",
       "example_translation": "Я использовал формочку для бисквита, чтобы сделать сердце-образные печенья. Я использую формочку для бисквита, чтобы сделать звездо-образные бисквиты. Я использовал формочку для бисквита, чтобы сделать круглые бисквиты.",
-      "imageLink": "biscuit-cutter.jpg",
+      "imageLink": "image_files\\English\\biscuit-cutter.jpg",
       "audioLink": "biscuit cutter.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Хлеборезка - это специальный инструмент, используемый для нарезки хлеба на равномерные ломти или формы.",
       "example": "J'ai utilisé un couteau à pain pour trancher le baguette. Je vais utiliser un couteau à pain pour couper le pain de sandwich. J'ai utilisé un couteau à pain pour couper le painrustique.",
       "example_translation": "Я использовал хлеборезку, чтобы нарезать багет. Я использую хлеборезку, чтобы нарезать хлеб для сэндвича. Я использовал хлеборезку, чтобы нарезать хрустящий хлеб.",
-      "imageLink": "bread-cutter.jpg",
+      "imageLink": "image_files\\English\\bread-cutter.jpg",
       "audioLink": "bread cutter.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Форма для выпечки торта - это контейнер, используемый для формирования и содержания торта во время выпечки.",
       "example": "J'ai utilisé un moule à gâteau pour cuire un délicieux gâteau au chocolat hier. Je vais utiliser un moule à gâteau pour cuire un gâteau d'anniversaire la semaine prochaine. Elle utilise un moule à gâteau pour cuire un gâteau tous les dimanches.",
       "example_translation": "Я использовала форму для выпечки торта, чтобы испечь вкусный шоколадный торт вчера. Я собираюсь использовать форму для выпечки торта, чтобы испечь торт на день рождения на следующей неделе. Она использует форму для выпечки торта, чтобы испечь торт каждое воскресенье.",
-      "imageLink": "cake-tin.jpg",
+      "imageLink": "image_files\\English\\cake-tin.jpg",
       "audioLink": "cake tin.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Керамическая форма для запекания - это большая, глубокая посуда, используемая для выпечки и сервировки запеканок и других блюд.",
       "example": "J'ai cuit un plat à gratin dans un plat à gratin hier soir. Elle va utiliser un plat à gratin pour cuire une lasagne aujourd'hui. Ils ont utilisé un plat à gratin pour servir un repas chaud à la fête.",
       "example_translation": "Я испекла запеканку в керамической форме для запекания вчера ночью. Она будет использовать керамическую форму для запекания, чтобы испечь лазанью сегодня. Они использовали керамическую форму для запекания, чтобы сервировать горячее блюдо на вечеринке.",
-      "imageLink": "casserole.jpg",
+      "imageLink": "image_files\\English\\casserole.jpg",
       "audioLink": "casserole dish.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Нож для нарезки - это тип ножа, используемого для нарезки и мелкого измельчения пищи.",
       "example": "J'ai utilisé un couteau de cuisine pour couper les légumes hier. Elle va utiliser un couteau de cuisine pour hacher l'ail aujourd'hui. Il utilise un couteau de cuisine pour couper la viande tous les jours.",
       "example_translation": "Я использовала нож для нарезки, чтобы нарезать овощи вчера. Она будет использовать нож для нарезки, чтобы размельчить чеснок сегодня. Он использует нож для нарезки, чтобы нарезать мясо каждый день.",
-      "imageLink": "chopping-knife.jpg",
+      "imageLink": "image_files\\English\\chopping-knife.jpg",
       "audioLink": "chopping knife.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Палочки для еды - это пара маленьких, тонких палочек, используемых для еды, особенно в азиатской кухне.",
       "example": "J'ai utilisé des baguettes pour manger du sushi au restaurant japonais la semaine dernière. Elle va utiliser des baguettes pour manger des nouilles au restaurant chinois aujourd'hui. Ils ont utilisé des baguettes pour manger des dumplings au restaurant coréen hier.",
       "example_translation": "Я использовала палочки для еды, чтобы есть суши в японском ресторане на прошлой неделе. Она будет использовать палочки для еды, чтобы есть лапшу в китайском ресторане сегодня. Они использовали палочки для еды, чтобы есть манты в корейском ресторане вчера.",
-      "imageLink": "chopsticks.jpg",
+      "imageLink": "image_files\\English\\chopsticks.jpg",
       "audioLink": "chopsticks.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Кухонное приспособление с отверстиями или дырками, используемое для слива жидкостей из еды, как при мытье и сливе макарон, риса или овощей.",
       "example": "Elle a mis les spaghetti dans la passoire pour égoutter l'eau en excès. Hier, elle l'avait utilisée pour rincer la laitue. D'ici la semaine prochaine, elle l'aura nettoyée soigneusement.",
       "example_translation": "Она положила спагетти в дуршлаг, чтобы слить избыточную воду. Вчера она использовала его, чтобы помыть листья салата. К следующей неделе она будет тщательно чистить его.",
-      "imageLink": "colander.jpg",
+      "imageLink": "image_files\\English\\colander.jpg",
       "audioLink": "colander.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Плоская, обычно прямоугольная, деревянная или пластиковая доска, используемая для приготовления и нарезки еды.",
       "example": "Elle a placé l'oignon sur la planche à découper et a commencé à le couper. Le chef avait utilisé la planche à découper pour découper le poisson hier. D'ici le mois prochain, ils l'auront remplacée par une nouvelle.",
       "example_translation": "Она положила лук на разделочную доску и начала нарезать его. Повар использовал его, чтобы нарезать рыбу вчера. К следующему месяцу они заменят его новой доской.",
-      "imageLink": "cutting-board.jpg",
+      "imageLink": "image_files\\English\\cutting-board.jpg",
       "audioLink": "cutting board.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Кухонный инструмент, используемый для просеивания и смешивания муки и других сухих ингредиентов, обычно состоящий из сетчатой или перфорированной емкости.",
       "example": "Elle a versé la farine dans le tamis à farine et a commencé à la mélanger avec du sucre. Hier, elle avait utilisé le tamis à farine pour tamiser le cacao en poudre. D'ici l'année prochaine, elle aura acheté un nouveau tamis à farine.",
       "example_translation": "Она вылила муку в муку просеиватель и начала смешивать ее с сахаром. Вчера она использовала его, чтобы просеять порошок какао. К следующему году она купит новый просеиватель.",
-      "imageLink": "flour-sifter.jpg",
+      "imageLink": "image_files\\English\\flour-sifter.jpg",
       "audioLink": "flour sifter.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Кухонное устройство или инструмент, используемый для нарезки еды, таких как мясо, сыр и овощи, на тонкие кусочки.",
       "example": "Elle a placé la poitrine de dinde sur la trancheuse de cuisine et a tranché finement. Hier, elle avait utilisé la trancheuse de cuisine pour trancher le jambon. D'ici la semaine prochaine, ils l'auront nettoyée soigneusement.",
       "example_translation": "Она положила грудку индейки на резку для нарезки продуктов и нарезала ее тонко. Вчера она использовала его, чтобы нарезать бекон. К следующей неделе они будут тщательно čistить его.",
-      "imageLink": "food-slicer.jpg",
+      "imageLink": "image_files\\English\\food-slicer.jpg",
       "audioLink": "food slicer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Воронка - это труба или трубка, которая широкая на одном конце и узкая на другом, используемая для наливания жидкостей или порошков в小ное открытие.",
       "example": "J'ai utilisé un entonnoir pour verser de l'huile dans le moteur. Je vais utiliser un entonnoir pour mélanger les produits chimiques. Elle avait utilisé un entonnoir pour mesurer les ingrédients.",
       "example_translation": "Я использовал воронку, чтобы налить масло в двигатель. Я буду использовать воронку, чтобы смешать химические вещества. Она использовала воронку, чтобы измерить ингредиенты.",
-      "imageLink": "funnel.jpg",
+      "imageLink": "image_files\\English\\funnel.jpg",
       "audioLink": "funnel.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Пресс для чеснока - это кухонный инструмент, используемый для разрушения зубчиков чеснока, что делает легко освободить чесночную мякоть и сок.",
       "example": "J'ai écrasé l'ail à travers la presse à ail pour en retirer la pulpe. Elle va utiliser une presse à ail pour préparer la sauce. Ils avaient utilisé une presse à ail pour préparer le dîner.",
       "example_translation": "Я сжал чеснок через пресс для чеснока, чтобы достать мякоть. Она будет использовать пресс для чеснока, чтобы приготовить соус. Они использовали пресс для чеснока, чтобы приготовить обед.",
-      "imageLink": "garlic-press.jpg",
+      "imageLink": "image_files\\English\\garlic-press.jpg",
       "audioLink": "garlic press.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Терка - это кухонный инструмент, используемый для измельчения или натирания продуктов, таких как сыр, овощи или фрукты, в мелкие кусочки.",
       "example": "J'ai râpé le fromage à l'aide d'une râpe pour faire une salade. Elle va utiliser une râpe pour râper les carottes. Ils avaient utilisé une râpe pour faire la croûte de tarte.",
       "example_translation": "Я натер сыр с помощью терки, чтобы.make салат. Она будет использовать терку, чтобы натереть морковь. Они использовали терку, чтобы.make корочку пирога.",
-      "imageLink": "grater.jpg",
+      "imageLink": "image_files\\English\\grater.jpg",
       "audioLink": "grater.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Формочная ложка для мороженого - это кухонный инструмент, используемый для порционирования и формирования мороженого или других замороженных десертов в круглые шарики или ложки.",
       "example": "J'ai utilisé une cuillère à glace pour faire des boules de glace parfaites. Elle va utiliser une cuillère à glace pour portionner le yogourt glacé. Ils avaient utilisé une cuillère à glace pour faire des sundae.",
       "example_translation": "Я использовал формочную ложку для мороженого, чтобы.make идеальные шарики мороженого. Она будет использовать формочную ложку для мороженого, чтобы порционировать замороженный йогурт. Они использовали формочную ложку для мороженого, чтобы.make сандей.",
-      "imageLink": "ice-cream-scoop.jpg",
+      "imageLink": "image_files\\English\\ice-cream-scoop.jpg",
       "audioLink": "ice-cream scoop.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "ложка-черпак с длинной ручкой, используемая для сервировки или наливания жидкостей",
       "example": "J'ai utilisé une louche pour servir la soupe du pot. Hier, j'ai loué de la soupe de poulet à mon ami. Demain, je vais louer la soupe à nos invités.",
       "example_translation": "Я использовал черпак, чтобы налить суп из кастрюли. Вчера я отмерил порцию куриного бульона для друга. Завтра я налью суп для наших гостей.",
-      "imageLink": "ladle.jpg",
+      "imageLink": "image_files\\English\\ladle.jpg",
       "audioLink": "ladle.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "кухонный инструмент, используемый для получения сока из лимонов или других цитрусовых фруктов",
       "example": "Ma mère utilise un presse à citron pour faire de la limonade fraîche. Elle a pressé les citrons et ajouté du sucre à taste. La prochaine fois, elle pressera à nouveau les citrons.",
       "example_translation": "Моя мама используетqueeze лимона, чтобы приготовить свежий лимонад. Она отжала лимоны и добавила сахар по вкусу. В следующий раз она опять отожмет лимоны.",
-      "imageLink": "lemon-squeezer.jpg",
+      "imageLink": "image_files\\English\\lemon-squeezer.jpg",
       "audioLink": "lemon squeezer.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "кухонный инструмент с плоским, регулируемым лезвием, используемый для нарезки и изготовления соломки из овощей и фруктов",
       "example": "J'ai utilisé une mandoline pour trancher les carottes pour la salade. Ma sœur avait tranché les pommes avec une mandoline hier soir. La semaine prochaine, j'achèterai une nouvelle mandoline pour julienne le courgette.",
       "example_translation": "Я использовал мандолину, чтобы нарезать морковь для салата. Моя сестра нарезала яблоки мандолиной прошлой ночью. На следующей неделе я куплю новую мандолину для изготовления соломки из кабачка.",
-      "imageLink": "mandoline.jpg",
+      "imageLink": "image_files\\English\\mandoline.jpg",
       "audioLink": "mandoline.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "ложка с маркировкой, указывающей на различные единицы измерения, используемая для точного измерения ингредиентов",
       "example": "J'ai besoin d'une cuillère à mesurer pour mesurer le sucre pour la recette. Hier, j'ai utilisé une cuillère à mesurer pour mesurer la farine. La prochaine fois, j'utiliserai une cuillère à mesurer pour mesurer le sel.",
       "example_translation": "Мне нужна мерная ложка, чтобы измерить сахар для рецепта. Вчера я использовал мерную ложку, чтобы измерить муку. В следующий раз я буду использовать мерную ложку, чтобы измерить соль.",
-      "imageLink": "measuring-spoon.jpg",
+      "imageLink": "image_files\\English\\measuring-spoon.jpg",
       "audioLink": "measuring spoon.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Мягчитель мяса - это кухонный инструмент или ингредиент, используемый для того, чтобы сделать мясо более мягким и легким для пережевывания.",
       "example": "Elle a utilisé un attendrisseur de viande pour rendre le steak plus tendre. Hier, elle a acheté un attendrisseur de viande au magasin. D'ici une semaine, elle aura utilisé l'attendrisseur de viande plusieurs fois.",
       "example_translation": "Она использовала мягчитель мяса, чтобы сделать стейк более мягким. Вчера она купила мягчитель мяса в магазине. К следующей неделе она будет использовать мягчитель мяса несколько раз.",
-      "imageLink": "meat-tenderizer.jpg",
+      "imageLink": "image_files\\English\\meat-tenderizer.jpg",
       "audioLink": "meat tenderizer.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Мясорубка - это кухонное устройство или инструмент, используемый для нарезания или измельчения продуктов, особенно мяса, на маленькие кусочки.",
       "example": "Elle a haché l'ail à l'aide d'un hachoir. Hier, il a acheté un hachoir au magasin. D'ici un mois, ils auront utilisé le hachoir pour faire plusieurs plats.",
       "example_translation": "Она мелко нарезала чеснок с помощью мясорубки. Вчера он купил мясорубку в магазине. К следующему месяцу они будут использовать мясорубку, чтобы приготовить несколько блюд.",
-      "imageLink": "mincer.jpg",
+      "imageLink": "image_files\\English\\mincer.jpg",
       "audioLink": "mincer.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Ступка и пестик - это кухонный инструмент, используемый для измельчения, дробления или смешивания ингредиентов пищи, особенно специй и трав.",
       "example": "Elle a utilisé un mortier et pilon pour broyer les épices. Hier, ils ont acheté un mortier et pilon au magasin. D'ici l'année prochaine, ils auront utilisé le mortier et pilon pour faire plusieurs sauces.",
       "example_translation": "Она использовала ступку и пестик, чтобы размолоть специи. Вчера они купили ступку и пестик в магазине. К следующему году они будут использовать ступку и пестик, чтобы приготовить несколько соусов.",
-      "imageLink": "mortar-and-pestle.jpg",
+      "imageLink": "image_files\\English\\mortar-and-pestle.jpg",
       "audioLink": "mortar and pestle.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Орехокол - это кухонный инструмент или устройство, используемое для раскола орехов, особенно грецких орехов, пеканов и фундука.",
       "example": "Elle a utilisé un casse-noix pour ouvrir les noix de grenoble. Hier, il a acheté un casse-noix au magasin. D'ici la semaine prochaine, ils auront utilisé le casse-noix pour faire plusieurs desserts.",
       "example_translation": "Она использовала орехокол, чтобы расколоть грецкие орехи. Вчера он купил орехокол в магазине. К следующей неделе они будут использовать орехокол, чтобы приготовить несколько десертов.",
-      "imageLink": "nutcracker.jpg",
+      "imageLink": "image_files\\English\\nutcracker.jpg",
       "audioLink": "nutcracker.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Плоская, гладкая поверхность, используемая для раскатки и формирования теста, обычно изготовленная из дерева или пластика.",
       "example": "Elle a étalé la pâte sur la planche à pâte et a commencé à la rouler. Elle avait étalé la pâte sur la planche à pâte hier. Elle roulera la pâte sur la planche à pâte demain.",
       "example_translation": "Она разложила тесто на доске для теста и начала раскатывать его. Она раскатала тесто на доске для теста вчера. Она будет раскатывать тесто на доске для теста завтра.",
-      "imageLink": "pastry-board.jpg",
+      "imageLink": "image_files\\English\\pastry-board.jpg",
       "audioLink": "pastry board.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Кухонный инструмент, используемый для удаления кожи плодов и овощей.",
       "example": "Elle a utilisé un épluche-légumes pour enlever la peau de la pomme. Elle avait utilisé un épluche-légumes pour enlever la peau de la pomme de terre hier. Elle utilisera un épluche-légumes pour enlever la peau de la carotte demain.",
       "example_translation": "Она использовала чистильщик, чтобы удалить кожу яблока. Она использовала чистильщик, чтобы удалить кожу картофеля вчера. Она будет использовать чистильщик, чтобы удалить кожу моркови завтра.",
-      "imageLink": "peeler.jpg",
+      "imageLink": "image_files\\English\\peeler.jpg",
       "audioLink": "peeler.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Устройство, используемое для измельчения перечных зерен в перцовый порошок.",
       "example": "Elle a tourné le moulin à poivre pour moudre du poivre. Elle avait tourné le moulin à poivre pour moudre du poivre hier. Elle tournera le moulin à poivre pour moudre du poivre demain.",
       "example_translation": "Она повернула мельницу для перца, чтобы размолоть немного перца. Она повернула мельницу для перца, чтобы размолоть немного перца вчера. Она будет поворачивать мельницу для перца, чтобы размолоть немного перца завтра.",
-      "imageLink": "pepper-mill.jpg",
+      "imageLink": "image_files\\English\\pepper-mill.jpg",
       "audioLink": "pepper mill.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Мешочек, используемый для хранения и дозирования глазури или других мягких продуктов, обычно используемый для украшения тортов и пирожных.",
       "example": "Elle a utilisé une poche à douille pour décorer le gâteau. Elle avait utilisé une poche à douille pour décorer les biscuits hier. Elle utilisera une poche à douille pour décorer les cupcakes demain.",
       "example_translation": "Она использовала кондитерский мешочек, чтобы украсить торт. Она использовала кондитерский мешочек, чтобы украсить печенье вчера. Она будет использовать кондитерский мешочек, чтобы украсить кексы завтра.",
-      "imageLink": "piping-bag.jpg",
+      "imageLink": "image_files\\English\\piping-bag.jpg",
       "audioLink": "piping bag.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Скатка для теста - это цилиндрическое кухонное средство, используемое для раскатывания теста или пасты до равномерной толщины, обычно изготовленное из дерева, мрамора или силикона.",
       "example": "J'ai utilisé un rouleau à pâte pour faire un délicieux tarte aux pommes hier. Je l'utiliserai à nouveau demain pour faire un gâteau pour l'anniversaire de ma sœur. J'ai été en utilisant pendant des années pour faire toutes sortes de pâtisseries.",
       "example_translation": "Я использовал скатку для теста, чтобы приготовить вкусный яблочный пирог вчера. Я снова использовать его завтра, чтобы приготовить торт на день рождения моей сестры. Я использую его уже много лет, чтобы приготовить всевозможные виды выпечки.",
-      "imageLink": "rolling-pin.jpg",
+      "imageLink": "image_files\\English\\rolling-pin.jpg",
       "audioLink": "rolling pin.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Буфет - это предмет мебели, традиционно размещаемый в столовой, используемый для демонстрации и хранения столового прибора, полотенец и других вещей.",
       "example": "Nous avions un beau buffet dans notre salle à manger, où nous gardions toutes nos belles porcelaines et verres. Ma grand-mère le polishait chaque semaine. Je vais acheter un nouveau buffet l'année prochaine pour ma nouvelle maison.",
       "example_translation": "У нас был красивый буфет в нашей столовой, где мы хранили всю нашу изящную китайскую посуду и сткляные сосуды. Моя бабушка полировала его каждую неделю. Я куплю новый буфет следующим годом для своего нового дома.",
-      "imageLink": "sideboard.jpg",
+      "imageLink": "image_files\\English\\sideboard.jpg",
       "audioLink": "sideboard.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Сито - это кухонный инструмент с сетчатым или перфорированным дном, используемый для разделения или фильтрации частиц food разного размера.",
       "example": "J'ai utilisé un tamis pour tamiser la farine pour le gâteau. Elle utilisera un tamis la semaine prochaine pour séparer le riz des impuretés. Ils ont été en utilisant pendant des années pour filtrer les résidus de café.",
       "example_translation": "Я использовал сито, чтобы просеять муку для торта. Она будет использовать его на следующей неделе, чтобы отделить рис от примесей. Они использовали его уже много лет, чтобы фильтровать кофейную гущу.",
-      "imageLink": "sieve.jpg",
+      "imageLink": "image_files\\English\\sieve.jpg",
       "audioLink": "sieve.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Стойка для специй - это инструмент для организации кухни, используемый для хранения и демонстрации специй, трав и других приправ.",
       "example": "J'ai un râtelier à épices sur mon comptoir de cuisine, où je garde toutes mes épices préférées. Elle avait un beau râtelier à épices en bois dans sa cuisine. Ils vont acheter un nouveau râtelier à épices le mois prochain pour leur nouvelle cuisine.",
       "example_translation": "У меня есть стойка для специй на моей кухонной поверхности, где я храню все свои любимые специи. У нее был красивый деревянный стеллаж для специй на ее кухне. Они будут покупать новый стеллаж для специй следующим месяцем для своей новой кухни.",
-      "imageLink": "spice-rack.jpg",
+      "imageLink": "image_files\\English\\spice-rack.jpg",
       "audioLink": "spice rack.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Ложка, используемая для дегустации пищи во время приготовления, обычно smaller than столовой ложки.",
       "example": "J'ai utilisé une cuillère de dégustation pour vérifier la saveur de la soupe. Hier, j'ai goûté la sauce avec une cuillère de dégustation. Demain, je vais goûter le gâteau avec une cuillère de dégustation.",
       "example_translation": "Я использовал дегустационную ложку, чтобы проверить вкус супа. Вчера я попробовал соус дегустационной ложкой. Завтра я попробую 케이к дегустационной ложкой.",
-      "imageLink": "tasting-spoon.jpg",
+      "imageLink": "image_files\\English\\tasting-spoon.jpg",
       "audioLink": "tasting spoon.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Устройство, измеряющее временной интервал события или процесса.",
       "example": "J'ai réglé le minuteur pour 10 minutes. Hier, j'ai oublié de réglé le minuteur. Demain, je vais réglé le minuteur pour 5 minutes.",
       "example_translation": "Я поставил таймер на 10 минут. Вчера я забыл поставить таймер. Завтра я поставлю таймер на 5 минут.",
-      "imageLink": "timer.jpg",
+      "imageLink": "image_files\\English\\timer.jpg",
       "audioLink": "timer.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Кухонный инструмент, используемый для смешивания и взбивания продуктов, обычно состоящий из рукоятки и серии проволочных петель.",
       "example": "J'ai utilisé un fouet pour mélanger les œufs et le sucre. Hier, j'ai fouetté la crème jusqu'à ce qu'elle devienne ferme. Demain, je vais fouetter la sauce pour la rendre lisse.",
       "example_translation": "Я использовал взбиватель, чтобы смешать яйца и сахар. Вчера я взбил крем до тех пор, пока он не стал твердым. Завтра я взбью соус, чтобы он стал гладким.",
-      "imageLink": "whisk.jpg",
+      "imageLink": "image_files\\English\\whisk.jpg",
       "audioLink": "whisk.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Плоская поверхность в кухне, обычно сделанная из дерева, формики или гранита, используемая для приготовления и приготовления пищи.",
       "example": "J'ai nettoyé le plan de travail avant de commencer à cuisiner. Hier, j'ai placé les ingrédients sur le plan de travail. Demain, je vais mettre les plats finis sur le plan de travail.",
       "example_translation": "Я очистил рабочую поверхность перед началом приготовления. Вчера я поставил ингредиенты на рабочую поверхность. Завтра я поставлю готовые блюда на рабочую поверхность.",
-      "imageLink": "worktop.jpg",
+      "imageLink": "image_files\\English\\worktop.jpg",
       "audioLink": "worktop.mp3"
     }
   ]

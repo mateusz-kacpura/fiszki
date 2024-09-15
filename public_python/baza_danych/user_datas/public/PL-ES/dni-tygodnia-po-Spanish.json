@@ -9,7 +9,7 @@
       "definition_translation": "El día de la semana entre jueves y sábado, y el quinto día de la semana en estándar internacional",
       "example": "Spotkam się z tobą w piątek o 17:00. Spotkałem się z tobą w piątek w zeszłym tygodniu. Spotykam się z tobą w każdy piątek.",
       "example_translation": "Me reuniré contigo el viernes a las 5pm. Me reuní contigo el viernes de la semana pasada. Me reúno contigo cada viernes.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "El día de la semana antes del martes, y el primer día de la semana en estándar internacional",
       "example": "Zacznę nową pracę w poniedziałek. Zacząłem pracę w poniedziałek w zeszłym roku. Zaczynam każdy tydzień w poniedziałek.",
       "example_translation": "Empezaré mi nuevo trabajo el lunes. Empecé a trabajar el lunes del año pasado. Empiezo mi semana el lunes.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "El día de la semana entre viernes y domingo, y el sexto día de la semana en estándar internacional",
       "example": "Pojadę na plażę w sobotę. Pojechałem na plażę w sobotę w zeszłym weekendzie. Pojadę na targ w sobotę rano.",
       "example_translation": "Iré a la playa el sábado. Fui al parque el sábado del fin de semana pasado. Voy al mercado los sábados por la mañana.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "El día de la semana entre sábado y lunes.",
       "example": "Spotkam się z tobą w niedzielę. Spotkałem się z tobą w niedzielę. Spotkałem się z tobą w niedzielę.",
       "example_translation": "Te rencontraré el domingo. Te rencontré el domingo. Te he rencontrado el domingo.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "El día de la semana entre miércoles y viernes.",
       "example": "Pojadę do kina w czwartek. Pojechałem do kina w czwartek. Pojechałem do kina w czwartek.",
       "example_translation": "Iré al cine el jueves. Fui al cine el jueves. He ido al cine el jueves.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "El día de la semana entre lunes y miércoles.",
       "example": "Będę uczyć się do egzaminu we wtorek. Uczyłem się do egzaminu we wtorek. Uczyłem się do egzaminu we wtorek.",
       "example_translation": "Estudiaré para mi examen el martes. Estudié para mi examen el martes. He estudiado para mi examen el martes.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "El día de la semana entre martes y jueves.",
       "example": "Spotkam się z tobą w środę. Spotkałem się z tobą w środę. Spotkałem się z tobą w środę.",
       "example_translation": "Me reuniré contigo el miércoles. Me reuní contigo el miércoles. Había reunido contigo el miércoles.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "कुछ दिलचस्प न होने के कारण थका हुआ और उत्साहहीन महसूस करना",
       "example": "Ich war langweilig während des Vortrags, ich war langweilig im Meeting, ich werde langweilig auf der Party sein.",
       "example_translation": "मैं व्याख्यान के दौरान उबाऊ था, मैं बैठक में उबाऊ था, मैं पार्टी में उबाऊ हो जाऊंगा",
-      "imageLink": "bored.jpg",
+      "imageLink": "image_files\\English\\bored.jpg",
       "audioLink": "bored.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "रोचक अथवा रोमांचक न होना",
       "example": "Der Film war langweilig, das Buch war langweilig, die Klasse war langweilig.",
       "example_translation": "फिल्म निरस थी, किताब निरस थी, क्लास निरस था",
-      "imageLink": "boring.jpg",
+      "imageLink": "image_files\\English\\boring.jpg",
       "audioLink": "boring.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "तेज और आविष्कारी मन_VALuing होना",
       "example": "Sie war geschickt und löste das Puzzle, er war geschickt und reparierte das Auto, sie werden geschickt und erstellen eine neue App.",
       "example_translation": "वह चतुर थी और पहेली को हल कर दिया, वह चतुर था और कार को ठीक कर दिया, वे चतुर होंगे और एक नई ऐप создают",
-      "imageLink": "clever.jpg",
+      "imageLink": "image_files\\English\\clever.jpg",
       "audioLink": "clever.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "प्राप्त करने या कर पाने के लिए बहुत प्रयास या कौशल की आवश्यकता होना",
       "example": "Das Mathematikproblem war schwierig, das Projekt war schwierig, die Prüfung wird schwierig sein.",
       "example_translation": "गणित की समस्या कठिन थी, परियोजना कठिन थी, परीक्षा कठिन होगी",
-      "imageLink": "difficult.jpg",
+      "imageLink": "image_files\\English\\difficult.jpg",
       "audioLink": "difficult.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "उत्साह और तत्परता दिखाना",
       "example": "Ich war begeistert, zur Party letzte Nacht zu gehen. Ich bin begeistert, den neuen Film zu sehen. Ich werde begeistert sein, nach Europa nächstes Jahr zu reisen.",
       "example_translation": "मैं कल रात पार्टी में जाने के लिए उत्साहित था। मैं नई फिल्म देखने के लिए उत्साहित हूँ। मैं अगले साल यूरोप में यात्रा करने के लिए उत्साहित होऊंगा।",
-      "imageLink": "excited.jpg",
+      "imageLink": "image_files\\English\\excited.jpg",
       "audioLink": "excited.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "उत्साह और तत्परता की भावना पैदा करना",
       "example": "Die aufregende Nachricht ließ mich vor Freude springen. Das aufregende Spiel hielt mich am Rande meines Sitzes. Das aufregende Abenteuer war der Höhepunkt meiner Reise.",
       "example_translation": "रोमांचक खबर ने मुझे खुशी से उछलने के लिए प्रेरित किया। रोमांचक खेल ने मुझे अपनी सीट से उठाया। रोमांचक साहसिक मेरी यात्रा का आकर्षक हिस्सा था।",
-      "imageLink": "exciting.jpg",
+      "imageLink": "image_files\\English\\exciting.jpg",
       "audioLink": "exciting.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "बहुत से लोगों द्वारा जाना और सम्मानित",
       "example": "Er ist ein berühmter Schauspieler in Hollywood. Sie war eine berühmte Wissenschaftlerin auf ihrem Gebiet. Das berühmte Gemälde ist im Museum ausgestellt.",
       "example_translation": "वह हॉलीवुड में एक प्रसिद्ध अभिनेता हैं। वह अपने क्षेत्र में एक प्रसिद्ध वैज्ञानिक थीं। प्रसिद्ध चित्र संग्रहालय में प्रदर्शित हैं।",
-      "imageLink": "famous.jpg",
+      "imageLink": "image_files\\English\\famous.jpg",
       "audioLink": "famous.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "हंसी या आनंद पैदा करना",
       "example": "Der lustige Witz machte alle lachen. Der lustige Film war ein großer Erfolg. Der lustige Vorfall passierte auf der Party letzte Nacht.",
       "example_translation": "हास्य चुटकुले ने सभी को हंसाया। हास्य फिल्म एक बड़ी हिट थी। पार्टी में रात के समय हास्य घटना हुई।",
-      "imageLink": "funny.jpg",
+      "imageLink": "image_files\\English\\funny.jpg",
       "audioLink": "funny.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "एक अच्छी गुणवत्ता होना; एक KIND और उदार आत्मा दिखाना.",
       "example": "Ich fühlte mich gut, meinem Freund geholfen zu haben. Ich fühle mich gut, wenn ich mein Lieblingsessen esse. Ich werde mich gut fühlen, wenn ich in Urlaub bin.",
       "example_translation": "मैंने अपने दोस्त की मदद करने के बारे में अच्छा महसूस किया. मैं अच्छा लगता हूँ जब मैं अपना पसंदीदा खाना खाता हूँ. मैं अच्छा लगूँगा जब मैं छुट्टी पर जाऊंगा.",
-      "imageLink": "good-1.jpg",
+      "imageLink": "image_files\\English\\good-1.jpg",
       "audioLink": "good.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "अनन्द या संतोष का आभास होना या दिखाना.",
       "example": "Ich war glücklich, meine Familie zu sehen. Ich bin glücklich, auf der Party zu sein. Ich werde glücklich sein, wenn ich mein Projekt fertiggestellt habe.",
       "example_translation": "मैं अपने परिवार को देखने के लिए खुश था. मैं पार्टी पर होने के लिए खुश हूँ. मैं अपना प्रोजेक्ट पूरा करने पर खुश हूँगा.",
-      "imageLink": "happy.jpg",
+      "imageLink": "image_files\\English\\happy.jpg",
       "audioLink": "happy.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "जिज्ञासा या ध्यान आकर्षित करना; किसी का ध्यान बनाए रखना.",
       "example": "Der Film war interessant zuzusehen. Ich finde seine Geschichten interessant anzuhören. Das Buch wird interessant zu lesen sein.",
       "example_translation": "फिल्म देखने में रोचक थी. मैं उसकी कहानियाँ सुनने में रोचक लगता हूँ. کتاب पढ़ने में रोचक होगा.",
-      "imageLink": "interesting.jpg",
+      "imageLink": "image_files\\English\\interesting.jpg",
       "audioLink": "interesting.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "सुखद, स्वीकार्य, या संतोषजनक.",
       "example": "Das Wetter war gestern nett. Es ist nett, einen Freund wie dich zu haben. Es wird nett sein, den Strand wieder zu besuchen.",
       "example_translation": "कल का मौसम अच्छा था. आपके जैसे दोस्त का होना अच्छा है. फिर से समुद्र तट पर जाना अच्छा होगा.",
-      "imageLink": "nice.jpg",
+      "imageLink": "image_files\\English\\nice.jpg",
       "audioLink": "nice.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "दुख या असंतोष का भाव दिखाना",
       "example": "Ich war traurig, als ich mein Lieblingsspielzeug als Kind verlor, aber ich bin jetzt glücklich, dass ich ein neues habe. Ich fühle mich traurig, wenn es an meinem Geburtstag regnet. Ich werde traurig sein, wenn ich den Job nicht bekomme, den ich will.",
       "example_translation": "जब मैं बच्चा था और मेरा पसंदीदा खिलौना खो गया था तो मैं उदास था, लेकिन अब मुझे नया है और मैं खुश हूँ. मेरे जन्मदिन पर बारिश होती है तो मैं उदास होता हूँ. अगर मुझे वो नौकरी नहीं मिलती जिसे मैं चाहता हूँ तो मैं उदास हो जाऊँगा.",
-      "imageLink": "sad.jpg",
+      "imageLink": "image_files\\English\\sad.jpg",
       "audioLink": "sad.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "शारीरिक या मानसिक थकान महसूस करना",
       "example": "Ich war müde nach dem MarathonLauf, aber ich fühlte mich großartig, nachdem ich ein Nickerchen gemacht hatte. Ich fühle mich müde, wenn ich nicht genug Schlaf bekomme. Ich werde müde sein, wenn ich keine Pausen während meiner langen Reise mache.",
       "example_translation": "जब मैं मैराथन दौड़ा तो मैं थक गया था, लेकिन मैंने सो लिया तो मैं महसूस कर रहा था. अगर मैं पर्याप्त नींद नहीं लेता हूँ तो मैं थका हुआ महसूस करता हूँ. अगर मैं अपनी लंबी यात्रा के दौरान ब्रेक नहीं लेता हूँ तो मैं थका हुआ हो जाऊँगा.",
-      "imageLink": "tired.jpg",
+      "imageLink": "image_files\\English\\tired.jpg",
       "audioLink": "tired.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "चीजों को भूलने या आसानी से विचलित होने की प्रवृत्ति होना",
       "example": "Ich war abwesend und habe mein Handy zu Hause vergessen, deshalb musste ich zurückkehren, um es zu holen. Ich fühle mich abwesend, wenn ich unter großem Druck stehe. Mein Freund ist abwesend und vergisst immer sein Passwort.",
       "example_translation": "मैं लापरवाह था और मैंने अपना फोन घर पर भूल गया था, इसलिए मुझे वापस जाना पड़ा था. जब मैं बहुत ज्यादा दबाव में हूँ तो मैं लापरवाह महसूस करता हूँ. मेरा दोस्त लापरवाह है और वह हमेशा अपना पासवर्ड भूल जाता है.",
-      "imageLink": "absent-minded.jpg",
+      "imageLink": "image_files\\English\\absent-minded.jpg",
       "audioLink": "absent-minded.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "कुछ के बारे में डर или चिंता महसूस करना",
       "example": "Ich war ängstlich vor der Dunkelheit, als ich ein Kind war, aber jetzt bin ich es nicht mehr. Ich fühle mich ängstlich, wenn ich eine Schlange sehe. Ich werde ängstlich sein, wenn ich vor einer großen Menschenmenge sprechen muss.",
       "example_translation": "जब मैं बच्चा था तो मैं अंधेरे से डरा हुआ था, लेकिन अब मैं नहीं हूँ. अगर मैं सांप देखता हूँ तो मैं डरा हुआ महसूस करता हूँ. अगर मुझे बड़े समूह के सामने बोलना पड़े तो मैं डरा हुआ हो जाऊँगा.",
-      "imageLink": "afraid.jpg",
+      "imageLink": "image_files\\English\\afraid.jpg",
       "audioLink": "afraid.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "अत्यधिक असंतोष या नाखुशी दिखाना; क्रोधित",
       "example": "Ich war wütend, als ich die Nachricht sah, ich bin wütend, wenn ich daran denke, und ich werde wütend sein, wenn es wieder passiert.",
       "example_translation": "जब मैंने न्यूज देखा, तो मैं क्रोधित था, जब मैं उसके बारे में सोचता हूँ, तो मैं क्रोधित हूँ, और अगर यह फिर से होता है, तो मैं क्रोधित हो जाऊँगा।",
-      "imageLink": "angry.jpg",
+      "imageLink": "image_files\\English\\angry.jpg",
       "audioLink": "angry.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "किसी चीज़ पर इतना ध्यान देना कि गलतियाँ या दुर्घटनाएं न हों。",
       "example": "Ich bin vorsichtig, wenn ich fahre, ich war vorsichtig, als ich den Test schrieb, und ich werde vorsichtig sein, wenn ich mein Geld investiere.",
       "example_translation": "मैंDrvइग करते समय सावधान हूँ, मैं परीक्षा लिखते समय सावधान था, और मैं अपने पैसे निवेश करते समय सावधान हो जाऊँगा।",
-      "imageLink": "careful.jpg",
+      "imageLink": "image_files\\English\\careful.jpg",
       "audioLink": "careful.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "तापमान में मामूली ठंडा; गर्म या उष्ण नहीं。",
       "example": "Der kühle Wind an einem heißen Sommertag ist sehr erfrischend, das kühle Wasser war perfekt zum Schwimmen, und die kühle Luft im Auto war großartig.",
       "example_translation": "गर्मी के दिन में ठंडी हवा बहुत ताज़ा है, तैरने के लिए ठंडा पानी परफेक्ट था, और कार में ठंडा एयर कंडीशनिंग अद्भुत था।",
-      "imageLink": "cool-1.jpg",
+      "imageLink": "image_files\\English\\cool-1.jpg",
       "audioLink": "cool.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "मानसिक बीमारी से पीड़ित होना या चरम मूर्खता या हास्यास्पद होना",
       "example": "Er verhielt sich verrückt, als er die Nachricht hörte, sie war verrückt nach dem neuen Film, und sie waren verrückt, als sie diesen Stunt ausprobierten.",
       "example_translation": "जब उसने न्यूज सुनी, तो वह पागल हो गया, वह नई फिल्म के लिए पागल थी, और वे उस स्टंट की कोशिश करने के लिए पागल थे।",
-      "imageLink": "crazy.jpg",
+      "imageLink": "image_files\\English\\crazy.jpg",
       "audioLink": "crazy.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "जोखिम या खतरे से भरा; खतरनाक या खतरनाक",
       "example": "Die Stunt war so gefährlich, dass sie das Publikum erstarren ließ. Ich war in einer gefährlichen Situation letzte Nacht. Ich werde vorsichtig sein, um gefährliche Bereiche zu vermeiden.",
       "example_translation": "स्टंट इतना खतरनाक था कि इसने दर्शकों को सांस लेने के लिए मजबूर कर दिया। मैं कल रात एक खतरनाक स्थिति में था। मैं खतरनाक क्षेत्रों से बचने के लिए सावधान रहूंगा.",
-      "imageLink": "dangerous.jpg",
+      "imageLink": "image_files\\English\\dangerous.jpg",
       "audioLink": "dangerous.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "एक दोस्ताना और स्नेही स्वभाव रखना या दिखाना",
       "example": "Der freundliche Kellner machte uns uns willkommen. Sie war freundlich und gesprächig. Er wird freundlich zu jeden auf der Party sein.",
       "example_translation": "मैत्रीपूर्ण वेटर ने हमें स्वागत करने के लिए बनाया। वह मैत्रीपूर्ण और बातूनी थी। वह पार्टी में सभी के लिए मैत्रीपूर्ण होगा.",
-      "imageLink": "friendly-1.jpg",
+      "imageLink": "image_files\\English\\friendly-1.jpg",
       "audioLink": "friendly.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "आनंद या सुख की भावना या दिखाना",
       "example": "Ich war froh, die Nachricht zu hören. Sie war froh, ihre alten Freunde zu sehen. Sie werden froh sein, dich wiederzutreffen.",
       "example_translation": "मैं खबर सुनने के लिए प्रसन्न था। वह अपने पुराने दोस्तों को देखकर प्रसन्न थी। वे फिर से आपको मिलने के लिए प्रसन्न होंगे।",
-      "imageLink": "glad.jpg",
+      "imageLink": "image_files\\English\\glad.jpg",
       "audioLink": "glad.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "नैतिक रूप से सीधा और निष्पक्ष; सच्चा और सच्चा",
       "example": "Er war ein ehrlicher Mann und sagte immer die Wahrheit. Das Unternehmen schätzt ehrliche Mitarbeiter. Sie war ehrlich über ihre Gefühle.",
       "example_translation": "वह एक ईमानदार आदमी था और हमेशा सच बताता था। कंपनी ईमानदार कर्मचारियों की सराहना करती है। वह अपने भावनाओं के बारे में ईमानदार थी।",
-      "imageLink": "honest.jpg",
+      "imageLink": "image_files\\English\\honest.jpg",
       "audioLink": "honest.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "किसी चीज या किसी के बारे में उत्सुकता या चिंता की भावना होना।",
       "example": "Ich war sehr interessiert daran, Astronomie in der Schule zu lernen. Ich bin immer noch interessiert daran. Ich werde interessiert sein, wenn ich älter bin.",
       "example_translation": "जब मैं स्कूल में था तब मैं एस्ट्रोनॉमी के बारे में सीखने में बहुत दिलचस्प था। अब भी मैं इसके बारे में दिलचस्प हूँ। भविष्य में मैं इसके बारे में दिलचस्प होऊंगा।",
-      "imageLink": "interested.jpg",
+      "imageLink": "image_files\\English\\interested.jpg",
       "audioLink": "interested.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "एक सज्जन और उदार प्रकृति होना या दिखाना।",
       "example": "Sie war eine sehr gute Person und half immer denen, die in Not waren. Sie ist gut zu jedem, den sie trifft. Sie wird gut zu ihren künftigen Kindern sein.",
       "example_translation": "वह एक बहुत दयालु व्यक्ति थी और जरूरतमंद लोगों की हमेशा मदद करती थी। वह सभी से मिले लोगों के प्रति दयालु है। वह अपने भविष्य के बच्चों के प्रति दयालु होगी।",
-      "imageLink": "kind.jpg",
+      "imageLink": "image_files\\English\\kind.jpg",
       "audioLink": "kind.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "काम करने या प्रयास करने के लिए अनिच्छुक; सक्रिय या ऊर्जावान नहीं।",
       "example": "Mein Bruder ist sehr faul und hilft nie bei den Haushaltsaufgaben. Er war faul, selbst als er noch jung war. Er wird faul für den Rest seines Lebens sein.",
       "example_translation": "मेरा भाई बहुत सुस्त है và घरेलू काम में कभी मदद नहीं करता है। वह छोटा होने पर भी सुस्त था। वह अपने जीवन के लिए सुस्त होगा।",
-      "imageLink": "lazy.jpg",
+      "imageLink": "image_files\\English\\lazy.jpg",
       "audioLink": "lazy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "एक मजबूत और बेतुका इच्छा या भावना होना या दिखाना।",
       "example": "Sie ging wütend, als sie ihren Lieblingsschauspieler auf der Bühne sah. Sie war wütend auf ihren Bruder, weil er ihr Lieblingsspielzeug zerbrochen hatte. Sie wird wütend, wenn sie die Nachricht erfährt.",
       "example_translation": "जब वह मंच पर अपने पसंदीदा अभिनेता को देखा तो वह पागल हो गई। वह अपने भाई पर अपने पसंदीदा खिलौने को तोड़ने के लिए गुस्सा थी। वह खबर मिलने पर पागल हो जाएगी।",
-      "imageLink": "mad.jpg",
+      "imageLink": "image_files\\English\\mad.jpg",
       "audioLink": "mad.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "संतुष्टि या आनंद दिखाता है",
       "example": "Ich war zufrieden, meine Freunde auf der Party zu sehen. Ich bin zufrieden mit meinem neuen Job. Ich werde zufrieden sein, wenn ich dir helfe.",
       "example_translation": "मुझे पार्टी में अपने दोस्तों को देखकर खुशी हुई। मैं अपनी नई नौकरी से संतुष्ट हूँ। मैं आपकी मदद करने में खुश हूँगा।",
-      "imageLink": "pleased.jpg",
+      "imageLink": "image_files\\English\\pleased.jpg",
       "audioLink": "pleased.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "दूसरे लोगों के प्रति सम्मान और विचारशील व्यवहार रखने वाला",
       "example": "Er ist immer höflich zu seinen Lehrern. Sie war höflich gegenüber dem Fremden. Sie werden höflich zu ihren Gästen sein.",
       "example_translation": "वह अपने शिक्षकों के प्रति सदैव शिष्ट है। वह अजनबी के प्रति शिष्ट थी। वे अपने अतिथियों के प्रति शिष्ट होंगे।",
-      "imageLink": "polite.jpg",
+      "imageLink": "image_files\\English\\polite.jpg",
       "audioLink": "polite.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "पैसे या सामग्री से वंचित",
       "example": "Die arme Familie lebte in einem kleinen Haus. Sie war arm und konnte sich kein Auto leisten. Sie werden arm sein, wenn sie nicht hart arbeiten.",
       "example_translation": "गरीब परिवार、小घर में रहता था। वह गरीब थी और कार नहीं खरीद सकती थी। वे कार्य न करें तो गरीब हो जाएंगे।",
-      "imageLink": "poor.jpg",
+      "imageLink": "image_files\\English\\poor.jpg",
       "audioLink": "poor.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "कम या कोई शोर न करना",
       "example": "Das ruhige Zimmer war perfekt zum Studieren. Sie mag ruhige Musik. Sie werden ruhig sein während der Prüfung.",
       "example_translation": "चुप कमरा अध्ययन करने के लिए अच्छा था। वह चुप संगीत पसंद करती है। वे परीक्षा के दौरान चुप रहेंगे।",
-      "imageLink": "quiet.jpg",
+      "imageLink": "image_files\\English\\quiet.jpg",
       "audioLink": "quiet.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "महत्व или紧急heit का एहसास दिखाता है, अक्सर एक नोबल या गरिमामय तरीके से।",
       "example": "Der Arzt hatte ein ernstes Gespräch mit dem Patienten über seine Diagnose. Die Patienten waren sehr ernst bei ihrer Behandlung. Der Arzt wird morgen ernst um die Gesundung des Patienten sein.",
       "example_translation": "डॉक्टर ने मरीज के निदान के बारे में गंभीर बातचीत की। मरीज अपने इलाज के बारे में बहुत गंभीर थे। डॉक्टर कल मरीज के स्वास्थ्य लाभ के बारे में गंभीर होगा।",
-      "imageLink": "serious.jpg",
+      "imageLink": "image_files\\English\\serious.jpg",
       "audioLink": "serious.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "बुद्धि या सामान्य ज्ञान की कमी; मूर्ख。",
       "example": "Er war dumm, all sein Geld in diesem System anzulegen. Sie war dumm, ihn mit ihren Geheimnissen zu vertrauen. Sie werden dumm sein, wenn sie die Warnung nicht ernst nehmen.",
       "example_translation": "वह उस स्कीम में अपना सारा पैसा लगाने में मूर्ख था। वह अपने राज के साथ उस पर विश्वास करने में मूर्ख थी। वे चेतावनी को गंभीरता से न लेने में मूर्ख होंगे।",
-      "imageLink": "stupid.jpg",
+      "imageLink": "image_files\\English\\stupid.jpg",
       "audioLink": "stupid.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "आश्चर्य या आश्चर्य की भावना या प्रदर्शन。",
       "example": "Ich war überrascht von der Nachricht ihrer Schwangerschaft. Sie war überrascht, ihn auf der Party zu sehen. Sie werden überrascht sein von der Komplexität der Aufgabe.",
       "example_translation": "मैं उसके गर्भावस्था की खबर से चौंका था। वह पार्टी में उसे देखकर चौंकी थी। वे कार्य की जटिलता से चौंक जाएंगे।",
-      "imageLink": "surprised.jpg",
+      "imageLink": "image_files\\English\\surprised.jpg",
       "audioLink": "surprised.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "एक सुखद या संवादात्मक स्वाद, गंध, या गुण होना।",
       "example": "Der süße Duft frisch gebackener Cookies füllte den Raum. Sie liebte es, süße Früchte zu essen. Sie werden eine schöne Zeit am Strand morgen haben.",
       "example_translation": "ताजी पकी हुई कुकीज की मीठी सुगंध ने कमरा भर दिया। वह मीठे फल खाने की प्रेमी थी। वे कल समुद्र तट पर मीठा समय बिताएंगे।",
-      "imageLink": "sweet.jpg",
+      "imageLink": "image_files\\English\\sweet.jpg",
       "audioLink": "sweet.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "अपने उचित स्थान पर सब कुछ साफ़ और साफ़ है",
       "example": "Ich räumte mein Zimmer gestern auf, und jetzt sieht es perfekt aus. Ich werde es morgen früh wieder aufräumen. Ich hatte es letzte Woche aufgeräumt, aber es war wieder chaotisch geworden.",
       "example_translation": "मैंने कल अपना कमरा साफ़ किया, और अब यह परफ़ेक्ट लगता है. मैं कल सुबह फिर से साफ़ करूँगा. मैंने पिछले हफ्ते इसे साफ़ किया था, लेकिन फिर से गंदा हो गया.",
-      "imageLink": "tidy-1.jpg",
+      "imageLink": "image_files\\English\\tidy-1.jpg",
       "audioLink": "tidy.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "दुखी या असंतुष्ट महसूस करना, प्रसन्न या संतुष्ट नहीं होना",
       "example": "Ich war unzufrieden mit dem Service, daher beschwerte ich mich bei dem Manager. Sie ist unzufrieden mit ihrem Job und will kündigen. Sie waren unzufrieden mit ihrer Beziehung und beschlossen, sich zu trennen.",
       "example_translation": "मैं सेवा से असंतुष्ट था, इसलिए मैंने प्रबंधक से शिकायत की. वह अपनी नौकरी से असंतुष्ट है, और चाहती है कि छोड़ दे. वे अपने रिश्ते से असंतुष्ट थे, और फैसला किया कि अलग हो जाएँ.",
-      "imageLink": "unhappy.jpg",
+      "imageLink": "image_files\\English\\unhappy.jpg",
       "audioLink": "unhappy.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "कुछ के बारे में चिंतित या चिंता महसूस करना",
       "example": "Ich war besorgt über meine Examensergebnisse, aber sie waren gut. Sie ist besorgt über ihre Gesundheit und muss einen Arzt aufsuchen. Sie waren besorgt über den Unfall und eilten ins Krankenhaus.",
       "example_translation": "मैं अपने परीक्षा परिणामों के बारे में चिंतित था, लेकिन वे अच्छे निकले. वह अपने स्वास्थ्य के बारे में चिंतित है, और डॉक्टर के पास जाने कीotřebा. वे दुर्घटना के बारे में चिंतित थे, और अस्पताल में भागे.",
-      "imageLink": "worried.jpg",
+      "imageLink": "image_files\\English\\worried.jpg",
       "audioLink": "worried.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "शारीरिक या मानसिक गतिविधि में सक्रिय रूप से लगा हुआ",
       "example": "Ich war aktiv im Sport während meines College-Lebens. Sie ist aktiv auf sozialen Medien und hat viele Follower. Sie waren aktiv in der Gemeinschaft und halfen bei den Flut-Hilfseinsätzen.",
       "example_translation": "मैं कॉलेज के दिनों में खेलों में सक्रिय था. वह सोशल मीडिया पर सक्रिय है, और उसे कई फॉलोवर्स हैं. वे समुदाय में सक्रिय थे, और बाढ़ राहत प्रयासों में मदद की.",
-      "imageLink": "active.jpg",
+      "imageLink": "image_files\\English\\active.jpg",
       "audioLink": "active.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "उत्तेजना या निराशा पैदा करने वाला; परेशानी देने वाला",
       "example": "Die Lehrerin fand das ständige Geflüster des Schülers ärgerlich. Sie hatte Ärger im Gesicht. Sie wird ärgerlich sein, wenn du nicht aufhörst zu sprechen.",
       "example_translation": "शिक्षक ने छात्र की साथ-बैठ कर लगातार फुसफुसाहट को परेशान करने वाला पाया. उसके चेहरे पर नाराजगी थी. अगर आप बात करना बंद नहीं करते तो वह परेशान हो जाएगी.",
-      "imageLink": "annoying.jpg",
+      "imageLink": "image_files\\English\\annoying.jpg",
       "audioLink": "annoying.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "कुछ होने की संभावना के बारे में चिंतित, नервस या असहज महसूस करना.",
       "example": "Ich war ängstlich wegen der Examinaergebnisse. Sie war seit dem Morgen ängstlich. Er wird ängstlich sein, wenn er erfahren muss, wie seine Punktzahl ist.",
       "example_translation": "मैं परीक्षा के नतीजों के बारे में चिंतित था. वह सुबह से चिंतित है. वह अपना स्कोर जानने के लिए चिंतित हो जाएगा.",
-      "imageLink": "anxious.jpg",
+      "imageLink": "image_files\\English\\anxious.jpg",
       "audioLink": "anxious.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "खतरे या कठिनाई के सामने साहस या शक्ति दिखाना.",
       "example": "Der mutige Krieger kämpfte gegen den Feind. Sie war mutig genug, vor dem Publikum zu sprechen. Er wird mutig genug sein, die Herausforderung anzunehmen.",
       "example_translation": "साहसी योद्धा ने दुश्मन के खिलाफ लड़ाई लड़ी. वह भीड़ के सामने बोलने के लिए đủ साहसी थी. वह चुनौती स्वीकार करने के लिए साहसी हो जाएगा.",
-      "imageLink": "brave.jpg",
+      "imageLink": "image_files\\English\\brave.jpg",
       "audioLink": "brave.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "साहसपूर्ण या साहसी तरीके से.",
       "example": "Der Feuerwehrmann trat mutig in das brennende Gebäude ein. Sie sprach mutig vor dem Ausschuss. Er wird mutig die Konsequenzen tragen.",
       "example_translation": "दangler ने साहसपूर्वक जलते हुए इमारत में प्रवेश किया. वह समिति के सामने साहसपूर्वक बोली. वह परिणामों का साहसपूर्वक सामना करेगा.",
-      "imageLink": "bravely-1.jpg",
+      "imageLink": "image_files\\English\\bravely-1.jpg",
       "audioLink": "bravely.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "अपवादात्मक रूप से प्रतिभावान या प्रभावशाली.",
       "example": "Sie war eine brillante Studentin und bekam ein Stipendium. Sie ist jetzt brillant in ihrer Karriere. Sie wird in ihren zukünftigen Unternehmungen brillant sein.",
       "example_translation": "वह एक उत्कृष्ट विद्यार्थी थी और स्कॉलरशिप मिला। वह अब अपने करियर में उत्कृष्ट है। वह अपने भविष्य के उद्यमों में उत्कृष्ट होगी।",
-      "imageLink": "brilliant.jpg",
+      "imageLink": "image_files\\English\\brilliant.jpg",
       "audioLink": "brilliant.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "उत्साह या चिंता नहीं दिखा रहा या महसूस कर रहा.",
       "example": "Sie blieb während der Krise ruhig. Sie ist jetzt ruhig und gefasst. Sie wird in Zukunft ruhig bleiben.",
       "example_translation": "वह संकट के दौरान शांत रहीं। वह अब शांत और संयत है। वह भविष्य में शांत रहेगी।",
-      "imageLink": "calm.jpg",
+      "imageLink": "image_files\\English\\calm.jpg",
       "audioLink": "calm.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "चिंता या परेशानियों से मुक्ति की भावना दिखाना या होना.",
       "example": "Er war in seiner Jugend sorglos. Er ist jetzt mehr sorglos als vorher. Er wird in seinem Alter sorglos sein.",
       "example_translation": "वह अपने युवावस्था में निर्भार थे। वह अब पहले से अधिक निर्भार है। वह अपने बुढ़ापे में निर्भार होगा।",
-      "imageLink": "carefree.jpg",
+      "imageLink": "image_files\\English\\carefree.jpg",
       "audioLink": "carefree.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "किसी चीज का पर्याप्त ध्यान नहीं देना.",
       "example": "Er war nachlässig mit seinem Handy. Er ist mit seinem Geld nachlässig. Er wird mit seiner Gesundheit nachlässig sein.",
       "example_translation": "वह अपने फोन के साथ लापरवाह थे। वह अपने पैसे के साथ लापरवाह है। वह अपने स्वास्थ्य के साथ लापरवाह होगा।",
-      "imageLink": "careless.jpg",
+      "imageLink": "image_files\\English\\careless.jpg",
       "audioLink": "careless.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "महान आनन्द या डelite देना, आकर्षक और सुखदायक。",
       "example": "Sie war in ihrem neuen Kleid entzückend. Sie hatte jeden mit ihrem Lächeln entzückt. Sie wird das Publikum mit ihrer Vorstellung entzücken.",
       "example_translation": "वह अपने नए ड्रेस में आकर्षक थी। वह अपनी मुस्कान से सभी को आकर्षित कर रही थी। वह अपने प्रदर्शन से दर्शकों को आकर्षित करेगी।",
-      "imageLink": "charming.jpg",
+      "imageLink": "image_files\\English\\charming.jpg",
       "audioLink": "charming.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "एक सुखद और आशावादी भावना रखना या दिखाना।",
       "example": "Er ist jeden Morgen fröhlich. Er war während der Party fröhlich. Er wird fröhlich sein, wenn er die Nachricht bekommt.",
       "example_translation": "सुबह में वह हमेशा हंसमुख रहता है। पार्टी के दौरान वह हंसमुख था। वह खबर मिलने पर हंसमुख हो जाएगा।",
-      "imageLink": "cheerful.jpg",
+      "imageLink": "image_files\\English\\cheerful.jpg",
       "audioLink": "cheerful.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "कम तापमान वाला, गर्म या गर्म नहीं।",
       "example": "Es war kalt draußen gestern. Es ist kalt im Winter. Es wird kalt morgen früh sein.",
       "example_translation": "कलoutside ठंडा था। सर्दी में ठंडा रहता है। सुबह में ठंडा होगा।",
-      "imageLink": "cold.jpg",
+      "imageLink": "image_files\\English\\cold.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "समझ नहीं आ रहा है या निर्णय नहीं कर पा रहा है, अनिश्चित या अव्यवस्थित。",
       "example": "Ich war verwirrt von den Anweisungen. Ich bin verwirrt über das Thema. Ich werde verwirrt sein, wenn ich nicht studiere.",
       "example_translation": "निर्देशों से मैं भ्रमित था। मैं विषय के बारे में भ्रमित हूँ। अगर मैं नहीं पढ़ता तो मैं भ्रमित हो जाऊंगा।",
-      "imageLink": "confused.jpg",
+      "imageLink": "image_files\\English\\confused.jpg",
       "audioLink": "confused.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "नई और मौलिक विचारों का सृजन करने की क्षमता है, या एक नई और कल्पनाशील तरीके से सोचने की क्षमता है.",
       "example": "Sie ist eine kreative Schriftstellerin, und ihre Geschichten sind voller Fantasie und Fiktion. Letztes Jahr hat sie einen Roman geschrieben, der ein Bestseller wurde. Jetzt schreibt sie ein neues Werk, das nächstes Jahr veröffentlicht wird.",
       "example_translation": "वह एक सृजनात्मक लेखिका है, और उसकी कहानियां कल्पना और फंतासी से भरी हुई हैं। पिछले साल, उसने एक उपन्यास लिखा था जो साल की सर्वश्रेष्ठ बिक्री वाली किताब थी। अब, वह एक नई कहानी लिख रही है जिसका प्रकाशन अगले साल होगा।",
-      "imageLink": "creative.jpg",
+      "imageLink": "image_files\\English\\creative.jpg",
       "audioLink": "creative.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "दूसरों को जानबूझकर या अनजाने में दर्द या पीड़ा पहुँचाना।",
       "example": "Der grausame Besitzer des Tierheims wurde verhaftet, weil er den Tieren schlecht behandelt hat. Er war grausam zu den Tieren, seit Jahren, aber wurde letzte Woche erwischt. Jetzt wird er grausam nicht mehr sein.",
       "example_translation": "जानवरों के आश्रय के क्रूर मालिक को उसके जानवरों के अमानवीय व्यवहार के लिए गिरफ्तार कर लिया गया था। वह वर्षों से जानवरों के प्रति क्रूर था, लेकिन पिछले हफ्ते पकड़ा गया था। अब, वह और क्रूर नहीं होगा।",
-      "imageLink": "cruel.jpg",
+      "imageLink": "image_files\\English\\cruel.jpg",
       "audioLink": "cruel.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "किसी चीज़ या किसी व्यक्ति के बारे में जानने या सीखने की इच्छा होना।",
       "example": "Das neugierige Kind fragte seine Mutter Millionen Fragen über das Universum. Er war neugierig über die Sterne und Planeten, und seine Mutter war glücklich, ihm zu erklären. Gestern war er neugierig über den Ozean, und heute ist er neugierig über die Berge.",
       "example_translation": "जिज्ञासु बच्चे ने अपनी माँ से ब्रह्मांड के बारे में एक लाख सवाल पूछे। वह सितारों और ग्रहों के बारे में जिज्ञासु था, और उसकी माँ खुश थी समझाने के लिए। कल, वह समुद्र के बारे में जिज्ञासु था, और आज वह पर्वतों के बारे में जिज्ञासु है।",
-      "imageLink": "curious.jpg",
+      "imageLink": "image_files\\English\\curious.jpg",
       "audioLink": "curious.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "जिज्ञासापूर्वक तरीके से, और अधिक जानने या सीखने की इच्छा के साथ。",
       "example": "Sie sah sich das alte Artefakt neugierig an, sich fragend, wofür es verwendet wurde. Er untersuchte das seltsame Gerät neugierig, um herauszufinden, wie es funktionierte. Sie gingen durch das Spukhaus neugierig, nach Anzeichen paranormaler Aktivität suchend.",
       "example_translation": "उसने प्राचीन कलाकृति को जिज्ञासापूर्वक देखा, यह जानकर कि यह क्या इस्तेमाल किया जाता था। उसने अजीब डिवाइस को जिज्ञासापूर्वक जाँचा, यह पता लगाने की कोशिश कर रहा था कि यह कैसे काम करता था। वे भूतहा घर से जिज्ञासापूर्वक आए, अलौकिक गतिविधि के संकेत खोजने।",
-      "imageLink": "curiously.jpg",
+      "imageLink": "image_files\\English\\curiously.jpg",
       "audioLink": "curiously.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "महान आनंद या आनंद का प्रदर्शन करना",
       "example": "Ich war entzückt, als ich die Neuigkeit hörte, ich bin entzückt, hier zu sein, und ich werde entzückt sein, dich wiederzusehen.",
       "example_translation": "मुझे खबर सुनकर प्रसन्न हुआ, मैं यहां होने के लिए प्रसन्न हूँ, और मैं फिर से आपसे मिलने के लिए प्रसन्न होऊंगा.",
-      "imageLink": "delighted.jpg",
+      "imageLink": "image_files\\English\\delighted.jpg",
       "audioLink": "delighted.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "दुखी, निराश या उबाऊ महसूस करना",
       "example": "Ich fühlte mich deprimiert, als ich meinen Job verlor, ich bin deprimiert über die derzeitige Situation, und ich werde deprimiert sein, wenn ich keine Beförderung erhalte.",
       "example_translation": "जब मैंने अपनी नौकरी खो दी, तब मैं निराश महसूस किया, मैं मौजूदा स्थिति के बारे में निराश हूँ, और अगर मुझे प्रमोशन नहीं मिलता तो मैं निराश हो जाऊंगा.",
-      "imageLink": "depressed.jpg",
+      "imageLink": "image_files\\English\\depressed.jpg",
       "audioLink": "depressed.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "कुछ न होने या अपेक्षा से खराब होने के कारण दुखी या निराश महसूस करना",
       "example": "Ich war enttäuscht, als mein Team das Spiel verlor, ich bin enttäuscht über den Service dieses Restaurants, und ich werde enttäuscht sein, wenn es an meinem Geburtstag regnet.",
       "example_translation": "जब मेरी टीम ने गेम हारी, तब मैं निराश हुआ, मैं इस रестोरेंट की सेवा से निराश हूँ, और अगर मेरे जन्मदिन पर बारिश होती है तो मैं निराश हो जाऊंगा.",
-      "imageLink": "disappointed.jpg",
+      "imageLink": "image_files\\English\\disappointed.jpg",
       "audioLink": "disappointed.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "कुछ अपेक्षा से खराब होने के कारण दुख या निराशा की भावना पैदा करना",
       "example": "Der Film war enttäuschend, das Essen war enttäuschend, und das Wetter war die ganze Woche enttäuschend.",
       "example_translation": "फिल्म निराशाजनक थी, खाना निराशाजनक था, और मौसम पूरे हफ्ते निराशाजनक रहा है.",
-      "imageLink": "disappointing.jpg",
+      "imageLink": "image_files\\English\\disappointing.jpg",
       "audioLink": "disappointing.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "दूसरों के आसपास रहने में अक्सर सुखद तरीके से शांत और आरामदायक स्वभाव वाला",
       "example": "Meine Freundin ist sehr leichtfertig, was sie zu einer großartigen Reisebegleiterin macht. Sie war leichtfertig während unserer Reise letzten Jahr und ich bin sicher, dass sie leichtfertig sein wird, wenn wir nächsten Monat reisen.",
       "example_translation": "मेरा दोस्त बहुत आसान स्वभाव वाला है, जो उसे एक महान ट्रैवल साथी बनाता है। वह पिछले साल हमारी यात्रा के दौरान आसान स्वभाव वाला था, और मैं निश्चित हूँ कि वह अगले महीने हम ट्रैवल करते समय आसान स्वभाव वाला होगा।",
-      "imageLink": "easygoing.jpg",
+      "imageLink": "image_files\\English\\easygoing.jpg",
       "audioLink": "easy-going.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "कुछ घटना या कार्य के कारण शर्म या आत्म-सचेत होने का एहसास",
       "example": "Ich war verlegen, als ich vor meinen Freunden stolperte und fiel. Ich werde verlegen sein, wenn ich meine Texte während der Präsentation vergesse. Sie war verlegen, als ihr Geheimnis enthüllt wurde.",
       "example_translation": "मैं अपने दोस्तों के सामने टकराने से शर्मिंदा हो गया था। अगर मैं अपनी प्रस्तुति के दौरान अपनी लाइनें भूल जाऊंगा तो मैं शर्मिंदा हो जाऊंगा। वह शर्मिंदा हो गई जब उसका राज़ खुल गया।",
-      "imageLink": "embarrassed.jpg",
+      "imageLink": "image_files\\English\\embarrassed.jpg",
       "audioLink": "embarrassed.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "कुछ ऐसा जो शर्म या आत्म-सचेत होने का एहसास कराता है, अक्सर कुछ रिडिकुलस या अजीब होने के कारण",
       "example": "Es war peinlich, meine Eltern vor meinen Freunden tanzen zu sehen. Der peinliche Moment, als ich Kaffee auf mein Hemd verschüttete, wird mich für immer begleiten. Sie fand es peinlich, einen lustigen Kostüm zur Party zu tragen.",
       "example_translation": "मेरे दोस्तों के सामने मेरे माता-पिता को नाचते हुए देखना शर्मिंदा करने वाला था। मेरे शर्ट पर कॉफी गिराने का शर्मिंदा करने वाला पल मेरे साथ फॉरेवर रहेगा। उसने पार्टी में सिली कॉस्ट्यूम पहनना शर्मिंदा करने वाला पाया।",
-      "imageLink": "embarrassing.jpg",
+      "imageLink": "image_files\\English\\embarrassing.jpg",
       "audioLink": "embarrassing.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "रोचक या मनोरंजनक होने के कारण सुख या खुशी प्रदान करने वाला",
       "example": "Der Film war angenehm, daher haben wir ihn zweimal gesehen. Ich finde, Videospiele zu spielen ein angenehmes Hobby. Die Reise war angenehm, abgesehen von den langen Flügen.",
       "example_translation": "फिल्म मनोरंजनक थी, इसलिए हमने उसे दो बार देखा। मैं वीडियो गेम्स खेलने की गतिविधि को मनोरंजनक पाता हूँ। यात्रा मनोरंजनक थी, सिवाय लंबी उड़ानों के।",
-      "imageLink": "enjoyable.jpg",
+      "imageLink": "image_files\\English\\enjoyable.jpg",
       "audioLink": "enjoyable.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "उत्साह और उत्सुकता दिखाते हुए",
       "example": "Sie tanzte erregt im Regen, fühlte sich unbekümmert. Sie wird erregt tanzen bei ihrer Hochzeit morgen. Sie tanzte erregt bei der Geburtstagsfeier ihrer Freundin letzte Woche.",
       "example_translation": "वह बारिश में उत्साह से नाचती थी, आज़ाद महसूस कर रही थी। वह कल अपने विवाह में उत्साह से नाचेगी। वह अपने दोस्त के जन्मदिन की पार्टी में पिछले हफ्ते उत्साह से नाचती थी।",
-      "imageLink": "excitedly.jpg",
+      "imageLink": "image_files\\English\\excitedly.jpg",
       "audioLink": "excitedly.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "बेहद थका हुआ या ऊर्जा से खाली",
       "example": "Nach dem langen Wanderweg war ich erschöpft und brauchte eine Siesta. Sie wird erschöpft sein nach zwölf Stunden Arbeit am Tag. Sie waren erschöpft nach der langen Autofahrt letzten Monat.",
       "example_translation": "लंबी हाइक के बाद, मैं थका हुआ था और नींद की ज़रूरत थी। वह हर दिन 12 घंटे काम करने के बाद थका हुआ होगी। वे पिछले महीने लंबी सड़क यात्रा से थके हुए थे।",
-      "imageLink": "exhausted.jpg",
+      "imageLink": "image_files\\English\\exhausted.jpg",
       "audioLink": "exhausted.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "लगभग घटनाओं या गतिविधियों से प्राप्त ज्ञान या कौशल",
       "example": "Die erfahrenen Wanderer führten den Weg durch das gefährliche Gelände. Sie ist eine erfahrene Lehrerin und weiß, wie sie schwierige Schüler zu behandeln hat. Sie sind erfahren im Umgang mit Notfällen.",
       "example_translation": "अनुभवी ट्रेकर्स ने खतरनाक इलाके से अपना रास्ता बनाया। वह एक अनुभवी शिक्षक हैं और मुश्किल छात्रों से निपटना जानती हैं। वे आपात स्थितियों से निपटने में अनुभवी हैं।",
-      "imageLink": "experienced.jpg",
+      "imageLink": "image_files\\English\\experienced.jpg",
       "audioLink": "experienced.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "कमज़ोर स्मृति या चीज़ों को भूलने की प्रवृत्ति",
       "example": "Ich bin so gedankenlos, ich vergesse mein Passwort immer. Sie ist sehr gedankenlos und verlegt immer ihre Schlüssel. Er war gedankenlos und vergaß den Geburtstag seiner Frau.",
       "example_translation": "मैं इतना भुलक्कड़ हूँ, मैं हमेशा अपना पासवर्ड भूल जाता हूँ। वह बहुत भुलक्कड़ है और अपनी चाबियाँ खो देती है। वह भुलक्कड़ था और अपनी पत्नी का जन्मदिन भूल गया।",
-      "imageLink": "forgetful.jpg",
+      "imageLink": "image_files\\English\\forgetful.jpg",
       "audioLink": "forgetful.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "अचानक और तीव्र तरीके से डर 或 चिंता महसूस करना",
       "example": "Ich war erschrocken von dem lauten Knall. Ich bin ängstlich vor Spinnen. Ich werde erschrocken sein, wenn ich ein Gespenst sehe.",
       "example_translation": "मुझे ऊंचे शोर से डर लगा. मुझे मकड़ियों से डर लगता है. मैं डर जाऊंगा अगर मैं एक भूत देखूं.",
-      "imageLink": "frightened.jpg",
+      "imageLink": "image_files\\English\\frightened.jpg",
       "audioLink": "frightened.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "अपने संसाधनों, विशेषकर धन 或 समय को मुक्त रूप से देने के लिए इच्छुक",
       "example": "Sie war freigiebig mit ihrer Zeit und half mir bei meinem Projekt. Er ist freigiebig mit seinem Geld und spendet für wohltätige Zwecke. Sie werden freigiebig mit ihrem Essen und teilen es mit allen.",
       "example_translation": "वह अपने समय के साथ मेरे प्रोजेक्ट के लिए मेरी मदद करती थी. वह अपने पैसे के साथ प्रस्ताव करता है और धर्मार्थ क組織 को दान करता है. वे सबके साथ अपना खाना शेयर करेंगे और सभी के साथ साझा करेंगे.",
-      "imageLink": "generous.jpg",
+      "imageLink": "image_files\\English\\generous.jpg",
       "audioLink": "generous.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "कठोर या हिंसक नहीं; सॉफ्ट और हल्का",
       "example": "Die sanfte Berührung ihrer Hand löschte meinen Schmerz. Der sanfte Wind wehte durch die Bäume. Der sanfte Lehrer wird die Schüler leiten.",
       "example_translation": "उसके हाथ का स्पर्श मेरे दर्द को शांत कर दिया. पेड़ों के माध्यम से धीरे से हवा बहती है. सज्जन टीचर स्टूडेंट्स का मार्गदर्शन करेगा.",
-      "imageLink": "gentle.jpg",
+      "imageLink": "image_files\\English\\gentle.jpg",
       "audioLink": "gentle.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "आभार या धन्यवाद का अनुभव या प्रदर्शन",
       "example": "Ich war dankbar für ihre Hilfe. Ich bin dankbar für diese Gelegenheit. Ich werde dankbar sein, wenn du mir hilfst.",
       "example_translation": "मैं उसकी मदद के लिए आभारी था. मैं इस अवसर के लिए आभारी हूँ. मैं आभारी होऊंगा अगर आप मेरी मदद कर सकते हैं.",
-      "imageLink": "grateful.jpg",
+      "imageLink": "image_files\\English\\grateful.jpg",
       "audioLink": "grateful.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "एक अपराध या गलती के लिए पश्चाताप दिखाता है; अपराध या अपराध के लिए जिम्मेदार",
       "example": "Ich fühlte mich schuldig, weil ich meine Eltern belogen hatte. Ich war schuldig, das Geld gestohlen zu haben. Ich werde mich schuldig fühlen, wenn ich mich nicht bei ihr entschuldige.",
       "example_translation": "मैं अपने माता-पिता से झूठ बोलने के लिए दोषी महसूस किया। मैं पैसे चुराने के लिए दोषी था। अगर मैं उसके पास नहीं जाता तो मैं दोषी महसूस करूँगा.",
-      "imageLink": "guilty.jpg",
+      "imageLink": "image_files\\English\\guilty.jpg",
       "audioLink": "guilty.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "एक खुशी या आनन्दपूर्ण तरीके से; महान आनंद या संतुष्टि के साथ",
       "example": "Sie nahm die Einladung glücklich an. Wir haben uns glücklich in unser neues Zuhause gesetzt. Sie werden das Angebot glücklich annehmen.",
       "example_translation": "उसने खुशी से निमंत्रण स्वीकार किया। हमने अपने नए घर में खुशी से移 किया। वे प्रस्ताव स्वीकार करेंगे.",
-      "imageLink": "happily.jpg",
+      "imageLink": "image_files\\English\\happily.jpg",
       "audioLink": "happily.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "सहायता या समर्थन देता है; उपयोगी या मूल्यवान",
       "example": "Mein Freund war sehr hilfreich während meiner Krankheit. Die Anleitung war hilfreich bei der Montage des Möbels. Die neue Software wird hilfreich für unser Team sein.",
       "example_translation": "मेरे रोग के दौरान मेरा दोस्त बहुत मददगार था। फर्नीचर इकट्ठा करने में निर्देश मददगार थे। नया सॉफ्टवेयर हमारी टीम के लिए मददगार होगा.",
-      "imageLink": "helpful.jpg",
+      "imageLink": "image_files\\English\\helpful.jpg",
       "audioLink": "helpful.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "एक निश्चित चीज के होने की उम्मीद और इच्छा रखना; आशावादी",
       "example": "Ich war hoffnungsvoll, den Job zu bekommen. Sie ist hoffnungsvoll, die Prüfung zu bestehen. Sie waren hoffnungsvoll, den Wettbewerb zu gewinnen.",
       "example_translation": "मैं नौकरी पाने की उम्मीद थी। वह परीक्षा पास करने की उम्मीद थी। वे प्रतियोगिता जीतने की उम्मीद थे.",
-      "imageLink": "hopeful.jpg",
+      "imageLink": "image_files\\English\\hopeful.jpg",
       "audioLink": "hopeful.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "कोई उम्मीद न होना; निराशा महसूस करना या दिखाना; सुधार या हल न होना",
       "example": "Sie fühlte sich hoffnungslos, als sie den Job nicht bekam. Sie war monatelang hoffnungslos auf der Suche nach einem neuen Job. Sie wird hoffnungslos sein, wenn sie die Beförderung nicht bekommt.",
       "example_translation": "उसने नौकरी न मिलने पर निराश महसूस किया। वह नई नौकरी के लिए महीनों से निराश थी। अगर उसे पदोन्नति नहीं मिलती है तो वह निराश महसूस करेगी।",
-      "imageLink": "hopeless.jpg",
+      "imageLink": "image_files\\English\\hopeless.jpg",
       "audioLink": "hopeless.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "किसी को या कुछ को शारीरिक या भावनात्मक पीड़ा पहुँचाना।",
       "example": "Der Sturz verletzte meinen Rücken. Die Kritik verletzte ihre Gefühle. Der Unfall wird den Gewinn des Unternehmens verletzen.",
       "example_translation": "गिरने से मेरी पीठ में चोट लगी। आलोचना ने उसकी भावनाओं को चोट पहुँचाई। दुर्घटना कंपनी के लाभ को चोट पहुँचाएगी।",
-      "imageLink": "hurt.jpg",
+      "imageLink": "image_files\\English\\hurt.jpg",
       "audioLink": "hurt.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "किसी के लिए या कुछ के लिए प्रेम या स्नेह की मजबूत भावना होना।",
       "example": "Sie waren verliebt und heirateten. Sie ist seit Jahren in ihn verliebt. Sie werden für immer verliebt sein.",
       "example_translation": "वे प्यार में थे और शादी कर ली। वह सालों से उसके साथ प्यार में है। वे सदा प्यार में रहेंगे।",
-      "imageLink": "in-love.jpg",
+      "imageLink": "image_files\\English\\in-love.jpg",
       "audioLink": "in love.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "दुःख या शोक के कारण रोना और आँसू बहाना, आम तौर पर।",
       "example": "Sie war in Tränen, als ihr Hund starb. Er war in Tränen nach der Trennung. Sie werden bei der Beerdigung in Tränen sein.",
       "example_translation": "उसके कुत्ते की मौत पर वह आँसुओं में थी। ब्रेकअप के बाद वह आँसुओं में था।वे अंत्येष्टि में आँसुओं में होंगे।",
-      "imageLink": "in-tears.jpg",
+      "imageLink": "image_files\\English\\in-tears.jpg",
       "audioLink": "in tears.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "एक कठिन स्थिति से निपटने की क्षमता रखना",
       "example": "She was an intelligent student and always scored high grades. She is intelligent and will figure it out. She will be intelligent enough to solve the problem.",
       "example_translation": "वह एक होशियार छात्रा थी और हमेशा उच्च अंक प्राप्त करती थी। वह होशियार है और यह पता लगाएगी। वह समस्या को हल करने के लिए đủ होशियार होगी।",
-      "imageLink": "intelligent.jpg",
+      "imageLink": "image_files\\English\\intelligent.jpg",
       "audioLink": "intelligent.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "किसी और की चीज की तीव्र इच्छा रखना",
       "example": "He was jealous of his friend's new car. She gets jealous when he talks to other girls. He will be jealous if I get the promotion.",
       "example_translation": "वह अपने दोस्त की नई कार से ईर्ष्या करता था। वह दूसरी लड़कियों से बात करने पर ईर्ष्या करती है। वह प्रोमोशन मिलने पर ईर्ष्या करेगा।",
-      "imageLink": "jealous.jpg",
+      "imageLink": "image_files\\English\\jealous.jpg",
       "audioLink": "jealous.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "किसी चीज में मज़बूत और उत्साही रुचि रखना",
       "example": "She is keen on learning new languages. He was keen to start his own business. They will be keen to attend the concert.",
       "example_translation": "वह नई भाषाओं को सीखने के लिए उत्सुक है। वह अपना व्यवसाय शुरू करने के लिए उत्सुक था। वे संगीत कार्यक्रम में आने के लिए उत्सुक होंगे।",
-      "imageLink": "keen.jpg",
+      "imageLink": "image_files\\English\\keen.jpg",
       "audioLink": "keen.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "नरम और विचारपूर्ण तरीके से",
       "example": "She spoke to him kindly. He smiled kindly at the child. They will treat me kindly if I apologize.",
       "example_translation": "वह उससे नर्म स्वर में बोली। वह बच्चे की ओर मुस्कुराया। वे मुझे माफी मांगने पर नर्म व्यवहार करेंगे।",
-      "imageLink": "kindly.jpg",
+      "imageLink": "image_files\\English\\kindly.jpg",
       "audioLink": "kindly.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "जीवन से भरपूर और ऊर्जा से भरपूर; जोशीले और उत्साही; सक्रिय और साहसी.",
       "example": "The lively music made everyone want to dance. She was lively and chatty, but I was tired and wanted to sleep. By the time I was 70, I was no longer lively and energetic.",
       "example_translation": "लाइवली संगीत ने सभी को नाचने के लिए प्रेरित किया। वह लाइवली और चैटी थीं, लेकिन मैं थका हुआ था और सो जाना चाहता था। जब मैं 70 साल का था, तब मैं और अधिक लाइवली और ऊर्जावान नहीं था।",
-      "imageLink": "lively.jpg",
+      "imageLink": "image_files\\English\\lively.jpg",
       "audioLink": "lively.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "दुखी और अलग-थलग महसूस करना; कोई दोस्त या साथ नहीं होना; अकेला.",
       "example": "I felt lonely when I moved to a new city. She was lonely after her parents died. He will be lonely when his friends go to college.",
       "example_translation": "मैंने नई शहर में जाने पर अकेला महसूस किया। वह अपने माता-पिता की मृत्यु के बाद अकेली थीं। वह अपने दोस्तों के कॉलेज जाने पर अकेला होगा।",
-      "imageLink": "lonely.jpg",
+      "imageLink": "image_files\\English\\lonely.jpg",
       "audioLink": "lonely.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "अचानक मुड़ बदलने का होना; आसानी से परेशान या नाराज होना.",
       "example": "My sister is moody and always gets angry easily. He was moody and didn't want to talk to anyone. She has been moody since her breakup.",
       "example_translation": "मेरी बहन मिज़ाजी है और हमेशा जल्दी गुस्सा आता है। वह मिज़ाजी था और किसी से बात नहीं करना चाहता था। वह अपने ब्रेकअप के बाद से मिज़ाजी है।",
-      "imageLink": "moody.jpg",
+      "imageLink": "image_files\\English\\moody.jpg",
       "audioLink": "moody.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "इनकार, अस्वीकृति या विरोध से संबंधित होना; सकारात्मक या निर्माणकारी नहीं होना.",
       "example": "He has a negative attitude towards his job. The negative review affected the sales. The negative result made her unhappy.",
       "example_translation": "उसके पास नौकरी के प्रति नकारात्मक रवैया है। नकारात्मक रिव्यू ने सेल्स को प्रभावित किया। नकारात्मक परिणाम ने उसे दुखी कर दिया।",
-      "imageLink": "negative.jpg",
+      "imageLink": "image_files\\English\\negative.jpg",
       "audioLink": "negative.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "अस्थिर या चिंताग्रस्त होने का एहसास, अक्सर ऐसे तरीके से जो नियंत्रण से बाहर हो।",
       "example": "I was nervous about the job interview, but I had prepared well and did my best.",
       "example_translation": "मैं नौकरी के साक्षात्कार के बारे में चिंतित था, लेकिन मैंने अच्छी तरह से तैयारी की थी और मैंने अपना सबसे अच्छा प्रदर्शन किया।",
-      "imageLink": "nervous.jpg",
+      "imageLink": "image_files\\English\\nervous.jpg",
       "audioLink": "nervous.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "एक व्यक्ति जो चिकित्सा देखभाल, उपचार या ध्यान प्राप्त कर रहा है।",
       "example": "The doctor examined the patient carefully and prescribed some medication. The patient had been waiting for hours, but was relieved to finally get some treatment.",
       "example_translation": "डॉक्टर ने रोगी की सावधानीपूर्वक जांच की और कुछ दवा लिखी। रोगी घंटों से इंतजार कर रहा था, लेकिन आखिरकार उपचार पाने से राहत महसूस की।",
-      "imageLink": "patient.jpg",
+      "imageLink": "image_files\\English\\patient.jpg",
       "audioLink": "patient.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "दूसरों के लिए सम्मान और विचार दिखाने के तरीके से।",
       "example": "Sie sprach höflich mit dem Kunden, obwohl er unhöflich war. Der Manager bat den Angestellten, den Kunden höflich zu bitten, das Geschäft zu verlassen.",
       "example_translation": "उसने ग्राहक से शालीनता से बात की,儃की वह अशिष्ट था। प्रबंधक ने कर्मचारी से ग्राहक से शालीनता से बाहर जाने के लिए कहा।",
-      "imageLink": "politely.jpg",
+      "imageLink": "image_files\\English\\politely.jpg",
       "audioLink": "politely.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "एक बड़े सौदे की ताकत, प्राधिकरण या प्रभाव हो।",
       "example": "Der mächtige Motor des Autos ermöglichte es, schnell zu beschleunigen. Der mächtige CEO traf einige schwierige Entscheidungen, um das Unternehmen zu retten.",
       "example_translation": "कार का शक्तिशाली इंजन इसे तेजी से त्वरण करने की अनुमति दी। शक्तिशाली सीईओ ने कंपनी को बचाने के लिए कुछ कठिन निर्णय लिए।",
-      "imageLink": "powerful.jpg",
+      "imageLink": "image_files\\English\\powerful.jpg",
       "audioLink": "powerful.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "पूर्ति की संतुष्टि और अक्सर गर्व की भावना दिखाने वाला।",
       "example": "Ich war stolz auf mein Team für den Gewinn der Meisterschaft. Ich bin stolz auf meinen Sohn für seine guten Noten. Ich werde stolz auf mich selbst sein, wenn ich dieses Projekt beendet habe.",
       "example_translation": "मैं अपनी टीम के चैंपियनशिप जीतने के लिए गर्वित था। मैं अपने बेटे के अच्छे ग्रेड प्राप्त करने के लिए गर्वित हूँ। जब मैं इस प्रोजेक्ट को पूरा करूँगा तब मैं अपने आप पर गर्वित होऊंगा।",
-      "imageLink": "proud.jpg",
+      "imageLink": "image_files\\English\\proud.jpg",
       "audioLink": "proud.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "विशेषकर उच्च या आक्रामक तरीके से爭ा या लड़ने की प्रवृत्ति दिखाने वाले।",
       "example": " Mein Bruder ist streitsüchtig und streitet immer mit unseren Eltern. Sie war streitsüchtig und geriet in einen Streit mit ihrem Freund. Er wird streitsüchtig und Unruhe im Meeting stiften.",
       "example_translation": "मेरा भाई झगड़ालू है और हमारे माता-पिता से हमेशा लड़ता है। वह झगड़ालू थी और अपने दोस्त से लड़ाई कर बैठी। वह झगड़ालू होगा और मीटिंग में परेशानी पैदा करेगा।",
-      "imageLink": "quarrelsome.jpg",
+      "imageLink": "image_files\\English\\quarrelsome.jpg",
       "audioLink": "quarrelsome.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "चिंता या तनाव से मुक्त होने की स्थिति दिखाने वाला या احساس करने वाला।",
       "example": "Ich fühlte mich entspannt nach einem warmen Bad. Sie sieht entspannt und glücklich nach ihrem Urlaub aus. Er wird entspannt und konzentriert vor dem Examen sein.",
       "example_translation": "मैं गर्म नहाने के बाद आरामदेह महसूस कर रहा था। वह छुट्टी के बाद आरामदेह और खुश दिखती है। वह परीक्षा से पहले आरामदेह और फोकस होगा।",
-      "imageLink": "relaxed.jpg",
+      "imageLink": "image_files\\English\\relaxed.jpg",
       "audioLink": "relaxed.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "आरामदेह स्थिति का कारण बनने वाला, तनाव या चिंता को कम करने वाला।",
       "example": " Das Anhören von Musik ist entspannend für mich. Ein Spaziergang im Park ist entspannend nach einem langen Tag. Das Lesen eines Buches ist entspannend und angenehm.",
       "example_translation": "संगीत सुनना मेरे लिए आरामदेह है। लंबे दिन के बाद पार्क में टहलते हुए आरामदेह होता है। एक किताब पढ़ना आरामदेह और आनंदमय होता है।",
-      "imageLink": "relaxing.jpg",
+      "imageLink": "image_files\\English\\relaxing.jpg",
       "audioLink": "relaxing.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "जिसकी गारंटी ली जा सके या जिस पर निर्भर किया जा सके; गुणवत्ता veya performans में सुसंगत。",
       "example": "Das Unternehmen ist bekannt für seine zuverlässigen Produkte, die gründlich getestet wurden.",
       "example_translation": "कंपनी अपने विश्वसनीय उत्पादों के लिए जानी जाती है, जिन्हें काफी जांचा गया है।",
-      "imageLink": "reliable.jpg",
+      "imageLink": "image_files\\English\\reliable.jpg",
       "audioLink": "reliable.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "रोमांस से संबंधित या चरित्रगत; आदर्शवादी और संवेदनशील。",
       "example": "Der romantische Ausflug nach Paris war ein Traum, der für das Paar wahr wurde. Sie hatten ihn jahrelang geplant.",
       "example_translation": "पेरिस की रोमांटिक_GATEWAY Couple के लिए सपना सच हुआ था। वे वर्षों से इसकी योजना बना रहे थे।",
-      "imageLink": "romantic.jpg",
+      "imageLink": "image_files\\English\\romantic.jpg",
       "audioLink": "romantic.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "शिष्टाचार या सम्मान न होना; अविनीत。",
       "example": "Der unhöfliche Kundendienstmitarbeiter machte mich mir im Geschäft unwillkommen.",
       "example_translation": "STORE में अविनीत ग्राहक सेवा प्रतिनिधि ने मुझे अनचाहा महसूस कराया।",
-      "imageLink": "rude.jpg",
+      "imageLink": "image_files\\English\\rude.jpg",
       "audioLink": "rude.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "प्रसन्न या संतुष्ट होना; पूरा हुआ。",
       "example": "Ich war zufrieden mit dem Service im Restaurant und werde definitiv wiederkehren.",
       "example_translation": "मैं रेस्तरां में सेवा से संतुष्ट था, और मैं निश्चित रूप से वापस जाऊंगा।",
-      "imageLink": "satisfied.jpg",
+      "imageLink": "image_files\\English\\satisfied.jpg",
       "audioLink": "satisfied.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "डर या चिंता की मजबूत भावना महसूस करना, अक्सर उस चीज़ या स्थिति से बचने या भागने की इच्छा के साथ",
       "example": "Ich war ängstlich, als ich als Kind die Achterbahn fuhr, aber jetzt liebe ich es. Ich bekam Angst, als ich eine Schlange in meinem Hinterhof sah. Ich werde ängstlich sein, wenn ich vor einem großen Publikum spreche.",
       "example_translation": "जब मैं बच्चा था तो मैं रोलर कोस्टर पर सवारी करने से डरा था, लेकिन अब मैं इसे प्यार करता हूँ. मैं अपने पिछवाड़े में साँप देखकर डर गया था. मैं एक बड़े दर्शक समूह के सामने बोलने से डरा होऊंगा.",
-      "imageLink": "scared.jpg",
+      "imageLink": "image_files\\English\\scared.jpg",
       "audioLink": "scared.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "डर पैदा करने वाला या डर पैदा करने की संभावना होने वाला;",
       "example": "Der erschreckende Film ließ mich aus meinem Sitz springen. Der dunkle Wald war erschreckend in der Nacht. Der erschreckende Clown auf der Party machte jeden lachen.",
       "example_translation": "डरावनी फिल्म ने मेरी सीट से उछाला दिया. रात के समय अंधेरा जंगल डरावना था. पार्टी में डरावना क्लाउन ने सभी को हंसाया.",
-      "imageLink": "scary.jpg",
+      "imageLink": "image_files\\English\\scary.jpg",
       "audioLink": "scary.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "स्वयं में विश्वास होना या अपनी क्षमताओं या अपने न्याय में विश्वास दर्शाना",
       "example": "Sie war selbstsicher in ihrer Präsentation, was die Investoren beeindruckte. Er war selbstsicher in seiner Entscheidung, seinen Job zu kündigen. Sie wird selbstsicher in ihrer neuen Rolle sein.",
       "example_translation": "उसने अपनी प्रस्तुति में आत्मविश्वास दिखाया, जिससे निवेशक प्रभावित हुए. वह अपने फैसले में आत्मविश्वासी था कि उसने अपनी नौकरी छोड़ दी. वह अपने नए रोल में आत्मविश्वासी होगी.",
-      "imageLink": "self-confident.jpg",
+      "imageLink": "image_files\\English\\self-confident.jpg",
       "audioLink": "self-confident.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "दूसरों के लिए विचार की कमी; मुख्य रूप से अपने स्वयं के हितों से चिंतित",
       "example": "Er war egoistisch und kümmerte sich nicht um die Gefühle anderer. Sie war egoistisch und dachte nur an ihre eigenen Bedürfnisse. Sie werden egoistisch sein und ihre Spielzeuge nicht teilen.",
       "example_translation": "वह स्वार्थी था और दूसरों की भावनाओं की परवाह नहीं करता था. वह स्वार्थी थी और सिर्फ अपनी जरूरतों के बारे में सोचती थी. वे स्वार्थी होंगे और अपने खिलौने साझा नहीं करेंगे.",
-      "imageLink": "selfish.jpg",
+      "imageLink": "image_files\\English\\selfish.jpg",
       "audioLink": "selfish.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "अच्छे सोचने और स्वस्थ निर्णय का संकेत देने वाला",
       "example": "Sie war vernünftig genug, um die Gefahr zu meiden.",
       "example_translation": "वह खतरे से बचने के लिएufficiently सुलझा हुआ थी।",
-      "imageLink": "sensible.jpg",
+      "imageLink": "image_files\\English\\sensible.jpg",
       "audioLink": "sensible.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "महत्वपूर्ण सरप्राइस या आश्चर्य दिखाने वाला",
       "example": "Ich war erschüttert, als ich die Nachricht hörte.",
       "example_translation": "जब मैंने खबर सुनी तो मैं स्तब्ध था।",
-      "imageLink": "shocked.jpg",
+      "imageLink": "image_files\\English\\shocked.jpg",
       "audioLink": "shocked.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "मजबूत भावनात्मक प्रतिक्रिया पैदा करने वाला",
       "example": "Die erschütternde Nachricht ließ alle in Panik geraten.",
       "example_translation": "स्तब्ध करने वाली खबर ने सभी को पैनिक में छोड़ दिया।",
-      "imageLink": "shocking.jpg",
+      "imageLink": "image_files\\English\\shocking.jpg",
       "audioLink": "shocking.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "दूसरों की उपस्थिति में नर्वस या असहज महसूस करने वाला",
       "example": "Sie war scheu und wollte nicht vor dem Publikum sprechen.",
       "example_translation": "वह लजीला थी और भीड़ के सामने बोलना नहीं चाहती थी।",
-      "imageLink": "shy.jpg",
+      "imageLink": "image_files\\English\\shy.jpg",
       "audioLink": "shy.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "साधारण सense या अच्छे निर्णय की कमी;.absurd या हास्यास्पद",
       "example": "Sie war albern und sprang ins Schwimmbad, ohne die Tiefe zu überprüfen. Sie war albern und aß zu viel Eiscreme. Sie wird albern sein und ihren Schlafanzug zur Party tragen.",
       "example_translation": "वह पूल की गहराई की जांच किए बिना उसमें कूद गई थी। उसने बहुत सारा आइसक्रीम खाया था और मूर्ख थी। वह पार्टी में पजामा पहनकर जाएगी और मूर्ख होगी।",
-      "imageLink": "silly.jpg",
+      "imageLink": "image_files\\English\\silly.jpg",
       "audioLink": "silly.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "तेज और चालाक मन होने का; तेजी से सोचने और सीखने में सक्षम",
       "example": "Sie war intelligent und löste das Mathematikproblem schnell. Sie war intelligent und lernte drei neue Sprachen. Sie wird intelligent sein und ein neues Gerät erfinden.",
       "example_translation": "वह तेज थी और मैथ प्रॉब्लम को जल्दी से सॉल्व कर लिया। उसने तीन नई भाषाएं सीख ली थीं और चतुर थीं। वह एक नई डिवाइस ईजाद करेगी और चतुर होगी।",
-      "imageLink": "smart.jpg",
+      "imageLink": "image_files\\English\\smart.jpg",
       "audioLink": "smart.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "दूसरों से बात करने और दोस्ताना होने के लिए तैयार; सामाजिक संपर्क का आनंद लेना",
       "example": "Sie war gesellig und machte viele Freunde auf der Party. Sie hat viele soziale Veranstaltungen besucht und war gesellig. Sie wird ein Dinnerparty veranstalten und gesellig sein.",
       "example_translation": "वह मिलनसार थी और पार्टी में कई दोस्त बना लिए। उसने कई सामाजिक कार्यक्रमों में भाग लिया था और मिलनसार थीं। वह एक डिनर पार्टी की मेजबानी करेगी और मिलनसार होगी।",
-      "imageLink": "sociable.jpg",
+      "imageLink": "image_files\\English\\sociable.jpg",
       "audioLink": "sociable.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "चिंतित या चिंतित होना; काम या जिम्मेदारियों की अधिकता",
       "example": "Sie war gestresst und konnte nicht schlafen. Sie hat lange Stunden gearbeitet und war gestresst. Sie wird einen engen Termin haben und gestresst sein.",
       "example_translation": "वह चिंतित थी और रात को सो नहीं पा रही थी। उसने लंबे घंटे काम किये थे और चिंतित थीं। वह एक तंग डेडलाइन को पूरा करेगी और चिंतित होगी।",
-      "imageLink": "stressed.jpg",
+      "imageLink": "image_files\\English\\stressed.jpg",
       "audioLink": "stressed.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "चिंता या चिंता का कारण; मांग वाला या कठिन",
       "example": "Der stressige Job hatTheir mentalen Gesundheit beeinträchtigt. Sie hatte Angst vor der Prüfung und war stressig. Sie wird morgen vor der Präsentation stressig sein.",
       "example_translation": "वह नौकरी ने उसके मानसिक स्वास्थ्य पर प्रभाव डाला. वह परीक्षा के बारे में चिंताजनक थी. वह कल की प्रस्तुति के बारे में चिंताजनक होगी.",
-      "imageLink": "stressful.jpg",
+      "imageLink": "image_files\\English\\stressful.jpg",
       "audioLink": "stressful.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "नियमों या मानकों से विचलन नहीं करने देना; कठोर या सख्त",
       "example": "Die Lehrerin war streng bei den Hausaufgaben. Sie war streng gegenüber ihrem Kind. Sie wird den Termin streng einhalten.",
       "example_translation": "टीचर घर-काम के बारे में कठोर थी. वह अपने बच्चे के साथ कठोर थी. वह डेडलाइन के बारे में कठोर होगी.",
-      "imageLink": "strict.jpg",
+      "imageLink": "image_files\\English\\strict.jpg",
       "audioLink": "strict.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "आश्चर्य या विस्मय की भावना पैदा करना; अपेक्षित नहीं",
       "example": "Die überraschende Nachricht ließ sie hochspringen. Er hatte sie überraschend mit Geschenken überhäuft. Sie wird sie mit einer Party überraschen.",
       "example_translation": "चौंकाने वाली खबर ने उसे छलांग लगवा दी. वह उसे उपहारों से चौंका रहा था. वह उन्हें पार्टी से चौंकाएगी.",
-      "imageLink": "surprising.jpg",
+      "imageLink": "image_files\\English\\surprising.jpg",
       "audioLink": "surprising.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "आश्चर्य या विस्मय के रूप में",
       "example": "Er löste das Puzzle überraschend schnell. Sie hatte überraschend gute Singstimme. Sie werden überraschend glücklich sein, uns zu sehen.",
       "example_translation": "वह चौंकाने वाले ढंग से पहेली को सुलझा लिया. वह गाने में चौंकाने वाले ढंग से अच्छी थी. वे हमें देखने के लिए चौंकाने वाले ढंग से खुश होंगे.",
-      "imageLink": "surprisingly.jpg",
+      "imageLink": "image_files\\English\\surprisingly.jpg",
       "audioLink": "surprisingly.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "एक rare या exceptional क्षमता या कौशल रखना",
       "example": "Sie war eine talentierte Künstlerin, die schöne Landschaften malen konnte. Sie hat since Kindheit ein Talent gehabt. Sie wird in Zukunft eine talentierte Musikerin sein.",
       "example_translation": "वह एक प्रतिभाशाली कलाकार थी, जो सुंदर परिदृश्य पेंट करने में सक्षम थी। वह बचपन से ही प्रतिभाशाली थीं। वह भविष्य में एक प्रतिभाशाली संगीतकार होगी",
-      "imageLink": "talented.jpg",
+      "imageLink": "image_files\\English\\talented.jpg",
       "audioLink": "talented.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "बहुत डरा हुआ या डरावना महसूस करना",
       "example": "Ich war als Kind von Spinnen entsetzt. Sie hat Angst vor Höhen und ist entsetzt. Er wird vor den Prüfungsergebnissen entsetzt sein.",
       "example_translation": "मैं बचपन में मकड़ियों से भयभीत था। वह ऊंचाइयों से भयभीत है। वह परीक्षा के परिणामों से भयभीत होगा",
-      "imageLink": "terrified.jpg",
+      "imageLink": "image_files\\English\\terrified.jpg",
       "audioLink": "terrified.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "थकान या थकावट पैदा करना",
       "example": "Der Wanderweg war erschöpfend, aber die Aussicht war es wert. Das Studium für Prüfungen kann erschöpfend sein. Ich finde es morgens erschöpfend, zu joggen.",
       "example_translation": "हाइक थकाने वाला था, लेकिन दृश्य इसके लायक था। परीक्षा के लिए अध्ययन थकाने वाला हो सकता है। मैं सुबह जॉगिंग थकाने वाला पाता हूँ",
-      "imageLink": "tiring.jpg",
+      "imageLink": "image_files\\English\\tiring.jpg",
       "audioLink": "tiring.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "कुछ को स्वीकार या अनुमति देने के लिए तैयार, चाहे वह उसे पसंद न आए",
       "example": "Er ist tolerant gegenüber Kritik, aber nicht gegenüber Beleidigungen. Sie ist tolerant gegenüber kaltem Wetter, aber nicht gegenüber Hitze. Sie werden tolerant gegenüber zukünftigen Veränderungen sein.",
       "example_translation": "वह आलोचना के प्रति सहिष्णु है, लेकिन अपमान के प्रति नहीं। वह ठंडे मौसम के प्रति सहिष्णु है, लेकिन गर्मी के प्रति नहीं। वे भविष्य में परिवर्तन के प्रति सहिष्णु होंगे",
-      "imageLink": "tolerant.jpg",
+      "imageLink": "image_files\\English\\tolerant.jpg",
       "audioLink": "tolerant.mp3"
     },
     {
@@ -1569,7 +1569,7 @@
       "definition_translation": "उम्मीद नहीं किया जा रहा है; चौंकाने वाला",
       "example": "Das unerwartete Eintreffen von Gästen warf uns aus dem Zeitplan. Wir hatten nicht erwartet, dass sie gestern kommen würden. Wir werden sie morgen nicht erwarten.",
       "example_translation": "अप्रत्याशित मेहमान की आमद ने हमें शेड्यूल से हटा दिया. हमने कल आने की उम्मीद नहीं की थी. हम कल आने की उम्मीद नहीं करेंगे.",
-      "imageLink": "unexpected.jpg",
+      "imageLink": "image_files\\English\\unexpected.jpg",
       "audioLink": "unexpected.mp3"
     },
     {
@@ -1582,7 +1582,7 @@
       "definition_translation": "मित्रवत नहीं; शत्रुतापूर्ण",
       "example": "Die unfreundliche Empfangsdame machte uns uns willkommen. Wir fühlten uns nicht freundlich ihr gegenüber. Wir werden morgen nicht freundlich zu ihr sein.",
       "example_translation": "शत्रुतापूर्ण रिसेप्शनिस्ट ने हमें अवांछित महसूस कराया. हमने उसके प्रति मित्रवत नहीं महसूस किया. हम कल उसके प्रति मित्रवत नहीं महसूस करेंगे.",
-      "imageLink": "unfriendly.jpg",
+      "imageLink": "image_files\\English\\unfriendly.jpg",
       "audioLink": "unfriendly.mp3"
     },
     {
@@ -1595,7 +1595,7 @@
       "definition_translation": "रुचि नहीं लेना; उदासीन",
       "example": "Der desinteressierte Schüler achtete nicht im Unterricht. Wir waren nicht an dem Film interessiert. Wir werden morgen nicht am Buch interessiert sein.",
       "example_translation": "अनासक्त छात्र ने क्लास में ध्यान नहीं दिया. हम फिल्म में रुचि नहीं ले रहे थे. हम कल पुस्तक में रुचि नहीं लेंगे.",
-      "imageLink": "uninterested.jpg",
+      "imageLink": "image_files\\English\\uninterested.jpg",
       "audioLink": "uninterested.mp3"
     },
     {
@@ -1608,7 +1608,7 @@
       "definition_translation": "रुचिकर नहीं; सुस्त",
       "example": "Der uninteressante Vortrag hat uns eingeschläfert. Wir fanden den Film nicht interessant. Wir werden morgen nicht am Spiel interessiert sein.",
       "example_translation": "अनाकर्षक व्याख्यान ने हमें सो दिया. हमने फिल्म को रुचिकर नहीं पाया. हम कल खेल को रुचिकर नहीं पाएंगे.",
-      "imageLink": "uninteresting-1.jpg",
+      "imageLink": "image_files\\English\\uninteresting-1.jpg",
       "audioLink": "uninteresting.mp3"
     },
     {
@@ -1621,7 +1621,7 @@
       "definition_translation": "दूसरों के प्रति दया या सहानुभूति की कमी दिखाना",
       "example": "Sie war ihrer Schwester gegenüber unliebenswürdig, was ihre Gefühle verletzte. Sie war ihre Schwester längere Zeit nicht freundlich gegenüber. Sie wird ihre Schwester morgen nicht freundlich behandeln, wenn sie sich nicht entschuldigt.",
       "example_translation": "उसने अपनी बहन से दुर्व्यवहार किया, जिससे उसकी भावनाएं आहत हो गईं. वह अब तक अपनी बहन से दुर्व्यवहार कर रही है. वह अपनी बहन से दुर्व्यवहार करेगी अगर वह माफी नहीं मांगी.",
-      "imageLink": "unkind.jpg",
+      "imageLink": "image_files\\English\\unkind.jpg",
       "audioLink": "unkind.mp3"
     },
     {
@@ -1634,7 +1634,7 @@
       "definition_translation": "मध्यम या आरामदायक तापमान होना; ठंडा या गरम नहीं",
       "example": "Die warme Sonnenstrahlung machte uns glücklich. Das Zimmer war warm, daher brauchten wir keinen Heizkörper. Das warme Wasser fühlte sich auf meiner Haut beruhigend an.",
       "example_translation": "गरम सूरज की रोशनी ने हमें खुशी महसूस कराई. कमरा गरम था, इसलिए हमें हीटर की जरूरत नहीं थी. गरम पानी मेरी त्वचा पर सुखदायी लगा.",
-      "imageLink": "warm.jpg",
+      "imageLink": "image_files\\English\\warm.jpg",
       "audioLink": "warm.mp3"
     }
   ]

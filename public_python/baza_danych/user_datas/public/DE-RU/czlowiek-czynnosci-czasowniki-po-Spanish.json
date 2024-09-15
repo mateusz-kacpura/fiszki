@@ -9,7 +9,7 @@
       "definition_translation": "устный или письменный ответ на вопрос, проблему или ситуацию",
       "example": "Sie hat das Telefon beantwortet, er wird die Frage beantworten, sie hatten den Brief beantwortet.",
       "example_translation": "Она ответила на телефон, он ответит на вопрос, они ответили на письмо.",
-      "imageLink": "answer.jpg",
+      "imageLink": "image_files\\English\\answer.jpg",
       "audioLink": "answer.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "поставить вопрос кому-либо или запросить что-то",
       "example": "Ich habe sie gebeten, zu helfen, er wird den Lehrer fragen, sie haben nach dem Weg gefragt.",
       "example_translation": "Я спросил ее о помощи, он спросит учителя, они запросили направления.",
-      "imageLink": "ask.jpg",
+      "imageLink": "image_files\\English\\ask.jpg",
       "audioLink": "ask.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "существовать, происходить или иметь certainsquality",
       "example": "Ich war glücklich, sie ist Ärztin, sie werden verspätet sein.",
       "example_translation": "Я был счастлив, она является врачом, они будут опаздывать.",
-      "imageLink": "be.jpg",
+      "imageLink": "image_files\\English\\be.jpg",
       "audioLink": "be.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "получить что-то в обмен на оплату",
       "example": "Ich habe ein Buch gekauft, sie wird ein Kleid kaufen, sie haben ein Auto gekauft.",
       "example_translation": "Я купил книгу, она купит платье, они купили автомобиль.",
-      "imageLink": "buy.jpg",
+      "imageLink": "image_files\\English\\buy.jpg",
       "audioLink": "buy.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "сможет делать что-то",
       "example": "Ich kann fließend Englisch sprechen. Ich konnte Englisch sprechen, als ich ein Kind war. Ich werde in ein paar Jahren fließend Englisch sprechen können.",
       "example_translation": "Я могу свободно говорить по-английски. Я мог свободно говорить по-английски, когда я был ребенком. Я смогу свободно говорить по-английски через несколько лет.",
-      "imageLink": "can.jpg",
+      "imageLink": "image_files\\English\\can.jpg",
       "audioLink": "can.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "держать или поддерживать что-то, перенося его из одного места в другое",
       "example": "Ich habe mein Gepäck die Treppe hinauf getragen. Ich werde morgen den Freundesbeutel tragen. Ich trug letzte Woche einen schweren Karton.",
       "example_translation": "Я нес свою багаж наверх. Я понесу сумку моего друга завтра. Я нес тяжелую коробку прошлой неделей.",
-      "imageLink": "carry.jpg",
+      "imageLink": "image_files\\English\\carry.jpg",
       "audioLink": "carry.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "братьhold что-то внезапно или быстро",
       "example": "Ich habe den Ball gefangen. Ich werde morgen den Zug fangen. Ich habe letzte Woche eine Erkältung gefangen.",
       "example_translation": "Я поймал мяч. Я поймаю поезд завтра. Я поймал простуду прошлой неделей.",
-      "imageLink": "catch.jpg",
+      "imageLink": "image_files\\English\\catch.jpg",
       "audioLink": "catch.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "делать что-то khácным или становиться khácным",
       "example": "Ich habe meine Meinung geändert. Ich werde nächstes Jahr meinen Job ändern. Ich habe letzte Woche meine Telefonnummer geändert.",
       "example_translation": "Я изменил свое мнение. Я изменю свою работу следующим годом. Я изменил свой номер телефона прошлый месяц.",
-      "imageLink": "change-6.jpg",
+      "imageLink": "image_files\\English\\change-6.jpg",
       "audioLink": "change.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Выбрать что-то или кого-то из группы или вариантов.",
       "example": "Ich habe das rote Hemd gewählt, aber mein Freund hat das blaue gewählt. Ich wähle ein neues Telefon, und ich werde ein Restaurant für das Abendessen wählen.",
       "example_translation": "Я выбрал красную рубашку, но моя подруга выбрала синюю. Я выбираю новый телефон, и я выберу ресторан для ужина.",
-      "imageLink": "choose.jpg",
+      "imageLink": "image_files\\English\\choose.jpg",
       "audioLink": "choose.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Свободный от грязи, пятен или примесей.",
       "example": "Ich habe das Zimmer gestern gereinigt, aber es ist heute nicht mehr sauber. Sie wird die Fenster reinigen, und er hat den Boden gereinigt.",
       "example_translation": "Я очистил комнату вчера, но сегодня она не чистая. Она будет чистить окна, а он очистил пол.",
-      "imageLink": "clean.jpg",
+      "imageLink": "image_files\\English\\clean.jpg",
       "audioLink": "clean.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Закрыть или привести вместе части чего-то.",
       "example": "Schließe die Tür, bitte. Ich schloss das Buch, und sie wird die Vorhänge schließen.",
       "example_translation": "Закройте дверь, пожалуйста. Я закрыл книгу, а она будет закрывать шторы.",
-      "imageLink": "close.jpg",
+      "imageLink": "image_files\\English\\close.jpg",
       "audioLink": "close.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Свойство объекта, которое воспринимается глазом в результате способа, каким он phảnает или испускает свет.",
       "example": "Die Farbe des Himmels ist blau, aber die Farbe des Grases ist grün. Sie werden die Wände bemalen, und sie bemalte das Bild.",
       "example_translation": "Цвет неба синий, а цвет травы зеленый. Они будут красить стены, а она покрасила картину.",
-      "imageLink": "colour.jpg",
+      "imageLink": "image_files\\English\\colour.jpg",
       "audioLink": "colour.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Движение к чему-либо или кому-либо, или прибытие в какое-либо место.",
       "example": "Ich kam zur Party gestern. Ich komme jetzt zum Meeting. Ich werde morgen zu deinem Haus kommen.",
       "example_translation": "Я пришел на вечеринку вчера. Я иду на встречу сейчас. Я приду к твоему дому завтра.",
-      "imageLink": "come.jpg",
+      "imageLink": "image_files\\English\\come.jpg",
       "audioLink": "come.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Приготовлять и нагревать пищу для ее употребления.",
       "example": "Ich kochte Abendessen letzte Nacht. Ich koche jetzt Mittagessen. Ich werde morgen Frühstück kochen.",
       "example_translation": "Я готовил ужин вчера вечером. Я готовлю обед сейчас. Я готовлю завтрак завтра.",
-      "imageLink": "cook.jpg",
+      "imageLink": "image_files\\English\\cook.jpg",
       "audioLink": "cook.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Двигать своим телом в соответствии с ритмом музыки.",
       "example": "Ich tanzte in dem Club letzte Nacht. Ich tanze jetzt auf der Party. Ich werde morgen auf der Hochzeit tanzen.",
       "example_translation": "Я танцевал в клубе вчера вечером. Я танцую на вечеринке сейчас. Я танцую на свадьбе завтра.",
-      "imageLink": "dance-2.jpg",
+      "imageLink": "image_files\\English\\dance-2.jpg",
       "audioLink": "dance.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Прекратить жить, или стать мертвым.",
       "example": "Meine Großmutter starb letzten Jahr. Die Pflanze stirbt gerade. Der alte Hund wird bald sterben.",
       "example_translation": "Моя бабушка умерла в прошлом году. Растение умирает сейчас. Старая собака умрет скоро.",
-      "imageLink": "die.jpg",
+      "imageLink": "image_files\\English\\die.jpg",
       "audioLink": "die.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "исполнять или исполнять задачу или действие, часто в привычной или регулярной манере.",
       "example": "Ich tat meine Hausaufgaben gestern, ich tue es jeden Tag, und ich werde es morgen tun.",
       "example_translation": "Я делал домашнюю работу вчера, я делаю это каждый день, и я сделаю это завтра.",
-      "imageLink": "do.jpg",
+      "imageLink": "image_files\\English\\do.jpg",
       "audioLink": "do.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "выполнять задачу уборки и организации своего дома или рабочего пространства.",
       "example": "Ich putzte gestern, ich tue es jede Woche, und ich werde es nächste Sonntag tun.",
       "example_translation": "Я делал уборку вчера, я делаю это каждую неделю, и я сделаю это в следующее воскресенье.",
-      "imageLink": "do-the-cleaning.jpg",
+      "imageLink": "image_files\\English\\do-the-cleaning.jpg",
       "audioLink": "do the cleaning.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "готовить и готовить пищу для себя или для других.",
       "example": "Ich kochte letzte Nacht, ich koche jeden Tag, und ich werde es morgen für meine Freunde tun.",
       "example_translation": "Я готовил еду прошлым вечером, я делаю это каждый день, и я сделаю это для своих друзей завтра.",
-      "imageLink": "do-the-cooking.jpg",
+      "imageLink": "image_files\\English\\do-the-cooking.jpg",
       "audioLink": "do the cooking.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "выполнять задачу стирки и очистки одежды или других тканей.",
       "example": "Ich wusch gestern, ich tue es jede Woche, und ich werde es nächste Samstag tun.",
       "example_translation": "Я делал стирку вчера, я делаю это каждую неделю, и я сделаю это в следующую субботу.",
-      "imageLink": "do-the-washing.jpg",
+      "imageLink": "image_files\\English\\do-the-washing.jpg",
       "audioLink": "do the washing.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Производить картину или схему, делая линии и отметки на бумаге карандашом, пером и т.д.",
       "example": "Ich zeichnete ein Bild meines Katers, als ich ein Kind war. Ich zeichne jetzt ein Porträt meiner Großmutter. Ich werde morgen ein Landschaftsbild der Berge zeichnen.",
       "example_translation": "Я рисовал картину своей кошки, когда был ребенком. Теперь я рисую портрет моей бабушки. Завтра я нарисую пейзаж гор.",
-      "imageLink": "draw.jpg",
+      "imageLink": "image_files\\English\\draw.jpg",
       "audioLink": "draw.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Взять жидкость в организм через рот",
       "example": "Ich trank heute Morgen Kaffee. Ich trinke jeden Tag Saft. Ich werde heute Abend Tee trinken.",
       "example_translation": "Я выпил кофе сегодня утром. Я пью сок каждый день. Я выпою чай сегодня вечером.",
-      "imageLink": "drink.jpg",
+      "imageLink": "image_files\\English\\drink.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Управлять транспортным средством, особенно автомобилем",
       "example": "Ich fuhr gestern zum Laden. Ich fahre jeden Morgen zur Arbeit. Ich werde nächstes Wochenende zum Strand fahren.",
       "example_translation": "Я ехал в магазин вчера. Я езжу на работу каждое утро. Я поеду на пляж на следующий уикенд.",
-      "imageLink": "drive.jpg",
+      "imageLink": "image_files\\English\\drive.jpg",
       "audioLink": "drive.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Взять пищу в организм",
       "example": "Ich aß heute Morgen Frühstück. Ich esse jeden Tag Mittagessen. Ich werde heute Abend Abendessen essen.",
       "example_translation": "Я ел завтрак сегодня утром. Я ем обед каждый день. Я поем ужин сегодня вечером.",
-      "imageLink": "eat.jpg",
+      "imageLink": "image_files\\English\\eat.jpg",
       "audioLink": "eat.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "понимать или принимать с удовольствием что-либо",
       "example": "Ich genoß die Party letzte Nacht. Ich genieße das Buch. Ich werde den Urlaub nächsten Monat genießen.",
       "example_translation": "Я наслаждался вечеринкой вчера ночью. Я наслаждаюсь книгой. Я наслаждусь отпуском следующим месяцем.",
-      "imageLink": "enjoy.jpg",
+      "imageLink": "image_files\\English\\enjoy.jpg",
       "audioLink": "enjoy.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "иметь эмоцию или ощущение, особенно сильное",
       "example": "Ich fühlte mich glücklich, als ich meinen Freund sah. Ich fühle mich heute müde. Ich werde mich stolz fühlen, wenn ich das Projekt fertigstellen werde.",
       "example_translation": "Я чувствовал счастье, когда увидел друга. Я чувствую усталость сегодня. Я почувствую гордость, когда закончу проект.",
-      "imageLink": "feel.jpg",
+      "imageLink": "image_files\\English\\feel.jpg",
       "audioLink": "feel.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "открывать или наткнуться на что-либо случайно или намеренно",
       "example": "Ich fand das Buch in der Bibliothek. Ich finde es schwierig, das Konzept zu verstehen. Ich werde eine Lösung für das Problem finden.",
       "example_translation": "Я нашел книгу в библиотеке. Я нахожу трудным понимание концепции. Я найду решение для проблемы.",
-      "imageLink": "find.jpg",
+      "imageLink": "image_files\\English\\find.jpg",
       "audioLink": "find.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "завершать или доводить до конца что-либо, такое как задача или проект",
       "example": "Ich beendete das Projekt letzte Woche. Ich beende meine Hausaufgaben jeden Tag. Ich werde den Kurs nächstes Jahr beenden.",
       "example_translation": "Я завершил проект на прошлой неделе. Я заканчиваю домашнюю работу каждый день. Я закончу курс следующим годом.",
-      "imageLink": "finish.jpg",
+      "imageLink": "image_files\\English\\finish.jpg",
       "audioLink": "finish.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "получить или достичь чего-то, особенно в результате усилий или тяжелой работы",
       "example": "Ich bekam letzten Jahr einen neuen Job. Ich bekomme jeden Morgen früh auf. Ich werde nächstes Monat eine Beförderung bekommen.",
       "example_translation": "Я получил новую работу в прошлом году, я встаю рано каждый morning, я получу повышение через месяц.",
-      "imageLink": "get.jpg",
+      "imageLink": "image_files\\English\\get.jpg",
       "audioLink": "get.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "вставать из сидячего, коленопреклоненного или лежачего положения",
       "example": "Ich stehe jeden Tag um 7 Uhr auf. Sie stand auf und ging aus dem Raum. Sie werden aufstehen und auf der Party tanzen.",
       "example_translation": "Я встаю в 7 утра каждый день, Она встала и вышла из комнаты, Они встанут и будут танцевать на вечеринке.",
-      "imageLink": "get-up.jpg",
+      "imageLink": "image_files\\English\\get-up.jpg",
       "audioLink": "get up.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "предлагать или предоставлять что-то кому-то добровольно",
       "example": "Ich gab ihr ein Geschenk, Er gibt viel Geld für wohltätige Zwecke aus, Sie werden morgen einen Vortrag halten.",
       "example_translation": "Я дал ей подарок, Он дает много денег на благотворительность, Они дадут презентацию завтра.",
-      "imageLink": "give.jpg",
+      "imageLink": "image_files\\English\\give.jpg",
       "audioLink": "give.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "двигаться из одного места в другое, часто в bestimmенном направлении",
       "example": "Ich ging zum Laden, Sie geht jeden Tag ins Fitnessstudio, Sie werden nächste Woche zum Strand gehen.",
       "example_translation": "Я пошел в магазин, Она ходит в спортзал каждый день, Они пойдут на пляж на неделе.",
-      "imageLink": "go.jpg",
+      "imageLink": "image_files\\English\\go.jpg",
       "audioLink": "go.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "выйти из места или здания, особенно для того, чтобы сделать что-то или потому что вы хотите",
       "example": "Ich ging gestern Abend mit Freunden aus, Ich gehe jetzt zum Laden und werde morgen einen Ausflug machen.",
       "example_translation": "Я вышел с друзьями прошлой ночью, я gehen сейчас в магазин, и я пойду на прогулку завтра.",
-      "imageLink": "go-out.jpg",
+      "imageLink": "image_files\\English\\go-out.jpg",
       "audioLink": "go out.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "иметь или владеть чем-то, или испытывать или страдать от чего-то",
       "example": "Ich hatte ein Buch als Kind, Ich habe jetzt ein Auto und werde in Zukunft ein Haus haben.",
       "example_translation": "У меня была книга, когда я был ребенком, у меня есть машина сейчас, и у меня будет дом в будущем.",
-      "imageLink": "have.jpg",
+      "imageLink": "image_files\\English\\have.jpg",
       "audioLink": "have.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "слышать звук ушами или быть информированным о чем-то",
       "example": "Ich hörte die Musik gestern, Ich höre jetzt die Vögel singen und werde morgen die Nachrichten hören.",
       "example_translation": "Я слышал музыку вчера, я слышу птиц поющих сейчас, и я услышу новости завтра.",
-      "imageLink": "hear.jpg",
+      "imageLink": "image_files\\English\\hear.jpg",
       "audioLink": "hear.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "помочь или поддержать кого-то или что-то, или сделать что-то легче",
       "example": "Ich half meinem Freund gestern, Ich helfe jetzt meiner Familie und werde morgen der Gemeinde helfen.",
       "example_translation": "Я помог другу вчера, я помогаю семье сейчас, и я помогу общине завтра.",
-      "imageLink": "help.jpg",
+      "imageLink": "image_files\\English\\help.jpg",
       "audioLink": "help.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Запрашивать кого-либо прийти в место или событие, или принять участие в деятельности, вежливым или официальным образом.",
       "example": "Ich lud meine Freunde zu meiner Geburtstagsfeier letzte Woche ein, und sie kamen alle. Ich lade Sie ein, mit uns zum Abendessen zu kommen, und wir werden unsere Nachbarn zur Party nächste Woche einladen.",
       "example_translation": "Я пригласил своих друзей на свою вечеринку в прошлый раз, и они все пришли. Я приглашаю вас присоединиться к нам за ужином сегодня вечером, и мы пригласим наших соседей на вечеринку на следующей неделе.",
-      "imageLink": "invite.jpg",
+      "imageLink": "image_files\\English\\invite.jpg",
       "audioLink": "invite.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Ударять или бить что-либо ногой или ногой, часто с силой.",
       "example": "Sie trat den Ball ins Tor, und ihr Team gewann das Spiel. Er trat die Schachtel in Frustration, und sie brach. Sie werden das Spiel morgen um 3 Uhr nachmittags beginnen.",
       "example_translation": "Она ударила мяч в ворота, и ее команда выиграла игру. Он ударил коробку в раздражении, и она сломалась. Они начнут матч завтра в 3 часа дня.",
-      "imageLink": "kick.jpg",
+      "imageLink": "image_files\\English\\kick.jpg",
       "audioLink": "kick.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Приобретать знания или понимание чего-либо через изучение, обучение или опыт.",
       "example": "Ich lernte, als Kind Klavier zu spielen, und jetzt kann ich meine Kinder unterrichten. Sie lernte Französisch in der Schule, und jetzt kann sie es fließend sprechen. Sie werden es morgen im Unterricht lernen.",
       "example_translation": "Я научился играть на пианино, когда я был ребенком, и теперь я могу учить своих детей. Она научилась французскому языку в школе, и теперь она может говорить на нем свободно. Они узнают об этом на уроке завтра.",
-      "imageLink": "learn.jpg",
+      "imageLink": "image_files\\English\\learn.jpg",
       "audioLink": "learn.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Уходить из места или от человека, или переставать делать что-либо.",
       "example": "Ich verließ meinen Job letztes Jahr, und jetzt arbeite ich als Freiberufler. Sie verließ ihr Handy zu Hause, und jetzt kann sie ihre Freunde nicht kontaktieren. Sie werden morgen um 6 Uhr zum Flughafen abreisen.",
       "example_translation": "Я ушел с работы в прошлом году, и теперь я работаю как фрилансер. Она оставила свой телефон дома, и теперь она не может связаться со своими друзьями. Они уедут в аэропорт завтра в 6 часов утра.",
-      "imageLink": "leave-1.jpg",
+      "imageLink": "image_files\\English\\leave-1.jpg",
       "audioLink": "leave.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Иметь сильное чувство привязанности или удовольствия к чему-то или кому-то.",
       "example": "Ich mochte den Film, ich werde ihn wieder ansehen. Ich mag Tennis am Sonntag spielen. Ich würde gerne nach Japan reisen nächsten Jahr.",
       "example_translation": "Мне понравился фильм, я собираюсь смотреть его снова. Я люблю chơi теннис по воскресеньям. Я буду рад путешествовать в Японию в следующем году.",
-      "imageLink": "like.jpg",
+      "imageLink": "image_files\\English\\like.jpg",
       "audioLink": "like.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Обращать внимание на звук или говорящего, чтобы услышать и понять, что сказано.",
       "example": "Ich hörte dem Lehrer zu, ich höre gerade Musik, ich werde deinen Rat hören.",
       "example_translation": "Я слушал учителя, я сейчас слушаю музыку, я będę слушать ваш совет.",
-      "imageLink": "listen.jpg",
+      "imageLink": "image_files\\English\\listen.jpg",
       "audioLink": "listen.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Направлять свой взгляд в указанном направлении, чтобы увидеть что-то.",
       "example": "Ich sah mir das Bild an, ich sehe gerade aus dem Fenster, ich werde einen neuen Job suchen.",
       "example_translation": "Я посмотрел на картину, я сейчас смотрю из окна, я będę искать новую работу.",
-      "imageLink": "look.jpg",
+      "imageLink": "image_files\\English\\look.jpg",
       "audioLink": "look.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Сильное чувство привязанности илиattachments к кому-то или чему-то.",
       "example": "Ich liebte das Buch, ich liebe es, mit meinem Hund zu spielen, ich würde gerne in Paris leben.",
       "example_translation": "Мне понравилась книга, я люблю играть с моей собакой, я będę любить жить в Париже.",
-      "imageLink": "love.jpg",
+      "imageLink": "image_files\\English\\love.jpg",
       "audioLink": "love.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Создавать или конструировать что-то, kếtывая различные элементы или части.",
       "example": "Ich machte einen Kuchen gestern, ich erstelle heute eine Präsentation und ich werde morgen einen Anruf tätigen.",
       "example_translation": "Я делал торт вчера, я делаю презентацию сегодня, и я сделаю звонок завтра.",
-      "imageLink": "make.jpg",
+      "imageLink": "image_files\\English\\make.jpg",
       "audioLink": "make.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Встречаться с кем-то, особенно намеренно, или общаться с кем-то.",
       "example": "Ich traf meinen Freund gestern, ich treffe mich heute mit meinen Kollegen und ich werde mich morgen mit meinem Lehrer treffen.",
       "example_translation": "Я встретился с моим другом вчера, я встречаюсь с коллегами сегодня, и я встречусь с учителем завтра.",
-      "imageLink": "meet-2.jpg",
+      "imageLink": "image_files\\English\\meet-2.jpg",
       "audioLink": "meet.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Собираться вместе или собирается, особенно для какой-то конкретной цели.",
       "example": "Wir trafen uns auf der Konferenz letzte Woche, wir treffen uns heute im Büro und wir werden uns morgen im Restaurant treffen.",
       "example_translation": "Мы встретились на конференции на прошлой неделе, мы встречаемся в офисе сегодня, и мы встретимся в ресторане завтра.",
-      "imageLink": "meet-3.jpg",
+      "imageLink": "image_files\\English\\meet-3.jpg",
       "audioLink": "meet.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Встречать или испытывать что-то, особенно неожиданно.",
       "example": "Ich traf seinen Blick, ich erfülle seine Erwartungen und ich werde die Herausforderung annehmen.",
       "example_translation": "Я встретился с его взглядом, я встречаю его ожидания, и я встречу вызов.",
-      "imageLink": "meet-1.jpg",
+      "imageLink": "image_files\\English\\meet-1.jpg",
       "audioLink": "meet.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "чувствовать или иметь потребность или требование к чему-то",
       "example": "Ich brauchte eine Pause, also nahm ich einen Spaziergang. Ich benötige deine Hilfe, um das Möbel zu verschieben. Ich werde deine Hilfe benötigen, um das Projekt zu erledigen.",
       "example_translation": "Мне потребовался перерыв, поэтому я пошел прогуляться. Мне нужно завершить этот проект к завтра. Мне будет нужно твоя помощь, чтобы перевезти мебель.",
-      "imageLink": "need.jpg",
+      "imageLink": "image_files\\English\\need.jpg",
       "audioLink": "need.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "открывать дверь, окно или крышку, чтобы она больше не была закрыта",
       "example": "Sie öffnete die Tür, um mich hereinzulassen. Ich öffnete meine Augen und sah das Sonnenlicht. Wir werden nächste Woche den neuen Laden öffnen.",
       "example_translation": "Она открыла дверь, чтобы让我 войти. Я открываю глаза и увидел солнечный свет. Мы откроем новый магазин на следующей неделе.",
-      "imageLink": "open-3.jpg",
+      "imageLink": "image_files\\English\\open-3.jpg",
       "audioLink": "open.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "наносить краску на поверхность с помощью кисти или распылителя",
       "example": "Ich habe die Wände blau gemalt. Sie malt schöne Landschaften. Sie werden das Haus nächstes Monat malen.",
       "example_translation": "Я нарисовал стены синими. Она рисует красивые пейзажи. Они покрасят дом в следующем месяце.",
-      "imageLink": "paint-1.jpg",
+      "imageLink": "image_files\\English\\paint-1.jpg",
       "audioLink": "paint.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "наносить краску на поверхность с помощью кисти или распылителя",
       "example": "Der Künstler malt Porträts. Ich werde die Möbel morgen malen. Sie haben die Decke gestern gemalt.",
       "example_translation": "Художник рисует портреты. Я нарисую мебель завтра. Они раскрашивали потолок вчера.",
-      "imageLink": "paint.jpg",
+      "imageLink": "image_files\\English\\paint.jpg",
       "audioLink": "paint.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Платить деньги за товары или услуги",
       "example": "Ich werde die Rechnung morgen bezahlen, aber heute habe ich bar bezahlt, und gestern hatte ich per Kreditkarte bezahlt.",
       "example_translation": "Я заплачу счет завтра, но сегодня я платил наличными, а вчера я платил по кредитной карте.",
-      "imageLink": "pay.jpg",
+      "imageLink": "image_files\\English\\pay.jpg",
       "audioLink": "pay.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Заниматься деятельностью для удовольствия и отдыха",
       "example": "Ich habe gestern Fußball gespielt, ich spiele heute Tennis und ich werde morgen Basketball spielen.",
       "example_translation": "Я играл в футбол вчера, сегодня я играю в теннис, и завтра я играю в баскетбол.",
-      "imageLink": "play-5.jpg",
+      "imageLink": "image_files\\English\\play-5.jpg",
       "audioLink": "play.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Исполнять роль или часть в драматической постановке",
       "example": "Sie spielte die Hauptrolle im Theaterstück letzte Nacht, und sie wird sie wieder morgen spielen.",
       "example_translation": "Она играла главную роль в пьесе вчера ночью, и она сыграет ее снова завтра.",
-      "imageLink": "play-1.jpg",
+      "imageLink": "image_files\\English\\play-1.jpg",
       "audioLink": "play.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Выполнять деятельность или упражнение повторно, чтобы улучшить или овладеть им",
       "example": "Ich habe gestern meine Rede geübt, ich übe meine Präsentation heute und ich werde meine Sprachfähigkeiten morgen üben.",
       "example_translation": "Я практиковался в речи вчера, сегодня я практикуюсь в презентации, и завтра я буду практиковаться в языковых навыках.",
-      "imageLink": "practise.jpg",
+      "imageLink": "image_files\\English\\practise.jpg",
       "audioLink": "practise.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "разместить или поставить что-то в определенное положение, особенно аккуратно или намеренно",
       "example": "Ich stelle das Buch auf den Tisch. Ich werde die Blumen in die Vase stellen. Ich hatte die Spielzeuge weggestellt.",
       "example_translation": "Я положил книгу на стол. Я положу цветы в вазу. Я уже положил игрушки подальше.",
-      "imageLink": "put.jpg",
+      "imageLink": "image_files\\English\\put.jpg",
       "audioLink": "put.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "смотреть и понимать написанные слова",
       "example": "Ich lese jeden Tag ein Buch. Ich werde morgen die Nachrichten lesen. Ich hatte die Anweisungen gelesen.",
       "example_translation": "Я каждый день читаю книгу. Я прочитаю новости завтра. Я уже прочитал инструкции.",
-      "imageLink": "read.jpg",
+      "imageLink": "image_files\\English\\read.jpg",
       "audioLink": "read.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "иметь или хранить идею или факт в своей памяти",
       "example": "Ich erinnere mich an meinen Geburtstag. Ich werde deinen Namen morgen erinnern. Ich hatte die Adresse erinnert.",
       "example_translation": "Я помню свой день рождения. Я запомню твое имя. Я уже вспомнил адрес.",
-      "imageLink": "remember.jpg",
+      "imageLink": "image_files\\English\\remember.jpg",
       "audioLink": "remember.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "сидеть и управлять животным или транспортным средством",
       "example": "Ich fahre jeden Tag mit dem Rad zur Schule. Ich werde morgen ein Pferd reiten. Ich hatte ein Auto zum Flughafen gefahren.",
       "example_translation": "Я езжу на велосипеде в школу. Я поеду на лошади завтра. Я уже ездил на машине в аэропорт.",
-      "imageLink": "ride.jpg",
+      "imageLink": "image_files\\English\\ride.jpg",
       "audioLink": "ride.mp3"
     }
   ]

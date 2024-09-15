@@ -9,7 +9,7 @@
       "definition_translation": "Un pequeño mamífero carnívoro típicamente peludo. A menudo se les llama 'gatos de la casa' cuando se mantienen como mascotas en interiores.",
       "example": "I had a cat when I was a child. Now I have two cats, and they are very playful. I will get a new cat next year.",
       "example_translation": "Tenía un gato cuando era niño. Ahora tengo dos gatos, y son muy juguetones. Me compraré un gato nuevo el año que viene.",
-      "imageLink": "cat.jpg",
+      "imageLink": "image_files\\English\\cat.jpg",
       "audioLink": "cat.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un mamífero ungulado grande domesticado que se mantiene comúnmente en granjas y ranchos por su leche y carne.",
       "example": "Cows are grazing in the field. The cow gave birth to a calf last month. We will buy a cow next year.",
       "example_translation": "Las vacas están pastando en el campo. La vaca dio a luz a un ternero el mes pasado. Compraremos una vaca al año que viene.",
-      "imageLink": "cow.jpg",
+      "imageLink": "image_files\\English\\cow.jpg",
       "audioLink": "cow.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un mamífero carnívoro domesticado que pertenece a la familia Canidae y está estrechamente relacionado con el lobo gris.",
       "example": "I walked my dog this morning. The dog is barking loudly. I will take my dog to the park tomorrow.",
       "example_translation": "Paseé a mi perro esta mañana. El perro está ladrando fuerte. Llevaré a mi perro al parque mañana.",
-      "imageLink": "dog.jpg",
+      "imageLink": "image_files\\English\\dog.jpg",
       "audioLink": "dog.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un gran mamífero herbívoro con pezuñas utilizado para montar, conducir y llevar paquetes.",
       "example": "I rode a horse to the park yesterday, I ride a horse to the park every day, and I will ride a horse to the park tomorrow.",
       "example_translation": "Monté un caballo al parque ayer, monto un caballo al parque todos los días, y montaré un caballo al parque mañana.",
-      "imageLink": "horse.jpg",
+      "imageLink": "image_files\\English\\horse.jpg",
       "audioLink": "horse.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un mamífero ungulado omnívoro de cuerpo robusto originario de Eurasia y África del Norte.",
       "example": "I saw a pig on the farm yesterday, I see a pig on the farm every day, and I will see a pig on the farm tomorrow.",
       "example_translation": "Vi un cerdo en la granja ayer, veo un cerdo en la granja todos los días, y veré un cerdo en la granja mañana.",
-      "imageLink": "pig.jpg",
+      "imageLink": "image_files\\English\\pig.jpg",
       "audioLink": "pig.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un mamífero rumiante, ungulado incluso, que se mantiene típicamente en una granja o rancho por su lana y carne.",
       "example": "I herded a sheep to the pasture yesterday, I herd a sheep to the pasture every day, and I will herd a sheep to the pasture tomorrow.",
       "example_translation": "Arrie un rebaño de ovejas al pasto ayer, arreo un rebaño de ovejas al pasto todos los días, y arrearé un rebaño de ovejas al pasto mañana.",
-      "imageLink": "sheep.jpg",
+      "imageLink": "image_files\\English\\sheep.jpg",
       "audioLink": "sheep.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un ser humano muy joven, desde el nacimiento hasta un año o dos de edad.",
       "example": "I held the baby in my arms yesterday, I am holding the baby in my arms today, and I will hold the baby in my arms tomorrow.",
       "example_translation": "Yo sostuve al bebé en mis brazos ayer, estoy sosteniendo al bebé en mis brazos hoy, y sostendré al bebé en mis brazos mañana.",
-      "imageLink": "baby-1.jpg",
+      "imageLink": "image_files\\English\\baby-1.jpg",
       "audioLink": "baby.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un mamífero carnívoro grande con pelo lanudo, encontrado en bosques y montañas.",
       "example": "The bear ran quickly through the forest yesterday, the bear is running quickly through the forest today, and the bear will run quickly through the forest tomorrow.",
       "example_translation": "El oso corrió rápidamente por el bosque ayer, el oso está corriendo rápidamente por el bosque hoy, y el oso correrá rápidamente por el bosque mañana.",
-      "imageLink": "bear.jpg",
+      "imageLink": "image_files\\English\\bear.jpg",
       "audioLink": "bear.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un gato grande con un pelaje amarillo-marrón y manchas negras, nativo de África y Asia.",
       "example": "The cheetah runs extremely fast in the savannah yesterday, the cheetah is running extremely fast in the savannah today, and the cheetah will run extremely fast in the savannah tomorrow.",
       "example_translation": "La chita corría extremadamente rápido en la sabana ayer, la chita está corriendo extremadamente rápido en la sabana hoy, y la chita correrá extremadamente rápido en la sabana mañana.",
-      "imageLink": "cheetah.jpg",
+      "imageLink": "image_files\\English\\cheetah.jpg",
       "audioLink": "cheetah.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un animal grande, inteligente y social con una larga probóscide, utilizado en zoos y circos, y anteriormente usado como bestia de carga.",
       "example": "I saw an elephant at the zoo yesterday, it is eating now, and it will roam freely in the wild tomorrow.",
       "example_translation": "Vi un elefante en el zoológico ayer, está comiendo ahora, y caminará libremente en la naturaleza mañana.",
-      "imageLink": "elephant.jpg",
+      "imageLink": "image_files\\English\\elephant.jpg",
       "audioLink": "elephant.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un pequeño, peludo, roedor herbívoro comúnmente mantenido como mascota o utilizado en investigaciones científicas.",
       "example": "I had a guinea pig as a pet when I was a child, it was very cute, and it will make a great companion for my sister one day.",
       "example_translation": "Tuve un cuy como mascota cuando era niño, era muy lindo, y hará un gran compañero de mi hermana algún día.",
-      "imageLink": "guinea-pig.jpg",
+      "imageLink": "image_files\\English\\guinea-pig.jpg",
       "audioLink": "guinea pig.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un pequeño, peludo, mamífero carnívoro comúnmente mantenido como mascota, originario de Siria y Europa.",
       "example": "I bought a hamster last week, it is running on its wheel now, and it will be a great pet for my brother next year.",
       "example_translation": "Compré un hámster la semana pasada, está corriendo en su rueda ahora, y será una gran mascota para mi hermano el próximo año.",
-      "imageLink": "hamster.jpg",
+      "imageLink": "image_files\\English\\hamster.jpg",
       "audioLink": "hamster.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un león es un mamífero carnívoro grande que vive en manadas en las sabanas y praderas de África y la India.",
       "example": "The lion roared loudly in the jungle. Yesterday, the lion was sleeping. Tomorrow, the lion will hunt its prey.",
       "example_translation": "El león rugió fuerte en la jungla. Ayer, el león estaba durmiendo. Mañana, el león cazará su presa.",
-      "imageLink": "lion.jpg",
+      "imageLink": "image_files\\English\\lion.jpg",
       "audioLink": "lion.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un mono es un primate que pertenece al orden de primates, que incluye lémures, lorises, tarseros y simios.",
       "example": "The monkey swung from tree to tree. Yesterday, the monkey was playing. Tomorrow, the monkey will climb the mountain.",
       "example_translation": "El mono se columpiaba de árbol en árbol. Ayer, el mono estava jugando. Mañana, el mono subirá la montaña.",
-      "imageLink": "monkey.jpg",
+      "imageLink": "image_files\\English\\monkey.jpg",
       "audioLink": "monkey.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un ratón es un pequeño mamífero roedor que vive en hoyos en el suelo o en paredes.",
       "example": "The mouse ran across the floor. Yesterday, the mouse was hiding. Tomorrow, the mouse will nibble on the cheese.",
       "example_translation": "El ratón corrió attraversó el suelo. Ayer, el ratón estaba escondido. Mañana, el ratón mordisqueará el queso.",
-      "imageLink": "mouse.jpg",
+      "imageLink": "image_files\\English\\mouse.jpg",
       "audioLink": "mouse.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un pequeño mamífero peludo con orejas largas y dientes afilados, que Vive typicalmente en madrigueras o warrens.",
       "example": "I saw a rabbit hopping across the field. The rabbit was hopping across the field. I will see a rabbit hopping across the field.",
       "example_translation": "Vi un conejo saltando a través del campo. El conejo estaba saltando a través del campo. Veré un conejo saltando a través del campo.",
-      "imageLink": "rabbit.jpg",
+      "imageLink": "image_files\\English\\rabbit.jpg",
       "audioLink": "rabbit.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Una gran roedor que se asemeja a un ratón, comúnmente encontrado en alcantarillas y edificios.",
       "example": "I caught a rat in my house. The rat was hiding in the hole. I will trap a rat in my house.",
       "example_translation": "Atrapé una rata en mi casa. La rata estaba escondida en el agujero. Atraparé una rata en mi casa.",
-      "imageLink": "rat.jpg",
+      "imageLink": "image_files\\English\\rat.jpg",
       "audioLink": "rat.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un mamífero volador que utiliza la ecolocación para navegar y encontrar insectos para comer.",
       "example": "The bat was flying around the cave. The bat flew around the cave. The bat will fly around the cave.",
       "example_translation": "El murciélago estaba volando alrededor de la cueva. El murciélago voló alrededor de la cueva. El murciélago volará alrededor de la cueva.",
-      "imageLink": "bat.jpg",
+      "imageLink": "image_files\\English\\bat.jpg",
       "audioLink": "bat.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un bovino masculino, especialmente uno que no ha sido castrado o se utiliza para criar.",
       "example": "The farmer had a bull in his field. He will buy a new bull next year. The bull had been attacked by a pack of dogs yesterday.",
       "example_translation": "El granjero tenía un toro en su campo. Comprará un nuevo toro el próximo año. El toro había sido atacado por una manada de perros ayer.",
-      "imageLink": "bull.jpg",
+      "imageLink": "image_files\\English\\bull.jpg",
       "audioLink": "bull.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "El joven de various mamíferos, especialmente una vaca o elefante.",
       "example": "The calf was born last month. The calf will be big and strong. The calf had been separated from its mother.",
       "example_translation": "El ternero nació el mes pasado. El ternero será grande y fuerte. El ternero había sido separado de su madre.",
-      "imageLink": "calf.jpg",
+      "imageLink": "image_files\\English\\calf.jpg",
       "audioLink": "calf.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un gran ungulado de pezuñas parejas con una joroba característica en su espalda, encontrado en los desiertos de Asia y África.",
       "example": "The camel rode across the desert. We will ride a camel next week. The camel had been walking for hours.",
       "example_translation": "El camello cabalgó a través del desierto. Montaremos un camello la próxima semana. El camello había estado caminando durante horas.",
-      "imageLink": "camel.jpg",
+      "imageLink": "image_files\\English\\camel.jpg",
       "audioLink": "camel.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Mamíferos domésticos criados en una granja o rancho, comúnmente mantenidos por su leche, carne o pieles.",
       "example": "The farmer owned a large herd of cattle, which he raised for their milk. He had raised them since they were calves, and now they were thriving. By next year, he will have increased the size of his cattle.",
       "example_translation": "El granjero era dueño de un gran rebaño de ganado, que criaba por su leche. Los había criado desde que eran terneros, y ahora estaban prosperando. Para el próximo año, habrá aumentado el tamaño de su ganado.",
-      "imageLink": "cattle.jpg",
+      "imageLink": "image_files\\English\\cattle.jpg",
       "audioLink": "cattle.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un mamífero marino muy inteligente y social que está estrechamente relacionado con las ballenas y marsopas.",
       "example": "The dolphin swam playfully in the ocean, jumping and leaping out of the water. It had been seen by tourists many times before, and would likely be seen again tomorrow. By next week, the dolphin will have swum further north.",
       "example_translation": "El delfín nadó juguetonamente en el océano, saltando y brincando fuera del agua. Había sido visto por turistas muchas veces antes, y probablemente sería visto nuevamente mañana. Para la próxima semana, el delfín habrá nadado más al norte.",
-      "imageLink": "dolphin.jpg",
+      "imageLink": "image_files\\English\\dolphin.jpg",
       "audioLink": "dolphin.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un animal equino doméstico o feral que es más pequeño que un caballo, con un pelaje gris o marrón y un característico rebuzno fuerte.",
       "example": "The farmer used a donkey to carry heavy loads up the mountain. He had used the donkey for years, and it had always been reliable. By next month, the farmer will have trained a new donkey.",
       "example_translation": "El granjero usó un burro para llevar cargas pesadas hacia la montaña. Había usado el burro durante años, y siempre había sido confiable. Para el próximo mes, el granjero habrá entrenado a un nuevo burro.",
-      "imageLink": "donkey.jpg",
+      "imageLink": "image_files\\English\\donkey.jpg",
       "audioLink": "donkey.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una hembra es una persona o animal del sexo que produce huevos, caracterizada por la presencia de ovarios",
       "example": "She was a strong and independent female who loved to travel. She had been to many countries in the past, and currently, she was planning a trip to Europe. In the future, she hoped to visit Asia.",
       "example_translation": "Era una hembra fuerte e independiente que amaba viajar. Había visitado muchos países en el pasado, y actualmente, estaba planeando un viaje a Europa. En el futuro, esperaba visitar Asia.",
-      "imageLink": "female-1.jpg",
+      "imageLink": "image_files\\English\\female-1.jpg",
       "audioLink": "female.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "La piel es el pelo grueso, suave y cálido que cubre los cuerpos de muchos animales, especialmente mamíferos.",
       "example": "The cat had a beautiful fur that was soft to touch. In the winter, its fur grew thicker to keep it warm. In the future, scientists hope to create artificial fur that is just as warm and soft.",
       "example_translation": "El gato tenía una hermosa piel que era suave al tacto. En invierno, su piel crecía más gruesa para mantenerlo caliente. En el futuro, los científicos esperan crear piel artificial que sea tan cálida y suave.",
-      "imageLink": "fur.jpg",
+      "imageLink": "image_files\\English\\fur.jpg",
       "audioLink": "fur.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Una jirafa es un mamífero ungulado de patas pares con un patrón de pelaje distinto y un cuello y patas largos.",
       "example": "At the zoo, we saw a giraffe eating leaves from a tall tree. In the past, giraffes were found in many parts of Africa, but currently, their habitats are limited. In the future, conservation efforts hope to increase their populations.",
       "example_translation": "En el zoológico, vimos una jirafa comiendo hojas de un árbol alto. En el pasado, las jirafas se encontraban en muchas partes de África, pero actualmente, sus hábitats están limitados. En el futuro, los esfuerzos de conservación esperan aumentar sus poblaciones.",
-      "imageLink": "giraffe.jpg",
+      "imageLink": "image_files\\English\\giraffe.jpg",
       "audioLink": "giraffe.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una cabra es un mamífero que pertenece a la familia Bovidae y está estrechamente relacionada con ovejas y antílopes. Son animales ágiles y curiosos, conocidos por su capacidad para escalar y saltar.",
       "example": "I saw a goat grazing in the field yesterday. The goat is eating grass now. I will buy a goat as a pet next year.",
       "example_translation": "Vi una cabra pastando en el campo ayer. La cabra está comiendo hierba ahora. Compraré una cabra como mascota el año que viene.",
-      "imageLink": "goat.jpg",
+      "imageLink": "image_files\\English\\goat.jpg",
       "audioLink": "goat.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Una liebre es un mamífero que se mueve rápidamente, con patas largas que pertenece a la familia Leporidae. Son conocidos por su velocidad y agilidad, y se encuentran comúnmente en campos abiertos y praderas.",
       "example": "I saw a hare running across the field yesterday. The hare is hiding behind a bush now. I will try to catch a hare next week.",
       "example_translation": "Vi una liebre corriendo a través del campo ayer. La liebre está escondida detrás de un arbusto ahora. Intentaré atrapar una liebre la próxima semana.",
-      "imageLink": "hare.jpg",
+      "imageLink": "image_files\\English\\hare.jpg",
       "audioLink": "hare.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un hipopótamo es un mamífero grande, semiacuático que pertenece a la familia Hippopotamidae. Son conocidos por sus cuerpos robustos, patas cortas, y se encuentran comúnmente en ríos y lagos.",
       "example": "I saw a hippo swimming in the river yesterday. The hippo is eating grass now. I will visit a hippo sanctuary next month.",
       "example_translation": "Vi un hipopótamo nadando en el río ayer. El hipopótamo está comiendo hierba ahora. Visitaré un santuario de hipopótamos el próximo mes.",
-      "imageLink": "hippo.jpg",
+      "imageLink": "image_files\\English\\hippo.jpg",
       "audioLink": "hippo.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un gatito es un gato juvenil, generalmente en el primer año de su vida. Los gatitos nacen después de un período de gestación de alrededor de 63-65 días y se desarrollan rápidamente, abriendo típicamente los ojos alrededor de 7-10 días de edad.",
       "example": "I saw a kitten playing with a ball of yarn yesterday. The kitten will grow up to be a beautiful cat. By this time next year, the kitten will have learned to hunt mice.",
       "example_translation": "Vi un gatito jugando con una bola de lana ayer. El gatito crecerá para ser un hermoso gato. Para esta época del año que viene, el gatito habrá aprendido a cazar ratones.",
-      "imageLink": "kitten.jpg",
+      "imageLink": "image_files\\English\\kitten.jpg",
       "audioLink": "kitten.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un cordero es un joven carnero, generalmente en el primer año de su vida. Los corderos suelen asociarse con la primavera y son conocidos por sus suaves sonidos de balido.",
       "example": "The lamb was born last week and is already running around the field. The lamb will be weaned soon, and then it will be able to eat grass on its own. By next year, the lamb will have grown into a strong sheep.",
       "example_translation": "El cordero nació la semana pasada y ya está corriendo por el campo. El cordero será destetado pronto, y luego podrá comer hierba por sí mismo. Para el próximo año, el cordero habrá crecido en un fuerte carnero.",
-      "imageLink": "lamb.jpg",
+      "imageLink": "image_files\\English\\lamb.jpg",
       "audioLink": "lamb.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un macho es un organismo que produce gametos, que son las células que se fusionan durante la reproducción para formar un zigoto. En muchas especies, los machos son conocidos por sus características físicas específicas, como el vello facial en los humanos.",
       "example": "The male lion is known for its majestic mane. The male student scored higher on the test than the female student. By the time he was 30, the male athlete had won several championships.",
       "example_translation": "El león macho es conocido por su majestuosa melena. El estudiante masculino obtuvo una puntuación más alta en la prueba que la estudiante femenina. Para cuando tenía 30 años, el atleta masculino había ganado varios campeonatos.",
-      "imageLink": "male-1.jpg",
+      "imageLink": "image_files\\English\\male-1.jpg",
       "audioLink": "male.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Una mula es la progenie de un asno macho y una yegua, conocida por su fuerza y terquedad.",
       "example": "I rode a mule through the Grand Canyon last year, and it was very stubborn. I'm riding a mule through the mountains this year, and it's being very cooperative. I'll ride a mule along the beach next year, and I hope it will be well-behaved.",
       "example_translation": "Monté una mula por el Gran Cañón el año pasado, y era muy terca. Estoy montando una mula por las montañas este año, y está siendo muy cooperativa. Montaré una mula por la playa el año próximo, y espero que sea bien comportada.",
-      "imageLink": "mule.jpg",
+      "imageLink": "image_files\\English\\mule.jpg",
       "audioLink": "mule.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un puma es un gato grande nativo de las Américas, también conocido como puma o león de montaña.",
       "example": "I saw a puma in the zoo last week, and it was sleeping. I'll go to the Andes mountains next year to see a puma in its natural habitat. I saw a puma in the wild last year, and it was very elusive.",
       "example_translation": "Vi un puma en el zoológico la semana pasada, y estaba durmiendo. Iré a las montañas de los Andes el año próximo para ver un puma en su hábitat natural. Vi un puma en estado salvaje el año pasado, y era muy esquivo.",
-      "imageLink": "puma.jpg",
+      "imageLink": "image_files\\English\\puma.jpg",
       "audioLink": "puma.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un cachorro es un perro joven, especialmente uno que tiene menos de un año.",
       "example": "I had a puppy when I was a child, and it was very playful. I'll get a puppy next year, and it will be very cute. I saw a puppy in the park yesterday, and it was very energetic.",
       "example_translation": "Tuve un cachorro cuando era niño, y era muy juguetón. Me llevaré un cachorro el año próximo, y será muy lindo. Vi un cachorro en el parque ayer, y era muy energético.",
-      "imageLink": "puppy.jpg",
+      "imageLink": "image_files\\English\\puppy.jpg",
       "audioLink": "puppy.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un reno es un tipo de ciervo con una capa gruesa que vive en climas fríos, especialmente en la región ártica.",
       "example": "The reindeer jumped over the fence. The reindeer is jumping over the fence. The reindeer will jump over the fence.",
       "example_translation": "El reno saltó sobre la valla. El reno está saltando sobre la valla. El reno saltará sobre la valla.",
-      "imageLink": "reindeer.jpg",
+      "imageLink": "image_files\\English\\reindeer.jpg",
       "audioLink": "reindeer.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Un tigre es un mamífero carnívoro grande con un patrón de rayas naranja y negro distintivo, originario de Asia.",
       "example": "The tiger roared loudly. The tiger is roaring loudly. The tiger will roar loudly.",
       "example_translation": "El tigre rugió fuerte. El tigre está rugiendo fuerte. El tigre rugirá fuerte.",
-      "imageLink": "tiger.jpg",
+      "imageLink": "image_files\\English\\tiger.jpg",
       "audioLink": "tiger.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Una ballena es un mamífero acuático grande que respira aire a través de su agujero de respiración, y se encuentra en todos los océanos del mundo.",
       "example": "The whale swam in the ocean. The whale is swimming in the ocean. The whale will swim in the ocean.",
       "example_translation": "La ballena nadó en el océano. La ballena está nadando en el océano. La ballena nadará en el océano.",
-      "imageLink": "whale.jpg",
+      "imageLink": "image_files\\English\\whale.jpg",
       "audioLink": "whale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un ciervo es una especie de mamífero silvestre o domesticado que pertenece a la familia Cervidae. Son nativos de muchas partes del mundo y a menudo se cazan por su carne y pieles.",
       "example": "I saw a deer grazing in the field yesterday. I will see a deer grazing in the field tomorrow. I have seen a deer grazing in the field many times before.",
       "example_translation": "Vi un ciervo pastando en el campo ayer. Veré un ciervo pastando en el campo mañana. He visto un ciervo pastando en el campo muchas veces antes.",
-      "imageLink": "deer.jpg",
+      "imageLink": "image_files\\English\\deer.jpg",
       "audioLink": "deer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un zorro es un mamífero carnívoro pequeño que pertenece a la familia Canidae. Son conocidos por su astucia y sigilo, y a menudo se encuentran en bosques y praderas.",
       "example": "The fox ran quickly through the forest. The fox will run quickly through the forest tomorrow. I have seen the fox running quickly through the forest many times before.",
       "example_translation": "El zorro corrió rápidamente a través del bosque. El zorro correrá rápidamente a través del bosque mañana. He visto al zorro corriendo rápidamente a través del bosque muchas veces antes.",
-      "imageLink": "fox.jpg",
+      "imageLink": "image_files\\English\\fox.jpg",
       "audioLink": "fox.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un gorila es un primate grande e inteligente que pertenece a la familia Hominidae. Son nativos de África y son conocidos por su fuerza y naturaleza gentil.",
       "example": "I saw a gorilla playing with its baby at the zoo. I will see a gorilla playing with its baby at the zoo tomorrow. I have seen a gorilla playing with its baby at the zoo many times before.",
       "example_translation": "Vi un gorila jugando con su bebé en el zoológico. Veré un gorila jugando con su bebé en el zoológico mañana. He visto un gorila jugando con su bebé en el zoológico muchas veces antes.",
-      "imageLink": "gorilla.jpg",
+      "imageLink": "image_files\\English\\gorilla.jpg",
       "audioLink": "gorilla.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "un marsupial tropical grande con una cola larga y poderosa, nativo de Australia y Nueva Guinea, conocido por su método de locomoción característico, caracterizado por saltar.",
       "example": "The kangaroo hopped across the field yesterday, it hops across the field now, and it will hop across the field tomorrow.",
       "example_translation": "El canguro saltó a través del campo ayer, salta a través del campo ahora y saltará a través del campo mañana.",
-      "imageLink": "kangaroo.jpg",
+      "imageLink": "image_files\\English\\kangaroo.jpg",
       "audioLink": "kangaroo.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "un mamífero carnívoro grande de la familia de los gatos, típicamente con un abrigo moteado o anillado, nativo de África y Asia.",
       "example": "The leopard stalked its prey in the jungle last night, it is stalking its prey in the jungle now, and it will stalk its prey in the jungle next week.",
       "example_translation": "El leopardo acechó a su presa en la selva la última noche, está acechando a su presa en la selva ahora y acechará a su presa en la selva la próxima semana.",
-      "imageLink": "leopard.jpg",
+      "imageLink": "image_files\\English\\leopard.jpg",
       "audioLink": "leopard.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "un mamífero domesticado utilizado como animal de tracción, especialmente en la agricultura, típicamente con un cuerpo robusto y fuertes cuernos.",
       "example": "The ox pulled the plow across the field yesterday, it is pulling the plow across the field now, and it will pull the plow across the field next year.",
       "example_translation": "El buey tiró del arado a través del campo ayer, está tirando del arado a través del campo ahora y tirará del arado a través del campo el próximo año.",
-      "imageLink": "ox.jpg",
+      "imageLink": "image_files\\English\\ox.jpg",
       "audioLink": "ox.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "El pie de un animal, especialmente un cuadrúpedo, con garras.",
       "example": "The cat lifted its paw to scratch the post. Yesterday, it pawed at the door. Tomorrow, it will paw at the curtains.",
       "example_translation": "El gato levantó su zarpa para rascar el poste. Ayer, zarpeó la puerta. Mañana, zarpeará las cortinas.",
-      "imageLink": "paw.jpg",
+      "imageLink": "image_files\\English\\paw.jpg",
       "audioLink": "paw.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Un gran mamífero carnívoro que vive en las regiones Árticas, con piel blanca y un olor característico.",
       "example": "The polar bear wandered across the Arctic tundra. Last week, it had wandered into the village. Next year, it will wander into the forest.",
       "example_translation": "El oso polar deambuló por la tundra Ártica. La semana pasada, había deambulado hasta el pueblo. El próximo año, deambulará hasta el bosque.",
-      "imageLink": "polar-bear.jpg",
+      "imageLink": "image_files\\English\\polar-bear.jpg",
       "audioLink": "polar bear.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Un gran mamífero herbívoro con una trompa característica con cuernos, encontrado en África y sur de Asia.",
       "example": "The rhinoceros charged at the tourist. Yesterday, it had charged at the fence. Tomorrow, it will charge at the trees.",
       "example_translation": "El rinoceronte cargó contra el turista. Ayer, había cargado contra la valla. Mañana, cargará contra los árboles.",
-      "imageLink": "rhinoceros.jpg",
+      "imageLink": "image_files\\English\\rhinoceros.jpg",
       "audioLink": "rhinoceros.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "un mamífero marino semiacuático de pies palmados que vive en las aguas frías de los hemisferios Norte y Sur",
       "example": "I saw a seal swimming in the ocean yesterday, it was swimming there last week, and it will swim there again tomorrow.",
       "example_translation": "Vi una foca nadando en el océano ayer, estaba nadando allí la semana pasada, y nadará allí de nuevo mañana.",
-      "imageLink": "seal.jpg",
+      "imageLink": "image_files\\English\\seal.jpg",
       "audioLink": "seal.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "un pequeño mamífero roedor, generalmente peludo, con una cola boscosa, nativo de bosques y zonas forestales",
       "example": "The squirrel ran up the tree yesterday, it is running up the tree now, and it will have run up the tree by tomorrow.",
       "example_translation": "La ardilla subió el árbol ayer, está subiendo el árbol ahora, y habrá subido el árbol para mañana.",
-      "imageLink": "squirrel.jpg",
+      "imageLink": "image_files\\English\\squirrel.jpg",
       "audioLink": "squirrel.mp3"
     }
   ]

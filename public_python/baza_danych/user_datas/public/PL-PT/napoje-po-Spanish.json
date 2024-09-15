@@ -9,7 +9,7 @@
       "definition_translation": "um tipo de bebida alcoólica feita de grãos fermentados, tipicamente cevada, lúpulo e fermento.",
       "example": "Wypiłem piwo na przyjęciu wczoraj wieczorem. Zazwyczaj piję piwo w piątki. Będę pił piwo po moim egzaminie jutro.",
       "example_translation": "Eu bebi uma cerveja na festa ontem à noite. Eu normalmente bebo cerveja às sextas-feiras. Eu vou beber uma cerveja depois do meu exame amanhã.",
-      "imageLink": "beer.jpg",
+      "imageLink": "image_files\\English\\beer.jpg",
       "audioLink": "beer.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "uma bebida quente feita das sementes torradas de uma planta tropical.",
       "example": "Wypiłem kawę rano. Ona zwykle pije kawę z cukrem. Będą pić kawę w kawiarni jutro.",
       "example_translation": "Eu bebi uma xícara de café esta manhã. Ela normalmente bebe café com açúcar. Eles vão beber café no café amanhã.",
-      "imageLink": "coffee.jpg",
+      "imageLink": "image_files\\English\\coffee.jpg",
       "audioLink": "coffee.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "um tipo de bebida doce, carbonatada e suave, servida tipicamente gelada.",
       "example": "Wypiłem Colę w restauracji wczoraj. On zwykle pije Colę z posiłkiem. Będą pić Colę na przyjęciu dziś wieczorem.",
       "example_translation": "Eu bebi uma Coca-Cola no restaurante ontem. Ele normalmente bebe Coca-Cola com suas refeições. Eles vão beber Coca-Cola na festa hoje à noite.",
-      "imageLink": "coke.jpg",
+      "imageLink": "image_files\\English\\coke.jpg",
       "audioLink": "Coke.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "engolir um líquido, tipicamente pela boca.",
       "example": "Wypiłem wodę wczoraj. Ona pije sok każdego ranka. Będą pić gazowaną wodę na przyjęciu dziś wieczorem.",
       "example_translation": "Eu bebi água ontem. Ela bebe suco todas as manhãs. Eles vão beber refrigerante na festa hoje à noite.",
-      "imageLink": "drink-1.jpg",
+      "imageLink": "image_files\\English\\drink-1.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Um líquido substância que é naturalmente contida em plantas ou animais, especialmente um líquido doce encontrado em frutas e legumes.",
       "example": "Wypiłem szklankę soku pomarańczowego na śniadanie. Wczoraj wypiłem dwie szklanki soku. Jutro wypiję sok z przyjaciółmi.",
       "example_translation": "Eu bebi um copo de suco de laranja no café da manhã. Ontem, eu bebi dois copos de suco. Amanhã, eu vou beber um suco com meus amigos.",
-      "imageLink": "juice.jpg",
+      "imageLink": "image_files\\English\\juice.jpg",
       "audioLink": "juice.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Um líquido branco produzido pelas glândulas mamárias de mamíferos femininos, especialmente vacas, cabras e ovelhas, e usado como alimento.",
       "example": "Piję mleko każdego ranka. Moja siostra piła mleko, kiedy była dzieckiem. Czy wypijesz mleko z płatkami?",
       "example_translation": "Eu bebo leite todas as manhãs. Minha irmã bebeu leite quando era bebê. Você beberá leite com seu cereal?",
-      "imageLink": "milk.jpg",
+      "imageLink": "image_files\\English\\milk.jpg",
       "audioLink": "milk.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Um líquido extraído de laranjas, frequentemente servido como bebida.",
       "example": "Lubię pić sok pomarańczowy latem. Wczoraj kupiłem butelkę soku pomarańczowego. Czy wypijesz sok pomarańczowy ze mną?",
       "example_translation": "Eu amo beber suco de laranja no verão. Ontem, eu comprei uma garrafa de suco de laranja. Você beberá suco de laranja comigo?",
-      "imageLink": "orange-juice.jpg",
+      "imageLink": "image_files\\English\\orange-juice.jpg",
       "audioLink": "orange juice.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Uma bebida quente feita pela infusão das folhas secas e esmagadas da planta de chá em água fervente.",
       "example": "Piję herbatę każdego popołudnia. Moja babcia piła herbatę z przyjaciółmi. Czy chcesz pić herbatę ze mną?",
       "example_translation": "Eu bebo chá todas as tardes. Minha avó bebeu chá com seus amigos. Você quer beber chá comigo?",
-      "imageLink": "tea.jpg",
+      "imageLink": "image_files\\English\\tea.jpg",
       "audioLink": "tea.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Um extrato líquido de tomates, muitas vezes consumido como uma bebida",
       "example": "Wypiłem szklankę soku pomidorowego wczoraj, piję go teraz i wypiję go znów jutro.",
       "example_translation": "Eu bebi um copo de suco de tomate ontem, estou bebendo agora e vou beber novamente amanhã.",
-      "imageLink": "tomato-juice.jpg",
+      "imageLink": "image_files\\English\\tomato-juice.jpg",
       "audioLink": "tomato juice.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Uma substância líquida clara, incolor, inodora e insípida",
       "example": "Będę pił wodę w przyszłości, piłem wodę w przeszłości i piję wodę teraz.",
       "example_translation": "Vou beber água no futuro, bebi água no passado e estou bebendo água agora.",
-      "imageLink": "water.jpg",
+      "imageLink": "image_files\\English\\water.jpg",
       "audioLink": "water.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Uma bebida alcoólica feita a partir de uvas fermentadas",
       "example": "Będę próbował wina na imprezie, próbowałem wina na weselu, i sprawdzam wino teraz.",
       "example_translation": "Vou provar o vinho na festa, provei vinho no casamento e estou provando vinho agora.",
-      "imageLink": "wine.jpg",
+      "imageLink": "image_files\\English\\wine.jpg",
       "audioLink": "wine.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Uma substância líquida incolor, volátil e inflamável",
       "example": "Będę konsumował alkohol na imprezie, konsumowałem alkohol w klubie, i konsumuję alkohol teraz.",
       "example_translation": "Vou consumir álcool na festa, consumi álcool no clube e estou consumindo álcool agora.",
-      "imageLink": "alcohol.jpg",
+      "imageLink": "image_files\\English\\alcohol.jpg",
       "audioLink": "alcohol.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Uma bebida doce e refrescante feita de maçãs, frequentemente servida gelada.",
       "example": "Piłem sok z jabłka na śniadanie, będę pił sok z jabłka na lunch, i piję sok z jabłka przez cały dzień.",
       "example_translation": "Eu bebi suco de maçã no café da manhã, eu vou beber suco de maçã no almoço e eu tenho bebido suco de maçã o dia todo.",
-      "imageLink": "apple-juice.jpg",
+      "imageLink": "image_files\\English\\apple-juice.jpg",
       "audioLink": "apple juice.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Um tipo de vinho espumante, tipicamente branco, feito de uvas cultivadas na região do Champanhe, na França.",
       "example": "Otworzyliśmy szampan, aby celebrować naszą rocznicę, otworzymy szampan na nasze wesele, i otworzyliśmy szampan wczoraj wieczorem.",
       "example_translation": "Nós abrimos o champanhe para comemorar nosso aniversário, vamos abrir champanhe para nosso casamento e nós havíamos aberto champanhe na noite passada.",
-      "imageLink": "champagne.jpg",
+      "imageLink": "image_files\\English\\champagne.jpg",
       "audioLink": "champagne.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Uma bebida doce e aromatizada, tipicamente marrom-escura, contendo cafeína.",
       "example": "Piłem kolę przez wiele lat, piłem kolę na imprezie, i będę pił kolę jutro.",
       "example_translation": "Eu tenho bebido cóla há anos, eu bebi cóla na festa e eu vou beber cóla amanhã.",
-      "imageLink": "cola.jpg",
+      "imageLink": "image_files\\English\\cola.jpg",
       "audioLink": "cola.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Engolir um líquido, como água, suco ou uma bebida, pela boca.",
       "example": "Będę pił wodę po ćwiczeniach, piłem sok na śniadanie, i piję herbatę przez cały dzień.",
       "example_translation": "Eu vou beber água após o exercício, eu bebi suco no café da manhã e eu tenho bebido chá o dia todo.",
-      "imageLink": "drink-2.jpg",
+      "imageLink": "image_files\\English\\drink-2.jpg",
       "audioLink": "drink.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "uma bebida doce feita com chocolate derretido e leite, frequentemente servida quente",
       "example": "Piłem gorącą czekoladę w kawiarni wczoraj, piję ją teraz, i będę pił ją jutro.",
       "example_translation": "Eu bebi chocolate quente no café ontem, estou bebendo agora e beberei amanhã.",
-      "imageLink": "hot-chocolate.jpg",
+      "imageLink": "image_files\\English\\hot-chocolate.jpg",
       "audioLink": "hot chocolate.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "uma bebida doce feita com suco de limão, água e açúcar",
       "example": "Przygotowałem lemoniadę na imprezę ostatnim tygodniu, przygotowuję ją na BBQ dziś, i będę przygotowywał ją na piknik następnego weekendu.",
       "example_translation": "Eu fiz limonada para a festa semana passada, estou fazendo para o churrasco hoje e farei para o piquenique no próximo fim de semana.",
-      "imageLink": "lemonade.jpg",
+      "imageLink": "image_files\\English\\lemonade.jpg",
       "audioLink": "lemonade.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "uma bebida doce e cremosa feita com leite, sorvete e aromatizantes",
       "example": "Zamówiłem milkshake'a w dinerze wczoraj wieczorem, zamawiam jeden w restauracji teraz, i zamówię jeden w kawiarni później.",
       "example_translation": "Eu pedi um milk-shake no diner ontem à noite, estou pedindo um agora no restaurante e pedirei um mais tarde no café.",
-      "imageLink": "milkshake.jpg",
+      "imageLink": "image_files\\English\\milkshake.jpg",
       "audioLink": "milkshake.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "água que é naturalmente rica em minerais, frequentemente engarrafada e vendida como bebida saudável",
       "example": "Piłem wodę mineralną w siłowni wczoraj, piję ją teraz, i będę pił ją po ćwiczeniach jutro.",
       "example_translation": "Eu bebi água mineral no ginásio ontem, estou bebendo agora e beberei após o treino amanhã.",
-      "imageLink": "mineral-water.jpg",
+      "imageLink": "image_files\\English\\mineral-water.jpg",
       "audioLink": "mineral water.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Uma bebida que não é intoxicante, geralmente aromatizada e carbonatada, como Coca-Cola ou limonada.",
       "example": "Wypiłem napój bezalkoholowy na imprezie wczoraj, wypiję jeszcze jeden na imprezie dzisiaj, i wypiłem wiele napojów bezalkoholowych na imprezach w przeszłości.",
       "example_translation": "Eu bebi uma bebida fria no partido ontem, vou beber outra uma no partido esta noite, e bebi muitas bebidas frias em partidos no passado.",
-      "imageLink": "soft-drink.jpg",
+      "imageLink": "image_files\\English\\soft-drink.jpg",
       "audioLink": "soft drink.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Uma bebida mista, geralmente feita com um destilado, como gim ou rum, e um mixer, como água tônica ou suco de fruta.",
       "example": "Ona zrobi koktajl dla nas w barze dzisiaj, on zrobił koktajl dla nas w barze wczoraj, i oni zrobili wiele koktajli w barach w przeszłości.",
       "example_translation": "Ela vai fazer um coquetel para nós no bar esta noite, ele fez um coquetel para nós no bar ontem à noite, e eles fizeram muitos coquetéis em bares no passado.",
-      "imageLink": "cocktail.jpg",
+      "imageLink": "image_files\\English\\cocktail.jpg",
       "audioLink": "cocktail.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um pó feito de sementes de cacau torradas, usado para fazer chocolate ou como tempero.",
       "example": "Wypiję filiżankę gorącego kakao w domu dziś wieczorem, ona wypiła filiżankę gorącego kakao w domu wczoraj wieczorem, i oni wypili wiele filiżanek gorącego kakao w domu w przeszłości.",
       "example_translation": "Vou beber uma xícara de cacau quente em casa esta noite, ela bebeu uma xícara de cacau quente em casa ontem à noite, e eles beberam muitas xícaras de cacau quente em casa no passado.",
-      "imageLink": "cocoa.jpg",
+      "imageLink": "image_files\\English\\cocoa.jpg",
       "audioLink": "cocoa.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um tipo de bebida carbonatada, como refrigerante ou água com gás.",
       "example": "Wypiłem napój gazowany w sklepie wczoraj, on wypije napój gazowany w sklepie dzisiaj, i oni wypili wiele napojów gazowanych w sklepie w przeszłości.",
       "example_translation": "Eu bebi uma bebida com gás na loja ontem, ele vai beber uma bebida com gás na loja esta noite, e eles beberam muitas bebidas com gás na loja no passado.",
-      "imageLink": "fizzy-drink.jpg",
+      "imageLink": "image_files\\English\\fizzy-drink.jpg",
       "audioLink": "fizzy drink.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Um tipo de café que pode ser feito rapidamente adicionando água quente a um produto de café em pó ou granular.",
       "example": "Zawsze noszę kawę instant w moim plecaku, kiedy idę na wędrówkę. Wczoraj, przygotowałem kawę instant na górze. Jutro, przyniosę kawę instant do biura.",
       "example_translation": "Eu sempre carrego café instantâneo na minha mochila quando vou hikinh. Ontem, eu fiz uma xícara de café instantâneo na montanha. Amanhã, eu vou trazer café instantâneo para o escritório.",
-      "imageLink": "instant-coffee.jpg",
+      "imageLink": "image_files\\English\\instant-coffee.jpg",
       "audioLink": "instant coffee.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Um licor claro, incolor e inodoro feito de grãos, batatas ou outros ingredientes, geralmente consumido como um shot ou misturado com outras bebidas.",
       "example": "Wypiłem shot wódki na imprezie wczoraj. Teraz, czuję się nieco zatwardniały. W przyszłości, uniknę pijania wódki na imprezach.",
       "example_translation": "Eu bebi um shot de vódka na festa ontem à noite. Agora, eu estoy me sentindo um pouco ressacado. No futuro, eu vou evitar beber vódka em festas.",
-      "imageLink": "vodka.jpg",
+      "imageLink": "image_files\\English\\vodka.jpg",
       "audioLink": "vodka.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Um tipo de espíritos feito de mosto de grãos fermentados, geralmente envelhecido em barris de carvalho, muitas vezes apreciado como um uísque para saborear ou misturado com água ou soda.",
       "example": "Mój dziadek pijał whisky każdego wieczoru. Wczoraj, spróbowałem nowej marki whisky w barze. W następnym weekendzie, przyniosę butelkę whisky na piknik.",
       "example_translation": "Meu avô bebia um copo de uísque todas as noites. Ontem, eu experimentei uma nova marca de uísque no bar. No próximo fim de semana, eu vou trazer uma garrafa de uísque para o piquenique.",
-      "imageLink": "whisky.jpg",
+      "imageLink": "image_files\\English\\whisky.jpg",
       "audioLink": "whisky.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Um prato doce ou salgado feito de frutas cozidas, muitas vezes servido como um prato lateral ou usado como um topping para iogurte, aveia ou sorvete.",
       "example": "Uwielbiam jeść kompot z owsianką rano. Wczoraj, zrobiłem kompot ze śliwek i borówek. W następnym roku, zrobię kompot z brzoskwiń i ananasów na Boże Narodzenie.",
       "example_translation": "Eu adoro comer compota com meu aveia pela manhã. Ontem, eu fiz uma compota com morangos e mirtilos. No ano que vem, eu vou fazer uma compota com pêssegos e abacaxi para o jantar de feriado.",
-      "imageLink": "compote.jpg",
+      "imageLink": "image_files\\English\\compote.jpg",
       "audioLink": "compote.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Café que teve a maior parte de sua cafeína removida, tornando-o adequado para pessoas que desejam evitar cafeína.",
       "example": "Zamówiłem kawę bezkofeinową w kawiarni, bo obawiałem się, że kofeina zakłóci mój egzamin. Wczoraj, wypiłem kawę bezkofeinową i nadal czułem się nerwowo. Do następnego roku, przestawię się na kawę bezkofeinową całkowicie.",
       "example_translation": "Eu pedi um café descafeinado no café porque eu estava preocupado com a cafeína fazendo efeito durante meu exame. Ontem, eu bebi um café descafeinado e ainda me senti nervoso. Até o ano que vem, eu vou ter trocado completamente para café descafeinado.",
-      "imageLink": "decaffeinated-coffee.jpg",
+      "imageLink": "image_files\\English\\decaffeinated-coffee.jpg",
       "audioLink": "decaffeinated coffee.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Bebida feita misturando cerveja com limonada ou outro drink doce, geralmente servida no verão.",
       "example": "Wypiłem szandi na plaży latem, bo było zbyt gorąco, żeby pić same piwo. Moi przyjaciele i ja zamówiliśmy szandi w barze wczoraj wieczorem. Do następnego lata, nauczę się robić szandi w domu.",
       "example_translation": "Eu tive um xarope na praia no último verão porque estava muito quente para beber cerveja sozinha. Meus amigos e eu pedimos xaropes no bar ontem à noite. Até o próximo verão, eu vou ter aprendido a fazer xaropes perfeitos em casa.",
-      "imageLink": "shandy.jpg",
+      "imageLink": "image_files\\English\\shandy.jpg",
       "audioLink": "shandy.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "Un couteau est un outil de coupe avec une lame attachée à un manche, utilisé pour couper et préparer les aliments.",
       "example": "Uciąłem chleb nożem. Wczoraj uciąłem jabłko nożem. Jutro ucięłem mięso nożem.",
       "example_translation": "J'ai coupé le pain avec un couteau. Hier, j'avais coupé la pomme avec un couteau. Demain, je couperai la viande avec un couteau.",
-      "imageLink": "knife.jpg",
+      "imageLink": "image_files\\English\\knife.jpg",
       "audioLink": "knife.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un bol est un conteneur ouvert en haut et arrondi, utilisé pour contenir ou servir les aliments.",
       "example": "Zjadłem płatki zbożowe z miski. Moja matka wyczyściła miskę wczoraj. Jutro użyję miski do mieszania sałatki.",
       "example_translation": "J'ai mangé des céréales dans un bol. Ma mère avait lavé un bol hier. Je vais utiliser un bol pour mélanger la salade demain.",
-      "imageLink": "bowl.jpg",
+      "imageLink": "image_files\\English\\bowl.jpg",
       "audioLink": "bowl.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un cuisinier est un appareil de cuisine utilisé pour cuire et réchauffer les aliments.",
       "example": "Ugotowałem obiad na kuchence. Moja siostra ugotowała lunch na kuchence. Kupię kuchenkę do mojej nowej kuchni.",
       "example_translation": "J'ai utilisé un cuisinier pour préparer le dîner. Ma sœur avait cuit le déjeuner en utilisant un cuisinier. Je vais acheter un cuisinier pour ma nouvelle cuisine.",
-      "imageLink": "cooker.jpg",
+      "imageLink": "image_files\\English\\cooker.jpg",
       "audioLink": "cooker.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Une armoire est un meuble avec des étagères, utilisé pour stocker les plats, les aliments et d'autres objets de la maison.",
       "example": "Przechowałem talerze w szafie. Mój brat zorganizował szafę wczoraj. Wyczyść szafę w weekend.",
       "example_translation": "J'ai rangé les assiettes dans une armoire. Mon frère avait organisé l'armoire hier. Je vais nettoyer l'armoire ce week-end.",
-      "imageLink": "cupboard.jpg",
+      "imageLink": "image_files\\English\\cupboard.jpg",
       "audioLink": "cupboard.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un tiroir est un conteneur dans un meuble, comme un coffre ou un bureau, utilisé pour stocker des choses.",
       "example": "Otworzyłem szufladę, żeby wziąć pióro. Otworzę szufladę, żeby wziąć pióro. Otworzyłem szufladę, aby wziąć pióro.",
       "example_translation": "J'ai ouvert le tiroir pour prendre mon stylo. J'ouvrirai le tiroir pour prendre mon stylo. J'avais ouvert le tiroir pour prendre mon stylo.",
-      "imageLink": "drawer.jpg",
+      "imageLink": "image_files\\English\\drawer.jpg",
       "audioLink": "drawer.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Une fourchette est un outil utilisé pour manger, consistant en un manche avec une série de points épineux à l'extrémité.",
       "example": "Trzymałem widły w ręku. Będę trzymał widły w ręku. Trzymałem widły w ręku.",
       "example_translation": "J'ai tenu la fourchette dans ma main. Je tiendrai la fourchette dans ma main. J'avais tenu la fourchette dans ma main.",
-      "imageLink": "fork.jpg",
+      "imageLink": "image_files\\English\\fork.jpg",
       "audioLink": "fork.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un réfrigérateur est un appareil électrique utilisé pour conserver les aliments et les boissons au frais.",
       "example": "Otworzyłem lodówkę, żeby wziąć drinka. Otworzę lodówkę, żeby wziąć drinka. Otworzyłem lodówkę, żeby wziąć drinka.",
       "example_translation": "J'ai ouvert le réfrigérateur pour obtenir un verre. J'ouvrirai le réfrigérateur pour obtenir un verre. J'avais ouvert le réfrigérateur pour obtenir un verre.",
-      "imageLink": "fridge.jpg",
+      "imageLink": "image_files\\English\\fridge.jpg",
       "audioLink": "fridge.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Une table de cuisine est un meuble utilisé pour manger, préparer et servir les aliments, généralement situé dans une cuisine.",
       "example": "Siadłem przy stole kuchennym, żeby zjeść śniadanie. Siądę przy stole kuchennym, żeby zjeść śniadanie. Siadłem przy stole kuchennym, żeby zjeść śniadanie.",
       "example_translation": "Je me suis assis à la table de cuisine pour manger le petit déjeuner. Je m'assiérai à la table de cuisine pour manger le petit déjeuner. J'avais pris place à la table de cuisine pour manger le petit déjeuner.",
-      "imageLink": "kitchen-table.jpg",
+      "imageLink": "image_files\\English\\kitchen-table.jpg",
       "audioLink": "kitchen table.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un appareil de cuisine qui utilise des ondes électromagnétiques pour chauffer et cuire rapidement les aliments.",
       "example": "Podgrzałem lunch w kuchence mikrofalowej wczoraj, będę używał jej dziś, żeby ugotować obiad, a jutro, żeby podgrzać kawę.",
       "example_translation": "J'ai réchauffé mon déjeuner au four à micro-ondes hier, je vais l'utiliser pour cuisiner mon dîner aujourd'hui, et je vais réchauffer mon café avec lui demain.",
-      "imageLink": "microwave-oven.jpg",
+      "imageLink": "image_files\\English\\microwave-oven.jpg",
       "audioLink": "microwave (oven).mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Une pièce plate de bois, de métal ou d'un autre matériau, fixée horizontalement ou en pente, utilisée pour stocker des objets.",
       "example": "Postawiłem wazon na półce wczoraj, będę stawiał książkę na niej dziś, a wyczyść ją jutro.",
       "example_translation": "J'ai mis le vase sur l'étagère hier, je vais mettre le livre sur elle aujourd'hui, et je vais la nettoyer demain.",
-      "imageLink": "shelf.jpg",
+      "imageLink": "image_files\\English\\shelf.jpg",
       "audioLink": "shelf.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un équipement de plomberie utilisé pour laver les mains, les aliments ou les plats.",
       "example": "Wczoraj umyłem ręce w zlewozmywaku, dzisiaj umyję w nim naczynia, a jutro naprawię zlewający kran.",
       "example_translation": "J'ai lavé mes mains dans l'évier hier, je vais laver les plats dans elle aujourd'hui, et je vais réparer le robinet qui fuit demain.",
-      "imageLink": "sink-1.jpg",
+      "imageLink": "image_files\\English\\sink-1.jpg",
       "audioLink": "sink.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un ustensile avec une extrémité en forme de bol, utilisé pour manger ou servir des aliments.",
       "example": "Wczoraj jadłem zupę łyżką, dzisiaj użyję jej do mieszania herbaty, a jutro umyję ją.",
       "example_translation": "J'ai mangé ma soupe avec une cuillère hier, je vais l'utiliser pour remuer mon thé aujourd'hui, et je vais la laver demain.",
-      "imageLink": "spoon.jpg",
+      "imageLink": "image_files\\English\\spoon.jpg",
       "audioLink": "spoon.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un conteneur utilisé pour contenir ou stocker des choses, en particulier les déchets ou les ordures.",
       "example": "Wczoraj wyrzuciłem śmieci do kosza. Dzisiaj oczyściłem go. Jutro włożę nową wkładkę do kosza.",
       "example_translation": "Hier, j'ai jeté les déchets dans la poubelle. Aujourd'hui, je vais la nettoyer. Demain, je vais mettre un nouveau sac de poubelle dedans.",
-      "imageLink": "bin.jpg",
+      "imageLink": "image_files\\English\\bin.jpg",
       "audioLink": "bin.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Une machine qui nettoie les plats automatiquement en utilisant de l'eau chaude et du détergent.",
       "example": "Wczoraj załadowałem brudne naczynia do zmywarki. Dzisiaj wyjmę je z niej. Następnego tygodnia ponownie uruchomię zmywarkę.",
       "example_translation": "J'ai chargé le lave-vaisselle avec des plats sales hier soir. Ce matin, je vais le décharger. La semaine prochaine, je vais le lancer à nouveau.",
-      "imageLink": "dishwasher.jpg",
+      "imageLink": "image_files\\English\\dishwasher.jpg",
       "audioLink": "dishwasher.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un appareil de cuisine qui fait bouillir rapidement l'eau en utilisant de l'électricité.",
       "example": "Dzisiaj wczoraj włożyłem czajnik elektryczny, aby zrobić herbatę. Wczoraj ugotowałem w nim wodę. Następnego roku kupię nowy czajnik elektryczny.",
       "example_translation": "J'ai branché la bouilloire électrique ce matin pour faire du thé. Hier, j'avais fait bouillir de l'eau dedans. L'an prochain, j'achèterai une nouvelle.",
-      "imageLink": "electric-kettle.jpg",
+      "imageLink": "image_files\\English\\electric-kettle.jpg",
       "audioLink": "electric kettle.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un appareil de cuisine utilisé pour stocker des aliments à très basse température.",
       "example": "Wczoraj włożyłem resztki do lodówki. Dzisiaj rozmrażam je. Następnego miesiąca oczyściłem lodówkę.",
       "example_translation": "J'ai mis les restes dans le congélateur hier soir. Ce matin, je vais les dégeler. Le mois prochain, je vais nettoyer le congélateur.",
-      "imageLink": "freezer.jpg",
+      "imageLink": "image_files\\English\\freezer.jpg",
       "audioLink": "freezer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un poêle est un type de vaisselle utilisé pour frire, sauter et brunir les aliments. Il est généralement fait de métal, tel que l'acier inoxydable ou le fer forgé, et a un fond plat et des côtés inclinés pour permettre un ébullition facile et une cuisson.",
       "example": "Wczoraj użyłem patelni, aby ugotować śniadanie. Dzisiaj użyję jej ponownie, aby ugotować obiad. Ona użyła jej, aby podgrzać resztki w dniu poprzednim.",
       "example_translation": "J'ai utilisé un poêle pour cuisiner le petit déjeuner hier. Je vais l'utiliser à nouveau demain pour préparer le dîner. Elle l'avait utilisé pour réchauffer les restes le jour précédent.",
-      "imageLink": "frying-pan.jpg",
+      "imageLink": "image_files\\English\\frying-pan.jpg",
       "audioLink": "frying pan.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un four est un appareil de cuisine utilisé pour cuire, rôtir et chauffer les aliments. Il est généralement électrique ou fonctionne au gaz et a plusieurs étagères pour cuisiner plusieurs plats à la fois.",
       "example": "Ona wstawiła piekarnik, aby upiec tort. Wczoraj oni użyli piekarnika, aby upiec indyka. Dzisiaj użyję piekarnika, aby podgrzać resztki.",
       "example_translation": "Elle a préchauffé le four pour cuire un gâteau. Ils ont utilisé le four pour rôtir un dindon dernière nuit. Je vais utiliser le four pour réchauffer les restes demain.",
-      "imageLink": "oven.jpg",
+      "imageLink": "image_files\\English\\oven.jpg",
       "audioLink": "oven.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un pot est un type de vaisselle utilisé pour bouillir, cuire à la vapeur et mijoter les aliments. Il est généralement fait de métal ou de céramique et a une seule poignée pour faciliter la élévation.",
       "example": "Wczoraj użyłem garnka, aby ugotować wodę. Dzisiaj ona użyje go, aby ugotować makaron. Oni użyli go, aby ugotować gulasz w dniu poprzednim.",
       "example_translation": "J'ai utilisé un pot pour faire bouillir de l'eau hier. Elle va l'utiliser pour cuire des pâtes demain. Ils l'avaient utilisé pour faire un ragoût le jour précédent.",
-      "imageLink": "pot.jpg",
+      "imageLink": "image_files\\English\\pot.jpg",
       "audioLink": "pot.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un poêlon est un type de vaisselle utilisé pour chauffer et cuire des sauces, des soups et d'autres liquides. Il est généralement fait de métal et a une longue poignée pour faciliter l'agitation.",
       "example": "Wczoraj użyłem sosownika, aby podgrzać zupę. Dzisiaj ona użyje go, aby ugotować sos. Oni użyli go, aby ugotować sos w dniu poprzednim.",
       "example_translation": "J'ai utilisé un poêlon pour réchauffer une soupe hier. Elle va l'utiliser pour cuire une sauce demain. Ils l'avaient utilisé pour faire un gravy le jour précédent.",
-      "imageLink": "saucepan.jpg",
+      "imageLink": "image_files\\English\\saucepan.jpg",
       "audioLink": "saucepan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un dispositif de contrôle du débit d'un liquide ou d'un gaz depuis un tuyau, généralement en tournant un manche ou une valve.",
       "example": "Ona otworzyła kran, aby napełnić wannę. Ona zamknęła kran po szczotkowaniu zębów. Ona otworzy kran, aby umyć ręce.",
       "example_translation": "Elle a ouvert le robinet pour remplir la baignoire. Elle avait fermé le robinet après avoir bushé ses dents. Elle ouvrira le robinet pour se laver les mains.",
-      "imageLink": "tap.jpg",
+      "imageLink": "image_files\\English\\tap.jpg",
       "audioLink": "tap.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un récipient, généralement en céramique ou en métal, utilisé pour faire infuser et servir le thé.",
       "example": "Ona wylała herbatę z czajnika do filiżanki. Ona wypełniła czajnik gorącą wodą. Ona będzie używać czajnika, aby serwować herbatę swoim gościom.",
       "example_translation": "Elle a versé du thé de la théière dans la tasse. Elle avait rempli la théière d'eau chaude. Elle utilisera la théière pour servir le thé à ses invités.",
-      "imageLink": "teapot.jpg",
+      "imageLink": "image_files\\English\\teapot.jpg",
       "audioLink": "teapot.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un dispositif utilisé pour ouvrir des boîtes de conserve, généralement constitué d'une roue de coupe rotative ou d'un découpeur actionné par un levier.",
       "example": "On użył otwieracza do puszek, aby otworzyć puszkę z fasolą. On użył otwieracza do puszek, aby otworzyć puszkę z pomidorami. On będzie używał otwieracza do puszek, aby otworzyć puszkę z tuńczykiem.",
       "example_translation": "Il a utilisé un ouvre-boîte pour ouvrir la boîte de haricots. Il avait utilisé un ouvre-boîte pour ouvrir la boîte de tomates. Il utilisera un ouvre-boîte pour ouvrir la boîte de thon.",
-      "imageLink": "tin-opener.jpg",
+      "imageLink": "image_files\\English\\tin-opener.jpg",
       "audioLink": "tin opener.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un petit appareil électrique utilisé pour griller des tranches de pain.",
       "example": "Ona wpięła toster i podgrzała chleb. Ona użyła tostera, aby zrobić tosty na śniadanie. Ona będzie używać tostera, aby zrobić tosty na przyjęcie.",
       "example_translation": "Elle a branché le toasteur et a grillé du pain. Elle avait utilisé le toasteur pour faire du pain grillé pour le petit déjeuner. Elle utilisera le toasteur pour faire du pain grillé pour la fête.",
-      "imageLink": "toaster.jpg",
+      "imageLink": "image_files\\English\\toaster.jpg",
       "audioLink": "toaster.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un tissu fait de fils de coton, de laine ou d'autres matières, utilisé pour fabriquer des vêtements, des tissus d'ameublement ou d'autres produits textiles.",
       "example": "Potrzebuję kupić nową tkaninę, aby zrobić sukienkę. Kupiłem tkaninę w zeszłym tygodniu. Będę kupował tkaninę następnego miesiąca.",
       "example_translation": "Je dois acheter un nouveau tissu pour faire une robe. J'ai acheté un tissu la semaine dernière. J'achèterai un tissu le mois prochain.",
-      "imageLink": "cloth.jpg",
+      "imageLink": "image_files\\English\\cloth.jpg",
       "audioLink": "cloth.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un appareil électrique qui fait du café à partir de grains de café.",
       "example": "Używam ekspresu do kawy, aby zrobić kawę każdego ranka. Ona kupiła ekspres do kawy wczoraj. Będą kupować ekspres do kawy za rok.",
       "example_translation": "J'utilise une machine à café pour faire du café chaque matin. Elle a acheté une machine à café hier. Ils achèteront une machine à café l'année prochaine.",
-      "imageLink": "coffeemaker.jpg",
+      "imageLink": "image_files\\English\\coffeemaker.jpg",
       "audioLink": "coffee maker.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un dispositif utilisé pour retirer les bouchons des bouteilles de vin.",
       "example": "Potrzebuję korkociągu, aby otworzyć tę butelkę wina. On użył korkociągu, aby otworzyć szampana. Będą używać korkociągu, aby otworzyć wino.",
       "example_translation": "J'ai besoin d'un tire-bouchon pour ouvrir cette bouteille de vin. Il a utilisé un tire-bouchon pour ouvrir le champagne. Ils utiliseront un tire-bouchon pour ouvrir le vin.",
-      "imageLink": "corkscrew.jpg",
+      "imageLink": "image_files\\English\\corkscrew.jpg",
       "audioLink": "corkscrew.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un dispositif utilisé pour peser des objets ou des personnes, souvent sous forme de balance avec deux plaques ou une plateforme à ressort.",
       "example": "Potrzebuję użyć wagi, aby zmierzyć ten pakiet. Ona użyła wagi, aby zmierzyć się sama. Będą używać wagi, aby zmierzyć owoce.",
       "example_translation": "J'ai besoin d'utiliser les balances pour peser ce paquet. Elle a utilisé les balances pour se peser. Ils utiliseront les balances pour peser le fruit.",
-      "imageLink": "scales.jpg",
+      "imageLink": "image_files\\English\\scales.jpg",
       "audioLink": "scales.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un tabouret est un siège simple sans dossier ni bras, généralement utilisé pour s'asseoir près d'une table ou d'un comptoir.",
       "example": "Siedzę na taborecie, aby zjeść śniadanie. Będę siedzieć na taborecie, aby zjeść obiad. Siedziałem na taborecie, aby zjeść lunch.",
       "example_translation": "Je me suis assis sur un tabouret pour manger mon petit déjeuner. Je me siègerai sur un tabouret pour manger mon dîner. Je me suis assis sur un tabouret pour manger mon déjeuner.",
-      "imageLink": "stool.jpg",
+      "imageLink": "image_files\\English\\stool.jpg",
       "audioLink": "stool.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un manchon de pâtisserie est un liner flexible et anti-adhésif utilisé pour recouvrir les moules et les pains de four.",
       "example": "Użyłem opiekacza do pieczenia, aby upiec ciasto. Będę używać opiekacza do pieczenia, aby upiec ciasteczka. Używałem opiekacza do pieczenia, aby upiec tarta.",
       "example_translation": "J'ai utilisé un manchon de pâtisserie pour faire cuire un gâteau. J'utiliserai un manchon de pâtisserie pour faire cuire des biscuits. J'utilisais un manchon de pâtisserie pour faire cuire une tarte.",
-      "imageLink": "baking-sleeve.jpg",
+      "imageLink": "image_files\\English\\baking-sleeve.jpg",
       "audioLink": "baking sleeve.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un emporte-pièce pour biscuits est un outil utilisé pour découper des formes dans la pâte à biscuits.",
       "example": "Użyłem wycinarki do ciastek, aby zrobić serca z ciastek. Będę używał wycinarki do ciastek, aby zrobić ciastka okrągłe. Używałem wycinarki do ciastek, aby zrobić gwiazdkowe ciastka.",
       "example_translation": "J'ai utilisé un emporte-pièce pour biscuits pour faire des biscuits en forme de cœur. J'utiliserai un emporte-pièce pour biscuits pour faire des biscuits ronds. J'utilisais un emporte-pièce pour biscuits pour faire des biscuits en forme d'étoile.",
-      "imageLink": "biscuit-cutter.jpg",
+      "imageLink": "image_files\\English\\biscuit-cutter.jpg",
       "audioLink": "biscuit cutter.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un couteau à pain est un outil utilisé pour trancher le pain en tranches fines.",
       "example": "Użyłem noża do chleba, aby pokroić bagietkę. Będę używał noża do chleba, aby pokroić bochenek pełnoziarnisty. Używałem noża do chleba, aby pokroić ciabattę.",
       "example_translation": "J'ai utilisé un couteau à pain pour couper une baguette. J'utiliserai un couteau à pain pour couper un pain complet. J'utilisais un couteau à pain pour couper une ciabatta.",
-      "imageLink": "bread-cutter.jpg",
+      "imageLink": "image_files\\English\\bread-cutter.jpg",
       "audioLink": "bread cutter.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un moule à gâteau est un récipient utilisé pour contenir et façonner un gâteau pendant qu'il est cuit.",
       "example": "Będę używał formy do ciasta, aby upiec tort urodzinowy dla przyjaciela. Użyłem formy do ciasta, aby upiec tort na ślub siostry. Będę używał formy do ciasta, aby upiec tort na rocznicę matki.",
       "example_translation": "Je vais utiliser un moule à gâteau pour cuire un gâteau d'anniversaire pour mon ami. J'ai utilisé un moule à gâteau pour cuire un gâteau pour le mariage de ma sœur. Je vais utiliser un moule à gâteau pour cuire un gâteau pour l'anniversaire de ma mère.",
-      "imageLink": "cake-tin.jpg",
+      "imageLink": "image_files\\English\\cake-tin.jpg",
       "audioLink": "cake tin.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un plat à gratin est un récipient grand et profond utilisé pour cuire et servir des plats chauds, tels que des casseroles, des ragoûts et des viandes rôties.",
       "example": "Będę potrzebował naczynia do zapiekanek, aby ugotować kurczaka na dzisiejszy obiad. Użyła naczynia do zapiekanek, aby zrobić smaczną zupę wołową. Będą używać naczynia do zapiekanek, aby upiec indyka na Boże Narodzenie.",
       "example_translation": "Je vais avoir besoin d'un plat à gratin pour cuire le poulet pour le dîner de ce soir. Elle a utilisé un plat à gratin pour faire un délicieux ragoût de boeuf. Ils vont utiliser un plat à gratin pour rôtir le dindon pour Noël.",
-      "imageLink": "casserole.jpg",
+      "imageLink": "image_files\\English\\casserole.jpg",
       "audioLink": "casserole dish.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un couteau de cuisine est un type de couteau utilisé pour hacher et ciseler les ingrédients alimentaires, tels que des légumes, de la viande et des herbes.",
       "example": "Będę potrzebował noża do krojenia, aby pokroić cebulę do zapiekanki. Użyła noża do krojenia, aby zmiękczyć czosnek do sosu. Będą używać noża do krojenia, aby pokroić mięso na szaszłyki.",
       "example_translation": "Je vais avoir besoin d'un couteau de cuisine pour hacher les oignons pour le ragoût. Elle a utilisé un couteau de cuisine pour ciseler l'ail pour la sauce. Ils vont utiliser un couteau de cuisine pour hacher la viande pour les brochettes.",
-      "imageLink": "chopping-knife.jpg",
+      "imageLink": "image_files\\English\\chopping-knife.jpg",
       "audioLink": "chopping knife.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Les baguettes sont une paire de petits bâtonnets rectangulaires utilisés comme ustensiles pour manger, spécialement dans la cuisine asiatique.",
       "example": "Będę potrzebował paru pałeczek, aby zjeść sushia. Użyła pałeczek, aby zjeść makarony. Będą używać pałeczek, aby zjeść dumpingi.",
       "example_translation": "Je vais avoir besoin d'une paire de baguettes pour manger le sushi. Elle a utilisé des baguettes pour manger les nouilles. Ils vont utiliser des baguettes pour manger les raviolis.",
-      "imageLink": "chopsticks.jpg",
+      "imageLink": "image_files\\English\\chopsticks.jpg",
       "audioLink": "chopsticks.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un outil de cuisine utilisé pour égoutter les liquides des aliments, comportant généralement un bol avec des perforations ou un patron de maille.",
       "example": "Użyłem sita kuchennego, aby odcedzić wodę z makaronu, potem go umyłem w zimnej wodzie. Wczoraj umyłem sito kuchenne z mydłem i ciepłą wodą. Do czasu powrotu z marketu, będę miał nowe sito kuchenne.",
       "example_translation": "J'ai utilisé une passoire pour égoutter l'eau du pâtes, puis je l'ai rincée à l'eau froide. Hier, j'avais lavé la passoire avec du savon et de l'eau chaude. Quand je reviendrai du magasin, j'aurai acheté une nouvelle passoire.",
-      "imageLink": "colander.jpg",
+      "imageLink": "image_files\\English\\colander.jpg",
       "audioLink": "colander.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Une surface plane, généralement en bois ou en plastique, utilisée pour couper et préparer les aliments.",
       "example": "Umyłem deskę do krojenia z mydłem i ciepłą wodą po pokrojeniu warzyw. Wczoraj pokroiłem mięso na desce do krojenia i teraz trzeba ją dezynfekować. Do czasu ukończenia gotowania, będę miał czystą deskę do krojenia.",
       "example_translation": "J'ai lavé la planche à découper avec du savon et de l'eau chaude après avoir coupé les légumes. Hier, j'avais coupé la viande sur la planche à découper, et maintenant elle a besoin d'être désinfectée. Quand j'aurai fini de cuisiner, j'aurai nettoyé la planche à découper.",
-      "imageLink": "cutting-board.jpg",
+      "imageLink": "image_files\\English\\cutting-board.jpg",
       "audioLink": "cutting board.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un outil de cuisine utilisé pour tamiser et aérer la farine, comportant généralement un écran de maille et une poignée.",
       "example": "Użyłem przesiewacza mąki, aby oddzielić grudki od mąki, potem dodałem ją do miski. Wczoraj kupiłem nowy przesiewacz mąki i teraz jest jednym z moich ulubionych narzędzi kuchennych. Do czasu zakończenia pieczenia, będę miał czysty przesiewacz mąki.",
       "example_translation": "J'ai utilisé un tamis à farine pour séparer les grumeaux de la farine, puis j'ai ajouté au bol de mélange. Hier, j'avais acheté un nouveau tamis à farine, et maintenant c'est l'un de mes outils de cuisine préférés. Quand j'aurai fini de faire du pain, j'aurai nettoyé le tamis à farine.",
-      "imageLink": "flour-sifter.jpg",
+      "imageLink": "image_files\\English\\flour-sifter.jpg",
       "audioLink": "flour sifter.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un appareil de cuisine utilisé pour couper de fines portions d'aliments, tels que les viandes, les fromages et les pains.",
       "example": "Użyłem slicera żywności, aby pokroić indyka na kanapki, potem zapakowałem je w folię spożywczą. Wczoraj ostrzyłem ostrze slicera żywności, i teraz działa idealnie. Do czasu zakończenia przygotowywania lunchu, będę miał czysty slicer żywności.",
       "example_translation": "J'ai utilisé un trancheur de viande pour couper le dindon pour les sandwichs, puis j'ai emballé dans du papier d'aluminium. Hier, j'avais affûté la lame du trancheur de viande, et maintenant il fonctionne parfaitement. Quand j'aurai fini de préparer le déjeuner, j'aurai nettoyé le trancheur de viande.",
-      "imageLink": "food-slicer.jpg",
+      "imageLink": "image_files\\English\\food-slicer.jpg",
       "audioLink": "food slicer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un entonnoir est un tube ou un tuyau qui est large à une extrémité et étroit à l'autre, utilisé pour verser des liquides ou des poudres dans une petite ouverture.",
       "example": "Użyłem lejka, aby nalewać olej do silnika. Użyję lejka, aby nalewać sok do butelki. Ona użyła lejka, aby nalewać mąkę do miski.",
       "example_translation": "J'ai utilisé un entonnoir pour verser de l'huile dans le moteur. J'utiliserai un entonnoir pour verser du jus dans la bouteille. Elle avait utilisé un entonnoir pour verser de la farine dans le bol.",
-      "imageLink": "funnel.jpg",
+      "imageLink": "image_files\\English\\funnel.jpg",
       "audioLink": "funnel.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Une presse à l'ail est un outil de cuisine utilisé pour écraser les gousses d'ail en pulpe ou en pâte.",
       "example": "Użyłem prasowałki do czosnku, aby zmielić czosnek do przepisu. Ona będzie używać prasowałki do czosnku, aby rozgniatć czosnek dla zupy. Oni użyli prasowałki do czosnku, aby wycisnąć czosnek dla sosu.",
       "example_translation": "J'ai utilisé une presse à l'ail pour écraser l'ail pour la recette. Elle utilisera une presse à l'ail pour écraser l'ail pour la soupe. Ils avaient utilisé une presse à l'ail pour presser l'ail pour la sauce.",
-      "imageLink": "garlic-press.jpg",
+      "imageLink": "image_files\\English\\garlic-press.jpg",
       "audioLink": "garlic press.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Une râpe est un outil de cuisine utilisé pour râper ou gratter des aliments, tels que du fromage ou des carottes, en petits morceaux.",
       "example": "Użyłem tarki, aby zetrzeć ser dla sałatki. Ona będzie używać tarki, aby zetrzeć marchew dla ciasta. Oni użyli tarki, aby ścierać imbir dla sosu.",
       "example_translation": "J'ai utilisé une râpe pour râper du fromage pour la salade. Elle utilisera une râpe pour râper des carottes pour le gâteau. Ils avaient utilisé une râpe pour râper du gingembre pour la sauce.",
-      "imageLink": "grater.jpg",
+      "imageLink": "image_files\\English\\grater.jpg",
       "audioLink": "grater.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Une cuillère à glace est un outil de cuisine utilisé pour portionner et servir la glace en boules ou en cuillerées.",
       "example": "Użyłem szczypiec do lodów, aby serwować lody na przyjęciu. Ona będzie używać szczypiec do lodów, aby portionować lody dla deseru. Oni użyli szczypiec do lodów, aby zrobić kulki lodów dla bufetu.",
       "example_translation": "J'ai utilisé une cuillère à glace pour servir de la glace à la fête. Elle utilisera une cuillère à glace pour portionner la glace pour le dessert. Ils avaient utilisé une cuillère à glace pour faire des boules de glace pour le buffet.",
-      "imageLink": "ice-cream-scoop.jpg",
+      "imageLink": "image_files\\English\\ice-cream-scoop.jpg",
       "audioLink": "ice-cream scoop.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Une louche est une cuillère en forme de bol profond avec un manche long, utilisée pour puiser et verser des liquides.",
       "example": "Nalałem zupę do misek. Nalędzę zupę do misek jutro. Ona nalała zupę do misek.",
       "example_translation": "J'ai versé la soupe dans les bols. Je verserai la soupe dans les bols demain. Elle avait versé la soupe dans les bols.",
-      "imageLink": "ladle.jpg",
+      "imageLink": "image_files\\English\\ladle.jpg",
       "audioLink": "ladle.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un presse-citron est un outil de cuisine utilisé pour extraire le jus des citrons ou d'autres fruits citrus.",
       "example": "Ona wycisnęła sok cytrynowy przy użyciu sprężyny do cytryny. On będzie wyciskał sok cytrynowy przy użyciu sprężyny do cytryny jutro. Oni wycisnęli sok cytrynowy przy użyciu sprężyny do cytryny.",
       "example_translation": "Elle a pressé le jus de citron en utilisant un presse-citron. Il pressera le jus de citron en utilisant un presse-citron demain. Ils avaient pressé le jus de citron en utilisant un presse-citron.",
-      "imageLink": "lemon-squeezer.jpg",
+      "imageLink": "image_files\\English\\lemon-squeezer.jpg",
       "audioLink": "lemon squeezer.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Une mandoline est un outil de cuisine utilisé pour trancher ou faire des julienne de légumes et de fruits en fines tranches.",
       "example": "Ona pokroiła marchewkę przy użyciu mandoliny. On będzie kroił marchewkę przy użyciu mandoliny jutro. Oni pokroili marchewkę przy użyciu mandoliny.",
       "example_translation": "Elle a tranché les carottes en utilisant une mandoline. Il tranchera les carottes en utilisant une mandoline demain. Ils avaient tranché les carottes en utilisant une mandoline.",
-      "imageLink": "mandoline.jpg",
+      "imageLink": "image_files\\English\\mandoline.jpg",
       "audioLink": "mandoline.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Une cuillère à mesurer est un outil de cuisine utilisé pour mesurer la quantité d'ingrédients secs ou liquides.",
       "example": "Ona zmierzyła cukier przy użyciu łyżki miarowej. On będzie mierzyć cukier przy użyciu łyżki miarowej jutro. Oni zmierzyli cukier przy użyciu łyżki miarowej.",
       "example_translation": "Elle a mesuré le sucre en utilisant une cuillère à mesurer. Il mesurera le sucre en utilisant une cuillère à mesurer demain. Ils avaient mesuré le sucre en utilisant une cuillère à mesurer.",
-      "imageLink": "measuring-spoon.jpg",
+      "imageLink": "image_files\\English\\measuring-spoon.jpg",
       "audioLink": "measuring spoon.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un assouplisseur de viande est un outil ou une substance utilisée pour rendre la viande plus tendre et plus facile à mâcher.",
       "example": "Użyłem rozdrabniacza mięsa, aby zmiękczyć stek na obiad wczoraj wieczorem. Użyję go ponownie jutro, aby przygotować kurczaka na lunch. Do kolejnego tygodnia użyję go, aby zmiękczyć wołowinę na mój barbecue party.",
       "example_translation": "J'ai utilisé un assouplisseur de viande pour rendre le steak plus tendre pour le dîner hier soir. Je l'utiliserai à nouveau demain pour cuisiner du poulet pour le déjeuner. D'ici la semaine prochaine, j'aurai utilisé pour rendre le boeuf tendre pour ma fête de barbecue.",
-      "imageLink": "meat-tenderizer.jpg",
+      "imageLink": "image_files\\English\\meat-tenderizer.jpg",
       "audioLink": "meat tenderizer.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Hacher signifie couper ou hacher de la nourriture en très petits morceaux, généralement à l'aide d'une machine à hacher ou d'un couteau.",
       "example": "Drobniałem czosnek, aby dodać smaku do sosu wczoraj. Drobnię cebulę każdego dnia, aby dodać jej do mojej sałatki. Do następnego miesiąca drobniałem wiele warzyw, aby zrobić zdrową zupę.",
       "example_translation": "J'ai haché l'ail pour ajouter de la saveur à la sauce hier. Je hache des oignons tous les jours pour les ajouter à ma salade. D'ici le mois prochain, j'aurai haché beaucoup de légumes pour faire une soupe saine.",
-      "imageLink": "mincer.jpg",
+      "imageLink": "image_files\\English\\mincer.jpg",
       "audioLink": "mincer.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un mortier et pilon est un outil de cuisine utilisé pour broyer, mélanger et écraser des aliments et d'autres substances en une pâte fine ou en poudre.",
       "example": "Użyłem moździerza i tłuczka do mielenia przypraw dla przepisu-last week. Użyję go ponownie jutro, aby wymieszać składniki dla sosu. Do przyszłego roku będę używał go, aby rozdrabniać orzechy dla ciasta.",
       "example_translation": "J'ai utilisé un mortier et pilon pour broyer les épices pour la recette la semaine dernière. Je l'utiliserai à nouveau demain pour mélanger les ingrédients pour la sauce. D'ici l'an prochain, j'aurai utilisé pour écraser les noix pour le gâteau.",
-      "imageLink": "mortar-and-pestle.jpg",
+      "imageLink": "image_files\\English\\mortar-and-pestle.jpg",
       "audioLink": "mortar and pestle.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un casse-noix est un appareil ou un outil utilisé pour ouvrir les coquilles des noix, généralement des noix, des pacanes ou des noisettes.",
       "example": "Użyłem łupacza orzechów do łupania skorup orzechów włoskich dla sałatki wczoraj. Użyję go ponownie jutro, aby łupać skorupę pekanów dla tarty. Do przyszłego miesiąca będę używał go, aby łupać skorupę orzechów laskowych dla rozsmaku czekoladowego.",
       "example_translation": "J'ai utilisé un casse-noix pour ouvrir les noix pour la salade hier. Je l'utiliserai à nouveau demain pour ouvrir les pacanes pour la tarte. D'ici le mois prochain, j'aurai utilisé pour ouvrir les noisettes pour la pâte à tartiner au chocolat.",
-      "imageLink": "nutcracker.jpg",
+      "imageLink": "image_files\\English\\nutcracker.jpg",
       "audioLink": "nutcracker.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Une planche à pâtisserie est une surface plate et lisse utilisée pour rouler, couper et façonner la pâte lors de la fabrication de pâtisserie.",
       "example": "Ona używała deski do ciasta przez lata, a nadal wyglądała jak nowa. Wczoraj użyła deski do ciasta, aby zrobić przepyszny tart. Jutro będzie używać deski do ciasta, aby przygotować tort dla urodzin przyjaciela.",
       "example_translation": "Elle avait utilisé la planche à pâtisserie pendant des années, et elle avait encore l'air neuve. Hier, elle l'avait utilisée pour faire une tarte délicieuse. Demain, elle l'utilisera pour préparer un gâteau pour l'anniversaire de son amie.",
-      "imageLink": "pastry-board.jpg",
+      "imageLink": "image_files\\English\\pastry-board.jpg",
       "audioLink": "pastry board.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Une éplucheuse est un outil de cuisine utilisé pour enlever la peau des fruits et légumes.",
       "example": "Użyła obieraczki, aby usunąć skórkę z marchwi przed ich pokrojeniem. Jej matka nauczyła ją, jak używać obieraczki, kiedy była dzieckiem. Teraz będzie używać obieraczki, aby przygotować sałatkę na obiad.",
       "example_translation": "Elle a utilisé une éplucheuse pour enlever la peau des carottes avant de les hacher. Sa mère lui avait appris à utiliser une éplucheuse lorsqu'elle était enfant. Maintenant, elle l'utilisera pour préparer une salade pour dîner.",
-      "imageLink": "peeler.jpg",
+      "imageLink": "image_files\\English\\peeler.jpg",
       "audioLink": "peeler.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Un moulin à poivre est un outil de cuisine utilisé pour broyer les grains de poivre en poivre.",
       "example": "Potrzebował uzupełnić swój młynek do pieprzu przed gotowaniem kolacji. Jego dziadek dał mu młynek do pieprzu jako prezent. Jutro będzie używać go, aby przyprawić stek.",
       "example_translation": "Il devait remplir son moulin à poivre avant de cuisiner le dîner. Son grand-père lui avait donné le moulin à poivre en cadeau. Demain, il l'utilisera pour assaisonner son steak.",
-      "imageLink": "pepper-mill.jpg",
+      "imageLink": "image_files\\English\\pepper-mill.jpg",
       "audioLink": "pepper mill.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Une poche à douille est un sac utilisé pour contenir et dispenser du glaçage ou d'autres aliments mous, généralement à travers un tube étroit.",
       "example": "Nigdy nie używała torby do szpryca przed, ale była zdeterminowana, aby udekorować tort idealnie. Jej siostra nauczyła ją, jak używać torby do szpryca, kiedy była nastolatką. Następnym tygodniu będzie używać torby do szpryca, aby zrobić ciasteczka.",
       "example_translation": "Elle n'avait jamais utilisé de poche à douille auparavant, mais elle était déterminée à décorer le gâteau parfaitement. Sa sœur lui avait appris à utiliser une poche à douille lorsqu'elle était adolescente. La semaine prochaine, elle l'utilisera pour faire des biscuits.",
-      "imageLink": "piping-bag.jpg",
+      "imageLink": "image_files\\English\\piping-bag.jpg",
       "audioLink": "piping bag.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Un ustensile de cuisine utilisé pour aplatir et façonner la pâte, généralement fait de bois, de métal ou de silicone, avec une forme cylindrique ou conique.",
       "example": "Wzięła wałek do ciasta z szafy, aby zrobić kruchą skorupkę. Wczoraj wałkiem do ciasta rolowała ciasto. Jutro będzie używać wałka do ciasta, aby zrobić quiche.",
       "example_translation": "Elle a pris la roulette à pâtisserie dans le placard pour faire une croûte de tarte. Hier, elle a étalé la pâte avec une roulette à pâtisserie. Demain, elle utilisera une roulette à pâtisserie pour faire une quiche.",
-      "imageLink": "rolling-pin.jpg",
+      "imageLink": "image_files\\English\\rolling-pin.jpg",
       "audioLink": "rolling pin.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Un meuble, généralement un cabinet bas ou une étagère, utilisé pour stocker et afficher des plats, des linges et d'autres objets ménagers.",
       "example": "Szafa bufetowa w jadalni była wypełniona pięknymi naczyniami. W zeszłym tygodniu wygładziła szafę bufetową. Następnym miesiącu będą kupować nową szafę bufetową dla swojego salonu.",
       "example_translation": "Le buffet dans la salle à manger était rempli de porcelaine fine. La semaine dernière, elle a nettoyé le buffet. Le mois prochain, ils acheteront un nouveau buffet pour leur salon.",
-      "imageLink": "sideboard.jpg",
+      "imageLink": "image_files\\English\\sideboard.jpg",
       "audioLink": "sideboard.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Un ustensile de cuisine avec un fond en maille ou perforé, utilisé pour séparer les particules solides de tailles différentes, notamment pour la farine ou d'autres poudres.",
       "example": "Użyła sitka, aby przesiać mąkę. Wczoraj on użył sitka, aby oddzielić ziarna. Jutro będą używać sitka, aby osuszyć makaron.",
       "example_translation": "Elle a utilisé un tamis pour passer la farine. Hier, il a utilisé un tamis pour séparer les grains. Demain, ils utiliseront un tamis pour égoutter les pâtes.",
-      "imageLink": "sieve.jpg",
+      "imageLink": "image_files\\English\\sieve.jpg",
       "audioLink": "sieve.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Un contenant ou une étagère utilisée pour stocker et organiser les épices, les herbes et autres aromates dans une cuisine.",
       "example": "Układała stojak na przyprawy w porządku alfabetycznym. W zeszłym roku ojciec kupił stojak na przyprawy dla żony. Następnym tygodniu będą instalować nowy stojak na przyprawy w swojej kuchni.",
       "example_translation": "Elle a organisé l'étagère à épices dans l'ordre alphabétique. L'année dernière, il a acheté une étagère à épices pour sa femme. La semaine prochaine, ils installeront une nouvelle étagère à épices dans leur cuisine.",
-      "imageLink": "spice-rack.jpg",
+      "imageLink": "image_files\\English\\spice-rack.jpg",
       "audioLink": "spice rack.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Une cuillère utilisée pour déguster les aliments pendant qu'ils sont cuisinés, généralement une petite cuillère avec un manche long.",
       "example": "Użyłem łyżki próbowej, aby sprawdzić przyprawę zupy. Wczoraj, musiałem użyć łyżki próbowej, aby dostosować smak sosu. Do następnego tygodnia, będę musiał użyć łyżki próbowej, aby spróbować nowego przepisu.",
       "example_translation": "J'ai utilisé une cuillère de dégustation pour vérifier l'assaisonnement de la soupe. Hier, j'ai dû utiliser une cuillère de dégustation pour ajuster la saveur de la sauce. D'ici la semaine prochaine, je devrai utiliser une cuillère de dégustation pour goûter la nouvelle recette.",
-      "imageLink": "tasting-spoon.jpg",
+      "imageLink": "image_files\\English\\tasting-spoon.jpg",
       "audioLink": "tasting spoon.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Un appareil qui mesure le temps, notamment celui qui peut être réglé pour éteindre un appareil ou avertir quelqu'un après une période déterminée.",
       "example": "Ustawiłem timer, aby przypomnieć mi o wyjęciu ciasta z pieca. Wczoraj, zapomniałem ustawić timer i ciasteczka się spaliły. Do jutra, będę musiał ustawić timer, aby upewnić się, że mięso jest odpowiednio ugotowane.",
       "example_translation": "J'ai réglé le minuteur pour me rappeler de sortir le gâteau du four. Hier, j'ai oublié de régler le minuteur et les biscuits ont brûlé. D'ici demain, je devrai régler le minuteur pour m'assurer que la viande est cuite correctement.",
-      "imageLink": "timer.jpg",
+      "imageLink": "image_files\\English\\timer.jpg",
       "audioLink": "timer.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un outil de cuisine utilisé pour mélanger et mixer les aliments, consistant en un manche avec une série de boucles en fil de fer à l'extrémité.",
       "example": "Użyłem szpatułki, aby ubić jajka i cukier razem. Wczoraj, musiałem użyć szpatułki, aby wymieszać ciasto na tort. Do następnego weekendu, będę musiał użyć szpatułki, aby przygotować szczyptę do ciasteczek.",
       "example_translation": "J'ai utilisé un fouet pour battre les œufs et le sucre ensemble. Hier, j'ai dû utiliser un fouet pour mélanger la pâte pour le gâteau. D'ici le week-end prochain, je devrai utiliser un fouet pour préparer le glaçage pour les biscuits.",
-      "imageLink": "whisk.jpg",
+      "imageLink": "image_files\\English\\whisk.jpg",
       "audioLink": "whisk.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Une surface dans une cuisine ou un laboratoire où le travail est effectué, souvent faite d'un matériau dur comme le bois, le granit ou l'acier inoxydable.",
       "example": "Muszę oczyścić blat roboczy, aby zrobić miejsce dla nowych urządzeń kuchennych. Wczoraj, musiałem wyczyścić blat roboczy po przygotowaniu posiłku. Do następnego miesiąca, będę musiał zainstalować nowe blaty robocze w laboratorium.",
       "example_translation": "J'ai besoin de dégager le plan de travail pour faire place aux nouveaux appareils de cuisine. Hier, j'ai dû nettoyer le plan de travail après avoir préparé le repas. D'ici le mois prochain, je devrai installer de nouveaux plans de travail dans le laboratoire.",
-      "imageLink": "worktop.jpg",
+      "imageLink": "image_files\\English\\worktop.jpg",
       "audioLink": "worktop.mp3"
     }
   ]

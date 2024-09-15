@@ -9,7 +9,7 @@
       "definition_translation": "Ayant une température basse; frais ou glacé; inconfortable au toucher ou à être dedans",
       "example": "Czułem zimno zimą, byłam zimno wczoraj, będę zimno jutro.",
       "example_translation": "J'ai senti froid en hiver, j'étais froid hier, je serai froid demain.",
-      "imageLink": "cold-1.jpg",
+      "imageLink": "image_files\\English\\cold-1.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Ayant une température basse; frais ou glacé; inconfortable au toucher ou à être dedans",
       "example": "Zimna woda była orzeźwiająca, byłam zimno cały dzień, będę zimno, gdy wyjdę na zewnątrz.",
       "example_translation": "L'eau froide était rafraîchissante, j'ai été froid toute la journée, je vais avoir froid si je reste dehors.",
-      "imageLink": "cold-3.jpg",
+      "imageLink": "image_files\\English\\cold-3.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ayant une température élevée; chaud ou chauffé; inconfortable au toucher ou à être dedans",
       "example": "Czułem gorąco latem, byłam gorąco wczoraj, będę gorąco jutro.",
       "example_translation": "J'ai senti chaud en été, j'étais chaud hier, je serai chaud demain.",
-      "imageLink": "hot-2.jpg",
+      "imageLink": "image_files\\English\\hot-2.jpg",
       "audioLink": "hot.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Humidité qui tombe du ciel en gouttes d'eau; précipitation sous forme de gouttes d'eau",
       "example": "Wczoraj padał deszcz, pada często wiosną, pada będzie jutro.",
       "example_translation": "Il a plu fortement hier, il pleut souvent au printemps, il pleuvra demain.",
-      "imageLink": "rain.jpg",
+      "imageLink": "image_files\\English\\rain.jpg",
       "audioLink": "rain.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "La neige est un phénomène météorologique naturel caractérisé par la chute de cristaux de glace blancs du ciel.",
       "example": "Wczoraj szłam po śniegu, dzisiaj szłam po śniegu, a jutro pójdę po śniegu.",
       "example_translation": "J'ai marché dans la neige hier, je marche dans la neige aujourd'hui, et je marcherai dans la neige demain.",
-      "imageLink": "snow.jpg",
+      "imageLink": "image_files\\English\\snow.jpg",
       "audioLink": "snow.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "L'été est la saison la plus chaude de l'année, caractérisée par des jours longs et des températures élevées.",
       "example": "Pływałem w oceanie latem, pływam obecnie w oceanie, a pływać będę w oceanie następnym latem.",
       "example_translation": "J'ai nagé dans l'océan l'été dernier, je nage dans l'océan cet été, et je nagerai dans l'océan l'été prochain.",
-      "imageLink": "summer.jpg",
+      "imageLink": "image_files\\English\\summer.jpg",
       "audioLink": "summer.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Le soleil est l'étoile au centre du système solaire, fournissant de la lumière et de la chaleur à la Terre.",
       "example": "Widziałem wschód słońca rano, widzę słońce teraz, a zobaczę zachód słońca wieczorem.",
       "example_translation": "J'ai vu le soleil se lever ce matin, je vois le soleil briller maintenant, et je verrai le soleil se coucher ce soir.",
-      "imageLink": "sun.jpg",
+      "imageLink": "image_files\\English\\sun.jpg",
       "audioLink": "sun.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Chaud signifie une température confortable ou agréable, ni chaude ni froide.",
       "example": "Czułem ciepło latem, czuję ciepło teraz, a będę czuł ciepło jutro.",
       "example_translation": "J'ai_senti chaud l'été, je sens chaud maintenant, et je sentirai chaud demain.",
-      "imageLink": "warm-1.jpg",
+      "imageLink": "image_files\\English\\warm-1.jpg",
       "audioLink": "warm.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "L'état de l'atmosphère à un endroit et à un moment donné, y compris la température, l'humidité, la nuageuse, le vent et les précipitations.",
       "example": "Pogoda była ładna wczoraj, ale pada będzie jutro. Pogoda była zimna zimą. Mam nadzieję, że pogoda będzie słoneczna następnim latem.",
       "example_translation": "Le temps était agréable hier, mais il pleuvra demain. Le temps était froid l'hiver dernier. J'espère que le temps sera ensoleillé l'été prochain.",
-      "imageLink": "weather.jpg",
+      "imageLink": "image_files\\English\\weather.jpg",
       "audioLink": "weather.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un mouvement naturel d'air dans l'atmosphère, en particulier un mouvement fort ou violent.",
       "example": "Wiatr wiał silnie wczoraj. Wiatr wiał łagodnie latem. Lubię żeglować przy silnym wietrze.",
       "example_translation": "Le vent soufflait fortement hier. Le vent souffle doucement en été. J'aime naviguer dans un vent fort.",
-      "imageLink": "wind.jpg",
+      "imageLink": "image_files\\English\\wind.jpg",
       "audioLink": "wind.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "La saison de l'année entre l'automne et le printemps, caractérisée par le froid et (dans l'hémisphère nord) les jours les plus courts de l'année.",
       "example": "Uwielbiam narciarstwo w zimie. Zima nadchodzi wkrótce. Nienawidzę zimnych poranków.",
       "example_translation": "J'aime skier en hiver. L'hiver arrive bientôt. Je déteste les matins d'hiver froids.",
-      "imageLink": "winter.jpg",
+      "imageLink": "image_files\\English\\winter.jpg",
       "audioLink": "winter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Une masse visible de gouttes d'eau ou de cristaux de glace dans le ciel, généralement blanche ou grise.",
       "example": "Widzę wiele chmur na niebie dzisiaj. Chmura przysłoniła słońce wczoraj. Zobaczyłem piękną formację chmur w zeszłym tygodniu.",
       "example_translation": "Il y a de nombreux nuages dans le ciel aujourd'hui. Le nuage a bloqué le soleil hier. J'ai vu une belle formation de nuages la semaine dernière.",
-      "imageLink": "cloud.jpg",
+      "imageLink": "image_files\\English\\cloud.jpg",
       "audioLink": "cloud.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "ayant un ciel avec une grande proportion de nuage, plutôt que d'être clair et ensoleillé",
       "example": "Wczoraj był pochmurny, więc nie poszliśmy na plażę. Dzisiaj jest pochmurny, więc zostajemy w domu. Jutro będzie pochmurny, więc obejrzymy film.",
       "example_translation": "Hier, il était nuageux, donc nous n'avons pas été à la plage. Aujourd'hui, il est nuageux, donc nous restons à la maison. Demain sera nuageux, donc nous allons regarder un film.",
-      "imageLink": "cloudy.jpg",
+      "imageLink": "image_files\\English\\cloudy.jpg",
       "audioLink": "cloudy.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "une masse nuageuse de petites gouttes d'eau suspendues dans l'air près du sol, réduisant la visibilité",
       "example": "Mgła była tak gęsta, że musieliśmy zwolnić podczas jazdy. Mgła rozpraszała się, i mogliśmy zobaczyć miasto. Mgła ponownie zapanuje w nocy.",
       "example_translation": "Le brouillard était tellement épais que nous devions ralentir en conduisant. Le brouillard s'est dissipé, et nous avons pu voir la ville. Le brouillard reviendra ce soir.",
-      "imageLink": "fog.jpg",
+      "imageLink": "image_files\\English\\fog.jpg",
       "audioLink": "fog.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "ayant ou caractérisé par le brouillard",
       "example": "Mgielny poranek utrudniał widoczność drogi. Mgielna pogoda była idealna do spaceru. Mgielna noc sprawi, że będzie trudno się orientować.",
       "example_translation": "Le matin brumeux rendait difficile de voir la route. Le temps brumeux était parfait pour une promenade. La nuit brumeuse rendra difficile de naviguer.",
-      "imageLink": "foggy.jpg",
+      "imageLink": "image_files\\English\\foggy.jpg",
       "audioLink": "foggy.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "une substance solide, transparente et fragile formée à partir de l'eau, utilisée pour refroidir les boissons ou les aliments",
       "example": "Dajemy lód do napojów, żeby były zimne. Lód szybko topniał w słońcu. Będziemy potrzebować więcej lodu na przyjęciu wieczorem.",
       "example_translation": "Nous avons mis de la glace dans nos boissons pour les garder froides. La glace a fondu rapidement au soleil. Nous aurons besoin de plus de glace pour la soirée ce soir.",
-      "imageLink": "ice-1.jpg",
+      "imageLink": "image_files\\English\\ice-1.jpg",
       "audioLink": "ice.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "La saison de l'année entre l'hiver et l'été, pendant laquelle le temps devient plus chaud et les plantes commencent à pousser.",
       "example": "Uwielbiałem bawić się na dworze w wiośnie, kiedy byłam dzieckiem. Gram w piłkę nożną w lidze wiosennej. Będę sadził ogród w wiośnie przyszłego roku.",
       "example_translation": "J'aimais jouer dehors au printemps lorsque j'étais gosse. Je joue au football dans la ligue de printemps maintenant. Je planterai un jardin au printemps l'an prochain.",
-      "imageLink": "spring.jpg",
+      "imageLink": "image_files\\English\\spring.jpg",
       "audioLink": "spring.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Une condition météorologique sévère caractérisée par des vents forts, des précipitations abondantes et souvent du tonnerre et des éclairs.",
       "example": "Burza uszkodziła dach naszego domu wczoraj. Przygotowuję się do burzy, która nadchodzi dziś wieczorem. Burza wkrótce minie, a słońce wyjdzie.",
       "example_translation": "L'orage a endommagé notre toit hier soir. Je me prépare pour l'orage qui arrive ce soir. L'orage passera bientôt et le soleil sortira.",
-      "imageLink": "storm.jpg",
+      "imageLink": "image_files\\English\\storm.jpg",
       "audioLink": "storm.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Ayant beaucoup de soleil ; chaud et lumineux.",
       "example": "Uwielbiam spacerować w słoneczne dni. Pogoda słoneczna sprawia, że jestem szczęśliwy. Będziemy mieli wakacje słoneczne w lipcu.",
       "example_translation": "J'aime marcher les jours ensoleillés. Le temps ensoleillé me rend heureux. Nous aurons des vacances ensoleillées en juillet.",
-      "imageLink": "sunny.jpg",
+      "imageLink": "image_files\\English\\sunny.jpg",
       "audioLink": "sunny.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un orage avec de la pluie abondante, du tonnerre et des éclairs.",
       "example": "Boję się burz z piorunami. Mieliśmy ciężką burzę z piorunami w zeszłym tygodniu. Burza z piorunami wkrótce minie, a niebo wyjdzie czyste.",
       "example_translation": "J'ai peur des orages de tonnerre. Nous avons eu un orage de tonnerre sévère la semaine dernière. L'orage de tonnerre passera bientôt et le ciel sera clair.",
-      "imageLink": "thunderstorm-1.jpg",
+      "imageLink": "image_files\\English\\thunderstorm-1.jpg",
       "audioLink": "thunderstorm.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Couvert ou saturé d'eau ou d'un autre liquide.",
       "example": "Pies był mokry po zabawie w deszczu. Wczoraj był mokry po pływaniu w jeziorze. Jutro będzie mokry z rannego rosníku.",
       "example_translation": "Le chien était humide après avoir joué sous la pluie. Hier, il était humide après avoir nagé dans le lac. Demain, il sera humide à cause de la rosée du matin.",
-      "imageLink": "wet.jpg",
+      "imageLink": "image_files\\English\\wet.jpg",
       "audioLink": "wet.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Ayant un vent fort ; caractérisé par ou provoquant un courant d'air fort.",
       "example": "Dzień był wietrzny, więc musieliśmy trzymać się kapeluszy. Miasto było wietrzne, kiedy odwiedziliśmy w zeszłym roku. W przyszłym tygodniu będzie wietrzne, kiedy nadejdzie burza.",
       "example_translation": "Le jour était venté, donc nous avons dû nous accrocher à nos chapeaux. La ville était ventée lorsque nous avons visité l'année dernière. La semaine prochaine, ce sera venté lorsque la tempête arrivera.",
-      "imageLink": "windy.jpg",
+      "imageLink": "image_files\\English\\windy.jpg",
       "audioLink": "windy.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Produire un courant d'air ; exhale ou inhale de l'air.",
       "example": "Wiatr zaczął wieść mocno. Wczoraj wentylator wieść gorące powietrze. Jutro suszarka do włosów będzie wiać chłodne powietrze.",
       "example_translation": "Le vent a commencé à souffler fort. Hier, le ventilateur soufflait de l'air chaud. Demain, le séchoir à cheveux soufflera de l'air frais.",
-      "imageLink": "blow.jpg",
+      "imageLink": "image_files\\English\\blow.jpg",
       "audioLink": "blow.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un vent léger, especially un agréable.",
       "example": "Ciepła bryza na plaży sprawiła, że czuliśmy się wspaniale. Wczoraj lekka bryza ruszyła liście. Jutro bryza będzie docierać z porannym słońcem.",
       "example_translation": "La brise chaude sur la plage était incroyable. Hier, une brise légère a fait remuer les feuilles. Demain, une brise fraîche viendra avec le soleil du matin.",
-      "imageLink": "breeze.jpg",
+      "imageLink": "image_files\\English\\breeze.jpg",
       "audioLink": "breeze.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "une forme d'énergie qui est transférée par une différence de température",
       "example": "Ciepło ze słońca ogrzewało Ziemię, ogrzewa je teraz i będzie ogrzewało w przyszłości.",
       "example_translation": "La chaleur du soleil a réchauffé la Terre, elle la réchauffe maintenant, et elle la réchauffera à l'avenir.",
-      "imageLink": "heat.jpg",
+      "imageLink": "image_files\\English\\heat.jpg",
       "audioLink": "heat.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "un éclair brillant d'électricité dans l'atmosphère, généralement accompagné de tonnerre",
       "example": "Błyskawica oświetliła ciemne niebo, oświetla je teraz i będzie oświetlać w przyszłości.",
       "example_translation": "L'éclair a éclairé le ciel sombre, il l'éclaire maintenant, et il l'éclairera à l'avenir.",
-      "imageLink": "lightning.jpg",
+      "imageLink": "image_files\\English\\lightning.jpg",
       "audioLink": "lightning.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "chacune des quatre périodes de l'année, caractérisées par des modèles de temps différents",
       "example": "Sezon zimy był zimny, jest zimny teraz i będzie zimny w przyszłości.",
       "example_translation": "La saison d'hiver était froide, elle est froide maintenant, et elle sera froide à l'avenir.",
-      "imageLink": "season.jpg",
+      "imageLink": "image_files\\English\\season.jpg",
       "audioLink": "season.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "le moment du matin où le soleil apparaît au-dessus de l'horizon",
       "example": "Wszechód słońca był piękny wczoraj, jest piękny dzisiaj i będzie piękny jutro.",
       "example_translation": "Le lever du soleil était beau hier, il est beau aujourd'hui, et il sera beau demain.",
-      "imageLink": "sunrise.jpg",
+      "imageLink": "image_files\\English\\sunrise.jpg",
       "audioLink": "sunrise.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Le moment du soir où le soleil disparaît en-dessous de l'horizon, souvent entraînant un spectacle de ciel coloré.",
       "example": "Obserwowałem zachód słońca na plaży z przyjaciółmi. Obserwowaliśmy zachód słońca dzień wcześniej. Będziemy obserwować zachód słońca ponownie jutro.",
       "example_translation": "J'ai regardé le coucher de soleil sur la plage avec mes amis. Nous avions regardé le coucher de soleil la veille. Nous regarderons le coucher de soleil à nouveau demain.",
-      "imageLink": "sunset.jpg",
+      "imageLink": "image_files\\English\\sunset.jpg",
       "audioLink": "sunset.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "La lumière chaude et brillante du soleil, notamment lorsqu'il brille à travers les nuages.",
       "example": "Słoneczne światło wpadające przez okno rozjaśniło pokój. Cieszyliśmy się słonecznym światłem podczas pikniku. Będziemy się cieszyć słonecznym światłem na naszej następnej wakacji.",
       "example_translation": "L'ensoleillement qui entrait par la fenêtre a éclairé la pièce. Nous avions apprécié l'ensoleillement pendant notre pique-nique. Nous nous délasserons à l'ensoleillement lors de notre prochaine vacance.",
-      "imageLink": "sunshine.jpg",
+      "imageLink": "image_files\\English\\sunshine.jpg",
       "audioLink": "sunshine.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un bruit fort et grondant qui accompagne la foudre, généralement pendant une tempête.",
       "example": "Bałem się gromu podczas burzy. Słyszeliśmy grom wczoraj wieczorem. Będziemy słyszeć grom znowu podczas następnej burzy.",
       "example_translation": "J'étais effrayé par le tonnerre pendant la tempête. Nous avions entendu le tonnerre la nuit dernière. Nous entendrons le tonnerre à nouveau pendant la prochaine tempête.",
-      "imageLink": "thunder.jpg",
+      "imageLink": "image_files\\English\\thunder.jpg",
       "audioLink": "thunder.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "La lumière du jour, par opposition à l'obscurité ou à la lumière artificielle.",
       "example": "Wolę spacerować w świetle dnia. Wczoraj grałem na zewnątrz w świetle dnia. Będziemy cieszyć się światłem dnia podczas naszej porannej wycieczki.",
       "example_translation": "Je préfère prendre une promenade en jour. Nous avions joué dehors en jour hier. Nous allons apprécier le jour pendant notre randonnée matinale.",
-      "imageLink": "daylight.jpg",
+      "imageLink": "image_files\\English\\daylight.jpg",
       "audioLink": "daylight.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Un ouragan est un type de cyclone tropical qui se forme sur les eaux chaudes de l'océan Atlantique, de la mer des Caraïbes et du golfe du Mexique.",
       "example": "Huragan uderzył w wybrzeże wczoraj wieczorem, powodując szerokie zniszczenia. Będzie następnie udawał się w głąb lądu jutro, przynosząc obfite opady deszczu. Do przyszłego tygodnia będzie się rozpraszał.",
       "example_translation": "L'ouragan a frappé la côte hier soir, causant des dégâts généralisés. Il touchera à nouveau terre demain, et il est attendu qu'il apporte des précipitations abondantes. D'ici une semaine, il aura disparu.",
-      "imageLink": "hurricane.jpg",
+      "imageLink": "image_files\\English\\hurricane.jpg",
       "audioLink": "hurricane.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Le clair de lune est la lumière douce et argentée qui est réfléchie sur la surface de la Terre par la Lune.",
       "example": "Para udawała się na romantyczny spacer po plaży oświetlonej światłem księżycowym. Tańczyliśmy w świetle księżycowym na naszym weselu ubiegłego roku. Do przyszłego roku będą mieli dom z pięknym widokiem na światło księżycowe.",
       "example_translation": "Le couple a fait une promenade romantique sur la plage sous le clair de lune. Ils ont dansé sous le clair de lune à leur réception de mariage l'année dernière. D'ici l'année prochaine, ils auront construit une maison avec une belle vue sur le clair de lune.",
-      "imageLink": "moonlight.jpg",
+      "imageLink": "image_files\\English\\moonlight.jpg",
       "audioLink": "moonlight.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un arc-en-ciel est un phénomène naturel beau qui se produit lorsque la lumière du soleil traverse des gouttes d'eau dans l'air.",
       "example": "Tęcza pojawiła się na niebie po ulewnym deszczu. Widziałem podwójną tęczę przy wodospadzie tydzień temu. Do przyszłego lata będę widział tęczę w każdym kraju, który odwiedzę.",
       "example_translation": "L'arc-en-ciel est apparu dans le ciel après la tempête de pluie. J'ai vu un arc-en-ciel double à la cascade la semaine dernière. D'ici l'été prochain, j'aurai vu un arc-en-ciel dans chaque pays que je visite.",
-      "imageLink": "rainbow.jpg",
+      "imageLink": "image_files\\English\\rainbow.jpg",
       "audioLink": "rainbow.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Les précipitations sont la quantité de pluie qui tombe sur une zone pendant une certaine période de temps.",
       "example": "Opad deszczu w tym regionie jest bardzo wysoki podczas sezonu monsunowego. Kraj doświadczył obfitego opadu deszczu ubiegłego roku, powodując powodzi. Do przyszłego roku opad deszczu ma się zmniejszyć z powodu zmian klimatu.",
       "example_translation": "Les précipitations dans cette région sont très élevées pendant la saison des moussons. Le pays a connu des précipitations abondantes l'année dernière, causant des inondations. D'ici l'année prochaine, les précipitations devraient diminuer en raison du changement climatique.",
-      "imageLink": "rainfall.jpg",
+      "imageLink": "image_files\\English\\rainfall.jpg",
       "audioLink": "rainfall.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Caractérisé ou causant une perturbation de l'atmosphère, notamment avec des vents forts et des pluies abondantes.",
       "example": "Pogoda burzliwa uniemożliwiła nam udanie się na plażę, ale pójdziemy tam jutro, jeśli się oczyści, i byliśmy tam tydzień temu, kiedy było słonecznie.",
       "example_translation": "Le temps orageux nous a empêchés d'aller à la plage, mais nous irons demain si le temps se dégage, et nous sommes allés la semaine dernière lorsque le soleil brillait.",
-      "imageLink": "stormy.jpg",
+      "imageLink": "image_files\\English\\stormy.jpg",
       "audioLink": "stormy.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "La lumière du soleil, en particulier lorsque elle brille à travers l'atmosphère.",
       "example": "Siedzieliśmy w ogrodzie, ciesząc się ciepłym światłem słonecznym, i będziemy to robić znów jutro rano, ale wczoraj było pochmurno.",
       "example_translation": "Nous nous sommes assis dans le jardin, nous délectant de la chaude lumière du soleil, et nous le ferons à nouveau demain matin, mais hier il y avait des nuages.",
-      "imageLink": "sunlight.jpg",
+      "imageLink": "image_files\\English\\sunlight.jpg",
       "audioLink": "sunlight.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "L'heure du jour immédiatement suivant le coucher du soleil, caractérisée par une lumière diffusée et assourdie.",
       "example": "Udaliśmy się na spacer wieczorem, podczas zmierzchu, i będziemy to robić znów jutro wieczorem, ale wczoraj było ciemno, kiedy wróciliśmy do domu.",
       "example_translation": "Nous avons fait une promenade pendant le crépuscule, et nous le ferons à nouveau demain soir, mais hier il faisait nuit sombre lorsque nous sommes rentrés à la maison.",
-      "imageLink": "twilight.jpg",
+      "imageLink": "image_files\\English\\twilight.jpg",
       "audioLink": "twilight.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un violent blizzard, notamment avec des vents forts et des chutes de neige abondantes.",
       "example": "Zostaliśmy uwięzieni w śnieżnej zawiei w drodze do domu, i będziemy bardziej ostrożni jutro, ale tydzień temu pogoda była łagodna.",
       "example_translation": "Nous nous sommes retrouvés bloqués dans un blizzard sur notre route du retour, et nous serons plus prudents demain, mais la semaine dernière le temps était doux.",
-      "imageLink": "blizzard.jpg",
+      "imageLink": "image_files\\English\\blizzard.jpg",
       "audioLink": "blizzard.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Une période prolongée de temps anormalement chaud, notamment pendant l'été.",
       "example": "Fala upału w zeszłym roku była nieznośna, a wiele osób cierpiało z powodu udaru cieplnego. W tym roku spodziewamy się fali upału, która pobiwszy wszystkie rekordy. Do przyszłego tygodnia fala upału będzie już za nami, a pogoda powróci do normy.",
       "example_translation": "La canicule de l'année dernière était insupportable, et beaucoup de personnes ont souffert de coup de chaleur. Cette été, nous attendons une canicule qui brisera tous les records. D'ici la semaine prochaine, la canicule aura passé, et le temps reviendra à la normale.",
-      "imageLink": "heatwave.jpg",
+      "imageLink": "image_files\\English\\heatwave.jpg",
       "audioLink": "heatwave.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Une période prolongée de pluies anormalement faibles, entraînant une pénurie d'eau.",
       "example": "Susza w zeszłym roku mocno wpłynęła na plony, a wiele rolników straciło źródło utrzymania. W tym roku doświadczamy ciężkiej suszy, która zmusiła rząd do wprowadzenia ograniczeń wodnych. Do przyszłego roku susza będzie już za nami, a plony będą rosły ponownie.",
       "example_translation": "La sécheresse de l'année dernière a affecté les cultures de manière sévère, et beaucoup de fermiers ont perdu leur moyen de subsistance. Cette année, nous faisons face à une sécheresse sévère qui a forcé le gouvernement à instaurer des restrictions d'eau. D'ici l'année prochaine, la sécheresse aura pris fin, et les cultures repousseront à nouveau.",
-      "imageLink": "drought.jpg",
+      "imageLink": "image_files\\English\\drought.jpg",
       "audioLink": "drought.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "De petites boules de glace qui tombent du ciel pendant une tempête.",
       "example": "Burza gradu w zeszłym tygodniu uszkodziła przednią szybę samochodu, a musieliśmy ją wymienić. W tej pozycji prognozuje się burzę gradu, a my musimy się schronić. Do jutra burza gradu będzie już za nami, a słońce będzie świecić ponownie.",
       "example_translation": "La tempête de grêle de la semaine dernière a endommagé le pare-brise de la voiture, et nous avons dû le remplacer. Cet après-midi, une tempête de grêle est prévue, et nous devons nous abriter. Demain, la tempête de grêle aura passé, et le soleil brillera à nouveau.",
-      "imageLink": "hail-1.jpg",
+      "imageLink": "image_files\\English\\hail-1.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "De petites boules de glace qui tombent du ciel pendant une tempête.",
       "example": "Burza gradu w zeszłym tygodniu uszkodziła przednią szybę samochodu, a musieliśmy ją wymienić. W tej pozycji prognozuje się burzę gradu, a my musimy się schronić. Do jutra burza gradu będzie już za nami, a słońce będzie świecić ponownie.",
       "example_translation": "La tempête de grêle de la semaine dernière a endommagé le pare-brise de la voiture, et nous avons dû le remplacer. Cet après-midi, une tempête de grêle est prévue, et nous devons nous abriter. Demain, la tempête de grêle aura passé, et le soleil brillera à nouveau.",
-      "imageLink": "hail.jpg",
+      "imageLink": "image_files\\English\\hail.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un petit élément de glace qui se forme dans les nuages cumulonimbus et tombe au sol pendant un orage.",
       "example": "Gradziny uszkodziły plony podczas burzy. Wczoraj gradzina uderzyła w okno mojego samochodu. Jutro upewniam się, że zaparkuję samochód w bezpiecznym miejscu, aby uniknąć gradzin.",
       "example_translation": "Les grélons ont endommagé les cultures pendant la tempête. Hier, un grêlon a frappé la vitre de ma voiture. Demain, je vais prendre soin de garer ma voiture dans un endroit sûr pour éviter les grélons.",
-      "imageLink": "hailstone.jpg",
+      "imageLink": "image_files\\English\\hailstone.jpg",
       "audioLink": "hailstone.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un orage qui produit de la grêle, caractérisé par des vents forts, des précipitations abondantes et un tonnerre assourdissant.",
       "example": "Burza gradu spowodowała szkody na dużą skalę w mieście. W zeszłym roku mieliśmy ciężką burzę gradu, która uszkodziła nasz dach. Przyszłego lata będziemy gotowi na sezon burz gradu.",
       "example_translation": "L'orage de grêle a causé des dégâts généralisés dans la ville. L'an dernier, nous avons eu un orage de grêle sévère qui a endommagé notre toit. L'été prochain, nous serons prêts pour la saison des orages de grêle.",
-      "imageLink": "hailstorm.jpg",
+      "imageLink": "image_files\\English\\hailstorm.jpg",
       "audioLink": "hailstorm.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Une colonne d'air qui tourne rapidement qui se forme pendant un orage, caractérisée par des vitesses de vent élevées et une puissance destructrice.",
       "example": "Trzmiel przeszedł przez miasto, powodując chaos. Wczoraj obejrzałem trzmiel, który zniszczył kilka budynków. W przyszłości będziemy musieli być przygotowani na trzmiele takie jak ten.",
       "example_translation": "Le tourbillon a balayé la ville, causant le chaos. Hier, j'ai été témoin d'un tourbillon qui a détruit plusieurs bâtiments. Dans l'avenir, nous devrons être prêts pour les tourbillons comme celui-là.",
-      "imageLink": "whirlwind.jpg",
+      "imageLink": "image_files\\English\\whirlwind.jpg",
       "audioLink": "whirlwind.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Une chute lente et régulière de pluie, caractérisée par de petites gouttes d'eau qui tombent du ciel.",
       "example": "Mżawka uczyniła spacer bardzo nieprzyjemnym. W zeszłym tygodniu padało mżawką przez cały dzień. Jutro mam nadzieję, że nie będzie padać mżawki podczas pikniku.",
       "example_translation": "La bruine a rendu la promenade très désagréable. La semaine dernière, il bruinait toute la journée. Demain, j'espère que ça ne bruinera pas pendant mon pique-nique.",
-      "imageLink": "drizzle.jpg",
+      "imageLink": "image_files\\English\\drizzle.jpg",
       "audioLink": "drizzle.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un vent fort qui soulève de grandes quantités de poussière et de sable, réduisant la visibilité et pouvant ocasiner des problèmes respiratoires.",
       "example": "Miasto zostało trafione przez wielką szortalem wczoraj, Mieszkańcy doświadczają szortalów przez tydzień, a ciężka szortal jest przewidywana przez jutro.",
       "example_translation": "La ville a été frappée par une tempête de poussière massive hier, Les résidents connaissent des tempêtes de poussière depuis des semaines maintenant, et une tempête de poussière sévère est prévue pour frapper la ville demain.",
-      "imageLink": "dust-storm.jpg",
+      "imageLink": "image_files\\English\\dust-storm.jpg",
       "audioLink": "dust storm.mp3"
     }
   ]

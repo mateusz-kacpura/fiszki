@@ -9,7 +9,7 @@
       "definition_translation": "गुरुवार और शनिवार के बीच का दिन",
       "example": "I will meet you on Friday at 5 pm. I met you on Friday last week. I will meet you on Friday next week.",
       "example_translation": "मैं शुक्रवार को 5 बजे आपसे मिलूँगा. मैं पिछले हफ्ते शुक्रवार को आपसे मिला था. मैं अगले हफ्ते शुक्रवार को आपसे मिलूँगा.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "रविवार और मंगलवार के बीच का दिन",
       "example": "I went to school on Monday. I will go to school on Monday. I had gone to school on Monday.",
       "example_translation": "मैं सोमवार को स्कूल गया था. मैं सोमवार को स्कूल जाऊँगा. मैं सोमवार को स्कूल गया था.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "शुक्रवार और रविवार के बीच का दिन",
       "example": "I will play cricket on Saturday. I played cricket on Saturday last week. I had played cricket on Saturday the week before.",
       "example_translation": "मैं शनिवार को क्रिकेट खेलूँगा. मैं पिछले हफ्ते शनिवार को क्रिकेट खेला था. मैं उससे पहले हफ्ते शनिवार को क्रिकेट खेला था.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "आराम का दिन, सप्ताह का पहला दिन",
       "example": "I will go to church on Sunday. I went to church on Sunday last week. I will have gone to church on Sunday next week.",
       "example_translation": "मैं रविवार को चर्च जाऊँगा. मैं पिछले हफ्ते रविवार को चर्च गया था. मैं अगले हफ्ते रविवार को चर्च जाऊँगा.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "बुधवार और शुक्रवार के बीच का दिन",
       "example": "Yesterday was Thursday, I will go to the market on Thursday, I went to the park on Thursday.",
       "example_translation": "कल वीरवार था, मैं वीरवार को बाजार जाऊंगा, मैं वीरवार को पार्क गया था.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "सोमवार और बुधवार के बीच का दिन",
       "example": "I was tired on Tuesday, I will attend the meeting on Tuesday, I played cricket on Tuesday.",
       "example_translation": "मैं मंगलवार को थका हुआ था, मैं मंगलवार को मीटिंग में जाऊंगा, मैं मंगलवार को क्रिकेट खेला था.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "मंगलवार और वीरवार के बीच का दिन",
       "example": "I have a meeting on Wednesday, I will go to the gym on Wednesday, I went to the library on Wednesday.",
       "example_translation": "मैं बुधवार को मीटिंग में हूँ, मैं बुधवार को जिम जाऊंगा, मैं बुधवार को लाइब्रेरी गया था.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

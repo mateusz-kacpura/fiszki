@@ -9,7 +9,7 @@
       "definition_translation": "Um pequeno animal, geralmente com seis pernas e um corpo exterior rígido, que é freqüentemente encontrado em jardins e florestas.",
       "example": "Vi un insecto arrastrándose por la pared ayer, pero no sé qué era. Hoy, lo vi de nuevo, y estoy tratando de identificarlo para el proyecto de mañana.",
       "example_translation": "Eu vi um inseto rastejando na parede ontem, mas não sei o que era. Hoje, eu o vi novamente, e estou tentando identificá-lo para o projeto de amanhã.",
-      "imageLink": "insect.jpg",
+      "imageLink": "image_files\\English\\insect.jpg",
       "audioLink": "insect.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Um pequeno inseto, geralmente vermelho ou preto, que vive em colônias e é conhecido por seu comportamento industrioso.",
       "example": "Vi una hormiga llevando una migaja de pan de vuelta a su hormiguero ayer, y me impresionó su fuerza. Hoy, vi muchas hormigas trabajando juntas para recoger comida. Mañana, trataré de observar su comportamiento más de cerca.",
       "example_translation": "Eu assisti uma formiga carregando uma migalha de volta à sua formigueiro ontem, e fiquei impressionado com sua força. Hoje, eu vi muitas formigas trabalhando juntas para coletar comida. Amanhã, vou tentar observar seu comportamento mais de perto.",
-      "imageLink": "ant.jpg",
+      "imageLink": "image_files\\English\\ant.jpg",
       "audioLink": "ant.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Um inseto voador que coleta néctar de flores e produz mel, geralmente vivendo em uma colônia com uma abelha-rainha.",
       "example": "Vi una abeja recogiendo néctar de las flores en el jardín ayer, pero me picó cuando traté de tocarla. Hoy, aprendí cómo observarlas de manera segura. Mañana, trataré de ayudar a mi amigo que es apicultor.",
       "example_translation": "Eu vi uma abelha coletando néctar das flores no jardim ontem, mas ela me picou quando tentei tocar nele. Hoje, eu aprendi como observar abelhas com segurança. Amanhã, vou tentar ajudar meu amigo que é um apicultor.",
-      "imageLink": "bee.jpg",
+      "imageLink": "image_files\\English\\bee.jpg",
       "audioLink": "bee.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Um pequeno inseto, geralmente sem asas, que freqüentemente se alimenta de plantas ou animais.",
       "example": "Encontré un bicho arrastrándose por la pantalla de mi laptop ayer, pero no sé cómo llegó allí. Hoy, trataré de limpiar mi laptop más a fondo. Mañana, me aseguraré de revisar mi laptop regularmente por cualquier bicho.",
       "example_translation": "Eu encontrei um inseto rastejando na tela do meu laptop ontem, mas não sei como ele chegou lá. Hoje, vou tentar limpar meu laptop maisoroughly. Amanhã, vou certificar-me de verificar meu laptop regularmente por qualquer inseto.",
-      "imageLink": "bug.jpg",
+      "imageLink": "image_files\\English\\bug.jpg",
       "audioLink": "bug.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Uma borboleta é um tipo de inseto que tem asas grandes, frequentemente coloridas, e um corpo esbelto.",
       "example": "Vi una hermosa mariposa revoloteando alrededor de las flores ayer. Hoy, está sentada en una hoja, y mañana volará lejos.",
       "example_translation": "Eu vi uma borboleta linda voando em volta das flores ontem. Hoje, ela está sentada em uma folha, e amanhã ela vai voar embora.",
-      "imageLink": "butterfly.jpg",
+      "imageLink": "image_files\\English\\butterfly.jpg",
       "audioLink": "butterfly.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Uma barata é um tipo de inseto que tem um corpo plano, ovalado e seis pernas, frequentemente encontrada em lugares escuros e úmidos.",
       "example": "Vi una cucaracha cruzando el suelo de la cocina anoche. Esta mañana, rocié insecticida para matarla, y esta noche estará muerta.",
       "example_translation": "Eu vi uma barata correndo pelo chão da cozinha ontem à noite. Esta manhã, eu borrifei inseticida para matá-la, e até hoje à noite, ela estará morta.",
-      "imageLink": "cockroach.jpg",
+      "imageLink": "image_files\\English\\cockroach.jpg",
       "audioLink": "cockroach.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Uma criatura é um ser vivo, especialmente um animal, frequentemente apresentando características que são únicas ou pouco comuns.",
       "example": "La criatura que vivía en el bosque era diferente a cualquier cosa que hubiera visto antes. Tenía alas como un pájaro, pero garras como un gato. Ayer, la vi volando por encima, hoy está posada en una rama, y mañana se habrá ido.",
       "example_translation": "A criatura que viveu na floresta era diferente de qualquer uma que eu já tinha visto antes. Ela tinha asas como um pássaro, mas garras como um gato. Ontem, eu vi ela voando acima, hoje ela está empoleirada em um galho, e amanhã ela estará partido.",
-      "imageLink": "creature.jpg",
+      "imageLink": "image_files\\English\\creature.jpg",
       "audioLink": "creature.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Uma mosca é um tipo de inseto que tem um corpo pequeno, geralmente preto ou marrom, e um par de asas.",
       "example": "Vi una mosca zumbando alrededor de la basura ayer. Hoy, está sentada en elcounter de la cocina, y mañana estará volando alrededor de la habitación.",
       "example_translation": "Eu vi uma mosca zunindo em volta do lixo ontem. Hoje, ela está sentada no contador da cozinha, e amanhã ela estará voando em volta da sala.",
-      "imageLink": "fly.jpg",
+      "imageLink": "image_files\\English\\fly.jpg",
       "audioLink": "fly.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Um inseto voador pequeno que é um vetor de doenças como malária e febre de dengue.",
       "example": "Me golpeé la mosca que zumbaba alrededor de mi oreja, luego la atrapé en el aire, y la aplastaré luego.",
       "example_translation": "Eu bati no mosquito zumbindo ao meu redor, então peguei-o no ar, e esmagarei mais tarde.",
-      "imageLink": "mosquito.jpg",
+      "imageLink": "image_files\\English\\mosquito.jpg",
       "audioLink": "mosquito.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Um arácnido de oito patas pequeno que constrói uma teia para pegar presas.",
       "example": "Vi a la araña tejiendo su red, luego atrapó una mosca, y la comerá luego.",
       "example_translation": "Eu observei enquanto a aranha construía sua teia, então pegou uma mosca, e comerá mais tarde.",
-      "imageLink": "spider.jpg",
+      "imageLink": "image_files\\English\\spider.jpg",
       "audioLink": "spider.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Uma rede de fios intrincados construídos por uma aranha para pegar presas.",
       "example": "La red de la araña era intrincada, luego se destruyó, pero se reconstruirá pronto.",
       "example_translation": "A teia da aranha era intrincada, então foi destruída, mas será reconstruída em breve.",
-      "imageLink": "web.jpg",
+      "imageLink": "image_files\\English\\web.jpg",
       "audioLink": "web.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Um tipo de inseto com uma concha externa dura, frequentemente encontrado em jardins.",
       "example": "Vi un escarabajo caminando sobre la hoja, luego voló y regresará mañana.",
       "example_translation": "Eu vi um besouro rastejando na folha, então voou embora, e retornará amanhã.",
-      "imageLink": "beetle.jpg",
+      "imageLink": "image_files\\English\\beetle.jpg",
       "audioLink": "beetle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um pequeno inseto saltador que se alimenta do sangue de mamíferos e aves.",
       "example": "El gato tenía una pulga en su oreja. Ayer tenía pulgas en todo su cuerpo. Para la próxima semana, no tendrá pulgas.",
       "example_translation": "O gato tinha uma pulga no ouvido. Ontem, ele tinha pulgas em todo o corpo. Até a próxima semana, ele não terá pulgas.",
-      "imageLink": "flea.jpg",
+      "imageLink": "image_files\\English\\flea.jpg",
       "audioLink": "flea.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Um ferimento agudo e doloroso infligido por um inseto, especialmente uma vespa ou abelha.",
       "example": "La picadura de la abeja dolía mucho. Ayer me picó una avispa. Para el próximo verano, aprenderé a evitar sus picaduras.",
       "example_translation": "A picada de abelha doeu muito. Ontem, eu fui picado por uma vespa. Até o próximo verão, eu vou aprender a evitar a sua picada.",
-      "imageLink": "sting.jpg",
+      "imageLink": "image_files\\English\\sting.jpg",
       "audioLink": "sting.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Um inseto voador, tipicamente amarelo e preto, que é conhecido por sua picada dolorosa.",
       "example": "Vi una avispa volando alrededor del jardín. Ayer alejé una avispa. Para el próximo otoño, tendré una trampa para avispas lista.",
       "example_translation": "Eu vi uma vespa voando em torno do jardim. Ontem, eu espantei uma vespa. Até o próximo outono, eu vou ter uma armadilha de vespa pronta.",
-      "imageLink": "wasp.jpg",
+      "imageLink": "image_files\\English\\wasp.jpg",
       "audioLink": "wasp.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Um inseto carnívoro com um corpo longo e esguio e pernas espinhosas, conhecido por seu comportamento predatório.",
       "example": "Vi una mantis religiosa en el patio trasero. Ayer, una mantis religiosa atrapó una mosca. Para la próxima primavera, tendré una mantis religiosa en mi jardín.",
       "example_translation": "Eu vi uma mantis rezadora no quintal. Ontem, uma mantis rezadora pegou uma mosca. Até a próxima primavera, eu vou ter uma mantis rezadora no meu jardim.",
-      "imageLink": "mantis.jpg",
+      "imageLink": "image_files\\English\\mantis.jpg",
       "audioLink": "mantis.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Um inseto pequeno, geralmente noturno, com um corpo robusto e antenas plumosas ou filamentares, frequentemente encontrado em edifícios e alimentando-se de tecidos.",
       "example": "La polilla había comido un agujero en mi suéter favorito. Voy a revisar mi armario por polillas esta noche. La polilla habrá destruido todas mis ropas para la próxima semana.",
       "example_translation": "A traça havia comido um buraco na minha blusa favorita. Vou verificar meu armário para tracás esta noite. A traça terá destruído todas as minhas roupas até a próxima semana.",
-      "imageLink": "moth.jpg",
+      "imageLink": "image_files\\English\\moth.jpg",
       "audioLink": "moth.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Um besouro pequeno, ovalado, que é um praga comum de batatas, tomates e outras plantas solanáceas.",
       "example": "El granjero aplicó insecticidas para controlar la población de escarabajos de la papa. Los escarabajos de la papa pueden causar daños significativos a los cultivos. Para la próxima temporada, la infestación de escarabajos de la papa habrá sido erradicada.",
       "example_translation": "O agricultor aplicou inseticidas para controlar a população de escaravelhos da batata. Escaravelhos da batata podem causar danos significativos às culturas. Até a próxima temporada, a infestação de escaravelhos da batata terá sido erradicada.",
-      "imageLink": "potato-beetle.jpg",
+      "imageLink": "image_files\\English\\potato-beetle.jpg",
       "audioLink": "potato beetle.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "A larva de uma traça que espina um casulo de seda, usada para produzir tecido de seda.",
       "example": "Los gusanos de seda fueron alimentados con hojas de morera para promover su crecimiento. El gusano de seda habrá tejido su capullo para mañana. Los gusanos de seda se han utilizado para producir seda durante miles de años.",
       "example_translation": "Os bichos-da-seda foram alimentados com folhas de amoreira para promover seu crescimento. O bicho-da-seda terá espina seu casulo até amanhã. Bichos-da-seda têm sido usados para produzir seda por milhares de anos.",
-      "imageLink": "silkworm.jpg",
+      "imageLink": "image_files\\English\\silkworm.jpg",
       "audioLink": "silkworm.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Um inseto pequeno, social, que vive em colônias e se alimenta de madeira, frequentemente causando danos significativos a edifícios e árvores.",
       "example": "La casa había estado infestada de termitas durante años. Las termitas se encuentran a menudo en climas cálidos y húmedos. La colonia de termitas habrá consumido toda la estructura de madera para el próximo mes.",
       "example_translation": "A casa havia sido infestada por cupins por anos. Cupins são frequentemente encontrados em climas quentes e úmidos. A colônia de cupins terá consumido a estrutura de madeira inteira até o próximo mês.",
-      "imageLink": "termite.jpg",
+      "imageLink": "image_files\\English\\termite.jpg",
       "audioLink": "termite.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Um inseto parasita pequeno e plano que infesta colchões e se alimenta do sangue de seres humanos e outros animais de sangue quente.",
       "example": "La habitación del hotel tenía una grave infestación de chinches de cama, así que tuvimos que solicitar un cambio de habitación. Habíamos sido mordidos por chinches de cama antes, y volveremos a ser mordidos por ellas en el futuro.",
       "example_translation": "O quarto de hotel tinha uma infestação séria de percevejos, então tivemos que solicitar uma troca de quarto. Nós já havíamos sido mordidos por percevejos antes, e vamos ser mordidos por eles novamente no futuro.",
-      "imageLink": "bedbug.jpg",
+      "imageLink": "image_files\\English\\bedbug.jpg",
       "audioLink": "bedbug.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Uma abelha grande, peluda, social que é importante para a polinização e é conhecida pelo seu barulho zumbido distinto.",
       "example": "La abeja voló de flor en flor, recogiendo néctar para llevar de vuelta a su colmena. En el pasado, solíamos ver muchas abejas en nuestro jardín, pero ahora hay menos. Plantaremos más flores para atraer más abejas en el futuro.",
       "example_translation": "A abelha voava de flor em flor, coletando néctar para levar de volta à sua colméia. No passado, costumávamos ver muitas abelhas em nosso jardim, mas agora há menos. Vamos plantar mais flores para atrair mais abelhas no futuro.",
-      "imageLink": "bumblebee.jpg",
+      "imageLink": "image_files\\English\\bumblebee.jpg",
       "audioLink": "bumblebee.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "A larva de uma borboleta ou mariposa, normalmente tendo um corpo semelhante a um verme e pernas.",
       "example": "La oruga gateó por la hoja, comiendo su camino a través de los brotes tiernos. Habíamos visto orugas transformarse en hermosas mariposas en el pasado. En el futuro, aprenderemos más sobre el ciclo de vida de las orugas.",
       "example_translation": "A lagarta rastejou ao longo da folha, comendo seu caminho pelas brotações tenras. Nós havíamos visto lagartas se transformarem em belas borboletas no passado. No futuro, vamos aprender mais sobre o ciclo de vida das lagartas.",
-      "imageLink": "caterpillar.jpg",
+      "imageLink": "image_files\\English\\caterpillar.jpg",
       "audioLink": "caterpillar.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um inseto alado grande com um canto distinto, normalmente vivendo під terra por vários anos antes de emergir como adulto.",
       "example": "La canción fuerte de la cicada llenó el aire cuando emergió del suelo. Habíamos oído cicadas cantando en el pasado, y volveremos a oírlas en el futuro. En el verano, intentaremos encontrar una cicada y observar su comportamiento.",
       "example_translation": "O canto alto da cigarrinha encheu o ar enquanto ela emergia do chão. Nós havíamos ouvido cigarrinhas cantando no passado, e vamos ouvi-las novamente no futuro. No verão, vamos tentar encontrar uma cigarrinha e observar seu comportamento.",
-      "imageLink": "cicada.jpg",
+      "imageLink": "image_files\\English\\cicada.jpg",
       "audioLink": "cicada.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Uma libélula é um inseto com corpo longo e esbelto, geralmente verde brilhante ou iridescente, e olhos multifacetados grandes.",
       "example": "Atrapé una libélula en el jardín ayer, pero escapó de mi mano. Había estado observándola revoloteando alrededor del estanque toda la mañana. Intentaré atrapar otra mañana.",
       "example_translation": "Eu peguei uma libélula no jardim ontem, mas ela escapou da minha mão. Eu havia estado assistindo ela pairar em torno do lago toda manhã. Vou tentar pegar outra amanhã.",
-      "imageLink": "dragonfly.jpg",
+      "imageLink": "image_files\\English\\dragonfly.jpg",
       "audioLink": "dragonfly.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Um zângão é um avião ou navio não tripulado que é operado remotamente ou de forma autônoma, muitas vezes usado para fins militares ou de vigilância.",
       "example": "El ejército utiliza drones para recopilar inteligencia sobre posiciones enemigas. El dron había estado volando sobre el área durante horas antes de ser derribado. Construiré mi propio dron el mes que viene.",
       "example_translation": "O militar usa zângãos para coletar inteligência sobre posições inimigas. O zângão havia estado voando sobre a área por horas antes de ser derrubado. Vou construir meu próprio zângão nxt mês.",
-      "imageLink": "drone.jpg",
+      "imageLink": "image_files\\English\\drone.jpg",
       "audioLink": "drone.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Um mímalo é um tipo de mosca que é conhecido por sua molestação e persistência, muitas vezes usado figurativamente para descrever alguém que crítica ou assedia persistentemente os outros.",
       "example": "El tábano del vecindario siempre se quejaba del ruido. Me molestó el tábano que seguía revoloteando alrededor de mí. El político fue criticado por un periodista tábano.",
       "example_translation": "O mímalo do bairro sempre estava reclamando do barulho. Eu fui incomodado pelo mímalo que continuava a zumbir em torno de mim. O político foi criticado por um jornalista mímalo.",
-      "imageLink": "gadfly.jpg",
+      "imageLink": "image_files\\English\\gadfly.jpg",
       "audioLink": "gadfly.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Um gafanhoto é um inseto com corpo longo e esbelto e pernas traseiras poderosas, muitas vezes encontrado em campos e pradarias.",
       "example": "El langostino saltó a través del campo en un solo salto. Había estado observando al langostino durante horas antes de que finalmente saltara. Atraparé un langostino mañana.",
       "example_translation": "O gafanhoto pulou pelo campo em apenas um salto. Eu havia estado assistindo o gafanhoto por horas antes de finalmente pular embora. Vou pegar um gafanhoto amanhã.",
-      "imageLink": "grasshopper.jpg",
+      "imageLink": "image_files\\English\\grasshopper.jpg",
       "audioLink": "grasshopper.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Uma vespa é um tipo de vespereço semelhante a uma abelha, mas tem um ferrão mais agressivo.",
       "example": "La avispa me picó ayer, pero seré cuidadoso cuando vea una en el futuro. Ahora estoy investigando cómo evitar sus nidos. En el pasado, había visto un nido de avispas en la granja de mi abuelo.",
       "example_translation": "A vespa me picou ontem, mas eu serei cuidadoso quando vir uma no futuro. Agora, estou pesquisando como evitar seus ninhos. No passado, eu havia visto um ninho de vespa na fazenda do meu avô.",
-      "imageLink": "hornet.jpg",
+      "imageLink": "image_files\\English\\hornet.jpg",
       "audioLink": "hornet.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Uma joaninha é um tipo de besouro pequeno com uma casca vermelha e preta distinta.",
       "example": "Cuando era niño, solía atrapar mariquitas en el jardín, pero ahora sé que son insectos beneficiosos. Las mariquitas comenáfidos, así que atraeremos mariquitas a nuestro jardín en el futuro. En el pasado, nunca había visto una mariquita hasta que me mudé al campo.",
       "example_translation": "Quando eu era criança, costumava pegar joaninhas no jardim, mas agora eu sei que são insetos benéficos. Joaninhas comem afídeos, então nós vamos atrair eles para o nosso jardim no futuro. No passado, eu nunca havia visto uma joaninha até me mudar para o campo.",
-      "imageLink": "ladybird.jpg",
+      "imageLink": "image_files\\English\\ladybird.jpg",
       "audioLink": "ladybird.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Um gafanhoto é um tipo de grande gafanhoto que pode formar bandos e destruir culturas.",
       "example": "La plaga de langostas destruyó nuestras cosechas el año pasado, así que utilizaremos pesticidas en el futuro. Las langostas son conocidas por migrar sobre largas distancias, y ahora estoy estudiando su comportamiento. En el pasado, había oído sobre plagas de langostas en la Biblia.",
       "example_translation": "O bando de gafanhotos destruiu nossas culturas no ano passado, então vamos usar pesticidas no futuro. Gafanhotos são conhecidos por migrar sobre longas distâncias, e agora estou estudando seu comportamento. No passado, eu havia ouvido sobre pragas de gafanhotos na Bíblia.",
-      "imageLink": "locust.jpg",
+      "imageLink": "image_files\\English\\locust.jpg",
       "audioLink": "locust.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Um piolho é um tipo de inseto parasita pequeño que vive nos corpos de humanos e animais.",
       "example": "Cuando estaba en la escuela, tenía un amigo que tenía piojos, pero ahora sé cómo tratarlos. Los piojos se atraen por el cabello sucio, así que lavaremos nuestro cabello regularmente en el futuro. En el pasado, había visto a personas utilizando champúes especiales para deshacerse de los piojos.",
       "example_translation": "Quando eu estava na escola, eu tinha um amigo que tinha piolhos, mas agora eu sei como tratá-los. Piolhos são atraídos para cabelos sujos, então vamos lavar nosso cabelo regularmente no futuro. No passado, eu havia visto pessoas usando xampus especiais para se livrar de piolhos.",
-      "imageLink": "louse.jpg",
+      "imageLink": "image_files\\English\\louse.jpg",
       "audioLink": "louse.mp3"
     }
   ]

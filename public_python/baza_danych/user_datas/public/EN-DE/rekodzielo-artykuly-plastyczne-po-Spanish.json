@@ -9,7 +9,7 @@
       "definition_translation": "Ein Satz von Stiften mit verschiedenen Farben, die zum Zeichnen und Kolorieren verwendet werden.",
       "example": "I used coloured pencils to draw a beautiful picture yesterday, I will use them again tomorrow, and I used to use them every day when I was a child.",
       "example_translation": "Ich verwendete bunte Stifte, um ein schönes Bild zu zeichnen, ich werde sie morgen wieder verwenden und ich verwendete sie jeden Tag, als ich ein Kind war.",
-      "imageLink": "crayons.jpg",
+      "imageLink": "image_files\\English\\crayons.jpg",
       "audioLink": "coloured pencils.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Ein Schreib- oder Zeichengerät, das aus einem schmalen, festen Graphitkern besteht, der in einem holzernen Zylinder eingeschlossen ist.",
       "example": "I wrote my essay with a pencil, I write notes with a pencil every day, and I will use a pencil to complete my homework tonight.",
       "example_translation": "Ich schrieb meine Ausarbeitung mit einem Bleistift, ich schreibe Notizen jeden Tag mit einem Bleistift und ich werde einen Bleistift verwenden, um meine Hausaufgaben heute Abend zu erledigen.",
-      "imageLink": "pencil.jpg",
+      "imageLink": "image_files\\English\\pencil.jpg",
       "audioLink": "pencil.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ein Gerät mit Borsten oder Haaren, das zum Reinigen, Glätten oder Auftragen von Substanzen auf eine Oberfläche verwendet wird.",
       "example": "I used a brush to paint the wall yesterday, I use a brush to clean my teeth every morning, and I will use a brush to apply varnish to the wood tomorrow.",
       "example_translation": "Ich verwendete einen Pinsel, um die Wand zu malen, ich verwende einen Pinsel, um meine Zähne jeden Morgen zu reinigen und ich werde einen Pinsel verwenden, um Lack auf das Holz aufzutragen.",
-      "imageLink": "brush-1.jpg",
+      "imageLink": "image_files\\English\\brush-1.jpg",
       "audioLink": "brush.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ein gerader Rand mit Markierungen in regelmäßigen Abständen, der zum Messen von Längen oder Entfernungen verwendet wird.",
       "example": "I used a ruler to measure the length of the room yesterday, I use a ruler to draw straight lines every day, and I will use a ruler to calculate the perimeter of the rectangle tomorrow.",
       "example_translation": "Ich verwendete ein Lineal, um die Länge des Zimmers zu messen, ich verwende ein Lineal, um gerade Linien zu zeichnen, und ich werde ein Lineal verwenden, um den Umfang des Rechtecks zu berechnen.",
-      "imageLink": "ruler.jpg",
+      "imageLink": "image_files\\English\\ruler.jpg",
       "audioLink": "ruler.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Ein Werkzeug zum Schneiden verschiedener Materialien, wie Papier, Stoff und Draht, bestehend aus zwei Klingenteilen, die auf der Innenseite geschärft sind und über einen Griff miteinander verbunden sind, um geöffnet und geschlossen werden zu können.",
       "example": "I used scissors to cut out the shape from the paper. I will use scissors to cut the wire. She had used scissors to cut her hair.",
       "example_translation": "Ich benutzte Schere, um die Form aus dem Papier auszuschneiden. Ich werde Schere benutzen, um den Draht zu schneiden. Sie hatte Schere benutzt, um ihr Haar zu schneiden.",
-      "imageLink": "scissors.jpg",
+      "imageLink": "image_files\\English\\scissors.jpg",
       "audioLink": "scissors.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Ein kleiner Kunststoff- oder Metall-Verschluss, der verwendet wird, um etwas, wie ein Hemd oder einen Mantel, zu befestigen oder zu verschließen.",
       "example": "I lost a button on my shirt. She will sew a button on her coat. He had pressed the button to start the machine.",
       "example_translation": "Ich verlor einen Knopf auf meinem Hemd. Sie wird einen Knopf auf ihren Mantel nähen. Er hatte den Knopf gedrückt, um die Maschine zu starten.",
-      "imageLink": "button-1.jpg",
+      "imageLink": "image_files\\English\\button-1.jpg",
       "audioLink": "button.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Ein kleiner Nagel, der verwendet wird, um Papiere oder Notizen an einer Tafel oder Wand aufzuhängen.",
       "example": "I used a drawing pin to hold up the map. She will use a drawing pin to attach the note. He had used a drawing pin to hang the picture.",
       "example_translation": "Ich benutzte einen Reißnagel, um die Karte aufzuhängen. Sie wird einen Reißnagel benutzen, um die Notiz anzubringen. Er hatte einen Reißnagel benutzt, um das Bild aufzuhängen.",
-      "imageLink": "drawing-pin.jpg",
+      "imageLink": "image_files\\English\\drawing-pin.jpg",
       "audioLink": "drawing pin.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Eine flüssige Substanz, die zum Schreiben oder Zeichnen verwendet wird, normalerweise schwarz oder blau in der Farbe.",
       "example": "I need to refill my pen with ink. She will use ink to sign the document. He had spilled ink on his shirt.",
       "example_translation": "Ich muss meinen Stift mit Tinte auffüllen. Sie wird Tinte benutzen, um das Dokument zu unterschreiben. Er hatte Tinte auf seinem Hemd verschüttet.",
-      "imageLink": "ink.jpg",
+      "imageLink": "image_files\\English\\ink.jpg",
       "audioLink": "ink.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Ein Muster ist eine regelmäßige oder wiederkehrende Anordnung von Dingen, wie z.B. ein Design oder eine Abfolge von Ereignissen.",
       "example": "The artist created a pattern on the canvas using different shapes and colors. She will create another pattern tomorrow, and has been creating patterns for years.",
       "example_translation": "Die Künstlerin erstellte ein Muster auf der Leinwand mit verschiedenen Formen und Farben. Sie wird morgen ein anderes Muster erstellen und hat seit Jahren Muster erstellt.",
-      "imageLink": "pattern.jpg",
+      "imageLink": "image_files\\English\\pattern.jpg",
       "audioLink": "pattern.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Eine Nadel ist ein kleines, dünnes Stück Metall mit einer Spitze an einem Ende und einem Kopf am anderen, das zum Zusammenfügen von Dingen verwendet wird.",
       "example": "She used a pin to fasten the broken zipper. He will use a pin to attach the badge to his jacket, and had used a pin to fix the torn page.",
       "example_translation": "Sie verwendete eine Nadel, um den kaputten Reißverschluss zu befestigen. Er wird eine Nadel verwenden, um das Abzeichen an seinem Jackett anzubringen, und hatte eine Nadel verwendet, um die gerissene Seite zu flicken.",
-      "imageLink": "pin-1.jpg",
+      "imageLink": "image_files\\English\\pin-1.jpg",
       "audioLink": "pin.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Ein Nadelkissen ist ein kleines, üblicherweise runder Kissen, das verwendet wird, um Nadeln und Nadeln aufzubewahren.",
       "example": "She kept her pins and needles in a small pincushion on her sewing table. He will buy a new pincushion tomorrow, and has been using the same pincushion for years.",
       "example_translation": "Sie bewahrte ihre Nadeln und Nadeln in einem kleinen Nadelkissen auf ihrem Nähtisch auf. Er wird morgen ein neues Nadelkissen kaufen und hat seit Jahren dasselbe Nadelkissen verwendet.",
-      "imageLink": "pincushion.jpg",
+      "imageLink": "image_files\\English\\pincushion.jpg",
       "audioLink": "pincushion.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Pappe ist ein steifes, dickes Papier, das zum Herstellen von Schachteln, Kartons und anderen Behältern verwendet wird.",
       "example": "The store packed the fragile items in cardboard boxes. They will use cardboard to build a fort tomorrow, and have been using cardboard to make craft projects for years.",
       "example_translation": "Das Geschäft packte die zerbrechlichen Artikel in Pappkartons. Sie werden morgen Pappe verwenden, um ein Fort zu bauen, und haben seit Jahren Pappe verwendet, um Bastelprojekte zu erstellen.",
-      "imageLink": "cardboard.jpg",
+      "imageLink": "image_files\\English\\cardboard.jpg",
       "audioLink": "cardboard.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Eine Art feinkörniger Erdmaterial, das plastisch ist, wenn es feucht ist, aber hart wird, wenn es erhitzt oder getrocknet wird.",
       "example": "The potter shaped the clay into a beautiful vase. She had worked with clay for years. The children will shape the clay into animals tomorrow.",
       "example_translation": "Die Töpferin formte die Tonerde zu einer schönen Vase. Sie hatte Jahre lang mit Tonerde gearbeitet. Die Kinder werden die Tonerde morgen zu Tieren formen.",
-      "imageLink": "clay.jpg",
+      "imageLink": "image_files\\English\\clay.jpg",
       "audioLink": "clay.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Ein Stab aus farbiger Wachs, verwendet für Zeichnen oder Färben.",
       "example": "The child colored the picture with crayons. She had loved crayons since she was a toddler. The artist will use crayons to create a masterpiece tomorrow.",
       "example_translation": "Das Kind malte das Bild mit Crayonen. Sie hatte Crayonen seit sie ein Kleinkind war geliebt. Der Künstler wird Crayonen verwenden, um ein Meisterwerk zu schaffen morgen.",
-      "imageLink": "crayons-1.jpg",
+      "imageLink": "image_files\\English\\crayons-1.jpg",
       "audioLink": "crayons.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Eine klebrige Substanz, verwendet für das Verbinden oder Reparieren von Dingen.",
       "example": "She used glue to fix the broken vase. He had spilled glue on his shirt. They will need glue to assemble the furniture tomorrow.",
       "example_translation": "Sie verwendete Kleber, um die zerbrochene Vase zu reparieren. Er hatte Kleber auf seinem Hemd verschüttet. Sie werden Kleber benötigen, um die Möbel morgen zu montieren.",
-      "imageLink": "glue-1.jpg",
+      "imageLink": "image_files\\English\\glue-1.jpg",
       "audioLink": "glue.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Ein kleines, spitzes Instrument, verwendet für Nähen oder Stechen.",
       "example": "She threaded the needle to sew the button. He had pricked himself with a needle. The tailor will use a needle to repair the torn fabric tomorrow.",
       "example_translation": "Sie fädelte die Nadel ein, um den Knopf zu nähen. Er hatte sich mit einer Nadel gepikt. Der Schneider wird eine Nadel verwenden, um den zerrissenen Stoff morgen zu reparieren.",
-      "imageLink": "needle.jpg",
+      "imageLink": "image_files\\English\\needle.jpg",
       "audioLink": "needle.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Ein kleines, absorbierendes Tuch, das zum Wischen von Händen und Gesicht verwendet wird, normalerweise aus Papier hergestellt.",
       "example": "I used a paper napkin to wipe my mouth after eating the sandwich. Yesterday, I had used a paper napkin to clean my hands. Tomorrow, I will use a paper napkin to dry my face.",
       "example_translation": "Ich benutzte ein Papiertaschentuch, um meinen Mund nach dem Essen des Sandwiches zu wischen. Gestern hatte ich ein Papiertaschentuch benutzt, um meine Hände zu reinigen. Morgen werde ich ein Papiertaschentuch verwenden, um mein Gesicht zu trocknen.",
-      "imageLink": "paper-napkin.jpg",
+      "imageLink": "image_files\\English\\paper-napkin.jpg",
       "audioLink": "paper napkin.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Eine kleine Nadel, die zum Befestigen von Kleidung oder anderen Materialien verwendet wird, die sicher und einfach zu bedienen ist.",
       "example": "I used a safety pin to fasten my brooch. Yesterday, I had used a safety pin to fix my torn shirt. Tomorrow, I will use a safety pin to attach a badge to my jacket.",
       "example_translation": "Ich benutzte eine Sicherheitsnadel, um meine Brosche zu befestigen. Gestern hatte ich eine Sicherheitsnadel benutzt, um mein zerrissenes Hemd zu reparieren. Morgen werde ich eine Sicherheitsnadel verwenden, um ein Abzeichen an meine Jacke anzubringen.",
-      "imageLink": "safety-pin.jpg",
+      "imageLink": "image_files\\English\\safety-pin.jpg",
       "audioLink": "safety pin.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Eine Maschine, die zum Nähen verwendet wird,typischerweise mit einer Nadel und einem Faden, die zum Reparieren oder Erstellen von Kleidung und anderen Textilien verwendet wird.",
       "example": "I used a sewing machine to repair my torn pants. Yesterday, I had used a sewing machine to make a new dress. Tomorrow, I will use a sewing machine to alter my favorite jacket.",
       "example_translation": "Ich benutzte eine Nähmaschine, um meine zerrissene Hose zu reparieren. Gestern hatte ich eine Nähmaschine benutzt, um ein neues Kleid zu machen. Morgen werde ich eine Nähmaschine verwenden, um meine Lieblingsjacke zu ändern.",
-      "imageLink": "sewing-machine.jpg",
+      "imageLink": "image_files\\English\\sewing-machine.jpg",
       "audioLink": "sewing machine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Ein kleines, selbstklebendes Etikett oder Dekoration, oft mit einem Bild oder Design, das zum Dekorieren oder Kennzeichnen von Objekten verwendet wird.",
       "example": "I used a sticker to decorate my laptop. Yesterday, I had used a sticker to label my folder. Tomorrow, I will use a sticker to identify my water bottle.",
       "example_translation": "Ich benutzte einen Aufkleber, um meinen Laptop zu dekorieren. Gestern hatte ich einen Aufkleber benutzt, um meine Mappe zu kennzeichnen. Morgen werde ich einen Aufkleber verwenden, um meine Wasserflasche zu identifizieren.",
-      "imageLink": "sticker.jpg",
+      "imageLink": "image_files\\English\\sticker.jpg",
       "audioLink": "sticker.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Eine Folge von Zeichen, die verwendet werden, um Informationen zu übermitteln.",
       "example": "I used a string to tie the package. Yesterday, I had to string the guitar. Tomorrow, I will string the lights.",
       "example_translation": "Ich verwendete eine Saite, um das Paket zu binden. Gestern musste ich die Gitarre stimmen. Morgen werde ich die Lichter aufhängen.",
-      "imageLink": "string-1.jpg",
+      "imageLink": "image_files\\English\\string-1.jpg",
       "audioLink": "string.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Ein dünner, flexibler Faden oder Streifen aus Metall, der zum Leiten von Elektrizität oder Senden von Nachrichten verwendet wird.",
       "example": "I used a wire to connect the speakers. Yesterday, I had to wire the house. Tomorrow, I will wire the circuit.",
       "example_translation": "Ich verwendete einen Draht, um die Lautsprecher zu verbinden. Gestern musste ich das Haus verdrahten. Morgen werde ich den Schaltkreis verdrahten.",
-      "imageLink": "wire.jpg",
+      "imageLink": "image_files\\English\\wire.jpg",
       "audioLink": "wire.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Ein Verschlussgerät, das aus ineinander greifenden Zähnen besteht, die durch einen Schieberegler oder Griff geöffnet oder geschlossen werden kann.",
       "example": "I zipped up my jacket. Yesterday, I had to zip the file. Tomorrow, I will zip the bag.",
       "example_translation": "Ich zog meine Jacke zu. Gestern musste ich die Datei komprimieren. Morgen werde ich die Tasche zubinden.",
-      "imageLink": "zip.jpg",
+      "imageLink": "image_files\\English\\zip.jpg",
       "audioLink": "zip.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Ein Schreib- oder Zeicheninstrument, das aus einem Stab gefärbten Wachses besteht.",
       "example": "I used crayons to draw a picture. Yesterday, I had to color the chart with crayons. Tomorrow, I will make a collage with crayons.",
       "example_translation": "Ich verwendete Wachsmalstifte, um ein Bild zu malen. Gestern musste ich die Tabelle mit Wachsmalstiften kolorieren. Morgen werde ich ein Collage mit Wachsmalstiften erstellen.",
-      "imageLink": "wax-crayons.jpg",
+      "imageLink": "image_files\\English\\wax-crayons.jpg",
       "audioLink": "(wax) crayons.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Ein textiler Werkstoff, insbesondere einer, der gewebt oder gestrickt wird, um Kleidung, Polster oder andere Stoffe herzustellen.",
       "example": "The dress was made of a beautiful silk fabric. Yesterday, I bought a new fabric for my sofa. I will buy a fabric for my new dress next week.",
       "example_translation": "Das Kleid war aus einem schönen Seidenstoff gemacht. Gestern kaufte ich einen neuen Stoff für mein Sofa. Ich werde nächste Woche einen Stoff für mein neues Kleid kaufen.",
-      "imageLink": "fabric.jpg",
+      "imageLink": "image_files\\English\\fabric.jpg",
       "audioLink": "fabric.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Ein kleines Gerät, das zum Drucken eines Designs oder einer Marke auf einer Oberfläche verwendet wird, typischerweise aus Gummi.",
       "example": "The office worker used a rubber stamp to sign the documents. The artist created a beautiful design using a rubber stamp. She will use a rubber stamp to sign the letters tomorrow.",
       "example_translation": "Der Büroangestellte verwendete einen Gummistempel, um die Dokumente zu unterschreiben. Der Künstler schuf ein schönes Design mit einem Gummistempel. Sie wird morgen einen Gummistempel verwenden, um die Briefe zu unterschreiben.",
-      "imageLink": "rubber-stamp.jpg",
+      "imageLink": "image_files\\English\\rubber-stamp.jpg",
       "audioLink": "rubber stamp.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Ein dickes, weiches und kompaktes Gewebe, das aus Wolle, Haar oder Fell hergestellt wird, oft für die Herstellung von Hüten, Schlappen und anderer Kleidung verwendet.",
       "example": "The craftsman made a beautiful hat from felt. The shoes were lined with felt to keep them warm. I will make a felt bag for my sister's birthday.",
       "example_translation": "Der Handwerker machte einen schönen Hut aus Filz. Die Schuhe waren mit Filz ausgekleidet, um sie warm zu halten. Ich werde eine Filztasche für den Geburtstag meiner Schwester machen.",
-      "imageLink": "felt.jpg",
+      "imageLink": "image_files\\English\\felt.jpg",
       "audioLink": "felt.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Ein handgehaltenes Werkzeug, das zum Greifen und Biegen von verschiedenen Objekten verwendet wird, typischerweise bestehend aus einem Paar Backen, die miteinander verbunden sind.",
       "example": "The plumber used pliers to tighten the pipe. The electrician used pliers to bend the wire. I will use pliers to fix the broken tool tomorrow.",
       "example_translation": "Der Klempner verwendete Zangen, um die Rohrleitung anzuziehen. Der Elektriker verwendete Zangen, um den Draht zu biegen. Ich werde morgen Zangen verwenden, um das gebrochene Werkzeug zu reparieren.",
-      "imageLink": "pliers.jpg",
+      "imageLink": "image_files\\English\\pliers.jpg",
       "audioLink": "pliers.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Ein kleiner Metall-Verschluss mit einem federgelagerten Knopf, der verwendet wird, um zwei Teile eines Kleidungsstücks oder eines anderen Stoffes zu verbinden.",
       "example": "I had to press the stud to fasten my shirt. Yesterday, I pressed the stud to close my jacket. If I don't press the stud, my collar will come undone tomorrow.",
       "example_translation": "Ich musste den Knopf drücken, um mein Hemd zuzuknöpfen. Gestern drückte ich den Knopf, um meine Jacke zu schließen. Wenn ich den Knopf nicht drücke, wird mein Kragen morgen lose gehen.",
-      "imageLink": "press-stud.jpg",
+      "imageLink": "image_files\\English\\press-stud.jpg",
       "audioLink": "press stud.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Etwas plötzlich und kraftvoll mit der Faust zu schlagen.",
       "example": "I punched the wall in anger. Yesterday, I punched the pillow to release my frustration. If I don't punch the bag, I'll get too aggressive tomorrow.",
       "example_translation": "Ich schlug die Wand aus Wut. Gestern schlug ich das Kissen, um meine Frustration zu erleichtern. Wenn ich den Sack nicht schlage, werde ich morgen zu aggressiv.",
-      "imageLink": "punch-2.jpg",
+      "imageLink": "image_files\\English\\punch-2.jpg",
       "audioLink": "punch.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Ein schmaler Streifen Stoff, normalerweise aus Seide oder Satin, verwendet für Dekoration oder als Symbol für Erfolg.",
       "example": "I tied a ribbon around the gift box. Yesterday, I won a ribbon at the competition. If I don't tie a ribbon on my hair, it will get tangled tomorrow.",
       "example_translation": "Ich band eine Schleife um die Geschenkschachtel. Gestern gewann ich eine Schleife bei dem Wettbewerb. Wenn ich meine Haare morgen nicht mit einer Schleife binde, werden sie verwirrt sein.",
-      "imageLink": "ribbon.jpg",
+      "imageLink": "image_files\\English\\ribbon.jpg",
       "audioLink": "ribbon.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Ein zylindrisches oder kugelförmiges Objekt, das auf einer Oberfläche rollt oder rotiert, oft verwendet für das Bewegen oder Transportieren von Objekten.",
       "example": "I used a roller to paint the wall. Yesterday, I rode a roller coaster at the amusement park. If I don't use a roller on my hair, it will get frizzy tomorrow.",
       "example_translation": "Ich benutzte ein Wälzchen, um die Wand zu bemalen. Gestern fuhr ich eine Achterbahn im Vergnügungspark. Wenn ich morgen kein Wälzchen auf meinem Haar benutze, wird es kraus werden.",
-      "imageLink": "roller-1.jpg",
+      "imageLink": "image_files\\English\\roller-1.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Ein Papier oder ein anderes Material mit abrasiven Partikeln, das zum Glätten und Polieren von Oberflächen verwendet wird",
       "example": "I used sandpaper to smooth out the rough edges of the wood. I am using sandpaper to polish the car's paint. I will use sandpaper to fix the broken furniture.",
       "example_translation": "Ich benutzte Schleifpapier, um die rauen Kanten des Holzes zu glätten. Ich benutze Schleifpapier, um die Lackierung des Autos zu polieren. Ich werde Schleifpapier benutzen, um das gebrochene Möbel zu reparieren.",
-      "imageLink": "sandpaper.jpg",
+      "imageLink": "image_files\\English\\sandpaper.jpg",
       "audioLink": "sandpaper.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "kleine, glänzende Scheiben oder Stücke aus Metall oder Kunststoff, die zur Dekoration oder Verzierung verwendet werden",
       "example": "The dress was covered in sequins and sparkled on the runway. She is sewing sequins onto the fabric to create a beautiful design. The costume designer will add sequins to the outfit to make it more flashy.",
       "example_translation": "Das Kleid war mit Pailletten bedeckt und funkelte auf dem Laufsteg. Sie näht Pailletten auf den Stoff, um ein schönes Design zu erstellen. Der Kostümbildner wird Pailletten zum Outfit hinzufügen, um es auffälliger zu machen.",
-      "imageLink": "sequins.jpg",
+      "imageLink": "image_files\\English\\sequins.jpg",
       "audioLink": "sequins.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Eine dünne Schicht aus Material wie Papier oder Kunststoff, mit einem Entwurf oder Muster, das ausgeschnitten wurde, als Führungsstrich für Malen oder Zeichnen verwendet",
       "example": "The artist used a stencil to paint a perfect circle. I am creating a stencil to use on my art project. The designer will use a stencil to create a precise pattern on the fabric.",
       "example_translation": "Der Künstler benutzte eine Schablone, um einen perfekten Kreis zu malen. Ich erstelle eine Schablone, um sie bei meinem Kunstprojekt zu verwenden. Der Designer wird eine Schablone verwenden, um ein präzises Muster auf dem Stoff zu erstellen.",
-      "imageLink": "stencil.jpg",
+      "imageLink": "image_files\\English\\stencil.jpg",
       "audioLink": "stencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Ein einziger Durchgang einer Nadel und eines Fadens, der für Nähen oder Stickerei verwendet wird",
       "example": "She made a stitch in the fabric to repair the tear. The seamstress took a stitch to reinforce the seam. The doctor will take a stitch to close the wound.",
       "example_translation": "Sie machte einen Stich in den Stoff, um den Riss zu reparieren. Die Schneiderin nahm einen Stich, um die Naht zu verstärken. Der Arzt wird einen Stich nehmen, um die Wunde zu schließen.",
-      "imageLink": "stitch-1.jpg",
+      "imageLink": "image_files\\English\\stitch-1.jpg",
       "audioLink": "stitch.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "eine Art leichtes, vielseitiges Plastik-Schaumstoff, der in der Verpackung, Isolierung und anderen Anwendungen verwendet wird",
       "example": "The company uses styrofoam boxes to protect their products during shipping. They used to use paper boxes, but now they use styrofoam boxes. They will use styrofoam boxes in the future.",
       "example_translation": "Das Unternehmen verwendet Styropor-Boxen, um ihre Produkte während des Versands zu schützen. Sie verwendeten früher Papier-Boxen, aber jetzt verwenden sie Styropor-Boxen. Sie werden Styropor-Boxen in Zukunft verwenden.",
-      "imageLink": "styrofoam.jpg",
+      "imageLink": "image_files\\English\\styrofoam.jpg",
       "audioLink": "styrofoam.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "ein kleines, meist metallenes oder kunststoffartiges, becherförmiges Gerät, das am Finger getragen wird, um ihn beim Nähen zu schützen",
       "example": "The seamstress carefully placed the thimble on her finger before starting to sew. She had worn a thimble on her finger when she was a beginner. She will always wear a thimble on her finger when sewing.",
       "example_translation": "Die Näherin platzierte den Fingerhut sorgfältig auf ihrem Finger, bevor sie anfing zu nähen. Sie hatte einen Fingerhut auf ihrem Finger getragen, als sie Anfängerin war. Sie wird immer einen Fingerhut auf ihrem Finger tragen, wenn sie näht.",
-      "imageLink": "thimble.jpg",
+      "imageLink": "image_files\\English\\thimble.jpg",
       "audioLink": "thimble.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "ein langer, dünner Faden aus gedrehten Fasern, der zum Nähen, Weben oder Binden verwendet wird",
       "example": "The tailor carefully cut the thread to the right length. She had used a strong thread to sew the fabric together. She will need a special thread to repair the tear.",
       "example_translation": "Der Schneider schnitt den Faden sorgfältig auf die richtige Länge zu. Sie hatte einen starken Faden verwendet, um den Stoff zusammenzunähen. Sie wird einen speziellen Faden benötigen, um den Riss zu reparieren.",
-      "imageLink": "thread.jpg",
+      "imageLink": "image_files\\English\\thread.jpg",
       "audioLink": "thread.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "eine flüssige Substanz, die verwendet wird, um eine Oberfläche, insbesondere Holz, zu schützen und einen glänzenden Finish zu geben",
       "example": "The carpenter applied a layer of varnish to the wooden table. He had used a special varnish to protect the wood from moisture. He will apply a second layer of varnish to achieve the desired finish.",
       "example_translation": "Der Zimmermann applizierte eine Schicht Lack auf den hölzernen Tisch. Er hatte einen speziellen Lack verwendet, um das Holz vor Feuchtigkeit zu schützen. Er wird eine zweite Schicht Lack auftragen, um den gewünschten Finish zu erzielen.",
-      "imageLink": "varnish.jpg",
+      "imageLink": "image_files\\English\\varnish.jpg",
       "audioLink": "varnish.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Geflecht ist eine Art von gewebten Möbeln oder anderen Objekten, die aus Pflanzenfasern wie Weidenzweigen oder Rattan hergestellt werden.",
       "example": "I bought a wicker basket to store my books. I have wicker furniture in my garden. I will make a wicker birdhouse next weekend.",
       "example_translation": "Ich kaufte einen Geflecht-Korb, um meine Bücher aufzubewahren. Ich habe Geflecht-Möbel in meinem Garten. Ich werde nächstes Wochenende ein Geflecht-Vogelhaus machen.",
-      "imageLink": "wicker.jpg",
+      "imageLink": "image_files\\English\\wicker.jpg",
       "audioLink": "wicker.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Acrylfarbe ist eine schnell trocknende Farbe, die aus einer Mischung aus Wasser, Pigment, Bindemittel und anderen Additiven hergestellt wird.",
       "example": "I used acrylic paint to create a beautiful abstract artwork. She has been painting with acrylic paint for years. He will start using acrylic paint for his next project.",
       "example_translation": "Ich verwendete Acrylfarbe, um ein schönes abstraktes Kunstwerk zu erstellen. Sie malt seit Jahren mit Acrylfarbe. Er wird Acrylfarbe für sein nächstes Projekt verwenden.",
-      "imageLink": "acrylic-paint.jpg",
+      "imageLink": "image_files\\English\\acrylic-paint.jpg",
       "audioLink": "acrylic paint.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Eine klebende Kante ist eine Art von dekorativen Streifen mit Klebstoff auf einer Seite, die verwendet wird, um sie an Wänden, Möbeln oder anderen Objekten anzubringen.",
       "example": "I applied an adhesive border to my wallpaper. She uses adhesive borders to decorate her scrapbook. He will add an adhesive border to his picture frame.",
       "example_translation": "Ich applizierte eine klebende Kante auf mein Tapetenpapier. Sie verwendet klebende Kanten, um ihr Scrapbook zu dekorieren. Er wird eine klebende Kante an seinem Bilderrahmen anbringen.",
-      "imageLink": "adhesive-border.jpg",
+      "imageLink": "image_files\\English\\adhesive-border.jpg",
       "audioLink": "adhesive border.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Perlen sind kleine, runde Objekte, die aus verschiedenen Materialien wie Holz, Kunststoff oder Glas hergestellt werden und für Schmuck, Dekorationen oder andere Handwerke verwendet werden.",
       "example": "I made a beautiful necklace with colorful beads. She has a collection of beads from all over the world. He will use beads to create a mosaic artwork.",
       "example_translation": "Ich machte eine schöne Kette mit bunten Perlen. Sie hat eine Sammlung von Perlen aus aller Welt. Er wird Perlen verwenden, um ein Mosaik-Kunstwerk zu erstellen.",
-      "imageLink": "beads.jpg",
+      "imageLink": "image_files\\English\\beads.jpg",
       "audioLink": "beads.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Ein Typ von Nähtstich, der verwendet wird, um die rohen Kanten einer Decke oder eines anderen Heimdekors zu beenden, charakterisiert durch eine Serie von kleinen, gleichmäßig verteilten Stichen.",
       "example": "I used a blanket stitch to finish the edge of the quilt. I will use a blanket stitch to finish the edge of the quilt tomorrow. She used a blanket stitch to finish the edge of the quilt last week.",
       "example_translation": "Ich verwendete einen Wärmestich, um die Kante der Tagesdecke zu beenden. Ich werde morgen einen Wärmestich verwenden, um die Kante der Tagesdecke zu beenden. Sie verwendete einen Wärmestich, um die Kante der Tagesdecke letzte Woche zu beenden.",
-      "imageLink": "blanket-stitch.jpg",
+      "imageLink": "image_files\\English\\blanket-stitch.jpg",
       "audioLink": "blanket stitch.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Eine Sammlung von Pinseln, die für verschiedene Zwecke verwendet werden, wie zum Beispiel Malen, Handwerk oder Make-up-Anwendung.",
       "example": "I need to buy a new brush set for my painting class. She used a brush set to create a beautiful painting. They will use a brush set to paint the walls of their new house.",
       "example_translation": "Ich muss ein neues Pinselset für meine Malereiklasse kaufen. Sie verwendete ein Pinselset, um ein schönes Gemälde zu erstellen. Sie werden ein Pinselset verwenden, um die Wände ihres neuen Hauses zu malen.",
-      "imageLink": "brush-set.jpg",
+      "imageLink": "image_files\\English\\brush-set.jpg",
       "audioLink": "brush set.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Ein Typ von Stickstich, der aus einer Serie von verbundenen Schleifen besteht, oft verwendet, um Umrisse und Ränder zu erstellen.",
       "example": "I used a chain stitch to outline the design on my t-shirt. She will use a chain stitch to create a border on her embroidery project. They used a chain stitch to make a beautiful embroidery pattern.",
       "example_translation": "Ich verwendete einen Kettenstich, um das Design auf meinem T-Shirt zu umreißen. Sie wird einen Kettenstich verwenden, um einen Rand auf ihrem Stickprojekt zu erstellen. Sie verwendeten einen Kettenstich, um ein schönes Stickmuster zu erstellen.",
-      "imageLink": "chain-stitch.jpg",
+      "imageLink": "image_files\\English\\chain-stitch.jpg",
       "audioLink": "chain stitch.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Ein Typ von Stricknadel, der kreisförmig ist, was das Stricken im Kreis ermöglicht.",
       "example": "I need a circular needle to knit this hat. She used a circular needle to make a beautiful scarf. They will use a circular needle to knit a sweater.",
       "example_translation": "Ich benötige eine Rundnadel, um diesen Hut zu stricken. Sie verwendete eine Rundnadel, um einen schönen Schal zu stricken. Sie werden eine Rundnadel verwenden, um einen Pullover zu stricken.",
-      "imageLink": "circular-needle.jpg",
+      "imageLink": "image_files\\English\\circular-needle.jpg",
       "audioLink": "circular needle.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Ein Werkzeug, das verwendet wird, um eine abgerundete Ecke auf einem Stück Papier oder Karte zu erstellen.",
       "example": "I used a corner punch to create a professional-looking edge on my report. I will use a corner punch to prepare my presentation tomorrow. She had used a corner punch to finish her project last week.",
       "example_translation": "Ich verwendete eine Eckstanze, um eine professionell aussehende Kante an meinem Bericht zu erstellen. Ich werde eine Eckstanze verwenden, um meine Präsentation morgen vorzubereiten. Sie hatte eine Eckstanze verwendet, um ihr Projekt letzte Woche zu beenden.",
-      "imageLink": "corner-punch.jpg",
+      "imageLink": "image_files\\English\\corner-punch.jpg",
       "audioLink": "corner punch.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Ein Typ von Papier mit einer gekräuselten Textur, das oft für Dekorationen und Handarbeiten verwendet wird.",
       "example": "The party decorations were made from crepe paper in bright colors. We will use crepe paper to make flowers for the wedding. She had used crepe paper to create a beautiful backdrop for her photography project.",
       "example_translation": "Die Party-Dekorationen bestanden aus farbigem Krepapier. Wir werden Krepapier verwenden, um Blumen für die Hochzeit zu machen. Sie hatte Krepapier verwendet, um einen schönen Hintergrund für ihr Fotografieprojekt zu erstellen.",
-      "imageLink": "crepe-paper.jpg",
+      "imageLink": "image_files\\English\\crepe-paper.jpg",
       "audioLink": "crepe paper.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Ein Werkzeug, das verwendet wird, um Schleifen in Garn oder Faden zu erstellen, um Stoff zu machen, oft für das Herstellen von Kleidung, Accessoires und Wohnaccessoires verwendet.",
       "example": "I used a crochet hook to make a blanket for my nephew. She will use a crochet hook to create a beautiful sweater. He had used a crochet hook to make a hat for his sister last winter.",
       "example_translation": "Ich verwendete eine Häkelnadel, um eine Decke für meinen Neffen zu machen. Sie wird eine Häkelnadel verwenden, um einen schönen Pullover zu erstellen. Er hatte eine Häkelnadel verwendet, um einen Hut für seine Schwester letzten Winter zu machen.",
-      "imageLink": "crochet-hook.jpg",
+      "imageLink": "image_files\\English\\crochet-hook.jpg",
       "audioLink": "crochet hook.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Eine Art von Stickerei, die darin besteht, Muster auf Stoffen mit x-förmigen Stichen zu erstellen.",
       "example": "I love making cross stitch patterns on my free time. She will use cross stitch to create a beautiful picture. They had used cross stitch to make a quilt for their anniversary.",
       "example_translation": "Ich liebe es, Kreuzstichmuster in meiner Freizeit zu erstellen. Sie wird Kreuzstich verwenden, um ein schönes Bild zu erstellen. Sie hatten Kreuzstich verwendet, um eine Quilt für ihr Jubiläum zu machen.",
-      "imageLink": "cross-stitch.jpg",
+      "imageLink": "image_files\\English\\cross-stitch.jpg",
       "audioLink": "cross stitch.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Ein Datumsstempel ist ein Gerät oder ein Merkmal, das das Datum eines Dokuments, Bildes oder eines anderen Artikels anzeigt.",
       "example": "I need to put a date stamp on this contract before I sign it. I stamped the document with a date stamp yesterday. I will use a date stamp to mark the deadline.",
       "example_translation": "Ich muss diesem Vertrag einen Datumsstempel setzen, bevor ich ihn unterschreibe. Ich habe das Dokument gestern mit einem Datumsstempel versehen. Ich werde einen Datumsstempel verwenden, um das Datum der Frist zu markieren.",
-      "imageLink": "date-stamp.jpg",
+      "imageLink": "image_files\\English\\date-stamp.jpg",
       "audioLink": "date stamp.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Decoupagepapier ist eine Art von Papier, das zum Ausschneiden von Bildern oder Designs verwendet wird, um sie auf eine Oberfläche aufzukleben, oft in Bastel- und Kunstprojekten.",
       "example": "I love using decoupage paper to create unique designs. She cut out the flowers from the decoupage paper and glued them onto the vase. They will use decoupage paper to decorate the walls.",
       "example_translation": "Ich liebe es, Decoupagepapier zu verwenden, um einzigartige Designs zu erstellen. Sie schnitt die Blumen aus dem Decoupagepapier aus und klebte sie auf das Vasen. Sie werden Decoupagepapier verwenden, um die Wände zu dekorieren.",
-      "imageLink": "decoupage-paper.jpg",
+      "imageLink": "image_files\\English\\decoupage-paper.jpg",
       "audioLink": "decoupage paper.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Stickgarn ist eine Art von Faden, die für Stickerei verwendet wird, typischerweise aus Baumwolle oder Seide hergestellt und in verschiedenen Farben erhältlich.",
       "example": "I need to buy more embroidery floss for my new project. She used embroidery floss to create a beautiful design on the fabric. They will teach us how to use embroidery floss in the class.",
       "example_translation": "Ich muss mehr Stickgarn für mein neues Projekt kaufen. Sie verwendete Stickgarn, um ein schönes Design auf dem Stoff zu erstellen. Sie werden uns in der Klasse zeigen, wie man Stickgarn verwendet.",
-      "imageLink": "embroidery-floss.jpg",
+      "imageLink": "image_files\\English\\embroidery-floss.jpg",
       "audioLink": "embroidery floss.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Ein Stickrahmen ist ein runder Rahmen, der verwendet wird, um Stoff straff zu halten, damit das Nähen und die Stickerei erleichtert werden.",
       "example": "I lost my embroidery hoop, can you lend me yours? She used an embroidery hoop to create a beautiful piece of art. They will provide us with embroidery hoops in the workshop.",
       "example_translation": "Ich habe meinen Stickrahmen verloren, kannst du mir deinen leihen? Sie verwendete einen Stickrahmen, um ein schönes Kunstwerk zu erstellen. Sie werden uns in der Werkstatt mit Stickrahmen ausstatten.",
-      "imageLink": "embroidery-hoop.jpg",
+      "imageLink": "image_files\\English\\embroidery-hoop.jpg",
       "audioLink": "embroidery hoop.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Ein Schaum-Pinsel ist eine Art von Pinsel, der zum Auftragen von Klebstoff, Farbe oder anderen Materialien auf einer Oberfläche verwendet wird. Er ist durch seinen weichen, porösen Schaumkopf gekennzeichnet, der das Material gleichmäßig aufnimmt und verteilt.",
       "example": "I used a foam brush to apply the glue to the fabric. Yesterday, I had used a foam brush to paint the walls. Tomorrow, I will use a foam brush to apply the adhesive to the paper.",
       "example_translation": "Ich verwendete einen Schaum-Pinsel, um den Klebstoff auf dem Stoff aufzutragen. Gestern hatte ich einen Schaum-Pinsel verwendet, um die Wände zu streichen. Morgen werde ich einen Schaum-Pinsel verwenden, um den Klebstoff auf dem Papier aufzutragen.",
-      "imageLink": "foam-brush.jpg",
+      "imageLink": "image_files\\English\\foam-brush.jpg",
       "audioLink": "foam brush.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Eine Heißklebepistole ist ein handgehaltenes Gerät, das zum Auftragen von Heißschmelzklebstoff auf einer Oberfläche verwendet wird. Es wird häufig in Crafting, DIY-Projekten und industriellen Anwendungen eingesetzt.",
       "example": "I used a glue gun to attach the fabric to the frame. Yesterday, I had used a glue gun to bond the plastic pieces together. Tomorrow, I will use a glue gun to attach the decorative trim to the furniture.",
       "example_translation": "Ich verwendete eine Heißklebepistole, um den Stoff an den Rahmen anzubringen. Gestern hatte ich eine Heißklebepistole verwendet, um die Kunststoffteile miteinander zu verbinden. Morgen werde ich eine Heißklebepistole verwenden, um den dekorativen Besatz an das Möbel anzubringen.",
-      "imageLink": "glue-gun.jpg",
+      "imageLink": "image_files\\English\\glue-gun.jpg",
       "audioLink": "glue gun.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Ein Hakenschluss ist eine Art von Verschluss, die zum Zusammenfügen zweier Teile verwendet wird, bestehend aus einem hakennförmigen Gerät und einem korrespondierenden augenförmigen Empfänger.",
       "example": "I used a hook and eye to fasten the bra. Yesterday, I had used a hook and eye to close the zipper. Tomorrow, I will use a hook and eye to attach the strap to the bag.",
       "example_translation": "Ich verwendete einen Hakenschluss, um den BH zu schließen. Gestern hatte ich einen Hakenschluss verwendet, um den Reißverschluss zu schließen. Morgen werde ich einen Hakenschluss verwenden, um den Riemen an die Tasche anzubringen.",
-      "imageLink": "hook-and-eye.jpg",
+      "imageLink": "image_files\\English\\hook-and-eye.jpg",
       "audioLink": "hook and eye.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Eine Tintenplatte ist eine kleine, flache Oberfläche, die zum Eintauchen von Stempeln oder anderen Objekten verwendet wird, typischerweise aus einem porösen Material hergestellt, das Tinte aufnimmt und zurückhält.",
       "example": "I used an ink pad to stamp the design on the paper. Yesterday, I had used an ink pad to ink the rubber stamp. Tomorrow, I will use an ink pad to create a pattern on the fabric.",
       "example_translation": "Ich verwendete eine Tintenplatte, um das Design auf dem Papier zu stampfen. Gestern hatte ich eine Tintenplatte verwendet, um den Gummistempel zu tünchen. Morgen werde ich eine Tintenplatte verwenden, um ein Muster auf dem Stoff zu erstellen.",
-      "imageLink": "ink-pad.jpg",
+      "imageLink": "image_files\\English\\ink-pad.jpg",
       "audioLink": "ink pad.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Ein Paar spitzen Stangen, typischerweise aus Metall oder Holz, verwendet, um Wolle bei der Strickerei zu manipulieren.",
       "example": "She had been knitting with her grandmother's old knitting needles since she was a child. Yesterday, she bought a new pair. Tomorrow, she will teach her friend how to use them.",
       "example_translation": "Sie hatte seit ihrer Kindheit mit den alten Stricknadeln ihrer Großmutter gestrickt. Gestern kaufte sie ein neues Paar. Morgen wird sie ihrer Freundin beibringen, wie man sie verwendet.",
-      "imageLink": "knitting-needles.jpg",
+      "imageLink": "image_files\\English\\knitting-needles.jpg",
       "audioLink": "knitting needles.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Ein formbares Material, oft farblich, verwendet für das Erstellen dreidimensionaler Modelle oder Skulpturen.",
       "example": "The children played with the modelling clay all morning, making animals and shapes. Later, they will make a city out of it. Next week, they will learn how to bake their creations.",
       "example_translation": "Die Kinder spielten den ganzen Morgen mit der Modeliermasse, indem sie Tiere und Formen erstellten. Später werden sie eine Stadt daraus machen. Nächste Woche werden sie lernen, ihre Kreationen zu backen.",
-      "imageLink": "modelling-clay.jpg",
+      "imageLink": "image_files\\English\\modelling-clay.jpg",
       "audioLink": "modelling clay.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Ein Werkzeug, das verwendet wird, um Faden oder Garn durch das Auge einer Nadel zu führen.",
       "example": "She struggled to thread her needle until she found the needle threader her grandmother had given her. Now she can sew her quilt easily. In the future, she will teach her daughter how to use it.",
       "example_translation": "Sie kämpfte, ihre Nadel zu fädeln, bis sie den Nadelzierer fand, den ihre Großmutter ihr gegeben hatte. Jetzt kann sie ihren Quilt leicht nähen. In Zukunft wird sie ihrer Tochter beibringen, wie man ihn verwendet.",
-      "imageLink": "needle-threader.jpg",
+      "imageLink": "image_files\\English\\needle-threader.jpg",
       "audioLink": "needle threader.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Ein Werkzeug, das verwendet wird, um Zahlen oder andere Identifizierungszeichen auf Dokumenten oder Objekten zu prägen.",
       "example": "The office used a numbering stamp to mark the pages of their reports. Yesterday, they ran out of ink. Tomorrow, they will order a new one.",
       "example_translation": "Das Büro verwendete einen Nummernstempel, um die Seiten ihrer Berichte zu markieren. Gestern liefen sie aus Tinte aus. Morgen werden sie einen neuen bestellen.",
-      "imageLink": "numbering-stamp.jpg",
+      "imageLink": "image_files\\English\\numbering-stamp.jpg",
       "audioLink": "numbering stamp.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Ein Werkzeug, das verwendet wird, um Papier zu schneiden, typischerweise bestehend aus einer flachen, rechteckigen Klinge mit einem Griff.",
       "example": "I used a paper cutter to trim the edges of the photo. I will use a paper cutter to cut out the design. I had used a paper cutter to cut the paper into squares.",
       "example_translation": "Ich benutzte ein Papiermesser, um die Ränder des Fotos zu kürzen. Ich werde ein Papiermesser benutzen, um das Design auszuschneiden. Ich hatte ein Papiermesser benutzt, um das Papier in Quadrate zu schneiden.",
-      "imageLink": "paper-cutter.jpg",
+      "imageLink": "image_files\\English\\paper-cutter.jpg",
       "audioLink": "paper cutter.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Ein Typ von Modellierknete, typischerweise aus einer Mischung aus Ton, Wasser und Öl hergestellt, die für künstlerische und bildende Zwecke verwendet wird.",
       "example": "The children played with plasticine to create animals. The artist used plasticine to create a miniature sculpture. The student had used plasticine to create a 3D model.",
       "example_translation": "Die Kinder spielten mit Plastilin, um Tiere zu erstellen. Der Künstler benutzte Plastilin, um eine Miniatur-Skulptur zu erstellen. Der Schüler hatte Plastilin benutzt, um ein 3D-Modell zu erstellen.",
-      "imageLink": "play-dough-plasticine.jpg",
+      "imageLink": "image_files\\English\\play-dough-plasticine.jpg",
       "audioLink": "plasticine.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Ein Typ von Farbe, typischerweise wasserbasiert und hochpigmentiert, der zum Erstellen großer, farbiger Designs und Poster verwendet wird.",
       "example": "The artist used poster paint to create a vibrant mural. The student will use poster paint to create a colorful poster. The designer had used poster paint to create a bold advertisement.",
       "example_translation": "Der Künstler benutzte Plakatfarbe, um ein leuchtendes Wandgemälde zu erstellen. Der Schüler wird Plakatfarbe benutzen, um ein farbiges Poster zu erstellen. Der Designer hatte Plakatfarbe benutzt, um eine kühne Werbung zu erstellen.",
-      "imageLink": "poster-paint.jpg",
+      "imageLink": "image_files\\English\\poster-paint.jpg",
       "audioLink": "poster paint.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Ein Typ von Dekorstein, typischerweise aus Glas oder Kristall hergestellt, der verwendet wird, um Kleidung, Accessoires und andere Gegenstände mit Glanz und Glamour zu versehen.",
       "example": "The dress was adorned with rhinestones to add extra sparkle. The designer used rhinestones to create a dazzling jewelry piece. The performer had worn a costume covered in rhinestones for the show.",
       "example_translation": "Das Kleid war mit Strasssteinen geschmückt, um extra Funkeln hinzuzufügen. Der Designer benutzte Strasssteine, um ein atemberaubendes Schmuckstück zu erstellen. Der Künstler trug ein Kostüm, das mit Strasssteinen für die Show bedeckt war.",
-      "imageLink": "rhinestone.jpg",
+      "imageLink": "image_files\\English\\rhinestone.jpg",
       "audioLink": "rhinestone.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Ein dünnes, durchsichtiges Papier, hergestellt aus dem Mark des Reispapierbaumes, verwendet zum Verpacken von Lebensmitteln, Origami-Herstellen und anderen Handwerken.",
       "example": "She carefully wrapped the sushi in rice paper and served it to the guests. Last week, she had bought a new pack of rice paper at the Asian market. By next year, she will have mastered the art of making delicate rice paper flowers.",
       "example_translation": "Sie wickelte das Sushi sorgfältig in Reispapier ein und servierte es den Gästen. Letzte Woche hatte sie ein neues Pack Reispapier auf dem asiatischen Markt gekauft. Bis nächsten Jahr wird sie die Kunst, zarte Reispapierblumen zu machen, beherrschen.",
-      "imageLink": "rice-paper.jpg",
+      "imageLink": "image_files\\English\\rice-paper.jpg",
       "audioLink": "rice paper.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Ein Grundnähenstich, verwendet für Naht, Ansammeln und Proben, gekennzeichnet durch eine Serie von kleinen, gleichmäßigen Stichen.",
       "example": "She used a running stitch to hem the pants. The running stitch is useful for sewing stretchy fabrics. By the end of the class, she will have mastered the running stitch and be ready to move on to more complex stitches.",
       "example_translation": "Sie benutzte einen Gerade Stickstich, um die Hosen zu säumen. Der Gerade Stickstich ist nützlich für das Nähen von stretchigen Stoffen. Bis zum Ende der Klasse wird sie den Gerade Stickstich beherrschen und bereit sein, zu komplexeren Stichen überzugehen.",
-      "imageLink": "running-stitch.jpg",
+      "imageLink": "image_files\\English\\running-stitch.jpg",
       "audioLink": "running stitch.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Ein kleines Behältnis, verwendet zum Lagern von Nähnadeln, Fäden und anderen Zubehörteilen.",
       "example": "She kept her sewing box organized by color. Her grandmother had given her a beautiful antique sewing box as a gift. By the time she was 10, she had already filled her sewing box with an assortment of colorful threads.",
       "example_translation": "Sie hielt ihr Nähkästchen nach Farbe geordnet. Ihre Großmutter hatte ihr ein schönes, antikes Nähkästchen als Geschenk gegeben. Bis zum Zeitpunkt, als sie 10 war, hatte sie bereits ihr Nähkästchen mit einer Auswahl von bunten Fäden gefüllt.",
-      "imageLink": "sewing-box.jpg",
+      "imageLink": "image_files\\English\\sewing-box.jpg",
       "audioLink": "sewing box.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Ein Vorlage oder Führer, verwendet zum Ausschneiden von Stoffstücken für ein Kleidungsstück oder Textilprojekt.",
       "example": "She used a sewing pattern to make a custom dress. The sewing pattern came with detailed instructions. By next month, she will have completed the sewing pattern and be ready to start a new project.",
       "example_translation": "Sie benutzte ein Schnittmuster, um ein maßgeschneidertes Kleid zu machen. Das Schnittmuster kam mit detaillierten Anweisungen. Bis nächsten Monat wird sie das Schnittmuster abgeschlossen haben und bereit sein, ein neues Projekt zu starten.",
-      "imageLink": "sewing-pattern.jpg",
+      "imageLink": "image_files\\English\\sewing-pattern.jpg",
       "audioLink": "sewing pattern.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Ein Modell der menschlichen Figur, das von Schneidern verwendet wird, um Kleidung anzuzeigen oder anzupassen.",
       "example": "The tailor's dummy in the window display was wearing a beautiful wedding dress. The tailor had used a tailor's dummy to fit the customer's suit. The tailor will use a tailor's dummy to design a new collection.",
       "example_translation": "Die Schneiderpuppe im Schaufenster trug ein schönes Hochzeitskleid. Der Schneider hatte eine Schneiderpuppe verwendet, um den Anzug des Kunden anzupassen. Der Schneider wird eine Schneiderpuppe verwenden, um eine neue Kollektion zu entwerfen.",
-      "imageLink": "tailors-dummy-mannequin.jpg",
+      "imageLink": "image_files\\English\\tailors-dummy-mannequin.jpg",
       "audioLink": "tailor's dummy.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Ein flexibler Lineal mit einer zurückziehbaren Strippe, das zur Längenmessung verwendet wird.",
       "example": "The carpenter used a tape measure to check the length of the wood. She had forgotten her tape measure at home. He will need a tape measure to measure the room.",
       "example_translation": "Der Zimmermann verwendete einen Zollstock, um die Länge des Holzes zu überprüfen. Sie hatte ihren Zollstock zu Hause vergessen. Er wird einen Zollstock benötigen, um das Zimmer zu messen.",
-      "imageLink": "tape-measure.jpg",
+      "imageLink": "image_files\\English\\tape-measure.jpg",
       "audioLink": "tape measure.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Ein weiches, absorbentes Papier, das zum Putzen der Nase oder Wischen von Oberflächen verwendet wird.",
       "example": "She needed tissue paper to blow her nose. He used tissue paper to wipe the spill on the table. They will provide tissue paper in the bathroom.",
       "example_translation": "Sie benötigte Papiertaschentuch, um ihre Nase zu putzen. Er verwendete Papiertaschentuch, um den Tropfen auf dem Tisch zu wischen. Sie werden Papiertaschentuch im Badezimmer bereitstellen.",
-      "imageLink": "tissue-paper.jpg",
+      "imageLink": "image_files\\English\\tissue-paper.jpg",
       "audioLink": "tissue paper.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Eine Art von Farbe, die mit Wasser gemischt wird, um einen transparenten, flüssigen Effekt zu erzielen.",
       "example": "The artist used watercolour to create a beautiful landscape. She had studied watercolour techniques in art school. He will experiment with watercolour to create a new style.",
       "example_translation": "Der Künstler verwendete Aquarellfarbe, um eine schöne Landschaft zu schaffen. Sie hatte Aquarelltechniken in der Kunstschule studiert. Er wird mit Aquarellfarbe experimentieren, um einen neuen Stil zu schaffen.",
-      "imageLink": "watercolour.jpg",
+      "imageLink": "image_files\\English\\watercolour.jpg",
       "audioLink": "watercolour.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Ein Holzstempel ist ein tipos Handheld-Werkzeug, das verwendet wird, um Tinte oder Farbe auf eine Oberfläche aufzutragen, normalerweise in den Künsten, Druckverfahren und anderen kreativen Anwendungen verwendet.",
       "example": "She used a wooden stamp to create a unique design on her pottery. Yesterday, she had stamped a few pieces, but today she is stamping more. By next week, she will have stamped all of them.",
       "example_translation": "Sie verwendete einen Holzstempel, um ein einzigartiges Design auf ihrer Keramik zu erstellen. Gestern hatte sie ein paar Stücke gestempelt, aber heute stempelt sie mehr. Bis nächste Woche wird sie alle gestempelt haben.",
-      "imageLink": "wooden-stamp.jpg",
+      "imageLink": "image_files\\English\\wooden-stamp.jpg",
       "audioLink": "wooden stamp.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Ein Schreibpinsel ist ein Werkzeug, das verwendet wird, um Tinte oder andere Schreibflüssigkeiten auf eine Oberfläche aufzutragen, gemeinhin in der Kalligrafie, Malerei und anderen Formen der künstlerischen Ausdrucksweise verwendet.",
       "example": "The artist carefully selected a writing brush to create intricate calligraphy on the ancient manuscript. Yesterday, she had written a few lines, but today she is writing more. By next month, she will have written the entire text.",
       "example_translation": "Die Künstlerin wählte sorgfältig einen Schreibpinsel aus, um intrikate Kalligrafie auf dem antiken Manuskript zu erstellen. Gestern hatte sie ein paar Zeilen geschrieben, aber heute schreibt sie mehr. Bis nächsten Monat wird sie den gesamten Text geschrieben haben.",
-      "imageLink": "writing-brush.jpg",
+      "imageLink": "image_files\\English\\writing-brush.jpg",
       "audioLink": "writing brush.mp3"
     }
   ]

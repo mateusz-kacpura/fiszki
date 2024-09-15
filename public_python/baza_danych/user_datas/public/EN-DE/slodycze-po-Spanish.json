@@ -9,7 +9,7 @@
       "definition_translation": "Ein kleines, gewöhnlich süßes, gebackenes Essen, das normalerweise außen knusprig und innen weich ist.",
       "example": "I ate a biscuit for breakfast, I am eating a biscuit for lunch, and I will eat a biscuit for dinner.",
       "example_translation": "Ich aß einen Keks zum Frühstück, ich esse einen Keks zum Mittagessen, und ich werde einen Keks zum Abendessen essen.",
-      "imageLink": "biscuit.jpg",
+      "imageLink": "image_files\\English\\biscuit.jpg",
       "audioLink": "biscuit.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Ein süßes gebackenes Dessert, dass normalerweise mit Mehl, Zucker und Eiern hergestellt wird.",
       "example": "She baked a cake for my birthday, I am baking a cake for my sister's birthday, and I will bake a cake for my friend's birthday.",
       "example_translation": "Sie backte einen Kuchen zu meinem Geburtstag, ich backe einen Kuchen zu meiner Schwester's Geburtstag, und ich werde einen Kuchen zu meinem Freund's Geburtstag backen.",
-      "imageLink": "cake.jpg",
+      "imageLink": "image_files\\English\\cake.jpg",
       "audioLink": "cake.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ein süßes Essen, das aus Kakao-Bohnen hergestellt wird, oft als Süßigkeit genossen oder als Zutat in der Kochkunst verwendet.",
       "example": "I love eating chocolate, I loved eating chocolate when I was a kid, and I will love eating chocolate when I am old.",
       "example_translation": "Ich liebe es, Schokolade zu essen, ich liebte es, Schokolade zu essen, als ich ein Kind war, und ich werde es lieben, Schokolade zu essen, wenn ich alt bin.",
-      "imageLink": "chocolate.jpg",
+      "imageLink": "image_files\\English\\chocolate.jpg",
       "audioLink": "chocolate.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ein süßes gefrorenes Dessert, das normalerweise aus Sahne, Zucker und Aromastoffen hergestellt wird.",
       "example": "I ate ice cream at the party, I am eating ice cream at the beach, and I will eat ice cream at the park.",
       "example_translation": "Ich aß Eiscreme auf der Party, ich esse Eiscreme am Strand, und ich werde Eiscreme im Park essen.",
-      "imageLink": "ice-cream.jpg",
+      "imageLink": "image_files\\English\\ice-cream.jpg",
       "audioLink": "ice cream.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Ein süßes Lebensmittel, das mit Zucker hergestellt wird, oft aromatisiert und gefärbt, und als Snack oder Dessert gegessen wird.",
       "example": "I ate a piece of candy at the party. I am eating a piece of candy at the party. I will eat a piece of candy at the party.",
       "example_translation": "Ich aß ein Stück Süßigkeit auf der Party. Ich esse ein Stück Süßigkeit auf der Party. Ich werde ein Stück Süßigkeit auf der Party essen.",
-      "imageLink": "candy.jpg",
+      "imageLink": "image_files\\English\\candy.jpg",
       "audioLink": "candy.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Ein süßer Gang oder ein Gericht, das gewöhnlich am Ende einer Mahlzeit gegessen wird.",
       "example": "I had dessert at the restaurant. I am having dessert at the restaurant. I will have dessert at the restaurant.",
       "example_translation": "Ich hatte Dessert im Restaurant. Ich habe Dessert im Restaurant. Ich werde Dessert im Restaurant haben.",
-      "imageLink": "dessert.jpg",
+      "imageLink": "image_files\\English\\dessert.jpg",
       "audioLink": "dessert.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Ein süßes Konfekt, das aus einem harten Bonbon auf einem Stock besteht, typischerweise aromatisiert und gefärbt.",
       "example": "I sucked on a lollipop as a child. I am sucking on a lollipop at the fair. I will suck on a lollipop at the carnival.",
       "example_translation": "Ich lutschte als Kind an einem Lutschbonbon. Ich lutsche auf einem Lutschbonbon auf dem Jahrmarkt. Ich werde auf einem Lutschbonbon auf dem Karneval lutschen.",
-      "imageLink": "lollipop.jpg",
+      "imageLink": "image_files\\English\\lollipop.jpg",
       "audioLink": "lollipop.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Hat einen angenehmen Geschmack, insbesondere einen, der für Zucker oder Honig typisch ist.",
       "example": "The sweet cake was delicious. The sweet girl was very friendly. The sweet memory will last forever.",
       "example_translation": "Der süße Kuchen war lecker. Das süße Mädchen war sehr freundlich. Die süße Erinnerung wird für immer bleiben.",
-      "imageLink": "sweet-2.jpg",
+      "imageLink": "image_files\\English\\sweet-2.jpg",
       "audioLink": "sweet.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Lebensmittel, die reich an Zucker und Kalorien sind, werden oft als Zwischenmahlzeit oder Dessert gegessen.",
       "example": "I loved eating sweets as a child, but now I prefer healthier snacks. Yesterday, I bought some sweets for my friend's birthday party. By next year, I will have stopped eating sweets altogether.",
       "example_translation": "Ich liebte es, Süßigkeiten als Kind zu essen, aber jetzt bevorzuge ich gesündere Snacks. Gestern kaufte ich einige Süßigkeiten für die Geburtstagsparty meines Freundes. Bis nächstem Jahr werde ich komplett auf den Verzehr von Süßigkeiten verzichten.",
-      "imageLink": "sweets.jpg",
+      "imageLink": "image_files\\English\\sweets.jpg",
       "audioLink": "sweets.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Ein rechteckig geformtes Konfektionsmittel aus Schokolade, oft mit Nüssen, Karamell oder anderen Füllstoffen.",
       "example": "I ate a chocolate bar during lunch, but then I felt guilty about the calories. My sister bought a chocolate bar for her friend's birthday gift. By next month, I will have perfected my recipe for homemade chocolate bars.",
       "example_translation": "Ich aß während des Mittagessens einen Schokoladenriegel, aber dann fühlte ich mich schuldig wegen der Kalorien. Meine Schwester kaufte einen Schokoladenriegel als Geburtstagsgeschenk für ihre Freundin. Bis nächsten Monat werde ich mein Rezept für hausgemachte Schokoladenriegel perfektioniert haben.",
-      "imageLink": "chocolate-bar.jpg",
+      "imageLink": "image_files\\English\\chocolate-bar.jpg",
       "audioLink": "chocolate bar.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Eine süße oder salzige Ausbreitung aus Früchten, oft als Dessert serviert oder als Füllung für Kuchen und Gebäck verwendet.",
       "example": "I spread jelly on my toast for breakfast, but then I spilled it on my shirt. My mom made jelly for our family gathering last weekend. By next summer, I will have learned how to make homemade jelly from scratch.",
       "example_translation": "Ich breitete Gelatine auf meinem Toast für das Frühstück, aber dann verschüttete ich es auf mein Hemd. Meine Mutter machte Gelatine für unsere Familienzusammenkunft letzten Wochenende. Bis nächsten Sommer werde ich gelernt haben, wie man hausgemachte Gelatine von Grund auf macht.",
-      "imageLink": "jelly.jpg",
+      "imageLink": "image_files\\English\\jelly.jpg",
       "audioLink": "jelly.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Ein süßer Snack aus Zucker, der zu dünnen Fäden gesponnen wird, oft auf Festen und Karnevalen serviert.",
       "example": "I ate candyfloss at the fair last night, but then I got a stomachache. My friend bought candyfloss for her kid's birthday party. By next year, I will have saved enough money to buy a candyfloss machine.",
       "example_translation": "Ich aß Zuckerwatte auf dem Jahrmarkt letzte Nacht, aber dann bekam ich Bauchschmerzen. Meine Freundin kaufte Zuckerwatte für die Geburtstagsparty ihres Kindes. Bis nächsten Jahr werde ich genug Geld gespart haben, um eine Zuckerwattemaschine zu kaufen.",
-      "imageLink": "candyfloss.jpg",
+      "imageLink": "image_files\\English\\candyfloss.jpg",
       "audioLink": "candyfloss.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Eine Art Bonbon, die aus Gelatine hergestellt wird, meist in Form kleiner Tiere oder anderer Objekte und typischerweise fruchtgeschmackt.",
       "example": "I ate a bag of gummies at the movie theater yesterday. I am eating gummies while studying for my exam. I will eat gummies at the party tonight.",
       "example_translation": "Ich aß ein Säckchen Gummibärchen im Kino gestern. Ich esse Gummibärchen während ich für meine Prüfung studiere. Ich werde Gummibärchen auf der Party heute Abend essen.",
-      "imageLink": "gummies.jpg",
+      "imageLink": "image_files\\English\\gummies.jpg",
       "audioLink": "gummies.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Eine Art Bonbon, die hart und spröde ist, oft mit Frucht- oder Gewürzgeschmack, und typischerweise gelutscht wird, um den Geschmack freizusetzen.",
       "example": "I sucked on a hard candy during the long car ride. She is sucking on a hard candy to soothe her sore throat. They will suck on hard candies at the parade tomorrow.",
       "example_translation": "Ich lutschte ein Härtebonbon während der langen Autofahrt. Sie lutscht ein Härtebonbon, um ihren schmerzenden Hals zu beruhigen. Sie werden Härtebonbons auf dem Umzug morgen lutschen.",
-      "imageLink": "hard-candy.jpg",
+      "imageLink": "image_files\\English\\hard-candy.jpg",
       "audioLink": "hard candy.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Eine süße Mandel-basierte Paste, die als Füllung für Kuchen, Gebäck und Schokoladen verwendet wird oder in verschiedenen Formen und Dekorationen geformt wird.",
       "example": "The bakery uses marzipan to make decorative fruits and animals. She made a marzipan cake for her birthday party. They will use marzipan to create festive holiday decorations.",
       "example_translation": "Die Bäckerei verwendet Mandelmassen, um dekorative Früchte und Tiere herzustellen. Sie machte einen Marzipankuchen für ihre Geburtstagsparty. Sie werden Mandelmassen verwenden, um festliche Weihnachtsdekorationen zu erstellen.",
-      "imageLink": "marzipan.jpg",
+      "imageLink": "image_files\\English\\marzipan.jpg",
       "audioLink": "marzipan.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Eine Art Bonbon, die durch das Kochen von Zucker und Wasser hergestellt wird, um eine harte, spröde Schale zu erzeugen, oft mit Frucht- oder Gewürzgeschmack.",
       "example": "I ate a boiled sweet at the fair yesterday. She is sucking on a boiled sweet to calm her nerves. They will sell boiled sweets at the market tomorrow.",
       "example_translation": "Ich aß ein Bonbon auf dem Jahrmarkt gestern. Sie lutscht ein Bonbon, um ihre Nerven zu beruhigen. Sie werden Bonbons auf dem Markt morgen verkaufen.",
-      "imageLink": "boiled-sweet.jpg",
+      "imageLink": "image_files\\English\\boiled-sweet.jpg",
       "audioLink": "boiled sweet.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Eine Konditorei ist ein Ort, an dem Süßigkeiten und Bonbons hergestellt oder verkauft werden. Es kann auch die Kunst des Süßwarenmachens bezeichnen.",
       "example": "I visited a confectionery shop last week and bought some delicious chocolates. I am going to visit a confectionery shop tomorrow to buy a cake for my birthday. I had visited a confectionery shop last year and bought some candies.",
       "example_translation": "Ich besuchte letzten Woche einen Konditorei-Laden und kaufte einige leckere Schokoladen. Ich werde morgen einen Konditorei-Laden besuchen, um einen Kuchen für meinen Geburtstag zu kaufen. Ich hatte letzten Jahr einen Konditorei-Laden besucht und einige Bonbons gekauft.",
-      "imageLink": "confectionery.jpg",
+      "imageLink": "image_files\\English\\confectionery.jpg",
       "audioLink": "confectionery.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Fudge ist eine Art von Süßigkeit, die aus Zucker, Sahne und Geschmacksstoffen, oft Schokolade, hergestellt wird. Sie ist typischerweise weich und kauig in der Textur.",
       "example": "I ate some fudge at the fair last year. I am eating some fudge now, and it's delicious. I will eat some fudge tomorrow at the party.",
       "example_translation": "Ich aß einige Fudge auf dem Jahrmarkt letzten Jahr. Ich esse jetzt some Fudge, und es ist lecker. Ich werde einige Fudge morgen auf der Party essen.",
-      "imageLink": "fudge.jpg",
+      "imageLink": "image_files\\English\\fudge.jpg",
       "audioLink": "fudge.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Gelée-Bonbons sind eine Art von Süßigkeit, die aus Fruchtsaft oder Geschmacksstoffen, Zucker und Pektin hergestellt wird, und eine weiche und gel-artige Textur hat.",
       "example": "I loved eating jelly sweets as a child. I am going to buy some jelly sweets for my niece's birthday party. I had eaten some jelly sweets at the carnival last week.",
       "example_translation": "Ich liebte es, als Kind Gelée-Bonbons zu essen. Ich werde einige Gelée-Bonbons für die Geburtstagsparty meiner Nichte kaufen. Ich hatte einige Gelée-Bonbons auf dem Jahrmarkt letzten Woche gegessen.",
-      "imageLink": "jelly-sweets.jpg",
+      "imageLink": "image_files\\English\\jelly-sweets.jpg",
       "audioLink": "jelly sweets.mp3"
     }
   ]

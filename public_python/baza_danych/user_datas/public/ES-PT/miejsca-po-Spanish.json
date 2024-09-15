@@ -9,7 +9,7 @@
       "definition_translation": "Um banco é uma instituição financeira que fornece serviços bancários a indivíduos e empresas.",
       "example": "Fui al banco ayer para depositar mi salario, voy al banco todas las semanas, y iré al banco mañana para retirar efectivo.",
       "example_translation": "Eu fui ao banco para depositar meu pagamento ontem, eu vou ao banco todas as semanas, e irei ao banco amanhã para sacar dinheiro.",
-      "imageLink": "bank.jpg",
+      "imageLink": "image_files\\English\\bank.jpg",
       "audioLink": "bank.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Um bar é um lugar onde as pessoas vão para beber e se socializar.",
       "example": "Fui al bar la noche pasada, voy al bar todos los viernes, y iré al bar la próxima semana para ver el partido.",
       "example_translation": "Eu fui ao bar ontem à noite, eu vou ao bar todas as sextas-feiras, e irei ao bar na próxima semana para assistir ao jogo.",
-      "imageLink": "bar.jpg",
+      "imageLink": "image_files\\English\\bar.jpg",
       "audioLink": "bar.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Uma praia é uma forma de terra ao longo de um corpo de água, tipicamente consistindo de partículas soltas como areia ou seixos.",
       "example": "Fui a la playa el verano pasado, voy a la playa todos los años, y iré a la playa el próximo mes para relajarme.",
       "example_translation": "Eu fui à praia no último verão, eu vou à praia todos os anos, e irei à praia no próximo mês para relaxar.",
-      "imageLink": "beach.jpg",
+      "imageLink": "image_files\\English\\beach.jpg",
       "audioLink": "beach.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Um café é um lugar onde as pessoas vão para beber café e se socializar.",
       "example": "Fui a la cafetería esta mañana, voy a la cafetería todos los días, y iré a la cafetería mañana para reunirme con mis amigos.",
       "example_translation": "Eu fui ao café esta manhã, eu vou ao café todos os dias, e irei ao café amanhã para encontrar meus amigos.",
-      "imageLink": "cafe.jpg",
+      "imageLink": "image_files\\English\\cafe.jpg",
       "audioLink": "cafĂ©.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Um cinema é um lugar onde filmes são mostrados ao público para entretenimento.",
       "example": "Fui al cine la noche pasada, voy al cine esta noche, y iré al cine mañana.",
       "example_translation": "Eu fui ao cinema ontem à noite, estou indo ao cinema hoje à noite, e irei ao cinema amanhã.",
-      "imageLink": "cinema-1.jpg",
+      "imageLink": "image_files\\English\\cinema-1.jpg",
       "audioLink": "cinema.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Uma fábrica é um prédio ou complexo onde mercadorias são fabricadas ou montadas.",
       "example": "Trabajé en una fábrica cuando era más joven, estoy trabajando en una fábrica ahora, y trabajaré en una fábrica de nuevo.",
       "example_translation": "Eu trabalhei em uma fábrica quando eu era mais jovem, estou trabalhando em uma fábrica agora, e irei trabalhar em uma fábrica novamente.",
-      "imageLink": "factory.jpg",
+      "imageLink": "image_files\\English\\factory.jpg",
       "audioLink": "factory.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Uma fazenda é uma área de terra utilizada para fins agrícolas, como cultivar culturas ou criar animais.",
       "example": "Viví en una granja cuando era niño, estoy visitando una granja la próxima semana, y seré dueño de una granja algún día.",
       "example_translation": "Eu vivi em uma fazenda quando eu era criança, estou visitando uma fazenda na semana que vem, e irei possuir uma fazenda um dia.",
-      "imageLink": "farm.jpg",
+      "imageLink": "image_files\\English\\farm.jpg",
       "audioLink": "farm.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Um apartamento é um conjunto de salas, incluindo cozinha e banheiro, projetado para viver dentro.",
       "example": "Alquilé un apartamento el año pasado, estoy viviendo en un apartamento ahora, y compraré un apartamento pronto.",
       "example_translation": "Eu aluguei um apartamento no ano passado, estou morando em um apartamento agora, e irei comprar um apartamento em breve.",
-      "imageLink": "flat.jpg",
+      "imageLink": "image_files\\English\\flat.jpg",
       "audioLink": "flat.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Um hospital é uma instituição de saúde que fornece tratamento de pacientes com serviços médicos e cirúrgicos especializados e pessoal.",
       "example": "Visité a mi amigo en el hospital ayer. Lo visitaré de nuevo mañana. Lo había visitado la semana pasada.",
       "example_translation": "Eu visitei meu amigo no hospital ontem. Vou visitá-lo novamente amanhã. Eu o havia visitado na semana passada.",
-      "imageLink": "hospital.jpg",
+      "imageLink": "image_files\\English\\hospital.jpg",
       "audioLink": "hospital.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Um hotel é um estabelecimento que fornece alojamento pago, geralmente por um curto prazo.",
       "example": "Me alojé en un hotel en París el año pasado. Estoy alojado en un hotel ahora. Me alojaré en un hotel el próximo mes.",
       "example_translation": "Eu fiquei em um hotel em Paris no ano passado. Estou hospedado em um hotel agora. Vou ficar em um hotel no próximo mês.",
-      "imageLink": "hotel-1.jpg",
+      "imageLink": "image_files\\English\\hotel-1.jpg",
       "audioLink": "hotel.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Uma casa é um edifício para habitação humana, especialmente uma moradia ou residência.",
       "example": "Viví en una casa cuando era niño. Vivo en una casa ahora. Viviré en una casa cuando me retire.",
       "example_translation": "Eu vivi em uma casa quando eu era criança. Eu moro em uma casa agora. Vou morar em uma casa quando eu me aposentar.",
-      "imageLink": "house.jpg",
+      "imageLink": "image_files\\English\\house.jpg",
       "audioLink": "house.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Um museu é uma instituição dedicada à aquisição, conservação, estudo, exposição e interpretação educacional de objetos com valor científico, histórico ou artístico.",
       "example": "Visití un museo la semana pasada. Visitaré un museo el próximo mes. Había visitado un museo el año pasado.",
       "example_translation": "Eu visitei um museu na semana passada. Vou visitar um museu no próximo mês. Eu havia visitado um museu no ano passado.",
-      "imageLink": "museum.jpg",
+      "imageLink": "image_files\\English\\museum.jpg",
       "audioLink": "museum.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um grande espaço verde público em uma cidade, com grama, árvores e frequentemente instalações para recreação e entretenimento.",
       "example": "Caminé por el parque ayer, camino por el parque todas las mañanas, caminaré por el parque mañana.",
       "example_translation": "Eu caminhei pelo parque ontem, eu camino pelo parque todas as manhãs, eu caminharei pelo parque amanhã.",
-      "imageLink": "park.jpg",
+      "imageLink": "image_files\\English\\park.jpg",
       "audioLink": "park.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Um lugar onde as pessoas pagam para sentar e comer refeições que são cozinhadas e servidas no local.",
       "example": "Comí en un restaurante la noche pasada, como en un restaurante todas las semanas, comeré en un restaurante el próximo mes.",
       "example_translation": "Eu comi em um restaurante ontem à noite, eu como em um restaurante todas as semanas, eu comerei em um restaurante no próximo mês.",
-      "imageLink": "restaurant.jpg",
+      "imageLink": "image_files\\English\\restaurant.jpg",
       "audioLink": "restaurant.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Um corpo natural de água que flui, frequentemente conectando lagos, áreas úmidas ou oceanos.",
       "example": "Me bañé en el río ayer, me baño en el río todos los veranos, me bañaré en el río el próximo año.",
       "example_translation": "Eu nadei no rio ontem, eu nado no rio todos os verões, eu nadarei no rio no próximo ano.",
-      "imageLink": "river.jpg",
+      "imageLink": "image_files\\English\\river.jpg",
       "audioLink": "river.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Uma maneira feita para viagem por veículos, especialmente carros, ônibus e caminhões.",
       "example": "Conducí por la carretera la semana pasada, conduzco por la carretera todos los días, conduciré por la carretera la próxima semana.",
       "example_translation": "Eu dirigi no caminho semana passada, eu dirijo no caminho todos os dias, eu dirigirei no caminho na próxima semana.",
-      "imageLink": "road.jpg",
+      "imageLink": "image_files\\English\\road.jpg",
       "audioLink": "road.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Uma instituição onde as pessoas, especialmente crianças, vão aprender com professores.",
       "example": "Fui a la escuela ayer, voy a la escuela hoy y iré a la escuela mañana.",
       "example_translation": "Eu fui para a escola ontem, estou indo para a escola hoje e irei para a escola amanhã.",
-      "imageLink": "school.jpg",
+      "imageLink": "image_files\\English\\school.jpg",
       "audioLink": "school.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Um grande corpo de água salgada que cobre uma parte significativa da superfície da Terra.",
       "example": "Vi el mar ayer, estoy viendo el mar hoy y veré el mar mañana.",
       "example_translation": "Eu vi o mar ontem, estou vendo o mar hoje e verei o mar amanhã.",
-      "imageLink": "sea.jpg",
+      "imageLink": "image_files\\English\\sea.jpg",
       "audioLink": "sea.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Um prédio ou parte de um prédio onde mercadorias ou serviços são vendidos ou oferecidos para venda.",
       "example": "Compré en la tienda ayer, estoy comprando en la tienda hoy y compraré en la tienda mañana.",
       "example_translation": "Eu fiz compras no shopping ontem, estou fazendo compras no shopping hoje e farei compras no shopping amanhã.",
-      "imageLink": "shop.jpg",
+      "imageLink": "image_files\\English\\shop.jpg",
       "audioLink": "shop.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Um prédio ou estrutura onde os trens ou ônibus param para deixar os passageiros subirem ou descerem.",
       "example": "Llegué a la estación ayer, estoy llegando a la estación hoy y llegaré a la estación mañana.",
       "example_translation": "Eu cheguei à estação ontem, estou chegando à estação hoje e chegarei à estação amanhã.",
-      "imageLink": "station-1.jpg",
+      "imageLink": "image_files\\English\\station-1.jpg",
       "audioLink": "station.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Parar ou interromper algo; cessar de se mover ou fazer algo",
       "example": "Me paré cuando llegué al stop. Voy a parar por la tienda en mi camino a casa. Había parado de estudiar cuando comenzó el examen.",
       "example_translation": "Eu parei de correr quando eu alcançei o sinal de parada. Eu vou parar na loja no meu caminho para casa. Eu havia parado de estudar quando o exame começou.",
-      "imageLink": "stop.jpg",
+      "imageLink": "image_files\\English\\stop.jpg",
       "audioLink": "stop.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": " Uma via pública em um ambiente construído",
       "example": "Caminé por la calle para llegar al parque. La calle estaba cerrada debido a la construcción. Ella me espera en la esquina de la calle a las 5 pm.",
       "example_translation": "Eu caminhei pela rua para chegar ao parque. A rua foi fechada devido à construção. Ela irá me encontrar no canto da rua às 5 pm.",
-      "imageLink": "street.jpg",
+      "imageLink": "image_files\\English\\street.jpg",
       "audioLink": "street.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um grande mercado varejista que vende alimentos e outros produtos para o lar",
       "example": "Fui al supermercado a comprar comestibles. El supermercado está abierto 24 horas al día. Ella trabaja como cajera en un supermercado.",
       "example_translation": "Eu fui ao supermercado para comprar mantimentos. O supermercado está aberto 24 horas por dia. Ela trabalha como caixa de um supermercado.",
-      "imageLink": "supermarket.jpg",
+      "imageLink": "image_files\\English\\supermarket.jpg",
       "audioLink": "supermarket.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Uma estrutura preenchida com água para as pessoas nadarem",
       "example": "Fui a la piscina a nadar vueltas. La piscina estaba cerrada por mantenimiento. Instalaron una nueva piscina en el jardín trasero.",
       "example_translation": "Eu fui à piscina para nadar voltas. A piscina foi fechada para manutenção. Eles instalaram uma nova piscina no quintal.",
-      "imageLink": "swimming-pool.jpg",
+      "imageLink": "image_files\\English\\swimming-pool.jpg",
       "audioLink": "swimming pool.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Uma cidade é um assentamento humano que é maior que uma aldeia, mas menor que uma cidade.",
       "example": "Me crié en un pueblo pequeño, vivo en un pueblo ahora y visitaré un pueblo el próximo año.",
       "example_translation": "Eu cresci em uma cidade pequena, eu moro em uma cidade agora, e eu visitarei uma cidade no próximo ano.",
-      "imageLink": "town.jpg",
+      "imageLink": "image_files\\English\\town.jpg",
       "audioLink": "town.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Uma universidade é uma instituição de ensino superior e pesquisa, que concede diplomas acadêmicos em várias áreas de estudo.",
       "example": "Me gradué de la universidad el año pasado, estoy estudiando en la universidad ahora y asistiré a la universidad en el futuro.",
       "example_translation": "Eu me formei na universidade no ano passado, eu estou estudando na universidade agora, e eu frequentarei a universidade no futuro.",
-      "imageLink": "university.jpg",
+      "imageLink": "image_files\\English\\university.jpg",
       "audioLink": "university.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Uma aldeia é um grupo de casas e edifícios associados, maior que uma aldeola e menor que uma cidade, situada em uma área rural.",
       "example": "Visitó una aldea el verano pasado, visitaré una aldea el próximo verano y he visitado una aldea muchas veces.",
       "example_translation": "Eu visitei uma aldeia no verão passado, eu visitarei uma aldeia no próximo verão, e eu visitei uma aldeia muitas vezes.",
-      "imageLink": "village.jpg",
+      "imageLink": "image_files\\English\\village.jpg",
       "audioLink": "village.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Um zoológico é um lugar onde os animais são mantidos em cativeiro para as pessoas verem e aprender sobre eles.",
       "example": "Fui al zoológico ayer, iré al zoológico mañana y he ido al zoológico muchas veces.",
       "example_translation": "Eu fui ao zoológico ontem, eu irei ao zoológico amanhã, e eu fui ao zoológico muitas vezes.",
-      "imageLink": "zoo.jpg",
+      "imageLink": "image_files\\English\\zoo.jpg",
       "audioLink": "zoo.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Um lugar onde aeronaves decolam e aterram, geralmente tendo instalações para passageiros e carga.",
       "example": "Llegué al aeropuerto ayer, pero mi vuelo fue demorado. Hoy estoy esperando en el aeropuerto mi conexión. Para esta hora mañana, habré llegado a mi destino aeropuerto.",
       "example_translation": "Cheguei ao aeroporto ontem, mas meu voo foi adiado. Hoje, estou esperando no aeroporto para minha conexão. Até essa hora amanhã, já terei chegado ao meu aeroporto de destino.",
-      "imageLink": "airport.jpg",
+      "imageLink": "image_files\\English\\airport.jpg",
       "audioLink": "airport.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Uma unidade de habitação autossuficiente que ocupa apenas parte de um prédio.",
       "example": "Alquilé un apartamento en la ciudad cuando era estudiante. Ahora, soy propietario de un apartamento cerca de la playa. En cinco años, planeo comprar otro apartamento en las montañas.",
       "example_translation": "Aluguei um apartamento na cidade quando eu era estudante. Agora, eu possuo um apartamento perto da praia. Em cinco anos, pretendo comprar outro apartamento nos montes.",
-      "imageLink": "apartment.jpg",
+      "imageLink": "image_files\\English\\apartment.jpg",
       "audioLink": "apartment.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Uma extensão particular de terra ou espaço, especialmente uma usada para um propósito específico.",
       "example": "El parque es un área popular para picnic. El área de negocio de la ciudad es muy concurrida. Para el próximo año, la empresa habrá expandido su área de operaciones.",
       "example_translation": "O parque é uma área popular para piqueniques. A área de negócios da cidade é muito movimentada. Até o ano que vem, a empresa terá expandido sua área de operações.",
-      "imageLink": "area.jpg",
+      "imageLink": "image_files\\English\\area.jpg",
       "audioLink": "area.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Uma loja onde livros são vendidos.",
       "example": "Visité una librería en la parte antigua de la ciudad ayer. La librería cerca de mi casa es muy conveniente. Para el próximo mes, habré abierto mi propia librería.",
       "example_translation": "Visitei uma livraria na parte antiga da cidade ontem. A livraria perto da minha casa é muito conveniente. Até o mês que vem, eu terei aberto minha própria livraria.",
-      "imageLink": "bookshop.jpg",
+      "imageLink": "image_files\\English\\bookshop.jpg",
       "audioLink": "bookshop.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Um edifício ou sala que contém uma grande coleção de livros, periódicos e outras publicações, geralmente arranjados em prateleiras, e frequentemente tendo um balcão ou mesa para vendas ou consulta.",
       "example": "Fui a la tienda de libros ayer y compré una novela nueva. Hoy voy a la tienda de libros a devolver un libro, y mañana iré a la tienda de libros para asistir a un evento de firma de libros.",
       "example_translation": "Eu fui à livraria ontem e comprei um novo romance. Hoje, estou indo à livraria para devolver um livro, e amanhã irei à livraria para participar de um evento de assinatura de livros.",
-      "imageLink": "bookstore.jpg",
+      "imageLink": "image_files\\English\\bookstore.jpg",
       "audioLink": "bookstore.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Uma estrutura construída para atravessar um vale, estrada, corpo de água ou outro obstáculo, conectando geralmente duas áreas de terra ou fornecendo acesso a uma travessia.",
       "example": "El puente antiguo fue diseñado por un ingeniero famoso y construido en el siglo XIX. Hoy, el puente está cerrado para mantenimiento, pero ayer estuvo abierto a peatones. Para el próximo año, el nuevo puente estará completo.",
       "example_translation": "A ponte antiga foi projetada por um engenheiro famoso e construída no século 19. Hoje, a ponte está fechada para manutenção, mas ontem estava aberta a pedestres. Até o ano que vem, a nova ponte estará concluída.",
-      "imageLink": "bridge.jpg",
+      "imageLink": "image_files\\English\\bridge.jpg",
       "audioLink": "bridge.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uma estrutura com telhado e paredes, como uma casa, escritório ou fábrica, projetada para ocupação ou uso humano.",
       "example": "El edificio fue evacuado durante la alarma de incendio. Ayer, el edificio fue inspeccionado por funcionarios de la ciudad, y mañana el edificio estará abierto al público.",
       "example_translation": "O prédio foi evacuado durante o alarme de incêndio. Ontem, o prédio foi inspecionado pelos funcionários da cidade, e amanhã o prédio estará aberto ao público.",
-      "imageLink": "building.jpg",
+      "imageLink": "image_files\\English\\building.jpg",
       "audioLink": "building.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Um lugar ou edifício onde os ônibus param para pegar ou deixar passageiros, frequentemente tendo instalações como bilheterias, salas de espera e quiosques de refreshment.",
       "example": "Llegué temprano a la estación de autobuses para comprar mi boleto. Ayer, la estación de autobuses estaba llena de personas que iban de vacaciones, y mañana estará más tranquilo.",
       "example_translation": "Eu cheguei à estação de ônibus cedo para comprar meu bilhete. Ontem, a estação de ônibus estava lotada de pessoas indo para férias, e amanhã estará mais tranquila.",
-      "imageLink": "bus-station.jpg",
+      "imageLink": "image_files\\English\\bus-station.jpg",
       "audioLink": "bus station.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Um lugar onde os ônibus param para deixar as pessoas entrada e saída.",
       "example": "Te veré en la parada de autobús a las 5 pm. Ayer, tomé el autobús desde la parada de autobús cerca de mi casa. Para el próximo año, la parada de autobús será renovada.",
       "example_translation": "Vou encontrar você na parada de ônibus às 5 pm. Ontem, eu peguei o ônibus da parada de ônibus perto da minha casa. Até o próximo ano, a parada de ônibus será reformada.",
-      "imageLink": "bus-stop.jpg",
+      "imageLink": "image_files\\English\\bus-stop.jpg",
       "audioLink": "bus stop.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Um lugar onde as pessoas podem comprar e comer comida, geralmente em um prédio escolar ou de escritório.",
       "example": "La cafetería sirve desayunos y almuerzos. Ayer, comí un sándwich en la cafetería durante mi break. Para el próximo mes, la cafetería ofrecerá opciones veganas.",
       "example_translation": "A cafetaria serve café da manhã e almoço. Ontem, eu comi um sanduíche na cafetaria durante minha pausa. Até o próximo mês, a cafetaria oferecerá opções veganas.",
-      "imageLink": "cafeteria.jpg",
+      "imageLink": "image_files\\English\\cafeteria.jpg",
       "audioLink": "cafeteria.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "A cidade ou cidade que é o centro do governo de um país, estado ou região.",
       "example": "Washington D.C. es la capital de los Estados Unidos. Ayer, visité el edificio de la capital en Austin. Para el próximo año, la ciudad capital acogerá los Juegos Olímpicos.",
       "example_translation": "Washington D.C. é a capital dos Estados Unidos. Ontem, eu visitei o prédio da capital em Austin. Até o próximo ano, a cidade capital sediará os Jogos Olímpicos.",
-      "imageLink": "capital.jpg",
+      "imageLink": "image_files\\English\\capital.jpg",
       "audioLink": "capital.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Um lugar onde as pessoas podem estacionar seus carros, geralmente em uma área designada.",
       "example": "El aparcamiento está lleno, vamos a estacionar en la calle. Ayer, conduje alrededor del aparcamiento para encontrar un sitio. Para la próxima semana, el aparcamiento será renovado.",
       "example_translation": "O estacionamento está cheio, vamos estacionar na rua. Ontem, eu dirigi em torno do estacionamento para encontrar um lugar. Até a próxima semana, o estacionamento será reformado.",
-      "imageLink": "car-park.jpg",
+      "imageLink": "image_files\\English\\car-park.jpg",
       "audioLink": "car park.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Um grande edifício ou estrutura, tipicamente construído no passado para um rei ou outra pessoa importante, muitas vezes cercado por paredes e torres.",
       "example": "Visité un castillo medieval la semana pasada. Voy a visitar un castillo mañana. Visité un castillo el año pasado.",
       "example_translation": "Eu visitei um castelo medieval no fim de semana passado. Eu vou visitar um castelo amanhã. Eu visitei um castelo no ano passado.",
-      "imageLink": "castle.jpg",
+      "imageLink": "image_files\\English\\castle.jpg",
       "audioLink": "castle.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Uma grande e impressionante igreja, tipicamente uma das mais importantes em uma cidade ou região, muitas vezes com um bispo ou arcebispo.",
       "example": "La catedral de nuestra ciudad es muy hermosa. Asistiré a una misa en la catedral mañana. Asistí a una boda en la catedral el mes pasado.",
       "example_translation": "A catedral em nossa cidade é muito bonita. Eu irei assistir a uma missa na catedral amanhã. Eu assisti a um casamento na catedral no mês passado.",
-      "imageLink": "cathedral.jpg",
+      "imageLink": "image_files\\English\\cathedral.jpg",
       "audioLink": "cathedral.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "O ponto ou parte central de algo, como uma cidade, um edifício ou um círculo.",
       "example": "El centro de la ciudad es muy concurrido. Me reuniré contigo en el centro del parque. El centro del círculo está marcado con un punto.",
       "example_translation": "O centro da cidade é muito movimentado. Eu irei me encontrar com você no centro do parque. O centro do círculo está marcado com um ponto.",
-      "imageLink": "centre-1.jpg",
+      "imageLink": "image_files\\English\\centre-1.jpg",
       "audioLink": "centre.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Uma loja onde se vendem medicamentos, produtos químicos e outros produtos, muitas vezes com uma pessoa qualificada que dá conselhos sobre seu uso.",
       "example": "Voy a la farmacia a comprar algunos medicamentos. La tienda de la farmacia está abierta 24 horas. Fui a la farmacia ayer a pedir consejo.",
       "example_translation": "Eu vou à farmácia comprar alguns medicamentos. A loja da farmácia está aberta 24 horas. Eu fui à farmácia ontem para pedir conselho.",
-      "imageLink": "chemists.jpg",
+      "imageLink": "image_files\\English\\chemists.jpg",
       "audioLink": "chemist's.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Um prédio para adoração cristã, caracteristicamente com uma nave, altar e púlpito.",
       "example": "Fui a la iglesia el domingo pasado, voy a la iglesia mañana, y iba a la iglesia todos los domingos cuando era niño.",
       "example_translation": "Eu fui à igreja no último domingo, vou à igreja amanhã e eu ia à igreja todas as semanas quando eu era uma criança.",
-      "imageLink": "church.jpg",
+      "imageLink": "image_files\\English\\church.jpg",
       "audioLink": "church.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "A parte central de uma cidade, normalmente com lojas principais, escritórios e edifícios públicos.",
       "example": "Me encanta visitar el centro de la ciudad los fines de semana, visité el centro de la ciudad el año pasado, y visitaré el centro de la ciudad el mes que viene.",
       "example_translation": "Eu amo visitar o centro da cidade nos fins de semana, visitei o centro da cidade ano passado e vou visitar o centro da cidade próximo mês.",
-      "imageLink": "city-centre.jpg",
+      "imageLink": "image_files\\English\\city-centre.jpg",
       "audioLink": "city centre.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Um estabelecimento de varejo que vende roupas e acessórios.",
       "example": "Compré una camisa nueva en la tienda de ropa ayer, voy a la tienda de ropa mañana, y compraré un vestido nuevo en la tienda de ropa la semana que viene.",
       "example_translation": "Eu comprei uma camisa nova na loja de roupas ontem, vou à loja de roupas amanhã e vou comprar um vestido novo na loja de roupas na próxima semana.",
-      "imageLink": "clothes-shop.jpg",
+      "imageLink": "image_files\\English\\clothes-shop.jpg",
       "audioLink": "clothes shop.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Uma organização ou grupo de pessoas que compartilham interesses ou atividades semelhantes.",
       "example": "Fui al club anoche, voy al club esta noche, y iré al club el fin de semana que viene.",
       "example_translation": "Eu fui ao clube na noite passada, vou ao clube esta noite e vou ao clube no próximo fim de semana.",
-      "imageLink": "club.jpg",
+      "imageLink": "image_files\\English\\club.jpg",
       "audioLink": "club.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Uma instituição educacional ou estabelecimento, em particular uma escola, faculdade ou universidade, que fornece educação superior e é geralmente frequentada por pessoas com 17 anos ou mais.",
       "example": "Me gradué del colegio el año pasado. Actualmente estoy asistiendo al colegio. Asistiré al colegio el año que viene.",
       "example_translation": "Eu me formei na faculdade no ano passado. Eu estou atualmente frequentando a faculdade. Eu frequentarei a faculdade no ano que vem.",
-      "imageLink": "college.jpg",
+      "imageLink": "image_files\\English\\college.jpg",
       "audioLink": "college.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "O ponto ou área onde duas ou mais bordas, superfícies ou linhas se encontram ou se intersectam.",
       "example": "Me sentaré en la esquina de la habitación. Me senté en la esquina de la habitación anoche. Me senté en la esquina de la habitación esta mañana.",
       "example_translation": "Eu sentarei no canto do quarto. Eu sentei no canto do quarto ontem à noite. Eu sentei no canto do quarto esta manhã.",
-      "imageLink": "corner.jpg",
+      "imageLink": "image_files\\English\\corner.jpg",
       "audioLink": "corner.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Uma loja de varejo grande que vende uma ampla gama de produtos, incluindo roupas, cosméticos, produtos para o lar e mais.",
       "example": "Voy a comprar en la tienda departamental mañana. Compré en la tienda departamental ayer. Compro en la tienda departamental cada semana.",
       "example_translation": "Eu farei compras na loja de departamentos amanhã. Eu fiz compras na loja de departamentos ontem. Eu faço compras na loja de departamentos todas as semanas.",
-      "imageLink": "department-store.jpg",
+      "imageLink": "image_files\\English\\department-store.jpg",
       "audioLink": "department store.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Um tipo de registro de vinil usado para tocar música, ou uma boate onde música gravada é tocada.",
       "example": "Solía escuchar música disco en los 70. Fui a una discoteca la noche pasada. Asistiré a un evento de discoteca el mes próximo.",
       "example_translation": "Eu costumava ouvir música disco nos anos 70. Eu fui a uma festa de disco ontem à noite. Eu irei a um evento de disco no próximo mês.",
-      "imageLink": "disco.jpg",
+      "imageLink": "image_files\\English\\disco.jpg",
       "audioLink": "disco.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Uma loja varejista onde drogas e outros produtos de saúde são vendidos.",
       "example": "Fui a la farmacia para comprar medicinas ayer, iré de nuevo mañana y había ido la semana pasada.",
       "example_translation": "Eu fui à farmácia para comprar algum remédio ontem, irei novamente amanhã e havia ido semana passada.",
-      "imageLink": "drugstore.jpg",
+      "imageLink": "image_files\\English\\drugstore.jpg",
       "audioLink": "drugstore.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "O ponto de entrada ou acesso a um lugar, edifício ou sistema.",
       "example": "La entrada al museo estaba cerrada ayer, estará abierta mañana y había estado abierta la semana pasada.",
       "example_translation": "A entrada do museu estava fechada ontem, estará aberta amanhã e havia sido aberta semana passada.",
-      "imageLink": "entrance.jpg",
+      "imageLink": "image_files\\English\\entrance.jpg",
       "audioLink": "entrance.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Uma maneira de sair de um lugar, edifício ou sistema.",
       "example": "Encontré la salida del edificio rápidamente ayer, la encontraré de nuevo mañana y la había encontrado la semana pasada.",
       "example_translation": "Eu encontrei a saída do prédio rapidamente ontem, irei encontrar novamente amanhã e havia encontrado semana passada.",
-      "imageLink": "exit-1.jpg",
+      "imageLink": "image_files\\English\\exit-1.jpg",
       "audioLink": "exit.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Uma área aberta de terra, geralmente utilizada para um propósito específico, como agricultura ou esportes.",
       "example": "El equipo había jugado en el campo ayer, jugarán de nuevo mañana y jugaron la semana pasada.",
       "example_translation": "A equipe havia jogado no campo ontem, vão jogar novamente amanhã e jogaram semana passada.",
-      "imageLink": "field.jpg",
+      "imageLink": "image_files\\English\\field.jpg",
       "audioLink": "field.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Um edifício ou galpão para abrigar um carro, caminhão ou outro veículo.",
       "example": "Aparqué mi coche en el garaje anoche. Aparcaré mi coche en el garaje esta noche. Aparqué mi coche en el garaje ayer.",
       "example_translation": "Eu estacionei meu carro na garagem ontem à noite. Eu estacionarei meu carro na garagem esta noite. Eu estacionei meu carro na garagem ontem.",
-      "imageLink": "garage.jpg",
+      "imageLink": "image_files\\English\\garage.jpg",
       "audioLink": "garage.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Uma área de terra naturalmente elevada, muitas vezes com lados íngremes e um topo arredondado.",
       "example": "Subí la colina para obtener una mejor vista. Subiré la colina para ver la puesta del sol. Subí la colina ayer para hacer ejercicio.",
       "example_translation": "Eu subi o monte para ter uma visão melhor. Eu subirei o monte para ver o pôr do sol. Eu subi o monte ontem para me exercitar.",
-      "imageLink": "hill.jpg",
+      "imageLink": "image_files\\English\\hill.jpg",
       "audioLink": "hill.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Um pedaço de terra rodeado por água.",
       "example": "Visitó una hermosa isla en el Caribe el año pasado. Visitaré una isla en Grecia este verano. Visitó una isla en Hawái cuando era niño.",
       "example_translation": "Eu visitei uma ilha bonita no Caribe ano passado. Eu visitarei uma ilha na Grécia este verão. Eu visitei uma ilha no Havaí quando eu era criança.",
-      "imageLink": "island.jpg",
+      "imageLink": "image_files\\English\\island.jpg",
       "audioLink": "island.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Um edifício ou sala contendo uma coleção de livros, periódicos e outras fontes de informação.",
       "example": "Fui a la biblioteca para estudiar para mi examen. Iré a la biblioteca para investigar para mi proyecto. Fui a la biblioteca ayer para devolver un libro.",
       "example_translation": "Eu fui à biblioteca para estudar para o meu exame. Eu irei à biblioteca para pesquisar para o meu projeto. Eu fui à biblioteca ontem para devolver um livro.",
-      "imageLink": "library.jpg",
+      "imageLink": "image_files\\English\\library.jpg",
       "audioLink": "library.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Um dispositivo usado para elevar ou abaixar pessoas ou objetos entre andares em um prédio.",
       "example": "Tomé el ascensor al piso superior. Tomaré el ascensor a la oficina mañana. Tomé el ascensor al gimnasio ayer.",
       "example_translation": "Eu peguei o elevador para o andar de cima. Eu vou pegar o elevador para o escritório amanhã. Eu peguei o elevador para a academia ontem.",
-      "imageLink": "lift.jpg",
+      "imageLink": "image_files\\English\\lift.jpg",
       "audioLink": "lift.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Um encontro regular de pessoas para a venda de alimentos, mercadorias ou serviços.",
       "example": "Fui al mercado para comprar algunas frutas. Ella irá al mercado para vender sus artesanías. Ellos fueron al mercado para comprar algunas ropas.",
       "example_translation": "Eu fui ao mercado para comprar algumas frutas. Ela irá ao mercado para vender seus artesanatos. Eles foram ao mercado para comprar algumas roupas.",
-      "imageLink": "market.jpg",
+      "imageLink": "image_files\\English\\market.jpg",
       "audioLink": "market.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Um edifício para o culto muçulmano.",
       "example": "La mezquita es un edificio hermoso en la ciudad. Visité una mezquita durante mi viaje a Estambul. Están construyendo una nueva mezquita en nuestro barrio.",
       "example_translation": "A mesquita é um belo edifício na cidade. Eu visitei uma mesquita durante minha viagem para Istambul. Eles estão construindo uma nova mesquita em nosso bairro.",
-      "imageLink": "mosque.jpg",
+      "imageLink": "image_files\\English\\mosque.jpg",
       "audioLink": "mosque.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Uma estrada de alta velocidade, especialmente uma com múltiplas faixas e acesso limitado.",
       "example": "Conduje por la autopista para llegar a la ciudad rápidamente. Ella tomará la autopista para evitar el tráfico congestionado. Ellos condujeron por la autopista para alcanzar su destino.",
       "example_translation": "Eu dirigi na autoestrada para chegar à cidade rapidamente. Ela irá pela autoestrada para evitar o congestionamento. Eles dirigiram na autoestrada para alcançar seu destino.",
-      "imageLink": "motorway.jpg",
+      "imageLink": "image_files\\English\\motorway.jpg",
       "audioLink": "motorway.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Uma elevação natural da superfície da terra que sobe mais ou menos abruptamente do nível circundante e atinge uma altitude que, em relação à elevação adjacente, é impressionante ou notável.",
       "example": "Escalé la montaña el año pasado, estoy escalando la montaña ahora y escalaré la montaña el año próximo.",
       "example_translation": "Eu escali a montanha no ano passado, estou escalando a montanha agora e escalarei a montanha no ano que vem.",
-      "imageLink": "mountain.jpg",
+      "imageLink": "image_files\\English\\mountain.jpg",
       "audioLink": "mountain.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Um quarto ou conjunto de quartos onde as pessoas trabalham, muitas vezes em um prédio de escritório.",
       "example": "Fui a la oficina ayer, estoy trabajando en la oficina ahora y iré a la oficina mañana.",
       "example_translation": "Eu fui ao escritório ontem, estou trabalhando no escritório agora e irei ao escritório amanhã.",
-      "imageLink": "office.jpg",
+      "imageLink": "image_files\\English\\office.jpg",
       "audioLink": "office.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Um caminho ou trilha feita para caminhar, especialmente em um jardim ou parque.",
       "example": "Caminé por el sendero ayer, estoy caminando por el sendero ahora y caminaré por el sendero mañana.",
       "example_translation": "Eu caminhei pelo caminho ontem, estou caminhando pelo caminho agora e caminharei pelo caminho amanhã.",
-      "imageLink": "path.jpg",
+      "imageLink": "image_files\\English\\path.jpg",
       "audioLink": "path.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Uma loja que vende animais, especialmente animais de estimação, e alimentos e suprimentos para animais de estimação.",
       "example": "Visitó una tienda de mascotas la semana pasada, estoy visitando una tienda de mascotas ahora y visitaré una tienda de mascotas el mes próximo.",
       "example_translation": "Eu visitei uma loja de animais de estimação na semana passada, estou visitando uma loja de animais de estimação agora e visitarei uma loja de animais de estimação no próximo mês.",
-      "imageLink": "pet-shop.jpg",
+      "imageLink": "image_files\\English\\pet-shop.jpg",
       "audioLink": "pet shop.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Um posto de gasolina, também conhecido como posto de combustível, é uma instalação que vende combustível e lubrificantes para veículos motorizados.",
       "example": "Llené el tanque de mi coche en la estación de servicio ayer, y ahora llenaré de nuevo mañana. Había llenado la semana pasada. Llenaré cada semana.",
       "example_translation": "Eu enchi o tanque do meu carro no posto de gasolina ontem, e agora vou enchê-lo novamente amanhã. Eu o tinha enchido na semana passada. Vou enchê-lo todas as semanas.",
-      "imageLink": "petrol-station.jpg",
+      "imageLink": "image_files\\English\\petrol-station.jpg",
       "audioLink": "petrol station.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Um parque infantil é uma área projetada para crianças brincarem, tipicamente ao ar livre, com equipamentos como balanços, escorreguios e quadros de escalada.",
       "example": "Los niños jugaron en los columpios y toboganes en el parque infantil ayer, pero jugarán en la estructura de escalada mañana. Habían jugado en la plataforma de equilibrio la semana pasada.",
       "example_translation": "As crianças brincaram nos balanços e escorreguios no parque infantil ontem, mas vão brincar no quadro de escalada amanhã. Elas tinham brincado no jogo do balanço na semana passada.",
-      "imageLink": "playground.jpg",
+      "imageLink": "image_files\\English\\playground.jpg",
       "audioLink": "playground.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Uma esquadra de polícia é um edifício ou instalação onde os policiais estão baseados e onde o público pode denunciar crimes ou buscar assistência.",
       "example": "Fui a la comisaría para reportar mi bicicleta robada ayer, y ahora iré allí de nuevo mañana. Había ido allí la semana pasada para presentar una queja.",
       "example_translation": "Fui à esquadra de polícia para denunciar minha bicicleta roubada ontem, e agora vou lá novamente amanhã. Eu tinha ido lá na semana passada para registrar uma queixa.",
-      "imageLink": "police-station.jpg",
+      "imageLink": "image_files\\English\\police-station.jpg",
       "audioLink": "police station.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Uma piscina é uma estrutura que segura água para as pessoas nadarem, frequentemente usada para recreação ou exercício.",
       "example": "Me nadé en la piscina del hotel ayer, y ahora me nadaré en ella de nuevo mañana. Había nadado en ella la semana pasada con mis amigos.",
       "example_translation": "Nadei na piscina do hotel ontem, e agora vou nadar nela novamente amanhã. Eu tinha nadado nela na semana passada com meus amigos.",
-      "imageLink": "pool-1.jpg",
+      "imageLink": "image_files\\English\\pool-1.jpg",
       "audioLink": "pool.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Um edifício ou facilidade onde os serviços postais são fornecidos, incluindo o envio e recebimento de correio e pacotes.",
       "example": "Fui a la oficina de correos para enviar una carta a mi amigo. Iré a la oficina de correos mañana para comprar sellos. He estado en la oficina de correos varias veces esta semana.",
       "example_translation": "Eu fui ao correio para enviar uma carta para meu amigo. Eu irei ao correio amanhã para comprar selos. Eu estive ao correio várias vezes essa semana.",
-      "imageLink": "post-office.jpg",
+      "imageLink": "image_files\\English\\post-office.jpg",
       "audioLink": "post office.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Uma casa pública ou pousada que serve cerveja, vinho e outras bebidas, frequentemente com comida e entretenimento.",
       "example": "Me reuní con mis amigos en el pub para ver el partido. Ella fue al pub anoche para reunirse con sus colegas. Abrirán un nuevo pub en la calle principal el próximo mes.",
       "example_translation": "Eu encontrei meus amigos no bar para assistir ao jogo. Ela foi ao bar ontem à noite para encontrar seus colegas de trabalho. Eles vão abrir um novo bar na Rua Principal próximo mês.",
-      "imageLink": "pub.jpg",
+      "imageLink": "image_files\\English\\pub.jpg",
       "audioLink": "pub.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Um meio de transporte que usa trens que circulam em trilhos fixos, frequentemente conectando cidades e vilas.",
       "example": "Tomé el ferrocarril para visitar a mi familia en el campo. La estación de ferrocarril estaba llena durante la hora pico. Están planeando construir una nueva línea de ferrocarril hasta el aeropuerto.",
       "example_translation": "Eu peguei a ferrovia para visitar minha família no campo. A estação de trem estava lotada durante o horário de pico. Eles estão planejando construir uma nova linha de ferrovia para o aeroporto.",
-      "imageLink": "railway.jpg",
+      "imageLink": "image_files\\English\\railway.jpg",
       "audioLink": "railway.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Um edifício ou facilidade onde os trens param para pegar e deixar passageiros e carga.",
       "example": "Llegué a la estación de ferrocarril justo a tiempo para coger el tren. La estación de ferrocarril fue renovada el año pasado. Ella se reunirá con su amigo en la estación de ferrocarril mañana.",
       "example_translation": "Eu cheguei à estação de trem justo a tempo de pegar o trem. A estação de trem foi reformada no ano passado. Ela irá encontrar seu amigo na estação de trem amanhã.",
-      "imageLink": "railway-station.jpg",
+      "imageLink": "image_files\\English\\railway-station.jpg",
       "audioLink": "railway station.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Um estabelecimento retalheiro que vende sapatos e outros calçados.",
       "example": "Fui a la tienda de zapatos para comprar nuevos zapatos deportivos. Voy a la tienda de zapatos para comprar nuevos botas. Iré a la tienda de zapatos para comprar nuevos sandalias.",
       "example_translation": "Eu fui à loja de sapatos para comprar tênis novos. Estou indo à loja de sapatos para comprar botas novas. Irei à loja de sapatos para comprar sandálias novas.",
-      "imageLink": "shoe-shop.jpg",
+      "imageLink": "image_files\\English\\shoe-shop.jpg",
       "audioLink": "shoe shop.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Um prédio grande ou área que contém muitas lojas, restaurantes e outros negócios.",
       "example": "Pasé todo el día en el centro comercial con mis amigos. Vamos al centro comercial para ver una película. Nos reuniremos en el centro comercial a las 5 pm.",
       "example_translation": "Passei todo o dia no centro comercial com meus amigos. Nós vamos ao centro comercial para assistir a um filme. Nós vamos nos encontrar no centro comercial às 5pm.",
-      "imageLink": "shopping-centre.jpg",
+      "imageLink": "image_files\\English\\shopping-centre.jpg",
       "audioLink": "shopping centre.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Uma instalação que fornece espaço e equipamento para vários esportes e atividades físicas.",
       "example": "Voy al centro deportivo para jugar al baloncesto. Fuimos al centro deportivo para tomar una clase de yoga. Construirán un nuevo centro deportivo en nuestra ciudad.",
       "example_translation": "Estou indo ao centro desportivo para jogar basquete. Nós fomos ao centro desportivo para fazer uma aula de ioga. Eles vão construir um novo centro desportivo em nossa cidade.",
-      "imageLink": "sports-centre.jpg",
+      "imageLink": "image_files\\English\\sports-centre.jpg",
       "audioLink": "sports centre.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Uma área aberta em uma cidade ou cidade, frequentemente com prédios, monumentos ou outros recursos em torno.",
       "example": "La plaza del pueblo estaba llena de gente celebrando el día festivo. Nos sentamos en la plaza y vimos a los artistas callejeros. La ciudad renovará la plaza principal el próximo año.",
       "example_translation": "A praça da cidade estava cheia de pessoas comemorando o feriado. Nós sentamos na praça e assistimos os artistas de rua. A cidade vai renovar a praça principal no ano que vem.",
-      "imageLink": "square.jpg",
+      "imageLink": "image_files\\English\\square.jpg",
       "audioLink": "square.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Um estádio é uma grande área ao ar livre ou indoor para esportes, concertos e outros eventos.",
       "example": "Fui al estadio para ver el partido de fútbol la noche pasada, pero iré al estadio para ver el concierto el mes que viene, y había ido al estadio para ver la competencia de atletismo el año pasado.",
       "example_translation": "Eu fui ao estádio assistir ao jogo de futebol ontem à noite, mas irei ao estádio assistir ao concerto no próximo mês, e eu tinha ido ao estádio assistir à competição de atletismo no ano passado.",
-      "imageLink": "stadium.jpg",
+      "imageLink": "image_files\\English\\stadium.jpg",
       "audioLink": "stadium.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Um teatro é um prédio ou espaço para a performance de peças, musicais e outras formas de entretenimento ao vivo.",
       "example": "He ido al teatro para ver una obra de teatro, voy al teatro para ver un musical, y iré al teatro para ver un show de comedia.",
       "example_translation": "Eu fui ao teatro assistir a uma peça, eu vou ao teatro assistir a um musical, e irei ao teatro assistir a um show de comédia.",
-      "imageLink": "theatre.jpg",
+      "imageLink": "image_files\\English\\theatre.jpg",
       "audioLink": "theatre.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Uma bilheteria é um lugar onde as pessoas podem comprar ingressos para eventos, viagens ou atrações.",
       "example": "Fui a la taquilla para comprar boletos para el concierto, pero ya se habían vendido, así que iré a la taquilla para comprar boletos para el partido de fútbol mañana.",
       "example_translation": "Eu fui à bilheteria comprar ingressos para o concerto, mas eles já haviam esgotado, então irei à bilheteria comprar ingressos para o jogo de futebol amanhã.",
-      "imageLink": "ticket-office.jpg",
+      "imageLink": "image_files\\English\\ticket-office.jpg",
       "audioLink": "ticket office.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Uma loja de brinquedos é uma loja que vende brinquedos, jogos e outros itens divertidos para crianças.",
       "example": "Fui a la tienda de juguetes para comprar un regalo para mi hermana, pero ella ya lo había comprado, así que iré a la tienda de juguetes para comprar un nuevo juguete para mi hermano.",
       "example_translation": "Eu fui à loja de brinquedos comprar um presente para minha irmã, mas ela já havia comprado o brinquedo, então irei à loja de brinquedos comprar um novo brinquedo para meu irmão.",
-      "imageLink": "toy-shop.jpg",
+      "imageLink": "image_files\\English\\toy-shop.jpg",
       "audioLink": "toy shop.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Localizado ou ocorrendo abaixo da superfície da terra, especialmente em um túnel ou sistema de metrô.",
       "example": "Tomé el subterráneo para llegar al centro de la ciudad. Iré al subterráneo al aeropuerto mañana. Tomé el subterráneo a casa anoche.",
       "example_translation": "Eu peguei o metrô para chegar ao centro da cidade. Eu vou pegar o metrô para o aeroporto amanhã. Eu peguei o metrô para casa ontem à noite.",
-      "imageLink": "the-underground.jpg",
+      "imageLink": "image_files\\English\\the-underground.jpg",
       "audioLink": "underground.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Um prédio contendo múltiplos apartamentos, tipicamente com áreas comuns e amenities compartilhadas.",
       "example": "Vivo en un edificio de apartamentos en las afueras de la ciudad. Ella se mudará a un edificio de apartamentos el mes que viene. Ellos vivían en un edificio de apartamentos antes de comprar una casa.",
       "example_translation": "Eu moro em um prédio de apartamentos nos arredores da cidade. Ela vai se mudar para um prédio de apartamentos no mês que vem. Eles moravam em um prédio de apartamentos antes de comprar uma casa.",
-      "imageLink": "apartment-building.jpg",
+      "imageLink": "image_files\\English\\apartment-building.jpg",
       "audioLink": "apartment building.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Uma plataforma projetada da parede de um prédio, geralmente cercada por uma balaustrada, e frequentemente tendo uma vista.",
       "example": "Me senté en el balcón para disfrutar del atardecer. Ellos tienen un balcón con una vista hermosa del océano. Ella decorará el balcón con flores la próxima semana.",
       "example_translation": "Eu sentei na varanda para desfrutar do pôr do sol. Eles têm uma varanda com uma vista deslumbrante do oceano. Ela vai decorar a varanda com flores na semana que vem.",
-      "imageLink": "balcony.jpg",
+      "imageLink": "image_files\\English\\balcony.jpg",
       "audioLink": "balcony.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Um pedaço sólido de material, como madeira ou pedra, usado em construção ou edificação.",
       "example": "Los trabajadores de la construcción colocaron el bloque de fundación. Ellos moverán el bloque de piedra al nuevo sitio. Voy a construir una torre de bloques con mis Legos.",
       "example_translation": "Os trabalhadores de construção colocaram a fundação de bloco. Eles vão mover o bloco de pedra para o novo local. Eu vou construir uma torre de bloco com meus Lego.",
-      "imageLink": "block.jpg",
+      "imageLink": "image_files\\English\\block.jpg",
       "audioLink": "block.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "Um local de acampamento é uma área designada, geralmente em um ambiente natural, onde as pessoas podem montar uma tenda ou estacionar uma carroça ou outro veículo para pernoitar ou ficar por mais tempo.",
       "example": "Fui al campamento con mi familia el verano pasado y lo pasamos genial. Volveremos al campamento el año que viene. Ellos van al campamento este fin de semana.",
       "example_translation": "Eu fui ao local de acampamento com minha família no verão passado e tivemos um ótimo tempo. Nós iremos ao local de acampamento novamente ano que vem. Eles vão ao local de acampamento nesta semana.",
-      "imageLink": "campsite.jpg",
+      "imageLink": "image_files\\English\\campsite.jpg",
       "audioLink": "campsite.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "Uma cantina é um recipiente, geralmente feito de metal ou plástico, usado para carregar água potável, especialmente para uso ao ar livre.",
       "example": "Llevé mi cantimplora conmigo en la excursión y la rellené en el arroyo. Ella compró una nueva cantimplora para su viaje de camping. Ellos traerán sus cantimploras al picnic.",
       "example_translation": "Eu levei minha cantina comigo na trilha e a reabasteci no ribeirão. Ela comprou uma nova cantina para sua viagem de camping. Eles vão trazer suas cantinas para o piquenique.",
-      "imageLink": "canteen.jpg",
+      "imageLink": "image_files\\English\\canteen.jpg",
       "audioLink": "canteen.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "Um circo é uma apresentação itinerante que apresenta acrobatas, palhaços e animais treinados, tipicamente apresentados em uma grande tenda ou arena.",
       "example": "Fui al circo con mis amigos la semana pasada y vimos un gran espectáculo. Ella siempre ha amado el circo y su magia. Ella llevará a sus hijos al circo el próximo mes.",
       "example_translation": "Eu fui ao circo com meus amigos no fim de semana passado e vimos um grande show. Ela sempre amou o circo e sua magia. Eles vão levar seus filhos ao circo no mês que vem.",
-      "imageLink": "circus.jpg",
+      "imageLink": "image_files\\English\\circus.jpg",
       "audioLink": "circus.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "Uma clínica é uma unidade de saúde que fornece serviços médicos especializados, como diagnóstico, tratamento e prevenção de doenças.",
       "example": "Fui a la clínica para un chequeo y el doctor me dio un informe médico limpio. Ella trabaja en una clínica en el centro de la ciudad. Abrirán una nueva clínica en las afueras el próximo año.",
       "example_translation": "Eu fui à clínica para uma consulta e o médico me deu um atestado de saúde limpo. Ela trabalha em uma clínica no centro da cidade. Eles vão abrir uma nova clínica nos subúrbios no ano que vem.",
-      "imageLink": "clinic.jpg",
+      "imageLink": "image_files\\English\\clinic.jpg",
       "audioLink": "clinic.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Uma casa pequena e simples, tipicamente em uma área rural.",
       "example": "Viví en una cabaña cerca del lago cuando era niño. Ahora vivo en una cabaña y viviré en una cabaña en el futuro.",
       "example_translation": "Eu vivi em uma chale perto do lago quando eu era uma criança. Estou vivendo em uma chale agora, e eu vou viver em uma chale no futuro.",
-      "imageLink": "cottage.jpg",
+      "imageLink": "image_files\\English\\cottage.jpg",
       "audioLink": "cottage.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "Um lugar onde a justiça é administrada, como um tribunal de direito ou um tribunal de tênis.",
       "example": "Fui al tribunal ayer, voy al tribunal hoy y iré al tribunal mañana.",
       "example_translation": "Eu fui ao tribunal ontem, eu vou ao tribunal hoje, e eu vou ao tribunal amanhã.",
-      "imageLink": "court.jpg",
+      "imageLink": "image_files\\English\\court.jpg",
       "audioLink": "court.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "A residência oficial ou gabinete de um embaixador ou um representante diplomático.",
       "example": "Visité la embajada el año pasado, estoy visitando la embajada ahora y visitaré la embajada el próximo año.",
       "example_translation": "Eu visitei a embaixada no ano passado, estou visitando a embaixada agora, e eu vou visitar a embaixada no ano que vem.",
-      "imageLink": "embassy.jpg",
+      "imageLink": "image_files\\English\\embassy.jpg",
       "audioLink": "embassy.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "Uma área aberta de terra, geralmente usada para agricultura ou pastagem.",
       "example": "Jugué en el campo cuando era niño, estoy jugando en el campo ahora y joueré en el campo en el futuro.",
       "example_translation": "Eu brinquei no campo quando eu era uma criança, estou brincando no campo agora, e eu vou brincar no campo no futuro.",
-      "imageLink": "field-1.jpg",
+      "imageLink": "image_files\\English\\field-1.jpg",
       "audioLink": "field.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "Um prédio ou instalação que abriga bombeiros e seus equipamentos, e de onde os caminhões de bombeiros e outros veículos de emergência são enviados para responder a incêndios e outras emergências.",
       "example": "Solía vivir cerca de una estación de bomberos, y las sirenas me despertaban por la noche. Ahora vivo lejos de la estación de bomberos, pero aún oigo las sirenas ocasionalmente. Para cuando me mude de vuelta a la ciudad, la estación de bomberos habrá sido reconstruida.",
       "example_translation": "Eu costumava morar perto de uma estação de bombeiros, e as sirenes me acordavam à noite. Agora moro longe da estação de bombeiros, mas ainda ouço as sirenes ocasionalmente. Quando eu me mudar de volta para a cidade, a estação de bombeiros terá sido reconstruída.",
-      "imageLink": "fire-station.jpg",
+      "imageLink": "image_files\\English\\fire-station.jpg",
       "audioLink": "fire station.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Uma loja ou armazém onde flores e outras plantas são vendidas, souvent com uma pessoa que arrange e vende buquês e outros arranjos florais.",
       "example": "Me detuve en la floristería camino a casa para comprar algunas flores para mi esposa. La floristería era demasiado cara, así que decidí comprar las flores en el supermercado en su lugar. Para la próxima semana, la nueva floristería habrá abierto en la calle principal.",
       "example_translation": "Parei na florista no meu caminho para casa para comprar algumas flores para minha esposa. A florista foi muito cara, então decidi comprar as flores no supermercado em vez disso. Até a próxima semana, a nova florista terá aberto na Rua Principal.",
-      "imageLink": "florists.jpg",
+      "imageLink": "image_files\\English\\florists.jpg",
       "audioLink": "florist's.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "Um prédio ou sala onde móveis e outros artigos de casa são vendidos, souvent com uma ampla seleção de estilos e marcas.",
       "example": "Pasé todo el día en la tienda de muebles buscando el sofá perfecto. La tienda de muebles tenía una venta, así que terminé comprando una nueva cama en su lugar. Para cuando me gradúe, habré ahorrado suficiente dinero para amueblar todo mi apartamento desde la tienda de muebles.",
       "example_translation": "Passei o dia inteiro na loja de móveis procurando o sofá perfeito. A loja de móveis estava fazendo uma promoção, então acabei comprando uma cama nova em vez disso. Até que eu me formar, eu tererei economizado dinheiro suficiente para mobiliar todo o meu apartamento da loja de móveis.",
-      "imageLink": "furniture-store.jpg",
+      "imageLink": "image_files\\English\\furniture-store.jpg",
       "audioLink": "furniture store.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "Um prédio ou espaço fechado para abrigar e reparar veículos motorizados, souvent anexado a uma casa ou negócio.",
       "example": "Pasé el fin de semana arreglando mi coche en el garaje. Mis padres solían tener un garaje, pero lo convirtieron en una oficina en casa. Para el próximo año, habré construido un garaje en mi patio trasero.",
       "example_translation": "Passei o fim de semana consertando meu carro na garagem. Meus pais costumavam ter uma garagem, mas eles a transformaram em um escritório em casa. Até o ano que vem, eu terei construído uma garagem no meu quintal.",
-      "imageLink": "garage-1.jpg",
+      "imageLink": "image_files\\English\\garage-1.jpg",
       "audioLink": "garage.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Uma loja que vende frutas e vegetais frescos, muitas vezes com uma seleção de alta qualidade.",
       "example": "Fui a la verdulería para comprar algunas manzanas orgánicas. Ayer, compré fresas en la verdulería. Visitaré la verdulería mañana para comprar algunas hierbas frescas.",
       "example_translation": "Fui à mercearia para comprar algumas maçãs orgânicas. Ontem, comprei morangos na mercearia. Vou visitar a mercearia amanhã para comprar alguns ervas frescas.",
-      "imageLink": "greengrocers.jpg",
+      "imageLink": "image_files\\English\\greengrocers.jpg",
       "audioLink": "greengrocer's.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Uma loja que vende alimentos e suprimentos para o lar, muitas vezes em uma área rural.",
       "example": "Mi abuela solía trabajar en la tienda de comestibles de nuestro pueblo. La tienda de comestibles tenía una variedad de productos a la venta. La tienda de comestibles estará abierta hasta tarde esta noche.",
       "example_translation": "Minha avó costumava trabalhar na merceeiro em nossa vila. O merceeiro tinha uma variedade de produtos à venda. O merceeiro ficará aberto até tarde esta noite.",
-      "imageLink": "grocers.jpg",
+      "imageLink": "image_files\\English\\grocers.jpg",
       "audioLink": "grocer's.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Alimentos e outros suprimentos para o lar, muitas vezes comprados em uma loja ou supermercado.",
       "example": "Necesito comprar algunos comestibles para la semana. Ella gastó mucho dinero en comestibles el mes pasado. Entregarán los comestibles a nuestra puerta.",
       "example_translation": "Eu preciso comprar algumas mercadorias para a semana. Ela gastou muito dinheiro em mercadorias no mês passado. Eles irão entregar as mercadorias até nossa porta.",
-      "imageLink": "grocery.jpg",
+      "imageLink": "image_files\\English\\grocery.jpg",
       "audioLink": "grocery.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Um alojamento pequeno e privado, muitas vezes em uma área residencial, que fornece hospedagem para alguns hóspedes.",
       "example": "Me quedé en una casa de huéspedes en París durante mis vacaciones. La casa de huéspedes tenía un jardín encantador. Nos quedaremos en una casa de huéspedes cerca de la playa la próxima semana.",
       "example_translation": "Eu me hospedei em uma pensão em Paris durante minhas férias. A pensão tinha um jardim lindo. Vamos nos hospedar em uma pensão perto da praia na próxima semana.",
-      "imageLink": "guesthouse.jpg",
+      "imageLink": "image_files\\English\\guesthouse.jpg",
       "audioLink": "guesthouse.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Um ginásio é um local onde as pessoas vão exercitar ou jogar esportes, tipicamente indoor.",
       "example": "Fui al gimnasio ayer, voy al gimnasio ahora, y iré al gimnasio mañana.",
       "example_translation": "Eu fui ao ginásio ontem, eu vou ao ginásio agora e eu irei ao ginásio amanhã.",
-      "imageLink": "gym.jpg",
+      "imageLink": "image_files\\English\\gym.jpg",
       "audioLink": "gym.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Um porto é um corpo de água onde os navios, barcos e outros veículos podem parar para carregar ou descarregar cargas ou passageiros.",
       "example": "El puerto estaba lleno de barcos entrando y saliendo, el puerto está tranquilo hoy, y el puerto será ampliado el año próximo.",
       "example_translation": "O porto estava ocupado com os navios indo e vindo, o porto está calmo hoje e o porto será expandido no próximo ano.",
-      "imageLink": "harbour.jpg",
+      "imageLink": "image_files\\English\\harbour.jpg",
       "audioLink": "harbour.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Um albergue é uma acomodação voltada para orçamento onde os hóspedes podem alugar uma cama, usualmente em um quarto compartilhado, por um curto período de tempo.",
       "example": "Me quedé en un albergue durante mi viaje, me quedaré en un albergue ahora, y me quedaré en un albergue el próximo mes.",
       "example_translation": "Eu fiquei em um albergue durante minha viagem, eu estou ficando em um albergue agora e eu ficarei em um albergue nächste mês.",
-      "imageLink": "hostel.jpg",
+      "imageLink": "image_files\\English\\hostel.jpg",
       "audioLink": "hostel.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Uma cabana é uma moradia pequena e simples, muitas vezes feita de materiais naturais como madeira ou palha, tipicamente encontrada em áreas rurais ou de wilderness.",
       "example": "Construí una choza en el bosque, estoy construyendo una choza ahora, y construiré una choza el próximo verano.",
       "example_translation": "Eu construí uma cabana na floresta, eu estou construindo uma cabana agora e eu construirei uma cabana no próximo verão.",
-      "imageLink": "hut.jpg",
+      "imageLink": "image_files\\English\\hut.jpg",
       "audioLink": "hut.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Um lugar para confinamento de pessoas que foram presas ou condenadas por um crime, caracterizado por barreiras físicas e vigilância.",
       "example": "La policía llevó al sospechoso a la cárcel para más interrogatorios. Ayer, ella estuvo en la cárcel, pero hoy está fuera bajo fianza. Para el próximo año, la nueva cárcel estará terminada.",
       "example_translation": "A polícia levou o suspeito para a cadeia para mais questionamentos. Ontem, ela estava na cadeia, mas hoje ela está fora sob fiança. Até o ano que vem, a nova cadeia estará concluída.",
-      "imageLink": "jail.jpg",
+      "imageLink": "image_files\\English\\jail.jpg",
       "audioLink": "jail.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Uma loja ou negócio que vende joias e frequentemente realiza reparos e trabalhos personalizados.",
       "example": "Llevo mi reloj a la joyería para que lo reparen. La joyería en la calle principal ha estado allí durante décadas. Para el próximo mes, la nueva joyería estará abierta.",
       "example_translation": "Estou levando meu relógio para a joalheria para consertá-lo. A joalheria na Rua Principal esteve lá por décadas. Até o próximo mês, a nova joalheria estará abrindo.",
-      "imageLink": "jewellers.jpg",
+      "imageLink": "image_files\\English\\jewellers.jpg",
       "audioLink": "jeweller's.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "Um quarto ou prédio equipado para experimentos científicos, pesquisas ou testes.",
       "example": "Los científicos trabajaron hasta tarde en el laboratorio para terminar el experimento. Ayer, estuve en el laboratorio, pero hoy estoy en la biblioteca. Para la próxima semana, el nuevo laboratorio estará operativo.",
       "example_translation": "Os cientistas trabalharam até tarde no laboratório para concluir o experimento. Ontem, eu estava no laboratório, mas hoje estou na biblioteca. Até a próxima semana, o novo laboratório estará operacional.",
-      "imageLink": "lab.jpg",
+      "imageLink": "image_files\\English\\lab.jpg",
       "audioLink": "lab.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "Um quarto ou prédio equipado para experimentos científicos, pesquisas ou testes, frequentemente sob a supervisão de um cientista.",
       "example": "Los estudiantes realizaron el experimento en el laboratorio bajo la guía del profesor. Ayer, hicimos un experimento en el laboratorio, pero hoy estamos haciendo un cuestionario. Para el próximo semestre, el nuevo laboratorio será renovado.",
       "example_translation": "Os alunos conduziram o experimento no laboratório sob a orientação do professor. Ontem, fizemos um experimento no laboratório, mas hoje estamos fazendo um quiz. Até o próximo semestre, o novo laboratório estará reformado.",
-      "imageLink": "laboratory.jpg",
+      "imageLink": "image_files\\English\\laboratory.jpg",
       "audioLink": "laboratory.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "Um grande centro comercial fechado com múltiplas lojas, restaurantes e opções de entretenimento.",
       "example": "Fui al centro comercial con mis amigos ayer, iremos de nuevo mañana, y hemos ido muchas veces antes.",
       "example_translation": "Eu fui ao centro comercial com meus amigos ontem, vamos ir novamente amanhã e já fomos muitas vezes antes.",
-      "imageLink": "mall.jpg",
+      "imageLink": "image_files\\English\\mall.jpg",
       "audioLink": "mall.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "Uma loja que vende jornais, revistas e outros materiais impressos.",
       "example": "Visitaré el quiosco mañana para comprar la última edición de mi revista favorita, lo visité ayer para comprar un periódico, y lo he visitado muchas veces antes.",
       "example_translation": "Eu visitarei o revendedor de jornais amanhã para comprar a última edição da minha revista favorita, visitei ontem para comprar um jornal e já visitei muitas vezes antes.",
-      "imageLink": "newsagents.jpg",
+      "imageLink": "image_files\\English\\newsagents.jpg",
       "audioLink": "newsagent's.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Um estabelecimento que fica aberto até tarde da noite, oferecendo entretenimento, bebidas e música para os clientes.",
       "example": "Fui a la discoteca anoche y bailé con mis amigos, iremos de nuevo la próxima semana, y hemos ido muchas veces antes.",
       "example_translation": "Eu fui à boate ontem à noite e dancei com meus amigos, vamos ir novamente na próxima semana e já fomos muitas vezes antes.",
-      "imageLink": "night-club.jpg",
+      "imageLink": "image_files\\English\\night-club.jpg",
       "audioLink": "nightclub.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Um corpo gigante de água salgada que cobre mais de 70% da superfície da Terra.",
       "example": "He visitado el océano muchas veces, lo visitaré de nuevo el próximo verano, y lo visité el año pasado con mi familia.",
       "example_translation": "Eu visitei o oceano muitas vezes, vou visitá-lo novamente no próximo verão e visitei-o no ano passado com minha família.",
-      "imageLink": "ocean.jpg",
+      "imageLink": "image_files\\English\\ocean.jpg",
       "audioLink": "ocean.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Uma casa grande e impressionante, especialmente uma que foi construída para um rei ou rainha.",
       "example": "El palacio fue utilizado como lugar para bodas reales. Fue construido en el siglo XV y ha sido restaurado recientemente. Estará abierto al público el próximo año.",
       "example_translation": "O palácio foi usado como local para casamentos reais. Foi construído no século 15 e foi restaurado recentemente. Será aberto ao público no próximo ano.",
-      "imageLink": "palace.jpg",
+      "imageLink": "image_files\\English\\palace.jpg",
       "audioLink": "palace.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Uma loja onde as pessoas podem comprar medicamentos e outros produtos relacionados à saúde.",
       "example": "Fui a la farmacia para comprar algo para mi dolor de cabeza. El farmacéutico me ayudará a elegir el correcto. Iré de vuelta a la farmacia mañana para recoger mi receta.",
       "example_translation": "Fui à farmácia para comprar um remédio para minha dor de cabeça. O farmacêutico vai me ajudar a escolher o certo. Voltarei à farmácia amanhã para pegar minha receita.",
-      "imageLink": "pharmacy.jpg",
+      "imageLink": "image_files\\English\\pharmacy.jpg",
       "audioLink": "pharmacy.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Um lugar onde navios e barcos podem parar para carregar e descarregar mercadorias, especialmente em um mar ou oceano.",
       "example": "El puerto estuvo muy ocupado durante el verano. Ha sido ampliado recientemente para acomodar más barcos. El nuevo puerto estará abierto el próximo mes.",
       "example_translation": "O porto foi muito movimentado durante o verão. Foi expandido recentemente para acomodar mais navios. O novo porto será aberto no próximo mês.",
-      "imageLink": "port.jpg",
+      "imageLink": "image_files\\English\\port.jpg",
       "audioLink": "port.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "Um edifício ou instituição onde as pessoas são mantidas como punição por um crime.",
       "example": "La prisión estaba superpoblada, por lo que el gobierno decidió construir una nueva. Los prisioneros fueron transferidos a la nueva prisión el año pasado. La antigua prisión será convertida en un museo.",
       "example_translation": "A prisão estava superlotada, então o governo decidiu construir uma nova. Os prisioneiros foram transferidos para a nova prisão no ano passado. A prisão antiga será convertida em um museu.",
-      "imageLink": "prison.jpg",
+      "imageLink": "image_files\\English\\prison.jpg",
       "audioLink": "prison.mp3"
     },
     {
@@ -1569,7 +1569,7 @@
       "definition_translation": "Uma floresta tropical é uma floresta densa com um alto nível de precipitação pluviométrica, typicalmente encontrado perto do equador. É caracterizada por uma variedade diversa de espécies de plantas e animais.",
       "example": "Visité una selva tropical en Brasil el año pasado, donde vi muchos animales exóticos. Voy a visitar otra la próxima año. Siempre he estado fascinado por las selvas tropicales.",
       "example_translation": "Eu visitei uma floresta tropical no Brasil no ano passado, onde vi muitos animais exóticos. Eu vou visitar outro ano que vem. Eu sempre fui fascinado por florestas tropicais.",
-      "imageLink": "rainforest.jpg",
+      "imageLink": "image_files\\English\\rainforest.jpg",
       "audioLink": "rainforest.mp3"
     },
     {
@@ -1582,7 +1582,7 @@
       "definition_translation": "Uma escola secundária é uma escola que fornece educação aos alunos entre as idades de 11 e 18, typicalmente após a escola primária e antes da educação superior.",
       "example": "Asistí a una escuela secundaria en mi ciudad natal, donde hice muchos amigos. Mi hermana actualmente asiste a una escuela secundaria. Me inscribiré a mi hija en una escuela secundaria el año próximo.",
       "example_translation": "Eu frequentei uma escola secundária na minha cidade natal, onde fiz muitos amigos. Minha irmã está atualmente frequentando uma escola secundária. Eu vou me inscrever minha filha em uma escola secundária ano que vem.",
-      "imageLink": "secondary-school.jpg",
+      "imageLink": "image_files\\English\\secondary-school.jpg",
       "audioLink": "secondary school.mp3"
     },
     {
@@ -1595,7 +1595,7 @@
       "definition_translation": "Uma loja de lembranças é uma loja que vende itens como cartões-postais, chaveiros e camisetas que são destinados a serem guardados como lembranças de uma viagem ou férias.",
       "example": "Compré un souvenir en una tienda de souvenirs en París. Mi amigo esdueña una tienda de souvenirs en la playa. Voy a visitar una tienda de souvenirs mañana.",
       "example_translation": "Eu comprei um souvenir de uma loja de lembranças em Paris. Meu amigo é dono de uma loja de lembranças na praia. Eu vou visitar uma loja de lembranças amanhã.",
-      "imageLink": "souvenir-shop.jpg",
+      "imageLink": "image_files\\English\\souvenir-shop.jpg",
       "audioLink": "souvenir shop.mp3"
     },
     {
@@ -1608,7 +1608,7 @@
       "definition_translation": "Uma loja de artigos esportivos é uma loja que vende equipamentos e roupas para vários esportes, como futebol, basquete e tênis.",
       "example": "Compré un par de zapatos de running en una tienda de deportes. Mi hermano trabaja en una tienda de deportes. Voy a visitar una tienda de deportes este fin de semana.",
       "example_translation": "Eu comprei um novo par de sapatos de corrida de uma loja de artigos esportivos. Meu irmão trabalha em uma loja de artigos esportivos. Eu vou visitar uma loja de artigos esportivos fim de semana.",
-      "imageLink": "sports-shop.jpg",
+      "imageLink": "image_files\\English\\sports-shop.jpg",
       "audioLink": "sports shop.mp3"
     },
     {
@@ -1621,7 +1621,7 @@
       "definition_translation": "Um prédio ou sala onde os bens são vendidos ou armazenados.",
       "example": "Fui a la tienda a comprar leche ayer, voy a la tienda a comprar pan ahora, y voy a la tienda a comprar huevos mañana.",
       "example_translation": "Eu fui à loja para comprar leite ontem, estou indo à loja para comprar pão agora e irei à loja para comprar ovos amanhã.",
-      "imageLink": "store.jpg",
+      "imageLink": "image_files\\English\\store.jpg",
       "audioLink": "store.mp3"
     },
     {
@@ -1634,7 +1634,7 @@
       "definition_translation": "Um prédio dedicado ao culto de uma divindade ou divindades.",
       "example": "El templo antiguo fue descubierto el año pasado, los turistas visitaron el templo ayer, y los monjes rezarán en el templo mañana.",
       "example_translation": "O templo antigo foi descoberto no ano passado, os turistas visitaram o templo ontem e os monges rezarão no templo amanhã.",
-      "imageLink": "temple.jpg",
+      "imageLink": "image_files\\English\\temple.jpg",
       "audioLink": "temple.mp3"
     },
     {
@@ -1647,7 +1647,7 @@
       "definition_translation": "Um prédio alto e estreito, muitas vezes usado para defesa ou como posto de observação.",
       "example": "La torre se encontraba en el castillo medieval, los fuegos artificiales explotaron en la torre anoche, y los niños jugarán cerca de la torre mañana.",
       "example_translation": "A torre se ergueu alto no castelo medieval, os fogos de artifício explodiram na torre ontem à noite e as crianças brincarão perto da torre amanhã.",
-      "imageLink": "tower.jpg",
+      "imageLink": "image_files\\English\\tower.jpg",
       "audioLink": "tower.mp3"
     },
     {
@@ -1660,7 +1660,7 @@
       "definition_translation": "Uma superfície estreita, geralmente pavimentada ou gradeada para veículos seguirem.",
       "example": "El coche condujo rápido por la pista, el atleta corrió en la pista ayer, y el tren pasará por la pista mañana.",
       "example_translation": "O carro dirigiu rapidamente na pista, o atleta correu na pista ontem e o trem passará pela pista amanhã.",
-      "imageLink": "track.jpg",
+      "imageLink": "image_files\\English\\track.jpg",
       "audioLink": "track.mp3"
     },
     {
@@ -1673,7 +1673,7 @@
       "definition_translation": "Um alojamento com orçamento para jovens viajantes, muitas vezes com quartos compartilhados e instalações comunais.",
       "example": "Me quedé en un albergue juvenil en París durante mi viaje de mochila europea el verano pasado.",
       "example_translation": "Eu fiquei em um albergue de juventude em Paris durante minha viagem de mochila pela Europa no verão passado.",
-      "imageLink": "youth-hostel.jpg",
+      "imageLink": "image_files\\English\\youth-hostel.jpg",
       "audioLink": "youth hostel.mp3"
     },
     {
@@ -1686,7 +1686,7 @@
       "definition_translation": "Uma loja que vende alimentos à base de farinha assados em um forno, como pão, bolos e pastéis.",
       "example": "Voy a recoger pan fresco en la panadería en mi camino a casa del trabajo.",
       "example_translation": "Eu vou pegar um pão fresco da padaria no meu caminho para casa do trabalho.",
-      "imageLink": "bakery.jpg",
+      "imageLink": "image_files\\English\\bakery.jpg",
       "audioLink": "bakery.mp3"
     },
     {
@@ -1699,7 +1699,7 @@
       "definition_translation": "A parte mais baixa de um prédio, muitas vezes abaixo do nível do solo, usada para armazenamento, utilidades ou recreação.",
       "example": "El sótano se convirtió en un gimnasio durante la renovación.",
       "example_translation": "O porão foi convertido em um ginásio caseiro durante a reforma.",
-      "imageLink": "basement.jpg",
+      "imageLink": "image_files\\English\\basement.jpg",
       "audioLink": "basement.mp3"
     },
     {
@@ -1712,7 +1712,7 @@
       "definition_translation": "Um espaço pequeno fechado ou compartimentalizado, especialmente em uma prisão ou mosteiro.",
       "example": "El prisionero fue encerrado en su celda durante 23 horas al día.",
       "example_translation": "O prisioneiro foi trancado em sua cela por 23 horas por dia.",
-      "imageLink": "cell.jpg",
+      "imageLink": "image_files\\English\\cell.jpg",
       "audioLink": "cell.mp3"
     },
     {
@@ -1725,7 +1725,7 @@
       "definition_translation": "Um longo passeio em um prédio, normalmente com salas de ambos os lados.",
       "example": "Caminé por el pasillo para llegar a la sala de reuniones. Caminaré por el pasillo para llegar a la sala de reuniones. Caminé por el pasillo para llegar a la sala de reuniones.",
       "example_translation": "Eu caminhei pelo corredor para chegar à sala de reunião. Eu caminharei pelo corredor para chegar à sala de reunião. Eu caminhei pelo corredor para chegar à sala de reunião.",
-      "imageLink": "corridor.jpg",
+      "imageLink": "image_files\\English\\corridor.jpg",
       "audioLink": "corridor.mp3"
     },
     {
@@ -1738,7 +1738,7 @@
       "definition_translation": "Uma série de lições ou palestras sobre um assunto específico, especialmente uma que leva a uma qualificação.",
       "example": "Tomé un curso de programación informática el año pasado. Estoy tomando un curso de programación informática este año. Tomaré un curso de programación informática el próximo año.",
       "example_translation": "Eu fiz um curso de programação de computador no ano passado. Estou fazendo um curso de programação de computador este ano. Farei um curso de programação de computador no ano que vem.",
-      "imageLink": "course-1.jpg",
+      "imageLink": "image_files\\English\\course-1.jpg",
       "audioLink": "course.mp3"
     },
     {
@@ -1751,7 +1751,7 @@
       "definition_translation": "Uma área grande de terra, geralmente no campo, possuída por uma pessoa ou família.",
       "example": "La familia poseía una finca grande en el campo. La familia posee una finca grande en el campo. La familia poseerá una finca grande en el campo.",
       "example_translation": "A família possuía uma propriedade grande no campo. A família possui uma propriedade grande no campo. A família terá uma propriedade grande no campo.",
-      "imageLink": "estate.jpg",
+      "imageLink": "image_files\\English\\estate.jpg",
       "audioLink": "estate.mp3"
     },
     {
@@ -1764,7 +1764,7 @@
       "definition_translation": "O centro principal de operações ou administração de uma organização ou negócio.",
       "example": "La sede de la empresa se encuentra en Nueva York. La sede de la empresa se encuentra en Nueva York. La sede de la empresa se encontrará en Nueva York.",
       "example_translation": "A sede da empresa está localizada em Nova York. As sedes da empresa estão localizadas em Nova York. A sede da empresa estará localizada em Nova York.",
-      "imageLink": "headquarters.jpg",
+      "imageLink": "image_files\\English\\headquarters.jpg",
       "audioLink": "headquarters.mp3"
     },
     {
@@ -1777,7 +1777,7 @@
       "definition_translation": "Um lobby é um grande hall de entrada, geralmente luxuoso, em um prédio público, como um hotel ou prédio de escritórios.",
       "example": "Esperé en el vestíbulo a que llegara mi amigo. Ayer esperé en el vestíbulo a que llegara mi amigo. Para mañana, habré esperado en el vestíbulo a que llegara mi amigo.",
       "example_translation": "Esperei no lobby pelo meu amigo chegar. Ontem, esperei no lobby pelo meu amigo chegar. Até amanhã, terei esperado no lobby pelo meu amigo chegar.",
-      "imageLink": "lobby.jpg",
+      "imageLink": "image_files\\English\\lobby.jpg",
       "audioLink": "lobby.mp3"
     },
     {
@@ -1790,7 +1790,7 @@
       "definition_translation": "Um prado é um pedaço de terra coberto com grama e flores silvestres, frequentemente usado para pastagem de animais.",
       "example": "Camina través del prado para llegar al río. Ayer caminé través del prado para llegar al río. Para la próxima semana, habré caminado través del prado para llegar al río.",
       "example_translation": "Caminhei pelo prado para chegar ao rio. Ontem, caminhei pelo prado para chegar ao rio. Até a próxima semana, terei caminhado pelo prado para chegar ao rio.",
-      "imageLink": "meadow.jpg",
+      "imageLink": "image_files\\English\\meadow.jpg",
       "audioLink": "meadow.mp3"
     },
     {
@@ -1803,7 +1803,7 @@
       "definition_translation": "Um terreno é uma área de terra demarcada para jogar um jogo, especialmente futebol ou beisebol.",
       "example": "Practicé mi lanzamiento en la pista del campo. Ayer practiqué mi lanzamiento en la pista del campo. Para el próximo año, habré practicado mi lanzamiento en la pista del campo.",
       "example_translation": "Pratiquei meu lance no campo. Ontem, pratiquei meu lance no campo. Até o ano que vem, terei praticado meu lance no campo.",
-      "imageLink": "pitch.jpg",
+      "imageLink": "image_files\\English\\pitch.jpg",
       "audioLink": "pitch.mp3"
     },
     {
@@ -1816,7 +1816,7 @@
       "definition_translation": "Um galpão é uma estrutura pequena, tipicamente feita de madeira ou metal, usada para armazenar coisas.",
       "example": "Guardé mis herramientas en el cobertizo. Ayer guardé mis herramientas en el cobertizo. Para el próximo mes, habré guardado mis herramientas en el cobertizo.",
       "example_translation": "Guardei minhas ferramentas no galpão. Ontem, guardei minhas ferramentas no galpão. Até o próximo mês, terei guardado minhas ferramentas no galpão.",
-      "imageLink": "shed.jpg",
+      "imageLink": "image_files\\English\\shed.jpg",
       "audioLink": "shed.mp3"
     },
     {
@@ -1829,7 +1829,7 @@
       "definition_translation": "um prédio muito alto, habitável em muitos andares, typicalmente projetado para uso comercial, de escritórios e residencial.",
       "example": "El rascacielos se completó en 2010 y se convirtió en el edificio más alto de la ciudad. Se renovará en 2025. Para 2030, había sido un icono de la ciudad.",
       "example_translation": "O arranha-céu foi concluído em 2010 e se tornou o prédio mais alto da cidade. Será reformado em 2025. Até 2030, havia se tornado um marco icônico.",
-      "imageLink": "skyscraper.jpg",
+      "imageLink": "image_files\\English\\skyscraper.jpg",
       "audioLink": "skyscraper.mp3"
     },
     {
@@ -1842,7 +1842,7 @@
       "definition_translation": "uma praia com uma alta concentração de pedras ou seixos, frequentemente tornando difícil caminhar ou usar o sol.",
       "example": "La playa pedregosa no era ideal para nadar, pero era perfecta para buscar rocas interesantes. Caminamos por la playa pedregosa ayer. Para el próximo verano, será un lugar popular.",
       "example_translation": "A praia pedregosa não era ideal para nadar, mas era perfeita para procurar por pedras interessantes. Caminhamos ao longo da praia pedregosa ontem. Até o próximo verão, será um local popular.",
-      "imageLink": "stony-beach.jpg",
+      "imageLink": "image_files\\English\\stony-beach.jpg",
       "audioLink": "stony beach.mp3"
     },
     {
@@ -1855,7 +1855,7 @@
       "definition_translation": "um quarto ou prédio onde um artista, fotógrafo ou músico trabalha ou produz sua arte, música ou filmes.",
       "example": "La fotógrafa tenía un pequeño estudio en su apartamento donde desarrollaba sus fotos. Abrirá un nuevo estudio el próximo mes. Para fin de año, su estudio será famoso.",
       "example_translation": "A fotógrafa tinha um pequeno estúdio em seu apartamento onde ela desenvolvia suas fotos. Ela abrirá um novo estúdio no próximo mês. Até o final do ano, seu estúdio será famoso.",
-      "imageLink": "studio.jpg",
+      "imageLink": "image_files\\English\\studio.jpg",
       "audioLink": "studio.mp3"
     },
     {
@@ -1868,7 +1868,7 @@
       "definition_translation": "um prédio ou instalação onde os passageiros chegam ou partem, especialmente em um aeroporto ou porto.",
       "example": "El nuevo terminal en el aeropuerto se abrió el año pasado. Llegaremos al terminal mañana. Para 2030, el terminal se ampliará.",
       "example_translation": "O novo terminal no aeroporto foi aberto no ano passado. Chegaremos ao terminal amanhã. Até 2030, o terminal será expandido.",
-      "imageLink": "terminal.jpg",
+      "imageLink": "image_files\\English\\terminal.jpg",
       "audioLink": "terminal.mp3"
     },
     {
@@ -1881,7 +1881,7 @@
       "definition_translation": "Uma área plana fora de uma casa ou prédio, frequentemente rodeada por um muro ou corrimão, usada para recreação ou relaxamento.",
       "example": "Me senté en la terraza, bebiendo mi café y disfrutando de la vista. Ayer me senté en la terraza, leyendo un libro. Mañana me sentaré en la terraza, viendo la puesta del sol.",
       "example_translation": "Eu sentei no terraço, tomando meu café e aproveitando a vista. Ontem, eu sentei no terraço, lendo um livro. Amanhã, eu vou sentar no terraço, assistindo ao pôr do sol.",
-      "imageLink": "terrace.jpg",
+      "imageLink": "image_files\\English\\terrace.jpg",
       "audioLink": "terrace.mp3"
     },
     {
@@ -1894,7 +1894,7 @@
       "definition_translation": "Um lugar onde um evento ou atividade é realizado, como um concerto, conferência ou evento esportivo.",
       "example": "El lugar del concierto cambió en el último minuto. El lugar de la boda fue un hermoso jardín. El lugar de la reunión se anunciará pronto.",
       "example_translation": "O local do concerto foi mudado no último minuto. O local do casamento foi um jardim lindo. O local da reunião será anunciado em breve.",
-      "imageLink": "venue.jpg",
+      "imageLink": "image_files\\English\\venue.jpg",
       "audioLink": "venue.mp3"
     },
     {
@@ -1907,7 +1907,7 @@
       "definition_translation": "Uma divisão de um hospital ou outra instalação médica, especialmente uma que se especialize em um tipo particular de paciente ou tratamento.",
       "example": "El paciente fue trasladado al pabellón de cuidados intensivos. El doctor trabajó en el pabellón pediátrico durante varios años. La enfermera fue asignada al pabellón quirúrgico.",
       "example_translation": "O paciente foi transferido para a unidade de cuidados intensivos. O médico trabalhou na ala pediátrica por vários anos. A enfermeira foi designada para a ala cirúrgica.",
-      "imageLink": "ward.jpg",
+      "imageLink": "image_files\\English\\ward.jpg",
       "audioLink": "ward.mp3"
     },
     {
@@ -1920,7 +1920,7 @@
       "definition_translation": "Uma estrutura alta em um aeroporto a partir da qual o tráfego aéreo é controlado e regulamentado.",
       "example": "La torre de control guio el avión hacia la pista. La torre de control fue evacuada debido a un incendio. La torre de control se renovará el próximo año.",
       "example_translation": "A torre de controle guiou o avião para a pista de pouso. A torre de controle foi evacuada devido a um incêndio. A torre de controle será renovada no ano que vem.",
-      "imageLink": "control-tower.jpg",
+      "imageLink": "image_files\\English\\control-tower.jpg",
       "audioLink": "control tower.mp3"
     },
     {
@@ -1933,7 +1933,7 @@
       "definition_translation": "Uma loja que vende uma variedade de alimentos preparados, como carnes, queijos e sobremesas, frequentemente servidos de maneira decorativa ou artística.",
       "example": "Visité una tienda de delicatessen en Nueva York y compré algunos sandwiches deliciosos. He visitado una tienda de delicatessen en París antes. Visitaré una tienda de delicatessen en Londres el próximo mes.",
       "example_translation": "Eu visitei uma mercearia em Nova York e comprei alguns sanduíches deliciosos. Eu já havia visitado uma mercearia em Paris antes. Eu visitarei uma mercearia em Londres no próximo mês.",
-      "imageLink": "delicatessen.jpg",
+      "imageLink": "image_files\\English\\delicatessen.jpg",
       "audioLink": "delicatessen.mp3"
     },
     {
@@ -1946,7 +1946,7 @@
       "definition_translation": "Um recurso notável ou proeminente de uma paisagem ou cidade, frequentemente servindo como símbolo ou identificador.",
       "example": "La Torre Eiffel es un famoso monumento en París. La Estatua de la Libertad es un monumento bien conocido en Nueva York. El Big Ben será un monumento en Londres para siempre.",
       "example_translation": "A Torre Eiffel é um marco famoso em Paris. A Estátua da Liberdade é um marco bem conhecido em Nova York. O Big Ben será um marco em Londres para sempre.",
-      "imageLink": "landmark.jpg",
+      "imageLink": "image_files\\English\\landmark.jpg",
       "audioLink": "landmark.mp3"
     },
     {
@@ -1959,7 +1959,7 @@
       "definition_translation": "Uma casa grande e impressionante, frequentemente usada para descrever uma moradia luxuosa ou grandiosa.",
       "example": "El millonario vivía en una mansión con un hermoso jardín. Siempre había soñado con poseer una mansión en la playa. Construirán una mansión en las montañas el año que viene.",
       "example_translation": "O milionário viveu em uma mansão com um jardim bonito. Ela sempre sonhou em possuir uma mansão na praia. Eles vão construir uma mansão nas montanhas no ano que vem.",
-      "imageLink": "mansion.jpg",
+      "imageLink": "image_files\\English\\mansion.jpg",
       "audioLink": "mansion.mp3"
     },
     {
@@ -1972,7 +1972,7 @@
       "definition_translation": "Um conjunto de degraus e suas estruturas de suporte, frequentemente levando de um andar a outro em um prédio.",
       "example": "La casa antigua tenía una hermosa escalera que llevaba al segundo piso. Ella bajó lentamente por la escalera. Instalarán una nueva escalera en el edificio de oficinas el mes que viene.",
       "example_translation": "A casa antiga tinha uma bela escada levando ao segundo andar. Ela desceu a escada lentamente. Eles vão instalar uma nova escada no prédio de escritórios no próximo mês.",
-      "imageLink": "staircase.jpg",
+      "imageLink": "image_files\\English\\staircase.jpg",
       "audioLink": "staircase.mp3"
     },
     {
@@ -1985,7 +1985,7 @@
       "definition_translation": "Uma loja que vende papel, canetas e outros suprimentos de escritório.",
       "example": "Compré un nuevo cuaderno en la papelería ayer. Hoy voy a comprar un bolígrafo allí. Mañana, compraré una regla.",
       "example_translation": "Eu comprei um novo caderno na papelaria ontem. Hoje, estou indo comprar uma caneta lá. Amanhã, vou comprar uma régua.",
-      "imageLink": "stationery-shop.jpg",
+      "imageLink": "image_files\\English\\stationery-shop.jpg",
       "audioLink": "stationery shop.mp3"
     },
     {
@@ -1998,7 +1998,7 @@
       "definition_translation": "Um grande edifício usado para armazenar mercadorias.",
       "example": "La empresa construyó un nuevo almacén para almacenar sus productos. El año pasado, utilizaban un pequeño edificio para almacenarlos. En el futuro, ampliarán el almacén.",
       "example_translation": "A empresa construiu um novo armazém para armazenar seus produtos. No ano passado, eles usavam armazená-los em um prédio pequeno. No futuro, eles vão ampliar o armazém.",
-      "imageLink": "warehouse.jpg",
+      "imageLink": "image_files\\English\\warehouse.jpg",
       "audioLink": "warehouse.mp3"
     },
     {
@@ -2011,7 +2011,7 @@
       "definition_translation": "Uma loja que vende peixe fresco e frutos do mar.",
       "example": "Compré algunos langostinos en la pescadería ayer. Hoy voy a comprar salmón allí. Mañana, compraré atún.",
       "example_translation": "Eu comprei alguns camarões na peixaria ontem. Hoje, estou indo comprar algum salmão lá. Amanhã, vou comprar algum atum.",
-      "imageLink": "fishmongers.jpg",
+      "imageLink": "image_files\\English\\fishmongers.jpg",
       "audioLink": "fishmonger's.mp3"
     },
     {
@@ -2024,7 +2024,7 @@
       "definition_translation": "Uma loja que vende ferramentas e hardware.",
       "example": "Compré un martillo en la ferretería ayer. Hoy voy a comprar algunos tornillos allí. Mañana, compraré una llave inglesa.",
       "example_translation": "Eu comprei um martelo na ferreteria ontem. Hoje, estou indo comprar alguns parafusos lá. Amanhã, vou comprar uma chave inglesa.",
-      "imageLink": "ironmongers.jpg",
+      "imageLink": "image_files\\English\\ironmongers.jpg",
       "audioLink": "ironmonger's.mp3"
     },
     {
@@ -2037,7 +2037,7 @@
       "definition_translation": "O ato de trazer uma espaçonave ou uma aeronave ao solo ou a uma posição segura no solo.",
       "example": "El piloto ejecutó un aterrizaje habilidoso, llevando el avión a una parada en la pista de aterrizaje. Ayer, la nave espacial hizo un aterrizaje exitoso en Marte. El aterrizaje tendrá lugar al amanecer mañana.",
       "example_translation": "O piloto habilmente executou a aterragem, trazendo o avião para uma parada na pista. Ontem, a espaçonave fez uma aterrissagem bem-sucedida em Marte. A aterrissagem ocorrerá ao amanhecer amanhã.",
-      "imageLink": "landing.jpg",
+      "imageLink": "image_files\\English\\landing.jpg",
       "audioLink": "landing.mp3"
     },
     {
@@ -2050,7 +2050,7 @@
       "definition_translation": "Um quarto ou espaço diretamente sob o telhado de um prédio, muitas vezes usado para armazenamento ou como espaço de vida.",
       "example": "El ático sobre el garaje fue convertido en una habitación acogedora. Ella almacenó su muebles viejos en el ático. Para fin de año, planean convertir el ático en una oficina en casa.",
       "example_translation": "O sótão acima da garagem foi convertido em um quarto aconchegante. Ela armazenou seu mobiliário antigo no sótão. Até o final do ano, eles planejam transformar o sótão em um escritório em casa.",
-      "imageLink": "loft.jpg",
+      "imageLink": "image_files\\English\\loft.jpg",
       "audioLink": "loft.mp3"
     },
     {
@@ -2063,7 +2063,7 @@
       "definition_translation": "Uma loja que é licenciada para vender bebidas alcoólicas, mas apenas para consumo fora do local.",
       "example": "Compramos una botella de vino en la licorería para disfrutar en casa. La licorería en la esquina vende una amplia variedad de cervezas. Él paró en la licorería para comprar una caja de seis botellas de camino a casa.",
       "example_translation": "Nós compramos uma garrafa de vinho da loja de bebidas para desfrutar em casa. A loja de bebidas na esquina vende uma variedade de cervejas. Ele parou na loja de bebidas para pegar uma embalagem de seis latas no caminho para casa.",
-      "imageLink": "off-licence.jpg",
+      "imageLink": "image_files\\English\\off-licence.jpg",
       "audioLink": "off-licence.mp3"
     },
     {
@@ -2076,7 +2076,7 @@
       "definition_translation": "Forte e firme, não provável de cair ou ser movido.",
       "example": "La puerta del establo crujió cuando el caballo salió. La economía estable del país atrajo a inversores extranjeros. Para el próximo año, la empresa planea tener una situación financiera más estable.",
       "example_translation": "A porta da estrebaria rangeu quando o cavalo saiu. A economia estável do país atraiu investidores estrangeiros. Até o ano que vem, a empresa planeja ter uma situação financeira mais estável.",
-      "imageLink": "stable.jpg",
+      "imageLink": "image_files\\English\\stable.jpg",
       "audioLink": "stable.mp3"
     },
     {
@@ -2089,7 +2089,7 @@
       "definition_translation": "Uma loja franca é uma loja de varejo que está isenta de certos impostos e direitos locais e nacionais, permitindo que venda produtos a um preço mais baixo do que seria possível em um ambiente de varejo padrão.",
       "example": "Compré una botella de perfume en la tienda libre de impuestos en el aeropuerto. Compraré otra cuando regrese de mi viaje el año que viene. He estado comprando chocolates en la tienda libre de impuestos durante años.",
       "example_translation": "Eu comprei um frasco de perfume na loja franca do aeroporto. Vou comprar outro quando voltar da minha viagem no ano que vem. Eu tenho comprado chocolates na loja franca há anos.",
-      "imageLink": "duty-free-shop.jpg",
+      "imageLink": "image_files\\English\\duty-free-shop.jpg",
       "audioLink": "duty-free shop.mp3"
     },
     {
@@ -2102,7 +2102,7 @@
       "definition_translation": "Um píer é uma estrutura construída sobre a água, típica suportada por pilares ou pilhas, e usada para vários propósitos, como pesca, navegação ou recreação.",
       "example": "Paseé por el muelle, disfrutando de la vista del océano. Los pescadores estaban ocupados descargando su captura en el muelle. La ciudad planea construir un nuevo muelle para actividades recreativas.",
       "example_translation": "Eu caminhei ao longo do píer, desfrutando da vista do oceano. Os pescadores estavam ocupados descarregando sua pesca no píer. A cidade planeja construir um novo píer para atividades recreativas.",
-      "imageLink": "pier.jpg",
+      "imageLink": "image_files\\English\\pier.jpg",
       "audioLink": "pier.mp3"
     }
   ]

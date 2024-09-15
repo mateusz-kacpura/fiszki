@@ -9,7 +9,7 @@
       "definition_translation": "संगीत के लिए अपने शरीर को लयबद्ध तरीके से चलना, अभिव्यक्ति या व्यायाम के रूप में।",
       "example": "Ich tanzte die ganze Nacht auf der Party. Ich tanze jetzt im Club. Ich werde morgen auf meiner Hochzeit tanzen.",
       "example_translation": "मैंने पार्टी में रात भर नाचा। मैं अभी क्लब में नाच रहा हूँ। मैं कल अपने विवाह में नाचूँगा।",
-      "imageLink": "dance-1.jpg",
+      "imageLink": "image_files\\English\\dance-1.jpg",
       "audioLink": "dance.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "दुकानों में या ऑनलाइन चीजें खरीदने का कार्य, विशेष रूप से।",
       "example": "Ich ging gestern mit meinen Freunden einkaufen. Ich shoppe jetzt online. Ich werde morgen im Einkaufszentrum einkaufen.",
       "example_translation": "मैंने कल अपने दोस्तों के साथ खरीदारी की। मैं अभी ऑनलाइन खरीदारी कर रहा हूँ। मैं कल मॉल में खरीदारी करूँगा।",
-      "imageLink": "shopping.jpg",
+      "imageLink": "image_files\\English\\shopping.jpg",
       "audioLink": "shopping.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "तंबाकू के धुएं को सांस में लेना और निकालना, विशेष रूप से आदत के तौर पर।",
       "example": "Ich habe letztes Jahr das Rauchen aufgegeben. Ich rauche nicht gerade jetzt. Ich werde nicht wieder rauchen.",
       "example_translation": "मैंने पिछले साल धूम्रपान छोड़ दिया। मैं अभी धूम्रपान नहीं कर रहा हूँ। मैं फिर से धूम्रपान नहीं करूँगा।",
-      "imageLink": "smoking.jpg",
+      "imageLink": "image_files\\English\\smoking.jpg",
       "audioLink": "smoking.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "किसी उद्देश्य को प्राप्त करने या जीविका अर्जित करने के लिए मानसिक या शारीरिक प्रयास से किया गया कार्य।",
       "example": "Ich arbeitete gestern hart. Ich arbeite gerade jetzt. Ich werde morgen härter arbeiten.",
       "example_translation": "मैंने कल मेहनत की। मैं अभी काम कर रहा हूँ। मैं कल और मेहनत करूँगा।",
-      "imageLink": "work-1.jpg",
+      "imageLink": "image_files\\English\\work-1.jpg",
       "audioLink": "work.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "चीज़ें हो रही हैं या की जा रही हैं。",
       "example": "Ich liebe es, an Outdoor-Aktivitäten wie Wandern teilzunehmen. Ich nahm letzten Woche an einer Charity-Aktivität teil. Ich werde morgen an einer Yoga-Aktivität teilnehmen.",
       "example_translation": "मैं हाइकिंग जैसी आउटडोर एक्टिविटीज में भाग लेना पसंद करता हूँ। मैंने पिछले सप्ताह एक चैरिटी एक्टिविटी में भाग लिया था। मैं कल एक योग एक्टिविटी में शामिल होऊंगा।",
-      "imageLink": "activity.jpg",
+      "imageLink": "image_files\\English\\activity.jpg",
       "audioLink": "activity.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "एक छोटा, तेज़ आवाज़, जैसे माउस या कैमरे की आवाज़।",
       "example": "Ich klickte auf den Mausbutton, um die Datei zu öffnen. Sie klickte auf die Kamera, um ein Foto zu machen. Er wird den Link klicken, um die Software herunterzuladen.",
       "example_translation": "मैंने फ़ाइल खोलने के लिए माउस बटन क्लिक किया। उसने फ़ोटो लेने के लिए कैमरे क्लिक किया। वह सॉफ्टवेयर डाउनलोड करने के लिए लिंक क्लिक करेगा।",
-      "imageLink": "click.jpg",
+      "imageLink": "image_files\\English\\click.jpg",
       "audioLink": "click.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "किसी सीधी वस्तु के ऊपर या नीचे आने के लिए हाथों, पैरों या शरीर के अन्य अंगों का उपयोग करने की क्रिया।",
       "example": "Ich liebe es, Berge während meines Urlaubs zu erklimmen. Sie erkletterte die Treppe, als sie ausrutschte. Er wird nächstes Wochenende klettern gehen.",
       "example_translation": "मैं अपने अवकाश के दौरान पहाड़ों पर चढ़ना पसंद करता हूँ। वह सीढ़ियां चढ़ रही थी जब वह फिसल गई। वह अगले सप्ताहांत में चढ़ाई करेगा।",
-      "imageLink": "climbing.jpg",
+      "imageLink": "image_files\\English\\climbing.jpg",
       "audioLink": "climbing.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "खाने के लिए भोजन तैयार करना और गरम करना।",
       "example": "Ich liebe es, Abendessen für meine Familie zu kochen. Sie kochte Mittagessen, als ich ankam. Er wird morgen Frühstück kochen.",
       "example_translation": "मैं अपने परिवार के लिए रात का खाना पकाना पसंद करता हूँ। वह मेरे आने पर दोपहर का खाना बना रही थी। वह कल सुबह का खाना पकाने की कोशिश करेगा।",
-      "imageLink": "cooking.jpg",
+      "imageLink": "image_files\\English\\cooking.jpg",
       "audioLink": "cooking.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "किसी स्पोर्ट या व्यायाम के रूप में साइकिल चलाने की गतिविधि。",
       "example": "Ich liebe es, in den Bergen während des Sommers Rad zu fahren. Ich fuhr gestern hierher mit dem Fahrrad. Ich werde morgen mit dem Fahrrad zum Park fahren.",
       "example_translation": "मैं गर्मी में पर्वतों में साइकिल चलाना पसंद करता हूँ. मैं कल यहाँ साइकिल चलाकर आया. मैं कल पार्क में साइकिल चलाने जाऊँगा.",
-      "imageLink": "cycling.jpg",
+      "imageLink": "image_files\\English\\cycling.jpg",
       "audioLink": "cycling.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "रेखाओं, आकारों और रंगों का उपयोग करके एक तस्वीर या डायाराम बनाने की क्रिया.",
       "example": "Ich bin gut im Zeichnen von Cartoons. Sie zeichnete ein schönes Porträt gestern. Er wird morgen eine Karte zeichnen.",
       "example_translation": "मैं कार्टून ड्राइंग में अच्छा हूँ. उसने कल एक सुंदर पोर्ट्रेट ड्राया. वह कल एक नक्शा ड्रायेगा.",
-      "imageLink": "drawing-1.jpg",
+      "imageLink": "image_files\\English\\drawing-1.jpg",
       "audioLink": "drawing.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "शारीरिक फिटनेस और स्वास्थ्य को सुधारने या बनाए रखने के लिए किया जाने वाला शारीरिक क्रियाकलाप.",
       "example": "Ich übe jeden Morgen. Sie übte regelmäßig, als sie jung war. Sie werden morgen zusammen üben.",
       "example_translation": "मैं हर सुबह व्यायाम करता हूँ. वह जवानी में नियमित रूप से व्यायाम करती थी. वे कल साथ में व्यायाम करेंगे.",
-      "imageLink": "exercise-1.jpg",
+      "imageLink": "image_files\\English\\exercise-1.jpg",
       "audioLink": "exercise.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "किसी की या किसी चीज की सहायता या समर्थन करना.",
       "example": "Ich half meinem Freund gestern. Sie hilft ihrer Mutter jeden Tag. Sie werden den Armen helfen, wenn sie morgen zusammenarbeiten.",
       "example_translation": "मैंने अपने दोस्त की कल मदद की. वह अपनी माँ की हर दिन मदद करती है. वे कल गरीब लोगों की मदद करेंगे.",
-      "imageLink": "help-1.jpg",
+      "imageLink": "image_files\\English\\help-1.jpg",
       "audioLink": "help.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "पैर या पैर से मारना या मारना, आमतौर पर बलपूर्वक या शक्तिशाली ढंग से",
       "example": "Ich trat den Ball quer über das Feld. Gestern trat ich die Angewohnheit des Rauchens ab. Wenn ich nicht übe, werde ich mich selbst dafür verfluchen, dass ich es nicht gemacht habe.",
       "example_translation": "मैंने मैदान में गेंद मार दी। कल, मैंने धूम्रपान की आदत को मार दिया। अगर मैं 연습 नहीं करूं, तो मैं ऐसा नहीं करता तो मैं खुद को मार दूंगा।",
-      "imageLink": "kick-1.jpg",
+      "imageLink": "image_files\\English\\kick-1.jpg",
       "audioLink": "kick.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "कुछ के साथ स्पर्श करना या संपर्क में आना, आमतौर पर नरम या प्यार से ढंग से",
       "example": "Sie küsste mich auf die Wange. Er wird seine Frau vor dem Verlassen zur Begrüßung küssen. Ich küsste meine Kindheitsliebe nach vielen Jahren wieder.",
       "example_translation": "उसने मुझे गाल पर चुम्बन किया। वह अपनी पत्नी को अलविदा कहने से पहले चुम्बन करेगा। मैंने कई साल बाद अपने बचपन की प्रेमिका को चुम्बन किया।",
-      "imageLink": "kiss.jpg",
+      "imageLink": "image_files\\English\\kiss.jpg",
       "audioLink": "kiss.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "किसी कौशल या प्रवीणता को बेहतर या बनाए रखने के लिए किसी गतिविधि का बार-बार अभ्यास करना",
       "example": "Ich übe jeden Morgen Yoga. Sie übt drei Stunden am Tag Klavier. Sie werden ihre Rede vor der Präsentation üben.",
       "example_translation": "मैं सुबह योग का अभ्यास करता हूँ। वह दिन में तीन घंटे पियानो का अभ्यास करती है। वे प्रस्तुति से पहले अपने भाषण का अभ्यास करेंगे।",
-      "imageLink": "practice.jpg",
+      "imageLink": "image_files\\English\\practice.jpg",
       "audioLink": "practice.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "स्वर से संगीत की ध्वनि निकालना, विशेष रूप से संगीत संयोजन में",
       "example": "Sie liebt es, während sie duscht, zu singen. Ich sang mit dem Radio mit. Sie haben dieses Lied seit Jahren gesungen.",
       "example_translation": "वह शावर में गाना पसंद करती है। मैं रेडियो के साथ गाना गा रहा था। वे कई साल से इस गाने को गा रहे हैं।",
-      "imageLink": "singing-1.jpg",
+      "imageLink": "image_files\\English\\singing-1.jpg",
       "audioLink": "singing.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "स्केटबोर्ड की सवारी और नकली करने की क्रिया, आम तौर पर रैंप, सड़कों या अन्य सतहों पर",
       "example": "Sie lernte Skateboarden in ihren Teenagerjahren und nimmt jetzt an internationalen Wettbewerben teil. Sie wird nächstes Jahr an den X-Games teilnehmen. Sie hatte letztes Jahr an mehreren nationalen Wettbewerben teilgenommen.",
       "example_translation": "उन्होंने अपने किशोर वर्षों में स्केटबोर्डिंग सीखी और अब अंतरराष्ट्रीय प्रतियोगिताओं में भाग लेती हैं। वह अगले साल एक्स गेम्स में भाग लेगी। वह पिछले साल कई राष्ट्रीय प्रतियोगिताओं में भाग ली थी।",
-      "imageLink": "skateboarding-1.jpg",
+      "imageLink": "image_files\\English\\skateboarding-1.jpg",
       "audioLink": "skateboarding.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "बर्फ या सMOOTH सतह पर फिसलने की क्रिया, आम तौर पर रोलर स्केट्स या आइस स्केट्स पर",
       "example": "Sie liebt es, auf zugefrorenen Seen während des Winters zu laufen. Sie lief letzte Nacht auf der Eisbahn. Sie wird nächste Woche auf der neu gebauten Eisarena laufen.",
       "example_translation": "वह सर्दियों के दौरान जमे हुए झीलों पर स्केटिंग करना पसंद करती हैं। वह कल रात आइस रिंक पर स्केटिंग कर रही थीं। वह अगले हफ्ते नए बने आइस स्टेडियम पर स्केटिंग करेगी।",
-      "imageLink": "skating.jpg",
+      "imageLink": "image_files\\English\\skating.jpg",
       "audioLink": "skating.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "बर्फ से ढके ढाल पर स्नoubord पर फिसलने की क्रिया, आम तौर पर एक स्की रिसॉर्ट पर की जाती है",
       "example": "Er lernte Snowboarden in den Schweizer Alpen letztes Jahr. Er snowboardt jeden Wochenende auf den schwarzen Pisten. Er wird nächstes Jahr auf den Hängen des Mount Everest snowboarden.",
       "example_translation": "उन्होंने पिछले साल स्विस आल्प्स में स्नoubordिंग सीखी। वह हर सप्ताहांत पर काले हीरे की ढलान पर स्नoubordिंग करता है। वह अगले साल माउंट एवरेस्ट की ढलान पर स्नoubordिंग करेगा।",
-      "imageLink": "snowboarding.jpg",
+      "imageLink": "image_files\\English\\snowboarding.jpg",
       "audioLink": "snowboarding.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "किसी लहर पर सवार होकर तट की ओर आने की क्रिया, आम तौर पर एक सर्फबोर्ड पर",
       "example": "Sie surft jeden Morgen auf den großen Wellen am Strand. Sie surfte letztes Jahr auf den Wellen von Hawaii. Sie wird nächsten Monat auf den Wellen von Kalifornien surfen.",
       "example_translation": "वह हर सुबह समुद्र तट पर बड़ी लहरों पर सर्फिंग करती हैं। वह पिछले साल हवाई की लहरों पर सर्फिंग कर रही थीं। वह अगले महीने कैलिफोर्निया की लहरों पर सर्फिंग करेगी।",
-      "imageLink": "surfing.jpg",
+      "imageLink": "image_files\\English\\surfing.jpg",
       "audioLink": "surfing.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "पानी के माध्यम से अपने हाथों और पैरों का उपयोग करके गति करने की क्रिया, आमतौर पर व्यायाम या मनोरंजन के रूप में",
       "example": "Ich schwamm gestern im Pool, ich schwimme jeden Morgen, und ich werde morgen im Ozean schwimmen.",
       "example_translation": "मैं कल पूल में तैर रहा था, मैं हर सुबह तैरता हूँ, और मैं कल समुद्र में तैरूंगा.",
-      "imageLink": "swimming.jpg",
+      "imageLink": "image_files\\English\\swimming.jpg",
       "audioLink": "swimming.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "किसी विशेष उद्देश्य के लिए कुछ का उपयोग करना, या किसी चीज का लाभ उठाना",
       "example": "Ich benutze einen Computer, um zu arbeiten, ich benutzte einen Stift, um zu zeichnen, und ich werde ein Fahrrad benutzen, um zu fahren.",
       "example_translation": "मैं काम करने के लिए कंप्यूटर का उपयोग करता हूँ, मैंने एक पेंसिल से ड्रा किया, और मैं सवारी के लिए बाइक का उपयोग करूँगा.",
-      "imageLink": "use-1.jpg",
+      "imageLink": "image_files\\English\\use-1.jpg",
       "audioLink": "use.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "पैरों से धीमे गति से चलना, आमतौर पर सीधे खड़े होकर",
       "example": "Ich gehe jeden Tag zur Schule, ich ging gestern zum Laden, und ich werde morgen im Park spazieren gehen.",
       "example_translation": "मैं रोज स्कूल जाता हूँ, मैं कल स्टोर पर गया था, और मैं कल पार्क में चलूँगा.",
-      "imageLink": "walk-1.jpg",
+      "imageLink": "image_files\\English\\walk-1.jpg",
       "audioLink": "walk.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "पैरों से धीमे गति से चलने की क्रिया, आमतौर पर सीधे खड़े होकर",
       "example": "Ich liebe es, morgens zu gehen, ich ging gestern zum Fitnessstudio, und ich werde morgen in den Hügeln gehen.",
       "example_translation": "मैं सुबह में चलना पसंद करता हूँ, मैं कल जिम की ओर चल रहा था, और मैं कल पहाड़ियों में चलूँगा.",
-      "imageLink": "walking.jpg",
+      "imageLink": "image_files\\English\\walking.jpg",
       "audioLink": "walking.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "किसी चीज को पानी में साफ करने की प्रक्रिया",
       "example": "Ich habe den ganzen Tag meine Kleidung gewaschen, aber sie sind immer noch schmutzig.",
       "example_translation": "मैं पूरे दिन अपने कपड़े धो रहा हूँ, लेकिन वे अभी भी गंदे हैं",
-      "imageLink": "wash-2.jpg",
+      "imageLink": "image_files\\English\\wash-2.jpg",
       "audioLink": "washing.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "भोजन के बाद बर्तन और सामग्रियों को साफ़ करने की प्रक्रिया",
       "example": "Meine Mutter macht gerade den Abwasch nach dem Abendessen.",
       "example_translation": "मेरी माँ रात के खाने के बाद बर्तन साफ़ कर रही है",
-      "imageLink": "washing-up.jpg",
+      "imageLink": "image_files\\English\\washing-up.jpg",
       "audioLink": "washing-up.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "किसी कठिन या वांछित चीज को पूरा करने की प्रक्रिया",
       "example": "Das Absolvieren des College-Studiums war eine große Errungenschaft für mich.",
       "example_translation": "कॉलेज से स्नातक होना मेरे लिए एक बड़ी प्राप्ति थी",
-      "imageLink": "achievement.jpg",
+      "imageLink": "image_files\\English\\achievement.jpg",
       "audioLink": "achievement.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "चीज़ों को क्रम में रखने या किसी विशेष उद्देश्य के लिए तैयार करने की प्रक्रिया",
       "example": "Die Anordnung der Möbel im Wohnzimmer ist perfekt.",
       "example_translation": "लिविंग रूम में फर्नीचर की व्यवस्था परफेक्ट है",
-      "imageLink": "arrangement.jpg",
+      "imageLink": "image_files\\English\\arrangement.jpg",
       "audioLink": "arrangement.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "लंबी यात्रा के बाद किसी स्थान पर पहुँचने की क्रिया",
       "example": "Die Ankunft der neuen Mitarbeiterin wurde wegen des Verkehrs verspätet. Sie kam gestern an. Sie wird morgen ankommen.",
       "example_translation": "नई कर्मचारी का आगमन ट्राफिक की वजह से देर हो गया था. वह कल आई थी. वह कल आ जाएगी.",
-      "imageLink": "arrival.jpg",
+      "imageLink": "image_files\\English\\arrival.jpg",
       "audioLink": "arrival.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "हिंसा से, विशेष रूप से शारीरिक, पर आक्रमण करना",
       "example": "Der Hund griff den Briefträger an. Die Armee griff die feindliche Basis letzte Nacht an. Der Hacker wird die Website morgen angreifen.",
       "example_translation": "कुत्ते ने डाकिये पर हमला कर दिया. सेना ने पिछली रात दुश्मन के ठिकाने पर हमला कर दिया. हैकर कल वेबसाइट पर हमला करेगा.",
-      "imageLink": "attack-2.jpg",
+      "imageLink": "image_files\\English\\attack-2.jpg",
       "audioLink": "attack.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "कुछ की सटीकता या गुणवत्ता निर्धारित करने के लिए जाँच करना या जांचना",
       "example": "Ich muss mein E-Mail-Postfach überprüfen. Sie überprüfte das Rezept, bevor sie kochte. Er wird morgen den Kontoauszug überprüfen.",
       "example_translation": "मुझे अपना ईमेल जाँच करने की जरूरत है. उसने खाना पकाने से पहले नुस्खा जाँच किया. वह कल एकाउंट जाँच करेगा.",
-      "imageLink": "check-1.jpg",
+      "imageLink": "image_files\\English\\check-1.jpg",
       "audioLink": "check.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "दो या अधिक संभावनाओं में से चयन या निर्णय करने की क्रिया",
       "example": "Ich hatte die Wahl zwischen zwei Jobs. Sie machte letzten Jahr eine falsche Wahl. Er wird morgen eine gute Wahl treffen.",
       "example_translation": "मेरे पास दो नौकरियों में से चुनने का विकल्प था. उसने पिछले साल गलत चुनाव किया. वह कल अच्छा चुनाव करेगा.",
-      "imageLink": "choice.jpg",
+      "imageLink": "image_files\\English\\choice.jpg",
       "audioLink": "choice.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "कई संभावनाओं वाली स्थिति में कुछ निर्णय लेने की क्रिया या प्रक्रिया",
       "example": "Sie traf die schwere Entscheidung, ihren Job zu verlassen. Sie hatte entschieden, nach einem Jahr aufzuhören. Sie wird morgen entscheiden, ob sie das Angebot annimmt.",
       "example_translation": "उसने नौकरी छोड़ने का कठिन निर्णय लिया। उसने एक साल बाद छोड़ने का फैसला किया था। कल वह ऑफर लेने पर निर्णय लेगी।",
-      "imageLink": "decision.jpg",
+      "imageLink": "image_files\\English\\decision.jpg",
       "audioLink": "decision.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "वह क्रिया जिसमें माल या उत्पाद को किसी स्थान पर ले जाया जाता है जहां वे उस व्यक्ति या संगठन को दिया जा सकता है जिसने उन्हें खरीदा है",
       "example": "Das Unternehmen garantiert eine schnelle Lieferung seiner Produkte. Der Lieferant brachte das Paket gestern mit. Die Lieferung der neuen Geräte wird sich verspäten.",
       "example_translation": "कंपनी अपने उत्पादों की तेज डिलीवरी की गारंटी देती है। डिलीवरी मैन कल पैकेज के साथ आया था। नए गैजेट्स की डिलीवरी में देर होगी।",
-      "imageLink": "delivery.jpg",
+      "imageLink": "image_files\\English\\delivery.jpg",
       "audioLink": "delivery.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "आगे बढ़ने या अधिक उन्नत या परिष्कृत होने की प्रक्रिया",
       "example": "Das Unternehmen hat viel in die Entwicklung neuer Technologien investiert. Die Entwicklung der Wirtschaft war langsam. Sie wird die Entwicklung des neuen Projekts überwachen.",
       "example_translation": "कंपनी ने नई टेक्नोलॉजी के विकास में भारी निवेश किया है। अर्थव्यवस्था का विकास धीमा रहा है। वह नए प्रोजेक्ट के विकास की देखरेख करेगी।",
-      "imageLink": "development.jpg",
+      "imageLink": "image_files\\English\\development.jpg",
       "audioLink": "development.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "पानी में कूदने की क्रिया, विशेष रूप से सिर के साथ, या पानी के नीचे खोज के खेल की",
       "example": "Ich liebe es, in der Karibik zu tauchen. Sie taucht seit Jahren. Sie werden morgen im See tauchen.",
       "example_translation": "मैं कैरिबियन में स्कूबा डाइविंग से प्यार करता हूँ। वह सालों से डाइविंग कर रही हैं। वे कल झील में डाइविंग जाएंगे।",
-      "imageLink": "diving.jpg",
+      "imageLink": "image_files\\English\\diving.jpg",
       "audioLink": "diving.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "एक वाहन, आमतौर पर कार, ट्रक, یا मोटरसाइकिल का संचालन करना, इसकी गति का निर्देशन करना",
       "example": "Ich fuhr gestern zum Laden, ich fahre jeden Morgen zur Arbeit, und ich werde nächstes Wochenende zum Strand fahren.",
       "example_translation": "मैं कल स्टोर पर गया था, मैं रोज सुबह काम पर जाता हूँ, और मैं अगले वीकेंड पर बीच पर जाऊँगा",
-      "imageLink": "drive-2.jpg",
+      "imageLink": "image_files\\English\\drive-2.jpg",
       "audioLink": "drive.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "किसी चीज को करने या कुछ हासिल करने के लिए एक ज़ोरदार या दृढ़ प्रयास",
       "example": "Ich machte mir die Mühe, das Projekt rechtzeitig zu beenden, sie legte viel Mühe in das Erlernen der Sprache, und sie werden Mühe machen, den Service zu verbessern.",
       "example_translation": "मैंने समय पर प्रोजेक्ट पूरा करने के लिए प्रयास किया, उसने भाषा सीखने के लिए बहुत प्रयास किया, और वे सेवा में सुधार करने के लिए प्रयास करेंगे",
-      "imageLink": "effort.jpg",
+      "imageLink": "image_files\\English\\effort.jpg",
       "audioLink": "effort.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "किसी चीज के बदले में कुछ और देने की क्रिया, विशेष रूप से समान मूल्य की चीज",
       "example": "Ich tauschte mein altes Handy gegen ein neues aus, sie tauschten Geburtstagsgeschenke aus, und wir werden E-Mails austauschen, um das Projekt zu diskutieren.",
       "example_translation": "मैंने अपना पुराना फोन नया फोन से बदल दिया, वे जन्मदिन पर उपहारों का आदान-प्रदान करते हैं, और हम प्रोजेक्ट पर चर्चा करने के लिए ईमेल का आदान-प्रदान करेंगे",
-      "imageLink": "exchange-1.jpg",
+      "imageLink": "image_files\\English\\exchange-1.jpg",
       "audioLink": "exchange.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "किसी仮説 की सच्चाई या असच्चाई की जाँच करने के लिए एक वैज्ञानिक परीक्षण या जांच",
       "example": "Der Wissenschaftler führte ein Experiment durch, um die neue Theorie zu testen, ich experimentierte mit verschiedenen Kochtechniken, und sie werden neue Marketingstrategien ausprobieren.",
       "example_translation": "वैज्ञानिक ने नई सिद्धांत की जाँच करने के लिए एक प्रयोग किया, मैंने अलग-अलग खाना पकाने की तकनीकों से प्रयोग किया, और वे नई मार्केटिंग रणनीतियों से प्रयोग करेंगे",
-      "imageLink": "experiment.jpg",
+      "imageLink": "image_files\\English\\experiment.jpg",
       "audioLink": "experiment.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "किसी से या कुछ से शारीरिक या मौखिक लड़ाई में शामिल होना।",
       "example": "Ich kämpfte mit meinem Bruder gestern, ich kämpfe mit ihm jetzt und ich werde mit ihm morgen wieder kämpfen.",
       "example_translation": "मैं कल अपने भाई से लड़ा, मैं अब उसके साथ लड़ रहा हूँ, और मैं कल फिर से उसके साथ लड़ाई करूँगा।",
-      "imageLink": "fight.jpg",
+      "imageLink": "image_files\\English\\fight.jpg",
       "audioLink": "fight.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "एक जगह से दूसरी जगह पर जाना, यात्रा करना या यात्रा करना।",
       "example": "Ich ging zum Laden gestern, ich gehe gerade zum Park und ich werde morgen zur Schule gehen.",
       "example_translation": "मैं कल स्टोर पर गया, मैं अब पार्क पर जा रहा हूँ, और मैं कल स्कूल जाऊँगा।",
-      "imageLink": "go-1.jpg",
+      "imageLink": "image_files\\English\\go-1.jpg",
       "audioLink": "go.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "कोई नियमित या सामान्य अभ्यास या व्यवहार。",
       "example": "Ich habe die Gewohnheit, vor dem Schlafen Bücher zu lesen, ich hatte die Gewohnheit, zu rauchen, und ich werde die Gewohnheit haben, täglich zu trainieren.",
       "example_translation": "मेरी रात को सोने से पहले किताबें पढ़ने की आदत है, मेरी सिगरेट पीने की आदत थी, और मेरी डेली एक्सरसाइज करने की आदत होगी।",
-      "imageLink": "habit.jpg",
+      "imageLink": "image_files\\English\\habit.jpg",
       "audioLink": "habit.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "घर के रख-रखाव और सफ़ाई के लिए किए जाने वाले कार्य और काम。",
       "example": "Ich erledigte die Hausarbeit gestern, ich erledige die Hausarbeit jetzt und ich werde die Hausarbeit morgen erledigen.",
       "example_translation": "मैंने कल घर का काम किया, मैं अब घर का काम कर रहा हूँ, और मैं कल फिर से घर का काम करूँगा।",
-      "imageLink": "housework.jpg",
+      "imageLink": "image_files\\English\\housework.jpg",
       "audioLink": "housework.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "किसी को अपने बाहों में कसकर पकड़ना, आम तौर पर स्नेह दिखाने के लिए",
       "example": "Ich umarmte meine Mutter, als ich sie am Flughafen sah. Ich werde meinen Freund umarmen, wenn ich ihn morgen sehe. Sie umarmt ihr Teddybär jede Nacht.",
       "example_translation": "मैंने हवाई अड्डे पर माँ को आलिंगन किया। मैं अपने दोस्त को कल मिलूँगा जब मैं उसे देखूँगा। वह अपने टेडी बियर को रोज रात को आलिंगन करती थी।",
-      "imageLink": "hug.jpg",
+      "imageLink": "image_files\\English\\hug.jpg",
       "audioLink": "hug.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "गर्म इस्त्री का प्रयोग करके कपड़ों से सिकुड़न हटाने की क्रिया",
       "example": "Ich bügelte gestern. Sie wird morgen bügeln. Er bügelt gerade jetzt.",
       "example_translation": "मैंने कल इस्त्री की। वह कल इस्त्री करेगी। वह अब इस्त्री कर रहा है।",
-      "imageLink": "ironing.jpg",
+      "imageLink": "image_files\\English\\ironing.jpg",
       "audioLink": "ironing.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "अपने पैरों का प्रयोग करके ऊपर या आगे की ओर खुद को प्रेरित करना",
       "example": "Ich sprang über die Hürde. Sie springt jeden Morgen. Er wird morgen ins Schwimmbad springen.",
       "example_translation": "मैंने बाधा के ऊपर कूदा। वह हर सुबह कूदती है। वह कल पूल में कूदेगा।",
-      "imageLink": "jump.jpg",
+      "imageLink": "image_files\\English\\jump.jpg",
       "audioLink": "jump.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "किसी निर्देशित दिशा में अपनी नजरें डालना",
       "example": "Ich sah die schöne Aussicht. Sie wird nach ihrem Baby sehen. Er sah zurück auf die Uhr.",
       "example_translation": "मैंने सुंदर दृश्य की ओर देखा। वह अपने बच्चे की देखभाल करेगी। वह घड़ी की ओर पीछे देखा।",
-      "imageLink": "look-1.jpg",
+      "imageLink": "image_files\\English\\look-1.jpg",
       "audioLink": "look.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "पैर से तेज गति से चलना, आमतौर पर एक स्थिर और तेज गति से, अक्सर एक विशिष्ट दिशा में या एक विशिष्ट उद्देश्य के लिए。",
       "example": "Ich lief zum Laden gestern, ich laufe gerade zum Park und ich werde nächste Woche einen Marathon laufen.",
       "example_translation": "मैं कल स्टोर पर दौड़ा था, मैं आज पार्क पर दौड़ रहा हूँ, और मैं अगले हफ्ते मैराथन दौड़ूँगा.",
-      "imageLink": "run-1.jpg",
+      "imageLink": "image_files\\English\\run-1.jpg",
       "audioLink": "run.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "किसी चीज की अच्छी तरह से और सावधानीपूर्वक तलाश करना, अक्सर एक सिस्टमैटिक और विस्तृत तरीके से।",
       "example": "Ich suchte nach dem Buch in der Bibliothek gestern, ich suche gerade online und ich werde morgen das ganze Haus durchsuchen.",
       "example_translation": "मैं कल लाइब्रेरी में किताब की तलाश कर रहा था, मैं आज ऑनलाइन तलाश कर रहा हूँ, और मैं कल पूरे घर की तलाश करूँगा।",
-      "imageLink": "search.jpg",
+      "imageLink": "image_files\\English\\search.jpg",
       "audioLink": "search.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "मनुष्यों और कई अन्य जीवित चीजों में से दो मुख्य श्रेणियों (पुरुष या महिला) में से एक, उनके प्रजनन भूमिकाओं के आधार पर विभाजित।",
       "example": "Das Geschlecht des Babys wurde bei der Geburt bestimmt, Die Sexualaufklärungsklasse war informativ und Das Geschlechterverhältnis im Dorf ist verzerrt.",
       "example_translation": "शिशु का सेक्स जन्म के समय निर्धारित हुआ, सेक्स शिक्षा कक्ष информатив था, और गाँव में सेक्स राशन विकृत है।",
-      "imageLink": "sex-1.jpg",
+      "imageLink": "image_files\\English\\sex-1.jpg",
       "audioLink": "sex.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "पैर की गति, आमतौर पर आगे की दिशा में, जैसे चलने या दौड़ने में।",
       "example": "Ich trat einen Schritt zurück, um das Hindernis zu vermeiden, Ich unternehme Schritte, um meine Gesundheit zu verbessern und Sie wird einen Schritt vorwärts tun, um den Preis zu entgegennehmen.",
       "example_translation": "मैं आय梱stacle से बचने के लिए पीछे कदम लिया, मैं अपने स्वास्थ्य में सुधार के लिए कदम उठा रहा हूँ, और वह पुरस्कार स्वीकार करने के लिए आगे कदम लेगी।",
-      "imageLink": "step-1.jpg",
+      "imageLink": "image_files\\English\\step-1.jpg",
       "audioLink": "step.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "किसी चीज या किसी व्यक्ति का समर्थन देना",
       "example": "Ich werde dich in deiner Entscheidung unterstützen, Ich unterstützte sie in ihrer Zeit der Not und Ich habe dieser Wohltätigkeitsorganisation Jahre lang unterstützt.",
       "example_translation": "मैं आपके फैसले में आपका समर्थन करूँगा. मैंने उसकी जरूरत के समय में उसका समर्थन किया. मैं पिछले कई सालों से इस चैरिटी का समर्थन कर रहा हूँ.",
-      "imageLink": "support.jpg",
+      "imageLink": "image_files\\English\\support.jpg",
       "audioLink": "support.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "किसी को या कुछ देखने के लिए जाना, đặcतौर पर थोड़े समय के लिए",
       "example": "Ich werde meine Familie morgen besuchen, Sie besuchte Paris letztes Jahr und Sie werden uns nächste Woche besuchen.",
       "example_translation": "मैं कल अपने परिवार से मिलूँगा. उसने पेरिस में पिछले साल यात्रा की. वे अगले हफ्ते हमसे मिलने आएंगे.",
-      "imageLink": "visit-2.jpg",
+      "imageLink": "image_files\\English\\visit-2.jpg",
       "audioLink": "visit.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "उस सामग्री को फेंक दिया जाता है या बेकार या निरर्थक माना जाता है",
       "example": "Wir müssen den Abfall reduzieren, um die Umwelt zu retten, Sie verschwendeten viel Zeit am Projekt und Das Unternehmen verschwendet seine Ressourcen.",
       "example_translation": "हमें पर्यावरण बचाने के लिए कचरा कम करना होगा. उनहोंने इस परियोजना पर बहुत समय बर्बाद किया. कंपनी अपने संसाधनों को बर्बाद कर रही है.",
-      "imageLink": "waste-1.jpg",
+      "imageLink": "image_files\\English\\waste-1.jpg",
       "audioLink": "waste.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "शारीरिक व्यायाम का एक सत्र, विशेष रूप से एक ऐसा जो तय किया गया हो या संरचित हो",
       "example": "Ich werde mich morgen im Fitnessstudio trainieren, Sie trainiert jeden Morgen und Sie haben gemeinsam monatelang trainiert.",
       "example_translation": "मैं कल जिम में व्यायाम करूँगा. वह सुबह κάθε सुबह व्यायाम करती हैं. वे महीनों से साथ में व्यायाम कर रहे हैं.",
-      "imageLink": "workout.jpg",
+      "imageLink": "image_files\\English\\workout.jpg",
       "audioLink": "workout.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "Un piccolo animale con sei zampe, solitamente con un rivestimento esterno duro e spesso trovato nei giardini o nelle foreste.",
       "example": "Ich sah ein Insekt auf der Wand gestern. Heute werde ich versuchen, ein Insekt im Garten zu fangen. Bis nächstes Jahr werde ich über viele verschiedene Insekten gelernt haben.",
       "example_translation": "Ho visto un insetto strisciare sulla parete ieri. Oggi, cercherò di catturare un insetto nel giardino. Entro l'anno prossimo, avrò imparato su molti insetti diversi.",
-      "imageLink": "insect.jpg",
+      "imageLink": "image_files\\English\\insect.jpg",
       "audioLink": "insect.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un piccolo insetto, solitamente rosso o nero, che vive in colonie e è noto per la sua natura industriosa.",
       "example": "Ich beobachtete eine Ameise, die gestern einen Krümel zu ihrem Ameisenhügel trug. Heute sah ich Ameisen in einer Linie über den Küchenboden marschieren. Bis nächstem Sommer erwarte ich, viele Ameisen im Garten zu sehen.",
       "example_translation": "Ho guardato una formica che portava un briciolo nel suo formicaio ieri. Oggi, ho visto delle formiche marciare in fila sulla pavimentazione della cucina. Entro la prossima estate, mi aspetto di vedere molte formiche nel giardino.",
-      "imageLink": "ant.jpg",
+      "imageLink": "image_files\\English\\ant.jpg",
       "audioLink": "ant.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un insetto volante che raccoglie nettare dai fiori e produce miele, spesso vivendo in un alveare con una regina ape.",
       "example": "Ich sah eine Biene um die Blumen im Garten herumfliegen gestern. Heute beobachtete ich eine Biene, die Nektar aus den Sonnenblumen sammelte. Bis nächstem Monat werde ich über die Bedeutung von Bienen bei der Bestäubung gelernt haben.",
       "example_translation": "Ho visto un'ape ronzare intorno ai fiori nel giardino ieri. Oggi, ho guardato un'ape che raccoglieva nettare dai girasoli. Entro il prossimo mese, avrò imparato sull'importanza delle api nell'impollinazione.",
-      "imageLink": "bee.jpg",
+      "imageLink": "image_files\\English\\bee.jpg",
       "audioLink": "bee.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Un insetto piccolo, soprattutto uno che è fastidioso o problematico.",
       "example": "Ich fand eine Wanze in meiner Küche letzten Nacht, und sie schreckte mich. Ich werde jede Wanze, die ich in meinem Haus sehe, zertreten. Ich sah eine Wanze auf der Wand gestern krabbeln.",
       "example_translation": "Ho trovato un insetto nella mia cucina ieri sera, e mi ha spaventato. Squasherò ogni insetto che vedo in casa mia. Ho visto un insetto strisciare sulla parete ieri.",
-      "imageLink": "bug.jpg",
+      "imageLink": "image_files\\English\\bug.jpg",
       "audioLink": "bug.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un insetto volante con ali grandi e spesso colorate, soprattutto una delle specie che si nutrono di nettare.",
       "example": "Ich sah einen schönen Schmetterling im Garten heute. Der Schmetterling wird bald fliegen. Ich beobachtete einen Schmetterling, der gestern aus einer Raupe hervorgegangen ist.",
       "example_translation": "Ho visto una bella farfalla nel giardino oggi. La farfalla volerà via presto. Ho guardato una farfalla trasformarsi da bruises ieri.",
-      "imageLink": "butterfly.jpg",
+      "imageLink": "image_files\\English\\butterfly.jpg",
       "audioLink": "butterfly.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un insetto grande, piatto, a forma di uovo con un esoscheletro luminoso, solitamente trovato in posti bui o sporchi.",
       "example": "Ich mag keine Kakerlaken in meiner Küche. Die Kakerlake rannte über den Boden, als ich das Licht anmachte. Ich werde den Kammerjäger anrufen, um alle Kakerlaken zu töten.",
       "example_translation": "Non mi piacciono gli scarafaggi nella mia cucina. Lo scarafaggio corse attraverso il pavimento quando ho acceso la luce. Chiamerò l'exterminatore per uccidere tutti gli scarafaggi.",
-      "imageLink": "cockroach.jpg",
+      "imageLink": "image_files\\English\\cockroach.jpg",
       "audioLink": "cockroach.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Una cosa vivente, in particolare un animale, che ha sensi e il potere del movimento.",
       "example": "Die Kreatur versteckte sich in den Büschen. Sie wird morgen eine neue Kreatur erschaffen. Sie erschufen letztes Jahr ein seltsames Wesen.",
       "example_translation": "La creatura si nascondeva nei cespugli. Creerà una nuova creatura domani. Hanno creato una strana creatura l'anno scorso.",
-      "imageLink": "creature.jpg",
+      "imageLink": "image_files\\English\\creature.jpg",
       "audioLink": "creature.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Muoversi attraverso l'aria, usando le ali.",
       "example": "Der Vogel liebt es zu fliegen. Sie wird morgen nach Paris fliegen. Sie flogen letzten Monat nach New York.",
       "example_translation": "L'uccello ama volare. Volerà a Parigi domani. Hanno volato a New York il mese scorso.",
-      "imageLink": "fly.jpg",
+      "imageLink": "image_files\\English\\fly.jpg",
       "audioLink": "fly.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un piccolo insetto che morde animali e umani, causando spesso una dolorosa infiammazione.",
       "example": "Die Mücke biss mich letzten Nacht. Sie wird heute Nacht jemanden beißen. Sie bissen viele Menschen gestern.",
       "example_translation": "La zanzara mi ha morso ieri sera. Morderà qualcuno stanotte. Hanno morso molte persone ieri.",
-      "imageLink": "mosquito.jpg",
+      "imageLink": "image_files\\English\\mosquito.jpg",
       "audioLink": "mosquito.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un ragno è un piccolo aracnide a otto zampe che tesse una rete per catturare la sua preda.",
       "example": "Gestern sah ich eine Spinne, die ihr Netz in der Ecke des Zimmers spinnt. Heute hat sie eine Fliege gefangen. Morgen werde ich das Netz entfernen.",
       "example_translation": "Ieri, ho visto un ragno tessere la sua rete nell'angolo della stanza. Oggi, ha catturato una mosca. Domani, rimuoverò la rete.",
-      "imageLink": "spider.jpg",
+      "imageLink": "image_files\\English\\spider.jpg",
       "audioLink": "spider.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Una rete è una struttura creata da un ragno o altro animale per catturare la preda o proteggersi.",
       "example": "Die Spinne hat ein komplexes Netz gebaut, um ihre Beute zu fangen. Das Netz ist sehr klebrig und stark. In Zukunft wird die Spinne ein noch stärkeres Netz bauen.",
       "example_translation": "Il ragno ha costruito una rete complessa per catturare la sua preda. La rete è molto appiccicosa e forte. In futuro, il ragno costruirà una rete ancora più forte.",
-      "imageLink": "web.jpg",
+      "imageLink": "image_files\\English\\web.jpg",
       "audioLink": "web.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un coleottero è un tipo di insetto con un guscio esterno duro, spesso trovato nei giardini e foreste.",
       "example": "Ich sah gestern einen Käfer auf dem Blatt einer Pflanze krabbeln. Heute fliegt er durch den Garten. In Zukunft wird er Eier auf dem Boden legen.",
       "example_translation": "Ho visto un coleottero strisciare sulla foglia di una pianta ieri. Oggi, sta volando intorno al giardino. In futuro, deporrà le uova nel terreno.",
-      "imageLink": "beetle.jpg",
+      "imageLink": "image_files\\English\\beetle.jpg",
       "audioLink": "beetle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un insetto piccolo, di solito di colore scuro, che vive sul corpo dei mammiferi e degli uccelli e si nutre del loro sangue.",
       "example": "Der Hund hatte einen Floh, der ihn juckte. Die Katze hatte überall auf ihrem Körper Flöhe. Der Bauer wird nächste Woche den Hof mit Flohmittel behandeln.",
       "example_translation": "Il cane aveva una pulce che lo faceva prurito. Il gatto aveva pulci in tutto il corpo. Il contadino bombarderà la fattoria con fosfati contro le pulci la settimana prossima.",
-      "imageLink": "flea.jpg",
+      "imageLink": "image_files\\English\\flea.jpg",
       "audioLink": "flea.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Provocare una sensazione dolorosa e acuta, tipicamente perforando la pelle con un punto affilato o mediante chimica.",
       "example": "Der Stich der Biene tat weh. Die Wespe wird jeden stechen, der ihr Nest bedroht. Der Arzt wird ein Gegengift gegen den Stich spritzen.",
       "example_translation": "Il pungiglione dell'ape mi ha fatto male. La vespa pungerebbe chiunque minacci il suo nido. Il dottore inietterà un antidoto per neutralizzare il veleno del pungiglione.",
-      "imageLink": "sting.jpg",
+      "imageLink": "image_files\\English\\sting.jpg",
       "audioLink": "sting.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un insetto volante che somiglia all'ape, ma ha una vita stretta e è generalmente più aggressivo.",
       "example": "Die Wespe flog in mein Ohr. Die Wespe stach mich, als ich ihr Nest störte. Ich werde das Wespennest im Garten meiden.",
       "example_translation": "La vespa è volata nel mio orecchio. La vespa mi ha punto quando ho disturbato il suo nido. Eviterò il nido della vespa nel giardino.",
-      "imageLink": "wasp.jpg",
+      "imageLink": "image_files\\English\\wasp.jpg",
       "audioLink": "wasp.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un mantide è un insetto carnivoro che appartiene all'ordine Mantodea. È caratterizzato da un corpo snello, gambe lunghe e zampa anteriori spinose utilizzate per catturare la preda.",
       "example": "Die Gottesanbeterin saß auf einem Blatt, wartete auf ihr nächstes Mahl. Sie hatte bereits eine Fliege gestern gefangen und würde heute eine Biene fangen. Aktuell beobachtet sie ihre Umgebung.",
       "example_translation": "Il mantide preghiera si sedette su una foglia, aspettando la sua prossima pietanza. Aveva già mangiato una mosca ieri e avrebbe catturato un'ape domani. Attualmente, stava osservando i dintorni.",
-      "imageLink": "mantis.jpg",
+      "imageLink": "image_files\\English\\mantis.jpg",
       "audioLink": "mantis.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Una falena è un tipo di insetto che appartiene all'ordine Lepidoptera. È caratterizzata dalle sue antenne piumose o filiformi e dalla sua tendenza ad essere attratta dalla luce.",
       "example": "Die Motte flog in den Raum, angelockt von der hellen Lampe. Sie war gestern Abend hereingeflogen und würde morgen früh wieder herausfliegen. Aktuell fliegt sie um das Licht.",
       "example_translation": "La falena volò nella stanza, attratta dalla lampada luminosa. Era volata dentro ieri sera e avrebbe volato fuori domani mattina. Attualmente, stava sbattendo attorno alla luce.",
-      "imageLink": "moth.jpg",
+      "imageLink": "image_files\\English\\moth.jpg",
       "audioLink": "moth.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Il coleottero della patata è un tipo di insetto che appartiene alla famiglia Chrysomelidae. È caratterizzato dalle sue strisce gialle e nere e dalla sua tendenza a nutrirsi di piante di patata.",
       "example": "Der Kartoffelkäfer kroch auf der Kartoffelpflanze herum, aß die Blätter. Er war gestern hier und wird morgen wieder hier sein. Aktuell frisst er die Pflanze.",
       "example_translation": "Il coleottero della patata strisciò sulla pianta di patata, mangiando le foglie. Era strisciato là ieri e avrebbe strisciato di nuovo domani. Attualmente, stava nutrendosi della pianta.",
-      "imageLink": "potato-beetle.jpg",
+      "imageLink": "image_files\\English\\potato-beetle.jpg",
       "audioLink": "potato beetle.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un baco da seta è la larva di una falena che tesse un bozzolo di seta, che viene raccolto per produrre tessuto di seta.",
       "example": "Gestern sah ich einen Seidenspinner seinen Kokon spinnen. Heute spinnt er noch und morgen wird er fertig sein. Ich werde seine Seide verwenden, um ein schönes Kleid zu machen.",
       "example_translation": "Ieri, ho visto un baco da seta che tesseva il suo bozzolo. Oggi, sta ancora tessendo, e domani avrà finito. Userò la sua seta per fare un vestito bellissimo.",
-      "imageLink": "silkworm.jpg",
+      "imageLink": "image_files\\English\\silkworm.jpg",
       "audioLink": "silkworm.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Una termite è un insetto sociale piccolo che si nutre di legno e può causare danni significativi agli edifici e alle strutture.",
       "example": "Termiten aßen das Holz im alten Haus, daher mussten wir einen Kammerjäger rufen. Sie werden in Zukunft das Holz essen, aber wir konnten sie daran hindern, es jetzt zu essen.",
       "example_translation": "Le termiti stavano mangiando il legno nella vecchia casa, quindi abbiamo dovuto chiamare un disinfestatore. Mangeranno il legno in futuro, ma li abbiamo fermati dal mangiarlo ora.",
-      "imageLink": "termite.jpg",
+      "imageLink": "image_files\\English\\termite.jpg",
       "audioLink": "termite.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Una cimice dei letti è un insetto piccolo e piatto che si nutre di sangue umano e si trova spesso nei letti e nel letto.",
       "example": "Ich habe gestern Nacht in dem Hotelzimmer nach Bettwanzen gesucht, bevor ich schlafen ging, weil ich letzte Nacht in einem Bett geschlafen hatte, in dem Bettwanzen waren. Ich werde es morgen wieder überprüfen, bevor ich schlafen gehe.",
       "example_translation": "Ho controllato la camera d'albergo per le cimici dei letti prima di dormire, perché avevo dormito in un letto con cimici dei letti la scorsa notte. Controllerò ancora domani prima di dormire.",
-      "imageLink": "bedbug.jpg",
+      "imageLink": "image_files\\English\\bedbug.jpg",
       "audioLink": "bedbug.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un'ape grande, pelosa, sociale che vola lentamente e fa un rumore di ronzio forte.",
       "example": "Im Garten habe ich eine Hummel gesehen, die um die Blumen herumflog. Gestern habe ich eine Hummel bei der Nektarsammlung von den Blüten beobachtet. Bis nächstem Sommer hoffe ich, eine Hummel über den Blüten schweben zu sehen.",
       "example_translation": "Nel giardino, ho visto un'ape arborea volare attorno ai fiori. Ieri, ho guardato un'ape arborea che raccoglieva nettare dai fiori. Per l'estate prossima, spero di vedere un'ape arborea librarsi sopra i fiori.",
-      "imageLink": "bumblebee.jpg",
+      "imageLink": "image_files\\English\\bumblebee.jpg",
       "audioLink": "bumblebee.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "La larva di una farfalla o falena, spesso con un corpo simile a un verme e zampe.",
       "example": "Die Raupe krabbelte über das Blatt, während sie aß. Letzte Woche habe ich eine Raupe beim Übergang in eine Puppe beobachtet. Bis nächsten Frühling wird die Raupe zu einem schönen Schmetterling geworden sein.",
       "example_translation": "Il bruco si è trascinato lungo la foglia, mangiando mentre andava. La settimana scorsa, ho visto un bruco trasformarsi in una crisalide. Per la prossima primavera, il bruco sarà emerso come una bella farfalla.",
-      "imageLink": "caterpillar.jpg",
+      "imageLink": "image_files\\English\\caterpillar.jpg",
       "audioLink": "caterpillar.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un insetto notturno grande con un canto distintivo, trovato tipicamente in climi caldi.",
       "example": "Der Gesang der Zikade erfüllte die Nachtluft. Letzten Sommer habe ich den rhythmischen Humm der Zikaden in den Bäumen gehört. Bis nächstem August werden die Zikaden begonnen haben, aus dem Boden zu steigen.",
       "example_translation": "Il canto della cicala ha riempito l'aria notturna. L'estate scorsa, ho sentito il rumore ritmico della cicala nei alberi. Per il prossimo agosto, le cicale avranno iniziato a emergere dalla terra.",
-      "imageLink": "cicada.jpg",
+      "imageLink": "image_files\\English\\cicada.jpg",
       "audioLink": "cicada.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Una libellula è un tipo di insetto che appartiene all'ordine Odonata. Ha un corpo lungo e snello, generalmente verde o blu, con occhi grandi e due paia di ali trasparenti.",
       "example": "Die Libelle schwebte über dem Wasser, ihre irisierenden Flügel glitzerten im Sonnenlicht. Sie war gestern auch da, und wird morgen wieder da sein.",
       "example_translation": "La libellula è rimasta sospesa sopra l'acqua, le sue ali iridescenti splendevano alla luce del sole. Era rimasta lì ieri, e rimarrà lì di nuovo domani.",
-      "imageLink": "dragonfly.jpg",
+      "imageLink": "image_files\\English\\dragonfly.jpg",
       "audioLink": "dragonfly.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un drone è un tipo di veicolo aereo senza pilota (UAV) che viene controllato a distanza o vola autonomamente, utilizzato per vari scopi come la sorveglianza, la fotografia e la consegna.",
       "example": "Die Drohne flog über die Stadt, während sie atemberaubende Luftaufnahmen machte. Sie wird nächste Woche wieder über die Stadt fliegen, und ist letzten Jahr auch geflogen.",
       "example_translation": "Il drone è volato sulla città, catturando impressionanti immagini aeree. Volerà sulla città novamente la prossima settimana, e volò sulla città l'anno scorso.",
-      "imageLink": "drone.jpg",
+      "imageLink": "image_files\\English\\drone.jpg",
       "audioLink": "drone.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Una mosca pungente è un tipo di mosca che è nota per il suo pungente doloroso, spesso fastidioso per il bestiame e gli esseri umani.",
       "example": "Die Bremse surrte um den Kopf des Bauern, während er arbeitete, und ärgerte ihn. Sie hatte gestern auch um ihn herumgesurrt, und wird morgen wieder um ihn herumsurren.",
       "example_translation": "La mosca pungente ronzava intorno alla testa del contadino, infastidendolo mentre lavorava. Era ronzata intorno a lui ieri, e ronzò intorno a lui di nuovo domani.",
-      "imageLink": "gadfly.jpg",
+      "imageLink": "image_files\\English\\gadfly.jpg",
       "audioLink": "gadfly.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Una cavalletta è un insetto di media a grande dimensione con un corpo robusto, zampe posteriori lunghe e ali. Sono tipicamente verdi o giallastri di colore e si trovano nei campi, foreste e cortili.",
       "example": "Ich habe gestern eine Heuschrecke beim Springen über das Feld gesehen. Heute werde ich in meinem Garten nach Heuschrecken Ausschau halten, und morgen werde ich versuchen, eine Heuschrecke mit meinem Netz zu fangen.",
       "example_translation": "Ho visto una cavalletta saltare attraverso il campo ieri. Oggi, starò cercando cavallette nel mio giardino, e domani, cercherò di catturare una cavalletta con la mia rete.",
-      "imageLink": "grasshopper.jpg",
+      "imageLink": "image_files\\English\\grasshopper.jpg",
       "audioLink": "grasshopper.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un calabrone è un tipo di vespa che costruisce grandi nidi negli alberi, nelle pareti e sottoterra. Sono conosciuti per le loro punture dolorose e sono spesso temuti dagli esseri umani.",
       "example": "Ich wurde letzten Sommer von einer Hornisse gestochen, aber diesem Sommer werde ich das Hornisennest nicht stören. Nächstes Sommer werde ich lernen, wie man ein Hornisennest sicher entfernen kann.",
       "example_translation": "Sono stato punto da un calabrone l'estate scorsa, ma questa estate, eviterò di disturbare il nido del calabrone. La prossima estate, imparerò come rimuovere in modo sicuro un nido di calabrone dal mio solaio.",
-      "imageLink": "hornet.jpg",
+      "imageLink": "image_files\\English\\hornet.jpg",
       "audioLink": "hornet.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Una coccinella, anche nota come scarabeo della Vergine, è un insetto piccolo a forma ovale con una colorazione rossa e nera distinctive. Si trovano comunemente nei giardini e sono conosciuti per la loro capacità di controllare le popolazioni di afidi.",
       "example": "Ich habe gestern einen Marienkäfer auf einem Blatt gesehen. Heute werde ich Marienkäfer in meinem Garten beobachten, und morgen werde ich lernen, wie man Marienkäfer in meinem Garten anzieht.",
       "example_translation": "Ho visto una coccinella strisciare su una foglia ieri. Oggi, starò osservando le coccinelle nel mio giardino, e domani, imparerò come attirare le coccinelle nel mio giardino.",
-      "imageLink": "ladybird.jpg",
+      "imageLink": "image_files\\English\\ladybird.jpg",
       "audioLink": "ladybird.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un insetto grande, di solito verde o giallognolo, con un corpo lungo e ali, spesso trovato in sciami che possono danneggiare le colture.",
       "example": "Der Bauer machte sich Sorgen um die Heuschrecken, die seine Ernte zerstörten. Im letzten Jahr hatten die Heuschrecken die ganze Region verwüstet. Bis nächstes Jahr werden die Heuschrecken ausgerottet sein.",
       "example_translation": "L'agricoltore era preoccupato per le locuste che stavano distruggendo i suoi raccolti. L'anno scorso, le locuste avevano devastato l'intera regione. L'anno prossimo, le locuste sarebbero state eradicate.",
-      "imageLink": "locust.jpg",
+      "imageLink": "image_files\\English\\locust.jpg",
       "audioLink": "locust.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un insetto piccolo, senza ali, che vive sui corpi degli esseri umani o degli animali e si nutre del loro sangue o della loro pelle.",
       "example": "Das Kind hatte eine Laus in seinem Haar. Der Arzt verschrieb ein spezielles Shampoo, um die Läuse zu töten. Bis zur nächsten Woche werden die Läuse eliminiert sein.",
       "example_translation": "Il bambino aveva un pidocchio nei capelli. Il medico ha prescritto uno shampoo speciale per uccidere i pidocchi. La prossima settimana, i pidocchi sarebbero stati eliminati.",
-      "imageLink": "louse.jpg",
+      "imageLink": "image_files\\English\\louse.jpg",
       "audioLink": "louse.mp3"
     }
   ]

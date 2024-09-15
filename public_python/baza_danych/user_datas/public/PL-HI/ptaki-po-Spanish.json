@@ -9,7 +9,7 @@
       "definition_translation": "एक संक्रामक अंडा देने वाला जानवर जिसकी विशेषता पंख, दांत रहित चोंच और हल्का कंकाल है。",
       "example": "Ptak śpiewał słodką melodię. Wczoraj ptak śpiewał słodką melodię. Jutro ptak będzie śpiewał słodką melodię.",
       "example_translation": "पक्षी ने एक मधुर धुन गायी। कल पक्षी ने एक मधुर धुन गायी। कल पक्षी एक madde दुन गाएगा।",
-      "imageLink": "bird.jpg",
+      "imageLink": "image_files\\English\\bird.jpg",
       "audioLink": "bird.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "अपने अंडे या मांस के लिए रखा गया घरेलू मुर्गा,尤ी एक युवा है।",
       "example": "Wczoraj zjadłem kurczaka. Jadam kurczaka każdej niedzieli. Za tydzień zjem kurczaka.",
       "example_translation": "मैंने कल एक चिकन खाया। मैं हर रविवार को चिकन खाता हूँ। मैं अगले हफ्ते चिकन खाऊंगा।",
-      "imageLink": "chicken.jpg",
+      "imageLink": "image_files\\English\\chicken.jpg",
       "audioLink": "chicken.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "एक पानी का पक्षी जिसका चौड़ा, सपाट चोंच और जालीदार पैर हैं।",
       "example": "Kaczka pływała w stawie. Wczoraj kaczka pływała w stawie. Jutro kaczka będzie pływała w stawie.",
       "example_translation": "बत्तख ने तालाब में तैरा। बत्तख ने कल तालाब में तैरा। बत्तख कल तालाब में तैरेगा।",
-      "imageLink": "duck.jpg",
+      "imageLink": "image_files\\English\\duck.jpg",
       "audioLink": "duck.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "एक पानी का पक्षी जिसकी लंबी गर्दन और टांगें, छोटी पूंछ और तेज़, नक्काल आवाज़ है।",
       "example": "Gęś krzyczała głośno. Wczoraj gęś krzyczała głośno. Jutro gęś będzie krzyczała głośno.",
       "example_translation": "हंस ने ज़ोर से बांक दी। हंस ने कल ज़ोर से बांक दी। हंस कल ज़ोर से बांक देगा।",
-      "imageLink": "goose.jpg",
+      "imageLink": "image_files\\English\\goose.jpg",
       "audioLink": "goose.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "एक टोता एक रंगीन पक्षी है जिसकी मानव भाषा और अन्य ध्वनियों की नकल करने की क्षमता के लिए जाना जाता है।",
       "example": "Widziałem papugę bawiącą się zabawkami rano, będzie ona bawić się nimi wieczorem, a wczoraj bawiła się nimi nocą.",
       "example_translation": "मैंने सुबह अपने खिलौनों के साथ एक टोता देखा, वह शाम को उनसे खेलेगा, और उसने कल रात को उनसे खेला था.",
-      "imageLink": "parrot.jpg",
+      "imageLink": "image_files\\English\\parrot.jpg",
       "audioLink": "parrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "पेंगुइन दक्षिणी गोलार्ध में रहने वाला एक उड़ानहीन पक्षी है, जिसकी काली और सफ़ेद पंखों से पहचाना जाता है.",
       "example": "Pingwiny znajdują się na Antarktydzie, znalazły się tam w zeszłym roku, a za rok będą znajdowały się tam.",
       "example_translation": "पेंगुइन एंटार्कटिका में पाए जाते हैं, वे वहां letzten साल पाए गए थे, और वे वहां अगले साल पाए जाएंगे.",
-      "imageLink": "penguin.jpg",
+      "imageLink": "image_files\\English\\penguin.jpg",
       "audioLink": "penguin.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "बगुला एक बड़ा वैटिंग पक्षी है जिसकी लंबी गर्दन है, यह वेटलैंड में पाया जाता है और इसकी विशिष्ट कॉल के लिए जाना जाता है.",
       "example": "Bocian poleciał nad jeziorem, poleciał nad rzeką jutro, a w zeszłym tygodniu poleciał nad oceanem.",
       "example_translation": "बगुला झील के ऊपर उड़ा, वह कल नदी के ऊपर उड़ेगा, और उसने पिछले हफ्ते समुद्र के ऊपर उड़ा था.",
-      "imageLink": "stork.jpg",
+      "imageLink": "image_files\\English\\stork.jpg",
       "audioLink": "stork.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "टर्की उत्तरी अमेरिका में पाया जाने वाला एक बड़ा पक्षी है, जिसकी विशिष्ट कॉल और पंखों के लिए जाना जाता है.",
       "example": "Widziałem indyka wędrującego po lesie, wędruje on po wsi jutro, a w zeszłym roku wędrował po górach.",
       "example_translation": "मैंने वन में एक टर्की घूमते देखा, वह कल ग्रामीण इलाके में घूमेगा, और उसने पिछले साल पर्वतों में घूमा था.",
-      "imageLink": "turkey-2.jpg",
+      "imageLink": "image_files\\English\\turkey-2.jpg",
       "audioLink": "turkey.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "पक्षी के शरीर पर उगने वाली हल्की, फुल्फुल और आमतौर पर रंगीन वृद्धि。",
       "example": "Pióra ptaka były rozwichrzecone przez silny wiatr. Widziałem pawia rozwijającego swoje kolorowe pióra wczoraj. Za rok ptak będzie miał nowe pióra.",
       "example_translation": "तेज़ हवा ने पक्षी के पंखों को बिखरा दिया। कल, मैंने एक मोर के रंगीन पंख फैलाते हुए देखा। अगले साल तक, पक्षी के नए पंख उग जाएंगे।",
-      "imageLink": "feather.jpg",
+      "imageLink": "image_files\\English\\feather.jpg",
       "audioLink": "feather.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "एक मुर्गी, विशेष रूप से अंडे के लिए रखी जाती है।",
       "example": "Rolnik zbiera jaja od kury każdego ranka. Widziałem kurę goniącą swoje kaczęta wokół farmy wczoraj. Za miesiąc kura znowu będzie składała jaja.",
       "example_translation": "किसान सुबह CircularProgressहें से अंडे इकट्ठा करता है। कल, मैंने एक मुरगी को खेत के चारों ओर अपने चूजों का पीछा करते हुए देखा। अगले महीने तक, मुरगी फिर से अंडे देना शुरू कर देगी।",
-      "imageLink": "hen.jpg",
+      "imageLink": "image_files\\English\\hen.jpg",
       "audioLink": "hen.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "अंडे उत्पादन करना, विशेष रूप से एक नियमित प्रक्रिया के रूप में।",
       "example": "Kury składają jajka w swoich gniazdach. Rolnikowa kura składa jajka codziennie. Do przyszłego roku kura będzie składała więcej jaj niż przedtem.",
       "example_translation": "मुरगियां अपने घोसलों में अंडे देती हैं। किसान की मुरगी रोज़ाना अंडे दे रही है। अगले साल तक, मुरगी पहले से ज्यादा अंडे देगी।",
-      "imageLink": "lay-eggs.jpg",
+      "imageLink": "image_files\\English\\lay-eggs.jpg",
       "audioLink": "lay eggs.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "एक रात्रि पक्षी जिसके दौरान सिर, आगे की ओर निकलती हुई आंखें और कान की ट्यूफ्ट, चुपचाप उड़ान और तेज़ सुनने के लिए जाना जाता है।",
       "example": "Sowa siedząca na gałęzi drzewa obserwowała swoją zdobycz. Wczoraj widziałem sowę latającą cicho w ciemności. Do przyszłej zimy pióra sowy będą białe.",
       "example_translation": "पेड़ की शाखा पर बैठा उल्लू अपने शिकार को देख रहा था। कल, मैंने अंधेरे में चुपचाप उड़ने वाले उल्लू को देखा। अगले सर्दी तक, उल्लू के पंख सफ़ेद हो जाएंगे।",
-      "imageLink": "owl.jpg",
+      "imageLink": "image_files\\English\\owl.jpg",
       "audioLink": "owl.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "एक मजबूत بدن वाला पक्षी, छोटा सिर और एक विशिष्ट शोकाकुल आवाज के साथ, आमतौर पर 灰ish-ब्राउन रंग में, शहरों और कस्बों में पाया जाता है。",
       "example": "Wczoraj widziałem gołębia latającego nad głową. Dzisiaj widzę go siedzącego na budynku. Do jutra zobaczę go latającego daleko.",
       "example_translation": "मैंने कल आसमान में उड़ता हुआ कबूतर देखा. आज, मैं इसे एक इमारत पर बैठा हुआ देख रहा हूँ. कल तक, मैंने इसे उड़ते हुए देख लिया होगा.",
-      "imageLink": "pigeon.jpg",
+      "imageLink": "image_files\\English\\pigeon.jpg",
       "audioLink": "pigeon.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "समुद्र के नजदीक पाया जाने वाला एक बड़ा सफेद или 灰ish रंग का पक्षी, अपनी तेज आवाज और शिकार की आदत के लिए जाना जाता है.",
       "example": "Wczoraj widzieliśmy mewę latającą nisko nad oceanem. Dzisiaj ona śledzi nasz statek. Do jutra zobaczymy ją unoszącą się nad brzegiem.",
       "example_translation": "हमने कल महासागर के ऊपर नीचे उड़ता हुआ समुद्री गल देखा. आज, यह हमारी नाव का पीछा कर रहा है. कल तक, हमने इसे तट के ऊपर मंडराता हुआ देख लिया होगा.",
-      "imageLink": "seagull.jpg",
+      "imageLink": "image_files\\English\\seagull.jpg",
       "audioLink": "seagull.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "एक छोटा भूरा या 灰ish रंग का पक्षी, आमतौर पर बगीचों और शहरी इलाकों में पाया जाता है, अपनी तेज गति और गायन के लिए जाना जाता है.",
       "example": "Wczoraj widziałem wróbla siedzącego na parapecie okna. Dzisiaj on przelatuje między drzewami. Do jutra zobaczę go budującego swoje gniazdo.",
       "example_translation": "मैंने कल एक खिड़की के फ्रेम पर बैठा हुआ गौरैया देखा. आज, यह पेड़ों के बीच में चक्कर लगा रहा है. कल तक, मैंने इसके घोसला बनाता हुआ देख लिया होगा.",
-      "imageLink": "sparrow.jpg",
+      "imageLink": "image_files\\English\\sparrow.jpg",
       "audioLink": "sparrow.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "एक बड़ा जलपक्षी, लंबा गर्दन और सफेद पंखों के साथ, अपनी सुंदर गति और ट्रंपेट जैसी आवाज के लिए जाना जाता है.",
       "example": "Wczoraj widziałem łabędzia unoszącego się na jeziorze. Dzisiaj on pływa w basenie. Do jutra zobaczę go latającego nad głową.",
       "example_translation": "मैंने कल झील पर फिसल्ता हुआ हंस देखा. आज, यह तालाब में तैर रहा है. कल तक, मैंने इसे आसमान में उड़ता हुआ देख लिया होगा.",
-      "imageLink": "swan.jpg",
+      "imageLink": "image_files\\English\\swan.jpg",
       "audioLink": "swan.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "एक पक्षी का कठोर, संकीर्ण मुख_ang, जिसका उपयोग खाने और पकड़ने के लिए किया जाता है.",
       "example": "Dziób orła był wystarczająco silny, aby rozdarć mięso. Orzeł rozdarł mięso swoim dziobem. Orzeł rozdarci mięso swoim dziobem.",
       "example_translation": "शहdol की चोंच मांस फाड़ने के लिए पर्याप्त मजबूत थी. शहdol ने अपनी चोंच से मांस फाड़ा था. शहdol अपनी चोंच से मांस फाड़ेगा.",
-      "imageLink": "beak.jpg",
+      "imageLink": "image_files\\English\\beak.jpg",
       "audioLink": "beak.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "एक प्रकार का पक्षी जिसकी शान्त और स्नेही कूकॉल के लिए जाना जाता है और इसकी प्रकृति शान्त होती है.",
       "example": "Gołąbek leciał łagodnie w niebie. Gołąbek leciał łagodnie w niebie. Gołąbek będzie leciał łagodnie w niebie.",
       "example_translation": "कबूतर ने आसमान में शान्त उड़ान भरी. कबूतर ने आसमान में शान्त उड़ान भरी थी. कबूतर आसमान में शान्त उड़ान भरेगा.",
-      "imageLink": "dove.jpg",
+      "imageLink": "image_files\\English\\dove.jpg",
       "audioLink": "dove.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "एक जानवर जो प्राकृतिक रूप से दूसरे जानवरों का शिकार करता है, जैसे शेर और волк.",
       "example": "Lew był drapieżnikiem dżungli. Lew był drapieżnikiem dżungli. Lew będzie drapieżnikiem dżungli.",
       "example_translation": "शेर जंगल का शिकारी था. शेर जंगल का शिकारी था. शेर जंगल का शिकारी होगा.",
-      "imageLink": "predator.jpg",
+      "imageLink": "image_files\\English\\predator.jpg",
       "audioLink": "predator.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "एक प्रकार का शिकारी पक्षी, जिसकी तेज दृष्टि और तीव्र उड़ान के लिए जाना जाता है.",
       "example": "Jastrząb szybował wysoko w niebie. Jastrząb szybował wysoko w niebie. Jastrząb będzie szybował wysoko w niebie.",
       "example_translation": "बाज ने आसमान में ऊंची उड़ान भरी. बाज ने आसमान में ऊंची उड़ान भरी थी. बाज आसमान में ऊंची उड़ान भरेगा.",
-      "imageLink": "hawk.jpg",
+      "imageLink": "image_files\\English\\hawk.jpg",
       "audioLink": "hawk.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "एक लार्क एक प्रकार की चिड़िया है जिसकी सुंदर गायन आवाज़ और आकाश में उच्च उड़ने की आदत के लिए जाना जाता है।",
       "example": "Wczoraj widziałem skowronka latającego wysoko w powietrzu. Dzisiaj słyszę skowronka śpiewającego swoją słodką melodię. Jutro spróbuję zobaczyć skowronka gniazdującego w pobliskim krzaku.",
       "example_translation": "मैंने कल आकाश में उच्च उड़ते हुए एक लार्क को देखा। आज, मैं एक लार्क की मीठी स्वर लहर सुन रहा हूँ। कल, मैं निकटवर्ती झाड़ी में एक लार्क के घोंसले की झलक पाने की कोशिश करूँगा।",
-      "imageLink": "lark.jpg",
+      "imageLink": "image_files\\English\\lark.jpg",
       "audioLink": "lark.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "एक मैगपाई एक प्रकार की चिड़िया है जिसकी काली और सफ़ेद पंख और चमकीले वस्तुओं को संग्रह करने की आदत के लिए जाना जाता है।",
       "example": "Szpak w moim ogródku jest bardzo inteligentny. Wczoraj zbierał pieniądze z ulicy. Dziś gra z guzikiem.",
       "example_translation": "मेरे पिछवाड़े की मैगपाई बहुत होशियार है। वह कल सड़क से सिक्के इकट्ठा कर रहा था। आज, वह एक चमकीले बटन से खेल रहा है।",
-      "imageLink": "magpie.jpg",
+      "imageLink": "image_files\\English\\magpie.jpg",
       "audioLink": "magpie.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "एक घोंसला पक्षियों और अन्य जानवरों द्वारा अपने अंडे देने और अपने शावक पालने के लिए बनाई गई संरचना है।",
       "example": "Ptak zbudował gniazdo w drzewie wczoraj. Dziś siedzi na jajach w gnieździe. Jutro jego pisklęta wyklują się z jaj w gnieździe.",
       "example_translation": "पक्षी ने कल पेड़ में एक घोंसला बनाया। आज, वह अपने अंडों पर घोंसले में बैठा है। कल, उसके बच्चे अंडों से घोंसले में निकलेंगे।",
-      "imageLink": "nest-1.jpg",
+      "imageLink": "image_files\\English\\nest-1.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "एक घोंसला पक्षियों और अन्य जानवरों द्वारा अपने अंडे देने और अपने शावक पालने के लिए बनाई गई संरचना है।",
       "example": "Królik zbudował gniazdo w krzaku wczoraj. Dziś karmi swoje szczenięta w gnieździe. Jutro jego szczenięta opuszczą gniazdo.",
       "example_translation": "खरगोश ने कल झाड़ी में एक घोंसला बनाया। आज, वह अपने बच्चों को घोंसले में दूध पिला रहा है। कल, उसके बच्चे घोंसला छोड़ देंगे।",
-      "imageLink": "nest.jpg",
+      "imageLink": "image_files\\English\\nest.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "एक पक्षी के ऊपर پوشा हुआ पंख, विशेष रूप से रंगीन पंख",
       "example": "Upierzenie pawia było wspaniałym widokiem. Wczoraj czesało swoje pióra cały poranek. Będzie się chwalić swoimi piórami na wystawie ptaków.",
       "example_translation": "मोर के प्लमेज देखने में वास्तव में आश्चर्यजनक था। इसने सुबह से अपने प्लमेज को संवारता आ रहा था। यह अपने प्लमेज को पक्षी शो में प्रदर्शित करेगा।",
-      "imageLink": "plumage.jpg",
+      "imageLink": "image_files\\English\\plumage.jpg",
       "audioLink": "plumage.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "उत्तरी गोलार्ध में पाया जाने वाला एक बड़ा काला पक्षी, जिसकी विशिष्ट पुकार है",
       "example": "Kruk siedział na oknie, krzycząc głośno. Obserwowałem, jak kruk budował swoje gniazdo przez cały tydzień. Stary czarownik wezwie kruka o północy.",
       "example_translation": "कौवा खिड़की की फलिया पर बैठा हुआ था, जोर से कांव-कांव कर रहा था। इसने पूरे हफ्ते कौवे का घोंसला बनाने की देखरेख की थी। पुराना जादूगर आधी रात को कौवे को बुलाएगा।",
-      "imageLink": "raven.jpg",
+      "imageLink": "image_files\\English\\raven.jpg",
       "audioLink": "raven.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "एक बड़ा समुद्री पक्षी, विशेष रूप से अच्छे भाग्य का संकेत माना जाता है",
       "example": "Albatros przelatywał łatwo nad oceanem. Obserwowałem albatrosa przez wiele godzin. Będziemy widzieć albatrosa podczas następnej ekspedycji.",
       "example_translation": "अल्बात्रॉस समुद्र के ऊपर बिना किसी प्रयास के घूम रहा था। इसने घंटों से अल्बात्रॉस का पीछा किया था। वे अगले अभियान पर अल्बात्रॉस का पता लगाएंगे।",
-      "imageLink": "albatross.jpg",
+      "imageLink": "image_files\\English\\albatross.jpg",
       "audioLink": "albatross.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "एक रंगीन पक्षी जो कीटों, विशेष रूप से मधुमक्खियों, को खाता है",
       "example": "Żuwacz siedział na gałęzi, łapiąc pszczoły w powietrzu. Obserwowałem techniki łowieckie żuwacza. Zoolog będzie studiował zachowania żuwacza.",
       "example_translation": "मधुमक्खी खाने वाला पेड़ की शाखा पर बैठा हुआ था, हवा में मधुमक्खियों को पकड़ता था। इसने मधुमक्खी खाने वाले की शिकार तकनीक का अवलोकन किया था। जीवविज्ञानी मधुमक्खी खाने वाले की आदतें अध्ययन करेगा।",
-      "imageLink": "bee-eater.jpg",
+      "imageLink": "image_files\\English\\bee-eater.jpg",
       "audioLink": "bee eater.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "एक मध्यम आकार का टीटर जिसके पंख काले हैं, यूरोप और एशिया के मुरलैंड और हीथलैंड में पाया जाता है।",
       "example": "Cietrzew był kiedyś powszechnym widokiem na wsi, ale jego populacja zmniejszyła się w ostatnich latach. Wcześniej wędrował swobodnie po lesie, ale teraz rzadko się go widzi. Do przyszłego roku podejmiemy kroki, aby zachować jego siedlisko.",
       "example_translation": "काला टीटर पहले ग्रामीण इलाकों में एक सामान्य दृश्य था, लेकिन हाल के वर्षों में इसकी आबादी घट रही है. यह पहले जंगल में स्वतंत्र रूप से घूमता था, लेकिन अब यह दुर्लभ दिखाई देता है. अगले साल तक, हमने इसके आवास के संरक्षण के लिए कदम उठाएगा।",
-      "imageLink": "black-grouse.jpg",
+      "imageLink": "image_files\\English\\black-grouse.jpg",
       "audioLink": "black grouse.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "एक बड़ा, काला वेटलैंड और घास के मैदान में पाया जाने वाला पक्षी, यूरोप, एशिया और अफ्रीका में।",
       "example": "Czapla czarna to majestatyczny ptak, który gniazduje w lasach i mokradłach Europy. Migruje do Afryki i Azji zimą, gdzie można go zobaczyć brodzącego w płytkich wodach. Do czasu powrotu do swoich miejsc gniazdowania, już zaczyna przygotowywać swoje gniazdo.",
       "example_translation": "काला सारस एक शानदार पक्षी है जो यूरोप के जंगलों और वेटलैंड्स में प्रजनन करता है. यह सर्दी के महीनों में अफ्रीका और एशिया की ओर प्रवास करता है, जहां यह उथले पानी में चलने पर देखा जा सकता है. जब यह अपने प्रजनन स्थल पर लौटता है, तब तक यह अपने घोंसले की तैयारी कर चुका होता है।",
-      "imageLink": "black-stork.jpg",
+      "imageLink": "image_files\\English\\black-stork.jpg",
       "audioLink": "black stork.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "यूरोप, एशिया और अफ्रीका के तटीय क्षेत्रों में पाया जाने वाला एक मध्यम आकार का गULL, जिसके सिर काले और शरीर सफ़ेद होते हैं।",
       "example": "Czarnogłowa mewa jest 常ym widokiem w miastach przybrzeżnych, gdzie można ją spotkać szukając jedzenia. Jest znana ze swojego agresywnego zachowania podczas sezonu lęgowego, kiedy to przepędza inne ptaki z terytorium. W momencie, gdy przychodzą miesiące zimowe, już rozpoczęła swój coroczny migracyjny ruch.",
       "example_translation": "काला सिर वाला गULL तटीय शहरों में एक सामान्य दृश्य है, जहां यह भोजन की तलाश में कूड़ा-करकट करता है. यह प्रजनन के मौसम में अपने व्यवहार के लिए जाना जाता है, जब यह अपने इलाके से दूसरे पक्षियों को भगा देता है. जब सर्दी के महीने आते हैं, तब तक यह अपने वार्षिक प्रवास की शुरुआत कर चुका होता है।",
-      "imageLink": "black-headed-gull.jpg",
+      "imageLink": "image_files\\English\\black-headed-gull.jpg",
       "audioLink": "black-headed gull.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "यूरोप, एशिया और अफ्रीका में पाया जाने वाला एक सामान्य पक्षी, जिसके पंख काले होते हैं और एक विशिष्ट गीत होता है, जो बगीचों और जंगलों में पाया जाता है।",
       "example": "Kawka jest tajemniczym ptakiem, który ujawnia się tylko podczas sezonu lęgowego, kiedy to śpiewa swój melodyjny śpiew. Odwiedzała nasz ogród regularnie, ale teraz rzadko się pojawia. Do nastłego lata, mamy nadzieję stworzyć przyjazne środowisko, aby powróciła.",
       "example_translation": "काला पाखी एक गुप्त पक्षी है जो केवल प्रजनन के मौसम में अपने आप को प्रकट करता है, जब यह अपना सुमधुर गीत गाता है. यह हमारे बगीचे में नियमित रूप से आता था, लेकिन अब यह दुर्लभ दिखाई देता है. अगले गर्मी के मौसम में, हम उम्मीद करते हैं कि हमने इसके लिए एक मित्रवत वातावरण बना लिया होगा।",
-      "imageLink": "blackbird.jpg",
+      "imageLink": "image_files\\English\\blackbird.jpg",
       "audioLink": "blackbird.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "एक छोटा सा पासराइन पक्षी जिसके शिखा नीला और गाल पीले हैं, यूरोप और एशिया के वनों और बगीचों में पाया जाता है।",
       "example": "Skowronek buduje swe gniazdo w dziupli w drzewie. Budowało swe gniazdo w zeszłym roku. Będzie budowało swe gniazdo w następnym roku.",
       "example_translation": "नीला टिट पेड़ की एक खोह में अपना घोंसला बनाता है. उसने पिछले साल अपना घोंसला बनाया. वह अगले साल अपना घोंसला बनाएगा.",
-      "imageLink": "blue-tit.jpg",
+      "imageLink": "image_files\\English\\blue-tit.jpg",
       "audioLink": "blue tit.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": " utraardh गोलार्द्ध के कोनिफ़ेरस जंगलों में पाया जाने वाला एक बड़ा,.Dark रंग का पक्षी जिसके पंखों पर लाल मोमी टिप्स हैं, और एक विशिष्ट शिखा है।",
       "example": "Wachlarzówka migruje na północ latem. Migracja na północ zeszłym latem. Będzie migrować na północ następnym latem.",
       "example_translation": "बोहेमियन वैक्सविंग गर्मियों में उत्तर की ओर प्रवास करता है. उसने पिछले गर्मियों में उत्तर की ओर प्रवास किया. वह अगले गर्मियों में उत्तर की ओर प्रवास करेगा.",
-      "imageLink": "bohemian-waxwing.jpg",
+      "imageLink": "image_files\\English\\bohemian-waxwing.jpg",
       "audioLink": "bohemian waxwing.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "उत्तरार्द्ध गोलार्द्ध के दक्षिणी जंगलों में पाया जाने वाला एक मध्यम आकार का उल्लू, जिसके सिर पर एक गोल आकार है और आगे की ओर कान हैं।",
       "example": "Puchacz północny huczy w nocy. Hukał wczoraj w nocy. Będzie hukał dziś w nocy.",
       "example_translation": "उत्तरी उल्लू रात को बोलता है. उसने कल रात को बोला. वह आज रात को बोलेगा.",
-      "imageLink": "boreal-owl.jpg",
+      "imageLink": "image_files\\English\\boreal-owl.jpg",
       "audioLink": "boreal owl.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "ऑस्ट्रेलिया में पाया जाने वाला एक छोटा टोता, जिसे मानव भाषा की नकल करने की क्षमता और उसके yeşil-हिरण के पंखों के लिए जाना जाता है।",
       "example": "Papuzik jest popularnym zwierzęciem domowym. Było popularnym zwierzęciem domowym w zeszłym roku. Będzie popularnym zwierzęciem domowym w następnym roku.",
       "example_translation": "बड्गी एक लोकप्रिय पालतू है. वह पिछले साल एक लोकप्रिय पालतू था. वह अगले साल एक लोकप्रिय पालतू होगा.",
-      "imageLink": "budgerigar.jpg",
+      "imageLink": "image_files\\English\\budgerigar.jpg",
       "audioLink": "budgerigar.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "एक छोटा, स्टाउट सóngबर्ड जिसके पास एक छोटा, खंडक आकार का बिल है, जिसका पता और लकड़ी के किनारे पर लगा है, जिसके विशिष्ट सóng और चमकीले रंग के पंखों के लिए जाना जाता है.",
       "example": "Kwiczoł usiadł na gałęzi jabłoni, śpiewając słodką melodię. Usiadł tam wczoraj, i usiądzie tam jutro.",
       "example_translation": "सेब के पेड़ की शाखा पर बुलफिंच बैठा था, मीठी स्वरलहरी गा रहा था. कल वह वहां बैठा था, और कल वह फिर वहां बैठा होगा.",
-      "imageLink": "bullfinch.jpg",
+      "imageLink": "image_files\\English\\bullfinch.jpg",
       "audioLink": "bullfinch.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "एक मध्यम आकार का, चौड़े पंख वाला शिकारी पक्षी, जिसका एक तेज, हुक जैसा बिल है, जिसका पता और लकड़ी के किनारे पर लगा है, जिसके शिकारी आदतों के लिए जाना जाता है.",
       "example": "Kanja unosiła się wysoko, skanując pola poniżej w poszukiwaniu padłej zwierzyny. Unosiła się wczoraj, i uniesie się jutro.",
       "example_translation": "बज़र्ड ऊपर से उड़ता हुआ, नीचे के मैदानों में मुर्दा ढूँढ रहा था. कल वह ऊपर से उड़ता हुआ था, और कल वह फिर ऊपर से उड़ता होगा.",
-      "imageLink": "buzzard.jpg",
+      "imageLink": "image_files\\English\\buzzard.jpg",
       "audioLink": "buzzard.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "एक छोटा, सóngबर्ड जिसका ज़र्द रंग का पंख है, जिसके मधुर सóng के लिए जाना जाता है, अक्सर पिंजड़े में पालतू रखा जाता है.",
       "example": "Kanarek śpiewał słodko w swojej klatce, przynosząc radość wszystkim, którzy go słyszęli. Śpiewał wczoraj, i śpiewał będzie jutro.",
       "example_translation": "पिंजड़े में केनरी मीठा गा रहा था, जिसके सभी ने सुना तो खुश हो गए. कल वह मीठा गा रहा था, और कल वह फिर मीठा गा होगा.",
-      "imageLink": "canary.jpg",
+      "imageLink": "image_files\\English\\canary.jpg",
       "audioLink": "canary.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "एक छोटा से मध्यम आकार का फिन्च, जिसका भूरा पीठ और पंख हैं, और सफ़ेद निचला हिस्सा है, जिसका पता और लकड़ी के किनारे पर लगा है, जिसके सामाजिक व्यवहार के लिए जाना जाता है.",
       "example": "Zięba skakała po ogrodzie, szukając nasion do jedzenia. Skakała wczoraj, i skoczy jutro.",
       "example_translation": "चाफिन्च बगीचे में कूदता हुआ, खाने के लिए बीज ढूँढ रहा था. कल वह कूदता हुआ था, और कल वह फिर कूदता होगा.",
-      "imageLink": "chaffinch.jpg",
+      "imageLink": "image_files\\English\\chaffinch.jpg",
       "audioLink": "chaffinch.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "प्रजनन के लिए रखा गया एक नर मुर्गा",
       "example": "Kogut paradował po dziedzińcu, dumny ze swojej dominacji.",
       "example_translation": "फ़ार्मयार्ड में मुर्गा घमंड से घूम रहा था, अपने वर्चस्व के लिए गर्व करता था।",
-      "imageLink": "cock.jpg",
+      "imageLink": "image_files\\English\\cock.jpg",
       "audioLink": "cock.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "जंगलों और बगीचों में पाया जाने वाला एक छोटा, सादा वार्ब्लर जिसका गाना विशेष है",
       "example": "Zniczek był częstym gościem w naszym podwórku, śpiewając słodką melodię.",
       "example_translation": "हमारे पिछवाड़े में आम चिफचाफ अक्सर आता था, अपनी मीठी धुन गाता था।",
-      "imageLink": "common-chiffchaff.jpg",
+      "imageLink": "image_files\\English\\common-chiffchaff.jpg",
       "audioLink": "common chiffchaff.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "गीले मैदानों और घास के मैदानों में पाया जाने वाला एक बड़ा, लंबी-गर्दन वाला पानी में खड़ा पक्षी, जिसकी आवाज़ तेज़ और संक्रामक है",
       "example": "Żuraw migruje do cieplejszych klimatów zimą, podróżując w dużych stadach.",
       "example_translation": "सर्दियों के दौरान सामान सारस गर्म जलवायु की ओर प्रवास करता है, बड़े झुंड में यात्रा करता है।",
-      "imageLink": "common-crane.jpg",
+      "imageLink": "image_files\\English\\common-crane.jpg",
       "audioLink": "common crane.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "गीले मैदानों और घास के मैदानों में पाया जाने वाला एक मध्यम आकार का, जमीन पर रहने वाला पक्षी, जिसके माथे पर लाल ढाल है",
       "example": "Łyska jest ptakiem płochliwym, ale można ją zobaczyć pływającą w mokradłach podczas sezonu rozrodu.",
       "example_translation": "सामान मूरहेन एक शर्मीला पक्षी है, लेकिन प्रजनन के मौसम में-marshes में तैरते हुए देखा जा सकता है।",
-      "imageLink": "common-moorhen.jpg",
+      "imageLink": "image_files\\English\\common-moorhen.jpg",
       "audioLink": "common moorhen.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "एक छोटा, प्रवासी गीत पक्षी जिसका संगीतमय गीत है, जंगली इलाकों और वनों में पाया जाता है.",
       "example": "Śpiewak śpiewał słodką melodię w lesie. Śpiewał jutro. Śpiewał pięknie wczoraj.",
       "example_translation": "रात्रि बुलबुल ने जंगल में मीठे सुर गाये. वह कल फिर से गाएगा. कल वह सुंदरता से गाया था.",
-      "imageLink": "common-nightingale.jpg",
+      "imageLink": "image_files\\English\\common-nightingale.jpg",
       "audioLink": "common nightingale.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "एक छोटा, धारीदार फिंच जो आर्कटिक टुण्ड्रा में प्रजनन करता है और उत्तरी वनों में शीतकालीन होता है.",
       "example": "Siweczka poleciała na południe zimą. Poleciała północ na wiosnę. Poleciała przez góry w zeszłym roku.",
       "example_translation": "लाल टोपी वाला चिड़िया सर्दी में दक्षिण की ओर उड़ा. वह वसंत में उत्तर की ओर वापस उड़ेगा. उसने पिछले साल पर्वतों के ऊपर से उड़ा था.",
-      "imageLink": "common-redpoll.jpg",
+      "imageLink": "image_files\\English\\common-redpoll.jpg",
       "audioLink": "common redpoll.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "एक प्रवासी वार्बलर जिसकी गर्दन पर सफ़ेद पैच है, जंगली इलाकों और खुले देश में पाया जाता है.",
       "example": "Gąsiorek śpiewał słodką melodię. Śpiewał jutro. Śpiewał pięknie wczoraj.",
       "example_translation": "सफ़ेद गर्दन वाली चिड़िया ने एक मीठा सुर गाया. वह कल फिर से गाएगा. कल वह सुंदरता से गाया था.",
-      "imageLink": "common-whitethroat.jpg",
+      "imageLink": "image_files\\English\\common-whitethroat.jpg",
       "audioLink": "common whitethroat.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "एक बड़ा, धूसर-ब्राउन कबूतर जंगलों और बागों में पाया जाता है, जिसकी विशिष्ट पुकार होती है.",
       "example": "Gołębiak mieszkał w lesie. Zamieszka w ogrodzie w przyszłym roku. Mieszkał w parku w zeszłym roku.",
       "example_translation": "जंगली कबूतर वन में रहता था. वह अगले साल बाग में रहेगा. उसने पिछले साल पार्क में रहता था.",
-      "imageLink": "common-wood-pigeon.jpg",
+      "imageLink": "image_files\\English\\common-wood-pigeon.jpg",
       "audioLink": "common wood pigeon.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "अNdés में पाया जाने वाला एक बड़े नये विश्व का गिद्ध, जिसका पंख बहुत चौड़ा होता है.",
       "example": "Kondor uniósł się w powietrze, jego skrzydła bijąc wolno. Wczoraj zobaczyłem kondora latającego wysoko w powietrzu. Do przyszłego roku zobaczę kondora z bliska.",
       "example_translation": "कंडोर ऊपर उड़ान भरता था, उसके पंख धीरे-धीरे पीट रहे थे. कल मैंने आकाश में कंडोर उड़ते हुए देखा. अगले साल तक, मैं कंडोर को नजदीक से देख लूँगा.",
-      "imageLink": "condor.jpg",
+      "imageLink": "image_files\\English\\condor.jpg",
       "audioLink": "condor.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "पानी के नजदीक पाया जाने वाला एक बड़ा काले-हरा पक्षी, जिसकी गर्दन लंबी होती है.",
       "example": "Kormoran zanurkował się w morze, złowić rybę. Wczoraj zobaczyłem kormorana siedzącego na skałach. Do przyszłego miesiąca zobaczę kormorana latającego w powietrzu.",
       "example_translation": "कॉर्मोरेंट समुद्र में गोता लगाता था, एक मछली पकड़ता था. कल मैंने एक चट्टान पर कॉर्मोरेंट बैठे हुए देखा. अगले महीने तक, मैं कॉर्मोरेंट को ऊपर उड़ते हुए देख लूँगा.",
-      "imageLink": "cormorant.jpg",
+      "imageLink": "image_files\\English\\cormorant.jpg",
       "audioLink": "cormorant.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "गीले इलाक़े में पाया जाने वाला एक，小 रेल пти,",
       "example": "Kuczma ukryła się w trzcinie, bojąc się drapieżnika. Wczoraj usłyszałem kuczmę krzyczącą głośno. Do przyszłego roku zobaczę kuczmę z bliska.",
       "example_translation": "क्रेक बड़े-बड़े पौधों में छिपा था, शिकारी से डरा हुआ था. कल मैंने एक क्रेक की ऊंची आवाज सुनी. अगले साल तक, मैं क्रेक को नजदीक से देख लूँगा.",
-      "imageLink": "crake.jpg",
+      "imageLink": "image_files\\English\\crake.jpg",
       "audioLink": "crake.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "गीले इलाक़े में पाया जाने वाला एक बड़ा प्रवासी पक्षी, जिसकी गर्दन और टांगें लंबी होती हैं.",
       "example": "Żuraw szedł wolno przez bagno, szukając jedzenia. Wczoraj zobaczyłem żurawia latającego wysoko w niebie. Do przyszłego miesiąca zobaczę żurawia tańczącego.",
       "example_translation": "सरस ने धीरे-धीरे दलदल से चलते हुए, खाना ढूँढा. कल मैंने आकाश में सरस उड़ते हुए देखा. अगले महीने तक, मैं सरस को नाचते हुए देख लूँगा.",
-      "imageLink": "crane.jpg",
+      "imageLink": "image_files\\English\\crane.jpg",
       "audioLink": "crane.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "चोटी वाला बुलबुल एक प्रकार का पक्षी है जिसके सिर पर एक विशिष्ट चोटी होती है, आमतौर पर घास और झाड़ियों के मिश्रण वाले खुले देश में पाया जाता है।",
       "example": "Wczoraj zobaczyłem czubajeczkę siedzącą na płocie. Będzie śpiewała swoją słodką melodię wkrótce. Śpiewała pięknie w zeszłym roku.",
       "example_translation": "मैंने कल एक चोटी वाले बुलबुल को बाड़ के पोस्ट पर बैठे देखा. वह जल्द ही अपनी मीठी धुन गाएगा. वह पिछले साल सुंदर गाया था.",
-      "imageLink": "crested-lark.jpg",
+      "imageLink": "image_files\\English\\crested-lark.jpg",
       "audioLink": "crested lark.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "चोटी वाला टीट एक छोटा गायन पक्षी है जिसके सिर पर एक विशिष्ट चोटी होती है, कोंEIFEROUS वनों और वनभूमि में पाया जाता है.",
       "example": "Czubak jest rzadkim ptakiem w naszym regionie. Był widziany często w przeszłości. Będzie widziany ponownie w przyszłości.",
       "example_translation": "चोटी वाला टीट हमारे क्षेत्र में एक दुर्लभ पक्षी है. यह पिछले में अक्सर देखा गया था. यह भविष्य में फिर से देखा जाएगा.",
-      "imageLink": "crested-tit.jpg",
+      "imageLink": "image_files\\English\\crested-tit.jpg",
       "audioLink": "crested tit.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "करलू एक प्रकार का बड़ा तटीय पक्षी है जिसके बीक एक विशिष्ट वक्र होता है, आर्द्रभूमि और तटीय क्षेत्रों में पाया जाता है.",
       "example": "Wczoraj zobaczyłem kulika brodzącego w płytkiej wodzie. Będzie uciekał wkrótce. Uciekł na południe w zeszłej zimie.",
       "example_translation": "मैंने कल एक करलू को उथले पानी में चरते देखा. वह जल्द ही उड़ जाएगा. वह पिछले सर्दी में दक्षिण की ओर उड़ा था.",
-      "imageLink": "curlew.jpg",
+      "imageLink": "image_files\\English\\curlew.jpg",
       "audioLink": "curlew.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "सिगनेट एक युवा हंस है, आमतौर पर नरम, डाउनी-भरे पंखों से ढका होता है, ताजे पानी के आर्द्रभूमि और नदियों में पाया जाता है.",
       "example": "Łyska pływała blisko swojej matki wczoraj. Będzie uczyć się latać wkrótce. Pływała gładko latem w zeszłym roku.",
       "example_translation": "सिगनेट ने अपनी मां के पास कल तैरा. वह जल्द ही उड़ना सीख जाएगा. वह पिछले गर्मी में सMOOTHLY.glide किया था.",
-      "imageLink": "cygnet.jpg",
+      "imageLink": "image_files\\English\\cygnet.jpg",
       "audioLink": "cygnet.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "एक बड़ा उल्लू जिसकी पुकार अलग होती है, जंगलों और वनों में पाया जाता है, जिसका प्लमेज भूरा या स्लेटी होता है और एक विशिष्ट चेहरे का डिस्क होता है.",
       "example": "Puchacz jest ptakiem nocnym, polował w nocy, będzie polował tej nocy, i polował w zeszłej nocy.",
       "example_translation": "शाहबुल्ला एक रात्रि पक्षी है, यह रात को शिकार करता है, यह आज रात को शिकार करेगा, और कल रात को शिकार कर चुका था.",
-      "imageLink": "eagle-owl.jpg",
+      "imageLink": "image_files\\English\\eagle-owl.jpg",
       "audioLink": "eagle owl.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "एक बड़ा, उड़ने में असमर्थ पक्षी जो आस्ट्रेलिया में पाया जाता है, जिसका प्लमेज भूरा होता है और एक लंबा, शक्तिशाली गर्दन होता है.",
       "example": "Emu jest dużym ptakiem, biegło szybko, będzie biegło szybko jutro, i biegło szybko wczoraj.",
       "example_translation": "ईमू एक बड़ा पक्षी है, यह तेजी से दौड़ता है, यह कल तेजी से दौड़ेगा, और यह कल तेजी से दौड़ा था.",
-      "imageLink": "emu.jpg",
+      "imageLink": "image_files\\English\\emu.jpg",
       "audioLink": "emu.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "एक शिकारी पक्षी जिसका शरीर पतला होता है और लंबे, संकीर्ण पंख होते हैं, जिसकी गति और चपलटा के लिए जाना जाता है.",
       "example": "Sokół jest szybkim ptakiem, wzbił się wysoko, będzie wzbił się wyżej jutro, i wzbił się najwyżej wczoraj.",
       "example_translation": "बाज एक तेज पक्षी है, यह ऊंचा उड़ा था, यह कल और ऊंचा उड़ेगा, और यह कल सबसे ऊंचा उड़ा था.",
-      "imageLink": "falcon.jpg",
+      "imageLink": "image_files\\English\\falcon.jpg",
       "audioLink": "falcon.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "एक दलदली पक्षी जिसका प्लमेज गुलाबी या लाल होता है, जिसका पाए जाता है गरम और उथले पानी में, जिसकी विशिष्ट चोंच शेप के लिए जाना जाता है.",
       "example": "Flaming jest ptakiem towarzyskim, żył w koloniach, będzie żył w koloniach jutro, i żył w koloniach wczoraj.",
       "example_translation": "फ्लेमिंगो एक सामाजिक पक्षी है, यह कॉलोनियों में रहता है, यह कल कॉलोनियों में रहेगा, और यह कल कॉलोनियों में रहता था.",
-      "imageLink": "flamingo.jpg",
+      "imageLink": "image_files\\English\\flamingo.jpg",
       "audioLink": "flamingo.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "एक जंगली हंस, विशेष रूप से एक पुरुष",
       "example": "Gęś szła przez pole. Rolnik będzie hodował gęsi wiosną. Gęś szła przez pole.",
       "example_translation": "हंसा खेत के_across वड्डला था। किसान अगले वसंत में हंसा उठाएगा। हंसा ने खेत के_across वड्डला था।",
-      "imageLink": "gander.jpg",
+      "imageLink": "image_files\\English\\gander.jpg",
       "audioLink": "gander.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "एक छोटा, भूरे-सफ़ेद रंग का पक्षी, जिसके गीत में एक विशेषता है, बगीचों और लकड़ी के किनारे पाया जाता है।",
       "example": "Rżyżanka śpiewała słodko rano. Rżyżanki będą gniazdować w krzakach. Rżyżanka śpiewała słodko rano.",
       "example_translation": "बगीचा लड़ैया सुबह में मधुर गाया। बगीचा लड़ैया झाड़ियों में घोंसला बनाएगा। बगीचा लड़ैया सुबह में मधुर गाया था।",
-      "imageLink": "garden-warbler.jpg",
+      "imageLink": "image_files\\English\\garden-warbler.jpg",
       "audioLink": "garden warbler.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "एक छोटा, तेज़ उड़ने वाला बत्तख, जिसके चेहरे पर एक विशेष नीले-सफ़ेद पैच है, जो उमड़े और घास के मैदानों में पाया जाता है।",
       "example": "Czernica szybko przelatywała nad bagnem. Czernice będą się rozmnażać wiosną. Czernica szybko przelatywała nad bagnem.",
       "example_translation": "कलौंजी दलदल पर तेज़ उड़ गया। कलौंजी वसंत में प्रजनन करेगी। कलौंजी दलदल पर तेज़ उड़ गया था।",
-      "imageLink": "garganey.jpg",
+      "imageLink": "image_files\\English\\garganey.jpg",
       "audioLink": "garganey.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "एक छोटा, हरे-पीले रंग का पक्षी, जिसके सिर पर एक विशेष सोने की टोपी है, जो कónिफ़ेरस जंगलों में पाया जाता है।",
       "example": "Koronica latała między gałęziami. Koronice będą migrować jesienią. Koronica latała między gałęziami.",
       "example_translation": "सोने की टोपी शाखाओं के बीच में उड़ गया। सोने की टोपी शरद ऋतु में प्रवास करेगी। सोने की टोपी शाखाओं के बीच में उड़ गया था।",
-      "imageLink": "goldcrest.jpg",
+      "imageLink": "image_files\\English\\goldcrest.jpg",
       "audioLink": "goldcrest.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "उत्तरी गोलार्द्ध में पाया जाने वाला एक बड़ा, गहरा भूरा ईगल जिसके पीछे और पंख स्वर्ण-भूरे होते हैं।",
       "example": "Orzeł przedni unosiał się przez czyste niebo, jego przenikliwe spojrzenie skanując krajobraz poniżej. Unosił się przez niebo przez wieki, i będzie to robić w przyszłości. Wczoraj, orzeł przedni został zauważony siedzący na gałęzi drzewa.",
       "example_translation": "स्वर्ण ईगल ने साफ नीले आसमान से उड़ान भरी, अपनी तीव्र दृष्टि ने नीचे के लैंडस्केप को स्कैन किया। यह सदियों से आसमान से उड़ान भरता आ रहा है, और भविष्य में भी ऐसा ही करेगा। कल, एक स्वर्ण ईगल को पेड़ की डाल पर बैठा हुआ देखा गया था।",
-      "imageLink": "golden-eagle.jpg",
+      "imageLink": "image_files\\English\\golden-eagle.jpg",
       "audioLink": "golden eagle.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "एक प्रवासी पक्षी जिसका चमकीला पीला कौशल होता है और एक विशिष्ट गीत होता है, वनों και बगीचों में पाया जाता है।",
       "example": "Słodka melodia orlika krzykliwego wypełniała powietrze, gdy latał między gałęziami w ogrodzie. Będzie wracał wiosną, i robił tak już przez lata. Wczoraj, orlik krzykliwy zbudował swoje gniazdo w naszym ogrodzie.",
       "example_translation": "स्वर्ण ओरिओल की मिठास भरी धुन हवा में गूँजी, जैसे यह बगीचे में शाखा से शाखा पर जाता था। यह अगले वसंत में वापस आएगा, और कई साल से ऐसा कर रहा है। कल, एक स्वर्ण ओरिओल ने हमारे पिछवाड़े में अपना घोंसला बनाया था।",
-      "imageLink": "golden-oriole.jpg",
+      "imageLink": "image_files\\English\\golden-oriole.jpg",
       "audioLink": "golden oriole.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "एक छोटा, आकर्षक पक्षी जिसका चमकीला पीला चेहरा और पंख होते हैं, बगीचों और देहात में पाया जाता है।",
       "example": "Świstun siedział na parapecie, jego jasne upierzenie schwytując poranną sunę. Odwiedza nasz ogród od tygodni, i będzie robił to w przyszłości. Wczoraj, świstun zbudował swoje gniazdo w pobliskim krzaku.",
       "example_translation": "स्वर्ण फिंच ने खिड़की पर बैठा था, अपना चमकीला कौशल मॉर्निंग सन को पकड़ रहा था। यह हमारे बगीचे में हफ्तों से आ रहा है, और भविष्य में ऐसा ही करेगा। कल, एक स्वर्ण फिंच ने पास की झाड़ी में अपना घोंसला बनाया था।",
-      "imageLink": "goldfinch.jpg",
+      "imageLink": "image_files\\English\\goldfinch.jpg",
       "audioLink": "goldfinch.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "एक युवा हंस, विशेष रूप से वह जिसका अभी तक नर्म पंख होता है।",
       "example": "Gosłąć szła za swoją matką, jej miękki puch falując w bryzie. Będzie dorastał do silnego gęsia, tak jak jego rodzice. Wczoraj, gosłąć został zauważony bawiąc się ze swoimi rodzeństwem w parku.",
       "example_translation": "गूजलिंग ने अपनी माँ के पीछे टहलता हुआ चला गया, अपना नर्म पंख हवा में फुलफुलाता हुआ। यह एक मजबूत हंस बन जाएगा, जैसा कि उसके माता-पिता हैं। कल, एक गूजलिंग को पार्क में अपने भाई-बहनों के साथ खेलते हुए देखा गया था।",
-      "imageLink": "gosling.jpg",
+      "imageLink": "image_files\\English\\gosling.jpg",
       "audioLink": "gosling.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "एक बड़ा जलपक्षी जिसके सिर पर काला और सफेद छाता होता है, ताज़े पानी की झीलों और नदियों में पाया जाता है।",
       "example": "Czerniczka gniazdowała na brzegu jeziora. Wczoraj, zbudowała ona swoje gniazdo, a za rok będzie wychowywać swoje pisklęta. Aktualnie, inkubuje swoje jaja.",
       "example_translation": "महान शिरस धवल बट बट झील के किनारे पर घोंसला बना रहा था। कल, उसने एक घोंसला बनाया था, और अगले साल तक, वह अपने बच्चों को पाल लेगा। फिलहाल, वह अपने अंडे सेता है।",
-      "imageLink": "great-crested-grebe.jpg",
+      "imageLink": "image_files\\English\\great-crested-grebe.jpg",
       "audioLink": "great crested grebe.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "एक छोटा, चमकदार रंग वाला पक्षी जिसके सिर पर काला और सफेद रंग होता है, वनों और बाग़ानों में पाया जाता है।",
       "example": "Sikorka siedziała na gałęzi drzewa. Wczoraj, złapała robaka, a lato przyszłego roku zbuduje swoje gniazdo. Aktualnie, śpiewa słodką melodię.",
       "example_translation": "महान टिट एक पेड़ की शाखा पर बैठा था। कल, उसने एक कीड़ा पकड़ा था, और अगले गर्मी तक, वह एक घोंसला बना लेगा। फिलहाल, वह एक मीठी धुन गा रहा है।",
-      "imageLink": "great-tit.jpg",
+      "imageLink": "image_files\\English\\great-tit.jpg",
       "audioLink": "great tit.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "एक बड़ा, सफेद पैर वाला पक्षी जिसके लंबे गर्दन और पांव होते हैं, दलदल और तटीय क्षेत्रों में पाया जाता है।",
       "example": "Duży biały czapla brodził w płytkiej wodzie. Wczoraj złapał rybę, a miesiąc temu zamierza移yć się do cieplejszego klimatu. Aktualnie suszy swoje pióra.",
       "example_translation": "महान श्वेत बगुला उथले पानी में टहल रहा था। कल, उसने एक मछली पकड़ी थी, और अगले महीने तक, वह गर्म जलवायु में प्रवास करने लेगा। फिलहाल, वह अपने पंख सुखा रहा है।",
-      "imageLink": "great-white-egret.jpg",
+      "imageLink": "image_files\\English\\great-white-egret.jpg",
       "audioLink": "great white egret.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "एक प्रकार का जलपक्षी जो ताज़े पानी की झीलों और नदियों में पाया जाता है, अपने विशिष्ट डाइविंग व्यवहार के लिए जाना जाता है।",
       "example": "Perkoz nurkował głęboko w wodzie. Wczoraj złapał żabę, a zima sẽ urosnąć swoje pióra zimowe. Aktualnie pływa wolno.",
       "example_translation": "बट बट ने पानी में गहरा डुबकी लगाया। कल, उसने एक मेंढक पकड़ा था, और अगले सर्दी तक, वह अपने सर्दी के पंख उगा लेगी। फिलहाल, वह धीरे-धीरे तैर रहा है।",
-      "imageLink": "grebe.jpg",
+      "imageLink": "image_files\\English\\grebe.jpg",
       "audioLink": "grebe.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "एक बड़ा, स्लेटी सफ़ेद खड़े पैर वाला पक्षी, नदियों और दलदल में पाया जाता है।",
       "example": "Zobaczyłem szarego bociana stojącego nieruchomo w rzece, czekającego na zdobycz. Widział szarego bociana przedtem, ale nigdy tak blisko. Zobaczy szarego bociana ponownie jutro.",
       "example_translation": "मैंने नदी में एक स्लेटी बगुला को खड़े हुए देखा, अपना शिकार ढूंढते हुए। उसने पहले स्लेटी बगुला देखा था, लेकिन इतने करीब नहीं। वह कल स्लेटी बगुला को फिर से देखेगा।",
-      "imageLink": "heron.jpg",
+      "imageLink": "image_files\\English\\heron.jpg",
       "audioLink": "grey heron.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "एक बड़ा, स्लेटी-भूरा हंस, जिसका सिर और गर्दन काला है, दलदल और घास के मैदान में पाया जाता है।",
       "example": "Rolnik zobaczył łabędzia gęsi latającego wysoko w niebie. Słyszał o łabędziu gęsi, ale nigdy nie widział go z bliska. Zobaczy łabędzia gęsi w świątyni ułabędzia gęsi następnego tygodnia.",
       "example_translation": "किसान ने आसमान में ऊंचा उड़ते हुए ग्रेल بگ देखा। उसने ग्रेल بگ के बारे में सुना था, लेकिन इतने करीब नहीं देखा था। वह अगले सप्ताह ग्रेल بگ अभयारण्य का दौरा करेगा।",
-      "imageLink": "greylag-goose.jpg",
+      "imageLink": "image_files\\English\\greylag-goose.jpg",
       "audioLink": "greylag goose.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "एक बड़ा, जमीन पर रहने वाला पक्षी, जिसका शरीर मोटा है और सिर पर एक हेलमेट जैसी संरचना है, अफ्रीका का देशज है।",
       "example": "Rolnik hodował perlice na swoim gospodarstwie. Hodował perlice przedtem, ale ten tegoroczny jest najzdrowszy. Sprzeda perlice na rynku miesiąc temu.",
       "example_translation": "किसान ने अपने फार्म पर गिनी मुर्गा पाला। उसने पहले गिनी मुर्गा पाला था, लेकिन ये बैच सबसे स्वस्थ था। वह अगले महीने बाजार में गिनी मुर्गा बेचेगा।",
-      "imageLink": "guinea-fowl.jpg",
+      "imageLink": "image_files\\English\\guinea-fowl.jpg",
       "audioLink": "guinea fowl.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "एक बड़ा, भूरा फिंच, जिसका सिर पर एक विशिष्ट पैटर्न है, जंगलों और बगीचों में पाया जाता है।",
       "example": "Zobaczyłem dzięcioła siedzącego na gałęzi, jedzącego nasiona z drzewa. Widział dzięcioła przedtem, ale nigdy tak blisko. Spróbuję przyciągnąć dzięcioła do swojego ogrodu przyszłego roku.",
       "example_translation": "मैंने एक शाखा पर बैठे हुए हॉफिंच को देखा, जो पेड़ से बीज खा रहा था। उसने पहले हॉफिंच देखा था, लेकिन इतने करीब नहीं। वह अगले साल अपने पिछवाड़े में हॉफिंच को आकर्षित करने की कोशिश करेगा।",
-      "imageLink": "hawfinch.jpg",
+      "imageLink": "image_files\\English\\hawfinch.jpg",
       "audioLink": "hawfinch.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "उत्तरी यूरोप और एशिया में पाया जाने वाला एक मध्यम आकार का टека, जिसकी पीठ और पंख भूरे रंग के होते हैं, और गले पर काला धब्बा होता है.",
       "example": "Kuropatwa szybko poleciała przez las, czarna plama na gardle błyszczała w słońcu. Wczoraj poleciała nad drzewem, a jutro wróci.",
       "example_translation": "टेहरा टека वन में तेजी से उड़ा और उसका काला गला धब्बा सूरज की रोशनी में चमका। यह कल पेड़ के ऊपर से उड़ा था, और कल वापस उड़ेगा।",
-      "imageLink": "hazel-grouse.jpg",
+      "imageLink": "image_files\\English\\hazel-grouse.jpg",
       "audioLink": "hazel grouse.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "गर्म और समशीतोष्ण क्षेत्रों में पाया जाने वाला एक मध्यम आकार का पक्षी, जिसका विशिष्ट शिखर और काला-सफ़ेद धारियाँ होती हैं।",
       "example": "Dudzik siedział na gałęzi, jego czapka kiwała się w górę i w dół. Zbudował tam gniazdo tydzień temu, a dzisiaj kręci się wokół niego.",
       "example_translation": "हुदहुद डाल पर बैठा था, उसका शिखर ऊपर-नीचे हिल रहा था। यह पिछले हफ्ते वहाँ अपना घोंसला बनाया था, और आज उसे घेरा होगा।",
-      "imageLink": "hoopoe.jpg",
+      "imageLink": "image_files\\English\\hoopoe.jpg",
       "audioLink": "hoopoe.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "गर्म और उपोष्णकटिबंधीय क्षेत्रों में पाया जाने वाला एक छोटा, चमकीला रंग का पक्षी, जो हवा में स्थिर हो सकता है।",
       "example": "Koliber przelatuje z kwiatu na kwiat, jego skrzydła biją szybko. Wczoraj pił nektar, a jutro znowu tak zrobi.",
       "example_translation": "हमिंगबर्ड फूल से फूल पर उड़ता है, उसके पंख तेज़ी से पीट रहे थे। यह कल अमृत पिया था, और कल फिर से पिएगा।",
-      "imageLink": "hummingbird.jpg",
+      "imageLink": "image_files\\English\\hummingbird.jpg",
       "audioLink": "hummingbird.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "गर्म और समशीतोष्ण क्षेत्रों में पाया जाने वाला एक बड़ा, लंबे और घुमावदार चोंचवाला पक्षी।",
       "example": "Ibis brodził przez płytką wodę, jego dziób sondował błoto. Wczoraj tropił swoją zdobycz, a dzisiaj znowu tak zrobi.",
       "example_translation": "इबिस उथले पानी में चलता है, उसकी चोंच मिटटी में खोजती है। यह कल अपने शिकार का पीछा कर रहा था, और आज फिर से करेगा।",
-      "imageLink": "ibis.jpg",
+      "imageLink": "image_files\\English\\ibis.jpg",
       "audioLink": "ibis.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "एक झाड़ी में रहने वाला काला पक्षी, अपने विशिष्ट कॉल और होशियारी के लिए जाना जाता है।",
       "example": "Kawka zrzuciła się, aby zdobyć kawałek chleba z piknikowego koca. Wczoraj zobaczyłem kawkę siedzącą na parapecie. Do następnego lata kawka zbuduje swe gniazdo w starej dębinie.",
       "example_translation": "पिकनिक के चादर से रोटी का टुकड़ा पकड़ने के लिए जैकडा नीचे उतर आया। कल, मैंने जैकडा को खिड़की के ऊपर बैठा हुआ देखा। अगली गर्मी तक, जैकडा पुराने ओक के पेड़ पर अपना घोंसला बना लेगा।",
-      "imageLink": "jackdaw.jpg",
+      "imageLink": "image_files\\English\\jackdaw.jpg",
       "audioLink": "jackdaw.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "एक उज्ज्वल रंग का पक्षी, जिसके सिर पर एक विशिष्ट सिरवाल है, जंगलों और बगीचों में पाया जाता है, अपने निडर और जिज्ञासु स्वभाव के लिए जाना जाता है।",
       "example": "Szczygieł fruwał między drzewami, jego żywe pióra odbijały się w świetle słonecznym. Wczoraj zobaczyłem szczczygła siedzącego na płocie. Do następnego tygodnia szczczygieł zbuduje swe gniazdo w jabłoni.",
       "example_translation": "लाल फिटरी पेड़ों के बीच में तेजी से उड़ता हुआ, उसके उज्ज्वल पंख सूरज की रोशनी में चमकते थे। कल, मैंने लाल फिटरी को बाड़े पर बैठा हुआ देखा। अगले हफ्ते तक, लाल फिटरी सेब के पेड़ पर अपना घोंसला बना लेगी।",
-      "imageLink": "jay.jpg",
+      "imageLink": "image_files\\English\\jay.jpg",
       "audioLink": "jay.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "एक छोटा बाज, जिसका पीठ का रंग स्लेट-ग्रे है और नीचे का रंग सफ़ेद है, खुले इलाके और शहरी क्षेत्रों में पाया जाता है, अपने चपलापन और गति के लिए जाना जाता है।",
       "example": "Pustułka krążyła wysoko w niebie, swoimi ostrymi oczami skanując ziemię poniżej. Wczoraj zobaczyłem pustułkę siedzącą na latarni. Do następnego miesiąca pustułka wyruszy na zimowe tereny.",
       "example_translation": "लड़ाकू बाज आकाश में ऊंचा उड़ा हुआ था, उसकी तेज नज़र नीचे की जमीन पर टिकी हुई थी। कल, मैंने लड़ाकू बाज को स्ट्रीट लाइट पर बैठा हुआ देखा। अगले महीने तक, लड़ाकू बाज अपने शीतकालीन ठिकाने पर पलायन कर लेगा।",
-      "imageLink": "kestrel.jpg",
+      "imageLink": "image_files\\English\\kestrel.jpg",
       "audioLink": "kestrel.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "एक उज्ज्वल रंग का पक्षी, जिसके सिर पर एक विशिष्ट सिरवाल है, नदी और झील के किनारे पाया जाता है, अपने गति और चपलापन में मछली पकड़ने के लिए जाना जाता है।",
       "example": "Zimorodek zrzucił się do rzeki, jego żywe pióra lśniły w świetle słonecznym. Wczoraj zobaczyłem zimorodka siedzącego na gałęzi wierzbowej. Do następnego wiosny zimorodek zbuduje swe gniazdo w trzcinach.",
       "example_translation": "जलकبير नदी में डूबा हुआ था, उसके उज्ज्वल पंख सूरज की रोशनी में चमकते थे। कल, मैंने जलकبير को विलो की डाल पर बैठा हुआ देखा। अगले वसंत तक, जलकبير का घोंसला निखार में बना लेगा।",
-      "imageLink": "kingfisher.jpg",
+      "imageLink": "image_files\\English\\kingfisher.jpg",
       "audioLink": "kingfisher.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "कीवी एक छोटा, उड़ने में असमर्थ पक्षी है जो न्यूजीलैंड में पाया जाता है, इसके फजी पंखों और लंबे चोंच के लिए जाना जाता है।",
       "example": "Zjadłem owoc kiwi na śniadanie, zjadam owoc kiwi na lunch, i jadłem owoc kiwi na obiad.",
       "example_translation": "मैंने नाश्ते में कीवी फल खाया, मैं दोपहर में कीवी फल खाऊंगा, और मैंने रात के खाने में कीवी फल खाया था।",
-      "imageLink": "kiwi.jpg",
+      "imageLink": "image_files\\English\\kiwi.jpg",
       "audioLink": "kiwi.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "तित्तर एक प्रकार का पक्षी है जो अपने विशिष्ट शिखा और तेज, चói링 आवाज के लिए जाना जाता है।",
       "example": "Rżyżowiec powoli odszedł, wczoraj zobaczyłem rżyżowca lecącego nad głową, i oni zbudują gniazdo dla jaj rżyżowca.",
       "example_translation": "तित्तर धीरे-धीरे फिसल गया, मैंने कल तित्तर को ऊपर उड़ते हुए देखा, और वे तित्तर के अंडे के लिए एक घोंसला बनाएंगे।",
-      "imageLink": "lapwing.jpg",
+      "imageLink": "image_files\\English\\lapwing.jpg",
       "audioLink": "lapwing.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "कम काला-पीठ वाला गुल एक मध्यम आकार का समुद्री पक्षी है जो तटीय क्षेत्रों में पाया जाता है और उसके काले पीठ और सफ़ेद पंखों के लिए जाना जाता है।",
       "example": "Zobaczyłem mewę żółtonogą lecącą nad oceanem, mewa żółtonoga będzie szukać pożywienia na plaży, i oni widzieli mewę żółtonogą gniazdującą na klifie.",
       "example_translation": "मैंने सागर के ऊपर कम काला-पीठ वाला गुल उड़ते हुए देखा, कम काला-पीठ वाला गुल समुद्र तट पर खाना ढूंढेगा, और उन्होंने चट्टान पर कम काला-पीठ वाला गुल घोंसला बनाते हुए देखा।",
-      "imageLink": "lesser-black-backed-gull.jpg",
+      "imageLink": "image_files\\English\\lesser-black-backed-gull.jpg",
       "audioLink": "lesser black-backed gull.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "कम चित्तीदार ईगल एक मध्यम आकार का शिकारी पक्षी है जो वनों और घास के मैदानों में पाया जाता है और उसके भूरे पंखों और सफ़ेद चित्तियों के लिए जाना जाता है।",
       "example": "Orlik mniejszy krążył wysoko w niebie, jutro pójdę zobaczyć orlika mniejszego, i oni zobaczyli orlika mniejszego siedzącego na drzewie.",
       "example_translation": "कम चित्तीदार ईगल आसमान में उड़ाया, मैं कल कम चित्तीदार ईगल देखने जाऊंगा, और उन्होंने पेड़ पर कम चित्तीदार ईगल बैठा हुआ देखा।",
-      "imageLink": "lesser-spotted-eagle.jpg",
+      "imageLink": "image_files\\English\\lesser-spotted-eagle.jpg",
       "audioLink": "lesser spotted eagle.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "एक छोटा पasserine पक्षी जिसकी पीठ और पंख भूरे रंग के हैं और पेट 灰ish-श्वेत है",
       "example": "Łuszcz siedział na gałęzi drzewa. Zaśpiewa melodyjną pieśń rano. Zaśpiewał słodką melodię wczoraj.",
       "example_translation": "लिनेट पेड़ की शाखा पर बैठा था. वह सुबह में एक सुरीला गीत गाएगा. कल वह एक मीठा सुर गाया था.",
-      "imageLink": "linnet.jpg",
+      "imageLink": "image_files\\English\\linnet.jpg",
       "audioLink": "linnet.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "रात्रि में शिकार करने वाला पक्षी जिसके कान की पट्टियां लंबी हैं और आंखें सामने की ओर हैं",
       "example": "Uszkówka będzie leciała cicho w ciemnej nocy. Latała nad lasem wczoraj. Załapie małe ssaki jutro.",
       "example_translation": "लंबे कान वाली उल्लू रात में चुपचाप उड़ेगी. कल रात उसने जंगल पर उड़ान भरी. वह कल छोटे स्तनधारी जानवरों का शिकार करेगी.",
-      "imageLink": "long-eared-owl.jpg",
+      "imageLink": "image_files\\English\\long-eared-owl.jpg",
       "audioLink": "long-eared owl.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "एक बड़ा डैब्बलिंग बत्तख जिसका सिर हरा है, चोंच पीला है, और शरीर भूरा है",
       "example": "Kaczka pływała w stawie wczoraj. Będzie lecieć na południe zimą. Pływała z partnerem rano.",
       "example_translation": "मल्लर्ड कल तालाब में泳 गया. वह सर्दी में दक्षिण की ओर उड़ेगा. वह अपने साथी के साथ सुबह में泳 गया.",
-      "imageLink": "mallard.jpg",
+      "imageLink": "image_files\\English\\mallard.jpg",
       "audioLink": "mallard.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "एक छोटा पक्षी जिसका टोपी काला है, गाल सफ़ेद हैं, और पेट का नीचे पीला और काला धारीदार है",
       "example": "Bąk siedział na trzcinie wczoraj. Będzie budował gniazdo w bagnie za tydzień. Śpiewał słodką pieśń rano.",
       "example_translation": "मर्श टिट कल रीड पर बैठा था. वह अगले हफ्ते में मर्श में एक घोंसला बनाएगा. वह सुबह में एक मीठा गीत गाया था.",
-      "imageLink": "marsh-tit.jpg",
+      "imageLink": "image_files\\English\\marsh-tit.jpg",
       "audioLink": "marsh tit.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "एक रात्रि पक्षी जिसकी मधुर आवाज है, जिसका रंग आमतौर पर भूरा या خاکीभूरा होता है.",
       "example": "Śpiewak śpiewał słodko w ogrodzie, i słuchałem jego pieśni przez godziny. Jego pieśń zostanie zapamiętana przez wszystkich w wsi. Będzie śpiewał ponownie jutro rano.",
       "example_translation": "बगीचे में बुलबुल ने मिठास से गाया और मैं उसके गाने को घंटों सुनता रहा. उसके गाने को गांव के सभी लोग याद करेंगे. वह कल सुबह फिर से गाएगा.",
-      "imageLink": "nightingale.jpg",
+      "imageLink": "image_files\\English\\nightingale.jpg",
       "audioLink": "nightingale.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "एक रात्रि पक्षी जिसके पास बड़ा सिर और चपटा चेहरा है, और उड़ते हुए कीड़े पकड़ने की आदत है.",
       "example": "Lelek frunął cicho w ciemności, łapiąc motyle i chrząszcze swoim otwartym dziobem. Leci szybko w nocy, i będzie lecieć znów dziś wieczorem. Lecił szybko wczoraj wieczorem.",
       "example_translation": "रातरांग ने अंधेरे में चुपचाप उड़ान भरी, अपने मुंह से खुले में माटियां और Тутियां पकड़ी. वह रात को जल्दी उड़ता है, और वह आज रात को फिर से उड़ेगा. वह कल रात को जल्दी उड़ा था.",
-      "imageLink": "nightjar.jpg",
+      "imageLink": "image_files\\English\\nightjar.jpg",
       "audioLink": "nightjar.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "एक बड़ा, काला भूरा मछली खाने वाला शिकारी पक्षी, जिसके पास एक विशिष्ट उलटने वाला बाहरी उंगली है.",
       "example": "Orlik nurkował szybko w rzekę, łapiąc dużą rybę w swoich szponach. Będzie nurkował znów jutro, i nurkował wczoraj. Orliki budują swoje gniazda na wysokich drzewach.",
       "example_translation": "ओस्प्रे ने नदी में तेजी से डुबकी लगाई, अपने पंजों में एक बड़ी मछली पकड़ी. वह कल फिर से डुबकी लगाएगा, और वह कल डुबकी लगाया था. ओस्प्रे लंबे पेड़ों पर अपने घोंसले बनाते हैं.",
-      "imageLink": "osprey.jpg",
+      "imageLink": "image_files\\English\\osprey.jpg",
       "audioLink": "osprey.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "एक छोटा से मध्यम आकार का पक्षी, आमतौर पर जमीन पर रहने वाला, जिसके पास एक गोल शरीर और लंबा पूंछ होता है.",
       "example": "Przepiórka biegła szybko przez pole, szukając jedzenia. Będzie biegła znów jutro, i biegła wczoraj. Przepiórki są ptakami towarzyszymi i żyją w stadach.",
       "example_translation": "टीटार ने खेत में तेजी से दौड़ लगाई, खाना ढूंढते हुए. वह कल फिर से दौड़ेगा, और वह कल दौड़ा था. टीटार सामाजिक पक्षी हैं और झुंडों में रहते हैं.",
-      "imageLink": "partridge.jpg",
+      "imageLink": "image_files\\English\\partridge.jpg",
       "audioLink": "partridge.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "एक बड़ा, रंगीन चिड़िया जिसकी एक विशिष्ट कॉल और लंबा, अलंकृत पूंछ है।",
       "example": "Paw rozpostarł swój wspaniały ogon, aby przyciągnąć partnerkę. Wczoraj widziałem pawa w zoo. W przyszłości będę miał pawa jako domek.",
       "example_translation": "मोर ने अपनी शानदार पूंछ फैलाई ताकि एक साथी को आकर्षित कर सके। कल मैं जू में एक मोर देखा। भविष्य में, मैं एक मोर के रूप में पालतू पशु रखूँगा。",
-      "imageLink": "peacock.jpg",
+      "imageLink": "image_files\\English\\peacock.jpg",
       "audioLink": "peacock.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "एक बड़े जलपक्षी के साथ एक विशिष्ट थैली वाले बिल, गर्म और उष्णकटिबंधीय क्षेत्रों में पाए जाते हैं।",
       "example": "Pelikan łapał ryby swoim dziobem. Pelikany są znane z ich zachowania społecznego. W przeszłości pelikany były powszechnie spotykane w tym regionie.",
       "example_translation": "पेलिकन ने अपने चोंच से मछली उठा ली। पेलिकन उनके सामाजिक व्यवहार के लिए जाने जाते हैं।过去, पेलिकन इस क्षेत्र में आम तौर पर पाए जाते थे।",
-      "imageLink": "pelican.jpg",
+      "imageLink": "image_files\\English\\pelican.jpg",
       "audioLink": "pelican.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "एक तेज और लचीला शिकारी पक्षी जो मध्य वायु में छोटे से मध्यम आकार के पक्षियों का शिकार करता है।",
       "example": "Sokół wędrowny nurkował w dół, aby złapać swoją zdobycz. Sokoły wędrowne są gatunkami zagrożonymi. Do 2025 roku sokoły wędrowne będą reintrodukowane w tym obszarze.",
       "example_translation": "पेरेग्रिन बाज ने अपने शिकार को पकड़ने के लिए नीचे डूब गया। पेरेग्रिन बाज लुप्तप्राय प्रजाति हैं। 2025 तक, पेरेग्रिन बाज इस क्षेत्र में पुनः प्रस्तुत किए जाएंगे।",
-      "imageLink": "peregrine-falcon.jpg",
+      "imageLink": "image_files\\English\\peregrine-falcon.jpg",
       "audioLink": "peregrine falcon.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "एक बड़ा, धरातल निवासी पक्षी जिसके चमकीले पंख हैं, एशिया और यूरोप में मूल निवासी है।",
       "example": "Bażant biegł przez pole. Bażanty są często polowane dla ich mięsa. W przeszłości bażanty były licznie spotykane w tym obszarze.",
       "example_translation": "तीतर ने खेत के ऊपर दौड़ा। तीतर उनके मांस के लिए अक्सर शिकार किए जाते हैं। कभी, तीतर इस क्षेत्र में बहुतायत से पाए जाते थे।",
-      "imageLink": "pheasant.jpg",
+      "imageLink": "image_files\\English\\pheasant.jpg",
       "audioLink": "pheasant.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "अंडे या मांस के लिए रखे जाने वाले घरेलू मुर्गे, टर्की, बत्तख, और हंस जैसे domesticated birds.",
       "example": "Farma hodowała drób na sprzedaż na rynku.",
       "example_translation": "बाज़ार में बिक्री के लिए फ़ार्म ने पोल्ट्री पालना शुरू कर दिया।",
-      "imageLink": "poultry.jpg",
+      "imageLink": "image_files\\English\\poultry.jpg",
       "audioLink": "poultry.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "एक छोटी उल्लू प्रजाति,通常 6-10 इंच लंबी trovato, जंगलों और जंगलों में पाया जाता है।",
       "example": "Sóweczka usiadła na gałęzi, obserwując swoją zdobycz.",
       "example_translation": "बौना उल्लू एक शाखा पर बैठा था, अपने शिकार की निगरानी कर रहा था।",
-      "imageLink": "pygmy-owl.jpg",
+      "imageLink": "image_files\\English\\pygmy-owl.jpg",
       "audioLink": "pygmy owl.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "एक छोटा, जमीन पर रहने वाला पक्षी जो टिटहरी से मिलता जुलता है, अक्सर घास के मैदान और खुले मैदान में पाया जाता है।",
       "example": "Przepiórka szukała pożywienia na otwartym polu.",
       "example_translation": "बटेर खुले मैदान में भोजन की तलाश में दौड़ता हुआ गया।",
-      "imageLink": "quail.jpg",
+      "imageLink": "image_files\\English\\quail.jpg",
       "audioLink": "quail.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "एक जलपक्षी प्रजाति जो ताज़े पानी के वास में प्रजनन करती है, अपने विशिष्ट लाल गर्दन पैच से पहचानी जाती है।",
       "example": "Czernica nurkowała do jeziora w poszukiwaniu ryb.",
       "example_translation": "लाल गर्दन वाली ग्रेब झील में मछली की तलाश में डूब गई।",
-      "imageLink": "red-necked-grebe.jpg",
+      "imageLink": "image_files\\English\\red-necked-grebe.jpg",
       "audioLink": "red-necked grebe.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "एक छोटा, गोल पक्षी जिसके स्तन लाल होते हैं, आम तौर पर यूरोप और उत्तर अमेरिका में पाया जाता है।",
       "example": "Wczoraj zobaczyłem rudzika siedzącego na gałęzi. Dziś siedzi na ziemi. Jutro odleci.",
       "example_translation": "कल मैंने एक शाखा पर रोबिन को देखा. आज, वह जमीन पर बैठा है. कल, वह उड़ जाएगा.",
-      "imageLink": "robin.jpg",
+      "imageLink": "image_files\\English\\robin.jpg",
       "audioLink": "robin.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "एक लंबा या गोल объект जो घूमता है या自由 रूप से चलता है, पेंटिंग या साफ-सफाई जैसे विभिन्न उद्देश्यों के लिए प्रयोग किया जाता है।",
       "example": "Użyłem wałka do pomalowania ściany. Użyję go do czyszczenia podłogi jutro. Wczoraj użyłem go do aplikacji kleju.",
       "example_translation": "मैंने दीवार पेंट करने के लिए एक रोलर का प्रयोग किया. मैं कल इसे फर्श साफ करने के लिए प्रयोग करूँगा. कल, मैंने इसे गोंद लगाने के लिए प्रयोग किया था.",
-      "imageLink": "roller.jpg",
+      "imageLink": "image_files\\English\\roller.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "एक बड़ा काला पक्षी, कौवे परिवार का, यूरोप और एशिया में पाया जाता है, जिसकी बुद्धिमत्ता और समस्या-समाधान क्षमता के लिए जाना जाता है।",
       "example": "Kawka jest znana z inteligencji. Wczoraj rozwiązała puzzle. Dziś próbuje otworzyć skrzynkę.",
       "example_translation": "रूक की चालाकी के लिए जाना जाता है. कल, उसने पहेली को सolve किया. आज, वह बॉक्स खोलने की कोशिश कर रहा है.",
-      "imageLink": "rook.jpg",
+      "imageLink": "image_files\\English\\rook.jpg",
       "audioLink": "rook.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "एक छोटा, पीला-हरा पक्षी, एक विशिष्ट गीत के साथ, यूरोप और एशिया में पाया जाता है, जिसकी چुस्ती और सामाजिक व्यवहार के लिए जाना जाता है।",
       "example": "Śródziębie jest ptakiem społecznym. Wczoraj zaśpiewał piękny śpiew. Dziś lata z przyjaciółmi.",
       "example_translation": "सिसकिन एक सामाजिक पक्षी है. कल, उसने एक सुंदर गीत गाया. आज, वह अपने दोस्तों के साथ उड़ रहा है.",
-      "imageLink": "siskin.jpg",
+      "imageLink": "image_files\\English\\siskin.jpg",
       "audioLink": "siskin.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "नमभूमि और घासभूमि में पाया जाने वाला लंबे-चोंच वाला एक प्रवासी पक्षी, जिसके उड़ने का तरीका विशेष है।",
       "example": "Ornitolog zauważył bajorza w bagnie wczoraj, bajorz będzie polował jutro, i polował wiele ptaków w zeszłym roku.",
       "example_translation": "जीवविज्ञानी ने कल नमभूमि क्षेत्र में एक जहाज़ी बाज़ देखा, वह कल फिर से जहाज़ी बाज़ करेगा, और पिछले साल कई पक्षियों को जहाज़ी बाज़ किया था।",
-      "imageLink": "snipe.jpg",
+      "imageLink": "image_files\\English\\snipe.jpg",
       "audioLink": "snipe.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "एक छोटा, पतला शिकारी पक्षी जिसके पंख का सिरा गोल है और पूंछ लंबी है, जो छोटे पक्षियों और कीड़ों का शिकार करता है।",
       "example": "Jastrząb zrzucił się na swoją zdobycz wczoraj, był jastrzębiącym w lesie przez wiele tygodni i będzie jastrzębił jutro.",
       "example_translation": "चीड़ील ने कल अपने शिकार पर झपट्टा मारा था, वह जंगल में कई हफ्ते से चीड़ील कर रहा है, और कल फिर से चीड़ील करेगा।",
-      "imageLink": "sparrowhawk.jpg",
+      "imageLink": "image_files\\English\\sparrowhawk.jpg",
       "audioLink": "sparrowhawk.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "एक छोटा, धूसर-भूरा रंग का पक्षी जिसके आंख के ऊपर सफ़ेद सILITIES है, जो हवा में उड़ते मक्खियों को पकड़ता है।",
       "example": "Mucharka plamista została zauważona w ogrodzie wczoraj, łapie muchy od tygodni, i będzie łapać więcej much jutro.",
       "example_translation": "चित्तीदार मक्खी पकड़ने वाला कल बगीचे में देखा गया था, वह कई हफ्ते से मक्खियां पकड़ता आ रहा है, और कल फिर से अधिक मक्खियां पकड़ेगा।",
-      "imageLink": "spotted-flycatcher.jpg",
+      "imageLink": "image_files\\English\\spotted-flycatcher.jpg",
       "audioLink": "spotted flycatcher.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "एक बड़ा, धूसर-भूरा रंग का पक्षी जिसके सिर पर काला टोपी और सफ़ेद चित्तीदार है, जो नट को तोड़ कर उन्हें खाता है।",
       "example": "Szczeciak rozłupał wczoraj orzech włoski, łamie orzechy od miesięcy, i będzie szukał więcej orzechów jutro.",
       "example_translation": "चित्तीदार नटखोड़ा ने कल एक अखरॉट खोला था, वह कई महीने से नटखोड़ा कर रहा है, और कल फिर से अधिक नट देखेगा।",
-      "imageLink": "spotted-nutcracker.jpg",
+      "imageLink": "image_files\\English\\spotted-nutcracker.jpg",
       "audioLink": "spotted nutcracker.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "एक छोटा से मedium आकार का पासरीन पक्षी जिसके पास एक छोटा सा वर्गाकार पूंछ और एक काला सिर और शरीर होता है जिसमें सफ़ेद या पीले रंग के निशान होते हैं.",
       "example": "Szczycieł siedział na przewodzie telefonicznym, głośno ćwierkając. Wczoraj, było ono widziane lecące nad głową. Do kolejnego tygodnia, zbuduje swoje gniazdo.",
       "example_translation": "मैना टेलीफ़ोन तार पर बैठा, ज़ोर से चहचहा रहा था. कल, यह ऊपर उड़ते हुए देखा गया. अगले हफ्ते तक, यह अपना घोंसला बना लेगा.",
-      "imageLink": "starling.jpg",
+      "imageLink": "image_files\\English\\starling.jpg",
       "audioLink": "starling.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "एक छोटा, तेज़ उड़ने वाला पक्षी जिसके पास एक विभाजित पूंछ और एक काला,红, या सफ़ेद प्लमेज होता है.",
       "example": "Jaskółka zbudowała swoje gniazdo pod dachem starego domu. Latem, było ono widziane latające nad farmą. Do następnej wiosny, wyjedzie do cieplejszych klimatów.",
       "example_translation": "अबाबील ने पुराने घर की छत के नीचे अपना घोंसला बनाया. पिछली गर्मी में, इसके आसपास खेत में उड़ते हुए देखा गया. अगली वसंत में, यह Гар्मी climates में प्रवास करेगा.",
-      "imageLink": "swallow.jpg",
+      "imageLink": "image_files\\English\\swallow.jpg",
       "audioLink": "swallow.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "एक छोटा, तेज़ उड़ने वाला पक्षी जिसके पास एक भूरा या धूसर प्लमेज और एक विभाजित पूंछ होता है.",
       "example": "Jerzyk szybko przelatywał nad miastem, jego rozwidlony ogon był widoczny z daleka. Wczoraj, było ono widziane siedzące na wieżowcu. Do następnego miesiąca, rozpocznie swoją migrację.",
       "example_translation": "श्वेत वुलेट ने शहर के ऊपर तेज़ी से उड़ते हुए, अपनी विभाजित पूंछ को दूर से दिखाया. कल, इसके एक महल पर बैठे हुए देखा गया. अगले महीने तक, यह अपना प्रवास शुरू कर देगा.",
-      "imageLink": "swift.jpg",
+      "imageLink": "image_files\\English\\swift.jpg",
       "audioLink": "swift.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "एक मध्यम आकार का उल्लू जिसके पास एक भूरा या लाल-भूरा प्लमेज और एक विशेष हुक होता है.",
       "example": "Puchacz siedział na gałęzi, obserwując swoją zdobycz. Wczoraj, było ono widziane latające cicho przez las. Do następnej zimy, wyrośnie nowe pióra.",
       "example_translation": "टर्नी उल्लू ने एक शाखा पर बैठा, अपने शिकार को देखा. पिछली रात, इसके जंगल में चुपचाप उड़ते हुए देखा गया. अगली सर्दी तक, यह अपने नए पंख उगा लेगा.",
-      "imageLink": "tawny-owl.jpg",
+      "imageLink": "image_files\\English\\tawny-owl.jpg",
       "audioLink": "tawny owl.mp3"
     }
   ]

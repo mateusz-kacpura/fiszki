@@ -9,7 +9,7 @@
       "definition_translation": "Un pettine è uno strumento utilizzato per sistemare o lisciare i capelli",
       "example": "Ich kämmte mein Haar gestern, ich kämme es jetzt und ich werde es morgen kämmen.",
       "example_translation": "Ho pettinato i miei capelli ieri, sto pettinando ora e pettinerò domani.",
-      "imageLink": "comb.jpg",
+      "imageLink": "image_files\\English\\comb.jpg",
       "audioLink": "comb.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Uno shampoo è una sostanza liquida o gelatinosa utilizzata per lavare i capelli",
       "example": "Ich shampooete mein Haar letzte Woche, ich shampooiere es jetzt und ich werde es nächsten Monat shampooeren.",
       "example_translation": "Ho shampooato i miei capelli la settimana scorsa, sto shampooando ora e shampooerò il mese prossimo.",
-      "imageLink": "shampoo.jpg",
+      "imageLink": "image_files\\English\\shampoo.jpg",
       "audioLink": "shampoo.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Una crema è una sostanza liquida o semisolidale spessa e ricca, spesso utilizzata nel cibo o nei cosmetici",
       "example": "Ich verwendete eine Creme auf meinem Gesicht letzte Nacht, ich verwende sie jetzt und ich werde sie morgen früh verwenden.",
       "example_translation": "Ho usato una crema sulla mia faccia la scorsa notte, sto usando ora e userò domani mattina.",
-      "imageLink": "cream-1.jpg",
+      "imageLink": "image_files\\English\\cream-1.jpg",
       "audioLink": "cream.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Una sostanza profumata applicata al corpo per prevenire l'odore del corpo. I deodoranti sono spesso utilizzati in combinazione con antitraspiranti, che aiutano a ridurre la sudorazione.",
       "example": "Ich trug Deodorant nach meinem morgendlichen Duschen auf, ich werde Deodorant vor dem Training auftragen und ich trug Deodorant nach meinem Lauf gestern auf.",
       "example_translation": "Ho applicato deodorante dopo la mia doccia mattutina, applicherò deodorante prima di andare in palestra, e ho applicato deodorante dopo la mia corsa ieri.",
-      "imageLink": "deodorant.jpg",
+      "imageLink": "image_files\\English\\deodorant.jpg",
       "audioLink": "deodorant.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Una lozione o crema idratante applicata alla pelle delle mani per ammorbidirla e proteggerla.",
       "example": "Ich verwende Handcreme jeden Morgen, meine Großmutter verwendete Handcreme, um ihre Hände weich zu halten, und sie wird Handcreme verwenden, um ihre Hände vor der Kälte zu schützen.",
       "example_translation": "Uso crema per le mani ogni mattina, mia nonna usava crema per le mani per tenerle morbide, e lei userà crema per le mani per proteggerle dal freddo.",
-      "imageLink": "hand-cream.jpg",
+      "imageLink": "image_files\\English\\hand-cream.jpg",
       "audioLink": "hand cream.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per colorare e idratare le labbra.",
       "example": "Ich trug Lippenstift vor der Party auf, meine Schwester verwendet Lippenstift, um ihr Outfit zu matchen, und sie wird Lippenstift vor ihrer Hochzeit auftragen.",
       "example_translation": "Ho applicato rossetto prima della festa, mia sorella usa rossetto per abbinarlo al suo outfit, e lei applicherà rossetto prima del suo matrimonio.",
-      "imageLink": "lipstick.jpg",
+      "imageLink": "image_files\\English\\lipstick.jpg",
       "audioLink": "lipstick.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un cosmetico applicato alle ciglia per farle apparire più lunghe, più spesse e più scure.",
       "example": "Ich trug Mascara auf meine Wimpern vor der Party auf. Gestern hatte ich Mascara auf meine Wimpern vor der Hochzeit aufgetragen. Bis Ende des Jahres werde ich Mascara auf meine Wimpern vor jeder besonderen Gelegenheit aufgetragen haben.",
       "example_translation": "Ho applicato la mascara alle mie ciglia prima della festa. Ieri, avevo applicato la mascara alle mie ciglia prima del matrimonio. Entro la fine dell'anno, avrò applicato la mascara alle mie ciglia prima di ogni occasione speciale.",
-      "imageLink": "mascara.jpg",
+      "imageLink": "image_files\\English\\mascara.jpg",
       "audioLink": "mascara.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un copertura per nascondere o proteggere il viso, tipicamente fatto di stoffa o plastica.",
       "example": "Sie trug eine Maske zur Kostümparty. Letzte Woche hatte sie eine Maske zum Arzt aufgetragen. Nächsten Monat wird sie eine Maske zur Halloween-Party tragen.",
       "example_translation": "Lei indossava una maschera alla festa in costume. La settimana scorsa, lei aveva indossato una maschera nello studio del medico. Il mese prossimo, indosserà una maschera alla festa di Halloween.",
-      "imageLink": "facial-mask.jpg",
+      "imageLink": "image_files\\English\\facial-mask.jpg",
       "audioLink": "mask.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un tipo di sostanza liquida o gelatinosa usata per pulire il corpo mentre ci si lava.",
       "example": "Ich verwendete Duschgel am Morgen. Gestern hatte ich Duschgel nach dem Training verwendet. Bis Ende der Woche werde ich Duschgel jeden Tag verwendet haben.",
       "example_translation": "Ho usato il gel doccia al mattino. Ieri, avevo usato il gel doccia dopo la palestra. Entro la fine della settimana, avrò usato il gel doccia ogni giorno.",
-      "imageLink": "shower-gel.jpg",
+      "imageLink": "image_files\\English\\shower-gel.jpg",
       "audioLink": "shower gel.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Un tipo di crema o lozione idratante utilizzata per ammorbidire e lenire la pelle, spesso applicata dopo la doccia o il bagno.",
       "example": "Ich trage Körperbalsam nach dem Duschen auf, um meine Haut feucht zu halten. Gestern trug ich Körperbalsam nach dem Sonnenbad auf, um meine Sonnenbrand zu lindern. Morgen werde ich Körperbalsam nach dem Training auftragen, um mich zu verwöhnen.",
       "example_translation": "Applico il balsamo per il corpo dopo la doccia per mantenere la mia pelle idratata. Ieri, ho applicato il balsamo per il corpo dopo la cura solare per lenire il mio scottatura. Domani, applicherò il balsamo per il corpo dopo l'esercizio per farmi coccolare.",
-      "imageLink": "body-balm.jpg",
+      "imageLink": "image_files\\English\\body-balm.jpg",
       "audioLink": "body balm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un piccolo padtoncino rotondo fatto di cotone, utilizzato per applicare o rimuovere trucco, smalto per unghie o altri cosmetici.",
       "example": "Ich benutzte ein Wattepad, um meinen Nagellack letzte Nacht zu entfernen. Heute werde ich ein Wattepad verwenden, um Toner auf meine Haut aufzutragen. Gestern benutzte meine Schwester ein Wattepad, um Lidschatten aufzutragen.",
       "example_translation": "Ho usato un dischetto di cotone per rimuovere lo smalto dalle unghie la scorsa notte. Oggi, userò un dischetto di cotone per applicare il tonico sulla mia pelle. Ieri, mia sorella ha usato un dischetto di cotone per applicare l'ombretto.",
-      "imageLink": "make-up-cotton-pad.jpg",
+      "imageLink": "image_files\\English\\make-up-cotton-pad.jpg",
       "audioLink": "cotton pad.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un dispositivo che utilizza lame rotanti o un meccanismo vibrante per tagliare i capelli, alimentato dall'elettricità.",
       "example": "Mein Vater verwendet jeden Morgen einen Elektorasierer, um sich zu rasieren. Gestern kaufte ich einen neuen Elektorasierer, um meinen alten zu ersetzen. Bis nächstem Jahr werde ich meinen Elektorasierer fünf Jahre lang benutzt haben.",
       "example_translation": "Mio padre usa un rasoio elettrico per radersi ogni mattina. Ieri, ho comprato un nuovo rasoio elettrico per sostituire il mio vecchio. Entro il prossimo anno, avrò usato il mio rasoio elettrico per cinque anni.",
-      "imageLink": "electric-razor.jpg",
+      "imageLink": "image_files\\English\\electric-razor.jpg",
       "audioLink": "electric razor.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un estratto concentrato di pianta che contiene l'essenza di una pianta, utilizzato in aromaterapia e profumeria.",
       "example": "Ich verwendete Ätherisches Öl in meiner Massage-Therapiesitzung, um meine Muskeln zu entspannen. Ich werde Ätherisches Öl in meinem Bad heute Nacht verwenden, um mich zu entspannen. Ich hatte Ätherisches Öl in meinen hausgemachten Hautpflegemitteln letzte Woche verwendet.",
       "example_translation": "Ho usato olio essenziale nella mia seduta di terapia di massaggio per rilassare i miei muscoli. Userò olio essenziale nel mio bagno stasera per rilassare. Avevo usato olio essenziale nei miei prodotti di skincare fatti in casa la scorsa settimana.",
-      "imageLink": "essential-oil.jpg",
+      "imageLink": "image_files\\English\\essential-oil.jpg",
       "audioLink": "essential oil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Uno strumento di bellezza utilizzato per arricciare e modellare le ciglia, dandone un aspetto più drammatico e occhi aperti.",
       "example": "Ich verwendete eine Wimpernzange, um Volumen zu meinen Wimpern hinzuzufügen, bevor ich Mascara auftrug. Sie verwendet jeden Morgen eine Wimpernzange, um ein wacheres Aussehen zu erzielen. Sie hatten in ihrem Makeup-Tutorial eine Wimpernzange verwendet, um ein natürliches Aussehen zu erzielen.",
       "example_translation": "Ho usato un cicladi forbici per aggiungere volume alle mie ciglia prima di applicare il mascara. Lei utilizza un cicladi forbici ogni mattina per ottenere un aspetto più sveglio. Avevano usato un cicladi forbici nel loro tutorial sulla makeup per creare un look naturale.",
-      "imageLink": "eyelash-curler.jpg",
+      "imageLink": "image_files\\English\\eyelash-curler.jpg",
       "audioLink": "eyelash curler.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Una sostanza chimica utilizzata per cambiare il colore dei capelli, disponibile in vari toni e tipi.",
       "example": "Ich werde Haarfärbemittel verwenden, um meine Haarfarbe für den Sommer zu ändern. Sie verwendete Haarfärbemittel, um ihre grauen Haare zu überdecken und jünger auszusehen. Sie hatten Haarfärbemittel verwendet, um ein buntes und leuchtendes Aussehen für das Festival zu erzielen.",
       "example_translation": "Userò tintura per capelli per cambiare il colore dei miei capelli per l'estate. Lei ha usato tintura per capelli per coprire i suoi capelli grigi e sembrare più giovane. Avevano usato tintura per capelli per ottenere un look audace e vibrante per il festival.",
-      "imageLink": "hair-dye.jpg",
+      "imageLink": "image_files\\English\\hair-dye.jpg",
       "audioLink": "hair dye.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un tamponatore per unghie è uno strumento utilizzato per dare forma e levigare i bordi delle unghie dei piedi o delle mani.",
       "example": "Ich verwendete eine Nagelfeile, um meine rauen Nägel zu glätten. Gestern hatte ich sie verwendet, um meine Zehennägel zu formen. Wenn ich Zeit habe, werde ich sie morgen verwenden, um meine Fingernägel zu pflegen.",
       "example_translation": "Ho usato un tamponatore per unghie per levigare le mie unghie ruvide. Ieri, l'avevo usato per dare forma alle mie unghie dei piedi. Se avrò tempo, userò per lucidare le mie unghie dei piedi domani.",
-      "imageLink": "nail-buffer.jpg",
+      "imageLink": "image_files\\English\\nail-buffer.jpg",
       "audioLink": "nail buffer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un tagliaunghie è uno strumento piccolo utilizzato per tagliare e accorciare le unghie dei piedi o delle mani.",
       "example": "Meine Nagelschere ist rostig und muss ersetzt werden. Sie verwendete ihre Nagelschere, um ihre Zehennägel zu kürzen. Er wird eine Nagelschere verwenden, um seine Fingernägel morgen zu kürzen.",
       "example_translation": "Il mio tagliaunghie è arrugginito e ha bisogno di essere sostituito. Lei ha usato il suo tagliaunghie per accorciare le sue unghie dei piedi. Lui userà un tagliaunghie per tagliare le sue unghie dei piedi domani.",
-      "imageLink": "nail-clipper.jpg",
+      "imageLink": "image_files\\English\\nail-clipper.jpg",
       "audioLink": "nail clipper.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una lima per unghie è uno strumento utilizzato per dare forma e levigare la superficie delle unghie dei piedi o delle mani.",
       "example": "Ich brauche eine Nagelfile, um meine Nägel zu formen. Sie hat eine Nagelfile verwendet, um ihre Zehennägel zu glätten. Er verwendete eine Nagelfile, um seinen kaputten Nagel zu reparieren.",
       "example_translation": "Ho bisogno di una lima per unghie per dare forma alle mie unghie. Lei ha usato una lima per unghie per levigare le sue unghie dei piedi. Lui ha usato una lima per unghie per riparare la sua unghia rotta.",
-      "imageLink": "nail-file.jpg",
+      "imageLink": "image_files\\English\\nail-file.jpg",
       "audioLink": "nail file.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un utensile da cucina composto da una lama piatta e larga con un manico, usato per raschiare, girare e servire cibo.",
       "example": "Sie verwendete einen Spatel, um die Pfannkuchen umzudrehen. Sie hat einen Spatel verwendet, um die Seiten des Schüssels abzuschaben. Sie wird einen Spatel verwenden, um den Kuchen zu servieren.",
       "example_translation": "Lei ha usato una spatola per girare le pancakes. Ha usato una spatola per raschiare i lati della ciotola. Userà una spatola per servire la torta.",
-      "imageLink": "spatula.jpg",
+      "imageLink": "image_files\\English\\spatula.jpg",
       "audioLink": "spatula.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un prodotto cosmetico che combina i benefici di un idratante con un colore tenero per migliorare l'aspetto della pelle.",
       "example": "Sie applizierte eine tönende Feuchtcreme, um ihre Hauttönung auszugleichen. Sie hat eine tönende Feuchtcreme verwendet, um ihre Haut zu feuchten. Sie wird eine tönende Feuchtcreme verwenden, um ein natürliches Aussehen zu erzielen.",
       "example_translation": "Lei ha applicato un idratante colorato per uniformare il tono della pelle. Ha usato un idratante colorato per idratare la sua pelle. Userà un idratante colorato per apparire più naturale.",
-      "imageLink": "tinted-moisturiser.jpg",
+      "imageLink": "image_files\\English\\tinted-moisturiser.jpg",
       "audioLink": "tinted moisturiser.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un dispositivo o accessorio piccolo usato per separare le dita dei piedi, solitamente per alleviare la pressione o il disagio, o per aiutare nell'allineamento delle dita dei piedi.",
       "example": "Sie benutzte einen Zehentrenner, um Druck auf ihre Zehen zu lindern. Sie hatte einen Zehentrenner verwendet, um ihre Zehen zu justieren. Sie wird einen Zehentrenner verwenden, um Unbehagen während ihres Wanderurlaubs zu lindern.",
       "example_translation": "Lei ha usato un separatore per dita dei piedi per alleviare la pressione sui suoi piedi. Ha usato un separatore per dita dei piedi per aiutare nell'allineamento delle sue dita dei piedi. Userà un separatore per dita dei piedi per alleviare il disagio durante la sua escursione.",
-      "imageLink": "toe-separator.jpg",
+      "imageLink": "image_files\\English\\toe-separator.jpg",
       "audioLink": "toe separator.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un liquido o gel applicato sulla pelle dopo la rasatura per idratare e calmare.",
       "example": "Ich benutze immer Nachrasierwasser nach dem Rasieren, ich benutzte Nachrasierwasser gestern, ich werde Nachrasierwasser morgen benutzen.",
       "example_translation": "Io uso sempre il dopobarba dopo la rasatura, ho usato il dopobarba ieri, userò il dopobarba domani.",
-      "imageLink": "aftershave.jpg",
+      "imageLink": "image_files\\English\\aftershave.jpg",
       "audioLink": "aftershave.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un polvere o crema cosmetica usata per dare alle guance un colore sano, rosato.",
       "example": "Sie trug Rouge auf ihre Wangen auf, Sie hatte Rouge auf ihre Wangen aufgetragen, Sie wird Rouge auf ihre Wangen auftragen.",
       "example_translation": "Lei ha applicato il fard alle guance, aveva applicato il fard alle guance, applicherà il fard alle guance.",
-      "imageLink": "blusher.jpg",
+      "imageLink": "image_files\\English\\blusher.jpg",
       "audioLink": "blusher.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un prodotto cosmetico usato per rimuovere le cellule della pelle morta dal corpo.",
       "example": "Ich benutze Körperpeeling jede Woche, ich benutzte Körperpeeling letzte Woche, ich werde Körperpeeling nächste Woche benutzen.",
       "example_translation": " Io uso esfoliante corpo ogni settimana, ho usato esfoliante corpo la settimana scorsa, userò esfoliante corpo la prossima settimana.",
-      "imageLink": "scrub.jpg",
+      "imageLink": "image_files\\English\\scrub.jpg",
       "audioLink": "body scrub.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un bagno riempito di una miscela di acqua e sapone o detergente, utilizzato per il relax e il piacere.",
       "example": "Ich nahm ein Schaumbad, um mich nach einem langen Tag zu entspannen, ich werde ein Schaumbad morgen nehmen, um mich selbst zu verwöhnen, Sie nahm ein Schaumbad gestern, um ihre Muskeln zu beruhigen.",
       "example_translation": "Ho fatto un bagno di schiuma per rilassarmi dopo una lunga giornata, farò un bagno di schiuma domani per coccolarmi, lei ha fatto un bagno di schiuma ieri per lenire i suoi muscoli.",
-      "imageLink": "bubble-bath.jpg",
+      "imageLink": "image_files\\English\\bubble-bath.jpg",
       "audioLink": "bubble bath.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Fornendo molte informazioni o valore in uno spazio o tempo limitati.",
       "example": "Das kompakte Design des neuen Smartphones ist atemberaubend, ich werde ein kompakt Auto nächstes Jahr kaufen, Sie hat eine kompakte Schönheitsroutine, die nur 10 Minuten dauert.",
       "example_translation": "Il design compatto del nuovo smartphone è fantastico, comprerò una macchina compatto l'anno prossimo, lei ha una routine di bellezza compatto che richiede solo 10 minuti.",
-      "imageLink": "compact.jpg",
+      "imageLink": "image_files\\English\\compact.jpg",
       "audioLink": "compact.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per coprire imperfezioni o imperfezioni sulla pelle.",
       "example": "Sie applied eine Abdeckcreme, um die dunklen Ringe unter ihren Augen zu überdecken, ich benutze eine Abdeckcreme, um meine Aknenarben zu verbergen, Die Visagistin benutzte eine Abdeckcreme, um ihre Hauttönung auszugleichen.",
       "example_translation": "Lei ha applicato un correttore per coprire i cerchi scuri sotto gli occhi, uso un correttore per nascondere le mie cicatrici acneiche, il truccatore ha utilizzato un correttore per uniformare il suo tono di pelle.",
-      "imageLink": "concealer.jpg",
+      "imageLink": "image_files\\English\\concealer.jpg",
       "audioLink": "concealer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Piccole padelle di cotone su un bastoncino, usate per applicare o rimuovere trucchi, pulire le orecchie o applicare unguenti.",
       "example": "Ich benutzte Wattestäbchen, um Eyeliner gestern aufzutragen, ich benutze sie heute, um meine Ohren zu reinigen, und ich werde sie morgen benutzen, um eine Salbe aufzutragen.",
       "example_translation": "Ho usato le bacchette cotone per applicare eyeliner ieri, le uso per pulire le mie orecchie oggi e le userò per applicare unguento domani.",
-      "imageLink": "cotton-buds.jpg",
+      "imageLink": "image_files\\English\\cotton-buds.jpg",
       "audioLink": "cotton buds.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un dispositivo usato per modellare e sistemare i capelli in riccioli o onde.",
       "example": "Ich lockte mein Haar mit einem Lockenstab gestern, ich werde es heute verwenden, um meine Haare für die Party zu stylen, und ich benutzte es, um lockig-welliges Haar letzte Woche zu kreieren.",
       "example_translation": "Ho ricciolato i miei capelli con un arricciatore ieri, lo userò per sistemare i miei capelli per la festa oggi e l'ho usato per creare onde beachy la scorsa settimana.",
-      "imageLink": "curler.jpg",
+      "imageLink": "image_files\\English\\curler.jpg",
       "audioLink": "curler.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un dispositivo riscaldato usato per ricciolare o sistemare i capelli, solitamente composto da una barra metallica con un manico.",
       "example": "Ich lockte mein Haar mit einem Lockenstab gestern, meine Schwester wird es heute verwenden, um ihre Haare für die Hochzeit zu stylen, und ich benutzte es, um eng lockige Haare letzten Monat zu kreieren.",
       "example_translation": "Ho ricciolato i miei capelli con un ferro per ricci ieri, mia sorella lo userà per sistemare i suoi capelli per il matrimonio oggi e l'ho usato per creare ricci stretti il mese scorso.",
-      "imageLink": "curling-iron.jpg",
+      "imageLink": "image_files\\English\\curling-iron.jpg",
       "audioLink": "curling iron.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un paio di strumenti simili a forbici usati per tagliare e modellare le cuticole attorno alle unghie delle dita dei piedi e delle mani.",
       "example": "Sie benutzte Nagelhauthzange, um ihre Haut zu stutzen, dann applizierte sie ein Feuchtigkeitsserum, um sie weich zu machen. Sie hatte gestern Nagelhauthzange verwendet, um sich auf das Nagellack-Applizieren vorzubereiten. Sie wird morgen Nagelhauthzange verwenden, um ihre Nagelpflege-Routine aufrechtzuerhalten.",
       "example_translation": "Ha usato forbici per cuticole per tagliare le sue cuticole, poi ha applicato un umidificante per ammorbidirle. Aveva usato forbici per cuticole ieri per prepararsi all'applicazione dello smalto.Userà forbici per cuticole domani per mantenere la sua routine di cura delle unghie.",
-      "imageLink": "cuticle-nippers.jpg",
+      "imageLink": "image_files\\English\\cuticle-nippers.jpg",
       "audioLink": "cuticle nippers.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": " Uno strumento utilizzato per spingere indietro con delicatezza le cuticole sulle dita dei piedi e delle mani per rimuovere la pelle morta e promuovere la crescita delle unghie sane.",
       "example": "Die Nageltechnikerin benutzte einen Hauthüfter, um die Haut ihrer Klientin zurückzuschieben. Sie hatte gestern einen Hauthüfter verwendet, um tote Hautzellen von ihren eigenen Fingern zu entfernen. Sie wird nächste Woche einen Hauthüfter verwenden, um sich auf ihren Nagelkunst-Termin vorzubereiten.",
       "example_translation": "La tecnica di unghie ha usato uno spingicuta per spingere indietro con delicatezza le cuticole del suo cliente. Aveva usato uno spingicuta ieri per rimuovere la pelle morta dalle sue dita. Userà uno spingicuta la prossima settimana per prepararsi all'appuntamento per l'arte delle unghie.",
-      "imageLink": "cuticle-pusher.jpg",
+      "imageLink": "image_files\\English\\cuticle-pusher.jpg",
       "audioLink": "cuticle pusher.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Una soluzione chimica o crema utilizzata per sciogliere e rimuovere le cellule della pelle morta dalle cuticole, promuovendo la crescita e l'aspetto delle unghie sane.",
       "example": "Die Nagelpflege-Professionelle applizierte einen Hautentferner, um tote Hautzellen zu weichen. Sie hatte gestern einen Hautentferner verwendet, um sich auf das Nagellack-Applizieren vorzubereiten. Sie wird nächsten Monat einen Hautentferner verwenden, um ihre Nagelgesundheit aufrechtzuerhalten.",
       "example_translation": "Il professionista della cura delle unghie ha applicato un rimuovi cuticole per ammorbidire la pelle morta. Aveva usato un rimuovi cuticole ieri per preparare le sue unghie all'applicazione dello smalto. Userà un rimuovi cuticole il prossimo mese per mantenere la salute delle sue unghie.",
-      "imageLink": "cuticle-remover.jpg",
+      "imageLink": "image_files\\English\\cuticle-remover.jpg",
       "audioLink": "cuticle remover.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per rimuovere i peli inutili dalla pelle, solitamente utilizzato sulle gambe, ascelle e linea bikini.",
       "example": "Ich benutzte eine Enthaarungscreme, um meine unerwünschte Körperbehaarung vor dem Strandbesuch zu entfernen. Gestern kaufte ich eine neue Enthaarungscreme im Laden. Nächste Woche werde ich eine Enthaarungscreme auf meine Beine auftragen.",
       "example_translation": "Ho usato una crema depilatoria per rimuovere i peli inutili del mio corpo prima di andare al mare. Ieri, ho comprato una nuova crema depilatoria al negozio. La prossima settimana, applicherò una crema depilatoria alle mie gambe.",
-      "imageLink": "depilatory-cream.jpg",
+      "imageLink": "image_files\\English\\depilatory-cream.jpg",
       "audioLink": "depilatory cream.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uno strumento cosmetico utilizzato per dare forma e definire le sopracciglia, solitamente utilizzato per riempire aree sparse o creare una forma più definita.",
       "example": "Sie benutzte einen Augenbrauenstift, um ihre sparse Augenbrauen aufzufüllen. Er kaufte einen Augenbrauenstift im Laden, um seine Augenbrauen zu definieren. In Zukunft werde ich einen Augenbrauenstift verwenden, um meine Augenbrauen zu formen.",
       "example_translation": "Lei ha usato una maticina per sopracciglia per riempire le sue sopracciglia sparse. Lui ha comprato una maticina per sopracciglia al negozio per definire le sue sopracciglia. Nel futuro, userò una maticina per sopracciglia per dare forma alle mie sopracciglia.",
-      "imageLink": "eyebrow-pencil.jpg",
+      "imageLink": "image_files\\English\\eyebrow-pencil.jpg",
       "audioLink": "eyebrow pencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per definire e migliorare la forma degli occhi, solitamente applicato sulla linea delle ciglia superiori per creare un effetto più drammatico.",
       "example": "Sie applizierte Eyeliner auf ihre obere Wimperlinie, um einen dramatischen Effekt zu erzeugen. Gestern kaufte ich einen neuen Eyeliner im Laden. Nächste Woche werde ich Eyeliner verwenden, um meine Augen zu definieren.",
       "example_translation": "Lei ha applicato eyeliner sulla linea delle ciglia superiori per creare un effetto drammatico. Ieri, ho comprato un nuovo eyeliner al negozio. La prossima settimana, userò un eyeliner per definire i miei occhi.",
-      "imageLink": "eyeliner.jpg",
+      "imageLink": "image_files\\English\\eyeliner.jpg",
       "audioLink": "eyeliner.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per aggiungere colore e ombreggiatura alle palpebre, spesso in forma di polvere o crema.",
       "example": "Sie applizierte Lidschatten auf ihre Augenlider, um ihre Züge zu betonen. Sie wird heute Abend Lidschatten auf ihre Augenlider auftragen. Gestern hatte sie Lidschatten auf ihre Augenlider aufgetragen.",
       "example_translation": "Ha applicato ombretto alle palpebre per esaltare le sue caratteristiche. Applicherà ombretto alle palpebre stasera. Aveva applicato ombretto alle palpebre ieri.",
-      "imageLink": "eyeshadow.jpg",
+      "imageLink": "image_files\\English\\eyeshadow.jpg",
       "audioLink": "eyeshadow.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Un dispositivo utilizzato per stirare o stilare i capelli, di solito utilizzando calore.",
       "example": "Sie benutzt einen Glätter, um ihr Haar jeden Morgen zu glätten. Sie wird einen Glätter verwenden, um ihr Haar für die Party zu stylen. Gestern hatte sie einen Glätter verwendet, um ihr Haar zu locken.",
       "example_translation": "Usa un ferro da stiro per stirare i capelli ogni mattina. Userà un ferro da stiro per styling i capelli per la festa. Aveva usato un ferro da stiro per arricciare i capelli la scorsa notte.",
-      "imageLink": "flat-iron.jpg",
+      "imageLink": "image_files\\English\\flat-iron.jpg",
       "audioLink": "flat iron.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per migliorare la texture e la gestibilità dei capelli, spesso dopo lo shampoo.",
       "example": "Sie appliziert ein Haarpflegemittel nach dem Shampoo, um ihr Haar weich zu halten. Sie wird heute Abend ein Haarpflegemittel verwenden, um ihr Haar zu entwirren. Gestern hatte sie ein Haarpflegemittel verwendet, um ihr Haar zu feucht zu halten.",
       "example_translation": "Applica un balsamo per capelli dopo lo shampoo per mantenere i capelli morbidi. Userà un balsamo per capelli per districare i capelli stasera. Aveva usato un balsamo per capelli per idratare i capelli ieri.",
-      "imageLink": "hair-conditioner.jpg",
+      "imageLink": "image_files\\English\\hair-conditioner.jpg",
       "audioLink": "hair conditioner.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un prodotto per lo styling dei capelli usato per aggiungere volume, texture e tenuta ai capelli, spesso in forma di schiuma leggera e aerea.",
       "example": "Ich benutzte Haarschaum, um mein Haar für die Party zu stylen, es war voluminös und hielt den ganzen Abend. Ich werde es morgen wieder verwenden, um mein Haar für die Hochzeit zu stylen. Ich habe es schon Jahre lang verwendet und es hat mich nie im Stich gelassen.",
       "example_translation": "Ho usato la mousse per capelli per styling i miei capelli per la festa, era voluminoso e ha mantenuto tutta la notte. Lo userò di nuovo domani per il matrimonio. L'ho usato per anni e non mi ha mai deluso.",
-      "imageLink": "hair-mousse.jpg",
+      "imageLink": "image_files\\English\\hair-mousse.jpg",
       "audioLink": "hair mousse.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un prodotto cosmetico usato per tenere in posto un taglio di capelli, spesso in forma di spray applicato ai capelli.",
       "example": "Ich verwendete Haarspray, um meine Haare an einem windigen Tag in Position zu halten, es war sehr effektiv. Ich werde es morgen wieder verwenden. Ich habe es über Jahre hinweg verwendet und es funktioniert immer.",
       "example_translation": "Ho usato la lacca per capelli per mantenere i miei capelli in posto durante il giorno ventoso, era molto efficace. Lo userò di nuovo domani per l'evento all'aperto. L'ho usato per anni e funziona sempre.",
-      "imageLink": "hair-spray.jpg",
+      "imageLink": "image_files\\English\\hair-spray.jpg",
       "audioLink": "hair spray.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un prodotto topico usato per idratare e proteggere le labbra, spesso contenente ingredienti come cera d'api, canfora e vaselina.",
       "example": "Ich trat Lippenbalsam auf meine trockenen Lippen auf, es war beruhigend und feuchtend. Ich werde es morgen wieder auftragen, bevor ich auf dem Wanderweg gehe. Ich habe es über Jahre hinweg verwendet und es hilft immer.",
       "example_translation": "Ho applicato il balsamo per labbra alle mie labbra secche, era lenitivo e idratante. Lo applicherò di nuovo domani prima della escursione. L'ho usato per anni e sempre aiuta.",
-      "imageLink": "lip-balm.jpg",
+      "imageLink": "image_files\\English\\lip-balm.jpg",
       "audioLink": "lip balm.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per dare colore e umidità alle labbra, spesso profumato o con gusto.",
       "example": "Sie trug Lipgloss auf, bevor sie zur Party ging, ich trage jeden Morgen Lipgloss auf, sie wird nach dem Frühstück Lipgloss auftragen.",
       "example_translation": "Ha applicato il balsamo labiale prima di andare alla festa, Applico il balsamo labiale ogni mattina, Applicherà il balsamo labiale dopo colazione.",
-      "imageLink": "lip-gloss.jpg",
+      "imageLink": "image_files\\English\\lip-gloss.jpg",
       "audioLink": "lip gloss.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un prodotto cosmetico utilizzato per definire e modellare i contorni delle labbra, spesso utilizzato per creare una forma precisa o per correggere le labbra storte.",
       "example": "Sie verwendet einen Lippenkonturenstift, um einen Katzenaugeneffekt zu erzielen, ich verwende einen Lippenkonturenstift, um meine ungleichmäßigen Lippen zu korrigieren, sie wird einen Lippenkonturenstift verwenden, um ihre Lippenform zu definieren.",
       "example_translation": "Lei utilizza un contornatore di labbra per creare l'effetto di un occhio di gatto, Utilizzo un contornatore di labbra per correggere le mie labbra storte, Utilizzerà un contornatore di labbra per definire la forma delle sue labbra.",
-      "imageLink": "lip-liner.jpg",
+      "imageLink": "image_files\\English\\lip-liner.jpg",
       "audioLink": "lip liner.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un tipo di trucco fondotinta che è in forma liquida, spesso utilizzato per offrire una copertura da leggera a media e un aspetto naturale.",
       "example": "Sie trägt flüssigen Make-up mit einem Pinsel auf, ich verwende flüssigen Make-up, um meine Hauttönung auszugleichen, sie wird flüssiges Make-up zur Hochzeit tragen.",
       "example_translation": "Lei applica il fondotinta liquido con un pennello, Utilizzo il fondotinta liquido per uniformare il mio tono della pelle, Indosserà il fondotinta liquido al matrimonio.",
-      "imageLink": "liquid-foundation.jpg",
+      "imageLink": "image_files\\English\\liquid-foundation.jpg",
       "audioLink": "liquid foundation.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Una polvere cosmetica che non è stata premuta o compattata, utilizzata per assorbire l'olio in eccesso e fissare il trucco.",
       "example": "Sie trug eine Schicht Puder auf, um ihr Make-up zu fixieren, dann ging sie ihren Freunden entgegen. Sie hatte es gestern aufgetragen, und jetzt sieht ihre Haut glatt aus. Sie wird es morgen wieder auftragen.",
       "example_translation": "Ha applicato uno strato di polvere libera per fissare la sua fondotinta, poi è uscita per incontrare i suoi amici. L'aveva applicato ieri, e ora la sua pelle sembra liscia. Applicherà di nuovo domani.",
-      "imageLink": "loose-powder.jpg",
+      "imageLink": "image_files\\English\\loose-powder.jpg",
       "audioLink": "loose powder.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Una piccola spazzola utilizzata per pulire sotto le unghie o per applicare lo smalto per unghie.",
       "example": "Sie verwendet eine Nagelbürste, um jeden Morgen unter ihren Nägeln sauber zu machen. Sie hatte es gestern verwendet, um den alten Nagellack zu entfernen. Sie wird es morgen wieder verwenden, um einen neuen Lack aufzutragen.",
       "example_translation": "Usa una spazzola per unghie per pulire sotto le sue unghie ogni mattina. L'ha usata ieri per rimuovere lo smalto per unghie vecchio. La userà di nuovo domani per applicare un nuovo strato.",
-      "imageLink": "nail-brush.jpg",
+      "imageLink": "image_files\\English\\nail-brush.jpg",
       "audioLink": "nail brush.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Un liquido, gel o crema cosmetica utilizzata per colorare e decorare le unghie.",
       "example": "Sie trug letzte Nacht eine Schicht Nagellack auf, und jetzt sehen ihre Nägel schön aus. Sie hatte gestern einen anderen Farbton aufgetragen, und es war atemberaubend. Sie wird morgen einen neuen Farbton auftragen.",
       "example_translation": "Ha applicato uno strato di smalto per unghie ieri sera, e ora le sue unghie sembrano belle. Aveva applicato un colore diverso ieri, e era stupefacente. Applicherà un nuovo colore domani.",
-      "imageLink": "nail-polish.jpg",
+      "imageLink": "image_files\\English\\nail-polish.jpg",
       "audioLink": "nail polish.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un liquido o crema usato per sciogliere e rimuovere lo smalto vecchio dalle unghie.",
       "example": "Sie verwendete einen Nagellackentferner, um den alten roten Lack zu entfernen. Sie wird es morgen wieder verwenden. Sie hatte es letzte Woche verwendet.",
       "example_translation": "Lei ha usato un rimuovi smalto per togliere via lo smalto rosso vecchio. Lo userà di nuovo domani. Aveva usato la settimana scorsa.",
-      "imageLink": "nail-polish-remover.jpg",
+      "imageLink": "image_files\\English\\nail-polish-remover.jpg",
       "audioLink": "nail polish remover.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Un morbido pad rotondo usato per applicare la cipria sul viso e sul corpo.",
       "example": "Sie brauchte eine Puderquaste, um ihr Make-up zu fixieren. Sie wird eine neue nächste Woche kaufen. Sie hatte es gestern verwendet.",
       "example_translation": "Lei aveva bisogno di un piumino da cipria per sistemare il suo trucco. Comprerà uno nuovo la settimana prossima. Lo aveva usato ieri.",
-      "imageLink": "powder-puff.jpg",
+      "imageLink": "image_files\\English\\powder-puff.jpg",
       "audioLink": "powder puff.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un tipo di cipria cosmetica che viene compressa in una forma compatta e usata per assorbire l'olio in eccesso e sistemare il trucco.",
       "example": "Sie benutzte Puder, um ihr Fundament zu fixieren. Sie wird es heute Abend wieder anwenden. Sie hatte es heute Morgen benutzt.",
       "example_translation": "Lei ha usato la cipria compressa per sistemare la sua fondotinta. La applicherà di nuovo stasera. L'aveva usata stamattina.",
-      "imageLink": "pressed-powder.jpg",
+      "imageLink": "image_files\\English\\pressed-powder.jpg",
       "audioLink": "pressed powder.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Un primer è una sostanza applicata su una superficie prima di pitturare o rivestire per migliorare l'adesione e la copertura.",
       "example": "Der Künstler applizierte einen Primer auf die Leinwand, bevor er anfing zu malen. Sie hatte den Primer gestern auf die Wand aufgetragen. Der Maler wird den Primer morgen auf die Oberfläche auftragen.",
       "example_translation": "L'artista ha applicato un primer sulla tela prima di iniziare a dipingere. Aveva preparato il muro ieri. Il pittore primerà la superficie domani.",
-      "imageLink": "primer.jpg",
+      "imageLink": "image_files\\English\\primer.jpg",
       "audioLink": "primer.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Una pietra pomice è una pietra abrasiva naturale utilizzata per levigare e dar forma a superfici, in particolare in bellezza e toeletta.",
       "example": "Die Kosmetikerin benutzte einen Lavastein, um die Haut des Kunden zu peelen. Sie hatte einen Lavastein benutzt, um tote Hautzellen gestern zu entfernen. Der Pediküre wird einen Lavastein verwenden, um die Hornhaut zu glätten.",
       "example_translation": "L'estetista ha utilizzato una pietra pomice per esfoliare la pelle del cliente. Aveva usato una pietra pomice per rimuovere le cellule cutanee morte ieri. Il pedicurista userà una pietra pomice per levigare le callosità domani.",
-      "imageLink": "pumice-stone.jpg",
+      "imageLink": "image_files\\English\\pumice-stone.jpg",
       "audioLink": "pumice stone.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Una spazzola da barba è una spazzola utilizzata per applicare crema o sapone da barba sulla pelle durante la rasatura.",
       "example": "Er benutzte einen Rasierpinsel, um sein Gesicht vor dem Rasieren einzuschäumen. Sie hatte einen Rasierpinsel benutzt, um Rasiercreme gestern aufzutragen. Der Friseur wird einen Rasierpinsel verwenden, um den Bart des Kunden zu rasieren.",
       "example_translation": "Ha utilizzato una spazzola da barba per insaponare la faccia prima di radersi. Aveva usato una spazzola da barba per applicare la crema da barba ieri. Il barbiere userà una spazzola da barba per radersi la barba del cliente domani.",
-      "imageLink": "shaving-brush.jpg",
+      "imageLink": "image_files\\English\\shaving-brush.jpg",
       "audioLink": "shaving brush.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Un tipo di crema o schiuma utilizzata per la rasatura, solitamente applicata sulla pelle prima della rasatura per aiutare la lametta a scivolare più facilmente e ridurre l'irritazione.",
       "example": "Ich benutzte Rasierschaum auf meinem Gesicht vor dem Rasieren, ich werde Rasierschaum auf meinem Gesicht vor dem Rasieren benutzen, ich habe Rasierschaum auf meinem Gesicht vor dem Rasieren benutzt.",
       "example_translation": "Ho usato una crema da rasatura sulla mia faccia prima di radere, userò una crema da rasatura sulla mia faccia prima di radere, ho usato una crema da rasatura sulla mia faccia prima di radere.",
-      "imageLink": "shaving-cream.jpg",
+      "imageLink": "image_files\\English\\shaving-cream.jpg",
       "audioLink": "shaving cream.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Un tipo di schiuma utilizzata per la rasatura, solitamente dispensata da un contenitore e applicata sulla pelle prima della rasatura per aiutare la lametta a scivolare più facilmente e ridurre l'irritazione.",
       "example": "Ich applizierte Rasiercreme auf meinem Gesicht vor dem Rasieren, ich werde Rasiercreme auf meinem Gesicht vor dem Rasieren applizieren, ich habe Rasiercreme auf meinem Gesicht vor dem Rasieren appliziert.",
       "example_translation": "Ho applicato una schiuma da rasatura sulla mia faccia prima di radere, applicherò una schiuma da rasatura sulla mia faccia prima di radere, ho applicato una schiuma da rasatura sulla mia faccia prima di radere.",
-      "imageLink": "shaving-foam.jpg",
+      "imageLink": "image_files\\English\\shaving-foam.jpg",
       "audioLink": "shaving foam.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Un tipo di lozione o crema utilizzata per proteggere la pelle dai raggi ultravioletti del sole, spesso applicata prima di trascorrere tempo all'aperto.",
       "example": "Ich applizierte Sonnencreme auf meine Haut, bevor ich zum Strand ging, ich werde Sonnencreme auf meine Haut applizieren, bevor ich zum Strand gehe, ich habe Sonnencreme auf meine Haut appliziert, bevor ich zum Strand ging.",
       "example_translation": "Ho applicato la crema solare sulla mia pelle prima di andare in spiaggia, applicherò la crema solare sulla mia pelle prima di andare in spiaggia, ho applicato la crema solare sulla mia pelle prima di andare in spiaggia.",
-      "imageLink": "sunscreen.jpg",
+      "imageLink": "image_files\\English\\sunscreen.jpg",
       "audioLink": "sunscreen.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "uno strumento piccolo usato per pizzicare o afferrare oggetti piccoli, in particolare per utilizzo in chirurgia o lavoro di precisione",
       "example": "Ich benutzte eine Pinzette, um den Splitter aus meinem Finger zu entfernen. Ich werde eine Pinzette für mein Kunstprojekt benötigen. Sie hatte eine Pinzette benutzt, um die kleinen Teile zu trennen.",
       "example_translation": "Ho usato le pinzette per estrarre il frammento di vetro dal mio dito. Avrò bisogno di pinzette per il mio progetto artistico. Lei aveva usato le pinzette per separare le piccole parti.",
-      "imageLink": "tweezers.jpg",
+      "imageLink": "image_files\\English\\tweezers.jpg",
       "audioLink": "tweezers.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "Uma constelação do zodíaco, dito representar um porta-água. As pessoas nascidas entre 20 de janeiro e 18 de fevereiro são consideradas Aquarianos.",
       "example": "Soy Acuario, nací el 5 de febrero. Iré a una fiesta esta noche y fui a la playa ayer.",
       "example_translation": "Eu sou um Aquário, eu nasci em 5 de fevereiro. Eu irei a uma festa hoje à noite, e eu fui à praia ontem.",
-      "imageLink": "aquarius.jpg",
+      "imageLink": "image_files\\English\\aquarius.jpg",
       "audioLink": "Aquarius.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Uma constelação do zodíaco, dito representar um carneiro. As pessoas nascidas entre 21 de março e 19 de abril são consideradas Arianos.",
       "example": "Mi hermana es Aries, nació el 1 de abril. Irá al gimnasio mañana y fue al cine la semana pasada.",
       "example_translation": "Minha irmã é um Áries, ela nasceu em 1º de abril. Ela irá para a academia amanhã, e ela foi ao cinema na semana passada.",
-      "imageLink": "aries.jpg",
+      "imageLink": "image_files\\English\\aries.jpg",
       "audioLink": "Aries.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Uma constelação do zodíaco, dito representar um caranguejo. As pessoas nascidas entre 21 de junho e 22 de julho são consideradas Cânceres.",
       "example": "Mi madre es Cáncer, nació el 10 de julio. Fue al hospital ayer y irá al doctor la próxima semana.",
       "example_translation": "Minha mãe é um Câncer, ela nasceu em 10 de julho. Ela foi ao hospital ontem, e ela irá ao médico na próxima semana.",
-      "imageLink": "cancer.jpg",
+      "imageLink": "image_files\\English\\cancer.jpg",
       "audioLink": "Cancer.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Uma constelação do zodíaco, dito representar um bode. As pessoas nascidas entre 22 de dezembro e 19 de janeiro são consideradas Capricórnios.",
       "example": "Mi hermano es Capricornio, nació el 1 de enero. Fue a las montañas el año pasado y irá a la playa el próximo mes.",
       "example_translation": "Meu irmão é um Capricórnio, ele nasceu em 1º de janeiro. Ele foi às montanhas no ano passado, e ele irá à praia no próximo mês.",
-      "imageLink": "capricorn.jpg",
+      "imageLink": "image_files\\English\\capricorn.jpg",
       "audioLink": "Capricorn.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Uma constelação no hemisfério norte, representada por dois gêmeos ou irmãos.",
       "example": "En la antigüedad, los griegos creían que la constelación Géminis representaba a los gemelos Castor y Pólux. Ayer vi la constelación Géminis en el cielo. Para el próximo año, habré estudiado toda la constelación Géminis.",
       "example_translation": "Em épocas antigas, os gregos acreditavam que a constelação de Gêmeos representava os gêmeos Castor e Pólux. Ontem, eu vi a constelação de Gêmeos no céu. Até o ano que vem, eu terei estudado toda a constelação de Gêmeos.",
-      "imageLink": "gemini.jpg",
+      "imageLink": "image_files\\English\\gemini.jpg",
       "audioLink": "Gemini.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Uma constelação no hemisfério norte, representada por um leão.",
       "example": "Mi constelación favorita es Leo, porque es fácil de encontrar en el cielo. La semana pasada, vi una hermosa constelación Leo. Para el próximo mes, habré aprendido todo sobre la constelación Leo.",
       "example_translation": "Meu constelação favorita é Leão, porque é fácil de encontrar no céu. Na semana passada, eu vi uma bela constelação de Leão. Até o mês que vem, eu terei aprendido tudo sobre a constelação de Leão.",
-      "imageLink": "leo.jpg",
+      "imageLink": "image_files\\English\\leo.jpg",
       "audioLink": "Leo.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Uma constelação no hemisfério norte, representada por um par de balanças.",
       "example": "La constelación Libra es una de las más brillantes del cielo. Ayer vi la constelación Libra brillando intensamente. Para el próximo año, habré estudiado toda la constelación Libra.",
       "example_translation": "A constelação de Libra é uma das mais brilhantes no céu. Ontem, eu vi a constelação de Libra brilhando intensamente. Até o ano que vem, eu terei estudado toda a constelação de Libra.",
-      "imageLink": "libra.jpg",
+      "imageLink": "image_files\\English\\libra.jpg",
       "audioLink": "Libra.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Uma constelação no hemisfério norte, representada por um par de peixes.",
       "example": "La constelación Piscis es una de las constelaciones reconocidas más antiguas. Ayer vi la constelación Piscis en el cielo. Para el próximo mes, habré aprendido todo sobre la constelación Piscis.",
       "example_translation": "A constelação de Peixes é uma das constelações mais antigas reconhecidas. Ontem, eu vi a constelação de Peixes no céu. Até o mês que vem, eu terei aprendido tudo sobre a constelação de Peixes.",
-      "imageLink": "pisces.jpg",
+      "imageLink": "image_files\\English\\pisces.jpg",
       "audioLink": "Pisces.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "O nono signo do zodíaco, que é representado pelo símbolo do arqueiro. As pessoas nascidas entre 22 de novembro e 21 de dezembro são consideradas sagitarianas.",
       "example": "Soy Sagitario, así que me encanta viajar y explorar nuevos lugares. El año pasado, viajé a Europa, y ahora estoy planeando un viaje a Asia. El próximo año, probablemente visitaré Sudamérica.",
       "example_translation": "Eu sou um Sagitário, então eu amo viajar e explorar novos lugares. No ano passado, eu viajei para a Europa, e agora estou planejando uma viagem para a Ásia. No ano que vem, eu provavelmente visitarei a América do Sul.",
-      "imageLink": "sagittarius.jpg",
+      "imageLink": "image_files\\English\\sagittarius.jpg",
       "audioLink": "Sagittarius.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "O oitavo signo do zodíaco, que é representado pelo símbolo do escorpião. As pessoas nascidas entre 23 de outubro e 21 de novembro são consideradas escorpiões.",
       "example": "Mi amigo es Escorpio, así que es muy apasionado y intenso. Le encanta debatir y argumentar, pero también es muy leal a sus amigos. La semana pasada, se peleó con su hermano, pero se reconciliaron ayer.",
       "example_translation": "A minha amiga é um Escorpião, então ela é muito apaixonada e intensa. Ela ama debater e argumentar, mas ela também é muito leal aos seus amigos. Na semana passada, ela brigou com o seu irmão, mas eles se reconciliaram ontem.",
-      "imageLink": "scorpio.jpg",
+      "imageLink": "image_files\\English\\scorpio.jpg",
       "audioLink": "Scorpio.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "O segundo signo do zodíaco, que é representado pelo símbolo do touro. As pessoas nascidas entre 20 de abril e 20 de maio são consideradas taurinos.",
       "example": "Soy un Tauro, así que amo la estabilidad y la seguridad. He estado trabajando en la misma empresa durante cinco años, y planeo comprar una casa el año próximo. El mes pasado, fui de vacaciones al campo, y fue increíble.",
       "example_translation": "Eu sou um Touro, então eu amo estabilidade e segurança. Eu trabalhei na mesma empresa por cinco anos, e estou planejando comprar uma casa no ano que vem. No mês passado, eu fui em uma viagem para o interior, e foi incrível.",
-      "imageLink": "taurus.jpg",
+      "imageLink": "image_files\\English\\taurus.jpg",
       "audioLink": "Taurus.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "O sexto signo do zodíaco, que é representado pelo símbolo da donzela. As pessoas nascidas entre 23 de agosto e 22 de setembro são consideradas virginianas.",
       "example": "Mi hermana es una Virgen, así que es muy analítica y trabajadora. Es una perfeccionista, y siempre trata de mejorar sus habilidades. La semana pasada, comenzó un nuevo proyecto en el trabajo, y ahora está trabajando horas extra para terminarlo.",
       "example_translation": "A minha irmã é uma Virgem, então ela é muito analítica e trabalhadora. Ela é uma perfeccionista, e ela sempre tenta melhorar suas habilidades. Na semana passada, ela começou um novo projeto no trabalho, e agora ela está trabalhando hora extra para terminá-lo.",
-      "imageLink": "virgo.jpg",
+      "imageLink": "image_files\\English\\virgo.jpg",
       "audioLink": "Virgo.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um signo do zodíaco é um grupo de estrelas que, quando conectadas, formam um padrão na esfera celeste, usado para determinar o signo astrológico de uma pessoa.",
       "example": "Nací bajo el signo del zodiaco de Escorpión, mi hermana nació bajo Libra, y mi hermano nacerá bajo Capricornio. Actualmente estoy estudiando el signo del zodiaco de Cáncer, y estudié el signo del zodiaco de Leo el año pasado.",
       "example_translation": "Eu nasci sob o signo do zodíaco de Escorpião, minha irmã nasceu sob Libra, e meu irmão nascerá sob Capricórnio. Eu estou estudando atualmente o signo do zodíaco de Câncer, e eu estudei o signo do zodíaco de Leão no ano passado.",
-      "imageLink": "zodiac-sign.jpg",
+      "imageLink": "image_files\\English\\zodiac-sign.jpg",
       "audioLink": "zodiac sign.mp3"
     }
   ]

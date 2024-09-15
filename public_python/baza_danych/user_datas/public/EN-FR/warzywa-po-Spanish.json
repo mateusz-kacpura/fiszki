@@ -9,7 +9,7 @@
       "definition_translation": "Une plante légumineuse, Solanum tuberosum, largement cultivée pour son tubercule comestible.",
       "example": "I ate a baked potato for lunch yesterday, I will eat mashed potatoes for dinner tonight, and I have eaten boiled potatoes for breakfast this week.",
       "example_translation": "J'ai mangé une pomme de terre au four pour déjeuner hier, je mangerai des pommes de terre écrasées pour dîner ce soir, et j'ai mangé des pommes de terre bouillies pour petit déjeuner cette semaine.",
-      "imageLink": "potato.jpg",
+      "imageLink": "image_files\\English\\potato.jpg",
       "audioLink": "potato.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un fruit juteux, sucré ou acide, Solanum lycopersicum, souvent rouge, jaune ou vert, mangé frais ou utilisé dans la cuisine.",
       "example": "I ate a fresh tomato for snack yesterday, I will eat cooked tomatoes in my soup tonight, and I have eaten dried tomatoes in my pasta this week.",
       "example_translation": "J'ai mangé une tomate fraîche pour collation hier, je mangerai des tomates cuites dans ma soupe ce soir, et j'ai mangé des tomates séchées dans mes pâtes cette semaine.",
-      "imageLink": "tomato.jpg",
+      "imageLink": "image_files\\English\\tomato.jpg",
       "audioLink": "tomato.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Toute plante ou partie d'une plante utilisée comme aliment, notamment celle qui n'est pas un fruit ou une graine.",
       "example": "I have eaten many vegetables, such as broccoli, carrots, and spinach, in my salad yesterday, I will eat steamed vegetables for lunch today, and I ate sautéed vegetables for dinner last night.",
       "example_translation": "J'ai mangé de nombreux légumes, tels que du brocoli, des carottes et des épinards, dans ma salade hier, je mangerai des légumes à la vapeur pour déjeuner aujourd'hui, et j'ai mangé des légumes sautés pour dîner hier soir.",
-      "imageLink": "vegetable.jpg",
+      "imageLink": "image_files\\English\\vegetable.jpg",
       "audioLink": "vegetable.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Une graine ou une gousse de diverses plantes légumineuses, telles que le haricot rouge ou le haricot vert, souvent utilisée comme aliment.",
       "example": "I have eaten beans in my chili yesterday, I will eat cooked beans in my salad today, and I ate a bean burrito for lunch last week.",
       "example_translation": "J'ai mangé des haricots dans mon chili hier, je mangerai des haricots cuits dans ma salade aujourd'hui, et j'ai mangé un burrito de haricots pour déjeuner la semaine dernière.",
-      "imageLink": "bean.jpg",
+      "imageLink": "image_files\\English\\bean.jpg",
       "audioLink": "bean.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un légume racine long et fin, de couleur orange, communément mangé cru ou cuit.",
       "example": "I ate a carrot stick as a snack yesterday, I will eat a carrot salad tomorrow, and I have eaten carrots for lunch today.",
       "example_translation": "J'ai mangé un bâton de carotte comme collation hier, je mangerai une salade de carottes demain, et j'ai mangé des carottes pour déjeuner aujourd'hui.",
-      "imageLink": "carrot.jpg",
+      "imageLink": "image_files\\English\\carrot.jpg",
       "audioLink": "carrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un type de poivron très épicé, souvent utilisé dans la cuisine pour ajouter du goût et de la chaleur.",
       "example": "I added a chilli pepper to the stew last night, I will add chillies to the soup tomorrow, and I have added chilli flakes to the pasta sauce today.",
       "example_translation": "J'ai ajouté un piment à la ragoût hier soir, je vais ajouter des piments à la soupe demain, et j'ai ajouté des flocons de piment à la sauce de pâtes aujourd'hui.",
-      "imageLink": "chilli.jpg",
+      "imageLink": "image_files\\English\\chilli.jpg",
       "audioLink": "chilli.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un type de bulbe à odeur forte, souvent utilisé dans la cuisine pour ajouter du goût.",
       "example": "I crushed a garlic clove yesterday, I will mince garlic for the recipe tomorrow, and I have been using garlic oil for cooking today.",
       "example_translation": "J'ai écrasé une gousse d'ail hier, je vais hacher de l'ail pour la recette demain, et j'ai utilisé de l'huile d'ail pour la cuisson aujourd'hui.",
-      "imageLink": "garlic.jpg",
+      "imageLink": "image_files\\English\\garlic.jpg",
       "audioLink": "garlic.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un type de bulbe, souvent utilisé dans la cuisine pour ajouter du goût.",
       "example": "I chopped an onion for the soup yesterday, I will slice an onion for the salad tomorrow, and I have been sautéing onions for the stir-fry today.",
       "example_translation": "J'ai haché un oignon pour la soupe hier, je vais trancher un oignon pour la salade demain, et j'ai sauté des oignons pour le stir-fry aujourd'hui.",
-      "imageLink": "onion.jpg",
+      "imageLink": "image_files\\English\\onion.jpg",
       "audioLink": "onion.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un légume vert qui appartient à la famille des choux, avec une grande tête dense et comestible et un stalk épais.",
       "example": "I had steamed broccoli for dinner last night. I will eat broccoli with my lunch tomorrow. I ate broccoli with my breakfast this morning.",
       "example_translation": "J'ai eu du brocoli vapeur pour dîner hier soir. Je mangerai du brocoli avec mon déjeuner demain. J'ai mangé du brocoli avec mon petit déjeuner ce matin.",
-      "imageLink": "broccoli.jpg",
+      "imageLink": "image_files\\English\\broccoli.jpg",
       "audioLink": "broccoli.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Une tête ronde et serrée de feuilles qui est mangée crue ou cuite, souvent utilisée dans les salades, les slaws et les soupes.",
       "example": "I chopped the cabbage for the salad. The chef will sauté the cabbage for the soup. The farmer grew cabbage in his garden last year.",
       "example_translation": "J'ai haché le chou pour la salade. Le chef sautera le chou pour la soupe. Le fermier a cultivé du chou dans son jardin l'an dernier.",
-      "imageLink": "cabbage.jpg",
+      "imageLink": "image_files\\English\\cabbage.jpg",
       "audioLink": "cabbage.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un petit légume vert et svelte, souvent utilisé dans la cuisine française, semblable à un concombre.",
       "example": "The chef grilled the courgette for the summer salad. I will buy courgettes at the market tomorrow. She sautéed the courgette with garlic and onions.",
       "example_translation": "Le chef a grillé la courgette pour la salade d'été. J'achèterai des courgettes au marché demain. Elle a sauté la courgette avec de l'ail et des oignons.",
-      "imageLink": "courgette.jpg",
+      "imageLink": "image_files\\English\\courgette.jpg",
       "audioLink": "courgette.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un légume vert et allongé, souvent utilisé dans les salades, les sandwichs et comme collation.",
       "example": "I sliced the cucumber for the sandwich. She pickled the cucumber for the summer snack. The farmer grew cucumbers in his garden last season.",
       "example_translation": "J'ai tranché le concombre pour le sandwich. Elle a fait mariner le concombre pour la collation d'été. Le fermier a cultivé des concombres dans son jardin la saison dernière.",
-      "imageLink": "cucumber.jpg",
+      "imageLink": "image_files\\English\\cucumber.jpg",
       "audioLink": "cucumber.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un légume vert feuillu avec un goût doux, communément utilisé dans les salades et comme garniture.",
       "example": "I will add some lettuce to the salad tomorrow. Today, I added lettuce to the sandwich. Yesterday, I had lettuce with my burger.",
       "example_translation": "Je vais ajouter de la laitue à la salade demain. Aujourd'hui, j'ai ajouté de la laitue au sandwich. Hier, j'ai eu de la laitue avec mon burger.",
-      "imageLink": "lettuce.jpg",
+      "imageLink": "image_files\\English\\lettuce.jpg",
       "audioLink": "lettuce.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Une petite graine sphérique qui pousse dans une cosse et est couramment utilisée dans la cuisine.",
       "example": "I will plant peas in the garden next week. Today, I planted peas in the backyard. Yesterday, I ate peas with my dinner.",
       "example_translation": "Je vais planter des pois dans le jardin la semaine prochaine. Aujourd'hui, j'ai planté des pois dans le jardin. Hier, j'ai mangé des pois avec mon dîner.",
-      "imageLink": "pea.jpg",
+      "imageLink": "image_files\\English\\pea.jpg",
       "audioLink": "pea.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Une épice faite à partir du fruit sec de la plante Piper nigrum, couramment utilisée pour ajouter de la saveur à la nourriture.",
       "example": "I will add pepper to the soup tomorrow. Today, I added pepper to the meat. Yesterday, I seasoned the vegetables with pepper.",
       "example_translation": "Je vais ajouter du poivre à la soupe demain. Aujourd'hui, j'ai ajouté du poivre à la viande. Hier, j'ai assaisonné les légumes avec du poivre.",
-      "imageLink": "pepper.jpg",
+      "imageLink": "image_files\\English\\pepper.jpg",
       "audioLink": "pepper.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un type de courge, couramment utilisé dans la cuisine et comme décoration, particulièrement pendant la saison d'Halloween.",
       "example": "I will carve a pumpkin for Halloween. Today, I bought a pumpkin from the market. Yesterday, I made a pumpkin pie for my family.",
       "example_translation": "Je vais sacrer une citrouille pour Halloween. Aujourd'hui, j'ai acheté une citrouille sur le marché. Hier, j'ai fait une tarte à la citrouille pour ma famille.",
-      "imageLink": "pumpkin.jpg",
+      "imageLink": "image_files\\English\\pumpkin.jpg",
       "audioLink": "pumpkin.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Les épinards sont un légume vert feuillu riche en fer et en vitamines, souvent utilisé dans les salades, les smoothies et les plats cuisinés.",
       "example": "I ate spinach with my omelette yesterday, I eat spinach with my salad now, and I will eat spinach with my pasta tomorrow.",
       "example_translation": "J'ai mangé des épinards avec mon omelette hier, je mange des épinards avec ma salade maintenant, et je mangerai des épinards avec mes pâtes demain.",
-      "imageLink": "spinach.jpg",
+      "imageLink": "image_files\\English\\spinach.jpg",
       "audioLink": "spinach.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Le maïs doux est un type de maïs qui est récolté lorsque les grains sont immature et que le maïs est sucré et tendre, souvent grillé ou bouilli.",
       "example": "I grew sweetcorn in my garden last summer, I am growing sweetcorn in my garden now, and I will grow sweetcorn in my garden next year.",
       "example_translation": "J'ai cultivé du maïs doux dans mon jardin l'été dernier, je cultive du maïs doux dans mon jardin maintenant, et je cultiverai du maïs doux dans mon jardin l'année prochaine.",
-      "imageLink": "corn.jpg",
+      "imageLink": "image_files\\English\\corn.jpg",
       "audioLink": "sweetcorn.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Une aubergine est un type de légume violet qui est souvent utilisé dans la cuisine méditerranéenne, connu pour sa texture charnue et son goût légèrement amer.",
       "example": "I picked aubergine from the market yesterday, I am cooking aubergine with tomatoes now, and I will grill aubergine with meat next week.",
       "example_translation": "J'ai choisi une aubergine sur le marché hier, je cuisine l'aubergine avec des tomates maintenant, et je grillerai l'aubergine avec de la viande la semaine prochaine.",
-      "imageLink": "aubergine.jpg",
+      "imageLink": "image_files\\English\\aubergine.jpg",
       "audioLink": "aubergine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Le chou-fleur est un type de légume blanc ou vert qui est souvent utilisé dans les salades, les soupes et comme un substitut faible en glucides aux céréales.",
       "example": "I roasted cauliflower with cheese last night, I am steaming cauliflower with broccoli now, and I will sauté cauliflower with garlic next month.",
       "example_translation": "J'ai rôti le chou-fleur avec du fromage la nuit dernière, je suis en train de cuire le chou-fleur à la vapeur avec du brocoli maintenant, et je sauterai le chou-fleur avec de l'ail le mois prochain.",
-      "imageLink": "cauliflower.jpg",
+      "imageLink": "image_files\\English\\cauliflower.jpg",
       "audioLink": "cauliflower.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un poireau est un type de légume qui appartient à la famille des oignons. Il a un goût doux et est souvent utilisé dans les potages, les ragoûts et les salades.",
       "example": "I chopped the leek and sautéed it in butter to add flavor to the soup. Yesterday, I bought a leek at the market. I will use it to make a leek soup tomorrow.",
       "example_translation": "J'ai haché le poireau et l'ai fait revenir dans le beurre pour ajouter de la saveur au potage. Hier, j'ai acheté un poireau au marché. Je vais l'utiliser pour faire une soupe de poireau demain.",
-      "imageLink": "leek.jpg",
+      "imageLink": "image_files\\English\\leek.jpg",
       "audioLink": "leek.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Le persil est une herbe populaire utilisée comme garniture et pour ajouter de la saveur à divers plats, notamment les potages, les salades et les sauces.",
       "example": "I sprinkled parsley on top of the soup to give it a fresh flavor. Yesterday, I used parsley to make a tasty sauce. I will add parsley to my salad tomorrow.",
       "example_translation": "J'ai saupoudré du persil sur le dessus du potage pour lui donner un goût frais. Hier, j'ai utilisé du persil pour faire une sauce savoureuse. Je vais ajouter du persil à ma salade demain.",
-      "imageLink": "parsley.jpg",
+      "imageLink": "image_files\\English\\parsley.jpg",
       "audioLink": "parsley.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un radis est un légume-racine qui est souvent utilisé dans les salades, les sandwiches et comme garniture. Il a un goût épicé et poivré.",
       "example": "I sliced the radish and added it to my salad for some crunch. Yesterday, I used radish in a sandwich for a spicy kick. I will roast radish in the oven tomorrow.",
       "example_translation": "J'ai tranché le radis et l'ai ajouté à ma salade pour quelque chose de croquant. Hier, j'ai utilisé du radis dans un sandwich pour un coup de feu épicé. Je vais rôtir du radis au four demain.",
-      "imageLink": "radish.jpg",
+      "imageLink": "image_files\\English\\radish.jpg",
       "audioLink": "radish.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Le chou rouge est un type de chou qui a une couleur rouge foncée et un goût légèrement sucré. Il est souvent utilisé dans les salades, les salades de chou et comme garniture.",
       "example": "I shredded the red cabbage and added it to the salad for a pop of color. Yesterday, I used red cabbage in a slaw for a crunchy snack. I will braise red cabbage in red wine tomorrow.",
       "example_translation": "J'ai émincé le chou rouge et l'ai ajouté à la salade pour une touche de couleur. Hier, j'ai utilisé du chou rouge dans une salade de chou pour un collation croquante. Je vais mijoter du chou rouge dans du vin rouge demain.",
-      "imageLink": "red-cabbage.jpg",
+      "imageLink": "image_files\\English\\red-cabbage.jpg",
       "audioLink": "red cabbage.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un oignon de printemps est un jeune oignon qui est récolté avant qu'il ne forme un bulbe, utilisé dans la cuisine pour son goût doux et sa texture croustillante.",
       "example": "I chopped the spring onion and sautéed it in butter, then I will add it to the salad, and finally, I added it to the soup yesterday.",
       "example_translation": "J'ai haché l'oignon de printemps et l'ai fait sauter dans du beurre, puis je vais l'ajouter à la salade, et enfin, j'y ai ajouté à la soupe hier.",
-      "imageLink": "spring-onion.jpg",
+      "imageLink": "image_files\\English\\spring-onion.jpg",
       "audioLink": "spring onion.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "La betterave est un légume racine qui est généralement rouge ou doré, utilisé dans la cuisine pour son goût sucré et terrestre.",
       "example": "I roasted the beetroot in the oven, then I will add it to the salad, and finally, I added it to the soup yesterday.",
       "example_translation": "J'ai rôti la betterave au four, puis je vais l'ajouter à la salade, et enfin, j'y ai ajouté à la soupe hier.",
-      "imageLink": "beetroot.jpg",
+      "imageLink": "image_files\\English\\beetroot.jpg",
       "audioLink": "beetroot.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "La soja est un type de légumineaux qui est riche en protéines et est souvent utilisée dans la cuisine pour ajouter de la texture et du goût aux plats.",
       "example": "I used soy sauce to marinate the chicken, then I will add soy milk to the smoothie, and finally, I added soybeans to the stir-fry yesterday.",
       "example_translation": "J'ai utilisé la sauce soja pour mariner le poulet, puis je vais ajouter du lait de soja au smoothie, et enfin, j'ai ajouté des haricots de soja au stir-fry hier.",
-      "imageLink": "soya-soy.jpg",
+      "imageLink": "image_files\\English\\soya-soy.jpg",
       "audioLink": "soya, soy.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "La fève est un type de légumineux qui est similaire au pois, utilisé dans la cuisine pour son goût sucré et légèrement amer.",
       "example": "I shelled the broad beans and sautéed them in garlic, then I will add them to the salad, and finally, I added them to the risotto yesterday.",
       "example_translation": "J'ai écalé les fèves et les ai fait sauter à l'ail, puis je vais les ajouter à la salade, et enfin, j'y ai ajouté au risotto hier.",
-      "imageLink": "broad-bean.jpg",
+      "imageLink": "image_files\\English\\broad-bean.jpg",
       "audioLink": "broad bean.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un légume vert qui pousse en tête dense et compacte, avec un goût légèrement amer, communément mangé bouilli ou à la vapeur.",
       "example": "I ate Brussels sprouts for dinner last night, I am eating them for lunch today, and I will eat them for dinner tomorrow.",
       "example_translation": "J'ai mangé des choux de Bruxelles pour dîner hier soir, je les mange pour déjeuner aujourd'hui, et je les mangerai pour dîner demain.",
-      "imageLink": "brussels-sprout.jpg",
+      "imageLink": "image_files\\English\\brussels-sprout.jpg",
       "audioLink": "brussels sprout.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un légume fleurissant épineux, avec des feuilles comestibles et un centre tendre et chair, souvent servi comme apéritif ou accompagnement.",
       "example": "I have eaten artichokes at many Italian restaurants, I am eating them at a French restaurant now, and I will eat them at a Spanish restaurant next week.",
       "example_translation": "J'ai mangé des artichauts dans de nombreux restaurants italiens, je les mange dans un restaurant français maintenant, et je les mangerai dans un restaurant espagnol la semaine prochaine.",
-      "imageLink": "artichoke.jpg",
+      "imageLink": "image_files\\English\\artichoke.jpg",
       "audioLink": "artichoke.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un légume vert, en forme de lance, avec un goût délicat, souvent servi à la vapeur ou grillé comme accompagnement.",
       "example": "I had asparagus for breakfast yesterday, I am having it for lunch today, and I will have it for dinner tomorrow.",
       "example_translation": "J'avais des asperges pour petit déjeuner hier, je les ai pour déjeuner aujourd'hui, et j'en aurai pour dîner demain.",
-      "imageLink": "asparagus.jpg",
+      "imageLink": "image_files\\English\\asparagus.jpg",
       "audioLink": "asparagus.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un légume croquant, doux et savoureux, avec une tige longue et fine, souvent utilisé dans les salades, les soupes et comme collation.",
       "example": "I ate celery sticks with peanut butter for snack yesterday, I am eating them with hummus today, and I will eat them with ranch dressing tomorrow.",
       "example_translation": "J'ai mangé des bâtonnets de céleri avec du beurre d'arachide pour collation hier, je les mange avec du houmous aujourd'hui, et je les mangerai avec de la sauce ranch demain.",
-      "imageLink": "celery.jpg",
+      "imageLink": "image_files\\English\\celery.jpg",
       "audioLink": "celery.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "La chicorée est un type de plante qui est couramment utilisée comme substitut de café ou additif.",
       "example": "I used to drink chicory coffee in the morning, then I switched to regular coffee, and now I might try chicory again in the future.",
       "example_translation": "J'avais l'habitude de boire du café de chicorée le matin, puis j'ai changé pour du café régulier, et maintenant je pourrais essayer la chicorée à nouveau dans l'avenir.",
-      "imageLink": "chicory.jpg",
+      "imageLink": "image_files\\English\\chicory.jpg",
       "audioLink": "chicory.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Les ciboulettes sont un type d'herbe qui sont couramment utilisées pour ajouter du goût aux plats, en particulier les soups et les salades.",
       "example": "I choped the chives finely and added them to the soup, then I served it to my guests, who loved it, and now I'm preparing another batch for tomorrow.",
       "example_translation": "J'ai coupé les ciboulettes finement et les ai ajoutées à la soupe, puis je les ai servies à mes invités, qui l'ont adorée, et maintenant je prépare une autre batch pour demain.",
-      "imageLink": "chives.jpg",
+      "imageLink": "image_files\\English\\chives.jpg",
       "audioLink": "chives.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Le cresson est une plante à croissance rapide qui est couramment utilisée comme garniture ou ajoutée aux salades pour son goût poivré.",
       "example": "I planted cress in my garden, and it grew quickly, so I added it to my salad, which was delicious, and now I'm thinking of using it in sandwiches too.",
       "example_translation": "J'ai planté du cresson dans mon jardin, et il a grandi rapidement, donc j'y ai ajouté à ma salade, qui était délicieuse, et maintenant je pense l'utiliser dans les sandwiches également.",
-      "imageLink": "cress.jpg",
+      "imageLink": "image_files\\English\\cress.jpg",
       "audioLink": "cress.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "L'aneth est un type d'herbe qui est couramment utilisée pour ajouter du goût aux cornichons, soups et salades.",
       "example": "I used dill to make pickles, then I added it to my soup, and finally I used it to make a fresh salad, which was amazing.",
       "example_translation": "J'ai utilisé de l'aneth pour faire des cornichons, puis je l'ai ajouté à ma soupe, et enfin j'y ai utilisé pour faire une salade fraîche, qui était incroyable.",
-      "imageLink": "dill.jpg",
+      "imageLink": "image_files\\English\\dill.jpg",
       "audioLink": "dill.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Une plante vivace rustique aux feuilles jaunâtres et aux fleurs jaunes, originaire de la région méditerranéenne, largement cultivée pour ses graines et ses feuilles aromatiques utilisées dans la cuisine.",
       "example": "I added some fennel to the soup for extra flavor. I will add some fennel to the soup tomorrow. I added some fennel to the soup yesterday.",
       "example_translation": "J'ai ajouté du fenouil à la soupe pour plus de saveur. Je vais ajouter du fenouil à la soupe demain. J'avais ajouté du fenouil à la soupe hier.",
-      "imageLink": "fennel.jpg",
+      "imageLink": "image_files\\English\\fennel.jpg",
       "audioLink": "fennel.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Une plante avec une racine piquante et amère, utilisée comme condiment, en particulier avec du poisson ou de la viande.",
       "example": "I like to eat horseradish with my steak. I will eat horseradish with my fish tomorrow. I ate horseradish with my meat yesterday.",
       "example_translation": "J'aime manger du raifort avec mon steak. Je vais manger du raifort avec mon poisson demain. J'avais mangé du raifort avec ma viande hier.",
-      "imageLink": "horseradish.jpg",
+      "imageLink": "image_files\\English\\horseradish.jpg",
       "audioLink": "horseradish.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un type de chou avec des feuilles vertes foncées et frisées, souvent utilisé dans les salades ou comme garniture.",
       "example": "I love to add kale to my smoothie. I will add kale to my salad tomorrow. I added kale to my soup yesterday.",
       "example_translation": "J'aime ajouter du chou kale à mon smoothie. Je vais ajouter du chou kale à ma salade demain. J'avais ajouté du chou kale à ma soupe hier.",
-      "imageLink": "kale.jpg",
+      "imageLink": "image_files\\English\\kale.jpg",
       "audioLink": "kale.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un type de légumineux avec un goût doux et noisetté, souvent utilisé dans les soups, les ragoûts ou comme plat principal.",
       "example": "I cook lentils for lunch every week. I will cook lentils for dinner tomorrow. I cooked lentils for breakfast yesterday.",
       "example_translation": "Je cuisine des lentilles pour le déjeuner chaque semaine. Je vais cuisiner des lentilles pour le dîner demain. J'avais cuisiné des lentilles pour le petit déjeuner hier.",
-      "imageLink": "lentil.jpg",
+      "imageLink": "image_files\\English\\lentil.jpg",
       "audioLink": "lentil.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un tissu mou et graisseux qui remplit les cavités des os, responsable de la production de cellules sanguines.",
       "example": "The doctor extracted a sample of marrow from the patient's bone for further examination. Yesterday, she had undergone a marrow transplant. She will undergo another one next month.",
       "example_translation": "Le médecin a prélevé un échantillon de moelle de l'os du patient pour une examination plus approfondie. Hier, elle avait subi une greffe de moelle. Elle subira une autre la prochaine fois mois.",
-      "imageLink": "marrow.jpg",
+      "imageLink": "image_files\\English\\marrow.jpg",
       "audioLink": "marrow.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un légume-racine avec un goût sucré et noisette, souvent bouilli ou rôti et servi comme accompagnement.",
       "example": "Parsnips were a staple in my grandmother's kitchen, where she would often serve them with roasted meats. She had cooked parsnips for dinner last night. They will cook parsnips for the upcoming holiday feast.",
       "example_translation": "Les panais étaient un produit de base dans la cuisine de ma grand-mère, où elle les servait souvent avec des viandes rôties. Elle avait cuisiné des panais pour dîner hier soir. Ils vont cuire des panais pour la fête des vacances à venir.",
-      "imageLink": "parsnip.jpg",
+      "imageLink": "image_files\\English\\parsnip.jpg",
       "audioLink": "parsnip.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un légume aux saveurs acidulées et aigres, souvent utilisé dans les tartes et les confitures, avec une couleur rouge vif ou verte.",
       "example": "Rhubarb was a favorite ingredient in my aunt's bakery, where she would create delicious pies and tarts. She had picked fresh rhubarb from her garden yesterday. They will use rhubarb in their new summer dessert menu.",
       "example_translation": "La rhubarbe était un ingrédient préféré dans la boulangerie de ma tante, où elle créait des tartes et des tartes délicieuses. Elle avait cueilli de la rhubarbe fraîche de son jardin hier. Ils vont utiliser de la rhubarbe dans leur nouveau menu de desserts d'été.",
-      "imageLink": "rhubarb.jpg",
+      "imageLink": "image_files\\English\\rhubarb.jpg",
       "audioLink": "rhubarb.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un croisement entre un chou et un navet, souvent bouilli ou écrasé et servi comme accompagnement.",
       "example": "Swede was a common ingredient in my father's cooking, where he would often serve it with roasted meats. He had cooked swede for dinner last night. They will cook swede for the upcoming family gathering.",
       "example_translation": "Le rutabaga était un ingrédient commun dans la cuisine de mon père, où il le servait souvent avec des viandes rôties. Il avait cuisiné du rutabaga pour dîner hier soir. Ils vont cuire du rutabaga pour la prochaine réunion de famille.",
-      "imageLink": "swede.jpg",
+      "imageLink": "image_files\\English\\swede.jpg",
       "audioLink": "swede.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Une pomme de terre sucrée est un type de légume-racine riche en fibres et en vitamines. Elle est souvent servie comme plat d'accompagnement ou utilisée dans la cuisine.",
       "example": "I ate a baked sweet potato for lunch yesterday. I will roast sweet potatoes for dinner tonight. I had sweet potato fries at the restaurant last week.",
       "example_translation": "J'ai mangé une pomme de terre sucrée au four pour déjeuner hier. Je vais rôtir des pommes de terre pour dîner ce soir. J'ai eu des frites de pomme de terre sucrée au restaurant la semaine dernière.",
-      "imageLink": "sweet-potato.jpg",
+      "imageLink": "image_files\\English\\sweet-potato.jpg",
       "audioLink": "sweet potato.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Un navet est un type de légume-racine souvent utilisé dans les soups et les ragouts. Il a un goût sucré et piquant.",
       "example": "I added turnips to the stew last night. I will sauté turnips with garlic for breakfast tomorrow. I had turnip greens in my salad last week.",
       "example_translation": "J'ai ajouté des navets au ragoût hier soir. Je vais sauter des navets avec de l'ail pour déjeuner demain. J'ai eu des feuilles de navet dans ma salade la semaine dernière.",
-      "imageLink": "turnip.jpg",
+      "imageLink": "image_files\\English\\turnip.jpg",
       "audioLink": "turnip.mp3"
     }
   ]

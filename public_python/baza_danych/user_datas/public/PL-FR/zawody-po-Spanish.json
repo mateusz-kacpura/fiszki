@@ -9,7 +9,7 @@
       "definition_translation": "une personne qui prépare et cuisine des aliments, especialmente comme un travail",
       "example": "Gotowałem obiad wczoraj, gotuję śniadanie teraz, a będę gotować lunch jutro.",
       "example_translation": "J'ai cuisiné le dîner hier soir, je cuisine le petit-déjeuner maintenant, et je cuisinerai le déjeuner demain.",
-      "imageLink": "cook-1.jpg",
+      "imageLink": "image_files\\English\\cook-1.jpg",
       "audioLink": "cook.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "une personne qualifiée dans le diagnostic, le traitement et la prévention des maladies",
       "example": "Wczoraj odwiedziłem mój lekarz, odwiedzam mój lekarz dzisiaj, a odwiedzę mój lekarz w przyszłym tygodniu.",
       "example_translation": "J'ai visité mon médecin hier, je visite mon médecin aujourd'hui, et je visiterai mon médecin la semaine prochaine.",
-      "imageLink": "doctor.jpg",
+      "imageLink": "image_files\\English\\doctor.jpg",
       "audioLink": "doctor.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "une personne qui conduit un véhicule, especialmente pour gagner sa vie",
       "example": "Wczoraj jechałem do pracy, teraz jadę do szkoły, a jutro pojedę na plażę.",
       "example_translation": "J'ai conduit au travail hier, je conduis à l'école maintenant, et je conduirai à la plage demain.",
-      "imageLink": "driver.jpg",
+      "imageLink": "image_files\\English\\driver.jpg",
       "audioLink": "driver.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "une personne qui enseigne, especialmente dans une école",
       "example": "Wczoraj uczyłem matematyki, teraz uczę angielskiego, a jutro będę uczyć nauki.",
       "example_translation": "J'ai enseigné les mathématiques hier, j'enseigne l'anglais maintenant, et j'enseignerai les sciences demain.",
-      "imageLink": "teacher.jpg",
+      "imageLink": "image_files\\English\\teacher.jpg",
       "audioLink": "teacher.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "une personne, généralement un homme, dont le travail est de servir les nourritures et les boissons aux clients dans un restaurant",
       "example": "Byłem kelnerem w restauracji latem, jestem kelnerem teraz, a będę kelnerem w przyszłości.",
       "example_translation": "J'étais serveur dans un restaurant l'été dernier, je suis serveur maintenant, et je serai serveur à l'avenir.",
-      "imageLink": "waiter.jpg",
+      "imageLink": "image_files\\English\\waiter.jpg",
       "audioLink": "waiter.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "une personne, généralement une femme, dont le travail est de servir les nourritures et les boissons aux clients dans un restaurant",
       "example": "Ona była kelnerką w dinerze, jest kelnerką teraz, a będzie kelnerką przez wiele lat.",
       "example_translation": "Elle était serveuse dans un diner, elle est serveuse maintenant, et elle sera serveuse pendant de nombreuses années.",
-      "imageLink": "waitress.jpg",
+      "imageLink": "image_files\\English\\waitress.jpg",
       "audioLink": "waitress.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "une personne qui joue dans une pièce de théâtre, un film ou une production télévisée",
       "example": "Był aktorem w latach 80., jest aktorem teraz, a będzie aktorem przez całe życie.",
       "example_translation": "Il était acteur dans les années 1980, il est acteur maintenant, et il sera acteur pour toujours.",
-      "imageLink": "actor.jpg",
+      "imageLink": "image_files\\English\\actor.jpg",
       "audioLink": "actor.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "une personne qui joue dans une pièce de théâtre, un film ou une production télévisée, généralement une femme",
       "example": "Ona była aktorką w broadwayowskim przedstawieniu, jest aktorką teraz, a będzie aktorką w filmie hollywoodzkim.",
       "example_translation": "Elle était actrice dans une pièce de Broadway, elle est actrice maintenant, et elle sera actrice dans un film de Hollywood.",
-      "imageLink": "actress.jpg",
+      "imageLink": "image_files\\English\\actress.jpg",
       "audioLink": "actress.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Une personne qui crée des peintures, des dessins ou des sculptures ; une personne qui est habile au dessin, à la peinture ou à la création de sculptures.",
       "example": "Chciałem być artystą, gdy byłem dzieckiem. Studiuję, aby zostać artystą teraz. Będę sławnym artystą kiedyś.",
       "example_translation": "Je voulais être un artiste lorsque j'étais enfant. J'étudie pour être un artiste maintenant. Je serai un artiste célèbre un jour.",
-      "imageLink": "artist.jpg",
+      "imageLink": "image_files\\English\\artist.jpg",
       "audioLink": "artist.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Une personne qui s'engage dans des activités commerciales ou industrielles ; une personne qui a un talent pour faire des affaires.",
       "example": "Mój ojciec był poważnym biznesmenem. Próbuję być dobrym biznesmenem teraz. Będę biznesmenem na Wall Street kiedyś.",
       "example_translation": "Mon père était un homme d'affaires réussi. J'essaie d'être un bon homme d'affaires. Je serai un homme d'affaires à Wall Street un jour.",
-      "imageLink": "businessman.jpg",
+      "imageLink": "image_files\\English\\businessman.jpg",
       "audioLink": "businessman.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Une femme qui s'engage dans des activités commerciales ou industrielles ; une femme qui a un talent pour faire des affaires.",
       "example": "Moja matka była udaną bizneswoman. Próbuję być dobrą bizneswoman. Będę bizneswoman na Wall Street pewnego dnia.",
       "example_translation": "Ma mère était une femme d'affaires réussie. J'essaie d'être une bonne femme d'affaires. Je serai une femme d'affaires à Wall Street un jour.",
-      "imageLink": "businesswoman.jpg",
+      "imageLink": "image_files\\English\\businesswoman.jpg",
       "audioLink": "businesswoman.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Une personne qui répare et entretient des véhicules à moteur ; une personne qui est habile à réparer des voitures.",
       "example": "Wczoraj zabrałem swój samochód do mechanika samochodowego. Uczę się być mechanikiem samochodowym teraz. Będę mechanikiem samochodowym, gdy skończę studia.",
       "example_translation": "J'ai emmené ma voiture au mécanicien de voiture hier. J'apprends à être un mécanicien de voiture maintenant. Je serai un mécanicien de voiture quand je serai diplômé.",
-      "imageLink": "car-mechanic.jpg",
+      "imageLink": "image_files\\English\\car-mechanic.jpg",
       "audioLink": "car mechanic.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un cuisinier est un cuisinier expérimenté qui prépare et cuisine des aliments dans un restaurant ou autre établissement.",
       "example": "Wczoraj szef kuchni ugotował smaczną jedzenie. Dziś on gotuje bufet. Jutro on ugotuje na przyjęciu weselnym.",
       "example_translation": "Hier, le cuisinier a cuisiné un repas délicieux. Aujourd'hui, il cuisine un buffet. Demain, il cuisinera une réception de mariage.",
-      "imageLink": "chef.jpg",
+      "imageLink": "image_files\\English\\chef.jpg",
       "audioLink": "chef.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un chimiste est un scientifique qui étudie la composition, les propriétés et les réactions de la matière.",
       "example": "Chemik wymieszał chemikalia ostrożnie. Ona mieszka nową substancję teraz. Ona wymiesza rozwiązanie jutro.",
       "example_translation": "Le chimiste a mélangé les produits chimiques soigneusement. Elle mélange un nouveau composé maintenant. Elle mélangera une solution demain.",
-      "imageLink": "chemist.jpg",
+      "imageLink": "image_files\\English\\chemist.jpg",
       "audioLink": "chemist.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un nettoyeur est une personne qui nettoie les sols, les surfaces ou les bâtiments.",
       "example": "Sprzątaczka zamiała podłogę wczoraj. Dziś ona mopuje kuchnię. Jutro ona zasysze dywan.",
       "example_translation": "Le nettoyeur a balayé le sol hier. Aujourd'hui, elle est en train de laver la cuisine. Demain, elle va aspirer le tapis.",
-      "imageLink": "cleaner.jpg",
+      "imageLink": "image_files\\English\\cleaner.jpg",
       "audioLink": "cleaner.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un danseur est une personne qui exécute des mouvements rythmiques à la musique.",
       "example": "Tancerka ćwiczyła swój układ wczoraj. Dziś ona wykonuje na scenie. Jutro ona tańczy na przyjęciu.",
       "example_translation": "La danseuse a répété sa routine hier. Aujourd'hui, elle se produit sur scène. Demain, elle dansera à une fête.",
-      "imageLink": "dancer.jpg",
+      "imageLink": "image_files\\English\\dancer.jpg",
       "audioLink": "dancer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un dentiste est un professionnel qui se spécialise dans la prévention, le diagnostic et le traitement des maladies et des affections des dents et de la bouche.",
       "example": "Wczoraj odwiedziłem mojego dentystę, Jutro odwiedzę mojego dentystę, i Ostatnio tygodniu odwiedziłem mojego dentystę.",
       "example_translation": "J'ai visité mon dentiste hier, je vais visiter mon dentiste demain, et j'ai visité mon dentiste la semaine dernière.",
-      "imageLink": "dentist.jpg",
+      "imageLink": "image_files\\English\\dentist.jpg",
       "audioLink": "dentist.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un ingénieur est un professionnel qui conçoit, construit et maintient des structures, des machines et des systèmes.",
       "example": "Ona była inżynierem w topowej firmie technologicznej, Ona będzie inżynierem w topowej firmie technologicznej, i Ona stała się inżynierem w topowej firmie technologicznej.",
       "example_translation": "Elle était ingénieur dans une entreprise technologique de pointe, Elle sera ingénieur dans une entreprise technologique de pointe, et Elle est devenue ingénieur dans une entreprise technologique de pointe.",
-      "imageLink": "engineer.jpg",
+      "imageLink": "image_files\\English\\engineer.jpg",
       "audioLink": "engineer.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un agriculteur est une personne qui possède ou gère une ferme, et se livre à l'agriculture, l'aquaculture ou l'élevage.",
       "example": "On był rolnikiem na wsi, On jest rolnikiem na wsi, i On będzie rolnikiem na wsi.",
       "example_translation": "Il était un agriculteur à la campagne, Il est un agriculteur à la campagne, et Il sera un agriculteur à la campagne.",
-      "imageLink": "farmer.jpg",
+      "imageLink": "image_files\\English\\farmer.jpg",
       "audioLink": "farmer.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un footballeur est une personne qui joue au football, soit professionnellement soit de manière récréative.",
       "example": "On był piłkarzem w młodości, On jest piłkarzem teraz, i On będzie piłkarzem ponownie.",
       "example_translation": "Il était un footballeur dans sa jeunesse, Il est un footballeur maintenant, et Il sera un footballeur à nouveau.",
-      "imageLink": "footballer.jpg",
+      "imageLink": "image_files\\English\\footballer.jpg",
       "audioLink": "footballer.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Une personne qui montre le chemin, en particulier une personne employée pour conduire des touristes ou des voyageurs.",
       "example": "Będę przewodnikiem przez las jutro, przewodnikłem przez las wczoraj, i przewodnikłem przez las każdego dnia.",
       "example_translation": "Je vous guiderai dans la forêt demain, j'ai guidé vous dans la forêt hier, et je vous guide dans la forêt tous les jours.",
-      "imageLink": "guide-1.jpg",
+      "imageLink": "image_files\\English\\guide-1.jpg",
       "audioLink": "guide.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "La personne chargée d'une école, responsable de prendre des décisions importantes et de surveiller le personnel et les élèves.",
       "example": "Dyrektor spotka się z rodzicami jutro, dyrektor spotkał się z rodzicami wczoraj, i dyrektor spotyka się z rodzicami co tydzień.",
       "example_translation": "Le directeur d'école rencontrera les parents demain, le directeur d'école a rencontré les parents hier, et le directeur d'école rencontre les parents chaque semaine.",
-      "imageLink": "headteacher.jpg",
+      "imageLink": "image_files\\English\\headteacher.jpg",
       "audioLink": "headteacher.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Une personne responsable de contrôler ou d'administrer une organisation ou un département.",
       "example": "Menedżer zatrudni nowych pracowników jutro, menedżer zatrudnił nowych pracowników wczoraj, i menedżer zatrudnia nowych pracowników każdego miesiąca.",
       "example_translation": "Le gérant embauchera de nouveaux employés demain, le gérant a embauché de nouveaux employés hier, et le gérant embauche de nouveaux employés chaque mois.",
-      "imageLink": "manager.jpg",
+      "imageLink": "image_files\\English\\manager.jpg",
       "audioLink": "manager.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Une personne qui répare et entretient des machines, en particulier des voitures et d'autres véhicules.",
       "example": "Mechanik naprawi samochód jutro, mechanik naprawił samochód wczoraj, i mechanik naprawia samochód każdego tygodnia.",
       "example_translation": "Le mécanicien réparera la voiture demain, le mécanicien a réparé la voiture hier, et le mécanicien répare la voiture chaque semaine.",
-      "imageLink": "mechanic.jpg",
+      "imageLink": "image_files\\English\\mechanic.jpg",
       "audioLink": "mechanic.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un infirmier est une personne formée pour soigner les malades ou les blessés, généralement dans un hôpital ou un établissement clinique.",
       "example": "Pracowała jako pielęgniarka w szpitalu przez pięć lat, potem została pielęgniarką praktykantką. Obecnie pracuje jako pielęgniarka edukator. W przyszłości będzie pielęgniarką naczelną.",
       "example_translation": "Elle a travaillé comme infirmière dans un hôpital pendant cinq ans, puis elle est devenue une infirmière praticienne. Actuellement, elle travaille comme éducatrice infirmière. À l'avenir, elle sera une infirmière en chef.",
-      "imageLink": "nurse.jpg",
+      "imageLink": "image_files\\English\\nurse.jpg",
       "audioLink": "nurse.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un peintre est une personne qui applique de la peinture sur une surface, comme un mur ou une toile, pour créer une œuvre d'art.",
       "example": "Był malarzem przez wiele lat, potem przeszedł do rzeźby. Obecnie jest znów malarzem. W przeszłości namalował wiele słynnych portretów.",
       "example_translation": "Il a été peintre pendant de nombreuses années, puis il s'est tourné vers la sculpture. Actuellement, il est à nouveau peintre. Dans le passé, il avait peint de nombreux portraits célèbres.",
-      "imageLink": "painter.jpg",
+      "imageLink": "image_files\\English\\painter.jpg",
       "audioLink": "painter.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Un photographe est une personne qui prend des photos à l'aide d'un appareil photo, souvent pour vivre.",
       "example": "Była fotografem dla magazynu, potem założyła własny biznes fotograficzny. Obecnie robi zdjęcia krajobrazów. W przyszłości będzie fotografem dla słynnej marki mody.",
       "example_translation": "Elle a été photographe pour un magazine, puis elle a lancé son propre entreprise de photographie. Actuellement, elle prend des photographies de paysages. À l'avenir, elle sera photographe pour une marque de mode célèbre.",
-      "imageLink": "photographer.jpg",
+      "imageLink": "image_files\\English\\photographer.jpg",
       "audioLink": "photographer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Un pilote est une personne qui opère les commandes d'un aéronef, le guidant lors du décollage, du vol et de l'atterrissage.",
       "example": "Był pilotem przez wiele lat, potem został menedżerem linii lotniczej. Obecnie jest instruktorem pilota. W przeszłości latał wieloma typami samolotów.",
       "example_translation": "Il a été pilote pendant de nombreuses années, puis il est devenu directeur d'une compagnie aérienne. Actuellement, il est instructeur de pilotage. Dans le passé, il avait volé de nombreux types d'aéronefs.",
-      "imageLink": "pilot.jpg",
+      "imageLink": "image_files\\English\\pilot.jpg",
       "audioLink": "pilot.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Une personne qui participe à un jeu, un sport ou une autre activité.",
       "example": "Byłem добrym graczem w szkole średniej, teraz gram w piłkę nożną, i będę grał w koszykówkę jutro.",
       "example_translation": "J'étais un bon joueur au lycée, je joue au football maintenant, et je jouerai au basket-ball demain.",
-      "imageLink": "player-2.jpg",
+      "imageLink": "image_files\\English\\player-2.jpg",
       "audioLink": "player.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Une personne responsable de faire appliquer la loi et de maintenir l'ordre dans une région particulière.",
       "example": "Funkcjonariusz policji zatrzymał samochód, zatrzymuje obecnie ruch, i zabroni rabunku jutro.",
       "example_translation": "L'officier de police a arrêté la voiture, arrête la circulation maintenant, et arrêtera le vol demain.",
-      "imageLink": "police-officer.jpg",
+      "imageLink": "image_files\\English\\police-officer.jpg",
       "audioLink": "police officer.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Un officier de police masculin.",
       "example": "Policjant pomagał kobiecie, pomaga dziecku teraz i pomoże osobie starszej jutro.",
       "example_translation": "Le policier aidait la femme, aide l'enfant maintenant, et aidera les personnes âgées demain.",
-      "imageLink": "policeman.jpg",
+      "imageLink": "image_files\\English\\policeman.jpg",
       "audioLink": "policeman.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Une officière de police féminine.",
       "example": "Policjantka pracowała późno, pracuje w nocnej zmianie teraz i będzie pracować w weekendzie jutro.",
       "example_translation": "La femme policier travaillait tard, travaille les nuits maintenant, et travaillera les weekends demain.",
-      "imageLink": "policewoman.jpg",
+      "imageLink": "image_files\\English\\policewoman.jpg",
       "audioLink": "policewoman.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Une personne employée pour accueillir et assister les visiteurs, clients ou patients dans une entreprise, un bureau ou un hôpital.",
       "example": "Pracowała jako recepcjonistka w kancelarii prawniczej, odpowiadając na telefony i prowadząc kalendarz spotkań. Pracowała jako recepcjonistka przez pięć lat przed awansem na asystenta administracyjnego. Będzie szkolona jako recepcjonistka za miesiąc.",
       "example_translation": "Elle a travaillé comme réceptionniste dans un cabinet d'avocats, répondant au téléphone et planifiant des rendez-vous. Elle avait travaillé comme réceptionniste pendant cinq ans avant d'être promue au poste d'assistante administrative. Elle sera formée comme réceptionniste le mois prochain.",
-      "imageLink": "receptionist.jpg",
+      "imageLink": "image_files\\English\\receptionist.jpg",
       "audioLink": "receptionist.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Une personne qui soutient et assiste une équipe de vente ou un vendeur dans leurs tâches, telles que des tâches administratives et du service à la clientèle.",
       "example": "Asystent sprzedaży pomagał zespołowi sprzedaży z wprowadzaniem danych i obsługą klientów. Pracował jako asystent sprzedaży przez dwa lata przed zostaniem przedstawicielem handlowym. Będzie zaczynał nową pracę jako asystent sprzedaży w przyszłym poniedziałku.",
       "example_translation": "L'assistant de vente a aidé l'équipe de vente avec la saisie de données et les demandes des clients. Elle avait été un assistant de vente pendant deux ans avant de devenir un représentant des ventes. Il commencera son nouveau travail comme assistant de vente lundi prochain.",
-      "imageLink": "salesshop-assistant.jpg",
+      "imageLink": "image_files\\English\\salesshop-assistant.jpg",
       "audioLink": "sales assistant.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Une personne qui vend des biens ou des services aux clients, souvent travaillant dans un contexte de détail ou commercial.",
       "example": "Sprzedawca pracował na zasadzie prowizji, zarabiając procent każdej sprzedaży. Pracował jako sprzedawca przez pięć lat przed zostaniem kierownikiem sprzedaży. Będzie szkolony jako sprzedawca w przyszłym tygodniu.",
       "example_translation": "Le vendeur travaillait à la commission, gagnant un pourcentage de chaque vente. Elle avait été un vendeur pendant cinq ans avant de devenir un gestionnaire des ventes. Il sera formé comme vendeur la semaine prochaine.",
-      "imageLink": "salesperson.jpg",
+      "imageLink": "image_files\\English\\salesperson.jpg",
       "audioLink": "salesperson.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Une personne employée pour gérer les activités quotidiennes d'un bureau ou d'une organisation, souvent responsable de tâches telles que la planification et la tenue de registres.",
       "example": "Sekretarka zaaranżowała podróż służbową dla CEO firmy. Pracowała jako sekretarka przez trzy lata przed awansem na asystenta wykonawczego. Będzie brał kurs, aby stać się sekretarką w przyszłym semestrze.",
       "example_translation": "Le secrétaire a organisé l'itinéraire de voyage pour le PDG de l'entreprise. Elle avait travaillé comme secrétaire pendant trois ans avant de devenir un assistant exécutif. Il prendra un cours pour devenir un secrétaire le semestre prochain.",
-      "imageLink": "secretary.jpg",
+      "imageLink": "image_files\\English\\secretary.jpg",
       "audioLink": "secretary.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Une personne qui chante, notamment professionnellement, dans des concerts, opéras ou musique populaire.",
       "example": "Była utalentowaną pieśniarzą, która śpiewała na Carnegie Hall wczoraj, śpiewa na Grammy Awards dziś i będzie śpiewać na Oscarych w przyszłym tygodniu.",
       "example_translation": "Elle était une chanteuse talentueuse qui a performé au Carnegie Hall hier soir, performe aux Grammy Awards ce soir et performera aux Oscars la semaine prochaine.",
-      "imageLink": "singer.jpg",
+      "imageLink": "image_files\\English\\singer.jpg",
       "audioLink": "singer.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Une personne qui conduit un taxi pour gagner sa vie, transportant des passagers d'un endroit à un autre.",
       "example": "Mój przyjaciel był taksówkarzem przez dziesięć lat, prowadzi taksówkę każdego dnia i będzie prowadził taksówkę przez wiele lat do przodu.",
       "example_translation": "Mon ami a été chauffeur de taxi pendant dix ans, conduit un taxi chaque jour et conduira un taxi pendant de nombreuses années à venir.",
-      "imageLink": "taxi-driver.jpg",
+      "imageLink": "image_files\\English\\taxi-driver.jpg",
       "audioLink": "taxi driver.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Une personne qui guide et explique les sites d'un endroit particulier aux touristes ou aux visiteurs.",
       "example": "Przewodnik turystyczny pokazał nam znane miejsca, pokazuje nam historyczne miejsca i pokaże nam lokalne zwyczaje.",
       "example_translation": "Le guide touristique nous a montré les monuments célèbres, nous montre les sites historiques et nous montrera les coutumes locales.",
-      "imageLink": "tour-guide.jpg",
+      "imageLink": "image_files\\English\\tour-guide.jpg",
       "audioLink": "tour guide.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Une personne qui écrit des livres, des articles ou d'autres œuvres écrites en tant que profession ou occupation.",
       "example": "Była płodnym pisarzem, który napisał kilka powieści, pisze autobiografię i będzie pisał wiele więcej książek w przyszłości.",
       "example_translation": "Elle était une écrivaine prolifique qui a écrit plusieurs romans, écrit une autobiographie et écrira de nombreux livres à l'avenir.",
-      "imageLink": "writer.jpg",
+      "imageLink": "image_files\\English\\writer.jpg",
       "audioLink": "writer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Une personne dont le travail consiste à préparer et à examiner les dossiers financiers, tels que les comptes et les déclarations de revenus.",
       "example": "Pracowała jako księgowy w dużym przedsiębiorstwie, gdzie była odpowiedzialna za zarządzanie finansami firmy. Pracowała jako księgowy przez pięć lat i będzie pracować jako księgowy aż do emerytury.",
       "example_translation": "Elle travaillait comme comptable pour une grande entreprise, où elle était responsable de la gestion des finances de l'entreprise. Elle avait travaillé comme comptable pendant cinq ans, et elle travaillera comme comptable jusqu'à sa retraite.",
-      "imageLink": "accountant.jpg",
+      "imageLink": "image_files\\English\\accountant.jpg",
       "audioLink": "accountant.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Une personne qui conçoit des bâtiments et d'autres structures.",
       "example": "Studiował, aby zostać architektem, a teraz projektuje budynki na całym świecie. Zaprojektował wiele słynnych budynków i będzie projektował nowe muzeum następnego roku.",
       "example_translation": "Il a étudié pour être architecte, et maintenant il conçoit des bâtiments partout dans le monde. Il avait conçu de nombreux bâtiments célèbres, et il conçoit un nouveau musée l'année prochaine.",
-      "imageLink": "architect.jpg",
+      "imageLink": "image_files\\English\\architect.jpg",
       "audioLink": "architect.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Une personne qui prend soin d'un enfant ou d'enfants pendant que les parents sont absents.",
       "example": "Pracowała jako opiekun dziecka dla wielu rodzin i uwielbiała opiekować się dziećmi. Opiekowała się wieloma dziećmi i będzie opiekować się własnymi dziećmi jeden dzień.",
       "example_translation": "Elle travaillait comme nourrice pour de nombreuses familles, et elle adorait prendre soin des enfants. Elle avait pris soin de nombreux enfants, et elle prendra soin de ses propres enfants un jour.",
-      "imageLink": "babysitter.jpg",
+      "imageLink": "image_files\\English\\babysitter.jpg",
       "audioLink": "babysitter.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Une personne qui fabrique du pain et d'autres produits de boulangerie.",
       "example": "Pracował jako piekarz w małym sklepie, gdzie robił świeży chleb każdego ranka. Pracował jako piekarz przez dziesięć lat i otworzy własną piekarnię następnego roku.",
       "example_translation": "Il travaillait comme boulanger dans une petite boutique, où il fabriquait du pain frais chaque matin. Il avait travaillé comme boulanger pendant dix ans, et il ouvrira sa propre boulangerie l'année prochaine.",
-      "imageLink": "baker.jpg",
+      "imageLink": "image_files\\English\\baker.jpg",
       "audioLink": "baker.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Une personne qui danse le ballet, notamment en tant que professionnel.",
       "example": "Była tancerzem baletu w Operze Królewskiej, on jest tancerzem baletu teraz, a oni będą tancerzami baletu w przyszłości.",
       "example_translation": "Elle était danseuse de ballet avec la Royal Opera House, il est danseur de ballet maintenant, et ils seront danseurs de ballet à l'avenir.",
-      "imageLink": "ballet-dancer.jpg",
+      "imageLink": "image_files\\English\\ballet-dancer.jpg",
       "audioLink": "ballet dancer.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Une personne dont l'occupation est de couper et de styliser les cheveux, notamment les cheveux des hommes.",
       "example": "Był fryzjerem w Paryżu, ona jest fryzjerem teraz, a oni będą fryzjerami w przyszłości.",
       "example_translation": "Il était barbier à Paris, elle est barbière maintenant, et ils seront barbiers à l'avenir.",
-      "imageLink": "barber.jpg",
+      "imageLink": "image_files\\English\\barber.jpg",
       "audioLink": "barber.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Une personne qui sert des boissons et de la nourriture dans un bar ou un pub.",
       "example": "Był barmanem w Londynie, ona jest barmanem teraz, a oni będą barmanami w przyszłości.",
       "example_translation": "Il était barman à Londres, elle est serveuse maintenant, et ils seront barmen à l'avenir.",
-      "imageLink": "barman.jpg",
+      "imageLink": "image_files\\English\\barman.jpg",
       "audioLink": "barman.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Une personne qui construit, édifie ou assemble quelque chose, notamment un bâtiment ou une structure.",
       "example": "Był budowniczym w Nowym Jorku, ona jest budowniczym teraz, a oni będą budowniczymi w przyszłości.",
       "example_translation": "Il était constructeur à New York, elle est constructrice maintenant, et ils seront constructeurs à l'avenir.",
-      "imageLink": "builder.jpg",
+      "imageLink": "image_files\\English\\builder.jpg",
       "audioLink": "builder.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Une personne qui abat et prépare des animaux pour la nourriture, especially dans une boutique ou un magasin.",
       "example": "Wczoraj odwiedziłem rzeźnika, aby kupić świeżą mięso. Jutro odwiedzę rzeźnika, aby kupić kiełbasy. Ostatnim tygodniu odwiedziłem rzeźnika, aby kupić kurę.",
       "example_translation": "J'ai visité le boucher hier pour acheter de la viande fraîche. Je vais visiter le boucher demain pour acheter des saucisses. J'ai visité le boucher la semaine dernière pour acheter du poulet.",
-      "imageLink": "butcher.jpg",
+      "imageLink": "image_files\\English\\butcher.jpg",
       "audioLink": "butcher.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Une personne qui est formée dans l'étude de la chimie, especialmente un qui travaille dans un laboratoire ou une pharmacie.",
       "example": "Jutro odwiedzę chemika, aby kupić lekarstwo. Chemik miesza terazsubstancje chemiczne w laboratorium. Była chemkiem przed tym, jak została lekarką.",
       "example_translation": "Je vais visiter le chimiste demain pour acheter des médicaments. Le chimiste mélange des produits chimiques dans le laboratoire. Elle était chimiste avant de devenir médecin.",
-      "imageLink": "chemist-1.jpg",
+      "imageLink": "image_files\\English\\chemist-1.jpg",
       "audioLink": "chemist.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Une personne qui entraîne et dirige une équipe sportive ou individuelle, especialmente dans une école ou un collège.",
       "example": "Trener szkoli drużynę przed dużym meczem. Była trenerem na uniwersytecie przed emeryturą. Zatrudnię trenera, aby poprawić swoje umiejętności tenisowe.",
       "example_translation": "L'entraîneur est en train d'entraîner l'équipe pour le grand match. Elle était entraîneuse à l'université avant de prendre sa retraite. Je vais engager un entraîneur pour améliorer mes compétences en tennis.",
-      "imageLink": "coach-1.jpg",
+      "imageLink": "image_files\\English\\coach-1.jpg",
       "audioLink": "coach.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Une personne qui conçoit, développe et teste des logiciels, des matériels et d'autres systèmes informatiques.",
       "example": "Naukowiec informatyk pracuje nad nowym projektem sztucznej inteligencji. Była naukowcem informatykiem w Google przed założeniem własnej firmy. Zatrudnię naukowca informatyka, aby rozwinął nową stronę internetową.",
       "example_translation": "L'informaticien travaille sur un nouveau projet d'intelligence artificielle. Elle était informaticienne chez Google avant de lancer sa propre entreprise. Je vais engager un informaticien pour développer mon nouveau site web.",
-      "imageLink": "computer-scientist.jpg",
+      "imageLink": "image_files\\English\\computer-scientist.jpg",
       "audioLink": "computer scientist.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Une personne qui crée et planifie l'apparence et la fonctionnalité des objets, des espaces et des expériences.",
       "example": "Była utalentowanym projektantem, który pracował nad kilkoma Projektami o wysokim profilu. Zaprojektowała nowy logo dla firmy. Zaprojektuje nową stronę internetową dla klienta.",
       "example_translation": "Elle était une conceptrice talentueuse qui avait travaillé sur plusieurs projets de haute visibilité. Elle a conçu un nouveau logo pour l'entreprise. Elle concevra un nouveau site web pour le client.",
-      "imageLink": "designer.jpg",
+      "imageLink": "image_files\\English\\designer.jpg",
       "audioLink": "designer.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Une personne qui enquête sur les crimes et essaie de découvrir qui les a commis.",
       "example": "Był zdolnym detektywem, który rozwiązał wiele trudnych spraw. Pracowała jako detektyw przez pięć lat. Zatrudnią nowego detektywa, aby zajął się morderstwem.",
       "example_translation": "Il était un détective expérimenté qui avait résolu de nombreux cas difficiles. Elle a travaillé en tant que détective pendant cinq ans. Ils embaucheront un nouveau détective pour enquêter sur le meurtre.",
-      "imageLink": "detective.jpg",
+      "imageLink": "image_files\\English\\detective.jpg",
       "audioLink": "detective.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Une personne qui est responsable d'un département, d'une organisation ou d'un projet.",
       "example": "Była dyrektorem departamentu marketingowego. Pracował jako dyrektor przez dwadzieścia lat. Powołają nowego dyrektora, aby nadzorował projekt.",
       "example_translation": "Elle était la directrice du département marketing. Il a été directeur pendant vingt ans. Ils nommeront un nouveau directeur pour superviser le projet.",
-      "imageLink": "director.jpg",
+      "imageLink": "image_files\\English\\director.jpg",
       "audioLink": "director.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Une personne qui joue de la musique enregistrée à la radio ou dans une fête ou un nightclub.",
       "example": "Był popularnym didżejem, który grał w wielu klubach. Pracowała jako didżej w lokalnej rozgłośni radiowej. Zatrudnią didżeja, aby grał muzykę na weselu.",
       "example_translation": "Il était un DJ populaire qui avait joué dans de nombreux clubs. Elle a travaillé comme DJ sur une station de radio locale. Ils embaucheront un DJ pour jouer de la musique au mariage.",
-      "imageLink": "disc-jockey-dj.jpg",
+      "imageLink": "image_files\\English\\disc-jockey-dj.jpg",
       "audioLink": "disc jockey, DJ.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Une personne qui réalise des films, notamment pour le cinéma ou la télévision.",
       "example": "Była reżyserem filmowym, która specjalizowała się w produkcji dokumentów o problemach społecznych. Obecnie produkuje film o zmianach klimatu. Będzie produkowała kilka filmów domomentu, gdy odejdzie na emeryturę.",
       "example_translation": "Elle était une réalisatrice qui se spécialisait dans la réalisation de documentaires sur les questions sociales. Elle est actuellement en train de faire un film sur le changement climatique. Elle aura réalisé plusieurs films d'ici qu'elle ait 30 ans.",
-      "imageLink": "film-maker.jpg",
+      "imageLink": "image_files\\English\\film-maker.jpg",
       "audioLink": "filmmaker.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Une personne qui est formée pour éteindre les incendies et répondre aux situations d'urgence.",
       "example": "Został strażakiem po służbie wojskowej. Walczy z pożarem w centrum miasta. Będzie walczył z pożarami do czasu emerytury.",
       "example_translation": "Il est devenu pompier après avoir servi dans l'armée. Il lutte contre un incendie dans le centre-ville. Il aura combattu de nombreux incendies d'ici qu'il prenne sa retraite.",
-      "imageLink": "firefighter.jpg",
+      "imageLink": "image_files\\English\\firefighter.jpg",
       "audioLink": "firefighter.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Une personne qui surveille, protège ou contrôle un lieu, chose ou personne.",
       "example": "Został strażnikiem muzeum. Strażniczym wejściem do budynku. Będą strażnikami granicy przez lata.",
       "example_translation": "Il a été embauché comme garde au musée. Elle garde l'entrée du bâtiment. Ils auront gardé la frontière pendant des années.",
-      "imageLink": "guard-1.jpg",
+      "imageLink": "image_files\\English\\guard-1.jpg",
       "audioLink": "guard.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Une personne qui joue de la guitare, notamment en tant que profession.",
       "example": "Była gitarzystką zespołu rockowego. Grał solo na gitarze na scenie. Będą grali na gitarach razem przez dekady.",
       "example_translation": "Elle était guitariste dans un groupe de rock. Il joue un solo de guitare sur scène. Ils auront joué de la guitare ensemble pendant des décennies.",
-      "imageLink": "guitarist.jpg",
+      "imageLink": "image_files\\English\\guitarist.jpg",
       "audioLink": "guitarist.mp3"
     }
   ]

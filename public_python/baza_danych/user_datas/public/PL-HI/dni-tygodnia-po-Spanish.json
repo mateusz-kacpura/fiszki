@@ -9,7 +9,7 @@
       "definition_translation": "गुरुवार और शनिवार के बीच का दिन",
       "example": "Spotkam się z tobą w piątek o 17:00. Spotkałem się z tobą w piątek przed tygodniem. Spotkam się z tobą w piątek następnego tygodnia.",
       "example_translation": "मैं शुक्रवार को 5 बजे आपसे मिलूँगा. मैं पिछले हफ्ते शुक्रवार को आपसे मिला था. मैं अगले हफ्ते शुक्रवार को आपसे मिलूँगा.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "रविवार और मंगलवार के बीच का दिन",
       "example": "Udałem się do szkoły w poniedziałek. Udam się do szkoły w poniedziałek. Udałem się do szkoły w poniedziałek tydzień temu.",
       "example_translation": "मैं सोमवार को स्कूल गया था. मैं सोमवार को स्कूल जाऊँगा. मैं सोमवार को स्कूल गया था.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "शुक्रवार और रविवार के बीच का दिन",
       "example": "Zagram w krykieta w sobotę. Zagrałem w krykieta w sobotę przed tygodniem. Zagrałem w krykieta w sobotę tydzień temu.",
       "example_translation": "मैं शनिवार को क्रिकेट खेलूँगा. मैं पिछले हफ्ते शनिवार को क्रिकेट खेला था. मैं उससे पहले हफ्ते शनिवार को क्रिकेट खेला था.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "आराम का दिन, सप्ताह का पहला दिन",
       "example": "Udam się do kościoła w niedzielę. Udałem się do kościoła w niedzielę przed tygodniem. Udam się do kościoła w niedzielę następnego tygodnia.",
       "example_translation": "मैं रविवार को चर्च जाऊँगा. मैं पिछले हफ्ते रविवार को चर्च गया था. मैं अगले हफ्ते रविवार को चर्च जाऊँगा.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "बुधवार और शुक्रवार के बीच का दिन",
       "example": "Wczoraj był czwartek, udam się na targu w czwartek. Udałem się do parku w czwartek.",
       "example_translation": "कल वीरवार था, मैं वीरवार को बाजार जाऊंगा, मैं वीरवार को पार्क गया था.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "सोमवार और बुधवार के बीच का दिन",
       "example": "Byłem zmęczony we wtorek, udam się na spotkanie we wtorek. Zagrałem w krykieta we wtorek.",
       "example_translation": "मैं मंगलवार को थका हुआ था, मैं मंगलवार को मीटिंग में जाऊंगा, मैं मंगलवार को क्रिकेट खेला था.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "मंगलवार और वीरवार के बीच का दिन",
       "example": "Mam spotkanie w środę, udam się do siłowni w środę. Udałem się do biblioteki w środę.",
       "example_translation": "मैं बुधवार को मीटिंग में हूँ, मैं बुधवार को जिम जाऊंगा, मैं बुधवार को लाइब्रेरी गया था.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

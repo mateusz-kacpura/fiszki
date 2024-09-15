@@ -9,7 +9,7 @@
       "definition_translation": "Il giorno della settimana tra il giovedì e il sabato, tradizionalmente considerato il quinto giorno della settimana in molte culture.",
       "example": "Ich treffen mich mit dir am Freitag um 17 Uhr. Letzten Freitag ging ich zum Strand. Bis nächsten Freitag werde ich mein Projekt abgeschlossen haben.",
       "example_translation": "Ti incontrerò il venerdì alle 5 pm. Il venerdì scorso, sono andato al mare. Entro il prossimo venerdì, avrò finito il mio progetto.",
-      "imageLink": "friday.jpg",
+      "imageLink": "image_files\\English\\friday.jpg",
       "audioLink": "Friday.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Il giorno della settimana tra la domenica e il martedì, tradizionalmente considerato il primo giorno della settimana in molte culture.",
       "example": "Ich habe ein Treffen am Montagmorgen. Letzten Montag sah ich einen großartigen Film. Bis nächsten Montag werde ich eine neue Fähigkeit erlernt haben.",
       "example_translation": "Ho una riunione il lunedì mattina. L'ultimo lunedì, ho visto un grande film. Entro il prossimo lunedì, avrò imparato una nuova abilità.",
-      "imageLink": "monday.jpg",
+      "imageLink": "image_files\\English\\monday.jpg",
       "audioLink": "Monday.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Il giorno della settimana tra il venerdì e la domenica, tradizionalmente considerato il sesto giorno della settimana in molte culture.",
       "example": "Ich gehe am Samstagnachmittag in den Park. Letzten Samstag spielte ich mit meinen Freunden Fußball. Bis nächsten Samstag werde ich meine Dissertation abgeschlossen haben.",
       "example_translation": "Vado al parco il sabato pomeriggio. L'ultimo sabato, ho giocato a calcio con i miei amici. Entro il prossimo sabato, avrò finito la mia tesi.",
-      "imageLink": "saturday.jpg",
+      "imageLink": "image_files\\English\\saturday.jpg",
       "audioLink": "Saturday.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Il giorno della settimana tra sabato e lunedì, considerato un giorno di riposo o di culto in molte culture.",
       "example": "Ich treffe mich mit dir am Sonntagmorgen. Gestern war Sonntag, also ging ich nicht zur Arbeit. Bis nächsten Sonntag werde ich mein Projekt abgeschlossen haben.",
       "example_translation": "Mi incontrerò con te la mattina di domenica. Ieri era domenica, quindi non sono andato a lavorare. La prossima domenica, avrò finito il mio progetto.",
-      "imageLink": "sunday.jpg",
+      "imageLink": "image_files\\English\\sunday.jpg",
       "audioLink": "Sunday.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Il giorno della settimana tra mercoledì e venerdì, spesso considerato un punto di mezzo nella settimana lavorativa.",
       "example": "Ich habe ein Treffen am Donnerstagnachmittag. Letzten Donnerstag ging ich ins Kino. Bis nächsten Donnerstag werde ich meinen Bericht abgeschlossen haben.",
       "example_translation": "Ho una riunione ilgiovedì pomeriggio. L'ultimo giovedì, sono andato al cinema. La prossima giovedì, avrò finito il mio rapporto.",
-      "imageLink": "thursday.jpg",
+      "imageLink": "image_files\\English\\thursday.jpg",
       "audioLink": "Thursday.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Il giorno della settimana tra lunedì e mercoledì, spesso considerato un giorno impegnato.",
       "example": "Ich habe eine Klasse am Dienstagmorgen. Letzten Dienstag ging ich ins Fitnessstudio. Bis nächsten Dienstag werde ich meine Aufgabe abgeschlossen haben.",
       "example_translation": "Ho una lezione il martedì mattina. L'ultimo martedì, sono andato in palestra. La prossima martedì, avrò finito il mio compito.",
-      "imageLink": "tuesday.jpg",
+      "imageLink": "image_files\\English\\tuesday.jpg",
       "audioLink": "Tuesday.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Il giorno della settimana tra martedì e giovedì, spesso considerato il mezzo della settimana.",
       "example": "Ich treffe mich mit dir am Mittwochmorgen, aber gestern war Dienstag und morgen wird Donnerstag sein. Ich habe ein Treffen am nächsten Mittwoch und letzten Mittwoch war ein Feiertag.",
       "example_translation": "Mi incontrerò con te il mercoledì mattina, ma ieri era martedì e domani sarà giovedì. Ho una riunione il mercoledì prossimo settimana, e il mercoledì scorso era un giorno di festa.",
-      "imageLink": "wednesday.jpg",
+      "imageLink": "image_files\\English\\wednesday.jpg",
       "audioLink": "Wednesday.mp3"
     }
   ]

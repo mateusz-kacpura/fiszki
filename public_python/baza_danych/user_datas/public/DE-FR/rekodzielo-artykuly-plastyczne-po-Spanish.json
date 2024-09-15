@@ -9,7 +9,7 @@
       "definition_translation": "Les crayons de couleur sont des instruments d'écriture et de dessin utilisés pour transmettre la couleur et sont souvent utilisés à des fins artistiques.",
       "example": "Ich habe bunte Stifte verwendet, um ein Bild meiner Familie zu zeichnen. Ich werde bunte Stifte verwenden, um die Karte zu färben. Ich habe bunte Stifte verwendet, um ein schönes Design zu erstellen.",
       "example_translation": "J'ai utilisé des crayons de couleur pour dessiner un portrait de ma famille. J'utiliserai des crayons de couleur pour colorer la carte. J'ai utilisé des crayons de couleur pour créer un beau design.",
-      "imageLink": "crayons.jpg",
+      "imageLink": "image_files\\English\\crayons.jpg",
       "audioLink": "coloured pencils.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Un crayon est un instrument d'écriture fait d'un noyau de graphite étroit et solide enfermé dans un boîtier en bois ou en plastique.",
       "example": "Ich habe meinen Namen mit einem Bleistift geschrieben. Ich werde einen Bleistift verwenden, um Notizen zu machen. Ich habe einen Bleistift verwendet, um das Matheproblem zu lösen.",
       "example_translation": "J'ai écrit mon nom avec un crayon. J'utiliserai un crayon pour prendre des notes. J'ai utilisé un crayon pour résoudre le problème de mathématiques.",
-      "imageLink": "pencil.jpg",
+      "imageLink": "image_files\\English\\pencil.jpg",
       "audioLink": "pencil.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Un pinceau est un outil avec des soies ou des poils utilisé pour nettoyer ou appliquer des substances telles que la peinture, l'encre ou les cosmétiques.",
       "example": "Ich habe einen Pinsel verwendet, um die Wand zu streichen. Ich werde einen Pinsel verwenden, um meine Haare zu stylen. Ich habe einen Pinsel verwendet, um den Boden zu reinigen.",
       "example_translation": "J'ai utilisé un pinceau pour peindre le mur. J'utiliserai un pinceau pour coiffer mes cheveux. J'ai utilisé un pinceau pour nettoyer le sol.",
-      "imageLink": "brush-1.jpg",
+      "imageLink": "image_files\\English\\brush-1.jpg",
       "audioLink": "brush.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Une règle est une ligne droite avec des marques utilisée pour mesurer ou dessiner des lignes droites.",
       "example": "Ich habe ein Lineal verwendet, um eine gerade Linie zu zeichnen. Ich werde ein Lineal verwenden, um die Länge des Tisches zu messen. Ich habe ein Lineal verwendet, um ein perfektes Quadrat zu erstellen.",
       "example_translation": "J'ai utilisé une règle pour dessiner une ligne droite. J'utiliserai une règle pour mesurer la longueur de la table. J'ai utilisé une règle pour créer un carré parfait.",
-      "imageLink": "ruler.jpg",
+      "imageLink": "image_files\\English\\ruler.jpg",
       "audioLink": "ruler.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Une paire de ciseaux se compose de deux lames qui sont articulées de manière que les tranchants puissent être rapprochés pour couper des matériaux fins tels que du papier, du tissu ou des cheveux.",
       "example": "Ich habe Scheren verwendet, um ein kompliziertes Design auszuschneiden. Ich werde Scheren verwenden, um morgen mein Haar zu schneiden. Ich habe Scheren verwendet, um das Paket zu öffnen.",
       "example_translation": "J'ai utilisé des ciseaux pour couper le design intriqué, j'utiliserai des ciseaux pour me couper les cheveux demain, et j'ai utilisé des ciseaux pour ouvrir le paquet.",
-      "imageLink": "scissors.jpg",
+      "imageLink": "image_files\\English\\scissors.jpg",
       "audioLink": "scissors.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un petit disque de plastique ou de métal ou bouton utilisé pour attacher ou détacher un vêtement, ou comme contrôle pour une machine.",
       "example": "Ich habe einen Knopf an mein Hemd genäht. Der Knopf auf der Fernbedienung ist kaputt. Sie wird den Knopf drücken, um die Maschine zu starten.",
       "example_translation": "J'ai cousu un bouton sur ma chemise, le bouton sur la télécommande est cassé, et elle appuiera sur le bouton pour démarrer la machine.",
-      "imageLink": "button-1.jpg",
+      "imageLink": "image_files\\English\\button-1.jpg",
       "audioLink": "button.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un petit épingle utilisé pour maintenir un dessin ou un papier en place sur un tableau ou une table.",
       "example": "Ich habe eine Heftzwecke verwendet, um die Karte zu befestigen. Sie wird eine Heftzwecke verwenden, um das Papier in Position zu halten. Er hat eine Heftzwecke verwendet, um ein Collage zu erstellen.",
       "example_translation": "J'ai utilisé une pince à dessin pour sécuriser la carte, elle utilisera une pince à dessin pour maintenir le papier en place, et il a utilisé une pince à dessin pour créer un collage.",
-      "imageLink": "drawing-pin.jpg",
+      "imageLink": "image_files\\English\\drawing-pin.jpg",
       "audioLink": "drawing pin.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Une substance liquide utilisée pour écrire ou imprimer, notamment dans les stylos et les imprimantes.",
       "example": "Ich habe meinen Füller mit blauer Tinte gefüllt. Der Drucker ist leer gerannt. Sie hat ihre Feder in rote Tinte getaucht.",
       "example_translation": "J'ai rempli mon stylo d'encre bleue, l'imprimante a manqué d'encre, et elle a tremper son roseau dans l'encre rouge.",
-      "imageLink": "ink.jpg",
+      "imageLink": "image_files\\English\\ink.jpg",
       "audioLink": "ink.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un modèle est une disposition régulière ou répétée d'objets, de conceptions ou de couleurs.",
       "example": "Ich liebe das Muster auf diesem Stoff. Gestern sah ich ein ähnliches Muster auf einem Kleid. Wenn ich eine Nähmaschine hätte, würde ich ein Kleid mit diesem Muster morgen machen.",
       "example_translation": "J'aime le modèle sur ce tissu. Hier, j'ai vu un modèle similaire sur une robe. Si j'avais une machine à coudre, je ferais une robe avec ce modèle demain.",
-      "imageLink": "pattern.jpg",
+      "imageLink": "image_files\\English\\pattern.jpg",
       "audioLink": "pattern.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Une épingle est un petit morceau de métal mince utilisé pour attacher des choses ensemble.",
       "example": "Ich habe eine Nadel verwendet, um mein Hemd zu reparieren. Ich hatte eine Nadel verwendet, um meine Schleife zusammenzuhalten. Wenn ich eine Nadel finde, werde ich sie verwenden, um meinen Hut morgen zu befestigen.",
       "example_translation": "J'ai utilisé une épingle pour réparer mon chemisier. J'avais utilisé une épingle pour tenir mon écharpe ensemble hier. Si je trouve une épingle, je l'utiliserai pour attacher mon chapeau demain.",
-      "imageLink": "pin-1.jpg",
+      "imageLink": "image_files\\English\\pin-1.jpg",
       "audioLink": "pin.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un coussin d'épingles est un petit coussin rond ou carré utilisé pour stocker des épingles.",
       "example": "Ich brauche ein Nadelkissen, um meine Nadeln aufzubewahren. Ich habe ein Nadelkissen verwendet, um mein Nähzeug gestern zu organisieren. Wenn ich ein schönes Nadelkissen finde, werde ich es kaufen, um mein Nähzimmer morgen zu dekorieren.",
       "example_translation": "J'ai besoin d'acheter un coussin d'épingles pour stocker mes épingles. J'ai utilisé un coussin d'épingles pour organiser mon kit de couture hier. Si je trouve un joli coussin d'épingles, je l'achèterai pour décorer ma salle de couture demain.",
-      "imageLink": "pincushion.jpg",
+      "imageLink": "image_files\\English\\pincushion.jpg",
       "audioLink": "pincushion.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Le carton est un matériau rigide, similaire au papier, utilisé pour faire des boîtes, des signes et d'autres objets.",
       "example": "Ich habe ein Stück Pappe verwendet, um ein Schild zu machen. Gestern hatte ich Pappe verwendet, um eine Kiste zu erstellen. Wenn ich ein großes Stück Pappe finde, werde ich morgen ein Puppentheater davon machen.",
       "example_translation": "J'ai utilisé un morceau de carton pour faire un signe. Hier, j'avais utilisé du carton pour créer une boîte. Si je trouve un grand morceau de carton, je ferai un théâtre de marionnettes demain.",
-      "imageLink": "cardboard.jpg",
+      "imageLink": "image_files\\English\\cardboard.jpg",
       "audioLink": "cardboard.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un type de matériau terrestre fin à grain qui est plastique lorsqu'il est humide mais durcit lorsqu'il est chauffé ou séché.",
       "example": "Der Töpfer hat den Ton zu einer schönen Vase geformt. Gestern hatte ich einen kleinen Tonvogel geformt. Morgen werde ich eine Tonstatue formen.",
       "example_translation": "Le potier a façonné l'argile en un beau vase. Hier, j'avais façonné un petit oiseau en argile. Demain, je façonnerai une statue en argile.",
-      "imageLink": "clay.jpg",
+      "imageLink": "image_files\\English\\clay.jpg",
       "audioLink": "clay.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un bâton de matériau coloré, généralement à base de cire, utilisé pour dessiner ou colorer.",
       "example": "Das Kind hat die Wachsmalstifte ergriffen und begann ein Bild zu zeichnen. Gestern hatte ich Wachsmalstifte verwendet, um ein Buch zu kolorieren. Morgen werde ich Wachsmalstifte verwenden, um einen Cartoon zu zeichnen.",
       "example_translation": "L'enfant a pris les crayons et a commencé à dessiner une image. Hier, j'avais utilisé des crayons pour colorer un livre. Demain, j'utiliserai des crayons pour dessiner une bande dessinée.",
-      "imageLink": "crayons-1.jpg",
+      "imageLink": "image_files\\English\\crayons-1.jpg",
       "audioLink": "crayons.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Une substance collante utilisée pour joindre ou réparer des choses.",
       "example": "Ich habe den Klebstoff auf das kaputte Spielzeug aufgetragen und es wieder zusammengefügt. Gestern hatte ich Klebstoff verwendet, um einen Stuhl zu reparieren. Morgen werde ich Klebstoff verwenden, um einen Knopf anzubringen.",
       "example_translation": "J'ai appliqué la colle sur le jouet cassé et l'ai réparé. Hier, j'avais utilisé de la colle pour réparer une chaise. Demain, j'utiliserai de la colle pour attacher un bouton.",
-      "imageLink": "glue-1.jpg",
+      "imageLink": "image_files\\English\\glue-1.jpg",
       "audioLink": "glue.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Un petit instrument pointu utilisé pour coudre ou percer.",
       "example": "Sie hat die Nadel aufgefädelt und begann ein Kleid zu nähen. Gestern hatte ich eine Nadel verwendet, um eine zerrissene Seite zu reparieren. Morgen werde ich eine Nadel verwenden, um eine Decke zu quilt.",
       "example_translation": "Elle a enfilé l'aiguille et a commencé à coudre une robe. Hier, j'avais utilisé une aiguille pour réparer une page déchirée. Demain, j'utiliserai une aiguille pour faire du patchwork sur une couverture.",
-      "imageLink": "needle.jpg",
+      "imageLink": "image_files\\English\\needle.jpg",
       "audioLink": "needle.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un petit morceau de papier absorbant, généralement carré, utilisé pour s'essuyer la bouche et les mains pendant les repas.",
       "example": "Ich habe ein Papiertaschentuch verwendet, um meinen Mund nach dem Essen des Sandwichs zu reinigen. Ich werde ein Papiertaschentuch verwenden, um meine Hände zu reinigen. Sie hatte ein Papiertaschentuch verwendet, um ihre Tränen zu trocknen.",
       "example_translation": "J'ai utilisé une serviette en papier pour m'essuyer la bouche après avoir mangé le sandwich. J'utiliserai une serviette en papier pour nettoyer mes mains. Elle avait utilisé une serviette en papier pour sécher ses larmes.",
-      "imageLink": "paper-napkin.jpg",
+      "imageLink": "image_files\\English\\paper-napkin.jpg",
       "audioLink": "paper napkin.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Une petite épine avec un fermoir à ressort, utilisée pour fixer des vêtements ou d'autres tissus de manière sécurisée, notamment sur les bébés et les jeunes enfants.",
       "example": "Meine Mutter hat eine Sicherheitsnadel verwendet, um mein.windel zu befestigen, als ich ein Baby war. Sie wird eine Sicherheitsnadel verwenden, um den gerissenen Saum ihres Kleids zu reparieren. Die Kinderaufseherin hatte eine Sicherheitsnadel verwendet, um den kaputten Reißverschluss des Kindersakkos vorübergehend zu reparieren.",
       "example_translation": "Ma mère a utilisé une épinglette de sécurité pour attacher mon diaper lorsque j'étais bébé. Elle utilisera une épinglette de sécurité pour réparer la couture éventrée de sa robe. La nounou avait utilisé une épinglette de sécurité pour réparer temporairement la fermeture éclair cassée du manteau de l'enfant.",
-      "imageLink": "safety-pin.jpg",
+      "imageLink": "image_files\\English\\safety-pin.jpg",
       "audioLink": "safety pin.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un appareil utilisé pour coudre le tissu ensemble, généralement alimenté par l'électricité ou la pédale.",
       "example": "Ich habe eine Nähmaschine verwendet, um ein neues Kleid für die Party zu machen. Sie wird eine Nähmaschine verwenden, um die zerrissenen Seiten ihres Buches zu reparieren. Der Schneider hatte eine Nähmaschine verwendet, um einen maßgeschneiderten Anzug für den Kunden zu erstellen.",
       "example_translation": "J'ai utilisé une machine à coudre pour faire une nouvelle robe pour la fête. Elle utilisera une machine à coudre pour réparer les pages déchirées de son livre. Le tailleur avait utilisé une machine à coudre pour créer un costume sur mesure pour le client.",
-      "imageLink": "sewing-machine.jpg",
+      "imageLink": "image_files\\English\\sewing-machine.jpg",
       "audioLink": "sewing machine.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un petit étiquette ou image adhésive, utilisée pour décorer ou identifier quelque chose.",
       "example": "Ich habe einen Aufkleber auf mein Laptop geklebt, um es zu personalisieren. Sie wird einen Aufkleber verwenden, um ihre Akten zu kennzeichnen. Die Kinder hatten Aufkleber verwendet, um ihre Geburtstagskarten zu dekorieren.",
       "example_translation": "J'ai collé un autocollant sur mon ordinateur portable pour le personnaliser. Elle utilisera un autocollant pour étiquetter ses fichiers. Les enfants avaient utilisé des autocollants pour décorer leurs cartes d'anniversaire.",
-      "imageLink": "sticker.jpg",
+      "imageLink": "image_files\\English\\sticker.jpg",
       "audioLink": "sticker.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Une séquence de caractères utilisée pour transmettre des informations.",
       "example": "Sie band die Schnur an das Paket. Sie bindet die Schnur jetzt. Sie wird die Schnur morgen binden.",
       "example_translation": "Elle a attaché la cordelle au paquet. Elle attache la cordelle maintenant. Elle attachera la cordelle demain.",
-      "imageLink": "string-1.jpg",
+      "imageLink": "image_files\\English\\string-1.jpg",
       "audioLink": "string.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un fil mince et flexible ou une bande de métal, utilisé pour conduire l'électricité ou envoyer des messages.",
       "example": "Er verband den Draht mit dem Schaltkreis. Er verbindet den Draht jetzt. Er wird den Draht morgen verbinden.",
       "example_translation": "Il a connecté le fil au circuit. Il connecte le fil maintenant. Il connectera le fil demain.",
-      "imageLink": "wire.jpg",
+      "imageLink": "image_files\\English\\wire.jpg",
       "audioLink": "wire.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un dispositif utilisé pour attacher ou détacher, notamment un qui se compose de dents s'emboîtant.",
       "example": "Sie zog den Reißverschluss ihrer Jacke zu. Sie zieht den Reißverschluss ihrer Jacke jetzt zu. Sie wird den Reißverschluss ihrer Jacke morgen zuziehen.",
       "example_translation": "Elle a fermé son manteau avec la fermoire. Elle ferme son manteau avec la fermoire maintenant. Elle ferméra son manteau avec la fermoire demain.",
-      "imageLink": "zip.jpg",
+      "imageLink": "image_files\\English\\zip.jpg",
       "audioLink": "zip.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Bâtons de dessin à base de cire utilisés pour colorier, dessiner et écrire.",
       "example": "Die Kinder benutzten Wachskreiden, um zu malen. Sie benutzen Wachskreiden, um jetzt zu malen. Sie werden Wachskreiden verwenden, um morgen zu malen.",
       "example_translation": "Les enfants utilisent des crayons de cire pour colorer. Ils utilisent des crayons de cire pour colorer maintenant. Ils utiliseront des crayons de cire pour colorer demain.",
-      "imageLink": "wax-crayons.jpg",
+      "imageLink": "image_files\\English\\wax-crayons.jpg",
       "audioLink": "(wax) crayons.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Un tissu est un matériel textile, le plus souvent fabriqué à partir de fils entrelacés, lui donnant une structure flexible, fine et douce. Les tissus peuvent être tissés, tricotés ou fabriqués par d'autres méthodes.",
       "example": "Ich verwendete einen schönen Stoff, um ein Kleid für meine Schwester anzufertigen. Ich werde einen anderen Stoff verwenden, um ein Hemd für meinen Bruder anzufertigen. Ich verwendete einen stabilen Stoff, um eine Tasche für meine Mutter anzufertigen.",
       "example_translation": "J'ai utilisé un beau tissu pour faire une robe pour ma sœur. J'utiliserai un autre tissu pour faire une chemise pour mon frère. J'ai utilisé un tissu solide pour faire un sac pour ma mère.",
-      "imageLink": "fabric.jpg",
+      "imageLink": "image_files\\English\\fabric.jpg",
       "audioLink": "fabric.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Un tampon en caoutchouc est un outil manuel utilisé pour appliquer de l'encre ou d'autres liquides sur du papier ou d'autres surfaces, généralement avec un design ou un motif. Il est souvent utilisé à des fins artistiques ou commerciales.",
       "example": "Ich verwendete einen Gummistempel, um mein Namenszeichen auf das Dokument zu setzen. Sie wird einen Gummistempel verwenden, um ihr Tagebuch zu dekorieren. Sie verwendeten einen Gummistempel, um die Pakete zu markieren.",
       "example_translation": "J'ai utilisé un tampon en caoutchouc pour signer mon nom sur le document. Elle utilisera un tampon en caoutchouc pour décorer son journal. Ils ont utilisé un tampon en caoutchouc pour marquer les paquets.",
-      "imageLink": "rubber-stamp.jpg",
+      "imageLink": "image_files\\English\\rubber-stamp.jpg",
       "audioLink": "rubber stamp.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Le feutre est un tissu non tissé fabriqué à partir de fibres, telles que la laine ou des matériaux synthétiques, qui sont mises en boule, condensées et pressées ensemble à l'aide de chaleur, d'humidité et de pression.",
       "example": "Ich verwendete Filz, um einen Hut für meinen Freund anzufertigen. Sie wird Filz verwenden, um ein Kostüm für das Spiel anzufertigen. Sie verwendeten Filz, um ein Set an Untersetzer anzufertigen.",
       "example_translation": "J'ai utilisé du feutre pour faire un chapeau pour mon ami. Elle utilisera du feutre pour créer un costume pour la pièce. Ils ont utilisé du feutre pour faire un jeu de plateaux.",
-      "imageLink": "felt.jpg",
+      "imageLink": "image_files\\English\\felt.jpg",
       "audioLink": "felt.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Les pincettes sont un outil portatif utilisé pour saisir et plier divers objets, tels que des tuyaux, des fils ou de petites pièces, en appliquant un avantage mécanique par levier.",
       "example": "Ich verwendete eine Zange, um das Rohr zu greifen. Sie wird eine Zange verwenden, um den Draht zu biegen. Sie verwendeten eine Zange, um das kleine Teil in Position zu halten.",
       "example_translation": "J'ai utilisé des pincettes pour saisir le tuyau. Elle utilisera des pincettes pour plier le fil. Ils ont utilisé des pincettes pour maintenir la petite pièce en place.",
-      "imageLink": "pliers.jpg",
+      "imageLink": "image_files\\English\\pliers.jpg",
       "audioLink": "pliers.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Un petit élément métallique de fermeture utilisé pour joindre deux parties ensemble, généralement sur les vêtements.",
       "example": "Ich drückte den Knopf, um mein Hemd zuzuknüpfen. Gestern hatte ich den Knopf gedrückt, um mein Hemd zuzuknüpfen, und morgen werde ich den Knopf drücken, um mein Hemd zuzuknüpfen.",
       "example_translation": "J'ai pressé le bouton-pression pour fermer ma chemise. Hier, j'avais pressé le bouton-pression pour fermer ma chemise, et demain je presserai le bouton-pression pour fermer ma chemise.",
-      "imageLink": "press-stud.jpg",
+      "imageLink": "image_files\\English\\press-stud.jpg",
       "audioLink": "press stud.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Un outil utilisé pour faire un trou dans quelque chose, généralement un objet en cuir ou en métal.",
       "example": "Ich Lochte ein Loch in den Ledergürtel. Gestern hatte ich ein Loch in den Ledergürtel gelocht, und morgen werde ich ein Loch in den Ledergürtel lochen.",
       "example_translation": "J'ai percé un trou dans la ceinture en cuir. Hier, j'avais percé un trou dans la ceinture en cuir, et demain je percerai un trou dans la ceinture en cuir.",
-      "imageLink": "punch-2.jpg",
+      "imageLink": "image_files\\English\\punch-2.jpg",
       "audioLink": "punch.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Une longue bande étroite de tissu ou autre matériau, utilisée à des fins décoratives ou fonctionnelles.",
       "example": "Sie band eine Schleife um das Geschenk. Gestern hatte sie eine Schleife um das Geschenk gebunden, und morgen wird sie eine Schleife um das Geschenk binden.",
       "example_translation": "Elle a attaché un ruban autour de la boîte cadeau. Hier, elle avait attaché un ruban autour de la boîte cadeau, et demain elle attachera un ruban autour de la boîte cadeau.",
-      "imageLink": "ribbon.jpg",
+      "imageLink": "image_files\\English\\ribbon.jpg",
       "audioLink": "ribbon.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Un objet cylindrique qui tourne sur son axe, utilisé pour diverses purposes telles que la peinture ou l'étirement de la pâte.",
       "example": "Ich verwendete eine Walze, um die Wand zu malen. Gestern hatte ich eine Walze zur Wandbemalung verwendet, und morgen werde ich eine Walze verwenden, um die Wand zu malen.",
       "example_translation": "J'ai utilisé un rouleau pour peindre le mur. Hier, j'avais utilisé un rouleau pour peindre le mur, et demain je vais utiliser un rouleau pour peindre le mur.",
-      "imageLink": "roller-1.jpg",
+      "imageLink": "image_files\\English\\roller-1.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "un papier ou un tissu avec surface abrasive, utilisé pour lisser et polir le bois, le métal, etc.",
       "example": "Ich verwendete Schleifpapier, um die hölzerne Oberfläche zu glätten. Gestern habe ich den Boden geschliffen. Morgen werde ich die Wände schleifen.",
       "example_translation": "J'ai utilisé du papier de verre pour lisser la surface en bois. Hier, j'ai poncé le plancher. Demain, je poncerai les murs.",
-      "imageLink": "sandpaper.jpg",
+      "imageLink": "image_files\\English\\sandpaper.jpg",
       "audioLink": "sandpaper.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "petits disques brillants, généralement en plastique ou en métal, utilisés pour décorer des vêtements ou des accessoires",
       "example": "Das Kostüm war mit Pailletten und Glitter überzogen. Sie nähte Pailletten auf ihr Kleid letzten Abend. Die Modedesignerin wird Pailletten in ihrer nächsten Kollektion verwenden.",
       "example_translation": "Le costume était couvert de paillettes et de paillettes. Elle a cousu des paillettes sur sa robe hier soir. La designer de mode utilisera des paillettes sur sa prochaine collection.",
-      "imageLink": "sequins.jpg",
+      "imageLink": "image_files\\English\\sequins.jpg",
       "audioLink": "sequins.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "une feuille mince de matériau, comme du papier ou du plastique, avec un design découpé, utilisée comme modèle pour peindre ou dessiner",
       "example": "Ich verwendete eine Schablone, um ein Muster auf die Wand zu malen. Die Künstlerin erstellte eine Schablone für ihr nächstes Gemälde. Die Lehrerin wird uns eine Schablone für das Kunstprojekt geben.",
       "example_translation": "J'ai utilisé un pochoir pour peindre un design sur le mur. L'artiste a créé un pochoir pour sa prochaine peinture. L'enseignante nous donnera un pochoir pour le projet d'art.",
-      "imageLink": "stencil.jpg",
+      "imageLink": "image_files\\English\\stencil.jpg",
       "audioLink": "stencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "un unique passage de l'aiguille et du fil, utilisé pour joindre, réparer ou décorer du tissu, etc.",
       "example": "Ich nähte einen Stich, um den Riss zu reparieren. Sie wird den Stoff zusammen nähen. Der Schneider wird den Saum des Kleides nähen.",
       "example_translation": "J'ai cousu un point pour réparer la déchirure. Elle cousira le tissu ensemble. Le tailleur coudra l'ourlet de la robe.",
-      "imageLink": "stitch-1.jpg",
+      "imageLink": "image_files\\English\\stitch-1.jpg",
       "audioLink": "stitch.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Un type de mousse de plastique utilisé pour fabriquer des tasses, des contenants et des matériaux d'emballage.",
       "example": "Früher verwendeten wir Styrofoam-Becher für Kaffee, aber jetzt verwenden wir recycelte Pappbecher. Derzeit produziert das Unternehmen umweltfreundliche Alternativen. In Zukunft werden wir Styrofoam-Produkte komplett eliminieren.",
       "example_translation": "Dans le passé, nous avons utilisé des tasses en mousse de polystyrène pour le café, mais maintenant nous utilisons des tasses en papier recyclé. Actuellement, l'entreprise produit des alternatives écologiques. Dans le futur, nous éliminerons complètement les produits en mousse de polystyrène.",
-      "imageLink": "styrofoam.jpg",
+      "imageLink": "image_files\\English\\styrofoam.jpg",
       "audioLink": "styrofoam.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Un petit contenant en forme de coupe porté à l'extrémité du doigt pour le protéger pendant la couture.",
       "example": "Meine Großmutter trug immer einen Fingerhut, wenn sie nähte, aber ich bevorzuge einen Nadelhandschuh. Sie lernte in der Vergangenheit nähen, aber jetzt lehre ich ihr neue Techniken. In Zukunft werden wir gemeinsam eine Quiltdecke machen.",
       "example_translation": "Ma grand-mère utilisait toujours un de quand elle cousait, mais je préfère utiliser un garde-aiguille. Elle a appris à coudre dans le passé, mais maintenant je lui enseigne de nouvelles techniques. Dans le futur, nous ferons un quilt ensemble.",
-      "imageLink": "thimble.jpg",
+      "imageLink": "image_files\\English\\thimble.jpg",
       "audioLink": "thimble.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Un long fil mince de fibres utilisé pour coudre ou tisser.",
       "example": "Ich muss einen neuen Faden für meine Nähmaschine kaufen, weil der alte kaputt ist. In der Vergangenheit lehrte meine Mutter mich, einen Faden durch eine Nadel zu ziehen. Derzeit arbeite ich an einem neuen Stickereiprojekt. In Zukunft werde ich ein maßgeschneidertes Kleidungsstück erstellen.",
       "example_translation": "Je dois acheter un nouveau fil pour ma machine à coudre parce que l'ancien est cassé. Dans le passé, ma mère m'a appris à enfiler une aiguille. Actuellement, je travaille sur un nouveau projet de broderie. Dans le futur, je créerai un vêtement sur mesure.",
-      "imageLink": "thread.jpg",
+      "imageLink": "image_files\\English\\thread.jpg",
       "audioLink": "thread.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Un revêtement liquide ou finition appliqué sur le bois ou d'autres matériaux pour les protéger et améliorer leur apparence.",
       "example": "Der Tischler trug einen Lack auf den hölzernen Tisch auf, um ihn vor Kratzern zu schützen. Früher verwendete ich einen Lack, der nicht umweltfreundlich war, aber jetzt wähle ich einen wasserbasierten Lack. Derzeit restauriere ich ein antikes Möbelstück. In Zukunft werde ich einen maßgeschneiderten Lack für meine Kunden erstellen.",
       "example_translation": "Le menuisier a appliqué une couche de vernis sur la table en bois pour la protéger des égratignures. Dans le passé, j'utilisais un vernis qui n'était pas écologique, mais maintenant j'opte pour un vernis à base d'eau. Actuellement, je restaure une pièce de mobilier antique. Dans le futur, je créerai un vernis sur mesure pour mes clients.",
-      "imageLink": "varnish.jpg",
+      "imageLink": "image_files\\English\\varnish.jpg",
       "audioLink": "varnish.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Osier est un type de meubles tissés ou d'autres objets faits de branches flexibles ou de roseaux, souvent saule ou rotin.",
       "example": "Sie saß auf dem Weidenstuhl auf der Veranda. Gestern hatte sie Weidenstühle in ihrem Garten. Bis nächsten Sommer wird sie Weidenmöbel überall in ihrem Hinterhof haben.",
       "example_translation": "Elle s'est assise sur la chaise en osier sur le porche. Hier, elle avait des chaises en osier dans son jardin. D'ici l'été prochain, elle aura des meubles en osier partout dans son jardin.",
-      "imageLink": "wicker.jpg",
+      "imageLink": "image_files\\English\\wicker.jpg",
       "audioLink": "wicker.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "La peinture acrylique est une peinture à séchage rapide, versatile et soluble dans l'eau, faite à partir d'un mélange d'eau, de pigment, de liant et d'autres additifs.",
       "example": "Er verwendete Acrylfarbe, um ein schönes Landschaftsbild zu erstellen. Vor einem Jahr hatte er Acrylfarbe für sein Kunstprojekt gekauft. Bis nächsten Monat wird er gelernt haben, Acrylfarbe mit anderen Medien zu mischen.",
       "example_translation": "Il a utilisé de la peinture acrylique pour créer un paysage magnifique. L'an dernier, il avait acheté de la peinture acrylique pour son projet d'art. D'ici le mois prochain, il aura appris à mélanger de la peinture acrylique avec d'autres supports.",
-      "imageLink": "acrylic-paint.jpg",
+      "imageLink": "image_files\\English\\acrylic-paint.jpg",
       "audioLink": "acrylic paint.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Un bord adhésif est une bande décorative avec un dos adhésif, utilisée pour ajouter un design ou un motif à une surface ou un objet.",
       "example": "Sie applizierte einen selbstklebenden Rand auf ihre Scrapbook-Seite. Gestern hatte sie selbstklebende Ränder verwendet, um ihr Fotoalbum zu dekorieren. Bis nächste Woche wird sie neue selbstklebende Ränder für ihr Handwerk-Projekt gekauft haben.",
       "example_translation": "Elle a appliqué un bord adhésif à sa page de scrapbook. Hier, elle avait utilisé des bordures adhésives pour décorer son album photo. D'ici la semaine prochaine, elle aura acheté de nouvelles bordures adhésives pour son projet de bricolage.",
-      "imageLink": "adhesive-border.jpg",
+      "imageLink": "image_files\\English\\adhesive-border.jpg",
       "audioLink": "adhesive border.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Les perles sont de petits objets décoratifs, généralement faits de verre, de plastique ou d'autres matériaux, utilisés pour les bijoux, les arts et les autres fins décoratives.",
       "example": "Sie fädelte die Perlen auf eine Halskette auf. Vor einem Monat hatte sie einen Perlen-Armband gemacht. Bis nächstem Jahr wird sie gelernt haben, Perlen in ein Gewebe zu weben.",
       "example_translation": "Elle a enfilé les perles sur un collier. Le mois dernier, elle avait fait un bracelet de perles. D'ici l'année prochaine, elle aura appris à tisser des perles dans un tissu.",
-      "imageLink": "beads.jpg",
+      "imageLink": "image_files\\English\\beads.jpg",
       "audioLink": "beads.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Un type de point de broderie utilisé pour finir le bord d'un blanket ou d'un autre tissu, caractérisé par une série de petites boucles.",
       "example": "Ich verwendete einen Deckstich, um den Rand meiner Quilt zu finishen. Ich werde einen Deckstich verwenden, um den Saum meiner Hose zu nähen. Ich hatte einen Deckstich verwendet, um mein Lieblingspullover zu reparieren.",
       "example_translation": "J'ai utilisé un point de blanket pour finir le bord de ma couette. J'utiliserai un point de blanket pour coudre l'ourlet de mon pantalon. J'avais utilisé un point de blanket pour réparer mon pull préféré.",
-      "imageLink": "blanket-stitch.jpg",
+      "imageLink": "image_files\\English\\blanket-stitch.jpg",
       "audioLink": "blanket stitch.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Une collection de brosses utilisées pour un but spécifique, tel que la peinture ou l'application de maquillage.",
       "example": "Ich kaufte ein neues Pinselset für meinen Ölmalerei-Kurs. Sie verwendet ein Pinselset, um sich jeden Morgen zu schminken. Sie werden ein neues Pinselset für Haarpflege nächsten Monat starten.",
       "example_translation": "J'ai acheté un nouvel ensemble de brosses pour ma classe de peinture à l'huile. Elle utilise un ensemble de brosses pour appliquer son maquillage chaque matin. Ils lanceront un nouvel ensemble de brosses pour les soins des cheveux le mois prochain.",
-      "imageLink": "brush-set.jpg",
+      "imageLink": "image_files\\English\\brush-set.jpg",
       "audioLink": "brush set.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Un type de point de broderie qui consiste en une série de boucles connectées, souvent utilisé pour délimiter les dessins ou créer des bordures.",
       "example": "Ich verwendete einen Kettstich, um das Design auf meinem Stickrahmen zu umranden. Sie wird einen Kettstich verwenden, um einen Rand auf ihrer Quilt zu erstellen. Ich hatte einen Kettstich verwendet, um eine dekorative Kante auf meiner Kissenhülle zu machen.",
       "example_translation": "J'ai utilisé un point de chaîne pour délimiter le dessin sur mon cercle de broderie. Elle utilisera un point de chaîne pour créer une bordure sur sa couette. J'avais utilisé un point de chaîne pour faire une bordure décorative sur ma taie d'oreiller.",
-      "imageLink": "chain-stitch.jpg",
+      "imageLink": "image_files\\English\\chain-stitch.jpg",
       "audioLink": "chain stitch.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Un type d'aiguille de tricot qui est circulaire en forme, permettant une facilité d'utilisation lors du tricotage en rond.",
       "example": "Ich bevorzuge es, eine Rundstricknadel zu verwenden, wenn ich eine Mütze stricke. Sie verwendet eine Rundstricknadel, um Pullover für ihre Familie zu stricken. Ich hatte eine Rundstricknadel verwendet, um einen Schal für meinen Freund zu machen.",
       "example_translation": "Je préfère utiliser une aiguille circulaire lors du tricotage d'un chapeau. Elle utilise une aiguille circulaire pour tricoter des pull-overs pour sa famille. J'avais utilisé une aiguille circulaire pour faire un écharpe pour mon ami.",
-      "imageLink": "circular-needle.jpg",
+      "imageLink": "image_files\\English\\circular-needle.jpg",
       "audioLink": "circular needle.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Un outil utilisé pour créer un angle arrondi sur un morceau de papier ou de carte, couramment utilisé dans le scrapbooking et le travail du papier.",
       "example": "Sie verwendete einen Eckenstanzer, um eine dekorative Kante auf ihrem Fotoalbum zu erstellen. Gestern hatte sie alle vier Ecken der Seite gestanzt. Morgen wird sie die Ecken der nächsten Seite stanzen.",
       "example_translation": "Elle a utilisé un poinçon d'angle pour créer un bord décoratif sur son album photo. Hier, elle avait poinçonné tous les quatre angles de la page. Demain, elle poinçonnera les angles de la page suivante.",
-      "imageLink": "corner-punch.jpg",
+      "imageLink": "image_files\\English\\corner-punch.jpg",
       "audioLink": "corner punch.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Un type de papier fin, frisé, souvent utilisé dans les décorations, les artisanats et l'emballage des cadeaux.",
       "example": "Die Party-Dekorationen waren aus Krepppapier in bunten Farben hergestellt. Vor einem Jahr hatten sie Krepppapier verwendet, um eine festliche Atmosphäre zu schaffen. Nächsten Monat werden sie Krepppapier verwenden, um den Saal zu dekorieren.",
       "example_translation": "Les décorations de la fête ont été faites avec du papier crépon de couleurs vives. L'année dernière, ils avaient utilisé du papier crépon pour créer une atmosphère festive. Le mois prochain, ils utiliseront du papier crépon pour décorer le hall.",
-      "imageLink": "crepe-paper.jpg",
+      "imageLink": "image_files\\English\\crepe-paper.jpg",
       "audioLink": "crepe paper.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Un outil utilisé pour créer des boucles dans du fil ou du fil, utilisé dans l'artisanat du crochet.",
       "example": "Sie verwendete einen Häkelhaken, um eine schöne Decke zu machen. Gestern hatte sie einen Häkelhaken verwendet, um ein komplexes Muster zu erstellen. Morgen wird sie einen Häkelhaken verwenden, um ein Loch in ihrem Pullover zu reparieren.",
       "example_translation": "Elle a utilisé un crochet à crochet pour faire une belle couverture. Hier, elle avait utilisé un crochet à crochet pour créer un motif intriqué. Demain, elle utilisera un crochet à crochet pour réparer un trou dans son pull.",
-      "imageLink": "crochet-hook.jpg",
+      "imageLink": "image_files\\English\\crochet-hook.jpg",
       "audioLink": "crochet hook.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Une forme populaire de broderie qui implique de créer des motifs sur du tissu en utilisant des points en forme de croix.",
       "example": "Sie verbrachte Stunden damit, an einem Kreuzstich-Muster zu arbeiten. Letzte Woche hatte sie ein Kreuzstich-Projekt beendet. Nächstes Jahr wird sie ein neues Kreuzstich-Projekt beginnen.",
       "example_translation": "Elle a passé des heures à travailler sur un motif de broderie au point de croix. La semaine dernière, elle avait terminé un projet de broderie au point de croix. L'année prochaine, elle commencera un nouveau projet de broderie au point de croix.",
-      "imageLink": "cross-stitch.jpg",
+      "imageLink": "image_files\\English\\cross-stitch.jpg",
       "audioLink": "cross stitch.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Une tampille de date est un outil ou un appareil utilisé pour appliquer une date à un document, à un paquet ou à un autre élément, souvent sous forme d'empreinte imprimée ou encre.",
       "example": "Der Angestellte verwendete einen Datumsstempel, um die Papiere zu markieren, Ich werde morgen einen Datumsstempel verwenden, um das Paket zu markieren, und sie hatte letzten Woche einen Datumsstempel verwendet, um den Brief zu markieren.",
       "example_translation": "Le greffier a utilisé une tampille de date pour marquer les papiers, j'utiliserai une tampille de date pour marquer le paquet demain, et elle avait utilisée une tampille de date pour marquer la lettre la semaine dernière.",
-      "imageLink": "date-stamp.jpg",
+      "imageLink": "image_files\\English\\date-stamp.jpg",
       "audioLink": "date stamp.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Le papier découpé est un type de papier utilisé pour une technique d'artisanat où des images ou des impressions découpées sont appliquées à un objet à l'aide d'un scellateur ou d'un adhésif.",
       "example": "Sie verwendete Decoupage-Papier, um das Möbel zu dekorieren, Ich werde morgen Decoupage-Papier verwenden, um ein Collage zu erstellen, und sie hatten letzten Jahr Decoupage-Papier verwendet, um ein Wandbild zu erstellen.",
       "example_translation": "Elle a utilisé du papier découpé pour décorer les meubles, j'utiliserai du papier découpé pour faire un collage demain, et ils avaient utilisé du papier découpé pour créer une fresque l'année dernière.",
-      "imageLink": "decoupage-paper.jpg",
+      "imageLink": "image_files\\English\\decoupage-paper.jpg",
       "audioLink": "decoupage paper.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Le fil à broder est un type de fil ou de yarn utilisé pour la broderie, souvent fait de coton, de soie ou d'autres matériaux, et disponible dans une variété de couleurs.",
       "example": "Sie verwendete Stickgarn, um das Design zu nähen, Ich werde morgen Stickgarn verwenden, um ein Muster zu erstellen, und sie hatten letzten Monat Stickgarn verwendet, um ein Tapestry zu erstellen.",
       "example_translation": "Elle a utilisé du fil à broder pour coudre le design, j'utiliserai du fil à broder pour créer un motif demain, et ils avaient utilisé du fil à broder pour faire une tapisserie le mois dernier.",
-      "imageLink": "embroidery-floss.jpg",
+      "imageLink": "image_files\\English\\embroidery-floss.jpg",
       "audioLink": "embroidery floss.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Un cercle à broder est un cadre circulaire utilisé pour maintenir le tissu tendu, facilitant ainsi la broderie ou la couture, et souvent utilisé dans la broderie manuelle ou le point de croix.",
       "example": "Sie verwendete einen Stickrahmen, um die Buchstaben zu nähen, Ich werde morgen einen Stickrahmen verwenden, um ein Design zu erstellen, und sie hatten letzten Jahr einen Stickrahmen verwendet, um ein Muster zu erstellen.",
       "example_translation": "Elle a utilisé un cercle à broder pour coudre les lettres, j'utiliserai un cercle à broder pour créer un design demain, et ils avaient utilisé un cercle à broder pour faire un échantillon l'année dernière.",
-      "imageLink": "embroidery-hoop.jpg",
+      "imageLink": "image_files\\English\\embroidery-hoop.jpg",
       "audioLink": "embroidery hoop.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Un pinceau à mousse est un type de pinceau qui a des poils en mousse douce utilisés pour appliquer de la peinture, des adhésifs ou d'autres matériaux.",
       "example": "Ich verwendete einen Schaum-Pinsel, um die Farbe auf die Wand aufzutragen. Ich werde morgen einen Schaum-Pinsel verwenden, um das Möbel zu streichen. Sie hatte einen Schaum-Pinsel verwendet, um den Klebstoff aufzutragen.",
       "example_translation": "J'ai utilisé un pinceau à mousse pour appliquer la peinture au mur. J'utiliserai un pinceau à mousse pour peindre les meubles demain. Elle avait utilisé un pinceau à mousse pour appliquer l'adhésif.",
-      "imageLink": "foam-brush.jpg",
+      "imageLink": "image_files\\English\\foam-brush.jpg",
       "audioLink": "foam brush.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Un pistolet à colle est un dispositif portatif qui distribue de la colle chaude pour lier les matériaux ensemble.",
       "example": "Ich verwendete eine Heißklebepistole, um den Stoff an den Rahmen anzubringen. Sie wird morgen eine Heißklebepistole verwenden, um das Spielzeug zu reparieren. Sie hatten eine Heißklebepistole verwendet, um das Möbel zusammenzubauen.",
       "example_translation": "J'ai utilisé un pistolet à colle pour attacher le tissu au cadre. Elle utilisera un pistolet à colle pour réparer le jouet. Ils avaient utilisé un pistolet à colle pour assembler les meubles.",
-      "imageLink": "glue-gun.jpg",
+      "imageLink": "image_files\\English\\glue-gun.jpg",
       "audioLink": "glue gun.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Un oeillet et croc est un type de fermoir qui se compose d'un crochet en métal et d'un oeil correspondant que cela s'adapte à.",
       "example": "Ich verwendete einen Haken und Öse, um das Kleid zu schließen. Sie wird morgen einen Haken und Öse verwenden, um den Reißverschluss anzubringen. Sie hatten einen Haken und Öse verwendet, um die Tasche zu sichern.",
       "example_translation": "J'ai utilisé un oeillet et croc pour fermer la robe. Elle utilisera un oeillet et croc pour attacher la fermeture éclair. Ils avaient utilisé un oeillet et croc pour sécuriser le sac.",
-      "imageLink": "hook-and-eye.jpg",
+      "imageLink": "image_files\\English\\hook-and-eye.jpg",
       "audioLink": "hook and eye.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Un tampon encreur est un petit tampon absorbant qui est utilisé pour appliquer de l'encre aux timbres ou à d'autres surfaces.",
       "example": "Ich verwendete ein Tintenpad, um das Dokument zu stempeln. Sie wird morgen ein Tintenpad verwenden, um ein Kunstwerk zu erstellen. Sie hatten ein Tintenpad verwendet, um den Vertrag zu unterschreiben.",
       "example_translation": "J'ai utilisé un tampon encreur pour tamponner le document. Elle utilisera un tampon encreur pour créer une pièce d'art. Ils avaient utilisé un tampon encreur pour signer le contrat.",
-      "imageLink": "ink-pad.jpg",
+      "imageLink": "image_files\\English\\ink-pad.jpg",
       "audioLink": "ink pad.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Une paire d'aiguilles utilisées pour manipuler le fil en tissu, généralement utilisées pour tricoter des vêtements et des accessoires.",
       "example": "Ich musste neue Stricknadeln für den Geburtstag meiner Großmutter kaufen. Sie hat jahrelang gestrickt und liebt es. Sie wird nächsten Winter einen schönen Pullover stricken.",
       "example_translation": "J'ai dû acheter de nouvelles aiguilles à tricoter pour l'anniversaire de ma grand-mère. Elle tricote depuis des années et l'aime beaucoup. Elle tricotera un beau pull l'hiver prochain.",
-      "imageLink": "knitting-needles.jpg",
+      "imageLink": "image_files\\English\\knitting-needles.jpg",
       "audioLink": "knitting needles.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Un type de matériau malléable utilisé pour créer des objets tridimensionnels, souvent utilisé dans la sculpture, l'art et les projets de bricolage.",
       "example": "Als Kind habe ich gerne mit Modelliermasse gespielt, um alle Arten von Tieren und Monstern zu erstellen. Meine Schwester wird nächste Woche wieder Modelliermasse verwenden, um eine schöne Vase zu erstellen.",
       "example_translation": "Quand j'étais enfant, j'adorais jouer avec de la pâte à modeler, créant toutes sortes d'animaux et de monstres. Ma sœur jouera avec de la pâte à modeler à nouveau la semaine prochaine. Elle créera un beau vase avec cela.",
-      "imageLink": "modelling-clay.jpg",
+      "imageLink": "image_files\\English\\modelling-clay.jpg",
       "audioLink": "modelling clay.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Un outil utilisé pour aider à guider le fil ou le fil à travers l'œil d'une aiguille, souvent utilisé dans la couture et la broderie.",
       "example": "Meine Großmutter verwendet immer eine Nadelhilfe, wenn sie näht. Sie hat jahrelang genäht und findet es sehr hilfreich. Sie wird eine Nadelhilfe verwenden, um nächsten Monat ein schönes Kleid zu nähen.",
       "example_translation": "Ma grand-mère utilise toujours un fil à aiguille lorsqu'elle coud. Elle a couturé pendant des années et le trouve très utile. Elle utilisera un fil à aiguille pour coudre une belle robe le mois prochain.",
-      "imageLink": "needle-threader.jpg",
+      "imageLink": "image_files\\English\\needle-threader.jpg",
       "audioLink": "needle threader.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Un outil utilisé pour marquer ou étiqueter des objets avec des numéros, souvent utilisé dans les bureaux et les contextes administratifs.",
       "example": "Die Bibliothekarin verwendet einen Nummerierstempel, um die Bücher zu organisieren. Sie hat jahrelang in der Bibliothek gearbeitet und findet es sehr effizient. Sie wird einen Nummerierstempel verwenden, um eine neue Sammlung von Büchern nächstes Jahr zu kennzeichnen.",
       "example_translation": "La bibliothécaire utilise un tampon de numérotation pour organiser les livres. Elle travaille à la bibliothèque depuis des années et le trouve très efficace. Elle utilisera un tampon de numérotation pour etiqueter une nouvelle collection de livres l'année prochaine.",
-      "imageLink": "numbering-stamp.jpg",
+      "imageLink": "image_files\\English\\numbering-stamp.jpg",
       "audioLink": "numbering stamp.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Un dispositif utilisé pour couper le papier, ayant généralement une lame plate, rectangulaire ou carrée avec un manche attaché.",
       "example": "Ich habe einen Papierschneider verwendet, um die Ränder des Dokuments zu trimmen. Gestern musste ich viele Papiere für ein Projekt schneiden. Wenn ich ein Grafikdesigner wäre, würde ich einen Papierschneider jeden Tag verwenden.",
       "example_translation": "J'ai utilisé un ciseau à papier pour égaliser les bords du document. Hier, j'ai dû couper beaucoup de papier pour un projet. Si j'étais un designer graphique, j'utiliserais un ciseau à papier tous les jours.",
-      "imageLink": "paper-cutter.jpg",
+      "imageLink": "image_files\\English\\paper-cutter.jpg",
       "audioLink": "paper cutter.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Un matériau souple, malléable et souvent coloré utilisé pour la modelisation et les pours artístiques.",
       "example": "Als Kind habe ich gerne mit Plastikmassen gespielt, um verschiedene Formen und Figuren zu erstellen. Meine Schwester hat Plastikmassen verwendet, um eine schöne Skulptur zu erstellen. Wenn ich mehr Zeit hätte, würde ich eine Plastikmassen-Animation erstellen.",
       "example_translation": "Enfant, j'adorais jouer avec la pâte à modeler pour créer différentes formes et figures. Ma sœur a utilisé la pâte à modeler pour faire une belle sculpture. Si j'avais plus de temps, je ferais une animation en pâte à modeler.",
-      "imageLink": "play-dough-plasticine.jpg",
+      "imageLink": "image_files\\English\\play-dough-plasticine.jpg",
       "audioLink": "plasticine.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Un type de peinture à base d'eau utilisé pour créer de grandes conceptions audacieuses et colorées, souvent pour l'affichage ou la décoration.",
       "example": "Die Kunstlehrerin hat Posterfarbe für unser Projekt ausgegeben. Ich habe Posterfarbe verwendet, um ein helles Mural an der Wand zu erstellen. Wenn ich ein Künstler wäre, würde ich Posterfarbe für meine nächste Ausstellung verwenden.",
       "example_translation": "Le professeur d'art nous a distribué de la peinture à affiche pour notre projet. J'ai utilisé la peinture à affiche pour créer un murale brillant sur le mur. Si j'étais un artiste, j'utiliserais la peinture à affiche pour ma prochaine exposition.",
-      "imageLink": "poster-paint.jpg",
+      "imageLink": "image_files\\English\\poster-paint.jpg",
       "audioLink": "poster paint.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Un type de pierre ornementale ou de cristal, souvent utilisé sur les vêtements, les accessoires ou les bijoux, pour ajouter de l'éclat et du glamour.",
       "example": "Das Kleid war mit Rhinestenen besetzt, was es im Licht leichter machte. Meine Großmutter trug ein Rhinestenen-Halsband zur Party. Wenn ich ein Modedesigner wäre, würde ich Rhinestenen in meiner nächsten Kollektion verwenden.",
       "example_translation": "La robe était couverte de strass, la faisant briller dans la lumière. Ma grand-mère a porté un collier en strass à la fête. Si j'étais un styliste, j'utiliserais des strass dans ma prochaine collection.",
-      "imageLink": "rhinestone.jpg",
+      "imageLink": "image_files\\English\\rhinestone.jpg",
       "audioLink": "rhinestone.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Un papier fin et transparent fabriqué à partir de la moelle de la plante de papier de riz, utilisé pour les artisanats, la calligraphie et d'autres usages décoratifs.",
       "example": "Sie verpackte das Geschenk sorgfältig in Reispapier, um es ein traditionelles japanisches Aussehen zu geben. Sie arbeitet bereits seit Wochen an einem Reispapier-Kunstprojekt. Bis nächstes Jahr wird sie die Kunst des Reispapier-Herstellens gemeistert haben.",
       "example_translation": "Elle a soigneusement emballé le cadeau dans du papier de riz pour lui donner un aspect traditionnel japonais. Elle travaille sur un projet d'art de papier de riz depuis des semaines. D'ici l'année prochaine, elle aura maîtrisé l'art de fabriquer du papier de riz.",
-      "imageLink": "rice-paper.jpg",
+      "imageLink": "image_files\\English\\rice-paper.jpg",
       "audioLink": "rice paper.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Un point de base de couture utilisé pour définir les conceptions, coudre deux pièces de tissu ensemble ou faire des points de fixation sur des couches de tissu.",
       "example": "Sie verwendete einen Laufstich, um die Ränder des Stoffes zusammenzunähen. Sie hat stundenlang den Laufstich geübt, um ihn perfekt zu machen. Bis Ende des Monats wird sie den Laufstich gemeistert haben.",
       "example_translation": "Elle a utilisé un point de couture pour coudre les bords du tissu ensemble. Elle a passé des heures à pratiquer le point de couture pour le rendre parfait. D'ici la fin du mois, elle aura maîtrisé le point de couture.",
-      "imageLink": "running-stitch.jpg",
+      "imageLink": "image_files\\English\\running-stitch.jpg",
       "audioLink": "running stitch.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Un conteneur utilisé pour stocker des fournitures de couture, telles que des aiguilles, des fils et des chutes de tissu.",
       "example": "Sie hielt ihren Nähkasten organisiert, um schnell zu finden, was sie benötigte. Sie benutzte denselben Nähkasten seit Jahren. Bis nächste Woche wird sie einen neuen Nähkasten gekauft haben.",
       "example_translation": "Elle a tenu sa boîte à couture organisée pour trouver ce qu'elle cần rapidement. Elle avait utilisé la même boîte à couture pendant des années. D'ici la semaine prochaine, elle aura acheté une nouvelle boîte à couture.",
-      "imageLink": "sewing-box.jpg",
+      "imageLink": "image_files\\English\\sewing-box.jpg",
       "audioLink": "sewing box.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Un modèle ou guide utilisé pour découper des pièces de tissu pour un projet de couture, souvent featuring des mesures et des instructions.",
       "example": "Sie benutzte ein Schnittmuster, um einen perfekten Sitz zu machen. Sie erstellt seit Monaten ihre eigenen Schnittmuster. Bis nächstem Sommer wird sie eine neue Schnittmuster-Kollektion entworfen haben.",
       "example_translation": "Elle a utilisé un patron de couture pour faire un ajustement parfait. Elle a passé des mois à créer ses propres patrons de couture. D'ici l'été prochain, elle aura conçu une nouvelle collection de patrons de couture.",
-      "imageLink": "sewing-pattern.jpg",
+      "imageLink": "image_files\\English\\sewing-pattern.jpg",
       "audioLink": "sewing pattern.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Un poupée ou modèle utilisé par les tailleurs pour ajuster et afficher les vêtements, en particulier un qui peut être ajusté à différentes tailles.",
       "example": "Die Schneiderpuppe stand in der Ecke des Ladens, mit der neuesten Mode trend ausgestattet. Der Schneider hatte es verwendet, um das Kleid gestern anzupassen, und würde es morgen wieder verwenden, um ein neues Design zu erstellen.",
       "example_translation": "Le mannequin de tailleur se tenait dans le coin du magasin, habillé de la dernière tendance de la mode. Le tailleur l'avait utilisé pour ajuster la robe hier, et l'utiliserait à nouveau demain pour créer un nouveau design.",
-      "imageLink": "tailors-dummy-mannequin.jpg",
+      "imageLink": "image_files\\English\\tailors-dummy-mannequin.jpg",
       "audioLink": "tailor's dummy.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Un règle flexible, généralement fait d'une bande étroite de métal ou de plastique, utilisé pour mesurer les longueurs et les largeurs.",
       "example": "Sie benutzte einen Zollstock, um die Breite des Raumes zu messen. Der Zimmermann wird einen Zollstock benötigen, um sicherzustellen, dass der Bücherregal perfekt passt. Bis 2025 wird das Unternehmen einen digitalen Zollstock entwickelt haben.",
       "example_translation": "Elle a utilisé un mètre ruban pour calculer la largeur de la pièce. Le charpentier aura besoin d'un mètre ruban pour s'assurer que la bibliothèque s'adapte parfaitement. D'ici 2025, l'entreprise aura développé un mètre ruban numérique.",
-      "imageLink": "tape-measure.jpg",
+      "imageLink": "image_files\\English\\tape-measure.jpg",
       "audioLink": "tape measure.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Un papier doux et absorbant utilisé pour se moucher, essuyer les surfaces et emballer des cadeaux.",
       "example": "Sie zog ein Blatt Tissuepapier heraus, um ihre Nase zu putzen. Der Künstler benutzte Tissuepapier, um eine delikate Blumendesign zu erstellen. Das Geschenk war in buntem Tissuepapier eingepackt und mit einer Schleife dekoriert.",
       "example_translation": "Elle a sorti une feuille de papier facilité pour se moucher. L'artiste a utilisé du papier facilité pour créer un design de fleur délicat. Le cadeau était emballé dans du papier facilité coloré et décoré d'un nœud.",
-      "imageLink": "tissue-paper.jpg",
+      "imageLink": "image_files\\English\\tissue-paper.jpg",
       "audioLink": "tissue paper.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Une technique de peinture utilisant des pigments solubles dans l'eau, aboutissant à des lavures délicates et transparentes de couleur.",
       "example": "Das Aquarell-Gemälde der Künstlerin vom Sonnenuntergang war atemberaubend. Sie hatte Aquarell-Techniken von ihrer Großmutter gelernt. Das Museum zeigte eine Sammlung von Aquarell-Gemälden aus dem 19. Jahrhundert.",
       "example_translation": "La peinture à l'aquarelle du coucher de soleil de l'artiste était époustouflante. Elle avait appris les techniques de l'aquarelle de sa grand-mère. Le musée exposait une collection de peintures à l'aquarelle du 19e siècle.",
-      "imageLink": "watercolour.jpg",
+      "imageLink": "image_files\\English\\watercolour.jpg",
       "audioLink": "watercolour.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Un tampon en bois est un outil utilisé pour appliquer de l'encre ou de la peinture sur une surface, généralement dans un motif ou un design répétitif.",
       "example": "Ich benutzte einen Holzstempel, um ein Muster auf dem Stoff zu erstellen. Ich werde ihn morgen wieder verwenden, um ein neues Design zu erstellen. Sie hatte es gestern verwendet, um ein Logo zu drucken.",
       "example_translation": "J'ai utilisé un tampon en bois pour créer un motif sur le tissu. J'utiliserai à nouveau demain pour créer un nouveau design. Elle l'avait utilisé hier pour imprimer un logo.",
-      "imageLink": "wooden-stamp.jpg",
+      "imageLink": "image_files\\English\\wooden-stamp.jpg",
       "audioLink": "wooden stamp.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Un pinceau d'écriture est un outil utilisé pour appliquer de l'encre ou d'autres matériaux d'écriture sur une surface, généralement utilisé dans la calligraphie ou l'écriture artistique.",
       "example": "Sie benutzte einen Schreibpinsel, um wunderschöne Kalligrafie zu erstellen. Er wird ihn morgen verwenden, um seinen Namen zu unterschreiben. Sie hatten ihn gestern verwendet, um ein Gedicht zu schreiben.",
       "example_translation": "Elle a utilisé un pinceau d'écriture pour créer une belle calligraphie. Il l'utilisera demain pour signer son nom. Ils l'avaient utilisé hier pour écrire un poème.",
-      "imageLink": "writing-brush.jpg",
+      "imageLink": "image_files\\English\\writing-brush.jpg",
       "audioLink": "writing brush.mp3"
     }
   ]

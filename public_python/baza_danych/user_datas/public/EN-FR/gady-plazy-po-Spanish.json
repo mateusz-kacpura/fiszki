@@ -9,7 +9,7 @@
       "definition_translation": "un animal long, mince, sans jambes qui n'a pas de pieds et se déplace sur le sol en tordant et en courbant son corps",
       "example": "The snake slithered through the grass, it slithers through the water, it will slither up the tree.",
       "example_translation": "Le serpent glissait dans l'herbe, il glisse dans l'eau, il glissera dans l'arbre.",
-      "imageLink": "snake.jpg",
+      "imageLink": "image_files\\English\\snake.jpg",
       "audioLink": "snake.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "un petit animal qui vit dans l'eau et a une peau lisse et humide et des jambes longues pour sauter",
       "example": "The frog jumped across the pond, it jumps over the rock, it will jump into the water.",
       "example_translation": "La grenouille sautait à travers l'étang, il saute par-dessus le rocher, il sautera dans l'eau.",
-      "imageLink": "frog.jpg",
+      "imageLink": "image_files\\English\\frog.jpg",
       "audioLink": "frog.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "un reptile à mouvement lent avec une carapace qui protège son corps",
       "example": "The tortoise walked slowly across the desert, it walks slowly through the forest, it will walk quickly around the lake.",
       "example_translation": "La tortue marchait lentement à travers le désert, il marche lentement à travers la forêt, il marchera rapidement autour du lac.",
-      "imageLink": "tortoise.jpg",
+      "imageLink": "image_files\\English\\tortoise.jpg",
       "audioLink": "tortoise.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "un reptile à mouvement lent qui vit dans la mer et a une carapace qui protège son corps",
       "example": "The turtle swam quickly through the ocean, it swam slowly through the coral reef, it will swim fast around the ship.",
       "example_translation": "La tortue marine nageait rapidement à travers l'océan, elle nagait lentement à travers le récif de corail, elle naguera rapidement autour du navire.",
-      "imageLink": "turtle.jpg",
+      "imageLink": "image_files\\English\\turtle.jpg",
       "audioLink": "turtle.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Un grand reptile avec un museau allongé et des mâchoires puissantes, originaire du sud-est des États-Unis et de Chine.",
       "example": "I saw an alligator in the swamp yesterday, it was huge. The alligator is basking in the sun now. By next year, the alligator will have grown even bigger.",
       "example_translation": "J'ai vu un alligator dans le marais hier, il était énorme. L'alligator est en train de se dorer au soleil maintenant. D'ici l'année prochaine, l'alligator aura encore grandi.",
-      "imageLink": "alligator.jpg",
+      "imageLink": "image_files\\English\\alligator.jpg",
       "audioLink": "alligator.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Un très grand serpent de la famille des Boa constrictor, trouvé dans les zones humides de l'Amérique du Sud.",
       "example": "The anaconda slithered through the water quietly, it's hunting its prey. Anacondas are known for their powerful constricting abilities. In the future, anacondas will continue to thrive in their habitat.",
       "example_translation": "L'anaconda a glissé silencieusement dans l'eau, il chasse sa proie. Les anacondas sont connus pour leurs puissantes capacités de constriction. À l'avenir, les anacondas continueront de prospérer dans leur habitat.",
-      "imageLink": "anaconda.jpg",
+      "imageLink": "image_files\\English\\anaconda.jpg",
       "audioLink": "anaconda.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Un type de serpent avec un corps robuste et un motif de marques distinctif, trouvé en Amérique centrale et du Sud.",
       "example": "The boa constrictor wrapped itself around its owner's arm, it's a gentle pet. Boas are popular pets due to their calm nature. By next month, the boa will have shed its skin again.",
       "example_translation": "Le boa constrictor s'est enroulé autour du bras de son propriétaire, c'est un animal de compagnie doux. Les boas sont des animaux de compagnie populaires en raison de leur nature calme. D'ici le mois prochain, le boa aura à nouveau mue sa peau.",
-      "imageLink": "boa.jpg",
+      "imageLink": "image_files\\English\\boa.jpg",
       "audioLink": "boa.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Un grand reptile avec un museau long et étroit et des mâchoires puissantes, trouvé dans les rivières et les marais des régions tropicales et subtropicales.",
       "example": "The crocodile swam rapidly through the water, it's a predator. Crocodiles have been on the planet for millions of years. In the future, conservation efforts will help protect crocodile habitats.",
       "example_translation": "Le crocodile a nagé rapidement à travers l'eau, c'est un prédateur. Les crocodiles ont été sur la planète depuis des millions d'années. À l'avenir, les efforts de conservation aideront à protéger les habitats de crocodiles.",
-      "imageLink": "crocodile.jpg",
+      "imageLink": "image_files\\English\\crocodile.jpg",
       "audioLink": "crocodile.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Un reptile qui a un corps long et une queue, et généralement quatre pattes. Il est souvent trouvé dans les pays chauds et peut regrower sa queue si elle est cassée.",
       "example": "Yesterday, I saw a lizard basking in the sun, but now it is hiding in its nest. In the future, I will try to catch it.",
       "example_translation": "Hier, j'ai vu un lezard se dorer au soleil, mais maintenant il se cache dans son nid. À l'avenir, j'essaierai de l'attraper.",
-      "imageLink": "lizard.jpg",
+      "imageLink": "image_files\\English\\lizard.jpg",
       "audioLink": "lizard.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "La couverture externe dure d'un mollusque, comme un escargot ou une huître, ou la couverture externe dure d'un œuf.",
       "example": "I collected shells on the beach yesterday, but now they are arranged in a beautiful pattern on my shelf. In the future, I will give them to my sister.",
       "example_translation": "J'ai collecté des coquilles sur la plage hier, mais maintenant elles sont disposées en un beau modèle sur mon étagère. À l'avenir, je les donnerai à ma sœur.",
-      "imageLink": "shell.jpg",
+      "imageLink": "image_files\\English\\shell.jpg",
       "audioLink": "shell.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Un type de serpent venimeux qui a un grelot à sa queue, trouvé dans les Amériques.",
       "example": "I saw a rattlesnake in the desert yesterday, but now it is gone. In the future, I will be more careful when I hike.",
       "example_translation": "J'ai vu un crotale dans le désert hier, mais maintenant il est parti. À l'avenir, je serai plus prudent lorsque je vais faire de la randonnée.",
-      "imageLink": "rattlesnake.jpg",
+      "imageLink": "image_files\\English\\rattlesnake.jpg",
       "audioLink": "rattlesnake.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Un animal à sang froid avec des écailles, pondant des œufs, comme les serpents, les lézards et les tortues.",
       "example": "I saw a reptile in the zoo yesterday, but now it is sleeping. In the future, I will learn more about reptiles.",
       "example_translation": "J'ai vu un reptile au zoo hier, mais maintenant il dort. À l'avenir, j'apprendrai plus sur les reptiles.",
-      "imageLink": "reptile.jpg",
+      "imageLink": "image_files\\English\\reptile.jpg",
       "audioLink": "reptile.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Un salamandre est un type d'amphibien qui a un corps mince, une longue queue et généralement quatre pattes. Il vit dans l'eau et sur terre.",
       "example": "The salamander crawled slowly out of the pond. It will crawl faster when it reaches adulthood. By next year, it will have crawled to the other side of the forest.",
       "example_translation": "Le salamandre a rampé lentement hors de l'étang. Il rampera plus vite lorsqu'il atteindra l'âge adulte. D'ici l'an prochain, il aura rampé de l'autre côté de la forêt.",
-      "imageLink": "salamander-1.jpg",
+      "imageLink": "image_files\\English\\salamander-1.jpg",
       "audioLink": "salamander.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Un têtard est le stade larvaire d'un grenouille ou d'un crapaud, caractérisé par un petit corps et une queue, et sans membres.",
       "example": "The tadpole swam quickly in the aquarium. It will develop its limbs soon. By next month, it will have become a young frog.",
       "example_translation": "Le têtard a nagé rapidement dans l'aquarium. Il développera bientôt ses membres. D'ici le mois prochain, il sera devenu un jeune grenouille.",
-      "imageLink": "tadpole.jpg",
+      "imageLink": "image_files\\English\\tadpole.jpg",
       "audioLink": "tadpole.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Un crapaud est un type d'amphibien qui a un corps court et épais, de courtes pattes et une peau sèche et bosselée.",
       "example": "The toad hopped slowly across the garden. It will hop faster when it finds food. By next week, it will have hopped to the other side of the forest.",
       "example_translation": "Le crapaud a sauté lentement à travers le jardin. Il sautera plus vite lorsqu'il trouvera de la nourriture. D'ici la semaine prochaine, il aura sauté de l'autre côté de la forêt.",
-      "imageLink": "toad.jpg",
+      "imageLink": "image_files\\English\\toad.jpg",
       "audioLink": "toad.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Les amphibiens sont des animaux à sang froid qui vivent dans l'eau et sur terre, et ont une peau humide et perméable.",
       "example": "The amphibians lived in the pond and forest. They will migrate to the ocean soon. By next year, they will have adapted to their new habitat.",
       "example_translation": "Les amphibiens vivaient dans l'étang et la forêt. Ils migreront bientôt vers l'océan. D'ici l'an prochain, ils auront adapté à leur nouvel habitat.",
-      "imageLink": "amphibians.jpg",
+      "imageLink": "image_files\\English\\amphibians.jpg",
       "audioLink": "amphibians.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Un lézard sans pattes qui ressemble à un serpent, souvent trouvé dans des environnements humides.",
       "example": "I saw a blindworm crawling out of the pond yesterday, it was quite fascinating. Today, I'm going to study its behavior, and tomorrow I'll present my findings.",
       "example_translation": "J'ai vu une couleuvre épineuse sortir de l'étang hier, c'était très fascinant. Aujourd'hui, je vais étudier son comportement, et demain, je présenterai mes résultats.",
-      "imageLink": "blindworm.jpg",
+      "imageLink": "image_files\\English\\blindworm.jpg",
       "audioLink": "blindworm.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Un type de lézard qui peut changer de couleur pour se fondre dans son environnement, souvent trouvé dans les régions tropicales.",
       "example": "The chameleon had adapted to its new environment, changing its color from green to brown. It will adapt again when it moves to a new habitat, and it has been doing so for centuries.",
       "example_translation": "Le caméléon s'était adapté à son nouvel environnement, changeant de couleur du vert au brun. Il s'adaptera à nouveau lorsqu'il déménagera dans un nouvel habitat, et il fait ainsi depuis des siècles.",
-      "imageLink": "chameleon.jpg",
+      "imageLink": "image_files\\English\\chameleon.jpg",
       "audioLink": "chameleon.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Un serpent venimeux trouvé en Afrique et en Asie, connu pour sa tête en forme de capuchon et son comportement agressif.",
       "example": "The cobra raised its head, preparing to strike. Luckily, the snake catcher arrived just in time, and it will be released back into the wild tomorrow.",
       "example_translation": "Le cobra aleva la tête, se préparant à frapper. Heureusement, le catcheur de serpents est arrivé juste à temps, et il sera relâché dans la nature demain.",
-      "imageLink": "cobra.jpg",
+      "imageLink": "image_files\\English\\cobra.jpg",
       "audioLink": "cobra.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Un serpent non venomux trouvé dans les prairies et les zones humides, souvent confondu avec un serpent venomux en raison de son apparence similaire.",
       "example": "I saw a grass snake slithering through the tall grass yesterday, but it didn't seem to be bothered by my presence. Today, I'll try to observe it again, and maybe I'll get a chance to see it in action tomorrow.",
       "example_translation": "J'ai vu une couleuvre verte et jaune se faufiler à travers l'herbe haute hier, mais elle ne semblait pas être dérangée par ma présence. Aujourd'hui, j'essaierai de l'observer à nouveau, et peut-être que j'aurai la chance de la voir en action demain.",
-      "imageLink": "grass-snake.jpg",
+      "imageLink": "image_files\\English\\grass-snake.jpg",
       "audioLink": "grass snake.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Un petit salamandre semi-aquatique, ayant généralement un corps svelte et une longue queue.",
       "example": "I saw a newt swimming in the pond yesterday, but I will see another one tomorrow, and I have seen many newts there the day before.",
       "example_translation": "J'ai vu un triton nageant dans l'étang hier, mais je verrai un autre demain, et j'ai vu beaucoup de tritons là-bas le jour d'avant.",
-      "imageLink": "newt.jpg",
+      "imageLink": "image_files\\English\\newt.jpg",
       "audioLink": "newt.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Un grand serpent, notamment l'une des espèces Python regius, originaire d'Afrique et d'Asie.",
       "example": "I will never own a python as a pet, because I saw a python eating a rabbit on TV last week, and I have seen many pythons in the zoo before.",
       "example_translation": "Je n'aurai jamais un python comme animal de compagnie, parce que j'ai vu un python manger un lapin à la télévision la semaine dernière, et j'ai vu beaucoup de pythons au zoo auparavant.",
-      "imageLink": "python.jpg",
+      "imageLink": "image_files\\English\\python.jpg",
       "audioLink": "python.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Un petit à moyen salamandre, caractérisé par sa couleur jaune ou orange avec des taches sombres.",
       "example": "I have seen a spotted salamander crossing the road, and I will see another one hiding under a rock tomorrow, but I saw many spotted salamanders living in the forest the day before.",
       "example_translation": "J'ai vu une salamandre tachetée traversant la route, et je verrai une autre se cachant sous un rocher demain, mais j'ai vu beaucoup de salamandres tachetées vivant dans la forêt le jour d'avant.",
-      "imageLink": "salamander.jpg",
+      "imageLink": "image_files\\English\\salamander.jpg",
       "audioLink": "spotted salamander.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Une petite grenouille qui vit dans les arbres, caractérisée par sa couleur verte ou brune et ses pattes palmées.",
       "example": "I have heard a tree frog croaking in the garden, and I will hear another one singing in the park tomorrow, but I heard many tree frogs chirping in the forest the day before.",
       "example_translation": "J'ai entendu une grenouille arboricole coasser dans le jardin, et j'entendrai une autre chantant dans le parc demain, mais j'ai entendu beaucoup de grenouilles arboricoles gazouillant dans la forêt le jour d'avant.",
-      "imageLink": "tree-frog.jpg",
+      "imageLink": "image_files\\English\\tree-frog.jpg",
       "audioLink": "tree frog.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "un serpent vénimeux trouvé dans les régions chaudes, notamment en Afrique et en Asie, avec une tête triangulaire distinctive et une langue fourchue.",
       "example": "I saw a viper in the desert, it was very terrifying. The hikers had seen a viper last week, and they will see one again next year.",
       "example_translation": "J'ai vu une vipère dans le désert, c'était très effrayant. Les randonneurs avaient vu une vipère la semaine dernière, et ils en verront une autre l'année prochaine.",
-      "imageLink": "viper.jpg",
+      "imageLink": "image_files\\English\\viper.jpg",
       "audioLink": "viper.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "une créature mythologique représentée comme un serpent ou un dragon vivant dans ou près de l'eau, souvent associée aux cultures anciennes.",
       "example": "The ancient civilization believed in the existence of water serpents, they thought it was a water serpent that had destroyed their village. The legend says that a water serpent will appear next century.",
       "example_translation": "La civilisation ancienne croyait à l'existence des serpents d'eau, ils pensaient que c'était un serpent d'eau qui avait détruit leur village. La légende dit qu'un serpent d'eau apparaîtra au siècle prochain.",
-      "imageLink": "water-serpent.jpg",
+      "imageLink": "image_files\\English\\water-serpent.jpg",
       "audioLink": "water serpent.mp3"
     }
   ]

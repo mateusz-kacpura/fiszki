@@ -9,7 +9,7 @@
       "definition_translation": "Um pente é uma ferramenta usada para arrumar ou limpar o cabelo, ou para limpar ou cardar fibras.",
       "example": "Wczoraj grzebieniem mnie włosy, teraz je grzebię, a jutro również je grzebieniem.",
       "example_translation": "Eu penteei meu cabelo ontem, estou penteei agora, e penteei meu cabelo amanhã.",
-      "imageLink": "comb.jpg",
+      "imageLink": "image_files\\English\\comb.jpg",
       "audioLink": "comb.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Um xampu é uma preparação líquida para limpar o cabelo, tipicamente na forma de um líquido cremoso.",
       "example": "Wczoraj szamponowałem włosy, teraz szamponuję, a jutro również szamponować będę.",
       "example_translation": "Eu lavei meu cabelo ontem, estou lavando agora, e lavarei meu cabelo amanhã.",
-      "imageLink": "shampoo.jpg",
+      "imageLink": "image_files\\English\\shampoo.jpg",
       "audioLink": "shampoo.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Um creme é uma pasta ou líquido macio, grosso e rico, freqüentemente usado como alimento ou em cosméticos.",
       "example": "Wczoraj nałożyłem krem na skórę, teraz nakładam, a jutro również nałożę.",
       "example_translation": "Eu apliquei um creme na minha pele ontem, estou aplicando agora, e aplicarei amanhã.",
-      "imageLink": "cream-1.jpg",
+      "imageLink": "image_files\\English\\cream-1.jpg",
       "audioLink": "cream.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Um desodorante é uma substância aplicada ao corpo para prevenir ou mascarar o odor corporal.",
       "example": "Wczoraj użyłem odżywki, teraz używam, a jutro również użyję.",
       "example_translation": "Eu usei um desodorante ontem, estou usando agora, e usarei amanhã.",
-      "imageLink": "deodorant.jpg",
+      "imageLink": "image_files\\English\\deodorant.jpg",
       "audioLink": "deodorant.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Um loção hidratante rico aplicado às mãos para amaciar e proteger a pele.",
       "example": "Po umyciu rąk nałożyłem krem do rąk. Przed wyjściem nałożę krem do rąk. Po robieniu zmywania krem do rąk nałożyłem.",
       "example_translation": "Eu apliquei creme para as mãos após lavar minhas mãos. Eu aplicarei creme para as mãos antes de sair. Eu havia aplicado creme para as mãos após fazer os pratos.",
-      "imageLink": "hand-cream.jpg",
+      "imageLink": "image_files\\English\\hand-cream.jpg",
       "audioLink": "hand cream.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Um bastão cosmético usado para colorir e hidratar os lábios.",
       "example": "Wczoraj kupiłem nową szminkę. Ona będzie nosić czerwoną szminkę na imprezie. On miał nałożoną szminkę przed zdjęciem.",
       "example_translation": "Eu comprei um novo batom ontem. Ela usará um batom vermelho para a festa. Ele havia aplicado batom antes da sessão de fotos.",
-      "imageLink": "lipstick.jpg",
+      "imageLink": "image_files\\English\\lipstick.jpg",
       "audioLink": "lipstick.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Um produto cosmético usado para escurecer, alongar e Thickening as pestanas.",
       "example": "Ona nałożyła maskarę na rzęsy. Jutro kupię nową maskarę. On miał nałożoną maskarę na pokazie mody.",
       "example_translation": "Ela aplicou rímel às suas pestanas. Eu comprarei um novo rímel amanhã. Ele havia usado rímel para o desfile de moda.",
-      "imageLink": "mascara.jpg",
+      "imageLink": "image_files\\English\\mascara.jpg",
       "audioLink": "mascara.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Uma cobertura para o rosto, geralmente feita de tecido ou plástico, usada para esconder a identidade ou para proteção.",
       "example": "Złodziej nosił maskę, aby ukryć twarz. Nosił będę maskę na kostiumowy bal. Ona miała nałożoną maskę przed operacją.",
       "example_translation": "O ladrão usou uma máscara para esconder seu rosto. Eu usarei uma máscara para a festa de fantasias. Ela havia usado uma máscara para a cirurgia.",
-      "imageLink": "facial-mask.jpg",
+      "imageLink": "image_files\\English\\facial-mask.jpg",
       "audioLink": "mask.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Um sabonete líquido usado para lavar o corpo no chuveiro.",
       "example": "Rano użyłem luksusowego żelu pod prysznic. Jutro będę używał nawilżającego żelu pod prysznic. Ona miała używanego orzeźwiającego żelu pod prysznic wczoraj.",
       "example_translation": "Eu usei um gel de banho luxuoso nesta manhã. Vou usar um gel de banho hidratante amanhã. Ela havia usado um gel de banho refrescante ontem.",
-      "imageLink": "shower-gel.jpg",
+      "imageLink": "image_files\\English\\shower-gel.jpg",
       "audioLink": "shower gel.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Um lotion ou creme hidratante aplicado à pele para mantê-la macia e hidratada.",
       "example": "Po kąpieli nałożyłem balsam do ciała. Ona będzie nakładać balsam do ciała po kąpieli. Oni mieli nałożony balsam do ciała po masażu.",
       "example_translation": "Eu apliquei um balme corporal após meu banho. Ela vai aplicar um balme corporal após seu banho. Eles haviam aplicado um balme corporal após sua massagem.",
-      "imageLink": "body-balm.jpg",
+      "imageLink": "image_files\\English\\body-balm.jpg",
       "audioLink": "body balm.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Um pequeno pedaço redondo de algodão usado para aplicar ou remover esmalte, maquiagem ou outros cosméticos.",
       "example": "Użyłem wacika kosmetycznego, aby usunąć lakier do paznokci. Ona będzie używała wacika kosmetycznego, aby nałożyć cienie do powiek. Oni użyli wacika kosmetycznego, aby oczyścić swoją skórę.",
       "example_translation": "Eu usei um disco de algodão para remover meu esmalte. Ela vai usar um disco de algodão para aplicar sua sombra. Eles haviam usado um disco de algodão para limpar a pele.",
-      "imageLink": "make-up-cotton-pad.jpg",
+      "imageLink": "image_files\\English\\make-up-cotton-pad.jpg",
       "audioLink": "cotton pad.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Um dispositivo elétrico usado para fazer a barba ou cortar cabelo, geralmente no rosto ou corpo.",
       "example": "Użyłem maszynki do golenia, aby ogolić brodę. On będzie używał maszynki do golenia, aby przyciąć włosy. Oni użyli maszynki do golenia, aby zgolić nogi.",
       "example_translation": "Eu usei um barbear elétrico para fazer a barba. Ele vai usar um barbear elétrico para cortar cabelo. Eles haviam usado um barbear elétrico para fazer a barba nas pernas.",
-      "imageLink": "electric-razor.jpg",
+      "imageLink": "image_files\\English\\electric-razor.jpg",
       "audioLink": "electric razor.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Um extrato de planta concentrado, geralmente obtido através de destilação a vapor, usado para aromaterapia, flavoração e perfumaria.",
       "example": "Użyłem olejku eterycznego w ultradźwiękowej zaparce, aby się zrelaksować. Wczoraj kupiłem olejek eteryczny w sklepie. Użyję olejku eterycznego w swojej rutynie pielęgnacji skóry w przyszłym tygodniu.",
       "example_translation": "Eu usei óleo essencial no meu difusor para relaxar. Ontem, eu comprei óleo essencial na loja. Eu usarei óleo essencial na minha rotina de cuidado com a pele na próxima semana.",
-      "imageLink": "essential-oil.jpg",
+      "imageLink": "image_files\\English\\essential-oil.jpg",
       "audioLink": "essential oil.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Um dispositivo usado para dar forma e curlar cílios, geralmente antes de aplicar máscara ou delineador.",
       "example": "Ona użyła rozjaźniacza rzęs, aby otworzyć oczy. On kupił rozjaźniacz rzęs na urodziny swojej siostry. Oni będą używać rozjaźniacza rzęs przed wieczorem na przyjęciu.",
       "example_translation": "Ela usou um alisador de cílios para abrir os olhos. Ele comprou um alisador de cílios para o aniversário da irmã. Eles usarão um alisador de cílios antes da festa hoje à noite.",
-      "imageLink": "eyelash-curler.jpg",
+      "imageLink": "image_files\\English\\eyelash-curler.jpg",
       "audioLink": "eyelash curler.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Uma substância colorante aplicada ao cabelo para mudar sua cor, seja temporariamente ou permanentemente.",
       "example": "Użyję farby do włosów, aby zakryć szare włosy. Ona pokolorowała włosy blond w zeszłym tygodniu. Oni używają farby do włosów, aby stworzyć efekt ombre.",
       "example_translation": "Eu usarei tinta de cabelo para cobrir meu cabelo grisalho. Ela tingiu o cabelo de loiro na semana passada. Eles usam tinta de cabelo para criar um efeito de ombre.",
-      "imageLink": "hair-dye.jpg",
+      "imageLink": "image_files\\English\\hair-dye.jpg",
       "audioLink": "hair dye.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Uma ferramenta usada para dar forma e suavizar as bordas das unhas dos dedos ou dos pés, muitas vezes antes de aplicar esmalte de unha.",
       "example": "Techniczka paznokciowa użyła pilnika do paznokci, aby ukształtować moje paznokcie. Ona kupiła pilnik do paznokci w sklepie urody. Oni będą używać pilnika do paznokci przed nałożeniem lakieru do paznokci tej nocy.",
       "example_translation": "A técnica de unha usou uma lixa de unha para dar forma às minhas unhas. Ela comprou uma lixa de unha na loja de beleza. Eles usarão uma lixa de unha antes de aplicar esmalte de unha hoje à noite.",
-      "imageLink": "nail-buffer.jpg",
+      "imageLink": "image_files\\English\\nail-buffer.jpg",
       "audioLink": "nail buffer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Um corte unha é um dispositivo portátil usado para cortar e dar forma às unhas dos dedos e dos pés.",
       "example": "Użyłem klipsra do paznokci, aby obrąbać paznokcie stóp wczoraj, potem będę używał go jutro, aby ukształtować paznokcie rąk.",
       "example_translation": "Eu usei um corte unha para cortar as unhas dos pés ontem, então eu vou usá-lo novamente amanhã para dar forma às unhas dos dedos.",
-      "imageLink": "nail-clipper.jpg",
+      "imageLink": "image_files\\English\\nail-clipper.jpg",
       "audioLink": "nail clipper.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Uma lima unha é uma ferramenta usada para dar forma e amaciar as bordas das unhas dos dedos e dos pés.",
       "example": "Ona użyła pilnika do paznokci, aby wygładzić paznokcie po obcięciu, i teraz wyglądają one doskonale.",
       "example_translation": "Ela usou uma lima unha para amaciar as unhas após cortá-las, e agora elas estão perfeitas.",
-      "imageLink": "nail-file.jpg",
+      "imageLink": "image_files\\English\\nail-file.jpg",
       "audioLink": "nail file.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Uma espátula é um utensílio de cozinha usado para raspar, virar e espalhar alimentos em uma panela ou em uma superfície.",
       "example": "Użyję szpatułki, aby obrócić placki, kiedy będą gotowe, a potem użyję jej, aby wybrać boki miski.",
       "example_translation": "Eu vou usar uma espátula para virar os panquecas quando eles estiverem prontos, e então eu usei para raspar os lados da tigela.",
-      "imageLink": "spatula.jpg",
+      "imageLink": "image_files\\English\\spatula.jpg",
       "audioLink": "spatula.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Um moisturizador tingido é um produto cosmético que fornece umidade à pele ao mesmo tempo em que lhe dá uma cor natural e sutil.",
       "example": "Ona nałożyła moisturizer z kolorem na twarz rano, i teraz skóra ma zdrowy blask.",
       "example_translation": "Ela aplicou um moisturizador tingido no rosto esta manhã, e isso deu à sua pele um brilho saudável.",
-      "imageLink": "tinted-moisturiser.jpg",
+      "imageLink": "image_files\\English\\tinted-moisturiser.jpg",
       "audioLink": "tinted moisturiser.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Um dispositivo usado para separar os dedos, geralmente feito de plástico ou silicone, usado para aliviar desconforto ou dor causada por dedos sobrepostos.",
       "example": "Użyła separatora palca, aby ulżyć bólowi spowodowanemu przez paluch koślawy. Użyje separatora palca, aby zapobiec nachodzeniu palców na siebie. Użyła separatora palca, aby rozdzielić palce po operacji.",
       "example_translation": "Ela usou um separador de dedos para aliviar a dor causada por seu dedo martelo. Ela usará um separador de dedos para evitar que seus dedos se sobreponham. Ela havia usado um separador de dedos para separar seus dedos após a cirurgia.",
-      "imageLink": "toe-separator.jpg",
+      "imageLink": "image_files\\English\\toe-separator.jpg",
       "audioLink": "toe separator.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Um líquido ou gel aplicado na pele após a barba, geralmente para acalmar e hidratar a pele e prevenir irritação.",
       "example": "Nałożył aftershave na skórę, aby złagodzić oparzenie przez ostrze. Użyje aftershave, aby zapobiec występowaniu wrastających włosów. Użył aftershave, aby nawilżyć skórę po goleniu.",
       "example_translation": "Ele aplicou loção pós-barba em sua pele para acalmar a queimadura de gilete. Ela usará loção pós-barba para prevenir cabelos encravados. Ele havia usado loção pós-barba para hidratar sua pele após a barba.",
-      "imageLink": "aftershave.jpg",
+      "imageLink": "image_files\\English\\aftershave.jpg",
       "audioLink": "aftershave.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Um pó ou creme cosmético usado para dar umFlush natural ou brilho às bochechas.",
       "example": "Nałożyła róż na policzki, aby uzyskać zdrowy wygląd. Użyje różu, aby udoskonalić swoją cerę. Użyła różu, aby zakryć bladą skórę.",
       "example_translation": "Ela aplicou ruborizador em suas bochechas para dar uma aparência saudável. Ele usará ruborizador para realçar sua compleição. Ela havia usado ruborizador para cobrir sua pele pálida.",
-      "imageLink": "blusher.jpg",
+      "imageLink": "image_files\\English\\blusher.jpg",
       "audioLink": "blusher.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Um produto cosmético usado para esfoliar e limpar a pele, geralmente contendo ingredientes como açúcar, sal ou ácidos alfa-hidroxi.",
       "example": "Użyła peeling, aby wygładzić skórę przed wakacjami. Użyje peeling, aby usunąć martwe komórki skóry. Użyła peeling, aby zmiękczzyć szorstką skórę.",
       "example_translation": "Ela usou um esfoliante corporal para esfoliar sua pele antes da vacação. Ele usará um esfoliante corporal para remover células de pele mortas. Ela havia usado um esfoliante corporal para amaciar sua pele áspera.",
-      "imageLink": "scrub.jpg",
+      "imageLink": "image_files\\English\\scrub.jpg",
       "audioLink": "body scrub.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Um banho em que são adicionados sabonetes espumosos ou outros produtos para criar um efeito espumoso, tipicamente para relaxamento ou prazer.",
       "example": "Wzięłam kąpiel pianową po długim dniu, wzięłam ją ponownie jutro i wzięłam ją w zeszłym tygodniu.",
       "example_translation": "Eu me relaxei em um banho de bolhas após um longo dia, então vou tomar outro amanhã e eu tomei outro semana passada.",
-      "imageLink": "bubble-bath.jpg",
+      "imageLink": "image_files\\English\\bubble-bath.jpg",
       "audioLink": "bubble bath.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Um pequeno recipiente leve, tipicamente feito de pó ou creme, usado para aplicar maquiagem.",
       "example": "Wzięłam szaszłyk do torebki, aby szybko nakładać makijaż, kupię nowy szaszłyk jutro, użyłam szaszłyku w zeszłym tygodniu.",
       "example_translation": "Eu carreguei um compacto na minha bolsa para retoques rápidos, então vou comprar um novo amanhã e eu usei um semana passada.",
-      "imageLink": "compact.jpg",
+      "imageLink": "image_files\\English\\compact.jpg",
       "audioLink": "compact.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Um produto cosmético usado para cobrir ou esconder imperfeições na pele, como manchas ou círculos escuros sob os olhos.",
       "example": "Nałożyłam korektor na ciemne kręgi, użyję go jutro, aby zakryć pryszcz, użyłam korektora, aby ukryć bliznę w zeszłym tygodniu.",
       "example_translation": "Eu apliquei corretor nos meus círculos escuros, então vou usá-lo para cobrir uma mancha amanhã e eu usei para esconder uma cicatriz semana passada.",
-      "imageLink": "concealer.jpg",
+      "imageLink": "image_files\\English\\concealer.jpg",
       "audioLink": "concealer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Pequenos paus, geralmente de madeira, com uma bola de algodão em cada extremidade, usados para aplicar ou remover maquiagem, ou para limpar os ouvidos.",
       "example": "Użyłam patyczków kosmetycznych, aby nałożyć eyeliner, użyję ich jutro, aby wyczyścić uszy, użyłam patyczków kosmetycznych, aby usunąć makijaż w zeszłym tygodniu.",
       "example_translation": "Eu usei cotonetes para aplicar eyeliner, então vou usá-los para limpar meus ouvidos amanhã e eu usei para remover maquiagem semana passada.",
-      "imageLink": "cotton-buds.jpg",
+      "imageLink": "image_files\\English\\cotton-buds.jpg",
       "audioLink": "cotton buds.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Um alisador é um dispositivo cilíndrico pequeno usado para dar forma e segurar um feixe de cabelo no lugar enquanto é enrolado ou ondulado.",
       "example": "Użyłam kręczkowca, aby ułożyć włosy na imprezę wczoraj wieczorem, i wyglądałam świetnie. Użyję kręczkowca ponownie jutro, aby uzyskać wyjątkowy wygląd. Używam kręczkowców przez lata i zawsze dają mi idealne lokówki.",
       "example_translation": "Eu usei um alisador para estilo meu cabelo para a festa ontem à noite, e ficou ótimo. Vou usá-lo novamente amanhã para uma apresentação no trabalho. Eu tenho usado alisadores há anos e eles sempre me dão cachos perfeitos.",
-      "imageLink": "curler.jpg",
+      "imageLink": "image_files\\English\\curler.jpg",
       "audioLink": "curler.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Um ferro de frisar é uma ferramenta de estilo usado para criar cachos, ondas ou estilos retos nos cabelos.",
       "example": "Używam żelazka do loków, aby stylizować włosy przez lata, i zawsze uzyskiwałam profesjonalny wygląd. Użyłam żelazka do loków wczoraj wieczorem, aby uzyskać komplementy. Użyję żelazka do loków ponownie jutro, aby uzyskać specjalny wygląd.",
       "example_translation": "Eu tenho usado um ferro de frisar para estilo meu cabelo há anos, e ele sempre me dá um look de salão de beleza. Eu enrolei meu cabelo com um ferro de frisar ontem à noite e recebi muitos elogios. Vou usar um ferro de frisar novamente amanhã para uma ocasião especial.",
-      "imageLink": "curling-iron.jpg",
+      "imageLink": "image_files\\English\\curling-iron.jpg",
       "audioLink": "curling iron.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "As tesouras de cutícula são um tipo de ferramenta de beleza usada para cortar e dar forma às cutículas ao redor das unhas dos dedos e dos pés.",
       "example": "Użyłam nożyczek do pielęgnacji płatków, aby uciąć moje płatki po raz pierwszy w zeszłym tygodniu, i było łatwiej niż myślałam. Moja siostra jest profesjonalistką w zakresie pielęgnacji paznokci i zawsze używa nożyczek do pielęgnacji płatków, aby przygotować paznokcie swoich klientów. Użyję nożyczek do pielęgnacji płatków ponownie w przyszłym tygodniu, aby utrzymać swoją pielęgnację paznokci.",
       "example_translation": "Eu usei tesouras de cutícula para cortar minhas cutículas pela primeira vez semana passada, e foi mais fácil do que eu pensei. Minha irmã é uma técnica de unha profissional e ela sempre usa tesouras de cutícula para cuidar das unhas dos seus clientes. Vou usar tesouras de cutícula novamente semana que vem para manter minha rotina de cuidado com as unhas.",
-      "imageLink": "cuticle-nippers.jpg",
+      "imageLink": "image_files\\English\\cuticle-nippers.jpg",
       "audioLink": "cuticle nippers.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Um empurrador de cutícula é uma ferramenta usada para empurrar gentilmente as cutículas e remover células de pele mortas da cama das unhas.",
       "example": "Użyłam przecinacza do płatków, aby przeciąć moje płatki i wyczyścić łóżko paznokciowe wczoraj wieczorem, i czułam się bardzo relaksująco. Moja przyjaciółka jest kosmetyczką i zawsze używa przecinacza do płatków, aby przygotować łóżko paznokciowe do manicure. Użyję przecinacza do płatków ponownie w przyszłym tygodniu, aby utrzymać zdrowie swoich paznokci.",
       "example_translation": "Eu usei um empurrador de cutícula para empurrar minhas cutículas e limpar minha cama das unhas ontem à noite, e foi muito relaxante. Minha amiga é uma técnica de unha e ela sempre usa um empurrador de cutícula para preparar a cama das unhas para uma manicure. Vou usar um empurrador de cutícula novamente semana que vem para manter minhas unhas saudáveis.",
-      "imageLink": "cuticle-pusher.jpg",
+      "imageLink": "image_files\\English\\cuticle-pusher.jpg",
       "audioLink": "cuticle pusher.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Um produto cosmético usado para remover células de pele mortas das cutículas, geralmente antes de uma manicure ou pedicure.",
       "example": "Ona użyła środka usuwającego płatki, aby zmiękczyć swoje płatki przed przeciągnięciem ichESP, następnie zastosowała moisturizer, aby nawilżyć swoją skórę. Wczoraj ona użyła olejku do pielęgnacji płatków, aby odżywić swoje płatki, i będzie używać środka usuwającego płatki ponownie w przyszłym tygodniu.",
       "example_translation": "Ela usou um remover de cutícula para amolecer suas cutículas antes de empurrá-las para trás, então aplicou um hidratante para hidratar sua pele. Ontem, ela havia usado um óleo de cutícula para nutrir suas cutículas, e ela usará um remover de cutícula novamente na próxima semana.",
-      "imageLink": "cuticle-remover.jpg",
+      "imageLink": "image_files\\English\\cuticle-remover.jpg",
       "audioLink": "cuticle remover.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Um produto cosmético usado para remover pêlos corporais indesejados, geralmente dissolvendo o cabelo na superfície da pele.",
       "example": "Ona nałożyła krem depilacyjny na nogi, aby usunąć niechciane włosy, następnie spłukała go ciepłą wodą. W zeszłym miesiącu ona użyła maszynki do golenia, aby ogolić nogi, ale tym razem preferowała użyć kremu depilacyjnego. W przyszłym roku ona będzie używać kremu depilacyjnego ponownie, aby przygotować się do sezonu plażowego.",
       "example_translation": "Ela aplicou um creme depilatório nas pernas para remover pêlos indesejados, e então enxaguou com água morna. No mês passado, ela havia usado uma lâmina de barbear para raspar as pernas, mas desta vez ela preferiu usar um creme depilatório. No próximo verão, ela usará um creme depilatório novamente para se preparar para a praia.",
-      "imageLink": "depilatory-cream.jpg",
+      "imageLink": "image_files\\English\\depilatory-cream.jpg",
       "audioLink": "depilatory cream.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uma ferramenta cosmética usada para definir e dar forma às sobrancelhas, geralmente aplicando um lápis colorido na área da sobrancelha.",
       "example": "Ona użyła ołówka do brwi, aby wypełnić swoje rzadkie brwi, następnie wytarła kolor spinki. Wczoraj ona użyła proszku do brwi, aby zdefiniować swoje brwi, ale dzisiaj preferowała użyć ołówka do brwi. W przyszłym tygodniu ona będzie używać ołówka do brwi ponownie, aby dotknąć swoich brwi przed imprezą.",
       "example_translation": "Ela usou um lápis de sobrancelha para preencher suas sobrancelhas ralas, e então misturou a cor com um pincel. Ontem, ela havia usado um pó de sobrancelha para definir suas sobrancelhas, mas hoje ela preferiu usar um lápis de sobrancelha. Na próxima semana, ela usará um lápis de sobrancelha novamente para tocar suas sobrancelhas antes de uma festa.",
-      "imageLink": "eyebrow-pencil.jpg",
+      "imageLink": "image_files\\English\\eyebrow-pencil.jpg",
       "audioLink": "eyebrow pencil.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Um produto cosmético usado para definir e realçar a forma dos olhos, geralmente aplicando uma fórmula líquida, gel ou em pó na linha superior dos cílios.",
       "example": "Ona ostrożnie nałożyła liner na górnej linii rzęs, aby stworzyć efekt oczu kotów, następnie wydzieliła dolną linię rzęs ołówkiem brązowym. Wczoraj wieczorem ona użyła linera ciekłego, aby stworzyć dramatyczny efekt, ale dziś preferowała użyć ołówka linerowego. W przyszłym roku ona będzie używać wodoodpornej linera ponownie, aby nosić go w dniu ślubu.",
       "example_translation": "Ela aplicou cuidadosamente um rímel na linha superior dos cílios para criar um olhar de gato, e então delineou a linha inferior dos cílios com um lápis marrom. Na noite passada, ela havia usado um rímel líquido para criar um olhar dramático, mas hoje ela preferiu usar um rímel em lápis. No próximo ano, ela usará um rímel à prova d'água novamente para usar no dia do seu casamento.",
-      "imageLink": "eyeliner.jpg",
+      "imageLink": "image_files\\English\\eyeliner.jpg",
       "audioLink": "eyeliner.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Um produto cosmético usado para colorir e sombrear as pálpebras, geralmente aplicado com um pincel ou aplicador.",
       "example": "Nałożyłam cień do powiek na powieki, aby uzyskać naturalny efekt. Wczoraj kupiłam nową paletę cieni do powiek. Będę próbował cienia do powiek efektu smoka wieczorem na imprezie.",
       "example_translation": "Eu apliquei uma sombra de olhos leve em minhas pálpebras para um look natural. Ontem, eu comprei uma nova palette de sombra de olhos. Eu vou tentar um look de sombra de olhos ousado para a festa Tonight.",
-      "imageLink": "eyeshadow.jpg",
+      "imageLink": "image_files\\English\\eyeshadow.jpg",
       "audioLink": "eyeshadow.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Um aparelho doméstico usado para amaciar e estilizar cabelo, geralmente consistindo em placas quentes que são fechadas juntas para alisar ou cachear o cabelo.",
       "example": "Użyłam prostownika, aby wyprostować swoje włosy na weselu. Moja siostra pożyczyła mój prostownik wczoraj. Będę kupować nowy prostownik w przyszłym tygodniu.",
       "example_translation": "Eu usei um ferro de passar roupa para alisar meu cabelo para o casamento. Minha irmã emprestou meu ferro de passar roupa ontem. Eu vou comprar um novo ferro de passar roupa na próxima semana.",
-      "imageLink": "flat-iron.jpg",
+      "imageLink": "image_files\\English\\flat-iron.jpg",
       "audioLink": "flat iron.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Um produto de cuidado capilar usado para melhorar a textura e maneabilidade do cabelo, geralmente aplicado após o shampoo.",
       "example": "Stosuję kondycjoner do włosów po myjni włosów, aby utrzymać miękkość włosów. Mój kondycjoner do włosów był przestarzały, więc musiałam kupić nowy. Ona będzie używać kondycjonera do włosów, aby naprawić swoje uszkodzone włosy.",
       "example_translation": "Eu aplico um condicionador de cabelo após lavar meu cabelo para mantê-lo macio. Meu condicionador de cabelo estava vencido, então eu tive que comprar um novo. Ela vai usar um condicionador de cabelo para consertar seu cabelo danificado.",
-      "imageLink": "hair-conditioner.jpg",
+      "imageLink": "image_files\\English\\hair-conditioner.jpg",
       "audioLink": "hair conditioner.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Um produto de styling de cabelo leve e espumoso usado para adicionar volume, textura e segurar ao cabelo, frequentemente aplicado ao cabelo úmido.",
       "example": "Używam mousse do włosów, aby dodać objętość moim włosom przed stylizacją. Mój mousse do włosów jest prawie zużyty, muszę kupić nowy. Ona zastosowała mousse do włosów, aby dodać teksturę swoim włosom.",
       "example_translation": "Eu uso um mousse de cabelo para adicionar volume ao meu cabelo antes de styling. Meu mousse de cabelo está quase terminado, preciso comprar um novo. Ela aplicou um mousse de cabelo ao seu cabelo para adicionar textura.",
-      "imageLink": "hair-mousse.jpg",
+      "imageLink": "image_files\\English\\hair-mousse.jpg",
       "audioLink": "hair mousse.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Um produto cosmético usado para segurar um estilo de cabelo no lugar, particularmente para cabelos que são estilo com volume ou mantêm uma forma específica.",
       "example": "Użyła lakieru do włosów, aby utrzymać fryzurę na miejscu przez całą noc.",
       "example_translation": "Ela usou laca de cabelo para manter seu penteado no lugar a noite inteira.",
-      "imageLink": "hair-spray.jpg",
+      "imageLink": "image_files\\English\\hair-spray.jpg",
       "audioLink": "hair spray.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Um produto tópico usado para hidratar e proteger os lábios, frequentemente contendo cera de abelha, cânfora e óleos essenciais.",
       "example": "On zastosował balsam do ust, aby uśmierzyć suche usta zimą. On zastosował balsam do ust poprzedniej nocy i pomógł usta czuć się lepiej. On zastosuje balsam do ust ponownie, gdy skończy jeść.",
       "example_translation": "Ele aplicou bálsamo labial para acalmar seus lábios secos durante o inverno. Ele havia aplicado bálsamo labial na noite anterior, e isso ajudou seus lábios a se sentirem melhor. Ele irá aplicar bálsamo labial novamente quando terminar de comer.",
-      "imageLink": "lip-balm.jpg",
+      "imageLink": "image_files\\English\\lip-balm.jpg",
       "audioLink": "lip balm.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Um produto cosmético usado para adicionar brilho e cor aos lábios, frequentemente tendo um acabamento glossy ou sparkle.",
       "example": "Ona nałożyła błyszczyk do ust przed pójściem na imprezę. Ona nałożyła błyszczyk do ust poprzedniej nocy i sprawił, że jej usta wyglądały oszołomy. Ona nałoży błyszczyk do ust ponownie, gdy będzie gotowa do swojego randki.",
       "example_translation": "Ela aplicou brilho labial antes de ir para a festa. Ela havia aplicado brilho labial na noite anterior, e isso fez seus lábios parecerem incríveis. Ela irá aplicar brilho labial novamente quando se preparar para seu encontro.",
-      "imageLink": "lip-gloss.jpg",
+      "imageLink": "image_files\\English\\lip-gloss.jpg",
       "audioLink": "lip gloss.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Um produto cosmético usado para delinear e definir a forma dos lábios, frequentemente usado para criar uma forma mais precisa ou para corrigir lábios desiguais.",
       "example": "Ona użyła konturówki do ust, aby stworzyć efekt kotów oczu. Ona użyła konturówki do ust poprzedniej nocy, aby zdefiniować swoje usta. Ona użyje konturówki do ust ponownie, gdy zrobi makijaż na ślub.",
       "example_translation": "Ela usou lápis labial para criar um efeito de olho de gato. Ela havia usado lápis labial na noite anterior para definir seus lábios. Ela irá usar lápis labial novamente quando fizer sua maquiagem para o casamento.",
-      "imageLink": "lip-liner.jpg",
+      "imageLink": "image_files\\English\\lip-liner.jpg",
       "audioLink": "lip liner.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Um tipo de base que tem consistência líquida, muitas vezes usado para alcançar um acabamento natural e suave.",
       "example": "Użyłem fundacji płynnej na swoje wesele, aby mieć idealny wygląd. Użyję fundacji płynnej na następnej sesji zdjęciowej. Ona użyła fundacji płynnej, aby zakryć swoje niedoskonałości.",
       "example_translation": "Eu usei uma base líquida para meu casamento para garantir um tom de pele perfeito. Eu vou usar uma base líquida para minha próxima sessão de fotos. Ela havia usado uma base líquida para cobrir suas imperfeições.",
-      "imageLink": "liquid-foundation.jpg",
+      "imageLink": "image_files\\English\\liquid-foundation.jpg",
       "audioLink": "liquid foundation.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Um tipo de pó que não é pressionado em um compacto, muitas vezes usado para fixar o maquiagem e reduzir o brilho.",
       "example": "Nałożyłem pył luzem, aby utrwalić swoją fundację. Ona będzie używać pyłu luzem, aby zredukować błysk na jej czole. Oni użyli pyłu luzem, aby utrwalić swoją makijaż na noc.",
       "example_translation": "Eu apliquei um pó solto para fixar minha base. Ela vai usar um pó solto para reduzir o brilho em sua testa. Eles haviam usado um pó solto para fixar seu maquiagem para a noite.",
-      "imageLink": "loose-powder.jpg",
+      "imageLink": "image_files\\English\\loose-powder.jpg",
       "audioLink": "loose powder.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Um pequeno pincel usado para aplicar esmalte de unha, muitas vezes usado para criar desenhos de unha intrincados.",
       "example": "Użyłem pędzla do paznokci, aby namalować detaliczny projekt na moich paznokciach. Ona będzie używać pędzla do paznokci, aby nałożyć lakier do paznokci na ślub. Oni użyli pędzla do paznokci, aby stworzyć intratne wzory na paznokciach.",
       "example_translation": "Eu usei um pincel de unha para pintar um design detalhado em minhas unhas. Ela vai usar um pincel de unha para aplicar esmalte de unha para seu casamento. Eles haviam usado um pincel de unha para criar desenhos intrincados em suas unhas.",
-      "imageLink": "nail-brush.jpg",
+      "imageLink": "image_files\\English\\nail-brush.jpg",
       "audioLink": "nail brush.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Um líquido colorido usado para decorar e proteger as unhas, muitas vezes vindo em uma variedade de cores e acabamentos.",
       "example": "Nałożyłem lakier do paznokci na moje palce latem. Ona będzie używać lakieru do paznokci, aby dopasować go do swojej sukni na imprezę. Oni użyli lakieru do paznokci, aby stworzyć efektowny wygląd na wybiegu.",
       "example_translation": "Eu apliquei esmalte de unha aos meus dedos do pé para o verão. Ela vai usar esmalte de unha para combinar com seu vestido para a festa. Eles haviam usado esmalte de unha para criar um look ousado para a passarela.",
-      "imageLink": "nail-polish.jpg",
+      "imageLink": "image_files\\English\\nail-polish.jpg",
       "audioLink": "nail polish.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Um líquido à base de solvente used para dissolver e remover esmalte de unhas.",
       "example": "Użyłem źródła lakieru do paznokci, aby usunąć stary lakier. Wczoraj kupiłem nowe źródło lakieru do paznokci. Użyję źródła lakieru do paznokci jutro.",
       "example_translation": "Eu usei um removeador de esmalte para tirar o esmalte velho. Ontem, eu comprei um novo removeador de esmalte. Eu usarei o removeador de esmalte amanhã.",
-      "imageLink": "nail-polish-remover.jpg",
+      "imageLink": "image_files\\English\\nail-polish-remover.jpg",
       "audioLink": "nail polish remover.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Uma ferramenta macia, como um travesseiro, usada para aplicar pó no rosto e corpo.",
       "example": "Ona delikatnie nałożyła puder za pomocą puderki. Puderka była zbyt duża dla jej twarzy. Ona kupi mniejszą puderkę w przyszłym tygodniu.",
       "example_translation": "Ela aplicou o pó com um pó de pó soft. O pó de pó era demasiado grande para o seu rosto. Ela comprará um pó de pó menor na próxima semana.",
-      "imageLink": "powder-puff.jpg",
+      "imageLink": "image_files\\English\\powder-puff.jpg",
       "audioLink": "powder puff.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Um tipo de pó que é pressionado em uma forma de bolo compacto, usado para fixar maquiagem e controlar brilho.",
       "example": "Użyła pudru prasowanego, aby ustabilizować podkład. Puder prasowany był prawie pusty. Będzie kupowała nowy puder prasowany wkrótce.",
       "example_translation": "Ela usou pó compacto para fixar sua base. O pó compacto estava quase vazio. Ela comprará um novo pó compacto em breve.",
-      "imageLink": "pressed-powder.jpg",
+      "imageLink": "image_files\\English\\pressed-powder.jpg",
       "audioLink": "pressed powder.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Um produto cosmético aplicado à pele antes de maquiagem para criar uma superfície suave e ajudar a maquiagem ficar no lugar.",
       "example": "Nałożyła primer przed nałożeniem podkładu. Primer pomógł jej makijażowi trwać dłużej. Będzie używać innego primeru następnym razem.",
       "example_translation": "Ela aplicou um primário antes de aplicar sua base. O primário ajudou sua maquiagem durar mais tempo. Ela usará um primário diferente da próxima vez.",
-      "imageLink": "primer.jpg",
+      "imageLink": "image_files\\English\\primer.jpg",
       "audioLink": "primer.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Uma pedra pumícia é uma pedra natural exfoliante usada para remover células de pele morta dos pés, cotovelos e mãos.",
       "example": "Użyłem kamienia pumeksowego, aby usunąć martwe komórki skóry z pięt. Wczoraj kupiłem kamień pumeksowy, aby wygładzić skórę. Będę używał kamienia pumeksowego jutro, aby zrobić skórę gładką.",
       "example_translation": "Eu usei uma pedra pumícia para remover as células de pele morta dos meus calcanhares. Ontem, eu comprei uma pedra pumícia para exfoliar minha pele. Eu vou usar uma pedra pumícia amanhã para fazer minha pele suave.",
-      "imageLink": "pumice-stone.jpg",
+      "imageLink": "image_files\\English\\pumice-stone.jpg",
       "audioLink": "pumice stone.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Um pincel de barbear é um pincel usado para aplicar creme de barbear ou sabão na pele antes de se barbear.",
       "example": "Umyłem szczoteczkę do golenia po goleniu. Fryzjer użył szczoteczki do golenia, aby nałożyć krem. Będzie kupowała szczoteczkę do golenia w przyszłym tygodniu.",
       "example_translation": "Eu lavei meu pincel de barbear após se barbear. O barbeiro usou um pincel de barbear para aplicar o creme de barbear. Ela vai comprar um pincel de barbear na próxima semana.",
-      "imageLink": "shaving-brush.jpg",
+      "imageLink": "image_files\\English\\shaving-brush.jpg",
       "audioLink": "shaving brush.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Creme de barbear é um tipo de creme ou espuma usado para ajudar a navalha a deslizar suavemente sobre a pele enquanto se barbeia.",
       "example": "Nałożyłem krem do golenia na twarz przed goleniem. Użyła kremu do golenia, który był bez woni. Będzie kupował krem do golenia odpowiedni dla skóry wrażliwej.",
       "example_translation": "Eu apliquei o creme de barbear no meu rosto antes de se barbear. Ela usou um creme de barbear que era isento de fragrância. Ele vai comprar um creme de barbear adequado para pele sensível.",
-      "imageLink": "shaving-cream.jpg",
+      "imageLink": "image_files\\English\\shaving-cream.jpg",
       "audioLink": "shaving cream.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Espuma de barbear é um tipo de espuma usada para ajudar a navalha a deslizar suavemente sobre a pele enquanto se barbeia.",
       "example": "Zaprowadziłem pianę do golenia na twarz przed goleniem. Użyła piany do golenia, która była nawilżająca. Będzie próbował piany do golenia z efektami chłodzącymi.",
       "example_translation": "Eu borrifei a espuma de barbear no meu rosto antes de se barbear. Ela usou uma espuma de barbear que era hidratante. Ele vai tentar uma espuma de barbear com efeito de resfriamento.",
-      "imageLink": "shaving-foam.jpg",
+      "imageLink": "image_files\\English\\shaving-foam.jpg",
       "audioLink": "shaving foam.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Um loção ou substância que é aplicada à pele para protegê-la dos raios solares nocivos, geralmente durante atividades ao ar livre.",
       "example": "Nałożyłem krem z filtrem przeciwsłonecznym przed wyjściem na plażę wczoraj. Będę nałożył krem z filtrem przeciwsłonecznym przed wyjściem na plażę jutro. Nałożyłem krem z filtrem przeciwsłonecznym przed wyjściem na plażę każdego dnia.",
       "example_translation": "Eu apliquei filtro solar na minha pele antes de ir para a praia ontem. Eu aplicarei filtro solar na minha pele antes de ir para a praia amanhã. Eu aplico filtro solar na minha pele antes de ir para a praia todos os dias.",
-      "imageLink": "sunscreen.jpg",
+      "imageLink": "image_files\\English\\sunscreen.jpg",
       "audioLink": "sunscreen.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Um pequeno instrumento usado para puxar ou segurar objetos pequenos, geralmente tendo dois braços articulados que são operados apertando as alças.",
       "example": "Użyłem pęsety, aby wydepilować brwi wczoraj. Będę używał pęsety, aby wydepilować brwi jutro. Używam pęsety, aby wydepilować brwi każdego tygodnia.",
       "example_translation": "Eu usei pincelas para depilar minhas sobrancelhas ontem. Eu usarei pincelas para depilar minhas sobrancelhas amanhã. Eu uso pincelas para depilar minhas sobrancelhas todas as semanas.",
-      "imageLink": "tweezers.jpg",
+      "imageLink": "image_files\\English\\tweezers.jpg",
       "audioLink": "tweezers.mp3"
     }
   ]

@@ -9,7 +9,7 @@
       "definition_translation": "Ein warmblütiges, eierlegendes Tier, das durch das Vorhandensein von Federn, einem zahnlosen Schnabel und einem leichten Skelett gekennzeichnet ist.",
       "example": "Wczoraj widziałem ptaka latającego w niebie. Dziś obserwuję ptaka budującego swoje gniazdo. Za rok zobaczę wiele ptaków migrujących.",
       "example_translation": "Ich sah gestern ein Vogel am Himmel fliegen. Heute beobachte ich einen Vogel, das sein Nest baut. Bis zum nächsten Jahr werde ich viele Vögel wandern gesehen haben.",
-      "imageLink": "bird.jpg",
+      "imageLink": "image_files\\English\\bird.jpg",
       "audioLink": "bird.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Ein Haushuhn, das für seine Eier und sein Fleisch gehalten wird, insbesondere ein junges.",
       "example": "Wychowałem kurę z jaja. Dziś kura składa jaja. Za rok będę sprzedawał mięso kurczęce.",
       "example_translation": "Ich zog ein Huhn von einem Ei auf. Heute legt das Huhn Eier. Bis zum nächsten Jahr werde ich Hühnerfleisch verkaufen.",
-      "imageLink": "chicken.jpg",
+      "imageLink": "image_files\\English\\chicken.jpg",
       "audioLink": "chicken.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Ein Wasser vogel mit einem breiten, flachen Schnabel und Schwimmfüßen, typischerweise in oder nahe dem Wasser gefunden.",
       "example": "Wczoraj widziałem kaczkę pływającą w jeziorze. Dziś karmię kaczkę chlebem. Za rok zobaczę wiele kaczek migrujących.",
       "example_translation": "Ich sah gestern eine Ente im See schwimmen. Heute füttere ich eine Ente Brot. Bis zum nächsten Jahr werde ich viele Enten wandern gesehen haben.",
-      "imageLink": "duck.jpg",
+      "imageLink": "image_files\\English\\duck.jpg",
       "audioLink": "duck.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Ein großer Wasser vogel mit einem langen Hals, typischerweise in oder nahe dem Wasser gefunden, insbesondere ein domestiziertes für sein Fleisch und Eier.",
       "example": "Wczoraj widziałem gęś latającą w niebie. Dziś karmię gęś trawą. Za rok zobaczę wiele gęsi migrujących.",
       "example_translation": "Ich sah gestern eine Gans am Himmel fliegen. Heute füttere ich eine Gans Gras. Bis zum nächsten Jahr werde ich viele Gänse wandern gesehen haben.",
-      "imageLink": "goose.jpg",
+      "imageLink": "image_files\\English\\goose.jpg",
       "audioLink": "goose.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Ein Papagei ist ein farbiges Vogel, das bekannt ist für seine Fähigkeit, menschliche Sprache und andere Geräusche nachzuahmen.",
       "example": "Miałem papugę, gdy byłem dzieckiem, było bardzo głośno. Teraz mam nową papugę, jest bardzo cicho. Kupię następną papugę za rok.",
       "example_translation": "Ich hatte einen Papagei, als ich ein Kind war, es war sehr laut. Jetzt habe ich einen neuen Papagei, es ist sehr leise. Ich werde nächsten Jahr einen anderen Papagei kaufen.",
-      "imageLink": "parrot.jpg",
+      "imageLink": "image_files\\English\\parrot.jpg",
       "audioLink": "parrot.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Ein Pinguin ist ein flugunfähiger Vogel, der im Südlichen Halbkreis lebt, charakterisiert durch sein schwarzes und weißes Gefieder und seinen watschelnden Gang.",
       "example": "Widziałem pingwiny w zoo rok temu, były bardzo cudowne. Teraz widzę pingwiny w telewizji, są bardzo interesujące. Odwiedzę pingwiny na Antarktydzie za rok.",
       "example_translation": "Ich sah Pinguine im Zoo letztes Jahr, sie waren sehr niedlich. Jetzt sehe ich Pinguine im Fernsehen, sie sind sehr interessant. Ich werde Pinguine in der Antarktis nächstes Jahr besuchen.",
-      "imageLink": "penguin.jpg",
+      "imageLink": "image_files\\English\\penguin.jpg",
       "audioLink": "penguin.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Ein Storch ist ein großer Watvogel mit einem langen Hals und Beinen, bekannt für seine Gewohnheit, auf Gebäuden zu nisten und seine jährlichen Wanderungen.",
       "example": "Widziałem bociany lecące na południe jesienią, były bardzo wysoko. Teraz widzę bociany na budynkach, są bardzo ciche. Zobaczę bociany migrujące wiosną za rok.",
       "example_translation": "Ich sah Störche südwärts fliegen letzten Herbst, sie waren sehr hoch. Jetzt sehe ich Störche auf Gebäuden, sie sind sehr leise. Ich werde Störche migrieren nächstes Frühjahr beobachten.",
-      "imageLink": "stork.jpg",
+      "imageLink": "image_files\\English\\stork.jpg",
       "audioLink": "stork.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Ein Truthahn ist ein großes domestiziertes Vogel, oft auf Bauernhöfen gehalten und bei besonderen Anlässen wie Thanksgiving gegessen.",
       "example": "Zjadłem indyka na Święto Dziękczynienia rok temu, było bardzo smaczne. Teraz jem indyka na Boże Narodzenie, jest bardzo smaczne. Ugotuję indyka na Wielkanoc za rok.",
       "example_translation": "Ich aß Truthahn zum Thanksgiving letzten Jahr, es war sehr lecker. Jetzt esse ich Truthahn zu Weihnachten, es ist sehr schmackhaft. Ich werde Truthahn für Ostern nächstes Jahr kochen.",
-      "imageLink": "turkey-2.jpg",
+      "imageLink": "image_files\\English\\turkey-2.jpg",
       "audioLink": "turkey.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Ein Flügel ist eine Art flacher Anhängsel, das vom Körper eines Tieres abstellt, normalerweise zum Fliegen oder Gleiten verwendet.",
       "example": "Ptak zamachał skrzydłami, aby wystartować. Pilot rozpostarł skrzydła, aby ślizgać. Nowy samolot będzie miał większe skrzydła, aby latać dalej.",
       "example_translation": "Der Vogel schlug seine Flügel, um abzuheben. Der Pilot breitete seine Flügel aus, um zu gleiten. Das neue Flugzeug wird größere Flügel haben, um weiter zu fliegen.",
-      "imageLink": "wing.jpg",
+      "imageLink": "image_files\\English\\wing.jpg",
       "audioLink": "wing.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Eine Krähe ist ein großer, schwarzer Vogel, der wegen seiner Intelligenz und seinem charakteristischen Ruf bekannt ist.",
       "example": "Wrona siedziała na gałęzi, krzycząc głośno. Wrony są znane z inteligencji. Wrona będzie jeść nasiona z karmnika.",
       "example_translation": "Die Krähe saß auf dem Ast, krächzte laut. Krähen sind bekannt dafür, sehr intelligent zu sein. Die Krähe wird Samen aus dem Futterplatz essen.",
-      "imageLink": "crow.jpg",
+      "imageLink": "image_files\\English\\crow.jpg",
       "audioLink": "crow.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Ein Kuckuck ist eine Art Vogel, der wegen seines charakteristischen Rufes bekannt ist und oft als Symbol des Frühlings betrachtet wird.",
       "example": "Głos kukulczyka odezwał się przez las. Kukulczyki są znane z tego, że składają swoje jaja w gniazdach innych ptaków. Kukulczyk będzie się już wkrótce słyszał ponownie.",
       "example_translation": "Der Ruf des Kuckucks hallte durch den Wald. Kuckucke sind bekannt dafür, ihre Eier in anderen Vögelnester zu legen. Der Kuckuck wird bald wieder gehört werden.",
-      "imageLink": "cuckoo.jpg",
+      "imageLink": "image_files\\English\\cuckoo.jpg",
       "audioLink": "cuckoo.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Ein Adler ist ein großer, starker Raubvogel, der wegen seiner scharfen Krallen und starken Flügeln bekannt ist.",
       "example": "Orzeł unosił się przez niebo, swoimi rozpostartymi skrzydłami. Orły są znane ze swojego ostrzego wzroku. Orzeł będzie się gniazdował w wysokim drzewie.",
       "example_translation": "Der Adler segelte durch den Himmel, seine Flügel weit ausgebreitet. Adler sind bekannt für ihr scharfes Gesicht. Der Adler wird in dem hohen Baum nisten.",
-      "imageLink": "eagle.jpg",
+      "imageLink": "image_files\\English\\eagle.jpg",
       "audioLink": "eagle.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Eine der leichten, flauschigen oder haarähnlichen Wachstum an den Körpern von Vögeln, die für Isolierung, Stützung und Flug verwendet werden.",
       "example": "Pióro ptaka było miękkie i lekkie., Od ostatniego miesiąca ona zbiera pióra do swojego projektu artystycznego., Do przyszłego roku ona będzie miała już wystarczająco piór, aby zrobić piękny quilt.",
       "example_translation": "Das Feder des Vogels war weich und leicht., Sie hat seit letzten Monat Federn für ihr Kunstprojekt gesammelt., Bis nächstes Jahr wird sie genug Federn gesammelt haben, um eine schöne Decke zu machen.",
-      "imageLink": "feather.jpg",
+      "imageLink": "image_files\\English\\feather.jpg",
       "audioLink": "feather.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Eine adulte weibliche Haushuhn, die für ihre Eier gehalten wird.",
       "example": "Rolnik trzymał kurę w ogrodzie., Moja babcia dawniej hodowała kury, gdy była młodsza., Do następnego lata będziemy mieli już wystarczająco kurek, aby dostarczyć jaj dla całej wsi.",
       "example_translation": "Der Bauer hielt eine Henne im Hinterhof., Meine Großmutter hat früher Hennen gezüchtet, als sie jünger war., Bis nächsten Sommer werden wir genug Hennen gezüchtet haben, um Eier für das ganze Dorf zu liefern.",
-      "imageLink": "hen.jpg",
+      "imageLink": "image_files\\English\\hen.jpg",
       "audioLink": "hen.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Eier zu produzieren, insbesondere als natürlicher Prozess weiblicher Vögel, Reptilien und Amphibien.",
       "example": "Kury składają jaja w gnieździe., Żona rolnika zbiera jaja z kurnika każdego ranka., Do następnej wiosny kury będą już znowu składać jaja.",
       "example_translation": "Hennen legen Eier im Nest., Die Frau des Bauern sammelt jeden Morgen Eier aus dem Hühnerstall., Bis nächsten Frühling werden die Hennen wieder Eier legen.",
-      "imageLink": "lay-eggs.jpg",
+      "imageLink": "image_files\\English\\lay-eggs.jpg",
       "audioLink": "lay eggs.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Ein nachtaktiver Greifvogel mit einem runden Kopf, vorwärts gerichteten Augen und Ohrbüscheln, bekannt für seinen lautlosen, flugbewegten Flug.",
       "example": "Sowa siedziała na gałęzi w lesie., Wczoraj wieczorem widziałem sowę, która leciała cicho nad polem., Do przyszłego roku mamy nadzieję, że spotkamy sowę gniazdującą w pobliskim lesie.",
       "example_translation": "Die Eule saß auf einem Ast im Wald., Ich sah letzte Nacht eine Eule lautlos über das Feld fliegen., Bis nächstes Jahr hoffen wir, eine Eule in den nahe gelegenen Wäldern zu entdecken.",
-      "imageLink": "owl.jpg",
+      "imageLink": "image_files\\English\\owl.jpg",
       "audioLink": "owl.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Eine Taube ist eine Art von Vogel, die häufig in Städten vorkommt und durch ihre grauen und weißen Federn bekannt ist.",
       "example": "Wczoraj widziałem gołębia, który leciał nad mną, a dzisiaj widzę wielu gołębi w parku. Do jutra będę karmił gołębie na placu.",
       "example_translation": "Ich sah gestern eine Taube fliegen, aber heute sehe ich viele Tauben im Park. Morgen werde ich die Tauben auf dem Platz gefüttert haben.",
-      "imageLink": "pigeon.jpg",
+      "imageLink": "image_files\\English\\pigeon.jpg",
       "audioLink": "pigeon.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Eine Möwe ist eine Art von Vogel, die häufig am Ozean vorkommt und durch ihre weißen und grauen Federn bekannt ist.",
       "example": "Wczoraj widziałem mewę, która leciała nad falami, a dzisiaj widzę wielu mew na plaży. Do jutra będę obserwował mewę, która będzie unosić się w powietrzu.",
       "example_translation": "Ich sah gestern eine Möwe über den Wellen fliegen, aber heute sehe ich viele Möwen am Strand. Morgen werde ich eine Möwe am Himmel segeln sehen.",
-      "imageLink": "seagull.jpg",
+      "imageLink": "image_files\\English\\seagull.jpg",
       "audioLink": "seagull.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Ein Spatz ist eine Art von kleinem Vogel, die häufig in Gärten vorkommt und durch ihre braunen Federn bekannt ist.",
       "example": "Wczoraj widziałem szpaka, która siedziała na gałęzi, a dzisiaj widzę wielu szpaków w ogrodzie. Do jutra będę obserwował szpaka, która będzie budowała swoje gniazdo.",
       "example_translation": "Ich sah gestern einen Spatz auf einem Zweig sitzen, aber heute sehe ich viele Spatzen im Garten. Morgen werde ich einen Spatz bei seinem Nestbau beobachten.",
-      "imageLink": "sparrow.jpg",
+      "imageLink": "image_files\\English\\sparrow.jpg",
       "audioLink": "sparrow.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Ein Schwan ist eine Art von großem Wasser vogel, die häufig in Seen vorkommt und durch seine weißen Federn und langen Hals bekannt ist.",
       "example": "Wczoraj widziałem łabędzia, który płynął po jeziorze, a dzisiaj widzę wielu łabędzi na rzece. Do jutra będę obserwował łabędzia, który będzie leciał nad mną.",
       "example_translation": "Ich sah gestern einen Schwan auf dem See gleiten, aber heute sehe ich viele Schwäne auf dem Fluss. Morgen werde ich einen Schwan am Himmel fliegen sehen.",
-      "imageLink": "swan.jpg",
+      "imageLink": "image_files\\English\\swan.jpg",
       "audioLink": "swan.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Der Schnabel ist der Mundteil eines Vogels, der zum Essen, Greifen und anderen Funktionen verwendet wird.",
       "example": "Papuga użyła dzioba, aby otworzyć orzech. Wczoraj, dziobała się w lustrze. Jutro, będzie dziobać się w swoją żywność.",
       "example_translation": "Das Papagei benutzte seinen Schnabel, um die Nuss aufzubrechen. Gestern beakte es am Spiegel. Morgen wird es an seinem Essen beaken.",
-      "imageLink": "beak.jpg",
+      "imageLink": "image_files\\English\\beak.jpg",
       "audioLink": "beak.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Eine Taube ist eine Art Vogel, die oft mit Frieden und Liebe assoziiert wird.",
       "example": "Gołąb leciał łagodnie przez niebo. Wczoraj, gołąb zszedł na ziemię. Jutro, będzie gołąb wracał do swojego gniazda.",
       "example_translation": "Die Taube flog sanft durch den Himmel. Gestern tauchte sie zur Erde hinab. Morgen wird sie zu ihrem Nest zurücktauchen.",
-      "imageLink": "dove.jpg",
+      "imageLink": "image_files\\English\\dove.jpg",
       "audioLink": "dove.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Ein Räuber ist ein Tier, das natürlicherweise andere Tiere jagt.",
       "example": "Lew to drapieżnik na sawannie. Wczoraj, on polował na zeby. Jutro, będzie polował na antylopy.",
       "example_translation": "Der Löwe ist ein Räuber in der Savanne. Gestern jagte er die Zebras. Morgen wird er die Antilopen jagen.",
-      "imageLink": "predator.jpg",
+      "imageLink": "image_files\\English\\predator.jpg",
       "audioLink": "predator.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Ein Habicht ist eine Art Greifvogel, bekannt für sein scharfes Augenlicht und seine Agilität.",
       "example": "Jastrząb unosił się przez niebo, szukając zdobyczy. Wczoraj, jastrząb zszedł na królika. Jutro, będziejastrząb znów polował.",
       "example_translation": "Der Habicht segelte durch den Himmel, auf der Suche nach Beute. Gestern hackte er auf ein Kaninchen hinab. Morgen wird er wieder hacken.",
-      "imageLink": "hawk.jpg",
+      "imageLink": "image_files\\English\\hawk.jpg",
       "audioLink": "hawk.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Ein kleiner, melodischer Singvogel mit einem kurzen, stumpfen Schnabel und einem rundlichen Schwanz.",
       "example": "Skowronek śpiewał słodko rano, jutro zobaczę skowronka lecącego wysoko w niebie, a ona widziała skowronka siedzącego na drucie wczoraj.",
       "example_translation": "Die Lerche sang süßlich am Morgen, ich werde morgen eine Lerche hoch am Himmel fliegen sehen, und sie sah gestern eine Lerche auf einem Draht sitzen.",
-      "imageLink": "lark.jpg",
+      "imageLink": "image_files\\English\\lark.jpg",
       "audioLink": "lark.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Ein großer, schwarzer und weißer Vogel mit einem langen Schwanz und einem scharfen Schnabel, bekannt für seine kühne und neugierige Natur.",
       "example": "Szpak gwałtownie szczekał w drzewie, jutro nakarmię szpaka, a ona widziała szpaka szybko lecącego wczoraj.",
       "example_translation": "Die Elster schnatterte laut im Baum, ich werde morgen einer Elster füttern, und sie sah gestern eine Elster schnell fliegen.",
-      "imageLink": "magpie.jpg",
+      "imageLink": "image_files\\English\\magpie.jpg",
       "audioLink": "magpie.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Ein von einem Vogel oder anderen Tier gebautes Gebilde oder eine Stätte, um Eier zu legen oder auszuruhen.",
       "example": "Ptak zbudował gniazdo w drzewie, jutro wyczyść gniazdo, a ona widziała gniazdo z jajami wczoraj.",
       "example_translation": "Der Vogel baute ein Nest im Baum, ich werde morgen das Nest reinigen, und sie sah gestern ein Nest mit Eiern.",
-      "imageLink": "nest-1.jpg",
+      "imageLink": "image_files\\English\\nest-1.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Ein von einem Vogel oder anderen Tier gebautes Gebilde oder eine Stätte, um Eier zu legen oder auszuruhen.",
       "example": "Ptak zbudował gniazdo w drzewie, jutro wyczyść gniazdo, a ona widziała gniazdo z jajami wczoraj.",
       "example_translation": "Der Vogel baute ein Nest im Baum, ich werde morgen das Nest reinigen, und sie sah gestern ein Nest mit Eiern.",
-      "imageLink": "nest.jpg",
+      "imageLink": "image_files\\English\\nest.jpg",
       "audioLink": "nest.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Die Federn, die den Körper eines Vogels bedecken, insbesondere diejenigen, die farbenfroh oder sonstwie auffällig sind.",
       "example": "Upierzenie pawia było tak wspaniałe, że przyciągnęło wielu odwiedzających do zoo. Wczoraj, widziałem ptaka z pięknym upierzeniem w lesie. Do przyszłego roku, upierzenie ptaka zmieni się całkowicie.",
       "example_translation": "Das Gefieder des Pfauhahns war so prächtig, dass es viele Besucher in den Zoo anzog. Gestern sah ich einen Vogel mit schönen Gefieder im Wald. Bis zum nächsten Jahr wird das Gefieder des Vogels sich vollständig verändert haben.",
-      "imageLink": "plumage.jpg",
+      "imageLink": "image_files\\English\\plumage.jpg",
       "audioLink": "plumage.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Ein großer, schwarzer Vogel mit einem charakteristischen Ruf, der in der nördlichen Hemisphäre vorkommt.",
       "example": "Kruk siedział na parapecie, szukając jedzenia. Wczoraj, widziałem kruka lecącego nad górami. Do przyszłego roku, kruk zbuduje swoje gniazdo w starej szybie.",
       "example_translation": "Der Rabe saß auf der Fensterbank und suchte nach Nahrung. Gestern sah ich einen Raben über die Berge fliegen. Bis zum nächsten Jahr wird der Rabe sein Nest im alten Baum gebaut haben.",
-      "imageLink": "raven.jpg",
+      "imageLink": "image_files\\English\\raven.jpg",
       "audioLink": "raven.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Ein großer Seeschwalbe mit weißen Körper und langen Flügeln, der in der südlichen Hemisphäre vorkommt.",
       "example": "Albatros unosł się nad oceanem, jego skrzydła bijąc wolno. Wczoraj widziałem albatrosa gniazdującego na skalistej wyspie. Do przyszłego roku albatros przemieści się do cieplejszych wód.",
       "example_translation": "Der Albatros segelte über den Ozean, seine Flügel schlugen langsam. Gestern sah ich einen Albatros, der auf einer felsigen Insel nistete. Bis zum nächsten Jahr wird der Albatros zu wärmeren Gewässern gezogen sein.",
-      "imageLink": "albatross.jpg",
+      "imageLink": "image_files\\English\\albatross.jpg",
       "audioLink": "albatross.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Ein farbenfroher Vogel, der Bienen und andere Insekten frisst, der in warmen und sonnigen Regionen vorkommt.",
       "example": "Złotolik złapał pszczółę w powietrzu, jego żywe pióra lśniły w słońcu. Wczoraj widziałem złotolika siedzącego na przewodzie, czekającego na następny posiłek. Do przyszłego roku złotolik powróci na swoje zimowe miejsca.",
       "example_translation": "Der Bienenfresser fing eine Biene in der Luft, seine bunten Federn glänzten in der Sonne. Gestern sah ich einen Bienenfresser auf einem Draht sitzen, wartend auf sein nächstes Mahl. Bis zum nächsten Jahr wird der Bienenfresser zu seinen Winterquartieren zurückgekehrt sein.",
-      "imageLink": "bee-eater.jpg",
+      "imageLink": "image_files\\English\\bee-eater.jpg",
       "audioLink": "bee eater.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": " Eine große, dunkelgefiederte Grouse der Moore und Heidelandschaften, mit einem schwarzen Kehlfleck und einem charakteristischen Bombenruf.",
       "example": "Czarny głuszec zaczął buczeć wczesnym rankiem, a jego towarzyszka zaczęła budować gniazdo. Wczoraj widziałem czarnego głuszca przedzierał się po wrzosowisku. Do przyszłego roku populacja czarnych głuszczów znacznie wzrośnie.",
       "example_translation": "Das Birkhuhn begann am frühen Morgen zu dröhnen, und sein Partner begann, ein Nest zu bauen. Gestern sah ich ein Birkhuhn auf dem Moor stolzieren. Bis nächstem Jahr wird die Birkhuhnpopulation beträchtlich angewachsen sein.",
-      "imageLink": "black-grouse.jpg",
+      "imageLink": "image_files\\English\\black-grouse.jpg",
       "audioLink": "black grouse.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Ein großer, schwarzer Watvogel mit weißem Bauch, in Feuchtgebieten und Wäldern zu finden, bekannt für seine charakteristischen langsamen Flügelschläge.",
       "example": "Czarny bocian brodził przez płytką wodę, szukając ryb. Wczoraj widziałem czarnego bociana unosł się wysoko w powietrzu. Do końca wieku populacja czarnych bocianów znacznie spadnie.",
       "example_translation": "Der Weißstorch watete durch das seichte Wasser, auf der Suche nach Fischen. Gestern sah ich einen Weißstorch hoch am Himmel segeln. Bis Ende des Jahrhunderts wird die Weißstorchpopulation beträchtlich zurückgegangen sein.",
-      "imageLink": "black-stork.jpg",
+      "imageLink": "image_files\\English\\black-stork.jpg",
       "audioLink": "black stork.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Eine mittelgroße Möwe mit schwarzem Kopf, weißem Körper und grauen Flügeln, in Küstenregionen und Mülldeponien zu finden.",
       "example": "Mewa czarnogłowa szukała jedzenia na śmietniku. Wczoraj widziałem mewę czarnogłową lecącą nad głową. Do przyszłego lata populacja mew czarnogłowych znacznie wzrośnie wokół wybrzeża.",
       "example_translation": "Die Schwarzkopfmöwe suchte nach Nahrung auf dem Müllplatz. Gestern sah ich eine Schwarzkopfmöwe über mir fliegen. Bis nächsten Sommer wird die Schwarzkopfmöwepopulation um die Küste herum angewachsen sein.",
-      "imageLink": "black-headed-gull.jpg",
+      "imageLink": "image_files\\English\\black-headed-gull.jpg",
       "audioLink": "black-headed gull.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Ein gemeinsamer, schwarzer Vogel mit einem karakteristischen Gesang, in Gärten, Parks und Wäldern zu finden.",
       "example": "Kawka zaśpiewała pięknie rano. Wczoraj widziałem kawkę siedzącą na gałęzi. Do przyszłej wiosny populacja kawek przemieści się do cieplejszych regionów.",
       "example_translation": "Die Amsel sang ihre süße Melodie am Morgen. Gestern sah ich eine Amsel auf einem Zweig sitzen. Bis nächsten Frühling wird die Amselpopulation in wärmere Regionen gezogen sein.",
-      "imageLink": "blackbird.jpg",
+      "imageLink": "image_files\\English\\blackbird.jpg",
       "audioLink": "blackbird.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Ein kleiner, bunt gefärbter Vogel mit einer charakteristischen blauen und gelben Gefieder, in Wäldern und Gärten zu finden.",
       "example": "Widziałem skowronka modrego siedzącego na gałęzi, widzę skowronka modrego siedzącego na gałęzi, zobaczę skowronka modrego siedzącego na gałęzi.",
       "example_translation": "Ich habe eine Blaumeise auf einem Ast sitzen sehen, ich sehe eine Blaumeise auf einem Ast sitzen, ich werde eine Blaumeise auf einem Ast sitzen sehen.",
-      "imageLink": "blue-tit.jpg",
+      "imageLink": "image_files\\English\\blue-tit.jpg",
       "audioLink": "blue tit.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Ein großer, nomadischer Singvogel mit einer charakteristischen Federkrone und wachsartigen roten Spitzen an seinen Flügeln, in offenen Wäldern und Gärten zu finden.",
       "example": "Wachlarzówka migrowała do naszego regionu zeszłej zimy, wachlarzówka migruje do naszego regionu co roku, wachlarzówka zemigruje do naszego regionu następnej zimy.",
       "example_translation": "Der Wachsrichter hat unseren Raum letzten Winter besucht, der Wachsrichter besucht unseren Raum jeden Winter, der Wachsrichter wird unseren Raum nächsten Winter besuchen.",
-      "imageLink": "bohemian-waxwing.jpg",
+      "imageLink": "image_files\\English\\bohemian-waxwing.jpg",
       "audioLink": "bohemian waxwing.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Eine kleine, nachtaktive Eule mit einem runden Kopf und vorgestellten Ohren, in borealen Wäldern und Tundren zu finden.",
       "example": "Słyszałem puchacza północnego buczeć w lesie, słyszę puchacza północnego buczeć w lesie, usłyszę puchacza północnego buczeć w lesie.",
       "example_translation": "Ich habe einen Lapland-Uhu in den Wäldern hörten, ich höre einen Lapland-Uhu in den Wäldern, ich werde einen Lapland-Uhu in den Wäldern hörten.",
-      "imageLink": "boreal-owl.jpg",
+      "imageLink": "image_files\\English\\boreal-owl.jpg",
       "audioLink": "boreal owl.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Ein kleiner, langschwänziger Papagei, ursprünglich aus Australien, beliebt als domestiziertes Haustier.",
       "example": "Trzymałem papuzika falistego jako zwierzę domowe, gdy byłem dzieckiem, trzymam papuzika falistego jako zwierzę domowe teraz, będę trzymał papuzika falistego jako zwierzę domowe w przyszłości.",
       "example_translation": "Ich habe einen Wellensittich als Haustier gehabt, als ich ein Kind war, ich habe einen Wellensittich als Haustier jetzt, ich werde einen Wellensittich als Haustier in der Zukunft haben.",
-      "imageLink": "budgerigar.jpg",
+      "imageLink": "image_files\\English\\budgerigar.jpg",
       "audioLink": "budgerigar.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Ein Gimpel ist ein Vogeltyp, der durch seinen stämmigen Körper und seindeutliches Gefieder gekennzeichnet ist, der in Wäldern und Gärten in ganz Europa und Asien vorkommt.",
       "example": "Gil szary usiadł na gałęzi, jego jasne upierzenie złapało moją uwagę. Miał gniazdo tam przez wiele tygodni, i obserwowałem je uważnie. W przyszłym roku, powróci do swoich zimowisk.",
       "example_translation": "Der Gimpel saß auf dem Ast, sein helles Gefieder erregte meine Aufmerksamkeit. Es hatte dort wochenlang genistet, und ich hatte es sorgfältig beobachtet. Im nächsten Jahr wird es zu seinen Winterquartieren zurückkehren.",
-      "imageLink": "bullfinch.jpg",
+      "imageLink": "image_files\\English\\bullfinch.jpg",
       "audioLink": "bullfinch.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Eine Mückenweihe ist ein Greifvogeltyp, der durch seine breiten Flügel und scharfen Krallen gekennzeichnet ist, der in offener Landschaft und Moorland vorkommt.",
       "example": "Kania unosła się nad głową, jej przejmujący krzyk odbijał się echem na wrzosowiskach. Dopiero co złapała królika, a teraz leciała z powrotem do gniazda. Do następnego lata, wychowa nową stadkę.",
       "example_translation": "Die Mückenweihe kreiste hoch oben, ihr durchdringender Schrei hallte über das Moor. Sie hatte gerade ein Kaninchen gefangen, und flog jetzt zurück zu ihrem Nest. Bis nächsten Sommer wird es einen neuen Schwarm großgezogen haben.",
-      "imageLink": "buzzard.jpg",
+      "imageLink": "image_files\\English\\buzzard.jpg",
       "audioLink": "buzzard.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Ein Kanarienvogel ist ein kleiner Singvogel, bekannt für sein helles gelbes Gefieder und seinen melodischen Gesang, oft als domestiziertes Haustier gehalten.",
       "example": "Moja babcia trzymała kanarka w salonie, jego piękny śpiew wypełniał powietrze. Miała go przez lata, a on siedział na jej ramieniu, gdy śpiewała razem z nim. W zeszłym roku, przestał śpiewać, ale teraz znów się ożywił.",
       "example_translation": "Meine Großmutter pflegte einen Kanarienvogel in ihrem Wohnzimmer zu halten, sein schöner Gesang füllte die Luft. Sie hatte es Jahre lang besessen, und es saß auf ihrer Schulter, wenn sie mit sang. Letztes Jahr hatte es aufgehört zu singen, aber jetzt singt es wieder.",
-      "imageLink": "canary.jpg",
+      "imageLink": "image_files\\English\\canary.jpg",
       "audioLink": "canary.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Ein Buchfink ist ein kleiner bis mittelgroßer Fink, der durch seinen braunen Rücken und seine weißen Flügelstreifen gekennzeichnet ist, der in Wäldern und Gärten in ganz Europa und Asien vorkommt.",
       "example": "Zięba hopkała po ścieżce ogrodowej, jej brązowy grzbiet harmonizował z liśćmi. Zbudowała gniazdo w pobliskim krzaku, a teraz karmi swoje pisklęta. W następnym miesiącu, pisklęta opuszczą gniazdo.",
       "example_translation": "Der Buchfink hoppelte entlang des Gartenwegs, sein brauner Rücken verschmolz mit dem Laub. Es hatte ein Nest im nahen Busch gebaut, und fütterte jetzt seine Jungen. Nächsten Monat werden die Küken das Nest verlassen.",
-      "imageLink": "chaffinch.jpg",
+      "imageLink": "image_files\\English\\chaffinch.jpg",
       "audioLink": "chaffinch.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Ein männlicher Vogel, insbesondere ein Haushuhn, bekannt für seinen charakteristischen Ruf und aggressives Verhalten.",
       "example": "Kogut obudził nas o brzasku głośnym krzykiem. Wczoraj, kogut spacerował po farmie. W przyszłym roku, kogut wyrośnie wspaniałe pióra.",
       "example_translation": "Der Hahn weckte uns bei Tagesanbruch mit seinem lauten Krähen. Gestern stolzierte der Hahn über den Hof. Bis nächstem Jahr wird der Hahn sein schönes Gefieder entwickelt haben.",
-      "imageLink": "cock.jpg",
+      "imageLink": "image_files\\English\\cock.jpg",
       "audioLink": "cock.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Ein kleiner, braun-grauer Sänger, der in Europa und Westasien brütet, bekannt für sein charakteristisches Lied und die Angewohnheit, seinen Schwanz ständig zu schlagen.",
       "example": "Śpiewnik przelatywał między gałęziami, śpiewając piękną melodię. Wczoraj, ujrzeliśmy śpiewnika w ogrodzie. W przyszłej wiosnie, śpiewnik powróci do swoich miejsc lęgowych.",
       "example_translation": "Die Zarten Zweigdrossel flatterte zwischen den Ästen, sang ihr süßes Lied. Gestern haben wir eine Zarten Zweigdrossel im Garten gesichtet. Bis nächsten Frühling wird die Zarten Zweigdrossel zu ihren Brutplätzen zurückkehren.",
-      "imageLink": "common-chiffchaff.jpg",
+      "imageLink": "image_files\\English\\common-chiffchaff.jpg",
       "audioLink": "common chiffchaff.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Ein großer, grau-weißer Watvogel mit langem Hals und Beinen, in Feuchtgebieten und Grasland gefunden, bekannt für seinen charakteristischen Ruf und sein Hochzeitslied.",
       "example": "Żuraw migracja do swoich zimowisk w minionym miesiącu. Wczoraj, ujrzeliśmy żurawia w mokradłach. W przyszłym lecie, żuraw zbuduje nowe gniazdo.",
       "example_translation": "Der Kranich zog letzten Monat zu seinen Winterquartieren. Gestern haben wir einen Kranich in den Marschen gesehen. Bis nächsten Sommer wird der Kranich sein Nest gebaut haben.",
-      "imageLink": "common-crane.jpg",
+      "imageLink": "image_files\\English\\common-crane.jpg",
       "audioLink": "common crane.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Ein mittelgroßer, dunkelbrauner Vogel mit einem charakteristischen schwarzen Kopfschild und roter Stirn, in Feuchtgebieten gefunden, bekannt für seinen lauten, durchdringenden Ruf.",
       "example": "Łyska pływała po stawie wczoraj. Wczoraj, ujrzeliśmy łyskę w trzcinach. W przyszłej jesieni, łyska wyrośnie nowe pióra.",
       "example_translation": "Das Teichhuhn schwamm gestern über den Teich. Gestern haben wir ein Teichhuhn in den Schilfrohren rufen gehört. Bis nächsten Herbst wird das Teichhuhn seine neuen Federn haben.",
-      "imageLink": "common-moorhen.jpg",
+      "imageLink": "image_files\\English\\common-moorhen.jpg",
       "audioLink": "common moorhen.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "Der Gartenrotschwanz ist ein ziehendes Vogel, das in Europa und Asien brütet und in Afrika überwintert. Es ist ein kleiner, nachtaktiver Vogel mit einem charakteristischen Gesang.",
       "example": "Usłyszała słodki śpiew ślążyka, spacerując po lesie. Ślążyk śpiewał w nocy. W przyszłym lecie, ślążyk wyruszy do Afryki.",
       "example_translation": "Sie hörte den süßen Gesang des Gartenrotschwanzes, während sie im Wald spazierenging. Der Gartenrotschwanz hat die ganze Nacht gesungen. Bis nächsten Sommer wird der Gartenrotschwanz nach Afrika gezogen sein.",
-      "imageLink": "common-nightingale.jpg",
+      "imageLink": "image_files\\English\\common-nightingale.jpg",
       "audioLink": "common nightingale.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "Der Blutmehl ist ein kleiner Fink, der in der arktischen Tundra brütet und den Winter in nördlichen gemäßigten Regionen verbringt. Er ernährt sich von Samen und Insekten.",
       "example": "Siwka siedziała na gałęzi brzozy, jedząc nasiona. Siwka migracja do lasu w ciągu miesiąca. W przyszłej zimie, siwka przekroczy granicę Szwecji.",
       "example_translation": "Der Blutmehl saß auf einem Zweig einer Birke, Samuel essen. Der Blutmehl ist seit Monaten in den Wald gezogen. Bis nächsten Winter wird der Blutmehl die Grenze nach Schweden überqueren haben.",
-      "imageLink": "common-redpoll.jpg",
+      "imageLink": "image_files\\English\\common-redpoll.jpg",
       "audioLink": "common redpoll.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "Der Gartenschläger ist ein ziehender Vogel, der in Europa und Asien brütet und in Afrika überwintert. Er hat eine charakteristische weiße Kehlflecke und einen melodischen Gesang.",
       "example": "Aniołek szary śpiewał swoją słodką melodię z góry krzewu. Aniołek szary śpiewał od świtu. Przed następną wiosną aniołek szary będzie powrócił do swoich terenów rozrodczych.",
       "example_translation": "Der Gartenschläger sang seine süße Melodie von der Spitze eines Strauchs. Der Gartenschläger hat seit dem Morgengrauen gesungen. Bis nächsten Frühling wird der Gartenschläger zu seinen Brutplätzen zurückgekehrt sein.",
-      "imageLink": "common-whitethroat.jpg",
+      "imageLink": "image_files\\English\\common-whitethroat.jpg",
       "audioLink": "common whitethroat.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "Die Ringeltaube ist eine große Taube, die in Wäldern und Parks brütet und sich von Früchten, Samen und Insekten ernährt.",
       "example": "Gołębiak srokacz siadał na gałęzi dębu, jedząc żołędy. Gołębiak srokacz rozmnażał się w lesie od tygodni. Przed następną jesienią gołębiak srokacz będzie migrował do cieplejszych regionów.",
       "example_translation": "Die Ringeltaube saß auf einem Zweig einer Eiche, Eicheln essen. Die Ringeltaube hat Wochenlang im Wald geruht. Bis nächsten Herbst wird die Ringeltaube in wärmere Regionen gezogen sein.",
-      "imageLink": "common-wood-pigeon.jpg",
+      "imageLink": "image_files\\English\\common-wood-pigeon.jpg",
       "audioLink": "common wood pigeon.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Ein großer, schwarzer, neuer Weltgeier, Vultur gryphus, gefunden in den Anden-Gebirgszügen von Venezuela bis Chile.",
       "example": "Kondor unosił się nad nami, rozpostarłszy szeroko skrzydła. Wczoraj widzieliśmy kondora siedzącego na skalnej półce. Przed następnym rokiem będziemy widzieli wiele kondorów.",
       "example_translation": "Der Kondor segelte über unseren Köpfen, seine Flügel weit ausgebreitet. Gestern sahen wir einen Kondor auf einem Felsen sitzen. Bis zum nächsten Jahr werden wir viele Kondore gesehen haben.",
-      "imageLink": "condor.jpg",
+      "imageLink": "image_files\\English\\condor.jpg",
       "audioLink": "condor.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Ein großer, schwarzer, räuberischer WasserVogel, Phalacrocorax carbo, der nach Fischen taucht und einen auffallenden, schlangenähnlichen Hals hat.",
       "example": "Kormoran zanurkował w wodę, złapiąc rybę w dziobie. Wczoraj widzieliśmy kormorana siedzącego na gałęzi. Przed następnym tygodniem będziemy widzieli wiele kormoranów.",
       "example_translation": "Der Kormoran tauchte ins Wasser, einen Fisch in seinem Schnabel fangend. Gestern sahen wir einen Kormoran auf einem Ast sitzen. Bis nächste Woche werden wir viele Kormorane gesehen haben.",
-      "imageLink": "cormorant.jpg",
+      "imageLink": "image_files\\English\\cormorant.jpg",
       "audioLink": "cormorant.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Ein Vogeltyp, Crex crex, der in feuchten Wiesen brütet und einen auffallenden, lauten Ruf hat.",
       "example": "Czernica wołała głośno, startując nas. Wczoraj widzieliśmy czernicę kryjącą się w trzcinach. Przed następnym miesiącem będziemy słyszeli wiele czernic.",
       "example_translation": "Der Schwirl rief laut auf, uns überraschend. Gestern sahen wir einen Schwirl in den Schilfröhrern versteckt. Bis nächstem Monat werden wir viele Schwirl rufe gehört haben.",
-      "imageLink": "crake.jpg",
+      "imageLink": "image_files\\English\\crake.jpg",
       "audioLink": "crake.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Ein großer, watender Vogel, Grus grus, mit einem langen Hals und Beinen, gefunden in Feuchtgebieten und bekannt für seine Wanderungsmuster.",
       "example": "Żuraw leciał nad nami, prowadząc przybliżonym szlakiem. Wczoraj widzieliśmy żurawia brodzącego w bagnach. Przed następną wiosną będziemy widzieli wiele żurawi.",
       "example_translation": "Der Kranich flog über unseren Köpfen, seinen langen Hals voraus. Gestern sahen wir einen Kranich im Sumpf waten. Bis zum nächsten Frühling werden wir viele Kraniche gesehen haben.",
-      "imageLink": "crane.jpg",
+      "imageLink": "image_files\\English\\crane.jpg",
       "audioLink": "crane.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Ein kleiner bis mittelgroßer Vogel mit einer charakteristischen Haube auf dem Kopf, in offenen Ländern, Grasländern und landwirtschaftlichen Gebieten zu finden.",
       "example": "Skałownik siedział na płocie, śpiewając słodką melodię. Wczoraj widziałem skałownika lecącego nad polami. Przed następnim latem będę widział wiele skałowników.",
       "example_translation": "Die Haubenlerche saß auf einem Zaunpfosten und sang ihr süßes Lied. Gestern sah ich eine Haubenlerche über die Felder fliegen. Bis nächsten Sommer werde ich viele Haubenlerchen gesehen haben.",
-      "imageLink": "crested-lark.jpg",
+      "imageLink": "image_files\\English\\crested-lark.jpg",
       "audioLink": "crested lark.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Ein kleiner Vogel mit einer charakteristischen Haube auf dem Kopf, in Nadelwäldern und Waldrändern zu finden.",
       "example": "Czubatka siedziała na gałęzi, bujając czupryną. Wczoraj widziałem czubatą przelatującą między drzewami. Przed następną zimą będę widział wiele czubatów.",
       "example_translation": "Der Berglaubsänger saß auf einem Zweig, seine Haube wippte auf und ab. Gestern sah ich einen Berglaubsänger zwischen den Bäumen flattern. Bis nächsten Winter werde ich viele Berglaubsänger gesichtet haben.",
-      "imageLink": "crested-tit.jpg",
+      "imageLink": "image_files\\English\\crested-tit.jpg",
       "audioLink": "crested tit.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Ein großer, langschnabeliger Vogel mit einem charakteristischen Brachvogelruf, in Feuchtgebieten, Grasländern und landwirtschaftlichen Gebieten zu finden.",
       "example": "Świstak schodził w dół, by złapać rybę w rzece. Wczoraj słyszałem świstaka wzywającego w błotach. Przed następną wiosną będę widział wiele świstaków migrujących na północ.",
       "example_translation": "Der Große Brachvogel tauchte hinab, um einen Fisch im Fluss zu fangen. Gestern hörte ich einen Großen Brachvogel in den Sümpfen rufen. Bis nächsten Frühling werde ich viele Große Brachvögel nach Norden migrieren sehen.",
-      "imageLink": "curlew.jpg",
+      "imageLink": "image_files\\English\\curlew.jpg",
       "audioLink": "curlew.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Ein junger Schwan, insbesondere in seinem ersten Lebensjahr, gekennzeichnet durch sein grauweißes Gefieder.",
       "example": "Łabątko pływało za matką, ucząc się nurkować. Wczoraj widziałem łabątko wykonujące pierwszy lot. Przed następnim latem będę obserwował wiele łabątek rozwijających się w dorosłe łabędzie.",
       "example_translation": "Das Jungschwan schwamm hinter seiner Mutter, um zu tauchen zu lernen. Gestern sah ich ein Jungschwan seinen ersten Flug machen. Bis nächsten Sommer werde ich viele Jungschwäne zu adulten Schwänen heranwachsen sehen.",
-      "imageLink": "cygnet.jpg",
+      "imageLink": "image_files\\English\\cygnet.jpg",
       "audioLink": "cygnet.mp3"
     },
     {
@@ -789,7 +789,7 @@
       "definition_translation": "Eine große, kraftvoll gebaute Eule mit einem scharfen, gehakten Schnabel und durchdringenden gelben Augen, die in Wäldern und Wäldern Europas, Asiens und Nordamerikas gefunden wird.",
       "example": "Błotniak zlatył na swoją ofiarę w samym środku nocy. Obserwował królika z pobliskiego drzewa przez wiele godzin. Do przyszłego roku będzie już w ciepłych klimatach.",
       "example_translation": "Der Uhu schoss in der toten Nacht auf seine Beute herab. Es hatte das Kaninchen vom nahe gelegenen Baum aus stundenlang beobachtet. Bis zu diesem Zeitpunkt im nächsten Jahr wird es in wärmere Klimazonen gewandert sein.",
-      "imageLink": "eagle-owl.jpg",
+      "imageLink": "image_files\\English\\eagle-owl.jpg",
       "audioLink": "eagle owl.mp3"
     },
     {
@@ -802,7 +802,7 @@
       "definition_translation": "Ein großer, flugunfähiger Vogel, der in Australien heimisch ist, mit einer grau-bräunlichen Gefiederung und einer prominenten, hellblauen Kehlflechte.",
       "example": "Emu błądził swobodnie po australijskim outbacku. Był tam miliony lat przed przybyciem ludzi. Do końca wieku, dzięki_programom ochrony, jego siedlisko będzie chronione.",
       "example_translation": "Das Emu streifte frei in der australischen Outback umher. Es war bereits seit Millionen von Jahren dort, lange bevor Menschen ankamen. Bis zum Ende des Jahrhunderts werden Schutzmaßnahmen sein Habitat geschützt haben.",
-      "imageLink": "emu.jpg",
+      "imageLink": "image_files\\English\\emu.jpg",
       "audioLink": "emu.mp3"
     },
     {
@@ -815,7 +815,7 @@
       "definition_translation": "Ein Raubvogel mit einem schlanken Körper und langen, spitz zulaufenden Flügeln, der typischerweise kleine Säugetiere, Vögel und Insekten jagt.",
       "example": "Sokół płynął przez niebo, jego przeciągłe krzyki odbijały się echem w dolinie. Był symbolem władzy i wolności przez wieki. Do przyszłej wiosny sokół już wróci do swojego gniazda.",
       "example_translation": "Der Falke segelte durch die Lüfte, sein durchdringender Schrei hallte durch das Tal. Es war seit Jahrhunderten ein Symbol der Macht und Freiheit gewesen. Bis zum nächsten Frühling wird der Falke zu seinem Nest zurückgekehrt sein.",
-      "imageLink": "falcon.jpg",
+      "imageLink": "image_files\\English\\falcon.jpg",
       "audioLink": "falcon.mp3"
     },
     {
@@ -828,7 +828,7 @@
       "definition_translation": "Ein Watvogel mit einer charakteristischen rosa Gefiederung, langem Hals und Beinen, der in warmen und tropischen Regionen gefunden wird.",
       "example": "Flaming brodził przez płytkie wody jeziora, jego jaskrawo-różowe pióra lśniły w blasku słońca. Był rzadkim widokiem w tych stronach przez wiele lat. Do końca dekady, dzięki programom ochrony, jego populacja będzie zwiększona.",
       "example_translation": "Der Flamingo watete durch die seichten Gewässer des Sees, seine leuchtend rosa Federn leuchteten im Sonnenlicht. Es war ein seltener Anblick in jenen Teilen seit Jahren gewesen. Bis zum Ende des Jahrzehnts werden Schutzmaßnahmen seine Population erhöht haben.",
-      "imageLink": "flamingo.jpg",
+      "imageLink": "image_files\\English\\flamingo.jpg",
       "audioLink": "flamingo.mp3"
     },
     {
@@ -841,7 +841,7 @@
       "definition_translation": "Ein männlicher Gänseschwan, typischerweise größer und aggressiver als ein weibliches.",
       "example": "Gęsiak gonitwał dzieci od stawu. Wczoraj gęsiak był bardzo agresywny. Do przyszłego roku gęsiak będzie jeszcze większy.",
       "example_translation": "Der Gänseschwan jagte die Kinder weg vom Teich. Gestern war der Gänseschwan sehr aggressiv. Bis zum nächsten Jahr wird der Gänseschwan sogar noch größer sein.",
-      "imageLink": "gander.jpg",
+      "imageLink": "image_files\\English\\gander.jpg",
       "audioLink": "gander.mp3"
     },
     {
@@ -854,7 +854,7 @@
       "definition_translation": "Ein kleiner, wandernder Vogel mit einem einfachen braunen Rücken und weißen Unterseite, in Europa und Asien gefunden.",
       "example": "Wróbel ogrodowy śpiewał piękną pieśń rano. Latem zeszłym widzieliśmy wróbla ogrodowego w naszym ogrodzie. Do przyszłej wiosny wróbel ogrodowy wróci do swojego gniazda.",
       "example_translation": "Die Gartengrasmücke sang ein schönes Lied am Morgen. Im letzten Sommer sahen wir eine Gartengrasmücke in unserem Garten. Bis zum nächsten Frühling wird die Gartengrasmücke zu ihrem Nest zurückkehren.",
-      "imageLink": "garden-warbler.jpg",
+      "imageLink": "image_files\\English\\garden-warbler.jpg",
       "audioLink": "garden warbler.mp3"
     },
     {
@@ -867,7 +867,7 @@
       "definition_translation": "Eine kleine, wandernde Ente mit graubraunem Gefieder, in Europa und Asien gefunden.",
       "example": "Czernica poleciała na południe na zimę. Rok temu widzieliśmy czernicę na mokradłach. Do przyszłej jesieni czernica wróci do swojego siedliska.",
       "example_translation": "Die Knäkente flog südwärts für den Winter. Im letzten Jahr sahen wir eine Knäkente in den Feuchtgebieten. Bis zum nächsten Herbst wird die Knäkente zu seinem Habitat zurückkehren.",
-      "imageLink": "garganey.jpg",
+      "imageLink": "image_files\\English\\garganey.jpg",
       "audioLink": "garganey.mp3"
     },
     {
@@ -880,7 +880,7 @@
       "definition_translation": "Ein kleiner, gekrönter Singvogel mit einer hellgelben Krone, in Europa und Asien gefunden.",
       "example": "Czerenko siedział na gałęzi w lesie. Wczoraj widzieliśmy czerenko w drzewach. Do przyszłej zimy czerenko zbuduje nowe gniazdo.",
       "example_translation": "Der Zwergkönig saß auf einem Ast im Wald. Gestern sahen wir einen Zwergkönig in den Bäumen. Bis zum nächsten Winter wird der Zwergkönig ein neues Nest bauen.",
-      "imageLink": "goldcrest.jpg",
+      "imageLink": "image_files\\English\\goldcrest.jpg",
       "audioLink": "goldcrest.mp3"
     },
     {
@@ -893,7 +893,7 @@
       "definition_translation": "Eine große, dunkelbraune Adler mit goldbraunem Nacken, gefunden in bergigen Regionen des nördlichen Halbkugels.",
       "example": "Orzeł złoty płynął przez dolinę, jego skrzydła rozpostarte szeroko. Płynął przez dolinę dzień temu. Będzie płynął przez dolinę ponownie jutro.",
       "example_translation": "Der Goldadler flog durch das Tal, seine Flügel breit ausgestreckt. Es hatte durch das Tal den Tag vorher geflogen. Es wird durch das Tal wieder morgen fliegen.",
-      "imageLink": "golden-eagle.jpg",
+      "imageLink": "image_files\\English\\golden-eagle.jpg",
       "audioLink": "golden eagle.mp3"
     },
     {
@@ -906,7 +906,7 @@
       "definition_translation": "Ein farbenprächtiger Zugvogel Afrikas und Südeuropas mit goldgelbem Körper und schwarzen Flügeln und Schwanz.",
       "example": "Orożnik siedział na gałęzi, śpiewając słodką melodię. Siedział na gałęzi dzień temu, śpiewając słodką melodię. Będzie siedział na gałęzi ponownie jutro, śpiewając słodką melodię.",
       "example_translation": "Der Pirol saß auf einem Zweig, sein süßes Lied singend. Es hatte auf einem Zweig den Tag vorher gesessen, sein süßes Lied singend. Es wird auf einem Zweig wieder morgen sitzen, sein süßes Lied singend.",
-      "imageLink": "golden-oriole.jpg",
+      "imageLink": "image_files\\English\\golden-oriole.jpg",
       "audioLink": "golden oriole.mp3"
     },
     {
@@ -919,7 +919,7 @@
       "definition_translation": "Ein kleiner, bunt gefärbter Fink mit rotem Gesicht und gelbem Flügelfleck, gefunden in Gärten und offener Landschaft.",
       "example": "Szczygieł przelatywał z kwiatu na kwiat, jedząc nektar. Przelatywał z kwiatu na kwiat dzień wcześniej, jedząc nektar. Przelatuje z kwiatu na kwiat jutro, jedząc nektar.",
       "example_translation": "Der Stieglitz flatterte von Blume zu Blume, Nektar essend. Es hatte von Blume zu Blume den Tag vorher geflattert, Nektar essend. Es wird von Blume zu Blume wieder morgen flattern, Nektar essend.",
-      "imageLink": "goldfinch.jpg",
+      "imageLink": "image_files\\English\\goldfinch.jpg",
       "audioLink": "goldfinch.mp3"
     },
     {
@@ -932,7 +932,7 @@
       "definition_translation": "Ein junges Gänschen, insbesondere eines, das weniger als ein Jahr alt ist.",
       "example": "Gęślak wodził za matką, gęgając głośno. Wodził za matką dzień wcześniej, gęgając głośno. Wodzi za matką jutro, gęgając głośno.",
       "example_translation": "Das Gänsgöschen watschelte hinter seiner Mutter her, laut gackernd. Es hatte hinter seiner Mutter den Tag vorher gewatschelt, laut gackernd. Es wird hinter seiner Mutter wieder morgen gewatschelt sein, laut gackernd.",
-      "imageLink": "gosling.jpg",
+      "imageLink": "image_files\\English\\gosling.jpg",
       "audioLink": "gosling.mp3"
     },
     {
@@ -945,7 +945,7 @@
       "definition_translation": "Ein großes Wasser Vogel mit einer charakteristischen Krone auf seinem Kopf, gefunden in Seen, Flüssen und Küstenbereichen.",
       "example": "Latem obserwowałem czernicę nurkującą w jeziorze. Wczoraj widziałem czernicę pływających w rzece. Za rok będę widział czernicę latającą nad obszarem przybrzeżnym.",
       "example_translation": "Im Sommer beobachtete ich einen Hauben-Taucher, der in den See tauchte. Gestern sah ich einen Hauben-Taucher, der im Fluss schwamm. Bis nächsten Jahr werde ich einen Hauben-Taucher gesehen haben, der über das Küstengebiet flog.",
-      "imageLink": "great-crested-grebe.jpg",
+      "imageLink": "image_files\\English\\great-crested-grebe.jpg",
       "audioLink": "great crested grebe.mp3"
     },
     {
@@ -958,7 +958,7 @@
       "definition_translation": "Ein kleiner, farbenfroher Vogel mit einem charakteristischen schwarz-weiß gestreiften Kopf, gefunden in Wäldern und Gärten.",
       "example": "Bogatka jest znana z swojej odważnej i ciekawskiej natury. Wczoraj widziałem bogatkę siedzącą na gałęzi drzewa. Za miesiąc bogatka zbuduje swoje gniazdo w ogrodzie.",
       "example_translation": "Die Kohlmeise ist bekannt für ihre kühne und neugierige Natur. Gestern sah ich eine Kohlmeise auf einem Ast eines Baumes sitzen. Bis nächsten Monat wird eine Kohlmeise ihr Nest im Garten gebaut haben.",
-      "imageLink": "great-tit.jpg",
+      "imageLink": "image_files\\English\\great-tit.jpg",
       "audioLink": "great tit.mp3"
     },
     {
@@ -971,7 +971,7 @@
       "definition_translation": "Ein großer, allweißer Vogel mit langen Beinen und einem langen, schlanken Hals, gefunden in Feuchtgebieten und Küstenbereichen.",
       "example": "Biały czaplew jest częstym widokiem w mokradłach przybrzeżnych. W zeszłym roku widziałem białego czapla brodzącego w płytkiej wodzie. Za lato będę widział białego czapla latającego nad mokradłami.",
       "example_translation": "Der Große Weiher ist ein häufiger Anblick in Küstenfeuchtgebieten. Letztes Jahr sah ich einen Großen Weiher, der durch das flache Wasser watete. Bis nächsten Sommer werde ich einen Großen Weiher gesehen haben, der über die Sümpfe flog.",
-      "imageLink": "great-white-egret.jpg",
+      "imageLink": "image_files\\English\\great-white-egret.jpg",
       "audioLink": "great white egret.mp3"
     },
     {
@@ -984,7 +984,7 @@
       "definition_translation": "Ein kleiner bis mittelgroßer Wasser Vogel mit einem charakteristischen Tauchverhalten, gefunden in Süßwasser- und Küstenbereichen.",
       "example": "Perkoz jest znany ze swojej szybkości i zwinności w wodzie. Wczoraj widziałem perkoza nurkującego w jeziorze. Za rok będę widział perkoza pływającego w rzece.",
       "example_translation": "Der Taucher ist bekannt für seine Geschwindigkeit und Agilität im Wasser. Gestern sah ich einen Taucher, der in den See tauchte. Bis nächsten Jahr werde ich einen Taucher gesehen haben, der im Fluss schwimmt.",
-      "imageLink": "grebe.jpg",
+      "imageLink": "image_files\\English\\grebe.jpg",
       "audioLink": "grebe.mp3"
     },
     {
@@ -997,7 +997,7 @@
       "definition_translation": "Ein großer, schlanker Vogel mit grauer und weißer Gefieder, gefunden an Wasserstellen und ernährt sich von Fischen und anderen kleinen Tieren.",
       "example": "Widziałem białoczubego brodzącego w rzece wczoraj, będzie polował nocą, i mieszkał tutaj przez lata.",
       "example_translation": "Ich sah einen Graureiher im Fluss waten gestern, es wird sein Beutetier heute Nacht stalken, und es hat hier seit Jahren genistet.",
-      "imageLink": "heron.jpg",
+      "imageLink": "image_files\\English\\heron.jpg",
       "audioLink": "grey heron.mp3"
     },
     {
@@ -1010,7 +1010,7 @@
       "definition_translation": "Eine große, grau-bräunliche Gans mit einem orangen Schnabel, gefunden in Feuchtgebieten und Grasländern.",
       "example": "Gęś gęgawa gęgiała głośno wczoraj, będzie migrować do cieplejszych klimatów następnego miesiąca, i mieszkała w tym parku przez lata.",
       "example_translation": "Die Türkische Gans quakte laut gestern, sie wird nächsten Monat in wärmere Klimaregionen migrieren, und sie lebt seit Jahren in diesem Park.",
-      "imageLink": "greylag-goose.jpg",
+      "imageLink": "image_files\\English\\greylag-goose.jpg",
       "audioLink": "greylag goose.mp3"
     },
     {
@@ -1023,7 +1023,7 @@
       "definition_translation": "Ein domestiziertes Geflügel mit grau-bräunlichem Gefieder, stammend aus Afrika und oft als Farmtier gehalten.",
       "example": "Perlica zjadała ziarno wczoraj, będzie swobodnie wychodzić na wolność na fermie nocą, i dostarczała jaj dla naszej rodziny przez lata.",
       "example_translation": "Das Perlhaltiges Mojo-Geflügel pickte am Korn gestern, es wird heute Nacht frei im Hof umherstreunen, und es liefert seit Jahren Eier für unsere Familie.",
-      "imageLink": "guinea-fowl.jpg",
+      "imageLink": "image_files\\English\\guinea-fowl.jpg",
       "audioLink": "guinea fowl.mp3"
     },
     {
@@ -1036,7 +1036,7 @@
       "definition_translation": "Ein mittelgroßer Fink mit einer charakteristischen Schnabelform, gefunden in Wäldern und ernährt sich von Samen und Nüssen.",
       "example": "Dzięcioł rozbił orzech wczoraj, będzie budować swoje gniazdo w dębie nocą, i odwiedzał nasz ogród przez lata.",
       "example_translation": "Der Kernbeißer knackte einen Kern gestern, es wird heute Nacht sein Nest im Eichenbaum bauen, und es besucht unseren Garten seit Jahren.",
-      "imageLink": "hawfinch.jpg",
+      "imageLink": "image_files\\English\\hawfinch.jpg",
       "audioLink": "hawfinch.mp3"
     },
     {
@@ -1049,7 +1049,7 @@
       "definition_translation": "Eine mittelgroße Taube mit rostbrauner Gefieder, in Wäldern und Moorlands Eurasiens gefunden.",
       "example": "W lesie zobaczyłem świstaka siedzącego na gałęzi. Wczoraj zobaczyłem świstaka szukającego pożywienia na ziemi. W następnym tygodniu spróbuję znowu zobaczyć świstaka.",
       "example_translation": "Im Wald sah ich ein Haselhuhn auf einem Zweig sitzen. Gestern hatte ich ein Haselhuhn gesehen, das auf dem Boden nach Nahrung suchte. Nächste Woche werde ich versuchen, ein Haselhuhn wiederzufinden.",
-      "imageLink": "hazel-grouse.jpg",
+      "imageLink": "image_files\\English\\hazel-grouse.jpg",
       "audioLink": "hazel grouse.mp3"
     },
     {
@@ -1062,7 +1062,7 @@
       "definition_translation": "Ein mittelgroßer Vogel mit einer auffälligen Federkrone und schwarzen und weißen Streifen, in offenen Wäldern und Grasländern Afrikas, Europas und Asiens gefunden.",
       "example": "Dzięcioł wylądował na płocie, jego czub poruszał się w górę i w dół. W zeszłym roku zobaczyłem dzięcioła siedzącego na gałęzi. W następnym miesiącu spróbuję przyciągnąć dzięcioła do mojego ogródka.",
       "example_translation": "Der Wiedehopf landete auf dem Zaunpfosten, seine Federkrone wippte auf und ab. Letztes Jahr hatte ich einen Wiedehopf auf einem Baumast gesehen. Nächsten Monat werde ich versuchen, einen Wiedehopf in meinen Hinterhof zu locken.",
-      "imageLink": "hoopoe.jpg",
+      "imageLink": "image_files\\English\\hoopoe.jpg",
       "audioLink": "hoopoe.mp3"
     },
     {
@@ -1075,7 +1075,7 @@
       "definition_translation": "Ein kleiner, bunt gefärbter Vogel mit schnell schlagenden Flügeln, in tropischen und subtropischen Regionen Mittel- und Südamerikas gefunden.",
       "example": "Koliber pił nektar z kwiatu. Wczoraj zobaczyłem kolibra unoszącego się w powietrzu. W następnym tygodniu spróbuję zrobić zdjęcie kolibra w locie.",
       "example_translation": "Der Kolibri trank Nektar aus der Blume. Gestern hatte ich einen Kolibri geschwebt in der Luft gesehen. Nächste Woche werde ich versuchen, ein Foto eines Kolibri im Flug zu machen.",
-      "imageLink": "hummingbird.jpg",
+      "imageLink": "image_files\\English\\hummingbird.jpg",
       "audioLink": "hummingbird.mp3"
     },
     {
@@ -1088,7 +1088,7 @@
       "definition_translation": "Ein langbeiniger, langschwänziger Watvogel mit einem gekrümmten Schnabel, in warmen und tropischen Regionen der Welt gefunden.",
       "example": "Ibis brodził przez płytką wodę, szukając ryb. W zeszłym tygodniu zobaczyłem ibisa siedzącego na skale. W następnym roku spróbuję zobaczyć ibisa w jego naturalnym środowisku.",
       "example_translation": "Der Ibis watete durch das seichte Wasser, nach Fischen suchend. Letzte Woche hatte ich einen Ibis auf einem Felsen gesehen. Nächstes Jahr werde ich versuchen, einen Ibis in seinem natürlichen Habitat zu sichten.",
-      "imageLink": "ibis.jpg",
+      "imageLink": "image_files\\English\\ibis.jpg",
       "audioLink": "ibis.mp3"
     },
     {
@@ -1101,7 +1101,7 @@
       "definition_translation": "Eine Dohle ist ein kleiner bis mittelgroßer Vogel, der zur Familie der Krähen gehört. Sie hat ein schwarzes Gefieder mit einem grauen Nacken und einem charakteristischen silbernen Schimmer auf ihren Federn.",
       "example": "W przeszłości kawki były uważane za szkodniki przez rolników, ale teraz są chronione przez prawo. Dziś kawki są znane jako inteligentne ptaki, które mogą być spotykane w obszarach miejskich. Do 2050 roku kawki będą bardziej powszechnie spotykane w miastach.",
       "example_translation": "In der Vergangenheit wurden Dohlen von Bauern als Plage betrachtet, aber jetzt sind sie gesetzlich geschützt. Heute sind Dohlen bekannt als intelligente Vögel, die in städtischen Gebieten gefunden werden können. Bis 2050 werden Dohlen erwartet, in Städten häufiger zu werden.",
-      "imageLink": "jackdaw.jpg",
+      "imageLink": "image_files\\English\\jackdaw.jpg",
       "audioLink": "jackdaw.mp3"
     },
     {
@@ -1114,7 +1114,7 @@
       "definition_translation": "Ein Eichelhäher ist ein farbenfroher Vogel, bekannt für seine kühne und neugierige Natur. Er hat einen markanten Kamm auf seinem Kopf und einen lauten, schrillenden Ruf.",
       "example": "Wczoraj zobaczyłem sójkę w lesie, ale uciekła szybko. Dziś sójki są powszechnie spotykane w ogrodach, szukające pożywienia. W przyszłości sójki będą nadal prosperować w swoich siedliskach.",
       "example_translation": "Gestern sah ich einen Eichelhäher im Wald, aber er flog schnell weg. Heute werden Eichelhäher gemeinhin in Gärten gesehen, auf der Suche nach Nahrung. In der Zukunft werden Eichelhäher in ihren Habitaten weiter gedeihen.",
-      "imageLink": "jay.jpg",
+      "imageLink": "image_files\\English\\jay.jpg",
       "audioLink": "jay.mp3"
     },
     {
@@ -1127,7 +1127,7 @@
       "definition_translation": "Ein Turmfalke ist ein kleiner, agiler Raubvogel, bekannt für seine Geschwindigkeit und Agilität. Es ist ein gemeinsamer Anblick in städtischen und ländlichen Gebieten, wo es in der Luft schwebend, auf Beute Ausschau hält.",
       "example": "W przeszłości kobczyki były używane w sokolnictwie, ale teraz są chronione przez prawo. Dziś kobczyki są znane jako ptaki adaptacyjne, które mogą być spotykane w różnych siedliskach. Do 2025 roku kobczyki będą miały coraz więcej pogłowia.",
       "example_translation": "In der Vergangenheit wurden Turmfalken in der Falknerei verwendet, aber jetzt sind sie gesetzlich geschützt. Heute sind Turmfalken bekannt als anpassungsfähige Vögel, die in verschiedenen Habitaten gefunden werden können. Bis 2025 werden Turmfalken erwartet, ihre Population zu erhöhen.",
-      "imageLink": "kestrel.jpg",
+      "imageLink": "image_files\\English\\kestrel.jpg",
       "audioLink": "kestrel.mp3"
     },
     {
@@ -1140,7 +1140,7 @@
       "definition_translation": "Ein Eisvogel ist ein farbenfroher Vogel, bekannt für sein farbenfrohes Gefieder und seine Fähigkeit, ins Wasser zu tauchen, um Fische zu fangen.",
       "example": "Wczoraj zobaczyłem zimorodka nad rzeką, ale uciekł szybko. Dziś zimorodki są powszechnie spotykane nad wodami, szukające pożywienia. W przyszłości zimorodki będą nadal prosperować w swoich siedliskach.",
       "example_translation": "Gestern sah ich einen Eisvogel am Fluss, aber er flog schnell weg. Heute werden Eisvögel gemeinhin nahe bei Gewässern gesehen, auf der Suche nach Nahrung. In der Zukunft werden Eisvögel in ihren Habitaten weiter gedeihen.",
-      "imageLink": "kingfisher.jpg",
+      "imageLink": "image_files\\English\\kingfisher.jpg",
       "audioLink": "kingfisher.mp3"
     },
     {
@@ -1153,7 +1153,7 @@
       "definition_translation": "ein kleiner, flugunfähiger Vogel, der in Neuseeland heimisch ist, mit einem flaumigen, braun-grauen Gefieder und einem langen Schnabel.",
       "example": "Jadłem owoc kiwi na śniadanie, ale wczoraj nie jadłem, a jutro zjem dwa.",
       "example_translation": "Ich aß ein Kiwi-Frucht zum Frühstück, aber gestern aß ich keins, und morgen werde ich zwei essen.",
-      "imageLink": "kiwi.jpg",
+      "imageLink": "image_files\\English\\kiwi.jpg",
       "audioLink": "kiwi.mp3"
     },
     {
@@ -1166,7 +1166,7 @@
       "definition_translation": "ein mittelgroßer, langbeiniger Watvogel mit einer auffälligen Federkrone und einem lauten, klagenden Ruf.",
       "example": "Głośny krzyk czajki można usłyszeć w polach, gdzie będą gniazdować w przyszłości, ale wczoraj były przelotne.",
       "example_translation": "Der laute Ruf des Kiebitz kann in den Feldern gehört werden, wo sie in Zukunft brüten werden, aber gestern wanderten sie aus.",
-      "imageLink": "lapwing.jpg",
+      "imageLink": "image_files\\English\\lapwing.jpg",
       "audioLink": "lapwing.mp3"
     },
     {
@@ -1179,7 +1179,7 @@
       "definition_translation": "eine mittelgroße Möwe mit einem schwarzen Rücken und Flügeln, die in Küstengebieten und Mülldeponien gefunden wird.",
       "example": "Czarnogłowy mewa siedziała na plaży, gdzie będzie polowała w przyszłości, ale wczoraj szukała pożywienia na wysypisku śmieci.",
       "example_translation": "Die Kleine Dünnschnabelmöwe saß am Strand, wo sie in Zukunft jagten wird, aber gestern suchte sie nach Nahrung.",
-      "imageLink": "lesser-black-backed-gull.jpg",
+      "imageLink": "image_files\\English\\lesser-black-backed-gull.jpg",
       "audioLink": "lesser black-backed gull.mp3"
     },
     {
@@ -1192,7 +1192,7 @@
       "definition_translation": "ein mittelgroßer Adler mit einem hellbraunen Gefieder und einem auffälligen Ruf, der in offenen Landschaften und Waldrändern gefunden wird.",
       "example": "Orłek krzykliwy unosił się w powietrzu, gdzie gniazdował przez lata, ale wczoraj polował w lesie.",
       "example_translation": "Der Kleine Schreiadler segelte am Himmel, wo er Jahre lang gebrütet hatte, aber gestern hatte er im Wald gejagt.",
-      "imageLink": "lesser-spotted-eagle.jpg",
+      "imageLink": "image_files\\English\\lesser-spotted-eagle.jpg",
       "audioLink": "lesser spotted eagle.mp3"
     },
     {
@@ -1205,7 +1205,7 @@
       "definition_translation": "Eine kleine Finkenart mit braunem Rücken und weißen Flügeln, die in offenen Landschaften und Gärten vorkommt.",
       "example": "Widziałem łuskowca siedzącego na gałęzi, śpiewającego swoją słodką melodię. Wczoraj widziałem łuskowca jedzącego nasiona na ziemi. Jutro zobaczę łuskowca latającego nad głową.",
       "example_translation": "Ich sah eine Heckenbraunelle auf einem Zweig sitzen und ihr süßes Lied singen. Gestern hatte ich eine Heckenbraunelle auf dem Boden Samen essen sehen. Morgen werde ich eine Heckenbraunelle hoch über meinem Kopf fliegen sehen.",
-      "imageLink": "linnet.jpg",
+      "imageLink": "image_files\\English\\linnet.jpg",
       "audioLink": "linnet.mp3"
     },
     {
@@ -1218,7 +1218,7 @@
       "definition_translation": "Ein nachtaktiver Raubvogel mit langen Ohrtüpfeln und vorwärtsgerichteten Ohren, der in Wäldern und Gehölzen vorkommt.",
       "example": "Uszkowiec długouchy huczał głośno w lesie wczoraj wieczorem. Wczoraj widziałem uszkowca długouchego siedzącego na pniu. Jutro usłyszę uszkowca długouchego latającego cicho nad głową.",
       "example_translation": "Die Langeschwanz-Eule hat letzte Nacht im Wald sehr laut geheult. Gestern hatte ich eine Langeschwanz-Eule auf einem Baumstumpf sitzen sehen. Morgen werde ich eine Langeschwanz-Eule über meinem Kopf leise fliegen hören.",
-      "imageLink": "long-eared-owl.jpg",
+      "imageLink": "image_files\\English\\long-eared-owl.jpg",
       "audioLink": "long-eared owl.mp3"
     },
     {
@@ -1231,7 +1231,7 @@
       "definition_translation": "Eine große, grasenköpfige Ente, die in Parks, Gärten und Flüssen vorkommt und oft domestiziert ist.",
       "example": "Widziałem kaczkę krzyżową pływającą w rzece wczoraj. Dziś widzę kaczkę krzyżową spacerującą po trawie. Jutro zobaczę kaczkę krzyżową latającą nad głową.",
       "example_translation": "Ich sah gestern eine Stockente im Fluss schwimmen. Heute sehe ich eine Stockente auf dem Rasen watscheln. Morgen werde ich eine Stockente über meinem Kopf fliegen sehen.",
-      "imageLink": "mallard.jpg",
+      "imageLink": "image_files\\English\\mallard.jpg",
       "audioLink": "mallard.mp3"
     },
     {
@@ -1244,7 +1244,7 @@
       "definition_translation": "Ein kleiner, grau-weißer Vogel, der in Feuchtgebieten, Sümpfen und Gärten vorkommt und für seine akrobatischen Fähigkeiten bekannt ist.",
       "example": "Widziałem boguszka śpiewnego latającego między trzcinami wczoraj. Dziś widzę boguszka śpiewnego siedzącego na gałęzi. Jutro zobaczę boguszka śpiewnego uniesionego w powietrzu.",
       "example_translation": "Ich sah gestern eine Sumpfmeise zwischen den Schilfen fliegen. Heute sehe ich eine Sumpfmeise auf einem Zweig sitzen. Morgen werde ich eine Sumpfmeise in der Luft schweben sehen.",
-      "imageLink": "marsh-tit.jpg",
+      "imageLink": "image_files\\English\\marsh-tit.jpg",
       "audioLink": "marsh tit.mp3"
     },
     {
@@ -1257,7 +1257,7 @@
       "definition_translation": "Ein nachtaktiver Vogel mit einem melodischen Gesang, insbesondere die europäische Nachtigall, Luscinia luscinia.",
       "example": "Słowik śpiewał słodko w lesie wczoraj wieczorem, słuchałem jego pieśni przez wiele godzin dziś i przyniosę lornetkę, aby go dostrzec jutro.",
       "example_translation": "Die Nachtigall sang süßlich im Wald letzte Nacht, ich habe heute stundenlang their Lieder gehört, und ich werde morgen mein Fernglas mitbringen, um sie zu entdecken.",
-      "imageLink": "nightingale.jpg",
+      "imageLink": "image_files\\English\\nightingale.jpg",
       "audioLink": "nightingale.mp3"
     },
     {
@@ -1270,7 +1270,7 @@
       "definition_translation": "Ein nachtaktiver Vogel mit einem charakteristischen Knarzensignal, in warmen und gemäßigten Regionen gefunden.",
       "example": "Lelek brzęczał swoim charakterystycznym głosem na pustyni o zmierzchu, będę słuchał go tej nocy, a jutro rano mam nadzieję go zobaczyć siedzącego na gałęzi.",
       "example_translation": "Der Ruf des Ziegenmelkers hallte durch die Wüste bei Dämmerung, ich werde heute Nacht danach lauschen, und ich hoffe, es morgen früh auf einem Baumast sitzend zu entdecken.",
-      "imageLink": "nightjar.jpg",
+      "imageLink": "image_files\\English\\nightjar.jpg",
       "audioLink": "nightjar.mp3"
     },
     {
@@ -1283,7 +1283,7 @@
       "definition_translation": "Ein großer fischfressender Raubvogel mit einer unterscheidbaren umkehrbaren äußeren Zehe, in der Nähe von Wasser gefunden.",
       "example": "Bielik nurkował do jeziora, aby schwytać rybę wczoraj, dzisiaj obserwuję go, jak unosi się w powietrzu, a jutro będę patrzeć na niego ponownie.",
       "example_translation": "Der Fischadler tauchte gestern in den See, um einen Fisch zu fangen, ich beobachtete heute, wie es über meinem Kopf segelte, und ich werde morgen wieder Vogelbeobachtungen betreiben, um es wiederzufinden.",
-      "imageLink": "osprey.jpg",
+      "imageLink": "image_files\\English\\osprey.jpg",
       "audioLink": "osprey.mp3"
     },
     {
@@ -1296,7 +1296,7 @@
       "definition_translation": "Ein mittelgroßer Vogel mit einem runden Körper und einem kurzen Schwanz, in Grasländern und Strauchländern gefunden.",
       "example": "Przepiórka biegła przez sawannę wczoraj, dzisiaj będę polował na nią, a jutro wieczorem mam nadzieję zjeść ją na obiad.",
       "example_translation": "Das Rebhuhn huschte über die Steppe gestern, ich werde heute danach jagen, und ich hoffe, es morgen Abend zum Essen zu braten.",
-      "imageLink": "partridge.jpg",
+      "imageLink": "image_files\\English\\partridge.jpg",
       "audioLink": "partridge.mp3"
     },
     {
@@ -1309,7 +1309,7 @@
       "definition_translation": "Ein großer, bunt gefärbter Vogel mit einem auffälligen, fächerförmigen Schwanz, der in Wäldern und Grasländern Südasiens heimisch ist.",
       "example": "Pawie rozpostarło swe wspaniałe ogony, Widziałem pawie rozpostarujące swe ogony, Zobaczę pawie rozpostarujące swe ogony.",
       "example_translation": "Der Pfau breitete seinen prächtigen Schwanz aus, ich habe einen Pfau gesehen, der seinen Schwanz ausbreitete, ich werde einen Pfau sehen, der seinen Schwanz ausbreitet.",
-      "imageLink": "peacock.jpg",
+      "imageLink": "image_files\\English\\peacock.jpg",
       "audioLink": "peacock.mp3"
     },
     {
@@ -1322,7 +1322,7 @@
       "definition_translation": "Ein großer Wasser vogel mit einem auffälligen, taschenförmigen Schnabel, der in warmen und tropischen Regionen vorkommt.",
       "example": "Pelikan nurkował do jeziora, Widziałem pelikana nurkującego do jeziora, Zobaczę pelikana nurkującego do jeziora.",
       "example_translation": "Der Pelikan tauchte in den See ein, ich habe einen Pelikan gesehen, der in den See tauchte, ich werde einen Pelikan sehen, der in den See taucht.",
-      "imageLink": "pelican.jpg",
+      "imageLink": "image_files\\English\\pelican.jpg",
       "audioLink": "pelican.mp3"
     },
     {
@@ -1335,7 +1335,7 @@
       "definition_translation": "Ein großer, schneller Raubvogel, der auf jedem Kontinent außer der Antarktis vorkommt, bekannt für seine Geschwindigkeit und Wendigkeit.",
       "example": "Sokół wędrowny przelatywał przez niebo, Widziałem sokoła wędrownego przelatującego przez niebo, Zobaczę sokoła wędrownego przelatującego przez niebo.",
       "example_translation": "Der Wanderfalke segelte durch die Lüfte, ich habe einen Wanderfalken gesehen, der durch die Lüfte segelte, ich werde einen Wanderfalken sehen, der durch die Lüfte segelt.",
-      "imageLink": "peregrine-falcon.jpg",
+      "imageLink": "image_files\\English\\peregrine-falcon.jpg",
       "audioLink": "peregrine falcon.mp3"
     },
     {
@@ -1348,7 +1348,7 @@
       "definition_translation": "Ein großer, bodenbewohnender Vogel, der in Asien heimisch ist, bekannt für sein bunt gefärbtes Gefieder und seinen langen, gebänderten Schwanz.",
       "example": "Bażant wędrował przez las, Widziałem bażanta wędrującego przez las, Zobaczę bażanta wędrującego przez las.",
       "example_translation": "Der Fasan wanderte durch den Wald, ich habe einen Fasan gesehen, der durch den Wald wanderte, ich werde einen Fasan sehen, der durch den Wald wandert.",
-      "imageLink": "pheasant.jpg",
+      "imageLink": "image_files\\English\\pheasant.jpg",
       "audioLink": "pheasant.mp3"
     },
     {
@@ -1361,7 +1361,7 @@
       "definition_translation": "Hausgeflügel, wie Hühner, Truthähne, Enten und Gänsen, die für ihre Eier oder ihr Fleisch gehalten werden.",
       "example": "Rolnik hodował drób w swoim podwórku dla świeżych jaj i mięsa.",
       "example_translation": "Der Bauer züchtete Geflügel in seinem Hinterhof für frische Eier und Fleisch.",
-      "imageLink": "poultry.jpg",
+      "imageLink": "image_files\\English\\poultry.jpg",
       "audioLink": "poultry.mp3"
     },
     {
@@ -1374,7 +1374,7 @@
       "definition_translation": "Eine kleine Eule der Gattung Glaucidium, die in Wäldern und Gehölzen gefunden wird.",
       "example": "Sóweczka siedziała na gałęzi, czatując na następne posiłki. Była znana z zajmowania starych gniazd dzięciołów. Do przyszłego roku sóweczka będzie migrowała do cieplejszych klimatów.",
       "example_translation": "Der Zwergkauz saß auf einem Ast, wachte auf sein nächstes Mahl. Es ist bekannt, dass es alte Spechthöhlen bewohnt. Bis nächstes Jahr wird der Zwergkauz in wärmere Klimazonen wandern.",
-      "imageLink": "pygmy-owl.jpg",
+      "imageLink": "image_files\\English\\pygmy-owl.jpg",
       "audioLink": "pygmy owl.mp3"
     },
     {
@@ -1387,7 +1387,7 @@
       "definition_translation": "Ein kleiner, bodenbewohnender Vogel der Alten Welt, mit einem runden Körper und kurzem Schwanz.",
       "example": "Łowca szukał przepiórki w gęstych zaroślach. Wczoraj złapał kilka przepiórek na obiad. Do przyszłej pory roku populacja przepiórek będzie znacznie wzrosła.",
       "example_translation": "Der Jäger suchte nach Wachteln im dichten Unterholz. Gestern hatte sie ein paar Wachteln zum Abendessen gefangen. Bis nächste Saison wird die Wachtelpopulation beträchtlich zugenommen haben.",
-      "imageLink": "quail.jpg",
+      "imageLink": "image_files\\English\\quail.jpg",
       "audioLink": "quail.mp3"
     },
     {
@@ -1400,7 +1400,7 @@
       "definition_translation": "Ein großer Wasserläufer mit einem auffälligen roten Hals, der in Süßwasserseen und Flüssen gefunden wird.",
       "example": "Zyżelec czerwonoszyi nurkował do jeziora, szukając ryb. Ostatnim latem widzieliśmy parę zyżeliców czerwonoszyich gniazdujących na brzegu rzeki. Do przyszłej zimy zyżelec czerwonoszyi będzie migrował do cieplejszych wód.",
       "example_translation": "Der Rothalstaucher tauchte in den See, auf der Suche nach Fischen. Letzten Sommer sahen wir ein Paar Rothalstaucher, die am Flussufer nisteten. Bis nächstem Winter wird der Rothalstaucher in wärmere Gewässer gewandert sein.",
-      "imageLink": "red-necked-grebe.jpg",
+      "imageLink": "image_files\\English\\red-necked-grebe.jpg",
       "audioLink": "red-necked grebe.mp3"
     },
     {
@@ -1413,7 +1413,7 @@
       "definition_translation": "Ein kleiner europäischer Vogel mit einem runden Körper und einer auffälligen roten Brust, bekannt für sein fröhliches Lied.",
       "example": "Kukuszka siedziała na parapecie, śpiewając słodką melodię, wczoraj zbudowała gniazdo w ogrodzie, a jutro wyleci na południe na zimę.",
       "example_translation": "Das Rotkehlchen saß auf der Fensterbank und sang sein süßes Lied, gestern hatte es ein Nest im Garten gebaut und morgen wird es nach Süden fliegen für den Winter.",
-      "imageLink": "robin.jpg",
+      "imageLink": "image_files\\English\\robin.jpg",
       "audioLink": "robin.mp3"
     },
     {
@@ -1426,7 +1426,7 @@
       "definition_translation": "Ein zylindrisches oder kugelförmiges Objekt, das um eine zentrale Achse rotiert oder sich dreht, verwendet für das Bewegen oder Komprimieren von Materialien.",
       "example": "Walec był używany do spłaszczania ziemi, przed rozpoczęciem budowy nowej drogi wczoraj, i będzie używany jutro, aby dokończyć pracę.",
       "example_translation": "Die Walze wurde verwendet, um den Boden zu planieren, bevor der Bau der neuen Straße gestern begann, und sie wird morgen wieder verwendet, um den Job zu beenden.",
-      "imageLink": "roller.jpg",
+      "imageLink": "image_files\\English\\roller.jpg",
       "audioLink": "roller.mp3"
     },
     {
@@ -1439,7 +1439,7 @@
       "definition_translation": "Ein großer schwarzer Vogel der Krähenfamilie, bekannt für seine Intelligenz und sein soziales Verhalten.",
       "example": "Kruk usiadł na gałęzi drzewa, obserwując swoich przyjaciół bawiących się na polu, wczoraj ukradł jedzenie z sąsiedniej farmy, a jutro zbuduje nowe gniazdo.",
       "example_translation": "Die Türke saß auf dem Zweig, schaute sich seine Freunde an, die auf dem Feld spielten, gestern hatte es Nahrung von dem Bauernhof des Nachbarn gestohlen und morgen wird es ein neues Nest bauen.",
-      "imageLink": "rook.jpg",
+      "imageLink": "image_files\\English\\rook.jpg",
       "audioLink": "rook.mp3"
     },
     {
@@ -1452,7 +1452,7 @@
       "definition_translation": "Ein kleiner, gelb-grüner Vogel mit einem auffälligen Lied, in Wäldern und Gärten gefunden.",
       "example": "Sikora śpiewała swoją słodką melodię w ogrodzie wczoraj, dziś szuka jedzenia między drzewami, a jutro wyruszy na południe.",
       "example_translation": "Der Erlenzeisig sang sein süßes Lied im Garten gestern, heute sucht es nach Nahrung zwischen den Bäumen und morgen wird es nach Süden wandern.",
-      "imageLink": "siskin.jpg",
+      "imageLink": "image_files\\English\\siskin.jpg",
       "audioLink": "siskin.mp3"
     },
     {
@@ -1465,7 +1465,7 @@
       "definition_translation": "Ein langschwänziger, watender Vogel der Sümpfe und Feuchtgebiete, bekannt für seinen schnellen Flug und die Fähigkeit, leicht aus seinem Versteck aufzufliegen.",
       "example": "Wybrałem się na polowanie na ślizgi z przyjaciółmi w miniony weekend. Widzieliśmy ślizga w mokradłach przedtem, ale szybko uleciał. Wybrałem się na polowanie na ślizgi ponownie w następny weekend.",
       "example_translation": "Ich ging letztes Wochenende mit meinen Freunden auf Schnepfenjagd. Wir hatten vorher einen Schnepfen im Sümpf gesehen, aber er flog schnell weg. Ich werde nächstes Wochenende wieder auf Schnepfenjagd gehen.",
-      "imageLink": "snipe.jpg",
+      "imageLink": "image_files\\English\\snipe.jpg",
       "audioLink": "snipe.mp3"
     },
     {
@@ -1478,7 +1478,7 @@
       "definition_translation": "Ein kleiner, wilder Raubvogel, der in städtischen und ländlichen Gebieten kleine Vögel und Insekten jagt.",
       "example": "Jastrząb usiadł na parapecie okna, czekając na następną ofiarę. Złapał wróbla rano. Jastrząb złapie wiele więcej ptaków tej sezonie.",
       "example_translation": "Der Sperber saß auf der Fensterbank und wartete auf sein nächstes Mahl. Er hatte früher an diesem Morgen einen Spatz gefangen. Der Sperber wird in dieser Saison viele mehr Vögel fangen.",
-      "imageLink": "sparrowhawk.jpg",
+      "imageLink": "image_files\\English\\sparrowhawk.jpg",
       "audioLink": "sparrowhawk.mp3"
     },
     {
@@ -1491,7 +1491,7 @@
       "definition_translation": "Ein kleiner, agiler Vogel, der Insekten in der Luft fängt, bekannt für sein charakteristisches schwarzes und weißes Gefieder.",
       "example": "Muchółówka usiadła na gałęzi, czekając na niewinną muchę. Złapała już kilka much wczoraj. Muchółówka będzie polować do wieczora.",
       "example_translation": "Der Grauschnäpper saß auf einem Ast, wartete auf eine ahnungslose Fliege, die vorbeikam. Er hatte bereits mehrere Fliegen an diesem Morgen gefangen. Der Grauschnäpper wird weiter jagen, bis zum Abend.",
-      "imageLink": "spotted-flycatcher.jpg",
+      "imageLink": "image_files\\English\\spotted-flycatcher.jpg",
       "audioLink": "spotted flycatcher.mp3"
     },
     {
@@ -1504,7 +1504,7 @@
       "definition_translation": "Ein großer, lauter Vogel, der Nüsse mit seinem starken Schnabel öffnet, bekannt für sein charakteristisches schwarzes und weißes Gefieder.",
       "example": "Orzechówka łatwo otworzyła orzech walczak. Zebrała już kilka orzechów w gnieździe. Orzechówka będzie zbierać więcej orzechów na zimę.",
       "example_translation": "Der Tannenhäher knackte eine Walnuss mühelos auf. Er hatte bereits mehrere Nüsse in seinem Nest gespeichert. Der Tannenhäher wird weitere Nüsse für den Winter sammeln.",
-      "imageLink": "spotted-nutcracker.jpg",
+      "imageLink": "image_files\\English\\spotted-nutcracker.jpg",
       "audioLink": "spotted nutcracker.mp3"
     },
     {
@@ -1517,7 +1517,7 @@
       "definition_translation": "Ein Stäruling ist eine Art von Vogel, die in Europa und Asien heimisch ist, bekannt für seine irisierenden Federn und seinen typischen Ruf.",
       "example": "Widziałem szczygieł siedzący na parapecie okna wczoraj, a teraz lata wokół ogrodu. Zbuduje gniazdo w pobliskim drzewie wkrótce.",
       "example_translation": "Ich sah einen Stäruling auf der Fensterbank gestern, und jetzt fliegt er um den Garten herum. Er wird bald ein Nest in dem nahen Baum bauen.",
-      "imageLink": "starling.jpg",
+      "imageLink": "image_files\\English\\starling.jpg",
       "audioLink": "starling.mp3"
     },
     {
@@ -1530,7 +1530,7 @@
       "definition_translation": "Eine Schwalbe ist eine Art von Vogel, die für ihren schnellen Flug und ihre wandernden Muster bekannt ist.",
       "example": "Jaskółki wrócą do swoich gniazd wiosną, a teraz wyruszają na południe na zimę. Zbudują nowe gniazda już w następnym roku.",
       "example_translation": "Die Schwalben werden im Frühling zu ihren Nestern zurückkehren und fliegen jetzt nach Süden für den Winter. Sie werden ihre neuen Nester bis nächsten Sommer gebaut haben.",
-      "imageLink": "swallow.jpg",
+      "imageLink": "image_files\\English\\swallow.jpg",
       "audioLink": "swallow.mp3"
     },
     {
@@ -1543,7 +1543,7 @@
       "definition_translation": "Ein Mauersegler ist eine Art von Vogel, die für ihren schnellen Flug und ihre Fähigkeit bekannt ist, dichte städtische Gebiete zu navigieren.",
       "example": "Jery pędziły przez ulice miasta, ich skrzydła bijąc szybko, gdy ścigały się ze sobą. Zbudują gniazda na wieżowcu już w następnym miesiącu.",
       "example_translation": "Die Mauersegler schossen durch die Stadtstraßen, ihre Flügel schlugen schnell, während sie einander jagten. Sie werden ihre Nester bis nächsten Monat auf dem Wolkenkratzer gebaut haben.",
-      "imageLink": "swift.jpg",
+      "imageLink": "image_files\\English\\swift.jpg",
       "audioLink": "swift.mp3"
     },
     {
@@ -1556,7 +1556,7 @@
       "definition_translation": "Ein Waldkauz ist eine Art von Eule, die in Europa und Asien heimisch ist, bekannt für ihren typischen Ruhruf.",
       "example": "Słyszałem puchacza hukającego w lesie wczoraj wieczorem, a on zbuduje gniazdo w pobliskim drzewie wkrótce. Hukało głośno wczoraj wieczorem i znowu zrobi to jutro wieczorem.",
       "example_translation": "Ich hörte einen Waldkauz in dem Wald letzten Nacht rufen, und er wird bald in dem nahen Baum nistet. Er rief laut gestern Abend, und wird so wieder morgen Nacht tun.",
-      "imageLink": "tawny-owl.jpg",
+      "imageLink": "image_files\\English\\tawny-owl.jpg",
       "audioLink": "tawny owl.mp3"
     }
   ]

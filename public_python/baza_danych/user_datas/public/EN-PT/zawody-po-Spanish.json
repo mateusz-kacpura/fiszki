@@ -9,7 +9,7 @@
       "definition_translation": "uma pessoa que prepara e cozinha alimentos, especialmente como trabalho",
       "example": "She cooked dinner for her family last night. She cooks breakfast every morning. She will cook lunch for her guests tomorrow.",
       "example_translation": "Ela cozinhou jantar para sua família ontem à noite. Ela cozinha café da manhã todas as manhãs. Ela cozinhará almoço para seus convidados amanhã.",
-      "imageLink": "cook-1.jpg",
+      "imageLink": "image_files\\English\\cook-1.jpg",
       "audioLink": "cook.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "uma pessoa treinada para dar cuidado médico e tratamento às pessoas",
       "example": "He went to see a doctor yesterday. He is a doctor in a hospital. He will be a doctor in a few years.",
       "example_translation": "Ele foi ver um médico ontem. Ele é um médico em um hospital. Ele será um médico em alguns anos.",
-      "imageLink": "doctor.jpg",
+      "imageLink": "image_files\\English\\doctor.jpg",
       "audioLink": "doctor.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "uma pessoa que opera um veículo, como um carro, ônibus ou caminhão",
       "example": "He is a driver for a transportation company. He drove to work this morning. He will drive to the beach next weekend.",
       "example_translation": "Ele é um motorista para uma empresa de transporte. Ele dirigiu para o trabalho esta manhã. Ele dirigirá para a praia no próximo fim de semana.",
-      "imageLink": "driver.jpg",
+      "imageLink": "image_files\\English\\driver.jpg",
       "audioLink": "driver.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "uma pessoa que ajuda as pessoas a aprender, especialmente em uma escola",
       "example": "She is a teacher at a high school. She taught math to her students yesterday. She will teach English next semester.",
       "example_translation": "Ela é uma professora em uma escola secundária. Ela ensinou matemática aos seus alunos ontem. Ela ensinará inglês no próximo semestre.",
-      "imageLink": "teacher.jpg",
+      "imageLink": "image_files\\English\\teacher.jpg",
       "audioLink": "teacher.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Uma pessoa que serve mesas em um restaurante.",
       "example": "The waiter brought us the menu. He will bring us the food. He brought us the check.",
       "example_translation": "O garçom nos trouxe o menu. Ele nos trará o alimento. Ele nos trouxe a conta.",
-      "imageLink": "waiter.jpg",
+      "imageLink": "image_files\\English\\waiter.jpg",
       "audioLink": "waiter.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Uma pessoa do sexo feminino que serve mesas em um restaurante.",
       "example": "The waitress took our order. She will bring us the drinks. She brought us the dessert.",
       "example_translation": "A garçonete tomou nosso pedido. Ela nos trará as bebidas. Ela nos trouxe o sobremesa.",
-      "imageLink": "waitress.jpg",
+      "imageLink": "image_files\\English\\waitress.jpg",
       "audioLink": "waitress.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "Uma pessoa que atua em uma peça, filme ou programa de televisão.",
       "example": "The actor played the lead role. He has played many roles. He will play a new role.",
       "example_translation": "O ator desempenhou o papel principal. Ele desempenhou muitos papéis. Ele desempenhará um novo papel.",
-      "imageLink": "actor.jpg",
+      "imageLink": "image_files\\English\\actor.jpg",
       "audioLink": "actor.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Uma pessoa do sexo feminino que atua em uma peça, filme ou programa de televisão.",
       "example": "The actress won an award. She has won many awards. She will win another award.",
       "example_translation": "A atriz ganhou um prêmio. Ela ganhou muitos prêmios. Ela ganhará outro prêmio.",
-      "imageLink": "actress.jpg",
+      "imageLink": "image_files\\English\\actress.jpg",
       "audioLink": "actress.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "Uma pessoa que cria pinturas, desenhos, esculturas ou outras obras de arte.",
       "example": "She was a talented artist who had many exhibitions in Paris. She is currently working on a new project. She will have a show in New York next year.",
       "example_translation": "Ela era uma artista talentosa que havia realizado muitas exposições em Paris. Ela está atualmente trabalhando em um novo projeto. Ela terá um show em Nova York no ano que vem.",
-      "imageLink": "artist.jpg",
+      "imageLink": "image_files\\English\\artist.jpg",
       "audioLink": "artist.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "Uma pessoa que trabalha no comércio, indústria ou finanças, especialmente uma que é habilida em gestão e investimento.",
       "example": "He was a successful businessman who had built his company from scratch. He is now planning to expand into new markets. He will open his new office in Tokyo next month.",
       "example_translation": "Ele era um homem de negócios bem-sucedido que havia construído sua empresa do zero. Ele está agora planejando expandir para novos mercados. Ele vai abrir seu novo escritório em Tóquio no próximo mês.",
-      "imageLink": "businessman.jpg",
+      "imageLink": "image_files\\English\\businessman.jpg",
       "audioLink": "businessman.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "Uma mulher que trabalha no comércio, indústria ou finanças, especialmente uma que é habilida em gestão e investimento.",
       "example": "She was a respected businesswoman who had made a name for herself in the tech industry. She is currently leading a team of engineers. She will launch her new startup next year.",
       "example_translation": "Ela era uma mulher de negócios respeitada que havia feito um nome para si mesma na indústria de tecnologia. Ela está atualmente liderando uma equipe de engenheiros. Ela vai lançar sua nova startup no ano que vem.",
-      "imageLink": "businesswoman.jpg",
+      "imageLink": "image_files\\English\\businesswoman.jpg",
       "audioLink": "businesswoman.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Uma pessoa que repara e mantém veículos, especialmente carros.",
       "example": "He was a skilled car mechanic who had worked on many cars. He is currently fixing a broken engine. He will finish the repair job by the end of the week.",
       "example_translation": "Ele era um mecânico de carros habilidoso que havia trabalhado em muitos carros. Ele está atualmente consertando um motor quebrado. Ele vai terminar o trabalho de reparo até o final da semana.",
-      "imageLink": "car-mechanic.jpg",
+      "imageLink": "image_files\\English\\car-mechanic.jpg",
       "audioLink": "car mechanic.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "um profissional treinado que prepara e cozinha alimentos em um restaurante, hotel ou outro estabelecimento de serviço de alimentos",
       "example": "She worked as a chef in a Michelin-starred restaurant. She is working as a chef in a Michelin-starred restaurant. She will work as a chef in a Michelin-starred restaurant.",
       "example_translation": "Ela trabalhou como cozinheiro em um restaurante com uma estrela Michelin. Ela está trabalhando como cozinheiro em um restaurante com uma estrela Michelin. Ela trabalhará como cozinheiro em um restaurante com uma estrela Michelin.",
-      "imageLink": "chef.jpg",
+      "imageLink": "image_files\\English\\chef.jpg",
       "audioLink": "chef.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "pessoa treinada ou que pratica química, especialmente como profissão",
       "example": "The chemist discovered a new compound. The chemist is testing the new compound. The chemist will analyze the results of the test.",
       "example_translation": "O químico descobriu um novo composto. O químico está testando o novo composto. O químico analisará os resultados do teste.",
-      "imageLink": "chemist.jpg",
+      "imageLink": "image_files\\English\\chemist.jpg",
       "audioLink": "chemist.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "pessoa cujo trabalho é limpar coisas, especialmente em escritórios, casas ou outros prédios",
       "example": "The cleaner is mopping the floor. The cleaner mopped the floor yesterday. The cleaner will sweep the floor tomorrow.",
       "example_translation": "O limpador está esfregando o chão. O limpador esfregou o chão ontem. O limpador varrerá o chão amanhã.",
-      "imageLink": "cleaner.jpg",
+      "imageLink": "image_files\\English\\cleaner.jpg",
       "audioLink": "cleaner.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "pessoa que realiza uma dança, especialmente como profissão ou em público",
       "example": "The dancer performed on stage. The dancer is rehearsing for the show. The dancer will participate in the competition next week.",
       "example_translation": "O dançarino se apresentou no palco. O dançarino está ensaiando para o show. O dançarino participará da competição na próxima semana.",
-      "imageLink": "dancer.jpg",
+      "imageLink": "image_files\\English\\dancer.jpg",
       "audioLink": "dancer.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "Uma pessoa habilidosa no diagnóstico, prevenção e tratamento de doenças e condições dos dentes e boca.",
       "example": "I visited the dentist yesterday, I visit the dentist every six months, and I will visit the dentist next week.",
       "example_translation": "Eu visitei o dentista ontem, eu visito o dentista a cada seis meses, e eu visitarei o dentista na próxima semana.",
-      "imageLink": "dentist.jpg",
+      "imageLink": "image_files\\English\\dentist.jpg",
       "audioLink": "dentist.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Uma pessoa que projeta, constrói ou mantém estruturas, máquinas ou sistemas, usando princípios científicos e matemáticos.",
       "example": "She was an engineer in a reputed company, she has been an engineer for ten years, and she will be a renowned engineer in the future.",
       "example_translation": "Ela era uma engenheira em uma empresa renomada, ela tem sido uma engenheira por dez anos, e ela será uma engenheira renomada no futuro.",
-      "imageLink": "engineer.jpg",
+      "imageLink": "image_files\\English\\engineer.jpg",
       "audioLink": "engineer.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Uma pessoa que possui ou gerencia uma fazenda, especialmente um que cultiva a terra para produzir culturas ou criar gado.",
       "example": "He was a farmer in his hometown, he has been a farmer for twenty years, and he will be a successful farmer in the future.",
       "example_translation": "Ele era um agricultor em sua cidade natal, ele tem sido um agricultor por vinte anos, e ele será um agricultor bem-sucedido no futuro.",
-      "imageLink": "farmer.jpg",
+      "imageLink": "image_files\\English\\farmer.jpg",
       "audioLink": "farmer.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Uma pessoa que joga futebol, especialmente como um profissional.",
       "example": "He was a footballer in his college days, he has been a footballer for five years, and he will be a successful footballer in the future.",
       "example_translation": "Ele era um futebolista em seus dias de colégio, ele tem sido um futebolista por cinco anos, e ele será um futebolista bem-sucedido no futuro.",
-      "imageLink": "footballer.jpg",
+      "imageLink": "image_files\\English\\footballer.jpg",
       "audioLink": "footballer.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Uma pessoa que mostra o caminho para os outros, especialmente em um lugar que não conhecem.",
       "example": "She will guide us through the museum. She guided us through the museum. She will have guided us through the museum by then.",
       "example_translation": "Ela vai nos guiar pelo museu. Ela nos guiou pelo museu. Ela terá nos guiado pelo museu até então.",
-      "imageLink": "guide-1.jpg",
+      "imageLink": "image_files\\English\\guide-1.jpg",
       "audioLink": "guide.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "O professor mais sênior em uma escola, responsável pela sua gestão e administração.",
       "example": "The headteacher has been working at the school for 10 years. The headteacher had worked at the school for 5 years before moving to another school. The headteacher will have worked at the school for 15 years by the time she retires.",
       "example_translation": "O diretor tem trabalhado na escola por 10 anos. O diretor havia trabalhado na escola por 5 anos antes de se mudar para outra escola. O diretor terá trabalhado na escola por 15 anos no momento em que ela se aposenta.",
-      "imageLink": "headteacher.jpg",
+      "imageLink": "image_files\\English\\headteacher.jpg",
       "audioLink": "headteacher.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Uma pessoa responsável por controlar ou administrar toda ou parte de uma empresa ou organização.",
       "example": "He has been a manager at the company for 5 years. He had managed several teams before becoming a manager. He will have managed the entire department by the time he is promoted.",
       "example_translation": "Ele tem sido um gerente na empresa por 5 anos. Ele havia gerenciado várias equipes antes de se tornar um gerente. Ele terá gerenciado todo o departamento até o momento em que é promovido.",
-      "imageLink": "manager.jpg",
+      "imageLink": "image_files\\English\\manager.jpg",
       "audioLink": "manager.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Uma pessoa que repara e mantém máquinas e motores, especialmente os de veículos.",
       "example": "The mechanic has been fixing the car for hours. The mechanic had fixed the bike before working on the car. The mechanic will have fixed the entire fleet of cars by the end of the month.",
       "example_translation": "O mecânico tem estado consertando o carro por horas. O mecânico havia consertado a bicicleta antes de trabalhar no carro. O mecânico terá consertado toda a frota de carros até o final do mês.",
-      "imageLink": "mechanic.jpg",
+      "imageLink": "image_files\\English\\mechanic.jpg",
       "audioLink": "mechanic.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "Uma enfermeira é uma pessoa treinada para cuidar dos doentes ou enfermos, especialmente em um hospital.",
       "example": "She has been a nurse for 10 years, currently works in a hospital, and will specialize in pediatrics next year.",
       "example_translation": "Ela tem sido uma enfermeira por 10 anos, atualmente trabalha em um hospital e se especializará em pediatria no próximo ano.",
-      "imageLink": "nurse.jpg",
+      "imageLink": "image_files\\English\\nurse.jpg",
       "audioLink": "nurse.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "Um pintor é uma pessoa que pinta quadros ou paredes como profissão.",
       "example": "He was a skilled painter and had been working on a mural for weeks, will finish it tomorrow, and had already painted a beautiful landscape last year.",
       "example_translation": "Ele era um pintor habilidoso e havia estado trabalhando em um mural por semanas, terminará amanhã e já havia pintado um belo paisagem no ano passado.",
-      "imageLink": "painter.jpg",
+      "imageLink": "image_files\\English\\painter.jpg",
       "audioLink": "painter.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Um fotógrafo é uma pessoa que tira fotos, especialmente como profissão.",
       "example": "She has been a photographer for 5 years, will take pictures of the wedding next month, and had already photographed a beautiful sunset last week.",
       "example_translation": "Ela tem sido uma fotógrafa por 5 anos, tirará fotos do casamento no próximo mês e já havia fotografado um belo pôr do sol na semana passada.",
-      "imageLink": "photographer.jpg",
+      "imageLink": "image_files\\English\\photographer.jpg",
       "audioLink": "photographer.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "Um piloto é uma pessoa que opera os controles de uma aeronave.",
       "example": "He has been a pilot for 10 years, will fly to New York tomorrow, and had already landed a plane safely last night.",
       "example_translation": "Ele tem sido um piloto por 10 anos, voará para Nova York amanhã e já havia pousado um avião em segurança na noite passada.",
-      "imageLink": "pilot.jpg",
+      "imageLink": "image_files\\English\\pilot.jpg",
       "audioLink": "pilot.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "Uma pessoa que participa de um esporte, jogo ou atividade, especialmente uma pessoa que é muito habilidosa ou entusiasta.",
       "example": "I was a good player on the soccer team in high school, but now I just play for fun. I played soccer with my friends yesterday, and I will play again tomorrow.",
       "example_translation": "Eu era um bom jogador no time de futebol no colégio, mas agora eu só jogo para diversão. Eu joguei futebol com meus amigos ontem, e eu vou jogar novamente amanhã.",
-      "imageLink": "player-2.jpg",
+      "imageLink": "image_files\\English\\player-2.jpg",
       "audioLink": "player.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "Uma pessoa cujo trabalho é fazer cumprir as leis, proteger as pessoas e manter a ordem em uma comunidade.",
       "example": "The police officer stopped the car and asked for the driver's license. The police officer has been working in this neighborhood for five years, and she will continue to work here for many years.",
       "example_translation": "O policial parou o carro e pediu a carteira de motorista. A policial trabalha neste bairro há cinco anos, e ela continuará a trabalhar aqui por muitos anos.",
-      "imageLink": "police-officer.jpg",
+      "imageLink": "image_files\\English\\police-officer.jpg",
       "audioLink": "police officer.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "Um policial masculino, especialmente um que não é de alta patente.",
       "example": "The policeman helped the lost child find her parents. The policeman has been working on the force for ten years, and he is proud of his service.",
       "example_translation": "O policial ajudou a criança perdida a encontrar os pais. O policial trabalha na força há dez anos, e ele está orgulhoso do seu serviço.",
-      "imageLink": "policeman.jpg",
+      "imageLink": "image_files\\English\\policeman.jpg",
       "audioLink": "policeman.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "Uma policial feminina, especialmente uma que não é de alta patente.",
       "example": "The policewoman was very kind and helped me report the crime. The policewoman has been working on the force for five years, and she is respected by her colleagues.",
       "example_translation": "A policial feminina foi muito gentil e me ajudou a relatar o crime. A policial feminina trabalha na força há cinco anos, e ela é respeitada por seus colegas.",
-      "imageLink": "policewoman.jpg",
+      "imageLink": "image_files\\English\\policewoman.jpg",
       "audioLink": "policewoman.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "Uma pessoa empregada para receber e assistir visitantes, clientes ou pacientes em um ambiente profissional, como um hotel, escritório ou consultório médico.",
       "example": "She worked as a receptionist at a law firm, answering phone calls and scheduling appointments. She has worked as a receptionist for five years, and she is very good at it. She will start working as a receptionist at a new company next month.",
       "example_translation": "Ela trabalhou como recepcionista em uma firma de advocacia, atendendo chamadas telefônicas e agendando compromissos. Ela trabalhou como recepcionista por cinco anos e é muito boa nisso. Ela começará a trabalhar como recepcionista em uma nova empresa next mês.",
-      "imageLink": "receptionist.jpg",
+      "imageLink": "image_files\\English\\receptionist.jpg",
       "audioLink": "receptionist.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "Uma pessoa que assiste um vendedor ou equipe em vender produtos ou serviços aos clientes, muitas vezes realizando tarefas como demonstrar produtos, responder a perguntas e processar transações.",
       "example": "The sales assistant showed me several options for the new smartphone. She has been working as a sales assistant at the store for three years. He will be promoted to sales assistant next year.",
       "example_translation": "O assistente de vendas me mostrou várias opções para o novo smartphone. Ela trabalhou como assistente de vendas na loja por três anos. Ele será promovido a assistente de vendas no ano que vem.",
-      "imageLink": "salesshop-assistant.jpg",
+      "imageLink": "image_files\\English\\salesshop-assistant.jpg",
       "audioLink": "sales assistant.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Uma pessoa que vende bens ou serviços aos clientes, muitas vezes trabalhando com um salário baseado em comissão e responsável por atingir metas de vendas.",
       "example": "The salesperson was very knowledgeable about the product and answered all my questions. She has been a successful salesperson for many years. He will start working as a salesperson at a new company next month.",
       "example_translation": "O vendedor era muito conhecedor do produto e respondeu todas as minhas perguntas. Ela tem sido uma vendedora bem-sucedida por muitos anos. Ele começará a trabalhar como vendedor em uma nova empresa next mês.",
-      "imageLink": "salesperson.jpg",
+      "imageLink": "image_files\\English\\salesperson.jpg",
       "audioLink": "salesperson.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "Uma pessoa que tem responsabilidade pelas tarefas administrativas de uma organização, como atender telefones, digitar documentos e gerenciar horários.",
       "example": "The secretary booked a flight to New York for the manager. She has worked as a secretary for five years, and she is very organized. He will be promoted to secretary next year.",
       "example_translation": "A secretária reservou um voo para Nova York para o gerente. Ela trabalhou como secretária por cinco anos e é muito organizada. Ele será promovido a secretária no ano que vem.",
-      "imageLink": "secretary.jpg",
+      "imageLink": "image_files\\English\\secretary.jpg",
       "audioLink": "secretary.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Uma pessoa que canta, especialmente profissionalmente.",
       "example": "She was a famous singer in the 80s, and now she sings in a local church choir. She will sing at the festival tomorrow. She sang in the shower this morning.",
       "example_translation": "Ela foi uma cantora famosa nos anos 80 e agora canta em um coral de igreja local. Ela cantará no festival amanhã. Ela cantou no chuveiro essa manhã.",
-      "imageLink": "singer.jpg",
+      "imageLink": "image_files\\English\\singer.jpg",
       "audioLink": "singer.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "Uma pessoa que dirige um táxi como trabalho.",
       "example": "The taxi driver got lost in the city, so we were late for the meeting. He has been a taxi driver for 10 years. He will drive a taxi to the airport tomorrow.",
       "example_translation": "O motorista de táxi se perdeu na cidade, então chegamos atrasados para a reunião. Ele é motorista de táxi há 10 anos. Ele dirigirá um táxi para o aeroporto amanhã.",
-      "imageLink": "taxi-driver.jpg",
+      "imageLink": "image_files\\English\\taxi-driver.jpg",
       "audioLink": "taxi driver.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "Uma pessoa que mostra e explica coisas interessantes para turistas.",
       "example": "The tour guide explained the history of the ancient city. She has been a tour guide for 5 years. She will guide a group of tourists around the museum tomorrow.",
       "example_translation": "O guia de turismo explicou a história da cidade antiga. Ela é guia de turismo há 5 anos. Ela guiará um grupo de turistas pelo museu amanhã.",
-      "imageLink": "tour-guide.jpg",
+      "imageLink": "image_files\\English\\tour-guide.jpg",
       "audioLink": "tour guide.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Uma pessoa que escreve livros, artigos ou outras obras escritas.",
       "example": "The writer wrote a bestselling novel last year. He has been a writer for 10 years. He will write a new book next year.",
       "example_translation": "O escritor escreveu um romance bestseller no ano passado. Ele é escritor há 10 anos. Ele escreverá um novo livro no ano que vem.",
-      "imageLink": "writer.jpg",
+      "imageLink": "image_files\\English\\writer.jpg",
       "audioLink": "writer.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Uma pessoa cujo trabalho é preparar e examinar registros financeiros.",
       "example": "I worked as an accountant for five years before pursuing my MBA. I am working as an accountant now. I will work as an accountant in a multinational company in the future.",
       "example_translation": "Eu trabalhei como contador por cinco anos antes de cursar meu MBA. Eu estou trabalhando como contador agora. Eu trabalharei como contador em uma empresa multinacional no futuro.",
-      "imageLink": "accountant.jpg",
+      "imageLink": "image_files\\English\\accountant.jpg",
       "audioLink": "accountant.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Uma pessoa que projeta prédios e outras estruturas.",
       "example": "I met an architect who designed the new museum. She is designing a new skyscraper. She will design a sustainable city in the future.",
       "example_translation": "Eu encontrei um arquiteto que projetou o novo museu. Ela está projetando um novo arranha-céu. Ela projectará uma cidade sustentável no futuro.",
-      "imageLink": "architect.jpg",
+      "imageLink": "image_files\\English\\architect.jpg",
       "audioLink": "architect.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Uma pessoa, geralmente uma jovem mulher, que cuida das crianças quando os pais estavam ausentes.",
       "example": "I hired a babysitter to watch my kids last night. She is babysitting my kids now. She will babysit my kids again next week.",
       "example_translation": "Eu contratei uma babá para cuidar dos meus filhos ontem à noite. Ela está cuidando dos meus filhos agora. Ela cuidará dos meus filhos novamente na próxima semana.",
-      "imageLink": "babysitter.jpg",
+      "imageLink": "image_files\\English\\babysitter.jpg",
       "audioLink": "babysitter.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Uma pessoa que faz e vende pão, bolos e outros produtos de padaria.",
       "example": "I worked as a baker in a small bakery. He is working as a baker now. She will work as a baker in a new restaurant.",
       "example_translation": "Eu trabalhei como padeiro em uma pequena padaria. Ele está trabalhando como padeiro agora. Ela trabalhará como padeiro em um novo restaurante.",
-      "imageLink": "baker.jpg",
+      "imageLink": "image_files\\English\\baker.jpg",
       "audioLink": "baker.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Uma pessoa que performa balé, uma forma de dança clássica caracterizada por movimentos precisos e graciosos.",
       "example": "She was a professional ballet dancer, and had performed in many productions. She is currently teaching ballet to young students. She will be performing in a new ballet production next month.",
       "example_translation": "Ela era uma bailarina de balé profissional e havia se apresentado em muitas produções. Ela está atualmente ensinando balé para jovens alunos. Ela se apresentará em uma nova produção de balé no próximo mês.",
-      "imageLink": "ballet-dancer.jpg",
+      "imageLink": "image_files\\English\\ballet-dancer.jpg",
       "audioLink": "ballet dancer.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Uma pessoa cuja ocupação é cortar e arrumar cabelo, especialmente para homens.",
       "example": "He visited the barber yesterday, and got a haircut. The barber was very skilled and friendly. He will go to the barber again next week.",
       "example_translation": "Ele visitou o barbeiro ontem e fez um corte de cabelo. O barbeiro era muito habilidoso e amigável. Ele irá ao barbeiro novamente na próxima semana.",
-      "imageLink": "barber.jpg",
+      "imageLink": "image_files\\English\\barber.jpg",
       "audioLink": "barber.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Uma pessoa que serve bebidas e gerencia um bar, especialmente em um hotel ou boate.",
       "example": "The barman was very skilled at mixing cocktails. He worked as a barman in a popular nightclub. He will be working as a barman on New Year's Eve.",
       "example_translation": "O barman era muito habilidoso em misturar coquetéis. Ele trabalhava como barman em uma boate popular. Ele trabalhará como barman na noite de Ano Novo.",
-      "imageLink": "barman.jpg",
+      "imageLink": "image_files\\English\\barman.jpg",
       "audioLink": "barman.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Uma pessoa que constrói ou edifica algo, especialmente uma casa ou prédio.",
       "example": "He was a skilled builder, and had built many houses. The builder was very careful with the construction process. She will hire a builder to renovate her kitchen.",
       "example_translation": "Ele era um construtor habilidoso e havia construído muitas casas. O construtor era muito cuidadoso com o processo de construção. Ela contratará um construtor para renovar sua cozinha.",
-      "imageLink": "builder.jpg",
+      "imageLink": "image_files\\English\\builder.jpg",
       "audioLink": "builder.mp3"
     },
     {
@@ -633,7 +633,7 @@
       "definition_translation": "uma pessoa que vende carne, especialmente em uma loja.",
       "example": "The butcher cut the meat into thin slices. He had cut it yesterday, and will cut it again tomorrow.",
       "example_translation": "O açougueiro cortou a carne em fatias finas. Ele havia cortado ontem e cortará novamente amanhã.",
-      "imageLink": "butcher.jpg",
+      "imageLink": "image_files\\English\\butcher.jpg",
       "audioLink": "butcher.mp3"
     },
     {
@@ -646,7 +646,7 @@
       "definition_translation": "uma pessoa treinada em química, especialmente uma que trabalha em um laboratório.",
       "example": "The chemist mixed the substances together and waited for the reaction. She had mixed them yesterday, and will mix them again tomorrow.",
       "example_translation": "O químico misturou as substâncias juntas e esperou pela reação. Ela havia misturado ontem e misturará novamente amanhã.",
-      "imageLink": "chemist-1.jpg",
+      "imageLink": "image_files\\English\\chemist-1.jpg",
       "audioLink": "chemist.mp3"
     },
     {
@@ -659,7 +659,7 @@
       "definition_translation": "uma pessoa que treina e ensina atletas ou equipes esportivas.",
       "example": "The coach gave the team a pep talk before the game. He had given them a talk yesterday, and will give them another one tomorrow.",
       "example_translation": "O treinador deu um discurso de apoio à equipe antes do jogo. Ele havia dado um discurso ontem e dará outro amanhã.",
-      "imageLink": "coach-1.jpg",
+      "imageLink": "image_files\\English\\coach-1.jpg",
       "audioLink": "coach.mp3"
     },
     {
@@ -672,7 +672,7 @@
       "definition_translation": "uma pessoa que tem expertise na teoria, design e implementação de sistemas e algoritmos de computador.",
       "example": "The computer scientist wrote a program to analyze the data. She had written it yesterday, and will write another one tomorrow.",
       "example_translation": "A cientista da computação escreveu um programa para analisar os dados. Ela havia escrito ontem e escreverá outro amanhã.",
-      "imageLink": "computer-scientist.jpg",
+      "imageLink": "image_files\\English\\computer-scientist.jpg",
       "audioLink": "computer scientist.mp3"
     },
     {
@@ -685,7 +685,7 @@
       "definition_translation": "Uma pessoa que planeja a aparência ou funcionamento de algo antes de ser feito, como uma peça de roupa, um prédio ou um produto.",
       "example": "The fashion designer created a stunning collection for the runway show. She has designed many dresses for celebrities in the past. She will design a new logo for the company next week.",
       "example_translation": "A designer de moda criou uma coleção deslumbrante para o desfile de moda. Ela projetou muitos vestidos para celebridades no passado. Ela projetará um novo logotipo para a empresa na semana que vem.",
-      "imageLink": "designer.jpg",
+      "imageLink": "image_files\\English\\designer.jpg",
       "audioLink": "designer.mp3"
     },
     {
@@ -698,7 +698,7 @@
       "definition_translation": "Uma pessoa que investiga crimes e tenta descobrir quem os cometeu.",
       "example": "The detective was assigned to the murder case and had to analyze the evidence carefully. She had solved many mysterious cases in the past. He will investigate the thief who stole the valuable painting next week.",
       "example_translation": "O detetive foi designado para o caso de assassinato e teve que analisar as provas cuidadosamente. Ela já havia resolvido muitos casos misteriosos no passado. Ele investigará o ladrão que roubou a pintura valiosa na semana que vem.",
-      "imageLink": "detective.jpg",
+      "imageLink": "image_files\\English\\detective.jpg",
       "audioLink": "detective.mp3"
     },
     {
@@ -711,7 +711,7 @@
       "definition_translation": "Uma pessoa que é responsável por uma empresa, organização ou projeto.",
       "example": "The director of the company announced the new policy to the employees. He has directed many successful films in the past. She will direct the new play at the theater next month.",
       "example_translation": "O diretor da empresa anunciou a nova política aos funcionários. Ele já havia dirigido muitos filmes bem-sucedidos no passado. Ela dirigirá a nova peça no teatro no mês que vem.",
-      "imageLink": "director.jpg",
+      "imageLink": "image_files\\English\\director.jpg",
       "audioLink": "director.mp3"
     },
     {
@@ -724,7 +724,7 @@
       "definition_translation": "Uma pessoa que toca música no rádio ou em uma festa ou clube.",
       "example": "The disc jockey played the hottest hits at the wedding reception. He has been a DJ at the popular club for years. She will spin the tracks at the music festival next weekend.",
       "example_translation": "O disc jockey tocou os sucessos mais quentes na recepção do casamento. Ele já havia sido um DJ no clube popular por anos. Ela irá tocar as faixas no festival de música no fim de semana que vem.",
-      "imageLink": "disc-jockey-dj.jpg",
+      "imageLink": "image_files\\English\\disc-jockey-dj.jpg",
       "audioLink": "disc jockey, DJ.mp3"
     },
     {
@@ -737,7 +737,7 @@
       "definition_translation": "Uma pessoa que faz filmes, especialmente um diretor ou produtor.",
       "example": "The filmmaker spent years researching the script before starting production. She has been a filmmaker for over a decade. The filmmaker will release his new movie next year.",
       "example_translation": "O cineasta passou anos pesquisando o roteiro antes de começar a produção. Ela é cineasta há mais de uma década. O cineasta lançará seu novo filme no ano que vem.",
-      "imageLink": "film-maker.jpg",
+      "imageLink": "image_files\\English\\film-maker.jpg",
       "audioLink": "filmmaker.mp3"
     },
     {
@@ -750,7 +750,7 @@
       "definition_translation": "Uma pessoa treinada para apagar incêndios e responder a situações de emergência.",
       "example": "The firefighter saved the family from the burning building. She has been a firefighter for five years. The firefighter will attend the training session next week.",
       "example_translation": "O bombeiro salvou a família do prédio em chamas. Ela é uma bombeira há cinco anos. O bombeiro irá participar da sessão de treinamento na semana que vem.",
-      "imageLink": "firefighter.jpg",
+      "imageLink": "image_files\\English\\firefighter.jpg",
       "audioLink": "firefighter.mp3"
     },
     {
@@ -763,7 +763,7 @@
       "definition_translation": "Uma pessoa que observa, protege ou controla um lugar, pessoa ou coisa.",
       "example": "The guard stood at the entrance of the museum. She has been a guard for three years. The guard will check the bags at the airport.",
       "example_translation": "O guarda estava na entrada do museu. Ela é uma guarda há três anos. O guarda irá verificar as malas no aeroporto.",
-      "imageLink": "guard-1.jpg",
+      "imageLink": "image_files\\English\\guard-1.jpg",
       "audioLink": "guard.mp3"
     },
     {
@@ -776,7 +776,7 @@
       "definition_translation": "Uma pessoa que toca guitarra, especialmente como profissão.",
       "example": "The guitarist performed at the concert last night. He has been a guitarist for over 20 years. The guitarist will release her new album next month.",
       "example_translation": "O guitarrista se apresentou no concerto ontem à noite. Ele é um guitarrista há mais de 20 anos. A guitarrista lançará seu novo álbum no mês que vem.",
-      "imageLink": "guitarist.jpg",
+      "imageLink": "image_files\\English\\guitarist.jpg",
       "audioLink": "guitarist.mp3"
     }
   ]

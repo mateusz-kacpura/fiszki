@@ -9,7 +9,7 @@
       "definition_translation": "Teniendo una temperatura baja; no cálida o caliente.",
       "example": "J'étais froid lorsque je suis sorti hier. Je suis froid lorsqu'il fait froid. Je serai froid lorsque j'irai dans les montagnes la semaine prochaine.",
       "example_translation": "Estaba frío cuando salí afuera ayer. Estoy frío cuando tomo un ducho frío. Estaré frío cuando vaya a las montañas la próxima semana.",
-      "imageLink": "cold-1.jpg",
+      "imageLink": "image_files\\English\\cold-1.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -22,7 +22,7 @@
       "definition_translation": "Teniendo una temperatura baja; no cálida o caliente.",
       "example": "L'eau froide était rafraîchissante. Elle a un rhume et ne peut pas aller travailler. Il fera froid en hiver.",
       "example_translation": "El agua fría fue refrescante. Ella tiene un resfriado y no puede ir al trabajo. Será frío en invierno.",
-      "imageLink": "cold-3.jpg",
+      "imageLink": "image_files\\English\\cold-3.jpg",
       "audioLink": "cold.mp3"
     },
     {
@@ -35,7 +35,7 @@
       "definition_translation": "Teniendo una temperatura alta; cálida o intensa.",
       "example": "Le café chaud m'a brûlé la langue. Elle était chaude et transpirait après l'exercice. Il fera chaud en été.",
       "example_translation": "El café caliente me quemó la lengua. Ella estaba caliente y sudando después del ejercicio. Será caliente en verano.",
-      "imageLink": "hot-2.jpg",
+      "imageLink": "image_files\\English\\hot-2.jpg",
       "audioLink": "hot.mp3"
     },
     {
@@ -48,7 +48,7 @@
       "definition_translation": "Precipitación en forma de gotas de agua en la atmósfera, que ocurre cuando el vapor de agua en el aire se condensa y cae al suelo.",
       "example": "Il a plu hier, il pleut aujourd'hui et il pleuvra demain.",
       "example_translation": "Llovió ayer, llueve hoy y lloverá mañana.",
-      "imageLink": "rain.jpg",
+      "imageLink": "image_files\\English\\rain.jpg",
       "audioLink": "rain.mp3"
     },
     {
@@ -61,7 +61,7 @@
       "definition_translation": "Vapor de agua atmosférico que se ha congelado en cristales de hielo, a menudo cayendo al suelo como un fenómeno natural del clima.",
       "example": "Il a neigé l'hiver dernier, il neige cet hiver et il neigera l'hiver prochain.",
       "example_translation": "Nevió el invierno pasado, nieva este invierno y nevlará el invierno próximo.",
-      "imageLink": "snow.jpg",
+      "imageLink": "image_files\\English\\snow.jpg",
       "audioLink": "snow.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "definition_translation": "Una de las cuatro estaciones, caracterizada por clima cálido y días largos, típicamente entre junio y agosto en el Hemisferio Norte.",
       "example": "Je suis allé à la plage l'été dernier, je vais à la plage cet été et je vais à la plage l'été prochain.",
       "example_translation": "Fui a la playa el verano pasado, voy a la playa este verano y iré a la playa el verano próximo.",
-      "imageLink": "summer.jpg",
+      "imageLink": "image_files\\English\\summer.jpg",
       "audioLink": "summer.mp3"
     },
     {
@@ -87,7 +87,7 @@
       "definition_translation": "El sol es la estrella alrededor de la cual orbitan la Tierra y otros planetas. Es una gran bola de gas caliente y brillante.",
       "example": "Le soleil brillait intensément hier, mais il sera nuageux demain. Aujourd'hui, il fait soleil.",
       "example_translation": "El sol brillaba intensamente ayer, pero será nublado mañana. Hoy es soleado.",
-      "imageLink": "sun.jpg",
+      "imageLink": "image_files\\English\\sun.jpg",
       "audioLink": "sun.mp3"
     },
     {
@@ -100,7 +100,7 @@
       "definition_translation": "Teniendo un grado moderado o cómodo de calor; no frío ni caliente.",
       "example": "Le temps chaud en juillet a rendu la plage parfaite pour des vacances. J'ai senti chaud après avoir pris une douche chaude. Il sera chaud à nouveau l'été prochain.",
       "example_translation": "El clima templado en julio lo hizo perfecto para unas vacaciones en la playa. Me sentí templado después de tomar un baño caliente. Será templado nuevamente el próximo verano.",
-      "imageLink": "warm-1.jpg",
+      "imageLink": "image_files\\English\\warm-1.jpg",
       "audioLink": "warm.mp3"
     },
     {
@@ -113,7 +113,7 @@
       "definition_translation": "El estado de la atmósfera en un lugar y momento particulares, incluyendo la temperatura, la humedad, la nubosidad, el viento y la precipitación.",
       "example": "La météo a prévu qu'il pleuvrait demain, mais ce n'a pas été le cas. Le temps était parfait pour un pique-nique hier. J'aime la météo au printemps.",
       "example_translation": "El pronóstico del tiempo dijo que llovería mañana, pero no lo hizo. El clima fue perfecto para un pícnic ayer. Me encanta el clima en primavera.",
-      "imageLink": "weather.jpg",
+      "imageLink": "image_files\\English\\weather.jpg",
       "audioLink": "weather.mp3"
     },
     {
@@ -126,7 +126,7 @@
       "definition_translation": "El movimiento natural del aire en la atmósfera, especialmente una corriente fuerte de aire.",
       "example": "Le vent a soufflé fortement hier, il souffle fortement aujourd'hui et il soufflera fortement demain.",
       "example_translation": "El viento sopló con fuerza ayer, sopla con fuerza hoy y soplará con fuerza mañana.",
-      "imageLink": "wind.jpg",
+      "imageLink": "image_files\\English\\wind.jpg",
       "audioLink": "wind.mp3"
     },
     {
@@ -139,7 +139,7 @@
       "definition_translation": "La estación más fría del año, en el hemisferio norte desde diciembre hasta febrero y en el hemisferio sur desde junio hasta agosto.",
       "example": "J'ai adoré jouer dans la neige l'hiver dernier, j'aime jouer dans la neige cet hiver, et j'adorerai jouer dans la neige l'hiver prochain.",
       "example_translation": "Me encantó jugar en la nieve el invierno pasado, me encanta jugar en la nieve este invierno y me encantará jugar en la nieve el próximo invierno.",
-      "imageLink": "winter.jpg",
+      "imageLink": "image_files\\English\\winter.jpg",
       "audioLink": "winter.mp3"
     },
     {
@@ -152,7 +152,7 @@
       "definition_translation": "Una masa visible de gotas de agua o cristales de hielo suspendidos en el aire.",
       "example": "J'ai vu un grand nuage dans le ciel hier, je vois un grand nuage dans le ciel aujourd'hui, et je verrai un grand nuage dans le ciel demain.",
       "example_translation": "Vi una gran nube en el cielo ayer, veo una gran nube en el cielo hoy y veré una gran nube en el cielo mañana.",
-      "imageLink": "cloud.jpg",
+      "imageLink": "image_files\\English\\cloud.jpg",
       "audioLink": "cloud.mp3"
     },
     {
@@ -165,7 +165,7 @@
       "definition_translation": "Teniendo o caracterizado por un cielo nublado; cubierto.",
       "example": "Il était nuageux hier, mais aujourd'hui il fait soleil. Le temps sera nuageux à nouveau demain.",
       "example_translation": "Era nublado ayer, pero hoy es soleado. El clima volverá a ser nublado mañana.",
-      "imageLink": "cloudy.jpg",
+      "imageLink": "image_files\\English\\cloudy.jpg",
       "audioLink": "cloudy.mp3"
     },
     {
@@ -178,7 +178,7 @@
       "definition_translation": "Una masa nubosa de pequeñas gotas de agua suspendidas en el aire cerca del suelo, reduciendo la visibilidad.",
       "example": "Le brouillard est arrivé de l'océan, rendant difficile de voir. Le brouillard se lèvera demain. D'ici une semaine, le brouillard aura disparu.",
       "example_translation": "La niebla se desplazó desde el océano, haciendo difícil ver. La niebla se levantará mañana. Para la próxima semana, la niebla habrá desaparecido.",
-      "imageLink": "fog.jpg",
+      "imageLink": "image_files\\English\\fog.jpg",
       "audioLink": "fog.mp3"
     },
     {
@@ -191,7 +191,7 @@
       "definition_translation": "Caracterizado por o parecido a la niebla; incierto o oscuro.",
       "example": "Le miroir brumeux rendait difficile de voir mon reflet. Le temps brumeux rendait difficile de naviguer. D'ici l'année prochaine, les conditions brumeuses seront améliorées.",
       "example_translation": "El espejo neblinoso hizo difícil ver mi reflejo. El clima neblinoso hizo difícil navegar. Para el año que viene, las condiciones neblinosas habrán mejorado.",
-      "imageLink": "foggy.jpg",
+      "imageLink": "image_files\\English\\foggy.jpg",
       "audioLink": "foggy.mp3"
     },
     {
@@ -204,7 +204,7 @@
       "definition_translation": "Agua congelada en su forma sólida, generalmente azul-blanca y transparente, formada por la condensación de vapor de agua en la atmósfera o la congelación de agua.",
       "example": "J'ai patiné sur la glace l'hiver dernier, je patine sur la glace maintenant, et je patinerai sur la glace l'hiver prochain.",
       "example_translation": "Patineé sobre el hielo el invierno pasado, estoy patinando sobre el hielo ahora, y patinaré sobre el hielo el próximo invierno.",
-      "imageLink": "ice-1.jpg",
+      "imageLink": "image_files\\English\\ice-1.jpg",
       "audioLink": "ice.mp3"
     },
     {
@@ -217,7 +217,7 @@
       "definition_translation": "La estación del año entre el invierno y el verano, caracterizada por la floración de las plantas y el regreso del clima cálido.",
       "example": "J'ai planté des fleurs au printemps, j'apprécie le temps chaud au printemps, et je prendrai une pause printanière le mois prochain.",
       "example_translation": "Planté flores en la primavera, estoy disfrutando del clima cálido en la primavera, y tomaré un descanso de primavera el próximo mes.",
-      "imageLink": "spring.jpg",
+      "imageLink": "image_files\\English\\spring.jpg",
       "audioLink": "spring.mp3"
     },
     {
@@ -230,7 +230,7 @@
       "definition_translation": "Una disturbio violento en la atmósfera, caracterizado por vientos fuertes, lluvia pesada, truenos y relámpagos.",
       "example": "L'orage a endommagé ma maison l'année dernière, l'orage approche maintenant, et l'orage sera passé demain.",
       "example_translation": "La tormenta dañó mi casa el año pasado, la tormenta se acerca ahora, y la tormenta habrá pasado mañana.",
-      "imageLink": "storm.jpg",
+      "imageLink": "image_files\\English\\storm.jpg",
       "audioLink": "storm.mp3"
     },
     {
@@ -243,7 +243,7 @@
       "definition_translation": "Teniendo mucho sol; brillante y alegre.",
       "example": "Le temps ensoleillé a rendu notre vacance parfaite. Nous avons marché dans le parc ensoleillé hier. Il sera ensoleillé demain, j'en suis sûr.",
       "example_translation": "El clima soleado hizo que nuestra vacación fuera perfecta. Caminamos en el parque soleado ayer. Mañana será soleado, estoy seguro.",
-      "imageLink": "sunny.jpg",
+      "imageLink": "image_files\\English\\sunny.jpg",
       "audioLink": "sunny.mp3"
     },
     {
@@ -256,7 +256,7 @@
       "definition_translation": "Una tormenta con truenos y relámpagos, típicamente acompañada de lluvia fuerte o granizo.",
       "example": "L'orage de grêle a gâché notre pique-nique. Nous avons entendu l'orage de grêle approcher hier soir. Il y aura un orage de grêle la semaine prochaine, je le prédis.",
       "example_translation": "La tormenta eléctrica arruinó nuestro picnic. Oímos que se acercaba la tormenta eléctrica anoche. Habrá una tormenta eléctrica la próxima semana, predigo.",
-      "imageLink": "thunderstorm-1.jpg",
+      "imageLink": "image_files\\English\\thunderstorm-1.jpg",
       "audioLink": "thunderstorm.mp3"
     },
     {
@@ -269,7 +269,7 @@
       "definition_translation": "Cubierto o saturado con agua o otro líquido.",
       "example": "Le chien humide s'est secoué vigoureusement. Le trottoir humide était glissant. Demain, il sera humide, alors prenez un parapluie.",
       "example_translation": "El perro húmedo se sacudió vigorosamente. La acera húmeda era resbalosa. Mañana será húmedo, así que lleva un paraguas.",
-      "imageLink": "wet.jpg",
+      "imageLink": "image_files\\English\\wet.jpg",
       "audioLink": "wet.mp3"
     },
     {
@@ -282,7 +282,7 @@
       "definition_translation": "Teniendo un fuerte viento; caracterizado por o lleno de viento.",
       "example": "C'était un jour venteux, alors nous avons décidé de rester à l'intérieur. Le temps venteux rendait difficile de faire voler un cerf-volant. D'ici l'année prochaine, la nouvelle ferme éolienne sera venteuse enough pour alimenter toute la ville.",
       "example_translation": "Era un día ventoso, así que decidimos quedarnos en interiores. El clima ventoso hizo que fuera difícil volar una cometa. Para el próximo año, la nueva granja eólica será lo suficientemente ventosa como para alimentar toda la ciudad.",
-      "imageLink": "windy.jpg",
+      "imageLink": "image_files\\English\\windy.jpg",
       "audioLink": "windy.mp3"
     },
     {
@@ -295,7 +295,7 @@
       "definition_translation": "Producir una corriente de aire, especialmente con un movimiento repentino o violento.",
       "example": "Le vent a commencé à souffler fortement, emportant les feuilles. Elle aime souffler les bougies sur son gâteau d'anniversaire. Le sèche-cheveux souffle de l'air chaud pour styler vos cheveux.",
       "example_translation": "El viento comenzó a soplar con fuerza, arrastrando las hojas. A ella le gusta soplar las velas en su pastel de cumpleaños. El secador de pelo sopla aire caliente para estilizar tu cabello.",
-      "imageLink": "blow.jpg",
+      "imageLink": "image_files\\English\\blow.jpg",
       "audioLink": "blow.mp3"
     },
     {
@@ -308,7 +308,7 @@
       "definition_translation": "Un viento suave, especialmente agradable.",
       "example": "La brise était si rafraîchissante un jour d'été chaud. Un vent léger soufflait à travers la fenêtre ouverte. En soirée, une brise fraîche viendra de l'océan.",
       "example_translation": "La brisa fue tan refrescante en un día de verano caliente. Una brisa suave sopló por la ventana abierta. Para la noche, una brisa fresca soplará desde el océano.",
-      "imageLink": "breeze.jpg",
+      "imageLink": "image_files\\English\\breeze.jpg",
       "audioLink": "breeze.mp3"
     },
     {
@@ -321,7 +321,7 @@
       "definition_translation": "El calor es una forma de energía que se transfiere por una diferencia de temperatura.",
       "example": "J'ai augmenté la chaleur en hiver, mais l'ai réduite en été. L'année dernière, la chaleur était insupportable. D'ici 2025, les vagues de chaleur seront plus fréquentes.",
       "example_translation": "Subí la temperatura en invierno, pero la bajé en verano. El año pasado, el calor era insoportable. Para 2025, la ola de calor será más frecuente.",
-      "imageLink": "heat.jpg",
+      "imageLink": "image_files\\English\\heat.jpg",
       "audioLink": "heat.mp3"
     },
     {
@@ -334,7 +334,7 @@
       "definition_translation": "El rayo es una descarga electrostática masiva que ocurre durante las tormentas eléctricas.",
       "example": "L'éclair a éclaté dans le ciel, éclairant tout la ville. La nuit dernière, un éclair a causé une panne de courant. D'ici 2030, les scientifiques pourront prédire les orages d'éclairs plus précisément.",
       "example_translation": "El rayo relampagueó en el cielo, iluminando toda la ciudad. Anoche, un rayo causó un apagón. Para 2030, los científicos podrán predecir tormentas de rayos más precisamente.",
-      "imageLink": "lightning.jpg",
+      "imageLink": "image_files\\English\\lightning.jpg",
       "audioLink": "lightning.mp3"
     },
     {
@@ -347,7 +347,7 @@
       "definition_translation": "Una temporada es un período del año caracterizado por un patrón de clima o actividad particular.",
       "example": "J'adore la saison d'été, mais déteste la saison d'hiver. La saison dernière, nous sommes allés à la plage tous les week-ends. La saison prochaine, nous allons voyager en Europe.",
       "example_translation": "Me encanta la temporada de verano, pero odio la temporada de invierno. La temporada pasada, fuimos a la playa todos los fines de semana. La próxima temporada, viajaremos a Europa.",
-      "imageLink": "season.jpg",
+      "imageLink": "image_files\\English\\season.jpg",
       "audioLink": "season.mp3"
     },
     {
@@ -360,7 +360,7 @@
       "definition_translation": "El momento por la mañana cuando el sol aparece por encima del horizonte, a menudo marcado por colores hermosos en el cielo.",
       "example": "J'adore regarder le lever du soleil du haut de la montagne. Hier, j'ai regardé le lever du soleil de la plage. Demain, je vais regarder le lever du soleil de mon jardin.",
       "example_translation": "Me encanta ver el amanecer desde la cima de la montaña. Ayer, vi el amanecer desde la playa. Mañana, veré el amanecer desde mi patio trasero.",
-      "imageLink": "sunrise.jpg",
+      "imageLink": "image_files\\English\\sunrise.jpg",
       "audioLink": "sunrise.mp3"
     },
     {
@@ -373,7 +373,7 @@
       "definition_translation": "El momento por la tarde cuando el sol desaparece debajo del horizonte, a menudo marcado por colores hermosos en el cielo.",
       "example": "J'adore regarder le coucher du soleil de la plage. Hier, j'ai regardé le coucher du soleil du haut de la montagne. Demain, je vais regarder le coucher du soleil de mon jardin.",
       "example_translation": "Me encanta ver la puesta del sol desde la playa. Ayer, vi la puesta del sol desde la cima de la montaña. Mañana, veré la puesta del sol desde mi patio trasero.",
-      "imageLink": "sunset.jpg",
+      "imageLink": "image_files\\English\\sunset.jpg",
       "audioLink": "sunset.mp3"
     },
     {
@@ -386,7 +386,7 @@
       "definition_translation": "La luz cálida y brillante del sol, especialmente cuando brilla a través de las nubes o ventanas.",
       "example": "L'ensoleillement à travers la fenêtre a éclairé la pièce. Hier, l'ensoleillement a fait fleurir les fleurs. Demain, l'ensoleillement rendra la journée chaude.",
       "example_translation": "La luz del sol que entra por la ventana iluminó la habitación. Ayer, la luz del sol hizo que las flores florecieran. Mañana, la luz del sol hará que el día se sienta cálido.",
-      "imageLink": "sunshine.jpg",
+      "imageLink": "image_files\\English\\sunshine.jpg",
       "audioLink": "sunshine.mp3"
     },
     {
@@ -399,7 +399,7 @@
       "definition_translation": "un sonido fuerte y retumbante, especialmente uno causado por un relámpago en la atmósfera",
       "example": "Le tonnerre fort a effrayé les enfants. Hier, nous avons entendu un tonnerre fort pendant la tempête. D'ici l'année prochaine, nous aurons résolu le problème du tonnerre et de la foudre.",
       "example_translation": "El fuerte trueno asustó a los niños. Ayer, escuchamos un fuerte trueno durante la tormenta. Para el año que viene, habremos resuelto el problema del trueno y el relámpago.",
-      "imageLink": "thunder.jpg",
+      "imageLink": "image_files\\English\\thunder.jpg",
       "audioLink": "thunder.mp3"
     },
     {
@@ -412,7 +412,7 @@
       "definition_translation": "la luz del día, especialmente en oposición a la oscuridad o la luz artificial",
       "example": "Nous finirons le projet avant le jour. Hier, nous avons travaillé jusqu'au jour. D'ici la semaine prochaine, nous aurons achevé la tâche pendant le jour.",
       "example_translation": "Terminaremos el proyecto al amanecer. Ayer, trabajamos hasta la luz del día. Para la próxima semana, habremos completado la tarea durante la luz del día.",
-      "imageLink": "daylight.jpg",
+      "imageLink": "image_files\\English\\daylight.jpg",
       "audioLink": "daylight.mp3"
     },
     {
@@ -425,7 +425,7 @@
       "definition_translation": "una tormenta de viento violenta, especialmente una en el Caribe",
       "example": "L'ouragan a détruit la ville. L'année dernière, nous nous sommes préparés à l'ouragan. D'ici la saison prochaine, nous aurons appris à répondre à un ouragan.",
       "example_translation": "El huracán destruyó la ciudad. El año pasado, nos preparamos para el huracán. Para la próxima temporada, habremos aprendido cómo responder a un huracán.",
-      "imageLink": "hurricane.jpg",
+      "imageLink": "image_files\\English\\hurricane.jpg",
       "audioLink": "hurricane.mp3"
     },
     {
@@ -438,7 +438,7 @@
       "definition_translation": "La suave luz plateada de la luna, típicamente vista de noche.",
       "example": "Le couple a pris une promenade romantique sous le clair de lune. Ils avaient dansé sous le clair de lune lors de leur mariage. Ils se promèneront sous le clair de lune à leur anniversaire.",
       "example_translation": "La pareja dio un paseo romántico bajo la luz de la luna. Habían bailado bajo la luz de la luna en su boda. Pasearán bajo la luz de la luna en su aniversario.",
-      "imageLink": "moonlight.jpg",
+      "imageLink": "image_files\\English\\moonlight.jpg",
       "audioLink": "moonlight.mp3"
     },
     {
@@ -451,7 +451,7 @@
       "definition_translation": "Un hermoso fenómeno natural en el que una banda de colores aparece en el cielo, típicamente después de la lluvia.",
       "example": "Les enfants ont vu un arc-en-ciel après l'orage. Ils verront un arc-en-ciel demain matin. Ils avaient vu un arc-en-ciel dans la cascade.",
       "example_translation": "Los niños vieron un arcoíris después de la tormenta. Verán un arcoíris en la mañana. Habían visto un arcoíris en la cascada.",
-      "imageLink": "rainbow.jpg",
+      "imageLink": "image_files\\English\\rainbow.jpg",
       "audioLink": "rainbow.mp3"
     },
     {
@@ -464,7 +464,7 @@
       "definition_translation": "La cantidad de lluvia que cae en un área o período particular.",
       "example": "La ville a connu des précipitations abondantes le mois dernier. Elle connaîtra des précipitations modérées la semaine prochaine. Elle avait connu des précipitations légères l'année dernière.",
       "example_translation": "La ciudad experimentó una lluvia pesada el mes pasado. Experimentará una lluvia moderada la próxima semana. Había experimentado una lluvia ligera el año pasado.",
-      "imageLink": "rainfall.jpg",
+      "imageLink": "image_files\\English\\rainfall.jpg",
       "audioLink": "rainfall.mp3"
     },
     {
@@ -477,7 +477,7 @@
       "definition_translation": "Teniendo o caracterizado por vientos fuertes y clima brusco, especialmente con lluvia pesada o truenos.",
       "example": "Le temps orageux a retardé notre vol, mais nous sommes arrivés sains et saufs. Nous avons vécu une nuit orageuse, et maintenant nous nous préparons à une journée orageuse.",
       "example_translation": "El clima tormentoso retrasó nuestro vuelo, pero finalmente llegamos con seguridad. Habíamos experimentado una noche tormentosa, y ahora nos estamos preparando para un día tormentoso.",
-      "imageLink": "stormy.jpg",
+      "imageLink": "image_files\\English\\stormy.jpg",
       "audioLink": "stormy.mp3"
     },
     {
@@ -490,7 +490,7 @@
       "definition_translation": "La luz del sol, especialmente cuando brilla con fuerza y calidez.",
       "example": "La lumière du soleil qui filtrait par la fenêtre m'a réveillé tôt le matin. Nous avons passé une belle journée, nous baignant dans la lumière chaude du soleil. D'ici l'année prochaine, j'aurai installé des panneaux solaires pour capter la lumière du soleil.",
       "example_translation": "La luz del sol que entraba por la ventana me despertó temprano. Disfrutamos de un hermoso día, disfrutando del cálido sol. Para el próximo año, habré instalado paneles solares para aprovechar la luz del sol.",
-      "imageLink": "sunlight.jpg",
+      "imageLink": "image_files\\English\\sunlight.jpg",
       "audioLink": "sunlight.mp3"
     },
     {
@@ -503,7 +503,7 @@
       "definition_translation": "El momento del día en que el sol está debajo del horizonte, y la luz se desvanece.",
       "example": "L'heure du crépuscule était mon moment préféré de la journée, car elle apportait une sensation de paix. Nous avons regardé les étoiles apparaître pendant le crépuscule, puis nous sommes rentrés. D'ici le crépuscule, nous avions fini notre projet et nous avons éprouvé un sentiment d'accomplissement.",
       "example_translation": "La hora del crepúsculo era mi hora favorita del día, ya que traía un sentido de paz. Vimos las estrellas salir durante el crepúsculo, y luego nos fuimos a casa. Para el crepúsculo, habíamos terminado nuestro proyecto y sentimos un sentido de logro.",
-      "imageLink": "twilight.jpg",
+      "imageLink": "image_files\\English\\twilight.jpg",
       "audioLink": "twilight.mp3"
     },
     {
@@ -516,7 +516,7 @@
       "definition_translation": "Una tormenta de nieve severa con vientos fuertes y visibilidad baja, a menudo causando deslizamientos de nieve y interrupciones en el transporte.",
       "example": "La tempête de neige de 1993 a été l'une des pires de l'histoire ; j'étais bloqué à la maison pendant trois jours, et maintenant je me prépare à la prochaine en stockant des vivres et de l'eau.",
       "example_translation": "La tormenta de nieve de 1993 fue una de las peores de la historia, me quedé en casa durante tres días, y ahora estoy preparándome para la siguiente almacenando alimentos y agua.",
-      "imageLink": "blizzard.jpg",
+      "imageLink": "image_files\\English\\blizzard.jpg",
       "audioLink": "blizzard.mp3"
     },
     {
@@ -529,7 +529,7 @@
       "definition_translation": "Un período prolongado de tiempo anormalmente caliente, a menudo causando incomodidad, enfermedad o incluso muerte.",
       "example": "Lors de la vague de chaleur de 2003, beaucoup de gens ont souffert de coup de chaleur, et le gouvernement a émis des avertissements pour rester hydraté et rester à l'intérieur.",
       "example_translation": "Durante la ola de calor de 2003, muchas personas sufrieron de golpe de calor, y el gobierno emitió advertencias para mantenerse hidratado y permanecer en el interior.",
-      "imageLink": "heatwave.jpg",
+      "imageLink": "image_files\\English\\heatwave.jpg",
       "audioLink": "heatwave.mp3"
     },
     {
@@ -542,7 +542,7 @@
       "definition_translation": "Un período prolongado de lluvia anormalmente baja, a menudo causando escasez de agua y afectando la agricultura y los ecosistemas.",
       "example": "La sécheresse de 2012 a affecté de nombreux agriculteurs, qui ont été contraints d'irriguer leurs cultures à l'aide de machinerie coûteuse, et le gouvernement a dû mettre en place des mesures de conservation de l'eau.",
       "example_translation": "La sequía de 2012 afectó a muchos agricultores, quienes tuvieron que regar sus cultivos utilizando máquinas costosas, y el gobierno tuvo que implementar medidas de conservación de agua.",
-      "imageLink": "drought.jpg",
+      "imageLink": "image_files\\English\\drought.jpg",
       "audioLink": "drought.mp3"
     },
     {
@@ -555,7 +555,7 @@
       "definition_translation": "Pequeñas bolas de hielo que caen del cielo durante una tormenta eléctrica.",
       "example": "L'orage a apporté de la grêle qui a endommagé les cultures. Hier, la grêle était si lourde qu'elle a brisé le pare-brise. L'année prochaine, la grêle aura disparu.",
       "example_translation": "La tormenta trajo granizo que dañó los cultivos. Ayer, el granizo fue tan intenso que rompió el parabrisas. Para el año que viene, el granizo habrá desaparecido.",
-      "imageLink": "hail-1.jpg",
+      "imageLink": "image_files\\English\\hail-1.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -568,7 +568,7 @@
       "definition_translation": "Un grito para llamar la atención o para saludar a alguien.",
       "example": "J'ai hélé un taxi dans la rue. La foule a hélé le nouveau président. Nous hélerons l'équipe lorsque qu'elle gagnera.",
       "example_translation": "Llamé a un taxi en la calle. La multitud aclamó al nuevo presidente. Aclamaremos al equipo cuando ganen.",
-      "imageLink": "hail.jpg",
+      "imageLink": "image_files\\English\\hail.jpg",
       "audioLink": "hail.mp3"
     },
     {
@@ -581,7 +581,7 @@
       "definition_translation": "Una pequeña bola de hielo que cae del cielo durante una tormenta de granizo.",
       "example": "Les griées ont brisé la vitre de la voiture. Les griées étaient aussi grosses que des balles de golf. Nous allons collecter les griées pour les étudier.",
       "example_translation": "Los pedazos de granizo rompieron la ventana del coche. Los pedazos de granizo eran del tamaño de pelotas de golf. Recogeremos los pedazos de granizo para estudiarlos.",
-      "imageLink": "hailstone.jpg",
+      "imageLink": "image_files\\English\\hailstone.jpg",
       "audioLink": "hailstone.mp3"
     },
     {
@@ -594,7 +594,7 @@
       "definition_translation": "Una tormenta que produce granizo, típicamente acompañada de fuertes vientos y lluvia pesada.",
       "example": "L'orage de grêle a causé des dégâts importants aux cultures l'année dernière, mais cette année nous serons prêts avec un nouveau système d'irrigation. L'agriculteur avait déjà connu une sévère tempête de grêle, et maintenant il prend des précautions. La prévision météorologique annonce un orage de grêle pour demain, alors nous devons sécuriser tout.",
       "example_translation": "La tormenta de granizo causó daños significativos a los cultivos el año pasado, pero este año estará preparado con un nuevo sistema de irrigación. El agricultor había experimentado una severa tormenta de granizo anteriormente, y ahora está tomando precauciones. El pronóstico predice que una tormenta de granizo llegará mañana, así que necesitamos asegurar todo.",
-      "imageLink": "hailstorm.jpg",
+      "imageLink": "image_files\\English\\hailstorm.jpg",
       "audioLink": "hailstorm.mp3"
     },
     {
@@ -607,7 +607,7 @@
       "definition_translation": "Un fenómeno natural en el que una columna de aire gira rápidamente, a menudo causando daños y desorden.",
       "example": "Le tourbillon a détruit plusieurs bâtiments dans la ville, mais les résidents ont pu reconstruire rapidement. Le touriste s'est retrouvé pris dans un tourbillon en essayant de prendre une selfie, mais il a eu la chance de s'échapper sans blessures. La dernière sculpture de l'artiste ressemble à un tourbillon, symbolisant le chaos de la vie moderne.",
       "example_translation": "El torbellino destruyó varios edificios en la ciudad, pero los residentes pudieron reconstruir rápidamente. El turista se quedó atrapado en un torbellino mientras trataba de tomar una selfie, pero afortunadamente escapó ileso. La escultura más reciente del artista se asemeja a un torbellino, simbolizando el caos de la vida moderna.",
-      "imageLink": "whirlwind.jpg",
+      "imageLink": "image_files\\English\\whirlwind.jpg",
       "audioLink": "whirlwind.mp3"
     },
     {
@@ -620,7 +620,7 @@
       "definition_translation": "Una caída constante y lenta de la lluvia, típicamente en pequeñas gotas.",
       "example": "La bruine à l'extérieur a rendu la.commute pour aller au travail très désagréable, mais le propriétaire du café a été heureux de la augmentation du trafic. Le fermier a été reconnaissant de la bruine qui a aidé à arroser les cultures, économisant ainsi des coûts d'irrigation. Au moment où nous sommes allés pour une promenade, la bruine avait cessé, et le soleil brillait.",
       "example_translation": "La llovizna fuera hizo que el trayecto al trabajo fuera muy desagradable, pero el propietario de la cafetería estaba feliz con el aumento del tráfico peatonal. El agricultor estaba agradecido por la llovizna que ayudó a regar los cultivos, ahorrando en costos de irrigación. Para cuando salimos a caminar, la llovizna había cesado, y el sol brillaba.",
-      "imageLink": "drizzle.jpg",
+      "imageLink": "image_files\\English\\drizzle.jpg",
       "audioLink": "drizzle.mp3"
     }
   ]
