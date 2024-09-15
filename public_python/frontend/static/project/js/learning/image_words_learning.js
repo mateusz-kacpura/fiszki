@@ -138,7 +138,7 @@ function checkImage(selectedWord, correctWord) {
     }
 
     // Load modal content from the Flask endpoint
-    fetch(`/user/modals/image-pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
+    fetch(`/user/modals/modal_pop_up_for_image_learning?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;
