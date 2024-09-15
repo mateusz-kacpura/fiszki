@@ -66,7 +66,7 @@ document.addEventListener('keydown', function(event) {
 
 
 function generateRandomWord() {
-  const availableWords = words.filter(word => word.imageLink && !excludedWords.includes(word.word));
+  const availableWords = fullContentData.filter(word => word.imageLink && !excludedWords.includes(word.word));
   if (availableWords.length === 0) {
     console.log('Brak więcej słów do nauki.');
     return;
@@ -87,9 +87,9 @@ function displayImages(correctWord) {
   const correctAnswer = reverseDirection ? correctWord.translation : correctWord.word;
   const answers = [correctAnswer];
   while (answers.length < 6) {
-    const randomIndex = Math.floor(Math.random() * words.length);
-    const randomAnswer = reverseDirection ? words[randomIndex].translation : words[randomIndex].word;
-    if (!answers.includes(randomAnswer) && words[randomIndex].imageLink) {
+    const randomIndex = Math.floor(Math.random() * fullContentData.length);
+    const randomAnswer = reverseDirection ? fullContentData[randomIndex].translation : fullContentData[randomIndex].word;
+    if (!answers.includes(randomAnswer) && fullContentData[randomIndex].imageLink) {
       answers.push(randomAnswer);
     }
   }
@@ -97,7 +97,7 @@ function displayImages(correctWord) {
   answers.sort(() => Math.random() - 0.5);
 
   answers.forEach(answer => {
-    const wordData = words.find(word => reverseDirection ? word.translation === answer : word.word === answer);
+    const wordData = fullContentData.find(word => reverseDirection ? word.translation === answer : word.word === answer);
     if (wordData && wordData.imageLink) {
       const imageContainerElement = document.createElement('div');
       imageContainerElement.className = 'image-option';
