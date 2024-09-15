@@ -1,55 +1,53 @@
-let words = [];
+fullContentData = inicializeFullContentData()
 let currentWord = '';
 let excludedWords = [];
 
-document.getElementById('fileInput').addEventListener('change', fetchData);
+// PLIK ZAWIERA BŁĄD ODNIEŚ SIĘ DO WERSJI WSTECZNEJ HTML I JAVASCRIPT
 
-function fetchData() {
-    const fileInput = document.getElementById('fileInput');
-    const file = fileInput.files[0];
-    if (!file) {
-        console.error('No file selected.');
-        return;
-    }
+///////////////////////////////////
 
-    const reader = new FileReader();
-    reader.onload = function(event) {
-        const fileContent = event.target.result;
-        try {
-            let rawWords = JSON.parse(fileContent);
-            console.log('Data loaded successfully:', rawWords);
+// FUNKCJE ŁĄCZĄCE PLIKI W OPARCIU O AMTUALIZACJE DATY
 
-            // Send words to Flask backend for processing
-            fetch('/user/process-words', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ words: rawWords })
-            })
-            .then(response => response.json())
-            .then(data => {
-                if (data.error) {
-                    console.error('Error processing words:', data.error);
-                    return;
-                }
-                words = data.words;
-                document.getElementById('quiz').style.display = 'block';
+///////////////////////////////////
+
+    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+    function handleDateChange(mutationsList, observer) {
+        for (const mutation of mutationsList) {
+            if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+                console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+                // Wywołanie funkcji z innego pliku
                 generateRandomWord();
-            })
-            .catch(error => {
-                console.error('Error:', error);
-            });
-
-        } catch (error) {
-            console.error('Error parsing JSON:', error);
+            }
         }
-    };
-    reader.readAsText(file);
-}
+      }
+  
+      // Funkcja do rozpoczęcia obserwacji
+      function startObservingDateChange() {
+        const hiddenDateElement = document.getElementById('hiddenDate');
+        
+        // Konfiguracja MutationObserver
+        const observer = new MutationObserver(handleDateChange);
+        
+        // Obserwacja zmian atrybutów elementu
+        observer.observe(hiddenDateElement, {
+            attributes: true // Obserwujemy tylko zmiany atrybutów
+        });
+      }
+  
+      // Wywołanie funkcji obserwującej po załadowaniu dokumentu
+      document.addEventListener('DOMContentLoaded', (event) => {
+        startObservingDateChange();
+      });
+  
+  
+  ///////////////////////////////////
+  
+  // FUNKCJE UNIKATOWE DLA PLIKU
+  
+  ///////////////////////////////////
 
 function generateRandomWord() {
-    const availableWords = words.filter(word => !excludedWords.includes(word.lemma));
+    const availableWords = fullContentData.filter(word => !excludedWords.includes(word.lemma));
     if (availableWords.length === 0) {
         document.getElementById('result').innerText = 'No more words to study.';
         return;
@@ -72,7 +70,7 @@ function generateAnswerButtons(word) {
     answerButtonsDiv.innerHTML = '';
 
     // Get all words except the current word and shuffle them
-    let options = words.filter(w => w.lemma !== word.lemma).map(w => w.word);
+    let options = fullContentData.filter(w => w.lemma !== word.lemma).map(w => w.word);
 
     // Select the first 4 options and add the correct word to the options
     options = options.sort(() => Math.random() - 0.5).slice(0, 4);
@@ -102,7 +100,7 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;
-            playTextToSpeech(fullSentence);
+            //playTextToSpeech(fullSentence);
 
             document.body.insertAdjacentHTML('beforeend', modalHTML);
 
@@ -126,3 +124,4 @@ function checkAnswer(selected, correct, fullSentence, exampleTranslation) {
         })
         .catch(error => console.error('Error loading modal:', error));
 }
+

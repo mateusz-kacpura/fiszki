@@ -1,7 +1,49 @@
-let words = [];
+fullContentData = inicializeFullContentData()
 let excludedWords = [];
 let reverseDirection = false;
 let currentWord = null;
+
+///////////////////////////////////
+
+// FUNKCJE ŁĄCZĄCE PLIKI W OPARCIU O AMTUALIZACJE DATY
+
+///////////////////////////////////
+
+    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+    function handleDateChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+              console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+              // Wywołanie funkcji z innego pliku
+              generateRandomWord();
+          }
+      }
+    }
+
+    // Funkcja do rozpoczęcia obserwacji
+    function startObservingDateChange() {
+      const hiddenDateElement = document.getElementById('hiddenDate');
+      
+      // Konfiguracja MutationObserver
+      const observer = new MutationObserver(handleDateChange);
+      
+      // Obserwacja zmian atrybutów elementu
+      observer.observe(hiddenDateElement, {
+          attributes: true // Obserwujemy tylko zmiany atrybutów
+      });
+    }
+
+    // Wywołanie funkcji obserwującej po załadowaniu dokumentu
+    document.addEventListener('DOMContentLoaded', (event) => {
+      startObservingDateChange();
+    });
+
+
+///////////////////////////////////
+
+// FUNKCJE UNIKATOWE DLA PLIKU
+
+///////////////////////////////////
 
 document.addEventListener('keydown', function(event) {
   if (event.key >= '1' && event.key <= '5') {
@@ -22,32 +64,11 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
-function fetchData() {
-  const fileInput = document.getElementById('fileInput');
-  const file = fileInput.files[0];
-  if (!file) {
-    console.error('No file selected.');
-    return;
-  }
-
-  const reader = new FileReader();
-  reader.onload = function(event) {
-    const fileContent = event.target.result;
-    try {
-      words = JSON.parse(fileContent);
-      console.log('Data loaded successfully:', words);
-      generateRandomWord();
-    } catch (error) {
-      console.error('Error parsing JSON:', error);
-    }
-  };
-  reader.readAsText(file);
-}
 
 function generateRandomWord() {
   const availableWords = words.filter(word => word.imageLink && !excludedWords.includes(word.word));
   if (availableWords.length === 0) {
-    console.log('Brak wiÄ™cej sĹ‚Ăłw do nauki.');
+    console.log('Brak więcej słów do nauki.');
     return;
   }
 
@@ -108,16 +129,16 @@ function checkImage(selectedWord, correctWord) {
         existingModal.remove();
     }
 
-    if (!audioCheckbox.checked) {
-      playTextToSpeech(selectedWord);
+    if (ttsCheckbox.checked && !audioCheckbox.checked) {
+        playTextToSpeech(selectedWord);
     }
 
-    if (ttsCheckbox.checked) {
-      playTextToSpeech(correctWord);
+    if (audioCheckbox.checked && ttsCheckbox.checked) {
+        playTextToSpeech(correctWord);
     }
 
     // Load modal content from the Flask endpoint
-    fetch(`/user/modals/modal_pop_up_for_image_learning?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
+    fetch(`/user/modals/image-pop-up?selectedWord=${selectedWord}&correctWord=${correctWord}&theme=${theme}`)
         .then(response => response.json())
         .then(data => {
             const modalHTML = data.modal_html;
