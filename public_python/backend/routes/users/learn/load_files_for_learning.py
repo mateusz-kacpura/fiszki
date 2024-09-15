@@ -52,22 +52,41 @@ def load_public_files(name, tag, limit, page, LANGUAGE_FLAG):
     })
 
 def load_private_files(name, tag, limit, page, LANGUAGE_FLAG):
-    """Załaduj prywatne pliki użytkownika."""
+    """Załaduj prywatne pliki użytkownika i zwróć listę nazw plików."""
     username = current_user.username
-    load_files_path = os.path.join(USER, username, 'sets.json')
+    user_sets_path = os.path.join(USER, username, 'user_sets')
 
     try:
-        with open(load_files_path, 'r') as f:
-            if os.stat(load_files_path).st_size == 0:  # Sprawdź, czy plik jest pusty
-                raise ValueError("sets.json file is empty")
-            sets_data = json.load(f)
-        return jsonify({"sets": sets_data, "language_flag": LANGUAGE_FLAG})
+        # Lista plików JSON w folderze użytkownika
+        json_files = [f for f in os.listdir(user_sets_path) if f.endswith('.json')]
+        if not json_files:
+            raise FileNotFoundError("No JSON files found in the user sets directory.")
+        
+        # Opcjonalne filtrowanie po nazwie pliku
+        if name:
+            json_files = [f for f in json_files if name.lower() in f.lower()]
+
+        # Opcjonalne filtrowanie po tagu
+        if tag:
+            json_files = filter_files_by_tag(json_files, user_sets_path, tag)
+
+        # Paginacja
+        total_files = len(json_files)
+        start = (page - 1) * limit
+        end = start + limit
+        paginated_files = json_files[start:end]
+
+        return jsonify({
+            "files": paginated_files,
+            "total_files": total_files,
+            "current_page": page,
+            "language_flag": LANGUAGE_FLAG
+        })
     
-    except (FileNotFoundError, ValueError, json.JSONDecodeError) as e:
+    except (FileNotFoundError, ValueError) as e:
         error_message = {
-            FileNotFoundError: "sets.json file not found",
-            ValueError: "sets.json file is empty",
-            json.JSONDecodeError: "sets.json contains invalid JSON"
+            FileNotFoundError: "No JSON files found in the user sets directory.",
+            ValueError: str(e)
         }.get(type(e), "Unknown error")
 
         # Logowanie błędu (opcjonalne)

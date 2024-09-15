@@ -29,6 +29,22 @@ def load_file_content(file, is_public, LANGUAGE_FLAG):
     except Exception as e:
         return jsonify({"error": str(e), "file": file}), 500
 
+def load_private_content(file):
+    """Funkcja do ładowania zawartości pliku prywatnego."""
+    folder_path = os.path.join(USER, current_user.username, 'user_sets')
+    file_path = os.path.join(folder_path, file)
+    print("private", file_path)
+    try:
+        with open(file_path, 'r' , encoding='utf-8') as f:
+            content = json.load(f)
+            return jsonify({"content": json.dumps(content), "file": file})
+    except FileNotFoundError:
+        return jsonify({"error": "File not found", "file": file}), 404
+    except json.JSONDecodeError:
+        return jsonify({"error": "Invalid JSON in file", "file": file}), 400
+    except Exception as e:
+        return jsonify({"error": str(e), "file": file}), 500
+
 @login_required
 def load_file():
     """Endpoint do ładowania pliku na podstawie parametrów."""
@@ -39,4 +55,7 @@ def load_file():
     if not file:
         return jsonify({"error": "No file specified"}), 400
 
-    return load_file_content(file, is_public, LANGUAGE_FLAG)
+    if is_public:
+        return load_file_content(file, is_public, LANGUAGE_FLAG)
+    else:
+        return load_private_content(file)

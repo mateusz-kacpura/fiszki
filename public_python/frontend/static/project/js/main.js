@@ -328,7 +328,9 @@ function displayFiles(files) {
 }
 
 // Funkcja do załadowania zawartości wybranego pliku
-function loadFileContent(file, isPublic = true) {
+function loadFileContent(file) {
+  const publicCheckbox = document.getElementById('publicCheckbox').checked;
+  isPublic = publicCheckbox;  // Sprawdź czy załadować pliki publiczne
   const url = `/user/load_file_content?file=${file}&public=${isPublic}`; // URL endpointu do pobierania pliku
   fetch(url)
       .then(response => {
