@@ -3,66 +3,84 @@
 
 {% block manage %}
     <div class="container mt-4">
-        <h1 class="text-center mb-4">Witaj, {{ username }}</h1>
-        <h2 class="text-center mb-3">Wybierz preferencje językowe i ustawienia profilu</h2>
-        
-        <form method="POST" class="mx-auto" style="max-width: 600px;">
-            {{ form.hidden_tag() }}  <!-- Automatically renders CSRF token -->
-            
-            <!-- Preferencje językowe -->
-            <div class="form-group mb-3">
-                <label for="language_1" class="form-label">Język 1:</label>
-                {{ form.language_1(class="form-select") }}  <!-- Use WTForms field -->
+        <!-- Zakładki (Tabs) -->
+        <ul class="nav nav-tabs" id="profileTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="preferences-tab" data-bs-toggle="tab" data-bs-target="#preferences" type="button" role="tab" aria-controls="preferences" aria-selected="true">Preferences</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="account-tab" data-bs-toggle="tab" data-bs-target="#account" type="button" role="tab" aria-controls="account" aria-selected="false">Account</button>
+            </li>
+        </ul>
+
+        <!-- Zawartość zakładek (Tabs Content) -->
+        <div class="tab-content" id="profileTabsContent">
+            <!-- Sekcja Preferencji -->
+            <div class="tab-pane fade show active" id="preferences" role="tabpanel" aria-labelledby="preferences-tab">
+                <form method="POST" class="mx-auto mt-4" style="max-width: 600px;">
+                    {{ form.hidden_tag() }}  <!-- Automatically renders CSRF token -->
+                    
+                    <!-- Preferencje językowe -->
+                    <div class="form-group mb-3">
+                        <label for="language_1" class="form-label">Język 1:</label>
+                        {{ form.language_1(class="form-select form-control") }}  <!-- Use WTForms field -->
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label for="language_2" class="form-label">Język 2:</label>
+                        {{ form.language_2(class="form-select form-control") }}  <!-- Use WTForms field -->
+                    </div>
+
+                    <!-- Ustawienia motywu -->
+                    <div class="form-group mb-3">
+                        <label for="theme" class="form-label">Motyw:</label>
+                        {{ form.theme(class="form-select form-control") }}  <!-- Use WTForms field -->
+                    </div>
+
+                    <!-- Powiadomienia -->
+                    <div class="form-group mb-3">
+                        <label for="notifications" class="form-label">Powiadomienia:</label>
+                        <select class="form-select form-control" name="notifications" id="notifications">
+                            <option value="email" {% if config['notifications'] == 'email' %}selected{% endif %}>E-mail</option>
+                            <option value="sms" {% if config['notifications'] == 'sms' %}selected{% endif %}>SMS</option>
+                            <option value="none" {% if config['notifications'] == 'none' %}selected{% endif %}>Brak</option>
+                        </select>
+                    </div>
+
+                    <!-- Prywatność -->
+                    <div class="form-group mb-3">
+                        <label for="privacy" class="form-label">Prywatność profilu:</label>
+                        {{ form.privacy(class="form-select form-control") }}  <!-- Use WTForms field -->
+                    </div>
+
+                    <!-- Zastosowanie przycisku z Bootstrap -->
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary profil-btn">Zapisz ustawienia</button>
+                    </div>
+                </form>
             </div>
 
-            <div class="form-group mb-3">
-                <label for="language_2" class="form-label">Język 2:</label>
-                {{ form.language_2(class="form-select") }}  <!-- Use WTForms field -->
-            </div>
+            <!-- Sekcja Usuwania Konta -->
+            <div class="tab-pane fade" id="account" role="tabpanel" aria-labelledby="account-tab">
+                <h1 class="text-center mt-4 mb-4">Confirm Account Deletion</h1>
+                <p class="text-center mb-3">Are you sure you want to delete your account? This action cannot be undone.</p>
 
-            <!-- Ustawienia motywu -->
-            <div class="form-group mb-3">
-                <label for="theme" class="form-label">Motyw:</label>
-                {{ form.theme(class="form-select") }}  <!-- Use WTForms field -->
+                <form method="POST" action="{{ url_for('auth.delete_user') }}" class="mx-auto" style="max-width: 600px;">
+                    {{ form.hidden_tag() }}  <!-- This automatically renders the CSRF token -->
+                    
+                    <div class="form-group mb-3">
+                        <label for="password" class="form-label">Enter your password to confirm:</label>
+                        {{ form.password(class="form-control") }}  <!-- Password input from the form object -->
+                    </div>
+                    
+                    <div class="text-center">
+                        <input type="submit" value="Delete Account" class="btn btn-danger mx-2">
+                        <a href="{{ url_for('user.profil') }}" class="btn btn-secondary mx-2">Cancel</a>
+                    </div>
+                </form>
             </div>
+        </div>
 
-            <!-- Powiadomienia -->
-            <div class="form-group mb-3">
-                <label for="notifications" class="form-label">Powiadomienia:</label>
-                <select class="form-select" name="notifications" id="notifications">
-                    <option value="email" {% if config['notifications'] == 'email' %}selected{% endif %}>E-mail</option>
-                    <option value="sms" {% if config['notifications'] == 'sms' %}selected{% endif %}>SMS</option>
-                    <option value="none" {% if config['notifications'] == 'none' %}selected{% endif %}>Brak</option>
-                </select>
-            </div>
-
-            <!-- Prywatność -->
-            <div class="form-group mb-3">
-                <label for="privacy" class="form-label">Prywatność profilu:</label>
-                {{ form.privacy(class="form-select") }}  <!-- Use WTForms field -->
-            </div>
-
-            <!-- Zastosowanie przycisku z Bootstrap -->
-            <div class="text-center">
-                <button type="submit" class="btn btn-primary profil-btn">Zapisz ustawienia</button>
-            </div>
-        </form>
-
-        <h1>Confirm Account Deletion</h1>
-        <p>Are you sure you want to delete your account? This action cannot be undone.</p>
-
-        <form method="POST" action="{{ url_for('auth.delete_user') }}">
-            {{ form.hidden_tag() }}  <!-- This automatically renders the CSRF token -->
-            
-            <div class="mb-3">
-                <label for="password">Enter your password to confirm:</label>
-                {{ form.password(class="form-control") }}  <!-- Password input from the form object -->
-            </div>
-            
-            <input type="submit" value="Delete Account" class="btn btn-danger">
-            <a href="{{ url_for('user.profil') }}" class="btn btn-secondary">Cancel</a>
-        </form>
-                
         <!-- Wyświetlanie wiadomości przy użyciu klas Bootstrap -->
         {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}
@@ -79,5 +97,16 @@
 {% endblock %}
 
 {% block scripts %}
-<script></script>
+<script>
+// Inicjalizacja zakładek Bootstrap (potrzebne tylko, jeśli nie ma automatycznej inicjalizacji)
+var triggerTabList = [].slice.call(document.querySelectorAll('#profileTabs button'))
+triggerTabList.forEach(function (triggerEl) {
+  var tabTrigger = new bootstrap.Tab(triggerEl)
+
+  triggerEl.addEventListener('click', function (event) {
+    event.preventDefault()
+    tabTrigger.show()
+  })
+})
+</script>
 {% endblock %}
