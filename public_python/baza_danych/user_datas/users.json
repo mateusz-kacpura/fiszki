@@ -2,5 +2,9 @@
     "42ac2e5a-5690-4c6b-acf3-29a281915d32": {
         "username": "test",
         "password": "scrypt:32768:8:1$ZHGXgBU2XSB7vxr1$f30afcbdc9a9be5d02e7a193be6d224ac7a9f9b15db3be2b399f440055dd56d03271e826aa9c21bb5d5ef8a1260dee447f89d4d52d2725df1493878a452dd483"
+    },
+    "5ff26f7c-1d51-4edb-8d7e-4eac338d84d8": {
+        "username": "test3",
+        "password": "scrypt:32768:8:1$qdJWExvMYww5FTwC$4b366baa086b8119261a7a004ccda639a381f65723b4a23c8fa6c7318eeae43300c316bb13360988f2f713e4c6e8abec7f1cd10ffc127023127a35a7a37aec84"
     }
 }

@@ -1,4 +1,4 @@
-<!-- Napisz projekt gry sĹ‚ownej, gdzie zadaniem uĹĽytkownika bÄ™dzie poĹ‚Ä…czenie sĹ‚Ăłw z odpowiadajÄ…cymi im synonimami w pary z losowej rozsypanki wyrazĂłw, gdzie po jednej stronie bÄ™dÄ… sĹ‚owa a po drugiej synonimy -->
+<!-- Napisz projekt gry słownej, gdzie zadaniem użytkownika będzie połączenie słów z odpowiadającymi im synonimami w pary z losowej rozsypanki wyrazów, gdzie po jednej stronie będą słowa, a po drugiej synonimy -->
 
 {% extends "learn.html" %}
 
@@ -18,17 +18,17 @@
     }
 </style>
 <div class="row justify-content-center">
-    <!-- Lewa kolumna z wyborem sĹ‚Ăłw -->
+    <!-- Lewa kolumna z wyborem słów -->
     <div class="col-md-8">
         <div class="card">
             <div class="card-header text-center">
-                <h2 class="card-title">PoĹ‚Ä…cz sĹ‚owa z ich definicjami</h2>
+                <h2 class="card-title">Połącz słowa z ich definicjami</h2>
             </div>
             <canvas id="wordCanvas" width="800" height="600"></canvas>
         </div>
     </div>
 
-    <!-- Prawa kolumna z pomocÄ… -->
+    <!-- Prawa kolumna z pomocą -->
     <div class="col-md-4">
         <div class="card">
             <div class="card-header text-center">
@@ -38,7 +38,7 @@
             </div>
             <div class="card-footer text-center">
                 <!-- Dodatkowe kontrolki lub informacje -->
-                MoĹĽesz poĹ‚Ä…czyÄ‡ ze sobÄ… Ĺ›rodki wyraĹĽeĹ„
+                Możesz połączyć ze sobą środki wyrażeń
             </div>
         </div>
     </div>
@@ -58,6 +58,20 @@
 const canvas = document.getElementById("wordCanvas");
 const ctx = canvas.getContext("2d");
 
+let canvasWidth = canvas.width;
+let canvasHeight = canvas.height;
+const wordHeight = 50; // Zmieniono z wordRadius na wordHeight
+const leftMargin = 30; // Margines od lewej krawędzi
+const rightMargin = 30; // Margines od prawej krawędzi
+const verticalSpacing = wordHeight + 10;
+
+let words = [];
+let synonyms = [];
+let connections = [];
+let draggingLine = false;
+let currentWord = null;
+let pairs = []; // Zmienna globalna przechowująca pary słów
+
 function resizeCanvas() {
     const newWidth = parseInt(document.getElementById('widthInput').value, 10);
     const newHeight = parseInt(document.getElementById('heightInput').value, 10);
@@ -68,279 +82,259 @@ function resizeCanvas() {
         canvas.width = canvasWidth;
         canvas.height = canvasHeight;
 
-        // Aktualizuj rozmiar obszarĂłw
-        const leftAreaWidth = canvasWidth / 2;
-        const rightAreaWidth = canvasWidth / 2;
-        const rightAreaX = canvasWidth / 2 + wordRadius;
-
-        // Zaktualizuj poĹ‚oĹĽenie sĹ‚Ăłw
+        // Aktualizuj rozmieszczenie słów po zmianie rozmiaru płótna
         initializeGame(pairs);
     } else {
-        alert('WprowadĹş prawidĹ‚owe wartoĹ›ci szerokoĹ›ci i wysokoĹ›ci.');
+        alert('Wprowadź prawidłowe wartości szerokości i wysokości.');
     }
 }
 
 fetch('/user/get_synonim_data?game_name=Synonym Match')
     .then(response => response.json())
     .then(data => {
-        initializeGame(data[0].pairs); 
+        if (data && data[0] && data[0].pairs) {
+            pairs = data[0].pairs.map((pair, index) => ({ ...pair, id: index }));
+            initializeGame(pairs);
+        } else {
+            console.error('Nieprawidłowe dane z serwera:', data);
+        }
     })
-    .catch(error => console.error('BĹ‚Ä…d:', error));
+    .catch(error => console.error('Błąd:', error));
 
-const canvasWidth = canvas.width;
-const canvasHeight = canvas.height;
-const wordRadius = 50;
-const leftAreaWidth = canvasWidth / 2;
-const rightAreaWidth = canvasWidth / 2;
-const leftAreaX = wordRadius;
-const rightAreaX = canvasWidth / 2 + wordRadius;
-const verticalSpacing = wordRadius * 1 + 10;  // 20 to dodatkowa przestrzeĹ„ miÄ™dzy sĹ‚owami
-const leftMargin = 30;  // OdlegĹ‚oĹ›Ä‡ sĹ‚Ăłw od lewej krawÄ™dzi
+function initializeGame(pairsData) {
+    words = [];
+    synonyms = [];
+    connections = [];
 
-let words = [];
-let synonyms = [];
-let connections = [];
-let draggingLine = false; 
-let startX = 0, startY = 0;  
-let currentWord = null;  
+    // Rozdziel pary na słowa i definicje (synonimy)
+    const wordObjects = pairsData.map((pair, index) => ({
+        text: pair.word,
+        id: index
+    }));
 
-function isOverlapping(word1, word2) {
-    const dx = word1.x - word2.x;
-    const dy = word1.y - word2.y;
-    const distance = Math.sqrt(dx * dx + dy * dy);
-    return distance < word1.radius + word2.radius;
-}
+    const synonymObjects = pairsData.map((pair, index) => ({
+        text: pair.synonym,
+        id: index
+    }));
 
-function initializeGame(pairs) {
-    // Pomieszaj kolejnoĹ›Ä‡ par
-    pairs = shuffleArray(pairs);
-    
-    pairs.forEach((pair, index) => {
-        const wordY = verticalSpacing * index + wordRadius;
-        if (wordY + wordRadius > canvasHeight) {
-            console.error("Zbyt wiele par dla danego pĹ‚Ăłtna.");
+    // Pomieszaj słowa i definicje niezależnie
+    const shuffledWords = shuffleArray(wordObjects);
+    const shuffledSynonyms = shuffleArray(synonymObjects);
+
+    ctx.font = "16px Arial";
+    const margin = 10;
+
+    // Ustaw pozycje słów po lewej stronie
+    shuffledWords.forEach((wordObj, index) => {
+        const textWidth = ctx.measureText(wordObj.text).width;
+        const textHeight = 16; // Wysokość czcionki
+        const rectWidth = textWidth + 2 * margin;
+        const rectHeight = textHeight + 2 * margin;
+
+        const wordY = verticalSpacing * index + wordHeight;
+
+        if (wordY + wordHeight > canvasHeight) {
+            console.error("Zbyt wiele par dla danego płótna.");
             return;
         }
 
-        // UtwĂłrz obiekt sĹ‚owa z dodatkowym marginesem
-        const word = {
-            x: leftAreaX + leftMargin,
-            y: wordY,
-            radius: wordRadius,
-            text: pair.word,
-            pairIndex: index,
-            color: "#FFD700"
-        };
-        words.push(word);
+        const wordX = leftMargin + rectWidth / 2;
 
-        // UtwĂłrz obiekt synonimu
-        const synonym = {
-            x: rightAreaX,
+        const word = {
+            x: wordX,
             y: wordY,
-            radius: wordRadius,
-            text: pair.synonym,
-            pairIndex: index,
-            color: "#ADFF2F"
+            text: wordObj.text,
+            id: wordObj.id,
+            color: "#FFD700",
+            rectWidth: rectWidth,
+            rectHeight: rectHeight
         };
+
+        words.push(word);
+    });
+
+    // Ustaw pozycje definicji (synonimów) po prawej stronie
+    shuffledSynonyms.forEach((synonymObj, index) => {
+        const textWidth = ctx.measureText(synonymObj.text).width;
+        const textHeight = 16; // Wysokość czcionki
+        const rectWidth = textWidth + 2 * margin;
+        const rectHeight = textHeight + 2 * margin;
+
+        const synonymY = verticalSpacing * index + wordHeight;
+
+        if (synonymY + wordHeight > canvasHeight) {
+            console.error("Zbyt wiele par dla danego płótna.");
+            return;
+        }
+
+        const synonymX = canvasWidth - rightMargin - rectWidth / 2;
+
+        const synonym = {
+            x: synonymX,
+            y: synonymY,
+            text: synonymObj.text,
+            id: synonymObj.id,
+            color: "#ADFF2F",
+            rectWidth: rectWidth,
+            rectHeight: rectHeight
+        };
+
         synonyms.push(synonym);
     });
+
     drawWords();
 }
 
-function createNonOverlappingPosition(areaWidth, offset, text, index, color) {
-    let position;
-    let maxAttempts = 100;
-    let attempts = 0;
-
-    do {
-        position = {
-            x: Math.random() * (areaWidth - 2 * wordRadius) + offset + wordRadius,
-            y: Math.random() * (canvasHeight - 2 * wordRadius) + wordRadius,
-            radius: wordRadius,
-            text: text,
-            pairIndex: index,
-            color: color
-        };
-        attempts++;
-    } while (isOverlappingAny(position) && attempts < maxAttempts);
-
-    return position;
-}
-
-// Funkcja pomocnicza do mieszania tablic
+// Funkcja do mieszania tablicy
 function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-}
-
-function isOverlappingAny(word) {
-    return [...words, ...synonyms].some(existingWord => isOverlapping(word, existingWord));
-}
-
-function drawConnectionPoints(word) {
-    const radius = 5; // Radius of the connection point
-    ctx.beginPath();
-    
-    if (words.includes(word)) { 
-        // Draw point at the right edge of the word's rectangle
-        const rectWidth = ctx.measureText(word.text).width + 20; // Width of the rectangle
-        ctx.arc(word.x + rectWidth / 2, word.y, radius, 0, 2 * Math.PI);
-    } else if (synonyms.includes(word)) {  
-        // Draw point at the left edge of the synonym's rectangle
-        const rectWidth = ctx.measureText(word.text).width + 20; // Width of the rectangle
-        ctx.arc(word.x - rectWidth / 2, word.y, radius, 0, 2 * Math.PI);
-    }
-    
-    ctx.fillStyle = "#FFF"; 
-    ctx.fill();
-    ctx.strokeStyle = "#000"; // Color of the border
-    ctx.stroke();
-}
-
-function getConnectionPointAtPosition(x, y, wordList) {
-    return wordList.find(word => {
-        const rectWidth = ctx.measureText(word.text).width + 20; // Width of the rectangle
-        if (words.includes(word)) {
-            // Check if the point is near the right edge of the rectangle
-            const dx = x - (word.x + rectWidth / 2);
-            const dy = y - word.y;
-            return Math.sqrt(dx * dx + dy * dy) < 5;
-        } else if (synonyms.includes(word)) {
-            // Check if the point is near the left edge of the rectangle
-            const dx = x - (word.x - rectWidth / 2);
-            const dy = y - word.y;
-            return Math.sqrt(dx * dx + dy * dy) < 5;
-        }
-    });
+    return array
+        .map(value => ({ value, sortKey: Math.random() }))
+        .sort((a, b) => a.sortKey - b.sortKey)
+        .map(({ value }) => value);
 }
 
 function drawWords() {
-    ctx.clearRect(0, 0, canvasWidth, canvasHeight);  // Clear the canvas
+    ctx.clearRect(0, 0, canvasWidth, canvasHeight);  // Wyczyść płótno
 
-    // Draw connections
+    // Rysuj połączenia
     connections.forEach(connection => {
         ctx.beginPath();
-        const wordRectWidth = ctx.measureText(connection.word.text).width + 20;
-        const synonymRectWidth = ctx.measureText(connection.synonym.text).width + 20;
-        
-        ctx.moveTo(connection.word.x + wordRectWidth / 2, connection.word.y);
-        ctx.lineTo(connection.synonym.x - synonymRectWidth / 2, connection.synonym.y);
-        
-        ctx.strokeStyle = connection.correct ? "green" : "red";  // Color of the line
+        ctx.moveTo(getWordRightEdge(connection.word), connection.word.y);
+        ctx.lineTo(getWordLeftEdge(connection.synonym), connection.synonym.y);
+
+        ctx.strokeStyle = connection.correct ? "green" : "red";  // Kolor linii
         ctx.lineWidth = 3;  
         ctx.stroke();
 
-        // Draw cross in the middle of the line
-        const midX = (connection.word.x + wordRectWidth / 2 + connection.synonym.x - synonymRectWidth / 2) / 2;
+        // Rysuj krzyżyk w środku linii
+        const midX = (getWordRightEdge(connection.word) + getWordLeftEdge(connection.synonym)) / 2;
         const midY = (connection.word.y + connection.synonym.y) / 2;
         drawCross(midX, midY);
     });
 
-    // Draw words and synonyms
+    // Rysuj słowa i synonimy
+    ctx.font = "16px Arial";
+
     [...words, ...synonyms].forEach(word => {
-        ctx.font = "16px Arial";
-        const textWidth = ctx.measureText(word.text).width;
-        const textHeight = 16; // Height of the font
+        const rectWidth = word.rectWidth;
+        const rectHeight = word.rectHeight;
 
-        const margin = 10; // Margin in pixels
-        const rectWidth = textWidth + 2 * margin;
-        const rectHeight = textHeight + 2 * margin;
+        const rectX = word.x - rectWidth / 2;
+        const rectY = word.y - rectHeight / 2;
 
-        let rectX, rectY;
-        if (words.includes(word)) { 
-            rectX = word.x - rectWidth / 2;
-            rectY = word.y - rectHeight / 2;
-        } else if (synonyms.includes(word)) {  
-            rectX = word.x - rectWidth / 2;
-            rectY = word.y - rectHeight / 2;
-        }
-
-        // Draw rectangle
+        // Rysuj prostokąt
         ctx.beginPath();
         ctx.rect(rectX, rectY, rectWidth, rectHeight);
-        ctx.strokeStyle = word.color; // Border color
-        ctx.lineWidth = 2; // Border width
+        ctx.strokeStyle = word.color; // Kolor obramowania
+        ctx.lineWidth = 2; // Szerokość obramowania
         ctx.stroke();
 
-        // Draw text
-        ctx.fillStyle = "#000"; // Text color
+        // Rysuj tekst
+        ctx.fillStyle = "#000"; // Kolor tekstu
         ctx.textAlign = "center";
         ctx.textBaseline = "middle";
         ctx.fillText(word.text, word.x, word.y);
 
-        // Draw connection points
+        // Rysuj punkty połączeń
         drawConnectionPoints(word);
     });
 }
 
-function getWordAtPosition(x, y, wordList) {
-    return wordList.find(word => {
-        const dx = x - word.x;
-        const dy = y - word.y;
-        return Math.sqrt(dx * dx + dy * dy) < word.radius;
-    });
+function getWordRightEdge(word) {
+    return word.x + word.rectWidth / 2;
+}
+
+function getWordLeftEdge(word) {
+    return word.x - word.rectWidth / 2;
+}
+
+function drawConnectionPoints(word) {
+    const radius = 5; // Promień punktu połączenia
+    ctx.beginPath();
+
+    if (words.includes(word)) { 
+        // Rysuj punkt po prawej stronie prostokąta słowa
+        ctx.arc(getWordRightEdge(word), word.y, radius, 0, 2 * Math.PI);
+    } else if (synonyms.includes(word)) {  
+        // Rysuj punkt po lewej stronie prostokąta synonimu
+        ctx.arc(getWordLeftEdge(word), word.y, radius, 0, 2 * Math.PI);
+    }
+
+    ctx.fillStyle = "#FFF"; 
+    ctx.fill();
+    ctx.strokeStyle = "#000"; // Kolor obramowania
+    ctx.stroke();
 }
 
 function drawCross(x, y, size = 10) {
-    // Rysowanie biaĹ‚ego kĂłĹ‚ka wokĂłĹ‚ krzyĹĽyka
-    const circleRadius = size * 0.75;  // Ustal promieĹ„ biaĹ‚ego kĂłĹ‚ka
+    // Rysowanie białego kółka wokół krzyżyka
+    const circleRadius = size * 0.75;
     ctx.beginPath();
     ctx.arc(x, y, circleRadius, 0, 2 * Math.PI);
-    ctx.fillStyle = "#FFF";  // BiaĹ‚e kĂłĹ‚ko
+    ctx.fillStyle = "#FFF";  // Białe kółko
     ctx.fill();
-    ctx.strokeStyle = "#000";  // Czarny obrys kĂłĹ‚ka
+    ctx.strokeStyle = "#000";  // Czarny obrys kółka
     ctx.lineWidth = 1;
     ctx.stroke();
 
-    // Rysowanie krzyĹĽyka
+    // Rysowanie krzyżyka
     ctx.beginPath();
     ctx.moveTo(x - size / 2, y - size / 2);
     ctx.lineTo(x + size / 2, y + size / 2);
     ctx.moveTo(x + size / 2, y - size / 2);
     ctx.lineTo(x - size / 2, y + size / 2);
-    ctx.strokeStyle = "#FF0000";  // Czerwony krzyĹĽyk
+    ctx.strokeStyle = "#FF0000";  // Czerwony krzyżyk
     ctx.lineWidth = 2;
     ctx.stroke();
 }
 
-let selectedWord = null;
-let selectedSynonym = null;
+function getWordAtPosition(x, y, wordList) {
+    return wordList.find(word => {
+        const rectX = word.x - word.rectWidth / 2;
+        const rectY = word.y - word.rectHeight / 2;
 
+        return x >= rectX && x <= rectX + word.rectWidth && y >= rectY && y <= rectY + word.rectHeight;
+    });
+}
 
+function getConnectionPointAtPosition(x, y) {
+    const radius = 5;
+    return [...words, ...synonyms].find(word => {
+        let pointX, pointY;
+        if (words.includes(word)) {
+            pointX = getWordRightEdge(word);
+            pointY = word.y;
+        } else if (synonyms.includes(word)) {
+            pointX = getWordLeftEdge(word);
+            pointY = word.y;
+        }
+        const dx = x - pointX;
+        const dy = y - pointY;
+        return Math.sqrt(dx * dx + dy * dy) < radius;
+    });
+}
 
-canvas.addEventListener("mousedown", (e) => {
-    const mouseX = e.offsetX;
-    const mouseY = e.offsetY;
+function isClickOnCross(x, y, connection) {
+    // Pobierz pozycje
+    const wordRightEdge = getWordRightEdge(connection.word);
+    const synonymLeftEdge = getWordLeftEdge(connection.synonym);
 
-    const clickedWord = getWordAtPosition(mouseX, mouseY, words);
-    const clickedSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
+    const midX = (wordRightEdge + synonymLeftEdge) / 2;
+    const midY = (connection.word.y + connection.synonym.y) / 2;
 
-    if (clickedWord) {
-        currentWord = clickedWord;
-        startX = clickedWord.x;
-        startY = clickedWord.y;
-        draggingLine = true;
-    } 
-    else if (clickedSynonym) {
-        currentWord = clickedSynonym;
-        startX = clickedSynonym.x;
-        startY = clickedSynonym.y;
-        draggingLine = true;
-    }
-});
+    const dx = x - midX;
+    const dy = y - midY;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+
+    // Zwracamy true, jeśli kliknięto blisko krzyżyka (np. w promieniu 15px)
+    return distance < 15;
+}
 
 function makeConnection(word, synonym) {
-    const existingConnection = connections.find(connection => connection.word === word || connection.synonym === synonym);
+    // Usuwamy istniejące połączenia, które dotyczą tego słowa lub synonimu
+    connections = connections.filter(connection => connection.word !== word && connection.synonym !== synonym);
 
-    if (existingConnection) {
-        // Usuwamy istniejÄ…ce poĹ‚Ä…czenie, jeĹ›li juĹĽ istnieje
-        connections = connections.filter(connection => connection !== existingConnection);
-    }
-
-    const correct = word.pairIndex === synonym.pairIndex;  // Sprawdzamy, czy poĹ‚Ä…czenie jest prawidĹ‚owe
+    const correct = word.id === synonym.id;  // Sprawdzamy, czy połączenie jest prawidłowe
 
     connections.push({
         word: word,
@@ -349,27 +343,57 @@ function makeConnection(word, synonym) {
     });
 }
 
+canvas.addEventListener("mousedown", (e) => {
+    const rect = canvas.getBoundingClientRect();
+    const scaleX = canvas.width / rect.width;
+    const scaleY = canvas.height / rect.height;
+
+    const mouseX = (e.clientX - rect.left) * scaleX;
+    const mouseY = (e.clientY - rect.top) * scaleY;
+
+    // Najpierw sprawdź, czy kliknięto na krzyżyk, aby usunąć połączenie
+    const clickedConnection = connections.find(connection => isClickOnCross(mouseX, mouseY, connection));
+
+    if (clickedConnection) {
+        connections = connections.filter(connection => connection !== clickedConnection);
+        drawWords();
+    } else {
+        // W przeciwnym razie sprawdź, czy kliknięto na słowo lub synonim
+        const clickedWord = getWordAtPosition(mouseX, mouseY, words);
+        const clickedSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
+
+        if (clickedWord) {
+            currentWord = clickedWord;
+            draggingLine = true;
+        } 
+        else if (clickedSynonym) {
+            currentWord = clickedSynonym;
+            draggingLine = true;
+        }
+    }
+});
+
 canvas.addEventListener("mousemove", (e) => {
     if (draggingLine && currentWord) {
         const rect = canvas.getBoundingClientRect();
         const scaleX = canvas.width / rect.width;
         const scaleY = canvas.height / rect.height;
-        
+
         const mouseX = (e.clientX - rect.left) * scaleX;
         const mouseY = (e.clientY - rect.top) * scaleY;
 
         drawWords();  
 
         ctx.beginPath();
-        
+
         if (words.includes(currentWord)) {
-            ctx.moveTo(currentWord.x + currentWord.radius, currentWord.y);
+            ctx.moveTo(getWordRightEdge(currentWord), currentWord.y);
         } else {
-            ctx.moveTo(currentWord.x - currentWord.radius, currentWord.y);
+            ctx.moveTo(getWordLeftEdge(currentWord), currentWord.y);
         }
 
         ctx.lineTo(mouseX, mouseY);
-        
+
         ctx.strokeStyle = "#000";  
         ctx.lineWidth = 2; 
         ctx.stroke();
@@ -378,73 +402,21 @@ canvas.addEventListener("mousemove", (e) => {
 
 canvas.addEventListener("mouseup", (e) => {
     if (draggingLine && currentWord) {
-        const mouseX = e.offsetX;
-        const mouseY = e.offsetY;
-
-        if (currentWord && currentWord.x < leftAreaWidth) {
-            const targetSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
-            if (targetSynonym) {
-                makeConnection(currentWord, targetSynonym);
-            }
-        } else {
-            const targetWord = getWordAtPosition(mouseX, mouseY, words);
-            if (targetWord) {
-                makeConnection(targetWord, currentWord);
-            }
-        }
-
-        draggingLine = false;
-        currentWord = null;
-        drawWords(); 
-    }
-});
-
-canvas.addEventListener("mousedown", (e) => {
-    const mouseX = e.offsetX;
-    const mouseY = e.offsetY;
-
-    const clickedConnection = connections.find(connection => isClickOnCross(mouseX, mouseY, connection));
-
-    if (clickedConnection) {
-        // JeĹ›li klikniÄ™to krzyĹĽyk, usuĹ„ poĹ‚Ä…czenie
-        connections = connections.filter(connection => connection !== clickedConnection);
-        drawWords();
-    } else {
-        // SprawdĹş, czy klikniÄ™to na sĹ‚owo lub synonim
-        const clickedWord = getWordAtPosition(mouseX, mouseY, words);
-        const clickedSynonym = getWordAtPosition(mouseX, mouseY, synonyms);
-
-        if (clickedWord) {
-            currentWord = clickedWord;
-            startX = clickedWord.x;
-            startY = clickedWord.y;
-            draggingLine = true;
-        } 
-        else if (clickedSynonym) {
-            currentWord = clickedSynonym;
-            startX = clickedSynonym.x;
-            startY = clickedSynonym.y;
-            draggingLine = true;
-        }
-    }
-});
-
-canvas.addEventListener("mouseup", (e) => {
-    if (draggingLine && currentWord) {
         const rect = canvas.getBoundingClientRect();
         const scaleX = canvas.width / rect.width;
         const scaleY = canvas.height / rect.height;
-        
+
         const mouseX = (e.clientX - rect.left) * scaleX;
         const mouseY = (e.clientY - rect.top) * scaleY;
 
-        const targetWord = getConnectionPointAtPosition(mouseX, mouseY, words);
-        const targetSynonym = getConnectionPointAtPosition(mouseX, mouseY, synonyms);
+        const target = getConnectionPointAtPosition(mouseX, mouseY);
 
-        if (targetWord && synonyms.includes(currentWord)) {
-            makeConnection(targetWord, currentWord); // PoĹ‚Ä…czenie od sĹ‚owa do synonimu
-        } else if (targetSynonym && words.includes(currentWord)) {
-            makeConnection(currentWord, targetSynonym); // PoĹ‚Ä…czenie od synonimu do sĹ‚owa
+        if (target && target !== currentWord) {
+            if (words.includes(currentWord) && synonyms.includes(target)) {
+                makeConnection(currentWord, target);
+            } else if (synonyms.includes(currentWord) && words.includes(target)) {
+                makeConnection(target, currentWord);
+            }
         }
 
         draggingLine = false;
@@ -453,27 +425,12 @@ canvas.addEventListener("mouseup", (e) => {
     }
 });
 
-function isClickOnCross(x, y, connection) {
-    const wordRectWidth = ctx.measureText(connection.word.text).width + 20;
-    const synonymRectWidth = ctx.measureText(connection.synonym.text).width + 20;
-
-    // Zamiast dodawaÄ‡ staĹ‚y promieĹ„, uwzglÄ™dnij szerokoĹ›Ä‡ tekstu i wylicz miejsce na podstawie pozycji krawÄ™dzi prostokÄ…ta
-    const midX = (connection.word.x + wordRectWidth / 2 + connection.synonym.x - synonymRectWidth / 2) / 2;
-    const midY = (connection.word.y + connection.synonym.y) / 2;
-
-    const dx = x - midX;
-    const dy = y - midY;
-    const distance = Math.sqrt(dx * dx + dy * dy);
-
-    // Zwracamy true, jeĹ›li klikniÄ™to blisko krzyĹĽyka (np. w promieniu 15px)
-    return distance < 15;
-}
-
+// Dodaj nasłuchiwanie zdarzenia kliknięcia, aby obsłużyć usuwanie połączeń przez kliknięcie na krzyżyk
 canvas.addEventListener("click", (e) => {
     const rect = canvas.getBoundingClientRect();
     const scaleX = canvas.width / rect.width;
     const scaleY = canvas.height / rect.height;
-    
+
     const mouseX = (e.clientX - rect.left) * scaleX;
     const mouseY = (e.clientY - rect.top) * scaleY;
 
@@ -484,41 +441,5 @@ canvas.addEventListener("click", (e) => {
         drawWords();
     }
 });
-
-function pointLineDistance(px, py, x1, y1, x2, y2) {
-    const A = px - x1;
-    const B = py - y1;
-    const C = x2 - x1;
-    const D = y2 - y1;
-
-    const dot = A * C + B * D;
-    const len_sq = C * C + D * D;
-    const param = (len_sq !== 0) ? (dot / len_sq) : -1;
-
-    let xx, yy;
-
-    if (param < 0) {
-        xx = x1;
-        yy = y1;
-    } else if (param > 1) {
-        xx = x2;
-        yy = y2;
-    } else {
-        xx = x1 + param * C;
-        yy = y1 + param * D;
-    }
-
-    const dx = px - xx;
-    const dy = py - yy;
-    return Math.sqrt(dx * dx + dy * dy);
-}
-
-function getConnectionAtPosition(x, y) {
-    return connections.find(connection => {
-        const distToLine = pointLineDistance(x, y, connection.word.x, connection.word.y, connection.synonym.x, connection.synonym.y);
-        return distToLine < 5; 
-    });
-}
-
 </script>
 {% endblock %}

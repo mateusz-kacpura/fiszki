@@ -4,11 +4,13 @@ from flask_cors import CORS
 from backend.routes.auth_routes import auth_route
 from backend.routes.user_routes import user_route
 from backend.models.user_model import User
+from flask_wtf.csrf import CSRFProtect
 import config 
 
 app = Flask(__name__, template_folder='frontend/templates', static_folder='frontend/static')
 
 app.config.from_object(config.Config)
+csrf = CSRFProtect(app)
 
 CORS(app)
 

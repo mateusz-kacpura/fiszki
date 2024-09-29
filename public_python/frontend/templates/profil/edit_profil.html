@@ -7,36 +7,23 @@
         <h2 class="text-center mb-3">Wybierz preferencje językowe i ustawienia profilu</h2>
         
         <form method="POST" class="mx-auto" style="max-width: 600px;">
+            {{ form.hidden_tag() }}  <!-- Automatically renders CSRF token -->
+            
             <!-- Preferencje językowe -->
             <div class="form-group mb-3">
                 <label for="language_1" class="form-label">Język 1:</label>
-                <select class="form-select" name="language_1" id="language_1">
-                    {% for lang, options in languages.items() %}
-                        <option value="{{ lang }}" {% if config['language_1'] == lang %}selected{% endif %}>
-                            {{ lang }}
-                        </option>
-                    {% endfor %}
-                </select>
+                {{ form.language_1(class="form-select") }}  <!-- Use WTForms field -->
             </div>
 
             <div class="form-group mb-3">
                 <label for="language_2" class="form-label">Język 2:</label>
-                <select class="form-select" name="language_2" id="language_2">
-                    {% for lang, options in languages[config['language_1']].items() %}
-                        <option value="{{ lang }}" {% if config['language_2'] == lang %}selected{% endif %}>
-                            {{ lang }}
-                        </option>
-                    {% endfor %}
-                </select>
+                {{ form.language_2(class="form-select") }}  <!-- Use WTForms field -->
             </div>
 
             <!-- Ustawienia motywu -->
             <div class="form-group mb-3">
                 <label for="theme" class="form-label">Motyw:</label>
-                <select class="form-select" name="theme" id="theme">
-                    <option value="light" {% if config['theme'] == 'light' %}selected{% endif %}>Jasny</option>
-                    <option value="dark" {% if config['theme'] == 'dark' %}selected{% endif %}>Ciemny</option>
-                </select>
+                {{ form.theme(class="form-select") }}  <!-- Use WTForms field -->
             </div>
 
             <!-- Powiadomienia -->
@@ -49,13 +36,10 @@
                 </select>
             </div>
 
-            <!-- Ustawienia prywatności -->
+            <!-- Prywatność -->
             <div class="form-group mb-3">
                 <label for="privacy" class="form-label">Prywatność profilu:</label>
-                <select class="form-select" name="privacy" id="privacy">
-                    <option value="public" {% if config['privacy'] == 'public' %}selected{% endif %}>Publiczny</option>
-                    <option value="private" {% if config['privacy'] == 'private' %}selected{% endif %}>Prywatny</option>
-                </select>
+                {{ form.privacy(class="form-select") }}  <!-- Use WTForms field -->
             </div>
 
             <!-- Zastosowanie przycisku z Bootstrap -->
@@ -64,6 +48,21 @@
             </div>
         </form>
 
+        <h1>Confirm Account Deletion</h1>
+        <p>Are you sure you want to delete your account? This action cannot be undone.</p>
+
+        <form method="POST" action="{{ url_for('auth.delete_user') }}">
+            {{ form.hidden_tag() }}  <!-- This automatically renders the CSRF token -->
+            
+            <div class="mb-3">
+                <label for="password">Enter your password to confirm:</label>
+                {{ form.password(class="form-control") }}  <!-- Password input from the form object -->
+            </div>
+            
+            <input type="submit" value="Delete Account" class="btn btn-danger">
+            <a href="{{ url_for('user.profil') }}" class="btn btn-secondary">Cancel</a>
+        </form>
+                
         <!-- Wyświetlanie wiadomości przy użyciu klas Bootstrap -->
         {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}

@@ -36,6 +36,7 @@
             </div>
         </div>
         <form method="POST" action="{{ url_for('auth.login') }}">
+            {{ form.hidden_tag() }} <!-- This will automatically insert the CSRF token -->
             <div class="mb-3">
                 <label for="username" class="form-label">Username</label>
                 <input type="text" id="username" name="username" class="form-control" required>

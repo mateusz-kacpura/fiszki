@@ -1,6 +1,7 @@
 from flask import request, jsonify
 from app import app
 from backend.services.lemmatization_service import lemmatize_word
+import json 
 
 @app.route('/process-words', methods=['POST'])
 def process_words():

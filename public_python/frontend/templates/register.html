@@ -36,20 +36,22 @@
             </div>
         </div>
         <form method="POST" action="{{ url_for('auth.register') }}">
+            {{ form.hidden_tag() }}  <!-- Add this line to include CSRF token -->
             <div class="mb-3">
                 <label for="username" class="form-label">Username</label>
-                <input type="text" id="username" name="username" class="form-control" required>
+                {{ form.username(class="form-control", required=True) }}  <!-- Use Flask-WTF field rendering -->
             </div>
             <div class="mb-3">
                 <label for="password" class="form-label">Password</label>
-                <input type="password" id="password" name="password" class="form-control" required>
+                {{ form.password(class="form-control", required=True) }}  <!-- Use Flask-WTF field rendering -->
             </div>
             <div class="mb-3">
                 <label for="confirm_password" class="form-label">Confirm Password</label>
-                <input type="password" id="confirm_password" name="confirm_password" class="form-control" required>
+                {{ form.confirm_password(class="form-control", required=True) }}  <!-- Use Flask-WTF field rendering -->
             </div>
             <button type="submit" class="btn btn-primary">Register</button>
         </form>
+        
         {% with messages = get_flashed_messages(with_categories=true) %}
             {% if messages %}
                 <div class="mt-3">
