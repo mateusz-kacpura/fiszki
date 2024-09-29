@@ -5,11 +5,9 @@
 # Nowy moduł nauki polegający na łączeniu podobnych słów w pary, należy stworzyć nową tabelę JSON
 # Możliwość dodania własnego kodu JavaScript dla użytkownika oraz kodu HTML wczytywanego z JSON użytkownika
 
-
 # issues
 # image_words_learning.js nie dziaĹ‚a odtwarzanie dzwieku po odwruceniu kierunku audio
 # POST	http://127.0.0.1:5000/user/text-to-speech Error: Error: Failed to generate speech
-# 
 #  
 
 from flask import Blueprint, render_template, request, jsonify, make_response

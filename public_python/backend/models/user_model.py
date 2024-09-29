@@ -138,13 +138,12 @@ class User(UserMixin):
                             json.dump(default_config, file, indent=4, ensure_ascii=False)
                         elif filename in [
                             'history_translation.json', 
-                            'insert_word.json', 
                             'synonim_data.json'
                         ]:
-                            # Initialize these files with empty JSON arrays
                             json.dump([], file, indent=4)
                         elif filename == 'sets.json':
-                            # Initialize sets.json with an empty JSON object
+                            json.dump({}, file, indent=4)
+                        elif filename == 'insert_word.json':
                             json.dump({}, file, indent=4)
                         else:
                             # For any other files, just create an empty file

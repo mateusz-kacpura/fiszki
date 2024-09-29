@@ -22,7 +22,7 @@ def filter_files_by_tag(files, folder_path, tag):
 def load_public_files(name, tag, limit, page, LANGUAGE_FLAG):
     """Załaduj pliki z folderu publicznego."""
     load_folder_path = os.path.join(USER_PUBLIC, LANGUAGE_FLAG)
-    
+    print(load_folder_path)
     # Sprawdź, czy folder istnieje
     if not os.path.exists(load_folder_path):
         return jsonify({"error": f"Folder {load_folder_path} nie istnieje", "language_flag": LANGUAGE_FLAG}), 404
@@ -55,7 +55,7 @@ def load_private_files(name, tag, limit, page, LANGUAGE_FLAG):
     """Załaduj prywatne pliki użytkownika i zwróć listę nazw plików."""
     username = current_user.username
     user_sets_path = os.path.join(USER, username, 'user_sets')
-
+    print(user_sets_path)
     try:
         # Lista plików JSON w folderze użytkownika
         json_files = [f for f in os.listdir(user_sets_path) if f.endswith('.json')]
@@ -109,3 +109,4 @@ def load_files_for_learning():
         return load_public_files(name, tag, limit, page, LANGUAGE_FLAG)
     else:
         return load_private_files(name, tag, limit, page, LANGUAGE_FLAG)
+
