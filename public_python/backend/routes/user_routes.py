@@ -1,17 +1,16 @@
-## System tagowania zadaĹ„ i szybliego wyszukiwania interesujacych zadaĹ„ oparty o bardziej zaawansowanÄ… tabelÄ™ json
-# System dodawania pomysĹ‚, co naleĹĽaĹ‚o by zmieniÄ‡ w aplikacji, jaki pomysĹ‚ wdroĹĽyÄ‡ oparty o nowÄ… tabelÄ™ json
-# System dodawania informacji o znalezienionym issues
-# System dodawania nowych zadaĹ„
-# Nowy moduĹ‚ nauki polegajÄ…cy na Ĺ‚Ä…czeniu podobne sĹ‚owa w pary, naleĹĽy stwoĹĽyÄ‡ nowÄ… tabelÄ™ json
-# MoĹĽliwoĹ›Ä‡ dodania wĹ‚asnego kodu javascript dla uĹĽytkownika, oraz kodu html wczytywanego z json uĹĽytkownika
-
+# System tagowania zadań i szybkiego wyszukiwania interesujących zadań oparty o bardziej zaawansowaną tabelę JSON
+# System dodawania pomysłów, co należałoby zmienić w aplikacji, jaki pomysł wdrożyć, oparty o nową tabelę JSON
+# System dodawania informacji o znalezionych błędach (issues)
+# System dodawania nowych zadań
+# Nowy moduł nauki polegający na łączeniu podobnych słów w pary, należy stworzyć nową tabelę JSON
+# Możliwość dodania własnego kodu JavaScript dla użytkownika oraz kodu HTML wczytywanego z JSON użytkownika
 
 
 # issues
 # image_words_learning.js nie dziaĹ‚a odtwarzanie dzwieku po odwruceniu kierunku audio
 # POST	http://127.0.0.1:5000/user/text-to-speech Error: Error: Failed to generate speech
 # 
-# ## 
+#  
 
 from flask import Blueprint, render_template, request, jsonify, make_response
 from flask_login import login_required, current_user
