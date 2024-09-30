@@ -1,1 +1,151 @@
-{}
+{
+    "texts": [
+        {
+            "uuid": "a9403b9e-f9c9-40b9-8f40-e690d20f9442",
+            "name": "TTS models",
+            "tag": "yu",
+            "sentences": [
+                {
+                    "english": "MeloTTS is a high-quality multi-lingual text-to-speech library by @MyShell.",
+                    "missing_words": [
+                        {
+                            "word": "high-quality",
+                            "position": 4
+                        }
+                    ]
+                },
+                {
+                    "english": "ai, supporting languages including English (American, British, Indian, Australian, Default), Spanish, French, Chinese, Japanese, Korean.",
+                    "missing_words": [
+                        {
+                            "word": "languages",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "english": "In the following example, we will use the models in MeloTTS as the base speakers.",
+                    "missing_words": [
+                        {
+                            "word": "we will use",
+                            "position": [
+                                6,
+                                7,
+                                8
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "5ea2ee16-25bf-4e63-86e7-0acba82ad195",
+            "name": "OpenVoice",
+            "tag": "pol",
+            "sentences": [
+                {
+                    "english": "We introduce OpenVoice, a versatile instant voice cloning approach that requires only a short audio clip from the reference speaker to replicate their voice and generate speech in multiple languages.",
+                    "missing_words": [
+                        {
+                            "word": "introduce",
+                            "position": 2
+                        }
+                    ]
+                },
+                {
+                    "english": "OpenVoice enables granular control over voice styles, including emotion, accent, rhythm, pauses, and intonation, in addition to replicating the tone color of the reference speaker.",
+                    "missing_words": [
+                        {
+                            "word": "enables",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "english": "OpenVoice also achieves zero-shot cross-lingual voice cloning for languages not included in the massive-speaker training set.",
+                    "missing_words": [
+                        {
+                            "word": "achieves",
+                            "position": 4
+                        }
+                    ]
+                },
+                {
+                    "english": "OpenVoice is also computationally efficient, costing tens of times less than commercially available APIs that offer even inferior performance.",
+                    "missing_words": [
+                        {
+                            "word": "computationally",
+                            "position": 5
+                        }
+                    ]
+                },
+                {
+                    "english": "The technical report and source code can be found at https://arxiv.",
+                    "missing_words": [
+                        {
+                            "word": "source",
+                            "position": 6
+                        }
+                    ]
+                },
+                {
+                    "english": "org/pdf/2312.",
+                    "missing_words": []
+                },
+                {
+                    "english": "01479.",
+                    "missing_words": []
+                },
+                {
+                    "english": "pdf and https://github.",
+                    "missing_words": []
+                },
+                {
+                    "english": "com/myshell-ai/OpenVoice",
+                    "missing_words": []
+                }
+            ]
+        },
+        {
+            "uuid": "2355d6f1-d7d1-47eb-a2fb-c86129c677df",
+            "name": "CogVideoX",
+            "tag": "CogVideoX",
+            "sentences": [
+                {
+                    "english": "CogVideoX is an open-source video generation model originating from Qingying.",
+                    "missing_words": [
+                        {
+                            "word": "CogVideoX",
+                            "position": 1
+                        }
+                    ]
+                },
+                {
+                    "english": "The table below presents information related to the video generation models we offer in this version.",
+                    "missing_words": [
+                        {
+                            "word": "information",
+                            "position": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "c30cf6d6-3f4e-4825-a7b2-19e169392183",
+            "name": "TTS models  aaa",
+            "tag": "aa",
+            "sentences": [
+                {
+                    "english": "Zaloguj się lub zarejestruj, aby uzyskiwać bardziej inteligentne odpowiedzi, przesyłać pliki oraz obrazy i wiele więcej.",
+                    "missing_words": [
+                        {
+                            "word": "Zaloguj",
+                            "position": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

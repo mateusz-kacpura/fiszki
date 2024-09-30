@@ -14,16 +14,38 @@ def save_texts_for_insert_words_to_text_learning():
     # Get JSON data from request
     data = request.get_json()
 
-    if not data:
+    if not data or "texts" not in data:
         return jsonify({"success": False, "error": "Invalid data"}), 400
 
-    # Save the JSON data to file
+    # Check if the file already exists
+    if os.path.exists(json_file_path):
+        try:
+            # Read existing data
+            with open(json_file_path, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+            
+            # Ensure existing data contains "texts" key
+            if "texts" not in existing_data:
+                existing_data["texts"] = []
+
+            # Append new texts to the existing "texts" array
+            existing_data["texts"].extend(data["texts"])
+            
+        except Exception as e:
+            return jsonify({"success": False, "error": f"Failed to read existing data: {str(e)}"}), 500
+    else:
+        # If file doesn't exist, initialize with new data
+        existing_data = data
+
+    # Save updated data back to file
     try:
         # Ensure the directory exists
         os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
 
+        # Write data to file
         with open(json_file_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
+            json.dump(existing_data, f, ensure_ascii=False, indent=4)
+
         return jsonify({"success": True}), 200
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
