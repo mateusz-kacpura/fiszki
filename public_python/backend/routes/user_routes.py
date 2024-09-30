@@ -42,6 +42,7 @@ from backend.routes.users.save_statistic import save_statistic
 from backend.routes.users.save_setting import save_setting
 from backend.routes.users.manage.uploads_save_json import uploads_save_json
 from backend.routes.users.manage.upload_excel import upload_excel
+from backend.routes.users.manage.save_texts_for_insert_words_to_text_learning import save_texts_for_insert_words_to_text_learning
 from backend.routes.users.profil.edit_profil import edit_profile
 from backend.routes.users.profil.view_profil import view_profile
 from backend.routes.users.learn.load_files_for_learning import load_files_for_learning
@@ -75,6 +76,7 @@ user_route.route('/save_statistic', methods=['POST'])(save_statistic)
 user_route.route('/saveSetting', methods=['POST'])(save_setting)
 user_route.route('/uploads-save-json', methods=['POST'])(uploads_save_json)
 user_route.route('/upload_excel', methods=['POST'])(upload_excel)
+user_route.route('/save_texts_for_insert_words_to_text_learning', methods=['POST'])(save_texts_for_insert_words_to_text_learning)
 
 # Configurations
 UPLOAD_FOLDER = 'uploads'
@@ -116,6 +118,7 @@ routes = [
     ('/learning/insert_word_to_text', 'learning/insert_word_to_text.html', 'Insert word to text', 'insert_word_to_text'),
     ('/learning/synonims', 'learning/insert_synonims_to_text.html', 'Insert synonims to text', 'insert_synonims_to_text'),
     ('/manage/exel', 'manage/exel.html', 'Excel', 'exel'),
+    ('/manage/load_text', 'manage/load_text.html', 'load_text', 'load_text'),
 ]
 
 def create_view_function(template, title=None):
