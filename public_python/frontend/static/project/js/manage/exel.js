@@ -692,7 +692,7 @@ function toggleSelectAllRows(selectAllCheckbox) {
 
 function generateTableRows(data) {
     let tbody = document.querySelector('#data-table tbody');
-    tbody.innerHTML = ''; // CzyĹ›ci istniejÄ…ce wiersze
+    tbody.innerHTML = ''; // CzyĹ›ci istniejące wiersze
 
     data.forEach((row, index) => {
         let tr = document.createElement('tr');

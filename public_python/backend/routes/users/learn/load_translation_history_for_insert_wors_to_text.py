@@ -21,7 +21,7 @@ def load_translation_history_for_insert_wors_to_text():
         with open(json_file_path, encoding='utf-8') as f:
             text_data = json.load(f)
     except FileNotFoundError:
-        return jsonify({"translations": []}), 200  # Zwracamy pustÄ… listÄ™, jeĹ›li plik nie istnieje
+        return jsonify({"translations": []}), 200  # Zwracamy pustą listÄ™, jeĹ›li plik nie istnieje
 
     # Znajdujemy wpis dla danego pliku
     entry_found = next((entry for entry in text_data if entry['selectedTextName'] == name), None)
@@ -29,4 +29,4 @@ def load_translation_history_for_insert_wors_to_text():
     if entry_found:
         return jsonify({"translations": entry_found['translations']}), 200
     else:
-        return jsonify({"translations": []}), 200  # JeĹ›li nie ma wpisu, zwracamy pustÄ… listÄ™
+        return jsonify({"translations": []}), 200  # JeĹ›li nie ma wpisu, zwracamy pustą listÄ™

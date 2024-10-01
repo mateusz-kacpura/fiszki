@@ -44,7 +44,7 @@ def text_to_speech_groq():
             with open(audio_path, 'wb') as audio_file:
                 audio_file.write(audio_content)
 
-            print("Plik zostaĹ‚ zapisany pod Ĺ›cieĹĽkÄ…: ", audio_path)
+            print("Plik zostaĹ‚ zapisany pod Ĺ›cieĹĽką: ", audio_path)
     
         else:
             print(f"Audio file already exists: {mp3_path}")

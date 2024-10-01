@@ -37,7 +37,7 @@ def text_to_speech():
                 device = "cuda" if torch.cuda.is_available() else "cpu"
                 model = BarkModel.from_pretrained(BARK_MODEL, torch_dtype=torch.float16, attn_implementation="flash_attention_2").to(device)
             
-                # enable CPU offload / wĹ‚Ä…cz dodatkowo obciÄ…ĹĽenie CPU
+                # enable CPU offload / wĹ‚ącz dodatkowo obciąĹĽenie CPU
                 model.enable_cpu_offload()
             else:
                 # Run with CPU

@@ -26,9 +26,9 @@ def save_history_translations_for_insert_words_to_text():
             try:
                 text_data = json.load(f)
             except json.JSONDecodeError:
-                text_data = []  # JeĹ›li plik jest pusty lub uszkodzony, inicjujemy pustÄ… listÄ™
+                text_data = []  # JeĹ›li plik jest pusty lub uszkodzony, inicjujemy pustą listÄ™
     except FileNotFoundError:
-        text_data = []  # JeĹ›li plik nie istnieje, inicjujemy pustÄ… listÄ™
+        text_data = []  # JeĹ›li plik nie istnieje, inicjujemy pustą listÄ™
 
     # Znajdujemy zapis dla podanej nazwy pliku (selectedTextName)
     entry_found = next((entry for entry in text_data if entry['selectedTextName'] == name), None)

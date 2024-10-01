@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (positions.length === 1) {
           sentenceData.missing_words.push({
             "word": wordText,
-            "position": positions[0],
+            "position": positions[0] - 1,
           });
         } else {
           sentenceData.missing_words.push({

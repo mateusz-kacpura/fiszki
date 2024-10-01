@@ -1,149 +1,292 @@
 {
     "texts": [
         {
-            "uuid": "a9403b9e-f9c9-40b9-8f40-e690d20f9442",
-            "name": "TTS models",
-            "tag": "yu",
+            "uuid": "f57c806f-1ba9-4b89-9ad0-21cf852b6707",
+            "name": "trewqwer",
+            "tag": "qwert",
             "sentences": [
                 {
-                    "english": "MeloTTS is a high-quality multi-lingual text-to-speech library by @MyShell.",
+                    "english": "The evaluation of voice cloning is hard to be objective for several reasons.",
                     "missing_words": [
                         {
-                            "word": "high-quality",
-                            "position": 4
-                        }
-                    ]
-                },
-                {
-                    "english": "ai, supporting languages including English (American, British, Indian, Australian, Default), Spanish, French, Chinese, Japanese, Korean.",
-                    "missing_words": [
-                        {
-                            "word": "languages",
-                            "position": 3
-                        }
-                    ]
-                },
-                {
-                    "english": "In the following example, we will use the models in MeloTTS as the base speakers.",
-                    "missing_words": [
-                        {
-                            "word": "we will use",
-                            "position": [
-                                6,
-                                7,
-                                8
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "uuid": "5ea2ee16-25bf-4e63-86e7-0acba82ad195",
-            "name": "OpenVoice",
-            "tag": "pol",
-            "sentences": [
-                {
-                    "english": "We introduce OpenVoice, a versatile instant voice cloning approach that requires only a short audio clip from the reference speaker to replicate their voice and generate speech in multiple languages.",
-                    "missing_words": [
-                        {
-                            "word": "introduce",
+                            "word": "evaluation",
                             "position": 2
                         }
                     ]
                 },
                 {
-                    "english": "OpenVoice enables granular control over voice styles, including emotion, accent, rhythm, pauses, and intonation, in addition to replicating the tone color of the reference speaker.",
+                    "english": "First, different research\nstudies (e.",
                     "missing_words": [
                         {
-                            "word": "enables",
+                            "word": "different",
                             "position": 3
                         }
                     ]
                 },
                 {
-                    "english": "OpenVoice also achieves zero-shot cross-lingual voice cloning for languages not included in the massive-speaker training set.",
+                    "english": "g.",
+                    "missing_words": []
+                },
+                {
+                    "english": ", [ 8 ], [2 ]) usually have different training and test sets.",
                     "missing_words": [
                         {
-                            "word": "achieves",
+                            "word": "usually",
+                            "position": 7
+                        }
+                    ]
+                },
+                {
+                    "english": "The numerical comparison could\nbe intrinsically unfair.",
+                    "missing_words": [
+                        {
+                            "word": "comparison",
                             "position": 4
                         }
                     ]
                 },
                 {
-                    "english": "OpenVoice is also computationally efficient, costing tens of times less than commercially available APIs that offer even inferior performance.",
+                    "english": "Even their metrics such as Mean Opinion Score can be evaluated by crowd-\nsourcing, the diversity and difficulty of the test set would significantly influence the results.",
                     "missing_words": [
                         {
-                            "word": "computationally",
-                            "position": 5
+                            "word": "their",
+                            "position": 3
                         }
                     ]
                 },
                 {
-                    "english": "The technical report and source code can be found at https://arxiv.",
+                    "english": "For\nexample, if many samples in the test set are neural voices that concentrate on the mean of human\nvoice distributions, then it is relatively easy for most methods to achieve good voice cloning results.",
                     "missing_words": [
                         {
-                            "word": "source",
-                            "position": 6
+                            "word": "example,",
+                            "position": 3
                         }
                     ]
                 },
                 {
-                    "english": "org/pdf/2312.",
+                    "english": "Second, different studies usually have different training sets, where the scale and diversity would have\nconsiderable influence of the results.",
+                    "missing_words": [
+                        {
+                            "word": "different",
+                            "position": 3
+                        }
+                    ]
+                },
+                {
+                    "english": "Third, different studies can have different focus on their core\nfunctionalities.",
+                    "missing_words": [
+                        {
+                            "word": "Third,",
+                            "position": 2
+                        }
+                    ]
+                },
+                {
+                    "english": "OpenVoice mainly aims at tone color cloning, flexible control over style parameters,\nand making cross-lingual voice clone easy even without massive-speaker data for a new language.",
+                    "missing_words": [
+                        {
+                            "word": "OpenVoice",
+                            "position": 2
+                        }
+                    ]
+                },
+                {
+                    "english": "These are different from the objectives of previous work on voice cloning or zero-shot TTS.",
+                    "missing_words": [
+                        {
+                            "word": "These",
+                            "position": 2
+                        }
+                    ]
+                },
+                {
+                    "english": "Therefore,\ninstead of comparing numerical scores with existing methods, we mainly focus on analyzing the\nqualitative performance of OpenVoice itself, and make the audio samples publicly available for\nrelevant researchers to freely evaluate.",
+                    "missing_words": [
+                        {
+                            "word": "instead",
+                            "position": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "72e9e207-d91e-4e84-8f3c-7c80db700006",
+            "name": "trewqwer",
+            "tag": "",
+            "sentences": [
+                {
+                    "english": "The evaluation of voice cloning is hard to be objective for several reasons.",
                     "missing_words": []
                 },
                 {
-                    "english": "01479.",
+                    "english": "First, different research\nstudies (e.",
                     "missing_words": []
                 },
                 {
-                    "english": "pdf and https://github.",
+                    "english": "g.",
                     "missing_words": []
                 },
                 {
-                    "english": "com/myshell-ai/OpenVoice",
+                    "english": ", [ 8 ], [2 ]) usually have different training and test sets.",
+                    "missing_words": []
+                },
+                {
+                    "english": "The numerical comparison could\nbe intrinsically unfair.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Even their metrics such as Mean Opinion Score can be evaluated by crowd-\nsourcing, the diversity and difficulty of the test set would significantly influence the results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "For\nexample, if many samples in the test set are neural voices that concentrate on the mean of human\nvoice distributions, then it is relatively easy for most methods to achieve good voice cloning results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Second, different studies usually have different training sets, where the scale and diversity would have\nconsiderable influence of the results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Third, different studies can have different focus on their core\nfunctionalities.",
+                    "missing_words": []
+                },
+                {
+                    "english": "OpenVoice mainly aims at tone color cloning, flexible control over style parameters,\nand making cross-lingual voice clone easy even without massive-speaker data for a new language.",
+                    "missing_words": []
+                },
+                {
+                    "english": "These are different from the objectives of previous work on voice cloning or zero-shot TTS.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Therefore,\ninstead of comparing numerical scores with existing methods, we mainly focus on analyzing the\nqualitative performance of OpenVoice itself, and make the audio samples publicly available for\nrelevant researchers to freely evaluate.",
                     "missing_words": []
                 }
             ]
         },
         {
-            "uuid": "2355d6f1-d7d1-47eb-a2fb-c86129c677df",
-            "name": "CogVideoX",
-            "tag": "CogVideoX",
+            "uuid": "aabc97d5-41aa-4d79-9fc6-a41016473afb",
+            "name": "hjkl",
+            "tag": "",
             "sentences": [
                 {
-                    "english": "CogVideoX is an open-source video generation model originating from Qingying.",
+                    "english": "The evaluation of voice cloning is hard to be objective for several reasons.",
+                    "missing_words": []
+                },
+                {
+                    "english": "First, different research\nstudies (e.",
+                    "missing_words": []
+                },
+                {
+                    "english": "g.",
+                    "missing_words": []
+                },
+                {
+                    "english": ", [ 8 ], [2 ]) usually have different training and test sets.",
+                    "missing_words": []
+                },
+                {
+                    "english": "The numerical comparison could\nbe intrinsically unfair.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Even their metrics such as Mean Opinion Score can be evaluated by crowd-\nsourcing, the diversity and difficulty of the test set would significantly influence the results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "For\nexample, if many samples in the test set are neural voices that concentrate on the mean of human\nvoice distributions, then it is relatively easy for most methods to achieve good voice cloning results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Second, different studies usually have different training sets, where the scale and diversity would have\nconsiderable influence of the results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Third, different studies can have different focus on their core\nfunctionalities.",
+                    "missing_words": []
+                },
+                {
+                    "english": "OpenVoice mainly aims at tone color cloning, flexible control over style parameters,\nand making cross-lingual voice clone easy even without massive-speaker data for a new language.",
+                    "missing_words": []
+                },
+                {
+                    "english": "These are different from the objectives of previous work on voice cloning or zero-shot TTS.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Therefore,\ninstead of comparing numerical scores with existing methods, we mainly focus on analyzing the\nqualitative performance of OpenVoice itself, and make the audio samples publicly available for\nrelevant researchers to freely evaluate.",
+                    "missing_words": []
+                }
+            ]
+        },
+        {
+            "uuid": "03b5e8a3-0794-4f83-99cf-425e038d1db7",
+            "name": "ghjk",
+            "tag": "",
+            "sentences": [
+                {
+                    "english": "The evaluation of voice cloning is hard to be objective for several reasons.",
                     "missing_words": [
                         {
-                            "word": "CogVideoX",
+                            "word": "evaluation",
                             "position": 1
                         }
                     ]
                 },
                 {
-                    "english": "The table below presents information related to the video generation models we offer in this version.",
+                    "english": "First, different research\nstudies (e.",
                     "missing_words": [
                         {
-                            "word": "information",
-                            "position": 6
+                            "word": "different",
+                            "position": 2
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "uuid": "c30cf6d6-3f4e-4825-a7b2-19e169392183",
-            "name": "TTS models  aaa",
-            "tag": "aa",
-            "sentences": [
+                },
                 {
-                    "english": "Zaloguj się lub zarejestruj, aby uzyskiwać bardziej inteligentne odpowiedzi, przesyłać pliki oraz obrazy i wiele więcej.",
+                    "english": "g.",
+                    "missing_words": []
+                },
+                {
+                    "english": ", [ 8 ], [2 ]) usually have different training and test sets.",
+                    "missing_words": []
+                },
+                {
+                    "english": "The numerical comparison could\nbe intrinsically unfair.",
                     "missing_words": [
                         {
-                            "word": "Zaloguj",
-                            "position": 1
+                            "word": "numerical",
+                            "position": 2
                         }
                     ]
+                },
+                {
+                    "english": "Even their metrics such as Mean Opinion Score can be evaluated by crowd-\nsourcing, the diversity and difficulty of the test set would significantly influence the results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "For\nexample, if many samples in the test set are neural voices that concentrate on the mean of human\nvoice distributions, then it is relatively easy for most methods to achieve good voice cloning results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Second, different studies usually have different training sets, where the scale and diversity would have\nconsiderable influence of the results.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Third, different studies can have different focus on their core\nfunctionalities.",
+                    "missing_words": []
+                },
+                {
+                    "english": "OpenVoice mainly aims at tone color cloning, flexible control over style parameters,\nand making cross-lingual voice clone easy even without massive-speaker data for a new language.",
+                    "missing_words": []
+                },
+                {
+                    "english": "These are different from the objectives of previous work on voice cloning or zero-shot TTS.",
+                    "missing_words": []
+                },
+                {
+                    "english": "Therefore,\ninstead of comparing numerical scores with existing methods, we mainly focus on analyzing the\nqualitative performance of OpenVoice itself, and make the audio samples publicly available for\nrelevant researchers to freely evaluate.",
+                    "missing_words": []
                 }
             ]
         }

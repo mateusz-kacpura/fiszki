@@ -32,7 +32,7 @@ def get_texts_for_insert_words_to_text():
     # Zastosowanie limitu
     limited_texts = filtered_texts[:limit]
 
-    # Zwracanie listy tekstĂłw, obsĹ‚uga brakujÄ…cych danych
+    # Zwracanie listy tekstĂłw, obsĹ‚uga brakujących danych
     text_names = [{"name": text.get("name", "Brak nazwy"), "uuid": text.get("uuid", "Brak UUID"), "tag": text.get("tag", "")} for text in limited_texts]
 
     return jsonify({"text_names": text_names})

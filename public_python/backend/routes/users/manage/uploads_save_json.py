@@ -22,5 +22,5 @@ def uploads_save_json():
         return jsonify(success=True, file_path=file_path)
     except Exception as e:
         # Logowanie bĹ‚Ä™du
-        upload_logger.error(f"BĹ‚Ä…d podczas zapisywania pliku: {e}")
+        upload_logger.error(f"BĹ‚ąd podczas zapisywania pliku: {e}")
         return jsonify(success=False)
