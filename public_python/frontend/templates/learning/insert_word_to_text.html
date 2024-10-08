@@ -73,7 +73,7 @@ function showAlertOnceInInterval(message, type) {
 
 /////////////////////////////////////////////////
 
-// #        LOGIKA WCZYTYWANIA TEKSTĂ“W        #//
+// #        LOGIKA WCZYTYWANIA TEKSTÓW        #//
 
 /////////////////////////////////////////////////
 
@@ -159,16 +159,16 @@ function filterTextsByTag() {
     decideWhichTextToLoad();
 }
 
-/////////////////////////////////////////////////
+///////////////////////////////////////////////
 
-// #        LOGIKA WYĹšWIETLANIA TEKSTU        #//
+// # LOGIKA WYŚWIETLANIA TEKSTU #//
 
-/////////////////////////////////////////////////
+///////////////////////////////////////////////
 
 // Funkcja pobierająca i wyświetlająca wybrany tekst
 function fetchAndLoadText(textName) {
     selectedWords = [];
-    wordCount = "";
+    wordCount = {};
 
     // Usunięcie podświetlenia z poprzednio aktywnego elementu
     const previousActiveItem = document.querySelector('.list-group-item.active-text');
@@ -182,256 +182,259 @@ function fetchAndLoadText(textName) {
         activeItem.classList.add('active-text');
     }
 
-    if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;} // if exist actionBubble in html remove from html
-    fetch(`/user/get_texts_data_for_insert_fot_text?name=${encodeURIComponent(textName)}`)
-        .then(response => response.json())
-        .then(data => {
-            const textData = data.texts[0];
-            const wordCount = calculateWordCount(textData);
-            const fullTextHtml = generateTextHtml(textData);
-            selectedTextName = textName
-            updateTextContainer(fullTextHtml); // Aktualizacja kontenera z tekstem
-            initializeWordContainer(wordCount); // Inicjalizacja kontenera z rozsypanką słów
-            showAlert(`Tekst: "${textName}" został załadowany!`, 'success');
-        })
-        .catch(error => {
-            console.error('Błąd przy pobieraniu tekstu:', error);
-            showAlert('Błąd przy wczytywaniu tekstu.', 'danger');
-        });
+    if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;
+
+} // if exist actionBubble in html remove from html
+
+fetch(`/user/get_texts_data_for_insert_fot_text?name=${encodeURIComponent(textName)}`)
+    .then(response => response.json())
+    .then(data => {
+        const textData = data.texts[0];
+        wordCount = calculateWordCount(textData);
+        const fullTextHtml = generateTextHtml(textData);
+        selectedTextName = textName;
+        updateTextContainer(fullTextHtml); // Aktualizacja kontenera z tekstem
+        initializeWordContainer(); // Inicjalizacja kontenera z rozsypanką słów
+        showAlert(`Tekst: "${textName}" został załadowany!`, 'success');
+    })
+    .catch(error => {
+        console.error('Błąd przy pobieraniu tekstu:', error);
+        showAlert('Błąd przy wczytywaniu tekstu.', 'danger');
+    });
+
 }
 
 // Funkcja obliczająca ilość brakujących słów
 function calculateWordCount(textData) {
-    return textData.sentences.reduce((count, sentence) => {
-        sentence.missing_words.forEach(missingWord => {
-            const word = missingWord.word;
-            count[word] = (count[word] || 0) + 1;
-        });
-        return count;
-    }, {});
+return textData.sentences.reduce((count, sentence) => {
+sentence.missing_words.forEach(missingWord => {
+const word = missingWord.word;
+count[word] = (count[word] || 0) + 1;
+});
+return count;
+}, {});
 }
 
 // Funkcja generująca HTML dla całego tekstu
 function generateTextHtml(textData) {
-    let bufforMissingWord = null; // Używamy null do sprawdzenia, czy brakujące słowo zmieniło się
+let bufforMissingWord = null; // Używamy null do sprawdzenia, czy brakujące słowo zmieniło się
 
-    return textData.sentences.map((sentence, sentenceIndex) => {
-        return sentence.english.split(' ').map((word, positionIndex) => {
-            const missingWord = sentence.missing_words.find(mw => {
-                const isMultiplePositions = Array.isArray(mw.position);
-                return isMultiplePositions
-                    ? mw.position.includes(positionIndex + 1)
-                    : mw.position === positionIndex + 1;
-            });
+return textData.sentences.map((sentence, sentenceIndex) => {
+    return sentence.english.split(' ').map((word, positionIndex) => {
+        const missingWord = sentence.missing_words.find(mw => {
+            const isMultiplePositions = Array.isArray(mw.position);
+            return isMultiplePositions
+                ? mw.position.includes(positionIndex + 1)
+                : mw.position === positionIndex + 1;
+        });
 
-            if (missingWord && (bufforMissingWord === null || bufforMissingWord.word !== missingWord.word)) {
-                // Jeżeli brakujące słowo się zmieniło
-                if (bufforMissingWord !== null) {
-                    // Dodaj HTML dla poprzedniego brakującego słowa, jeżeli istnieje
-                    const missingWordLength = bufforMissingWord.word.split(' ').length;
-                    positionIndex += missingWordLength - 1;
-                }
-                // Zaktualizuj bufforMissingWord
-                bufforMissingWord = missingWord;
-                return `<span class="droppable word-button" data-word="${missingWord.word}" data-index="${sentenceIndex}-${positionIndex}">____</span>`;
+        if (missingWord && (bufforMissingWord === null || bufforMissingWord.word !== missingWord.word)) {
+            // Jeżeli brakujące słowo się zmieniło
+            if (bufforMissingWord !== null) {
+                // Dodaj HTML dla poprzedniego brakującego słowa, jeżeli istnieje
+                const missingWordLength = bufforMissingWord.word.split(' ').length;
+                positionIndex += missingWordLength - 1;
             }
+            // Zaktualizuj bufforMissingWord
+            bufforMissingWord = missingWord;
+            return `<span class="droppable word-button" data-word="${missingWord.word}" data-index="${sentenceIndex}-${positionIndex}">____</span>`;
+        }
 
-            const isPartOfMissingWord = sentence.missing_words.some(mw => {
-                return Array.isArray(mw.position) ? mw.position.includes(positionIndex + 1) : mw.position === positionIndex + 1;
-            });
+        const isPartOfMissingWord = sentence.missing_words.some(mw => {
+            return Array.isArray(mw.position) ? mw.position.includes(positionIndex + 1) : mw.position === positionIndex + 1;
+        });
 
-            if (!isPartOfMissingWord) {
-                return `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button>`;
-            }
+        if (!isPartOfMissingWord) {
+            return `<button class="word-button" data-word="${word}" data-index="${sentenceIndex}-${positionIndex}">${word}</button>`;
+        }
 
-            return ''; // Jeśli słowo jest częścią brakującego słowa, nie generujemy HTML dla niego
-        }).join(' ');
+        return ''; // Jeśli słowo jest częścią brakującego słowa, nie generujemy HTML dla niego
     }).join(' ');
+}).join(' ');
+
 }
 
 // Funkcja aktualizująca zawartość kontenera z tekstem
 function updateTextContainer(html) {
-    textContainer.innerHTML = html;
+textContainer.innerHTML = html;
 }
 
 // Funkcja inicjalizująca kontener z rozsypanką słów
-function initializeWordContainer(wordCount) {
-    const usedWords = new Set();
-    updateWordContainer(wordCount, usedWords);
-
-    function updateWordContainer(wordCount, usedWords) {
-        wordContainer.innerHTML = ''; // Czyszczenie kontenera
-        const words = shuffleArray(getAvailableWords(wordCount, usedWords));
-        words.forEach(createDraggableWord); // Tworzenie słów do przeciągania
-    }
-
-    // Funkcja zwracająca dostępne słowa
-    function getAvailableWords(wordCount, usedWords) {
-        let words = [];
-        Object.keys(wordCount).forEach(word => {
-            if (wordCount[word] > 0 && !usedWords.has(word)) {
-                for (let i = 0; i < wordCount[word]; i++) {
-                    words.push(word);
-                }
-            }
-        });
-        return words;
-    }
-
-    // Funkcja do losowego przetasowania tablicy
-    function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
-        return array;
-    }
-
-    // Funkcja tworząca elementy słów do przeciągania
-    function createDraggableWord(word) {
-        const wordElement = document.createElement('div');
-        wordElement.classList.add('image-option');
-        wordElement.innerText = word;
-        wordElement.draggable = true;
-        wordElement.ondragstart = drag;
-        wordContainer.appendChild(wordElement);
-    }
+function initializeWordContainer() {
+updateWordContainer();
 }
 
-/////////////////////////////////////////////////
+function updateWordContainer() {
+wordContainer.innerHTML = ''; // Czyszczenie kontenera
+const words = shuffleArray(getAvailableWords());
+words.forEach(createDraggableWord); // Tworzenie słów do przeciągania
+}
 
-// #    LOGIKA WSTAWIANIA SĹĂ“W W PUSTE POLA   #//
+// Funkcja zwracająca dostępne słowa
+function getAvailableWords() {
+let words = [];
+Object.keys(wordCount).forEach(word => {
+if (wordCount[word] > 0) {
+for (let i = 0; i < wordCount[word]; i++) {
+words.push(word);
+}
+}
+});
+return words;
+}
 
-/////////////////////////////////////////////////
+// Funkcja do losowego przetasowania tablicy
+function shuffleArray(array) {
+for (let i = array.length - 1; i > 0; i--) {
+const j = Math.floor(Math.random() * (i + 1));
+[array[i], array[j]] = [array[j], array[i]];
+}
+return array;
+}
+
+// Funkcja tworząca elementy słów do przeciągania
+function createDraggableWord(word) {
+const wordElement = document.createElement('div');
+wordElement.classList.add('image-option');
+wordElement.innerText = word;
+wordElement.draggable = true;
+wordElement.ondragstart = drag;
+wordContainer.appendChild(wordElement);
+}
+
+///////////////////////////////////////////////
+
+// # LOGIKA WSTAWIANIA SŁÓWEK W PUSTE POLA #//
+
+///////////////////////////////////////////////
 
 // Obsługa zaznaczania i odznaczania słów
 textContainer.addEventListener('mousedown', function(event) {
-    if (event.target.classList.contains('word-button')) {
-        isMouseDown = true;
-        toggleSelection(event.target);
-        updateBubble(event);
-    }
+if (event.target.classList.contains('word-button')) {
+isMouseDown = true;
+toggleSelection(event.target);
+updateBubble(event);
+}
 });
 
 textContainer.addEventListener('mouseover', function(event) {
-    if (isMouseDown && event.target.classList.contains('word-button')) {
-        toggleSelection(event.target);
-        updateBubble(event);
-    }
+if (isMouseDown && event.target.classList.contains('word-button')) {
+toggleSelection(event.target);
+updateBubble(event);
+}
 });
 
 textContainer.addEventListener('mouseup', function(event) {
-    isMouseDown = false;
-    if (selectedWords.length > 0) {
-        updateBubble(event, true);
-    }
+isMouseDown = false;
+if (selectedWords.length > 0) {
+updateBubble(event, true);
+}
 });
 
 document.addEventListener('mouseup', function() {
-    isMouseDown = false;
+isMouseDown = false;
 });
 
 let lastSelectedIndex = -1; // Przechowuje ostatni zaznaczony indeks
 
 function toggleSelection(element) {
-    const word = element.dataset.word; // Pobieramy słowo z atrybutu data
-    const wordIndex = element.dataset.index; // Pobieramy indeks słowa
+const word = element.dataset.word; // Pobieramy słowo z atrybutu data
+const wordIndex = element.dataset.index; // Pobieramy indeks słowa
 
-    const [sentenceIndex, positionIndex] = wordIndex.split('-').map(Number);
+const [sentenceIndex, positionIndex] = wordIndex.split('-').map(Number);
 
-    // Sprawdzamy, czy element jest już zaznaczony (usuwanie zaznaczenia)
-    if (element.classList.contains('selected')) {
-        element.classList.remove('selected');
-        selectedWords = selectedWords.filter(selectedWord => selectedWord !== word);
-        lastSelectedIndex = selectedWords.length > 0 ? wordIndex : -1;
-        return;
-    }
+// Sprawdzamy, czy element jest już zaznaczony (usuwanie zaznaczenia)
+if (element.classList.contains('selected')) {
+    element.classList.remove('selected');
+    selectedWords = selectedWords.filter(selectedWord => selectedWord !== word);
+    lastSelectedIndex = selectedWords.length > 0 ? wordIndex : -1;
+    return;
+}
 
-    // Jeśli nie ma zaznaczonych słów, zaznacz pierwsze słowo
-    if (selectedWords.length === 0) {
-        element.classList.add('selected');
-        selectedWords.push(word);
-        lastSelectedIndex = wordIndex;
-        return;
-    }
+// Jeśli nie ma zaznaczonych słów, zaznacz pierwsze słowo
+if (selectedWords.length === 0) {
+    element.classList.add('selected');
+    selectedWords.push(word);
+    lastSelectedIndex = wordIndex;
+    return;
+}
 
-    const [lastSentenceIndex, lastPositionIndex] = lastSelectedIndex.split('-').map(Number);
+const [lastSentenceIndex, lastPositionIndex] = lastSelectedIndex.split('-').map(Number);
 
-    // Sprawdzenie, czy bieżący indeks jest poprawną kontynuacją zaznaczenia
-    if (sentenceIndex === lastSentenceIndex && positionIndex >= lastPositionIndex) {
-        // Zaznaczenie wszystkich słów między ostatnim zaznaczonym a bieżącym
-        const buttons = [...textContainer.querySelectorAll('.word-button')];
-        const startIndex = buttons.findIndex(btn => btn.dataset.index === lastSelectedIndex);
-        const endIndex = buttons.findIndex(btn => btn.dataset.index === wordIndex);
+// Sprawdzenie, czy bieżący indeks jest poprawną kontynuacją zaznaczenia
+if (sentenceIndex === lastSentenceIndex && positionIndex >= lastPositionIndex) {
+    // Zaznaczenie wszystkich słów między ostatnim zaznaczonym a bieżącym
+    const buttons = [...textContainer.querySelectorAll('.word-button')];
+    const startIndex = buttons.findIndex(btn => btn.dataset.index === lastSelectedIndex);
+    const endIndex = buttons.findIndex(btn => btn.dataset.index === wordIndex);
 
-        for (let i = startIndex; i <= endIndex; i++) {
-            const btn = buttons[i];
-            if (!btn.classList.contains('selected')) {
-                btn.classList.add('selected');
-                selectedWords.push(btn.dataset.word);
-            }
+    for (let i = startIndex; i <= endIndex; i++) {
+        const btn = buttons[i];
+        if (!btn.classList.contains('selected')) {
+            btn.classList.add('selected');
+            selectedWords.push(btn.dataset.word);
         }
-
-        lastSelectedIndex = wordIndex;
-        selectedWords = [selectedWords.join(' ')]; // Ĺączymy słowa w jedną frazę
-    } else {
-        showAlert("Słowa muszą być zaznaczane po kolei!", 'warning');
     }
 
-    if (selectedWords.length === 0 && actionBubble) {
-        actionBubble.style.display = 'none';
-    }
+    lastSelectedIndex = wordIndex;
+    selectedWords = [selectedWords.join(' ')]; // Łączymy słowa w jedną frazę
+} else {
+    showAlert("Słowa muszą być zaznaczane po kolei!", 'warning');
+}
+
+if (selectedWords.length === 0 && actionBubble) {
+    actionBubble.style.display = 'none';
+}
+
 }
 
 // Obsługa przeciągania i upuszczania
 function allowDrop(event) {
-    event.preventDefault();
+event.preventDefault();
 }
 
 function drag(event) {
-    event.dataTransfer.setData('text', event.target.innerText);
+event.dataTransfer.setData('text', event.target.innerText);
 }
 
 function drop(event) {
-    event.preventDefault();
-    const draggedWord = event.dataTransfer.getData('text');
-    const target = event.target;
+event.preventDefault();
+const draggedWord = event.dataTransfer.getData('text');
+const target = event.target;
 
-    if (target.classList.contains('droppable') && draggedWord === target.dataset.word) {
-        target.innerText = draggedWord;
-        target.classList.add('correct');
-        target.classList.remove('droppable');
-        target.classList.add('word-button');
+if (target.classList.contains('droppable') && draggedWord === target.dataset.word) {
+    target.innerText = draggedWord;
+    target.classList.add('correct');
+    target.classList.remove('droppable');
+    target.classList.add('word-button');
 
-        wordCount[draggedWord]--;
-        if (wordCount[draggedWord] <= 0) {
-            usedWords.add(draggedWord);
-            updateWordContainer();
-        }
-    }
+    wordCount[draggedWord]--;
+    updateWordContainer(); // Aktualizujemy rozsypankę słów
+}
+
 }
 
 // Obsługa urządzeń dotykowych (mobile)
 textContainer.addEventListener('touchstart', function(event) {
-    if (event.target.classList.contains('word-button')) {
-        toggleSelection(event.target);
-        updateBubble(event.touches[0]);
-    }
+if (event.target.classList.contains('word-button')) {
+toggleSelection(event.target);
+updateBubble(event.touches[0]);
+}
 });
 
 textContainer.addEventListener('touchmove', function(event) {
-    const touch = event.touches[0];
-    const element = document.elementFromPoint(touch.clientX, touch.clientY);
-    if (element && element.classList.contains('word-button')) {
-        toggleSelection(element);
-        updateBubble(touch);
-    }
+const touch = event.touches[0];
+const element = document.elementFromPoint(touch.clientX, touch.clientY);
+if (element && element.classList.contains('word-button')) {
+toggleSelection(element);
+updateBubble(touch);
+}
 });
 
 textContainer.addEventListener('touchend', function(event) {
-    if (selectedWords.length > 0) {
-        updateBubble(event.changedTouches[0], true);
-    }
+if (selectedWords.length > 0) {
+updateBubble(event.changedTouches[0], true);
+}
 });
 
 document.addEventListener('dragover', allowDrop);
@@ -585,7 +588,7 @@ function clearSelections() {
 
 /////////////////////////////////////////////////
 
-// #       CZÄĹšÄ† ZARZÄ„DZANIA HISTORIÄ„        #//
+// #       CZĘŚĆ ZARZĄDZANIA HISTORIĄ        #//
 
 /////////////////////////////////////////////////
 
