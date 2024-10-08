@@ -10,41 +10,41 @@ let excludedWords = [];
 
 ///////////////////////////////////
 
-    // Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
-    function handleDateChange(mutationsList, observer) {
-        for (const mutation of mutationsList) {
-            if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
-                console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
-                // Wywołanie funkcji z innego pliku
-                generateRandomWord();
-            }
+// Funkcja, która będzie wywoływana przy zmianie ukrytego elementu
+function handleDateChange(mutationsList, observer) {
+    for (const mutation of mutationsList) {
+        if (mutation.type === 'attributes' && mutation.attributeName === 'data-date') {
+            console.log('Date attribute updated:', mutation.target.getAttribute('data-date'));
+            // Wywołanie funkcji z innego pliku
+            generateRandomWord();
         }
-      }
+    }
+}
+
+// Funkcja do rozpoczęcia obserwacji
+function startObservingDateChange() {
+    const hiddenDateElement = document.getElementById('hiddenDate');
+
+    // Konfiguracja MutationObserver
+    const observer = new MutationObserver(handleDateChange);
+
+    // Obserwacja zmian atrybutów elementu
+    observer.observe(hiddenDateElement, {
+        attributes: true // Obserwujemy tylko zmiany atrybutów
+    });
+}
+
+// Wywołanie funkcji obserwującej po załadowaniu dokumentu
+document.addEventListener('DOMContentLoaded', (event) => {
+    startObservingDateChange();
+});
   
-      // Funkcja do rozpoczęcia obserwacji
-      function startObservingDateChange() {
-        const hiddenDateElement = document.getElementById('hiddenDate');
-        
-        // Konfiguracja MutationObserver
-        const observer = new MutationObserver(handleDateChange);
-        
-        // Obserwacja zmian atrybutów elementu
-        observer.observe(hiddenDateElement, {
-            attributes: true // Obserwujemy tylko zmiany atrybutów
-        });
-      }
   
-      // Wywołanie funkcji obserwującej po załadowaniu dokumentu
-      document.addEventListener('DOMContentLoaded', (event) => {
-        startObservingDateChange();
-      });
-  
-  
-  ///////////////////////////////////
-  
-  // FUNKCJE UNIKATOWE DLA PLIKU
-  
-  ///////////////////////////////////
+///////////////////////////////////
+
+// FUNKCJE UNIKATOWE DLA PLIKU
+
+///////////////////////////////////
 
 function generateRandomWord() {
     const availableWords = fullContentData.filter(word => !excludedWords.includes(word.lemma));
