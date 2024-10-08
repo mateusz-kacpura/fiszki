@@ -130,7 +130,7 @@ class User(UserMixin):
                             # Initialize config.json with the specified default content
                             default_config = {
                                 "language_1": "Polski",
-                                "language_2": "Angielski",
+                                "language_2": "Hiszpański",
                                 "theme": "light",
                                 "notifications": "email",
                                 "privacy": "public"

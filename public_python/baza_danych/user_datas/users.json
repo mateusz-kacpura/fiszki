@@ -6,5 +6,9 @@
     "9a1426fe-9700-461e-9520-3d675208c247": {
         "username": "test3",
         "password": "scrypt:32768:8:1$uXkx23OXhMNUzNrq$9f280a7a316b1f25cab667c87d4f30b48c426d25b128567d0bf47345b2fb3dd491dc7a42efc74adaaecd9d3af7aca35a7d8ae33eb9ec97aae07b5e933f64cb34"
+    },
+    "99b1eb18-bcbb-4640-8a39-dae268ea547c": {
+        "username": "umk",
+        "password": "scrypt:32768:8:1$3yAz7200EWignvUN$4048dd8641fc7df24c97928f7ecf5dfddaaaac47ed9cbf177882094b0b789c040da0b5d1b1c4c9d588d4f24c62c46a3db4809bc4c0ee9721bdf2457e039b23a3"
     }
 }

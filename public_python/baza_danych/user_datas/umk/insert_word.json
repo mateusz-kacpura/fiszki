@@ -1,0 +1,90 @@
+{
+    "texts": [
+        {
+            "uuid": "3a723eae-1f31-4010-9569-3b8c0f9330fb",
+            "name": "Guardian",
+            "tag": "Guardian",
+            "sentences": [
+                {
+                    "english": "In the US, the Axios news website is carrying a story suggesting that senior officials in the Biden administration have been losing trust in Benjamin Netanyahu’s Israeli government.",
+                    "missing_words": [
+                        {
+                            "word": "In",
+                            "position": 0
+                        }
+                    ]
+                },
+                {
+                    "english": "In the report by Barak Ravid, which Axios describes as a scoop, he writes:\n\nThe Biden administration has in recent weeks grown increasingly distrustful of what the Israeli government says about its military and diplomatic plans in the multi-front war it is fighting, four US officials told Axios.",
+                    "missing_words": [
+                        {
+                            "word": "which",
+                            "position": 7
+                        }
+                    ]
+                },
+                {
+                    "english": "“Our trust of the Israelis is very low right now and for a good reason,” one US official said.",
+                    "missing_words": [
+                        {
+                            "word": "low",
+                            "position": 8
+                        }
+                    ]
+                },
+                {
+                    "english": "Officials say the Biden administration has been surprised several times recently by Israeli military or intelligence operations.",
+                    "missing_words": [
+                        {
+                            "word": "administration",
+                            "position": 5
+                        }
+                    ]
+                },
+                {
+                    "english": "In some cases, the US wasn’t consulted or notified in advance.",
+                    "missing_words": [
+                        {
+                            "word": "some",
+                            "position": 2
+                        }
+                    ]
+                },
+                {
+                    "english": "Or, it was given a heads up as Israeli jets were already on their way to conduct an airstrike somewhere in the Middle East.",
+                    "missing_words": [
+                        {
+                            "word": "heads up",
+                            "position": [
+                                7,
+                                8
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "english": "US officials said secretary of defense Lloyd Austin was fuming when his Israeli counterpart Yoav Gallant told him about the [Hassan] Nasrallah assassination minutes before the Israeli jets dropped their bombs over Beirut.",
+                    "missing_words": [
+                        {
+                            "word": "secretary",
+                            "position": 4
+                        },
+                        {
+                            "word": "over",
+                            "position": 32
+                        }
+                    ]
+                },
+                {
+                    "english": "Austin saw it as a breach of trust by Gallant because the late notification didn’t allow the Pentagon to take measures to protect US forces in the region.",
+                    "missing_words": [
+                        {
+                            "word": "breach",
+                            "position": 6
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -693,7 +693,7 @@ data = [
         "definition": "To contain something as a part of something else.",
         "example": "The report includes several recommendations.",
         "example_translation": "Raport zawiera kilka zaleceń.",
-        "imageLink": "image_files\\English\\image_files/English/include.jpg",
+        "imageLink": "image_files/English/include.jpg",
         "audioLink": "audio_files/English/include.mp3"
     }
     # Dodaj więcej obiektów w miarę potrzeby
