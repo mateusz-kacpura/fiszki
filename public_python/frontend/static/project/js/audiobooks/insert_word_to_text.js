@@ -1,38 +1,3 @@
-{% extends "learn.html" %}
-
-{% block title %}Multi Learning{% endblock %}
-
-{% block learn %}
-
-<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
-
-<div class="row justify-content-center">
-    <!-- Lewa kolumna z kartą i wyborem słów -->
-    {% include 'learning/linkq/left_column.html' %}
-
-    <!-- Prawa kolumna z historią tłumaczeń -->
-    {% include 'learning/linkq/right_column.html' %}
-
-    <!-- Karta do wyboru tekstu -->
-    {% include 'learning/linkq/load_file_loader_card.html' %}
-
-    <!-- Miejsce na dynamiczne powiadomienia (alerty) -->
-    <div id="alert-container" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
-
-</div>
-
-<!-- Modal remains the same -->
-<div class="modal fade" id="translationModal" tabindex="-1" aria-labelledby="translationModalLabel" aria-hidden="true">
-    <!-- Modal content is the same -->
-</div>
-
-{% include 'learning/modals/edit-word-modal.html' %}
-
-{% endblock %}
-
-{% block scripts %}
-<script>
-    
 let actionBubble = null;
 let selectedTextName = "";
 let selectedWords = [];
@@ -44,20 +9,6 @@ const wordContainer = document.getElementById('image-container');
 
 let totalPages = 1;
 let allTexts = [];
-
-// Funkcja do wyświetlania alertów
-function showAlert(message, type = 'success') {
-    const alertContainer = document.getElementById('alert-container');
-    const alert = document.createElement('div');
-    alert.className = `alert alert-${type}`;
-    alert.innerText = message;
-    alertContainer.appendChild(alert);
-
-    // Usunięcie alertu po 3 sekundach
-    setTimeout(() => {
-        alert.remove();
-    }, 3000);
-}
 
 function showAlertOnceInInterval(message, type) {
     if (!alertShown) {
@@ -182,9 +133,7 @@ function fetchAndLoadText(textName) {
         activeItem.classList.add('active-text');
     }
 
-    if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;
-
-} // if exist actionBubble in html remove from html
+    if(actionBubble != null){document.body.removeChild(actionBubble);actionBubble = null;} // if exist actionBubble in html remove from html
 
 fetch(`/user/get_texts_data_for_insert_fot_text?name=${encodeURIComponent(textName)}`)
     .then(response => response.json())
@@ -749,6 +698,3 @@ document.getElementById('clear-history').addEventListener('click', function() {
     historyList.innerHTML = ''; // Usuwa wszystkie elementy
     showAlert('Wyczyszczono całą historię', 'warning');
 });
-
-</script>
-{% endblock %}

@@ -2,7 +2,7 @@ from flask import Blueprint, render_template, request, redirect, url_for, flash,
 from werkzeug.security import check_password_hash, generate_password_hash
 from flask_login import login_user, logout_user, login_required, current_user
 from backend.models.user_model import User
-from .forms import LoginForm, RegisterForm, ConfirmPasswordForm # Import the form classes
+from .forms import LoginForm, RegisterForm, DeleteAccountForm # Import the form classes
 
 auth_route = Blueprint('auth', __name__, url_prefix='/auth')
 
@@ -49,7 +49,7 @@ def register():
 @auth_route.route('/delete_user', methods=['GET', 'POST'])
 @login_required
 def delete_user():
-    form = ConfirmPasswordForm()  # Create form instance
+    form = DeleteAccountForm()  # Create form instance
     if form.validate_on_submit():  # Validates CSRF and form
         password = form.password.data
 

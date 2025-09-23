@@ -1,0 +1,35 @@
+{% extends "audiobooks.html" %}
+
+{% block title %}Multi Learning{% endblock %}
+
+{% block learn %}
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='project/css/learning.css') }}">
+
+<div class="row justify-content-center">
+    <!-- Lewa kolumna z kartą i wyborem słów -->
+    {% include 'audiobooks/linkq/left_column.html' %}
+
+    <!-- Prawa kolumna z historią tłumaczeń -->
+    {% include 'audiobooks/linkq/right_column.html' %}
+
+    <!-- Karta do wyboru tekstu -->
+    {% include 'audiobooks/linkq/load_file_loader_card.html' %}
+
+    <!-- Miejsce na dynamiczne powiadomienia (alerty) -->
+    <div id="alert-container" style="position: fixed; top: 10px; right: 10px; z-index: 1000;"></div>
+
+</div>
+
+<!-- Modal remains the same -->
+<div class="modal fade" id="translationModal" tabindex="-1" aria-labelledby="translationModalLabel" aria-hidden="true">
+    <!-- Modal content is the same -->
+</div>
+
+{% include 'learning/modals/edit-word-modal.html' %}
+
+{% endblock %}
+
+{% block scripts %}
+<script type="module" src="{{ url_for('static', filename='project/js/audiobooks/main.js') }}"></script>
+{% endblock %}

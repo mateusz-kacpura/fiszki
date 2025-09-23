@@ -1,3 +1,5 @@
+
+
 // Inicjalizacja zmiennych
 const uploadForm = document.getElementById('uploadForm');
 const textInput = document.getElementById('textInput');

@@ -32,6 +32,8 @@ def load_user_config_language_flag():
     selected_flag = None
     if language_1 in LANGUAGES and language_2 in LANGUAGES[language_1]:
         selected_flag = LANGUAGES[language_1][language_2]
+    elif language_2 in LANGUAGES and language_1 in LANGUAGES[language_2]:
+        selected_flag = LANGUAGES[language_2][language_1]
     else:
         print(f'Nie znaleziono flagi dla kombinacji {language_1} i {language_2}')
 

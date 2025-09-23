@@ -9,7 +9,7 @@ def modal_pop_up_for_image_learning():
     correctWord = request.args.get('correctWord')
     theme = request.args.get('theme', 'light')
     modalHeaderClass = 'bg-success text-white' if selectedWord == correctWord else 'bg-danger text-white'
-    modalTitle = 'Poprawna odpowiedĹş!' if selectedWord == correctWord else 'NieprawidĹ‚owa odpowiedĹş!'
+    modalTitle = 'Poprawna odpowiedź!' if selectedWord == correctWord else 'Nieprawidłowa odpowiedź!'
     modalMessage = modalTitle
     
     # Renderuj szablon modalnego okienka

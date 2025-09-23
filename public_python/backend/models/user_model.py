@@ -120,7 +120,8 @@ class User(UserMixin):
                     'history_translation.json', 
                     'insert_word.json', 
                     'sets.json', 
-                    'synonim_data.json'
+                    'synonim_data.json',
+                    'audioooks.json'
                 ]
 
                 for filename in files_to_create:

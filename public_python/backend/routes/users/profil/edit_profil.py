@@ -1,6 +1,6 @@
 from flask import render_template, request, redirect, url_for, flash
 from flask_login import current_user, login_required
-from backend.routes.forms import ProfileForm
+from backend.routes.forms import ProfileForm, DeleteAccountForm
 import json
 import config
 
@@ -19,28 +19,29 @@ def edit_profile():
     except (FileNotFoundError, json.JSONDecodeError):
         user_config = {}
 
-    form = ProfileForm()
+    profile_form = ProfileForm()
+    delete_form = DeleteAccountForm()
 
     # Set language choices dynamically from LANGUAGES
-    form.language_1.choices = [(lang, lang) for lang in LANGUAGES]
-    form.language_2.choices = [(lang, lang) for lang in LANGUAGES]
+    profile_form.language_1.choices = [(lang, lang) for lang in LANGUAGES]
+    profile_form.language_2.choices = [(lang, lang) for lang in LANGUAGES]
 
     # Pre-fill form with current user settings
     if request.method == 'GET':
-        form.language_1.data = user_config.get('language_1', '')
-        form.language_2.data = user_config.get('language_2', '')
-        form.theme.data = user_config.get('theme', 'light')
-        form.notifications.data = user_config.get('notifications', False)
-        form.privacy.data = user_config.get('privacy', 'public')
+        profile_form.language_1.data = user_config.get('language_1', '')
+        profile_form.language_2.data = user_config.get('language_2', '')
+        profile_form.theme.data = user_config.get('theme', 'light')
+        profile_form.notifications.data = user_config.get('notifications', False)
+        profile_form.privacy.data = user_config.get('privacy', 'public')
 
     # Process the form when submitted
-    if form.validate_on_submit():
+    if profile_form.validate_on_submit():
         user_config.update({
-            'language_1': form.language_1.data,
-            'language_2': form.language_2.data,
-            'theme': form.theme.data,
-            'notifications': form.notifications.data,
-            'privacy': form.privacy.data
+            'language_1': profile_form.language_1.data,
+            'language_2': profile_form.language_2.data,
+            'theme': profile_form.theme.data,
+            'notifications': profile_form.notifications.data,
+            'privacy': profile_form.privacy.data
         })
 
         try:
@@ -52,4 +53,4 @@ def edit_profile():
 
         return redirect(url_for('user.edit_profile'))
 
-    return render_template('profil/edit_profil.html', form=form)
+    return render_template('profil/edit_profil.html', profile_form=profile_form, delete_form=delete_form)

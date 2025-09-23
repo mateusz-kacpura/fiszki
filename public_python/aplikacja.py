@@ -3,6 +3,7 @@ from flask_login import LoginManager
 from flask_cors import CORS
 from backend.routes.auth_routes import auth_route
 from backend.routes.user_routes import user_route
+from backend.routes.api_routes import api_route
 from backend.models.user_model import User
 from flask_wtf.csrf import CSRFProtect
 import config 
@@ -28,6 +29,9 @@ app.register_blueprint(auth_route)
 
 # Drogi użytkownika
 app.register_blueprint(user_route)
+
+# Drogi API
+app.register_blueprint(api_route)
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -9,11 +9,11 @@ def modal_pop_up_for_multi_learning():
     theme = request.args.get('theme', 'light')
     isCorrect = userTranslation.lower() == correctTranslation.lower()
     modalHeaderClass = 'bg-success text-white' if isCorrect else 'bg-danger text-white'
-    modalTitle = 'Poprawna odpowiedĹş!' if isCorrect else 'NieprawidĹ‚owa odpowiedĹş!'
+    modalTitle = 'Poprawna odpowiedź!' if isCorrect else 'Nieprawidłowa odpowiedź!'
     modalMessage = modalTitle
     correctWordMessage = correctTranslation
-    fullSentenceMessage = ''  # MoĹĽesz tu dodaÄ‡ peĹ‚ne zdanie, jeĹ›li jest dostÄ™pne
-    sentenceTranslation = ''  # MoĹĽesz tu dodaÄ‡ tĹ‚umaczenie zdania, jeĹ›li jest dostÄ™pne
+    fullSentenceMessage = ''  # Możesz tu dodać pełne zdanie, jeśli jest dostępne
+    sentenceTranslation = ''  # Możesz tu dodać tłumaczenie zdania, jeśli jest dostępne
 
     # Renderuj szablon modalnego okienka
     modal_html = render_template(

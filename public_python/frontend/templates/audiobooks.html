@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Learning{% endblock %}
+
+{% block content %}
+{% include 'submenu/audiobooks.html' %}
+<div class="container mt-5" id="main-container">
+{% block learn %}
+{% endblock %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+{% endblock %}

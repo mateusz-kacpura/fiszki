@@ -1,0 +1,18 @@
+{
+    "texts": [
+        {
+            "uuid": "uuid-1",
+            "name": "Public Audiobook 1",
+            "tag": ["tag1", "tag2"],
+            "author": "Public Author 1",
+            "description": "Description of Public Audiobook 1"
+        },
+        {
+            "uuid": "uuid-2",
+            "name": "Public Audiobook 2",
+            "tag": ["tag2", "tag3"],
+            "author": "Public Author 2",
+            "description": "Description of Public Audiobook 2"
+        }
+    ]
+}

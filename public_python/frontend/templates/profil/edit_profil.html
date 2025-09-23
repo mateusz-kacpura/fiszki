@@ -18,23 +18,23 @@
             <!-- Sekcja Preferencji -->
             <div class="tab-pane fade show active" id="preferences" role="tabpanel" aria-labelledby="preferences-tab">
                 <form method="POST" class="mx-auto mt-4" style="max-width: 600px;">
-                    {{ form.hidden_tag() }}  <!-- Automatically renders CSRF token -->
+                    {{ profile_form.hidden_tag() }}  <!-- Automatically renders CSRF token -->
                     
                     <!-- Preferencje językowe -->
                     <div class="form-group mb-3">
                         <label for="language_1" class="form-label">Język 1:</label>
-                        {{ form.language_1(class="form-select form-control") }}  <!-- Use WTForms field -->
+                        {{ profile_form.language_1(class="form-select form-control") }}  <!-- Use WTForms field -->
                     </div>
 
                     <div class="form-group mb-3">
                         <label for="language_2" class="form-label">Język 2:</label>
-                        {{ form.language_2(class="form-select form-control") }}  <!-- Use WTForms field -->
+                        {{ profile_form.language_2(class="form-select form-control") }}  <!-- Use WTForms field -->
                     </div>
 
                     <!-- Ustawienia motywu -->
                     <div class="form-group mb-3">
                         <label for="theme" class="form-label">Motyw:</label>
-                        {{ form.theme(class="form-select form-control") }}  <!-- Use WTForms field -->
+                        {{ profile_form.theme(class="form-select form-control") }}  <!-- Use WTForms field -->
                     </div>
 
                     <!-- Powiadomienia -->
@@ -49,8 +49,8 @@
 
                     <!-- Prywatność -->
                     <div class="form-group mb-3">
-                        <label for="privacy" class="form-label">Prywatność profilu:</label>
-                        {{ form.privacy(class="form-select form-control") }}  <!-- Use WTForms field -->
+                        <label for="privacy" class-="form-label">Prywatność profilu:</label>
+                        {{ profile_form.privacy(class="form-select form-control") }}  <!-- Use WTForms field -->
                     </div>
 
                     <!-- Zastosowanie przycisku z Bootstrap -->
@@ -66,11 +66,11 @@
                 <p class="text-center mb-3">Are you sure you want to delete your account? This action cannot be undone.</p>
 
                 <form method="POST" action="{{ url_for('auth.delete_user') }}" class="mx-auto" style="max-width: 600px;">
-                    {{ form.hidden_tag() }}  <!-- This automatically renders the CSRF token -->
+                    {{ delete_form.hidden_tag() }}  <!-- This automatically renders the CSRF token -->
                     
                     <div class="form-group mb-3">
                         <label for="password" class="form-label">Enter your password to confirm:</label>
-                        {{ form.password(class="form-control") }}  <!-- Password input from the form object -->
+                        {{ delete_form.password(class="form-control") }}  <!-- Password input from the form object -->
                     </div>
                     
                     <div class="text-center">

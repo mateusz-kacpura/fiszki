@@ -47,11 +47,15 @@ from backend.routes.users.profil.edit_profil import edit_profile
 from backend.routes.users.profil.view_profil import view_profile
 from backend.routes.users.learn.load_files_for_learning import load_files_for_learning
 from backend.routes.users.learn.load_file_content import load_file
+from backend.routes.users.audiobooks.get_texts_data_for_audiobook import get_texts_data_for_audiobook
+from backend.routes.users.audiobooks.insert_texts_data_for_audiobook import insert_texts_data_for_audiobook
 
 user_route = Blueprint('user', __name__, url_prefix='/user', template_folder='templates')
 user_route.route('/process-words', methods=['POST'])(process_words)
 user_route.route('/get_texts_for_insert_words_to_text')(get_texts_for_insert_words_to_text)
 user_route.route('/get_texts_data_for_insert_fot_text')(get_texts_data_for_insert_fot_text)
+user_route.route('/get_texts_data_for_audiobook')(get_texts_data_for_audiobook)
+user_route.route('/insert_texts_data_for_audiobook')(insert_texts_data_for_audiobook)
 user_route.route('/load_files_for_learning')(load_files_for_learning)
 user_route.route('/load_file_content')(load_file)
 user_route.route('/save_history_translations_for_insert_words_to_text', methods=['POST'])(save_history_translations_for_insert_words_to_text)
@@ -64,7 +68,7 @@ user_route.route('/modals/modal_pop_up_for_multi_learning', methods=['GET'])(mod
 user_route.route('/edit_profile', methods=['GET', 'POST'])(edit_profile)
 user_route.route('/view_profile', methods=['GET'])(view_profile)
 
-# funkcja nie dziaĹ‚a w peĹ‚ni offline pomimo pobrania repozytoriĂłw whisper do folderu models
+# funkcja nie działa w pełni offline pomimo pobrania repozytoriów whisper do folderu models
 user_route.route('/real-time-speech-recognition', methods=['POST'])(real_time_speech_recognition)
 user_route.route('/text-to-speech', methods=['POST'])(text_to_speech)
 user_route.route('/text-to-speech-groq', methods=['POST'])(text_to_speech_groq) # taki model w groq obecnie nie istnieje
@@ -106,6 +110,7 @@ routes = [
     ('/', 'index.html', None, 'index'),
     ('/learn', 'learn.html', None, 'learn'),
     ('/manage', 'manage.html', None, 'manage'),
+    ('/audiobooks', 'audiobooks.html', None, 'audiobooks'),
     ('/profil', 'profil.html', None, 'profil'),
     ('/profil/edit_profil', 'profil/edit_profil.html', None, 'edit_profil'),
     ('/learning/sentences_learning', 'learning/sentences_learning.html', None, 'sentences_learning'),
@@ -115,7 +120,8 @@ routes = [
     ('/learning/definition', 'learning/definition.html', None, 'definition'),
     ('/learning/single_word_learning', 'learning/single_word_learning.html', "Language Quiz", 'single_word_learning'),
     ('/learning/image_words_learning', 'learning/image_words_learning.html', "Image learning", 'image_words_learning'),
-    ('/learning/insert_word_to_text', 'learning/insert_word_to_text.html', 'Insert word to text', 'insert_word_to_text'),
+    ('/audiobooks/audiobook', 'audiobooks/audiobook.html', 'audiobook', 'audiobook'),
+    ('/audiobooks/insert_word_to_text', 'audiobooks/insert_word_to_text.html', 'Insert word to text', 'insert_word_to_text'),
     ('/learning/synonims', 'learning/insert_synonims_to_text.html', 'Insert synonims to text', 'insert_synonims_to_text'),
     ('/manage/exel', 'manage/exel.html', 'Excel', 'exel'),
     ('/manage/load_text', 'manage/load_text.html', 'load_text', 'load_text'),
